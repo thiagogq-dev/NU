@@ -13,4 +13,4 @@ with open(json_file) as f:
 
         os.chdir("pyszz_v2/repos_dir")
         print(f"Cloning {repo_name}")
-        os.system(f"git clone  git clone https://github.com/{repo_name}.git")
+        os.system(f"git clone  git clone https://github.com/{repo_name}.git {repo_name}")
