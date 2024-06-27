@@ -42,7 +42,7 @@ jobs:
 
     - name: Clone Repositories
       run: |
-        python clone_repositories.py
+        python clone_repositories.py ${{ matrix.file }}
       
     - name: Set up Python
       uses: actions/setup-python@v5.1.0

@@ -1,9 +1,11 @@
 import json
 import os
+import sys
 
 os.makedirs("repos_dir", exist_ok=True)
+json_file = sys.argv[1]
 
-with open("NVD-selected-NONSECUR.json") as f:
+with open(json_file) as f:
     data = json.load(f)
     for entry in data:
         repo_name = entry["repo_name"]
