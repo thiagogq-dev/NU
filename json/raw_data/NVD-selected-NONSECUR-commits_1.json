@@ -1,0 +1,902 @@
+[
+    {
+        "repo_name": "GoogleCloudPlatform/iot-device-sdk-embedded-c",
+        "Target PR": "https://github.com/GoogleCloudPlatform/iot-device-sdk-embedded-c/pull/119",
+        "Target Commit SHA": "96018ab742975e1a4fc45857bb16140e52297041",
+        "Closest PR": "https://github.com/GoogleCloudPlatform/iot-device-sdk-embedded-c/pull/120",
+        "Closest Commit SHA": "726458492602cd6c93f17e670daaefefd732c5ea",
+        "Title": "Fix fuzz_test checkout",
+        "Created At": "2021-04-09T13:57:36Z"
+    },
+    {
+        "repo_name": "ScottTZhang/voter-js",
+        "Target PR": "https://github.com/ScottTZhang/voter-js/pull/15",
+        "Target Commit SHA": "6317c67a56061aeeaeed3cf9ec665fd9983d8044",
+        "Closest PR": "https://github.com/ScottTZhang/voter-js/pull/14",
+        "Closest Commit SHA": "0bc5bca5187acc463c4ba881101ce87af24f9b85",
+        "Title": "fix render to send",
+        "Created At": "2014-12-01T03:39:34Z"
+    },
+    {
+        "repo_name": "JustArchiNET/ArchiSteamFarm",
+        "Target PR": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2501",
+        "Target Commit SHA": "4258fed8732591a58d86362377a2aabe7dac3d84",
+        "Closest PR": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2772",
+        "Closest Commit SHA": "981b347bd4d9626098f3d344dbe2fa023baefcb0",
+        "Title": "Fix parsing of possibly completed AppIDs",
+        "Created At": "2022-12-21T15:14:27Z"
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/2081",
+        "Target Commit SHA": "3216ebf59e698b6dc71d0ba3e8052d5d5e09d2bd",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/2530",
+        "Closest Commit SHA": "6cfd952f886d8c901da58a0399a80649aad9032c",
+        "Title": "cooja: use fixed-size clock_time_t size",
+        "Created At": "2023-07-17T09:06:13Z"
+    },
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/6250",
+        "Target Commit SHA": "f2caf7d0b9db58b59e98506490aaca37fbf243b6",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7313",
+        "Closest Commit SHA": "a7c5c9f47e33fbd1da4c8090aef3ccc36958eb27",
+        "Title": "build(deps-dev): bump sass from 1.77.4 to 1.77.5 in /core/web-assets",
+        "Created At": "2024-06-12T13:40:57Z"
+    },
+    {
+        "repo_name": "neutrinolabs/xrdp",
+        "Target PR": "https://github.com/neutrinolabs/xrdp/pull/958",
+        "Target Commit SHA": "d958d1f0186968200da32bafc3d9be4a4aa7212d",
+        "Closest PR": "https://github.com/neutrinolabs/xrdp/pull/1233",
+        "Closest Commit SHA": "393bace7def896af9d428f104498c1a87ed6ad17",
+        "Title": "Fix two issues with Microsoft Remote Desktop for MAC",
+        "Created At": "2018-10-24T07:48:20Z"
+    },
+    {
+        "repo_name": "modxcms/revolution",
+        "Target PR": "https://github.com/modxcms/revolution/pull/13177",
+        "Target Commit SHA": "d3df889703f712e71eb0cdca4f9b316731f51143",
+        "Closest PR": "https://github.com/modxcms/revolution/pull/13690",
+        "Closest Commit SHA": "137acb4939cad144ef7140e02b35e726b4645aa2",
+        "Title": "Fixing 'Flush Your Permissions' in topmenu",
+        "Created At": "2017-11-14T19:30:58Z"
+    },
+    {
+        "repo_name": "openscad/openscad",
+        "Target PR": "https://github.com/openscad/openscad/pull/4044",
+        "Target Commit SHA": "78a82cf31767bda6969d8ea2eb851dc24c12b4b0",
+        "Closest PR": "https://github.com/openscad/openscad/pull/4488",
+        "Closest Commit SHA": "5f92c4d297bcdeb5af745bee249842b196491bdd",
+        "Title": "Correct use of \"-nightly\" icons suffix for snapshots builds",
+        "Created At": "2023-01-03T06:24:57Z"
+    },
+    {
+        "repo_name": "kogmbh/WebODF",
+        "Target PR": "https://github.com/kogmbh/WebODF/pull/851",
+        "Target Commit SHA": "3dbc60a30a43b289b29a6cbed9314146a8efed3b",
+        "Closest PR": "https://github.com/webodf/WebODF/pull/908",
+        "Closest Commit SHA": "b9e9150ade8560f538374f49c116489af2475bbd",
+        "Title": "Let inserted image dimensions be in centimeters",
+        "Created At": "2015-07-02T01:49:02Z"
+    },
+    {
+        "repo_name": "ory/oathkeeper",
+        "Target PR": "https://github.com/ory/oathkeeper/pull/424",
+        "Target Commit SHA": "d4557aeac69e84d36dfc2a1ab97c61188c93457f",
+        "Closest PR": "https://github.com/ory/oathkeeper/pull/710",
+        "Closest Commit SHA": null,
+        "Title": "feat: Timeouts for Remote Authorizer",
+        "Created At": "2021-04-27T17:09:33Z"
+    },
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "Target PR": "https://github.com/kubeedge/kubeedge/pull/3899",
+        "Target Commit SHA": "ea23549e21ea13b99383521def5fb02f683ef509",
+        "Closest PR": "https://github.com/kubeedge/kubeedge/pull/4811",
+        "Closest Commit SHA": "f333672eda1b555843ff77442f910eb7747a0f62",
+        "Title": "New reader",
+        "Created At": "2023-06-01T08:12:09Z"
+    },
+    {
+        "repo_name": "ericcornelissen/shescape",
+        "Target PR": "https://github.com/ericcornelissen/shescape/pull/982",
+        "Target Commit SHA": "d0fce70f987ac0d8331f93cb45d47e79436173ac",
+        "Closest PR": "https://github.com/ericcornelissen/shescape/pull/1600",
+        "Closest Commit SHA": "cf8e2d2c0de228fe34dd97c3d4f9921cf0272a18",
+        "Title": "Bump eslint-plugin-jsdoc from 48.2.7 to 48.2.11",
+        "Created At": "2024-06-14T05:52:24Z"
+    },
+    {
+        "repo_name": "CESNET/proxystatistics-simplesamlphp-module",
+        "Target PR": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/18",
+        "Target Commit SHA": "fb8b586183bd767d71f41587de20485493dfba0f",
+        "Closest PR": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/21",
+        "Closest Commit SHA": "b90482f703eca9e93e22a9db9da47a72c1461e27",
+        "Title": "Move Javascript from inline to external",
+        "Created At": "2019-06-12T14:52:00Z"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/744",
+        "Target Commit SHA": "aacfc24548cbf168579d2e13b2ddaf8ded715d36",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/1334",
+        "Closest Commit SHA": "4e3e54c8ecf74eba6fbd38913855c4a45300c01f",
+        "Title": "Addressing random BadNameSpace error by including the 'always_connect' option to Socket.io",
+        "Created At": "2024-06-14T13:22:44Z"
+    },
+    {
+        "repo_name": "TryGhost/Ghost",
+        "Target PR": "https://github.com/TryGhost/Ghost/pull/17190",
+        "Target Commit SHA": "dc7e2b9261555f4a1a160ea4369e9d9578194358",
+        "Closest PR": "https://github.com/TryGhost/Ghost/pull/20390",
+        "Closest Commit SHA": "710488ef82eed7cef57c5adb97d3fda2e79e6ea5",
+        "Title": "Update dependency mysql2 to v3.10.1",
+        "Created At": "2024-06-14T00:38:06Z"
+    },
+    {
+        "repo_name": "nextcloud/text",
+        "Target PR": "https://github.com/nextcloud/text/pull/4877",
+        "Target Commit SHA": "6972cf1d4f83eaf400b1fb6c405f87c28501a55d",
+        "Closest PR": "https://github.com/nextcloud/text/pull/5909",
+        "Closest Commit SHA": "42edd8c7e951f7e8d189dc14026ea75597735eda",
+        "Title": "fix(deps): update dependency @nextcloud/dialogs to ^5.3.2 (stable29)",
+        "Created At": "2024-06-15T12:15:32Z"
+    },
+    {
+        "repo_name": "bitly/oauth2_proxy",
+        "Target PR": "https://github.com/bitly/oauth2_proxy/pull/360",
+        "Target Commit SHA": "4464655276877f1951fddf238cdfeca3cbca83ef",
+        "Closest PR": "https://github.com/bitly/oauth2_proxy/pull/574",
+        "Closest Commit SHA": "c337e1142213954dac21ad343a46566dda6fc788",
+        "Title": "Fix fsnotify package name",
+        "Created At": "2018-03-26T14:08:38Z"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/30291",
+        "Target Commit SHA": "c47406ad3cc1606d7357af6c32c4fa7dd0ac53a7",
+        "Closest PR": "https://github.com/nextcloud/server/pull/35785",
+        "Closest Commit SHA": "99382a094c550ee725856290e05f915e4b05c5d7",
+        "Title": "Replace custom tooltips with native one for files sharing",
+        "Created At": "2022-12-15T14:46:33Z"
+    },
+    {
+        "repo_name": "i18next/i18next",
+        "Target PR": "https://github.com/i18next/i18next/pull/443",
+        "Target Commit SHA": "2478ecaa933352afd29d22efe8ee85581ea2be4e",
+        "Closest PR": "https://github.com/i18next/i18next/pull/826",
+        "Closest Commit SHA": "11f059599889d857d497aa0499355be32df0dbb6",
+        "Title": "Fix Interpolator.escapeValue defaulting to undefined in some cases",
+        "Created At": "2016-10-13T20:01:34Z"
+    },
+    {
+        "repo_name": "autovance/ftp-srv",
+        "Target PR": "https://github.com/autovance/ftp-srv/pull/224",
+        "Target Commit SHA": "457b859450a37cba10ff3c431eb4aa67771122e3",
+        "Closest PR": "https://github.com/QuorumDMS/ftp-srv/pull/274",
+        "Closest Commit SHA": "e1f1aa09cd98c41f36e8657d0346bc2e7646ecae",
+        "Title": "chore(deps): bump path-parse from 1.0.6 to 1.0.7",
+        "Created At": "2021-11-04T20:48:58Z"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "Target PR": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/4481",
+        "Target Commit SHA": "28d9ac2bdb321b24fe06b8b916ee2962889f772b",
+        "Closest PR": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/5080",
+        "Closest Commit SHA": "8a990e6d6a56265ec3e4728338824b113df5f8bd",
+        "Title": "Avoid storing hashing function pointers in storage make MerkleTree structure upgrade-safe",
+        "Created At": "2024-06-12T16:33:17Z"
+    },
+    {
+        "repo_name": "ucfopen/Materia",
+        "Target PR": "https://github.com/ucfopen/Materia/pull/1371",
+        "Target Commit SHA": "af259115d2e8f17068e61902151ee8a9dbac397b",
+        "Closest PR": "https://github.com/ucfopen/Materia/pull/1468",
+        "Closest Commit SHA": "914c771dfebd0b8fcd6412df460ad130f2c75b43",
+        "Title": "React fixes and polish, part four",
+        "Created At": "2023-04-05T19:24:00Z"
+    },
+    {
+        "repo_name": "nim-lang/Nim",
+        "Target PR": "https://github.com/nim-lang/Nim/pull/16940",
+        "Target Commit SHA": "abac35e7437dd1ac2b3687dfa51de7f9d4b6e853",
+        "Closest PR": "https://github.com/nim-lang/Nim/pull/19487",
+        "Closest Commit SHA": "516db3bac389ea554166ee1a6671b5005159a30a",
+        "Title": "Fix typo trailing space",
+        "Created At": "2022-02-03T22:55:20Z"
+    },
+    {
+        "repo_name": "mantisbt/mantisbt",
+        "Target PR": "https://github.com/mantisbt/mantisbt/pull/1094",
+        "Target Commit SHA": "bdb901b67b96e65ca05f57fbfdfe6dec4f499677",
+        "Closest PR": "https://github.com/mantisbt/mantisbt/pull/1334",
+        "Closest Commit SHA": "7bc6b57965f9626f2b64c118f56f51c3dfd33a6b",
+        "Title": "Remove soap folder check",
+        "Created At": "2018-04-16T20:51:54Z"
+    },
+    {
+        "repo_name": "webtorrent/webtorrent",
+        "Target PR": "https://github.com/webtorrent/webtorrent/pull/1714",
+        "Target Commit SHA": "7e829b5d52c32d2e6d8f5fbcf0f8f418fffde083",
+        "Closest PR": "https://github.com/webtorrent/webtorrent/pull/1905",
+        "Closest Commit SHA": "dc31f98205e8beac4f11327948c04cc256cbb2ad",
+        "Title": "Updated Readme",
+        "Created At": "2020-08-16T16:00:27Z"
+    },
+    {
+        "repo_name": "gin-gonic/gin",
+        "Target PR": "https://github.com/gin-gonic/gin/pull/3500",
+        "Target Commit SHA": "81ac7d55a09e34013225db0aeac6e70c1ae68928",
+        "Closest PR": "https://github.com/gin-gonic/gin/pull/3845",
+        "Closest Commit SHA": "fb60f4b3d2e9280a8e3b13c8bd28cc3413424c9b",
+        "Title": "chore(deps): bump golangci/golangci-lint-action from 3.7.0 to 4.0.0",
+        "Created At": "2024-02-12T22:12:50Z"
+    },
+    {
+        "repo_name": "YourAcclaim/block_acclaim",
+        "Target PR": "https://github.com/YourAcclaim/block_acclaim/pull/18",
+        "Target Commit SHA": "703318ab3ddae7690903284875ff12e907b4fea2",
+        "Closest PR": "https://github.com/YourAcclaim/block_acclaim/pull/40",
+        "Closest Commit SHA": "bdb7627c2a67351e8015246410add24140b14e10",
+        "Title": "Select badge UI not saving",
+        "Created At": "2020-06-05T17:08:32Z"
+    },
+    {
+        "repo_name": "argoproj/argo-events",
+        "Target PR": "https://github.com/argoproj/argo-events/pull/1966",
+        "Target Commit SHA": "143f8beb81e87af523dd15a6de850c5e6a0e8f59",
+        "Closest PR": "https://github.com/argoproj/argo-events/pull/2613",
+        "Closest Commit SHA": "07eaa2e445b0224fb22bb851c009231845bae5b9",
+        "Title": "chore(deps): bump github.com/cloudflare/circl from 1.1.0 to 1.3.3",
+        "Created At": "2023-05-11T20:46:22Z"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/28078",
+        "Target Commit SHA": "41eec84ade3541574b0ffa966d13915b407f5c5f",
+        "Closest PR": "https://github.com/nextcloud/server/pull/33300",
+        "Closest Commit SHA": "5edab673a7b39dd552b344c5de25faa5ac56a5ac",
+        "Title": "dashboard: Fix dark theme detection",
+        "Created At": "2022-07-20T19:23:38Z"
+    },
+    {
+        "repo_name": "Ahwxorg/LibreY",
+        "Target PR": "https://github.com/Ahwxorg/LibreY/pull/31",
+        "Target Commit SHA": "8f9b9803f231e2954e5b49987a532d28fe50a627",
+        "Closest PR": "https://github.com/Ahwxorg/LibreY/pull/148",
+        "Closest Commit SHA": "bd8287ee3934de5c1f84aeee829938ad79f758ab",
+        "Title": "feat(instances.json): librey.nirn.quest ",
+        "Created At": "2024-05-11T00:43:31Z"
+    },
+    {
+        "repo_name": "Kozea/Radicale",
+        "Target PR": "https://github.com/Kozea/Radicale/pull/341",
+        "Target Commit SHA": "1109973a925970353dfd13c6df8de0e4e446d983",
+        "Closest PR": "https://github.com/Kozea/Radicale/pull/536",
+        "Closest Commit SHA": "38f8c18860abb9d5adb21a1a93f97273770548da",
+        "Title": "fix encoding",
+        "Created At": "2016-11-13T15:06:32Z"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/711",
+        "Target Commit SHA": "86564e103cbac5238ce2fe392e3357e0e8c20220",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/1325",
+        "Closest Commit SHA": "878ef072f2d845e5c176e9965582914b33dd79b0",
+        "Title": "Bump braces from 3.0.2 to 3.0.3 in /vantage6-ui",
+        "Created At": "2024-06-13T08:35:02Z"
+    },
+    {
+        "repo_name": "gagliardetto/binary",
+        "Target PR": "https://github.com/gagliardetto/binary/pull/7",
+        "Target Commit SHA": "2b2638040b6d1921df7e9247b441a630ba80d517",
+        "Closest PR": "https://github.com/gagliardetto/binary/pull/6",
+        "Closest Commit SHA": "60963137589d09158532c71767a7a1f113821a20",
+        "Title": "decoder: add slice len bounds checks",
+        "Created At": "2022-08-20T08:06:35Z"
+    },
+    {
+        "repo_name": "nextcloud/spreed",
+        "Target PR": "https://github.com/nextcloud/spreed/pull/7535",
+        "Target Commit SHA": "7f33ad49df6c7d77173c6c9748e0f4e3cf381e4f",
+        "Closest PR": "https://github.com/nextcloud/spreed/pull/9897",
+        "Closest Commit SHA": "ac00edaf32b75d7c6ac2be24ebb0d50757cdcd58",
+        "Title": "fix(MessagesList) - performance, search fixes and minor refactoring",
+        "Created At": "2023-07-04T15:37:51Z"
+    },
+    {
+        "repo_name": "vercel/ms",
+        "Target PR": "https://github.com/vercel/ms/pull/89",
+        "Target Commit SHA": "caae2988ba2a37765d055c4eee63d383320ee662",
+        "Closest PR": "https://github.com/vercel/ms/pull/104",
+        "Closest Commit SHA": "b8acd77e258cd7b77e80a9655d05759f4134fd92",
+        "Title": "Add full support for negative numbers",
+        "Created At": "2017-11-30T18:03:38Z"
+    },
+    {
+        "repo_name": "apache/trafficserver",
+        "Target PR": "https://github.com/apache/trafficserver/pull/10564",
+        "Target Commit SHA": "b28ad74f117307e8de206f1de70c3fa716f90682",
+        "Closest PR": "https://github.com/apache/trafficserver/pull/11452",
+        "Closest Commit SHA": "d7e9b6b699f567e9afc75bc3f9eaf5df73f57046",
+        "Title": "Fix unused parameters in iocore",
+        "Created At": "2024-06-15T04:20:18Z"
+    },
+    {
+        "repo_name": "mpruett/audiofile",
+        "Target PR": "https://github.com/mpruett/audiofile/pull/42",
+        "Target Commit SHA": "f30e9ab09cbc7bde366b512a2007b38aa2630cbc",
+        "Closest PR": "https://github.com/mpruett/audiofile/pull/45",
+        "Closest Commit SHA": "6c1322f67b3ca79c3f65478bc7fe18aea29375db",
+        "Title": "Fix static linking with libsndfile",
+        "Created At": "2017-05-27T16:02:52Z"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "Target PR": "https://github.com/twbs/bootstrap/pull/26630",
+        "Target Commit SHA": "cc61edfa8af7b5ec9d4888c59bf94377e499b78b",
+        "Closest PR": "https://github.com/twbs/bootstrap/pull/28834",
+        "Closest Commit SHA": "24abed13369469c174acbec5e5939e252b29936f",
+        "Title": "Fix keyboard handling of button-style checkbox/radio button groups",
+        "Created At": "2019-05-27T22:18:55Z"
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "Target PR": "https://github.com/go-gitea/gitea/pull/21463",
+        "Target Commit SHA": "cd48a007bb85ba071ed175a6376b9e392e2c49b6",
+        "Closest PR": "https://github.com/go-gitea/gitea/pull/27627",
+        "Closest Commit SHA": "6cef7a767b649aa250ea902042c719d1c87d678d",
+        "Title": "fix duplicated icon in repolist",
+        "Created At": "2023-10-14T20:15:28Z"
+    },
+    {
+        "repo_name": "omrilotan/async-git",
+        "Target PR": "https://github.com/omrilotan/async-git/pull/14",
+        "Target Commit SHA": "d1950a5021f4e19d92f347614be0d85ce991510d",
+        "Closest PR": "https://github.com/omrilotan/async-git/pull/34",
+        "Closest Commit SHA": "0a44dfeabc17e9cb53e69c931493cc2fc5197317",
+        "Title": "Bump eslint from 7.32.0 to 8.5.0",
+        "Created At": "2021-12-20T03:08:14Z"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/2691",
+        "Target Commit SHA": "465b48ed4e4af52493df1febe4687f53032a5e0a",
+        "Closest PR": "https://github.com/pallets/flask/pull/3137",
+        "Closest Commit SHA": "eadb99eb93aa21cae3ce907006e62818319fbff7",
+        "Title": "Update CONTRIBUTING.rst discord link + style info",
+        "Created At": "2019-04-03T08:47:28Z"
+    },
+    {
+        "repo_name": "quinn-rs/quinn",
+        "Target PR": "https://github.com/quinn-rs/quinn/pull/1667",
+        "Target Commit SHA": "f81c2fafa7381a826c76506126b217c584082177",
+        "Closest PR": "https://github.com/quinn-rs/quinn/pull/1893",
+        "Closest Commit SHA": "bd9a350630995a19bf6d21ab3388c2013c26494a",
+        "Title": "Fix debug assert with reordered ACKs",
+        "Created At": "2024-06-07T22:11:13Z"
+    },
+    {
+        "repo_name": "containous/traefik",
+        "Target PR": "https://github.com/containous/traefik/pull/6281",
+        "Target Commit SHA": "b498c7bcbb255af649a4842511a585929ca14d3f",
+        "Closest PR": "https://github.com/traefik/traefik/pull/7860",
+        "Closest Commit SHA": "16d00ccffb284bdd06636d85fa3533acca29fb24",
+        "Title": "Fix the static reference documentation for the internal redirection router",
+        "Created At": "2021-02-04T10:23:58Z"
+    },
+    {
+        "repo_name": "pyca/pyopenssl",
+        "Target PR": "https://github.com/pyca/pyopenssl/pull/723",
+        "Target Commit SHA": "e73818600065821d588af475b024f4eb518c3509",
+        "Closest PR": "https://github.com/pyca/pyopenssl/pull/802",
+        "Closest Commit SHA": "4121e2555d07bbba501ac237408a0eea1b41f467",
+        "Title": "Fixes incorrect rtype in documentation",
+        "Created At": "2018-10-19T07:02:20Z"
+    },
+    {
+        "repo_name": "minio/minio",
+        "Target PR": "https://github.com/minio/minio/pull/14729",
+        "Target Commit SHA": "66b14a0d32684d527ae8018dc6d9d46ccce58ae3",
+        "Closest PR": "https://github.com/minio/minio/pull/17014",
+        "Closest Commit SHA": "d350654aeecb76ab797e5471d7074598f7e503ec",
+        "Title": "config: fix duplication of replication priority key",
+        "Created At": "2023-04-11T18:04:57Z"
+    },
+    {
+        "repo_name": "drogonframework/drogon",
+        "Target PR": "https://github.com/drogonframework/drogon/pull/1174",
+        "Target Commit SHA": "3c785326c63a34aa1799a639ae185bc9453cb447",
+        "Closest PR": "https://github.com/drogonframework/drogon/pull/1504",
+        "Closest Commit SHA": "54d96963f36a783b90889ea2e85135b2f9f5691f",
+        "Title": "Use weakptr instead of shared_ptr",
+        "Created At": "2023-02-06T17:47:36Z"
+    },
+    {
+        "repo_name": "yargs/y18n",
+        "Target PR": "https://github.com/yargs/y18n/pull/108",
+        "Target Commit SHA": "a9ac604abf756dec9687be3843e2c93bfe581f25",
+        "Closest PR": "https://github.com/yargs/y18n/pull/139",
+        "Closest Commit SHA": "837813b982ac7e23acd0eee93e40e5af5cc0a63a",
+        "Title": "chore(deps): update dependency mocha to v9 - abandoned",
+        "Created At": "2021-06-07T17:08:16Z"
+    },
+    {
+        "repo_name": "orchest/orchest",
+        "Target PR": "https://github.com/orchest/orchest/pull/1324",
+        "Target Commit SHA": "3692eadcf0de10fbaae04ae31aa28bb16b1df386",
+        "Closest PR": "https://github.com/orchest/orchest/pull/1534",
+        "Closest Commit SHA": "3748b8f7fbbe1f805c67b4c4129c7f4dfdbf04ca",
+        "Title": "Update docs",
+        "Created At": "2023-06-06T08:42:52Z"
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "Target PR": "https://github.com/go-gitea/gitea/pull/4664",
+        "Target Commit SHA": "194a11eb110cd98fc2ba52861abf7770db6885a3",
+        "Closest PR": "https://github.com/go-gitea/gitea/pull/7817",
+        "Closest Commit SHA": "80d2c2575b78eb5ea7193b9fe98d7c3ad6409605",
+        "Title": "app.ini.sample grammar fix",
+        "Created At": "2019-08-10T18:33:32Z"
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "Target PR": "https://github.com/discourse/discourse/pull/20009",
+        "Target Commit SHA": "1a5a6f66cb821ed29a737311d6fdc2eba5adc915",
+        "Closest PR": "https://github.com/discourse/discourse/pull/25418",
+        "Closest Commit SHA": "241eaadc26cd36450e14457dbac24a6e060d5ce7",
+        "Title": "FIX: Computed property override error for webhook.categories",
+        "Created At": "2024-01-25T11:53:24Z"
+    },
+    {
+        "repo_name": "projectdiscovery/interactsh",
+        "Target PR": "https://github.com/projectdiscovery/interactsh/pull/155",
+        "Target Commit SHA": "30135c8377ccba2c21c26ba5b9f7eadd3afabaf0",
+        "Closest PR": "https://github.com/projectdiscovery/interactsh/pull/425",
+        "Closest Commit SHA": "3b66677ea82821ebcff2fb8f6a2d31aa8036fa7c",
+        "Title": "chore(deps): bump goreleaser/goreleaser-action from 3 to 4",
+        "Created At": "2022-12-19T01:35:18Z"
+    },
+    {
+        "repo_name": "mumble-voip/mumble",
+        "Target PR": "https://github.com/mumble-voip/mumble/pull/3512",
+        "Target Commit SHA": "f7221c14efa14c4c73b64782673d309e97f87e61",
+        "Closest PR": "https://github.com/mumble-voip/mumble/pull/3772",
+        "Closest Commit SHA": "9f442e1a2279c2a898a7c018a709f2ecf298f8a2",
+        "Title": "compiler.pri: disable warnings for deprecated stuff",
+        "Created At": "2019-08-29T08:03:54Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/49569",
+        "Target Commit SHA": "ba4c2ebeac9ee801bfedff05f504c71da0dd2bc2",
+        "Closest PR": "https://github.com/ansible/ansible/pull/65578",
+        "Closest Commit SHA": "eaba5572cd1f206ae850c6730d50f32c58cc3131",
+        "Title": "ansible-galaxy - expand User-Agent string for Galaxy endpoints",
+        "Created At": "2019-12-05T21:25:24Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/24065",
+        "Target Commit SHA": "4c5eabfa921a55193e890f89dcb74d2db4d8e22a",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33997",
+        "Closest Commit SHA": "f6f951cc1709a23fa0a6e4d74337667f90a03af1",
+        "Title": "Guideline: Fix violations for rule 10.4",
+        "Created At": "2021-04-03T06:13:59Z"
+    },
+    {
+        "repo_name": "goauthentik/authentik",
+        "Target PR": "https://github.com/goauthentik/authentik/pull/7669",
+        "Target Commit SHA": "3af77ab3821fe9c7df8055ba5eade3d1ecea03a6",
+        "Closest PR": "https://github.com/goauthentik/authentik/pull/10124",
+        "Closest Commit SHA": "49e7c5b8734b25e9377bbb4582f5716812fd2ede",
+        "Title": "policies/reputation: fix existing reputation update",
+        "Created At": "2024-06-16T14:21:28Z"
+    },
+    {
+        "repo_name": "minio/minio",
+        "Target PR": "https://github.com/minio/minio/pull/13976",
+        "Target Commit SHA": "5a96cbbeaabd0a82b0fe881378e7c21c85091abf",
+        "Closest PR": "https://github.com/minio/minio/pull/16301",
+        "Closest Commit SHA": "48152a56ac6aa127895caf2a521372f67970eae9",
+        "Title": "upgrade UBI image to 8.7",
+        "Created At": "2022-12-22T18:17:56Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/27865",
+        "Target Commit SHA": "9974a2a76afe765c5c9652e58b76580a75f1dacd",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/38079",
+        "Closest Commit SHA": null,
+        "Title": "manifest: update SOF module",
+        "Created At": "2021-08-27T22:11:12Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23190",
+        "Target Commit SHA": "105849cf38bf8e1ac9e2bcdca559f5da1b4c0034",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32777",
+        "Closest Commit SHA": "e1d22a0b6117d2f21d456c202b2feb711b5f54ff",
+        "Title": "drivers: i2c_ll_stm32_v2: Add timeout on transfer",
+        "Created At": "2021-03-02T11:18:03Z"
+    },
+    {
+        "repo_name": "frappe/frappe",
+        "Target PR": "https://github.com/frappe/frappe/pull/8045",
+        "Target Commit SHA": "63b2f1d403418768012343e64261303030b48849",
+        "Closest PR": "https://github.com/frappe/frappe/pull/11135",
+        "Closest Commit SHA": "1452ada65d9baf4468f7b77ef30ebde263daa1e5",
+        "Title": "fix: do not sanitize code field (bp #11133)",
+        "Created At": "2020-07-28T14:47:25Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/30779",
+        "Target Commit SHA": "9c936208f46735269bec98a2038bd065e5581591",
+        "Closest PR": "https://github.com/apache/airflow/pull/39142",
+        "Closest Commit SHA": "acc2338aed8d789503dca7fba262b326eeb5c117",
+        "Title": "Fix stacklevel for TaskContextLogger",
+        "Created At": "2024-04-19T20:31:52Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1536",
+        "Target Commit SHA": "d38a9e7cfec1bc4f3e369f44fb99c505b087ed90",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2197",
+        "Closest Commit SHA": "25c47cd1cfca4b6dd2acd2f18c717d704b5f6fca",
+        "Title": "Refactoring in JpegImage and Photoshop classes",
+        "Created At": "2022-04-07T15:46:00Z"
+    },
+    {
+        "repo_name": "wso2/carbon-apimgt",
+        "Target PR": "https://github.com/wso2/carbon-apimgt/pull/5844",
+        "Target Commit SHA": "c56a6d7070e1bcda6db0b5e50af0751c34274b9c",
+        "Closest PR": "https://github.com/wso2/carbon-apimgt/pull/7830",
+        "Closest Commit SHA": "f6b018988a06ef0f5f8b1e4dbb6e9814bfce9084",
+        "Title": "Bump org.wso2.carbon.identity.recovery from 1.3.15 to 1.3.18",
+        "Created At": "2019-10-30T16:32:52Z"
+    },
+    {
+        "repo_name": "edx/RecommenderXBlock",
+        "Target PR": "https://github.com/edx/RecommenderXBlock/pull/2",
+        "Target Commit SHA": "2c5e36fbf6f7577a517115df60bdb0cf7e2e17ed",
+        "Closest PR": "https://github.com/openedx/RecommenderXBlock/pull/10",
+        "Closest Commit SHA": "c5c99a610a71dd769f91c4848593b652a700f32a",
+        "Title": "[INCR-92] Run python-modernize on RecommenderXBlock",
+        "Created At": "2019-02-22T23:01:13Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/65686",
+        "Target Commit SHA": "7d2ae7e3226cdc8e37aea83c202aeb0e7e5a1aec",
+        "Closest PR": "https://github.com/ansible/ansible/pull/72915",
+        "Closest Commit SHA": "a5df30e2bf0cc7bfc3e3d7cbadb194ec18d76e18",
+        "Title": "2.10: Use _wrap_native_text only for builtin STRING_TYPE_FILTERS (#71801)",
+        "Created At": "2020-12-09T09:30:33Z"
+    },
+    {
+        "repo_name": "pimcore/pimcore",
+        "Target PR": "https://github.com/pimcore/pimcore/pull/14498",
+        "Target Commit SHA": "7f788fa44bc18bc1c9182c25e26b770a1d30b62f",
+        "Closest PR": "https://github.com/pimcore/pimcore/pull/14491",
+        "Closest Commit SHA": "012440ee721c5e2518b40fd515f45c2bfbc96beb",
+        "Title": "Fix sizing of custom admin tab icons",
+        "Created At": ""
+    },
+    {
+        "repo_name": "docker/engine",
+        "Target PR": "https://github.com/docker/engine/pull/70",
+        "Target Commit SHA": "4b8336f7cf091fd5c4742286bda1e34c45667d78",
+        "Closest PR": "https://github.com/docker-archive/engine/pull/130",
+        "Closest Commit SHA": "42b58273f68c8240e25f1642e6add6435b894e87",
+        "Title": "[18.09 backport] API: fix status code on conflicting service names",
+        "Created At": ""
+    },
+    {
+        "repo_name": "brave/brave-core",
+        "Target PR": "https://github.com/brave/brave-core/pull/13989",
+        "Target Commit SHA": "7ef8cb2f232abdf59ec9c3c99a086a14b972bc56",
+        "Closest PR": "https://github.com/brave/brave-core/pull/13987",
+        "Closest Commit SHA": "90200ea7812a8c14f15cc129a10aa4268c03742a",
+        "Title": "fix(wallet): UI dapps issues\ufffd",
+        "Created At": ""
+    },
+    {
+        "repo_name": "grpc/grpc-node",
+        "Target PR": "https://github.com/grpc/grpc-node/pull/1605",
+        "Target Commit SHA": "afe4c3e0825d0b0256a0f994c7087115d508c580",
+        "Closest PR": "https://github.com/grpc/grpc-node/pull/1601",
+        "Closest Commit SHA": "576b07af454065a7ece1e6f5fe79103531f08874",
+        "Title": "Fix missing arg variable in perRpcCreds interop test",
+        "Created At": ""
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/1409",
+        "Target Commit SHA": "48a3799e2d2c52e91cb7153b163bb26dfd9a4b4f",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/1414",
+        "Closest Commit SHA": "5bf0fd68bab09221dcc5e01ba405c1e844d01eea",
+        "Title": "Fix SNMP code style",
+        "Created At": ""
+    },
+    {
+        "repo_name": "hexpm/hex",
+        "Target PR": "https://github.com/hexpm/hex/pull/646",
+        "Target Commit SHA": "8f5798043bc8ef9ec5d5a9ddcfa16386f17a5e75",
+        "Closest PR": "https://github.com/hexpm/hex/pull/668",
+        "Closest Commit SHA": "ed8a6c41f1f747537af615adfda8bb74d7efa26e",
+        "Title": "Fix old-style mix.lock support",
+        "Created At": ""
+    },
+    {
+        "repo_name": "GreycLab/CImg",
+        "Target PR": "https://github.com/GreycLab/CImg/pull/348",
+        "Target Commit SHA": "5801be3d268c93e724b1395019463d86e660e04b",
+        "Closest PR": "https://github.com/GreycLab/CImg/pull/296",
+        "Closest Commit SHA": "b48b3b56b82cfeb00e4064958356dec8eace8a85",
+        "Title": "Fix unbounded malloc DoS in PNM loading code",
+        "Created At": ""
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/842",
+        "Target Commit SHA": "7798ae25574425271305fffe85de77bec8df03f1",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/849",
+        "Closest Commit SHA": "f3a13a912f99e473d5a5c2d6040619edab20a701",
+        "Title": "fix836_getLoadedLibraries2",
+        "Created At": ""
+    },
+    {
+        "repo_name": "vaadin/flow",
+        "Target PR": "https://github.com/vaadin/flow/pull/10157",
+        "Target Commit SHA": "11a6ad2ddf9b9bf91dd28515784d26c9ff5c6274",
+        "Closest PR": "https://github.com/vaadin/flow/pull/10145",
+        "Closest Commit SHA": "21b4b932b91506228cdb2f2118d65a4ae5163ec5",
+        "Title": "fix: only inject scripts not already loaded when using an exported wc",
+        "Created At": ""
+    },
+    {
+        "repo_name": "sourcegraph/sourcegraph",
+        "Target PR": "https://github.com/sourcegraph/sourcegraph/pull/30833",
+        "Target Commit SHA": "7b581dea70b420cf912e615eae70ac3bd92fe7b3",
+        "Closest PR": "https://github.com/sourcegraph/sourcegraph/pull/47442",
+        "Closest Commit SHA": "0b2dca33725054e96cc6ffc718fd1f76e01e633b",
+        "Title": "packages: fix package ref listing query with limit",
+        "Created At": "2023-02-07T17:55:03Z"
+    },
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/5740",
+        "Target Commit SHA": "a47e193f820c222b309763b508009e54b2f0e7f5",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7035",
+        "Closest Commit SHA": "5a8fe3f0f9a5d84e622fc689332ac9929cfd6082",
+        "Title": "Ranger/fix web assets dependencies",
+        "Created At": "2024-01-23T23:20:21Z"
+    },
+    {
+        "repo_name": "microsoft/CBL-Mariner",
+        "Target PR": "https://github.com/microsoft/CBL-Mariner/pull/6381",
+        "Target Commit SHA": "44cd1ce357fd96ceb410a43f38931fbac6fe13eb",
+        "Closest PR": "https://github.com/microsoft/azurelinux/pull/9414",
+        "Closest Commit SHA": "6fda93c24e708bfd16c22d11160b6270b861c7f7",
+        "Title": "[3.0-dev] Patch CVE-2024-5564 in libndp",
+        "Created At": "2024-06-15T00:51:40Z"
+    },
+    {
+        "repo_name": "jessfraz/pastebinit",
+        "Target PR": "https://github.com/jessfraz/pastebinit/pull/3",
+        "Target Commit SHA": "1af2facb6d95976c532b7f8f82747d454a092272",
+        "Closest PR": "https://github.com/jessfraz/pastebinit/pull/4",
+        "Closest Commit SHA": "ac251ab69350c677e82a7ae1b3ad600a1d65c604",
+        "Title": "Add a 413-specific error message to make for easier troubleshooting.",
+        "Created At": "2018-08-05T23:13:21Z"
+    },
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "Target PR": "https://github.com/AcademySoftwareFoundation/openexr/pull/849",
+        "Target Commit SHA": "51a92d67f53c08230734e74564c807043cbfe41e",
+        "Closest PR": "https://github.com/AcademySoftwareFoundation/openexr/pull/1173",
+        "Closest Commit SHA": "b39b63a1d2989a90655cd9b02b0fe8af8cd8c017",
+        "Title": "Fix misc issues due to OSS-fuzz",
+        "Created At": "2021-10-05T10:09:49Z"
+    },
+    {
+        "repo_name": "dotCMS/core",
+        "Target PR": "https://github.com/dotCMS/core/pull/8460/",
+        "Target Commit SHA": "06bce92760e1f55a539e2496858678e043714d3b",
+        "Closest PR": "https://github.com/dotCMS/core/pull/10362",
+        "Closest Commit SHA": "5d965d6aff033892a472b599049e9b6a3423d2df",
+        "Title": "Issue 10242 update portlets",
+        "Created At": "2016-12-16T15:48:57Z"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "Target PR": "https://github.com/tensorflow/tensorflow/pull/55274",
+        "Target Commit SHA": "0a8a781e597b18ead006d19b7d23d0a369e9ad73",
+        "Closest PR": "https://github.com/tensorflow/tensorflow/pull/60026",
+        "Closest Commit SHA": "2d04d5c27dc84929604e4c7411a7b7b9449bbb95",
+        "Title": "Reduce MKL overheads on small shapes by not rewriting node to use MKL",
+        "Created At": "2023-03-16T23:54:21Z"
+    },
+    {
+        "repo_name": "tlsfuzzer/tlslite-ng",
+        "Target PR": "https://github.com/tlsfuzzer/tlslite-ng/pull/439",
+        "Target Commit SHA": "c28d6d387bba59d8bd5cb3ba15edc42edf54b368",
+        "Closest PR": "https://github.com/tlsfuzzer/tlslite-ng/pull/472",
+        "Closest Commit SHA": "80b4c7a8b72537a6aa4f3d56c464471785c57717",
+        "Title": "EdDSA",
+        "Created At": "2021-07-26T18:42:04Z"
+    },
+    {
+        "repo_name": "JoomGallery/JoomGallery",
+        "Target PR": "https://github.com/JoomGallery/JoomGallery/pull/122",
+        "Target Commit SHA": "dc414ee954e849082260f8613e15a1c1e1d354a1",
+        "Closest PR": "https://github.com/JoomGallery/JoomGallery/pull/167",
+        "Closest Commit SHA": "e04a5be59e94a43bc59031ce3b64c4799545281f",
+        "Title": "Fix saving images in back end image manager",
+        "Created At": "2018-09-04T16:54:26Z"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/281",
+        "Target Commit SHA": "41618096ef112eaf827056dd13395abffd7a4f4d",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/785",
+        "Closest Commit SHA": "ef043032465968ee3bd9d23bb36248977aff068b",
+        "Title": "Bump cryptography from 41.0.0 to 41.0.3",
+        "Created At": "2023-08-02T02:05:37Z"
+    },
+    {
+        "repo_name": "openmrs/openmrs-module-appointmentscheduling",
+        "Target PR": "https://github.com/openmrs/openmrs-module-appointmentscheduling/pull/32",
+        "Target Commit SHA": "34213c3f6ea22df427573076fb62744694f601d8",
+        "Closest PR": "https://github.com/openmrs/openmrs-module-appointmentscheduling/pull/39",
+        "Closest Commit SHA": "2ccbe39c020809765de41eeb8ee4c70b5ec49cc8",
+        "Title": "RA1865 - Fixing reflected XSS in the notes section",
+        "Created At": "2020-12-01T15:34:59Z"
+    },
+    {
+        "repo_name": "kubernetes/kubernetes",
+        "Target PR": "https://github.com/kubernetes/kubernetes/pull/88684",
+        "Target Commit SHA": "cd23e78c3dc1a4161abb11523a8614b56b9c0928",
+        "Closest PR": "https://github.com/kubernetes/kubernetes/pull/99543",
+        "Closest Commit SHA": null,
+        "Title": "update azure_armclient log",
+        "Created At": "2021-02-28T02:39:08Z"
+    },
+    {
+        "repo_name": "nextcloud/circles",
+        "Target PR": "https://github.com/nextcloud/circles/pull/866",
+        "Target Commit SHA": "2e38ffd6b8b9db664cb4cdb540d92d300267eda1",
+        "Closest PR": "https://github.com/nextcloud/circles/pull/1227",
+        "Closest Commit SHA": "78dd2324e5eacc4d18fe5e303a0b78ba48eabf5b",
+        "Title": "Bump phpunit/phpunit from 9.5.26 to 9.5.27",
+        "Created At": "2022-12-10T02:02:09Z"
+    },
+    {
+        "repo_name": "mermaid-js/mermaid",
+        "Target PR": "https://github.com/mermaid-js/mermaid/pull/2123",
+        "Target Commit SHA": "890512ccbb3b9174825a2fcf31282c305898501f",
+        "Closest PR": "https://github.com/mermaid-js/mermaid/pull/3112",
+        "Closest Commit SHA": "2a326a99fed4b9749dc5070dbf98997fd8af5b67",
+        "Title": "chore(deps-dev): bump cypress from 9.7.0 to 10.0.3",
+        "Created At": "2022-06-06T20:23:24Z"
+    },
+    {
+        "repo_name": "domoticz/domoticz",
+        "Target PR": "https://github.com/domoticz/domoticz/pull/3368",
+        "Target Commit SHA": "5025da6dee9a02737d22a838622746e8bd1b9de9",
+        "Closest PR": "https://github.com/domoticz/domoticz/pull/4238",
+        "Closest Commit SHA": "01cfe274e426305ddfd3cd2bfa4c3389677d2197",
+        "Title": "fix build with external minizip",
+        "Created At": "2020-06-15T21:44:21Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1758",
+        "Target Commit SHA": "75a1832c57de18ef67c1e8b48f098393a7a843e1",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2249",
+        "Closest Commit SHA": "94f8889cd3b7cefd93dde8b47581a2090dc9c9a6",
+        "Title": "Update olympus tags (#2246)",
+        "Created At": "2022-06-11T17:17:45Z"
+    },
+    {
+        "repo_name": "fastify/csrf",
+        "Target PR": "https://github.com/fastify/csrf/pull/2",
+        "Target Commit SHA": "5882472cbe2e50aa9ede11d1875919a15ab60800",
+        "Closest PR": "https://github.com/fastify/csrf/pull/34",
+        "Closest Commit SHA": "5c1785b652c85023bfc91323f7f2c95e1665b8b9",
+        "Title": "build(deps-dev): bump mocha from 9.2.2 to 10.0.0",
+        "Created At": "2022-05-02T00:15:29Z"
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "Target PR": "https://github.com/PrestaShop/PrestaShop/pull/11285",
+        "Target Commit SHA": "76619b513cb9698bc42a1a769a183c02e67be381",
+        "Closest PR": "https://github.com/PrestaShop/PrestaShop/pull/16297",
+        "Closest Commit SHA": "e45bbc3284d270a7e2106ade6a4f5c7855934458",
+        "Title": "Functional tests - Using the correct element in loop for brands tests ",
+        "Created At": "2019-11-06T16:38:31Z"
+    },
+    {
+        "repo_name": "RobotsAndPencils/go-saml",
+        "Target PR": "https://github.com/RobotsAndPencils/go-saml/pull/38",
+        "Target Commit SHA": "716804e0ce54d13702c802c1410dd98954ee0123",
+        "Closest PR": "https://github.com/RobotsAndPencils/go-saml/pull/38",
+        "Closest Commit SHA": "716804e0ce54d13702c802c1410dd98954ee0123",
+        "Title": "sign AuthnRequests and AuthnResponses with SHA256",
+        "Created At": "2020-07-10T16:22:10Z"
+    },
+    {
+        "repo_name": "SAP/cloud-sdk-js",
+        "Target PR": "https://github.com/SAP/cloud-sdk-js/pull/1770",
+        "Target Commit SHA": "fe1ba94ad0c2dae306634725bbd4fe525f81c77d",
+        "Closest PR": "https://github.com/SAP/cloud-sdk-js/pull/3026",
+        "Closest Commit SHA": "39ac83fbf02ff0e7312f475e5c0070c5725390aa",
+        "Title": "chore(deps): bump dependabot/fetch-metadata from 1.3.4 to 1.3.5",
+        "Created At": "2022-11-03T01:30:45Z"
+    },
+    {
+        "repo_name": "comelz/quark",
+        "Target PR": "https://github.com/comelz/quark/pull/18",
+        "Target Commit SHA": "3311efee0074f8bf677aa76a5502086d462b3451",
+        "Closest PR": "https://github.com/comelz/quark/pull/36",
+        "Closest Commit SHA": "7b5b03edff90e7929b0b18675c4b1249ffbcd048",
+        "Title": "bin/quark: prepend our path to the system paths instead of appending it",
+        "Created At": "2019-12-03T15:12:44Z"
+    },
+    {
+        "repo_name": "ansible/awx",
+        "Target PR": "https://github.com/ansible/awx/pull/3505",
+        "Target Commit SHA": "2129f1208597d5c84478df48e0770e7b81b658ec",
+        "Closest PR": "https://github.com/ansible/awx/pull/6422",
+        "Closest Commit SHA": "4a8f1d41fa05f25e310f3166449e1a93de4fddb1",
+        "Title": "Initial cut at tower_job_wait conversion",
+        "Created At": "2020-03-25T18:08:02Z"
+    },
+    {
+        "repo_name": "redpanda-data/redpanda",
+        "Target PR": "https://github.com/redpanda-data/redpanda/pull/7719",
+        "Target Commit SHA": "6a69c280a05721178946835130b5f2b20002e33d",
+        "Closest PR": "https://github.com/redpanda-data/redpanda/pull/15414",
+        "Closest Commit SHA": "6cd0e7054aada957dc28b6826b6f4f77ea6eb40e",
+        "Title": "kafka/client: Stop the broker if `do_authenticate` failed",
+        "Created At": "2023-12-13T00:13:00Z"
+    },
+    {
+        "repo_name": "antirez/redis",
+        "Target PR": "https://github.com/antirez/redis/pull/3322",
+        "Target Commit SHA": "0ad39e5853c53c628545c3cdedbbb75518682c1f",
+        "Closest PR": "https://github.com/redis/redis/pull/4056",
+        "Closest Commit SHA": "1d857a99d5d9bee9c5000db9af6694cc2f96c4e6",
+        "Title": "Fixed comments of slowlog duration",
+        "Created At": "2017-06-14T08:45:01Z"
+    },
+    {
+        "repo_name": "kaltura/mwEmbed",
+        "Target PR": "https://github.com/kaltura/mwEmbed/pull/4266",
+        "Target Commit SHA": "13b8812ebc8c9fa034eed91ab35ba8423a528c0b",
+        "Closest PR": "https://github.com/kaltura/mwEmbed/pull/4309",
+        "Closest Commit SHA": "e8fe09b909248c521f5272a625663e87055e4d97",
+        "Title": "fix(SUP-37385): user cannot see q&a",
+        "Created At": "2023-05-16T14:42:51Z"
+    },
+    {
+        "repo_name": "alliedmodders/amxmodx",
+        "Target PR": "https://github.com/alliedmodders/amxmodx/pull/823",
+        "Target Commit SHA": "a5f2b5539f6d61050b68df8b22ebb343a2862681",
+        "Closest PR": "https://github.com/alliedmodders/amxmodx/pull/919",
+        "Closest Commit SHA": "c81f68aac35526152774dcd8650e4c5041fccfe2",
+        "Title": "Little fix in cvars.inc documentation",
+        "Created At": "2020-12-04T07:16:48Z"
+    },
+    {
+        "repo_name": "concrete5/concrete5",
+        "Target PR": "https://github.com/concrete5/concrete5/pull/8651",
+        "Target Commit SHA": "9c3e000327801c84c0656c56b38a9915d036244b",
+        "Closest PR": "https://github.com/concretecms/concretecms/pull/9490",
+        "Closest Commit SHA": "144cd0e3d97892575632ceb2d32989ed25417ab5",
+        "Title": "[v9] Fix Page Alias notification error",
+        "Created At": "2021-05-17T15:10:10Z"
+    }
+]
