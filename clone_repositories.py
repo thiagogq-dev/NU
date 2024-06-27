@@ -17,4 +17,4 @@ with open(json_file) as f:
         repo_name = entry["repo_name"]
 
         print(f"Cloning {repo_name}")
-        os.system(f"git clone  git clone https://github.com/{repo_name}.git pyszz_v2/repos_dir{repo_name}")
+        os.system(f"git clone https://github.com/{repo_name}.git pyszz_v2/repos_dir{repo_name}")
