@@ -9,7 +9,7 @@ with open(json_file) as f:
     for entry in data:
         repo_name = entry["repo_name"]
         if not os.path.exists("pyszz_v2/repos_dir"):
-            os.makedirs(f"repos_dir/{repo_name}", exist_ok=True)
+            os.makedirs("pyszz_v2/repos_dir", exist_ok=True)
 
         os.chdir("pyszz_v2/repos_dir")
         print(f"Cloning {repo_name}")
