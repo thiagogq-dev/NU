@@ -12,5 +12,6 @@ with open(json_file) as f:
         if not os.path.exists("pyszz_v2/repo_dir"):
             os.makedirs(f"repos_dir/{repo_name}", exist_ok=True)
 
-        os.chdir("repos_dir")
+        os.chdir("pyszz_v2/repo_dir")
+        print(f"Cloning {repo_name}")
         os.system(f"git clone  git clone https://github.com/{repo_name}.git")
