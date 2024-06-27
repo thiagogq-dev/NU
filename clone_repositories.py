@@ -4,9 +4,8 @@ import sys
 
 json_file = sys.argv[1]
 
-if not os.path.exists("repos_dir"):
-    os.makedirs("repos_dir", exist_ok=True)
-os.chdir("repos_dir")
+if not os.path.exists("pyszz_v2/repos_dir"):
+    os.makedirs("pyszz_v2/repos_dir", exist_ok=True)
 
 if not os.path.exists(json_file):
     print(f"File {json_file} does not exist")
@@ -18,4 +17,4 @@ with open(json_file) as f:
         repo_name = entry["repo_name"]
 
         print(f"Cloning {repo_name}")
-        os.system(f"git clone  git clone https://github.com/{repo_name}.git {repo_name}")
+        os.system(f"git clone  git clone https://github.com/{repo_name}.git pyszz_v2/repos_dir{repo_name}")
