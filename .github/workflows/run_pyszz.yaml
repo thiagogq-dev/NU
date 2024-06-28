@@ -45,6 +45,10 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Clone Repositories
+      run: |
+        python clone_repositories.py ${{ matrix.file }}
+
     - name: Run pyszz_v2
       working-directory: pyszz_v2/
       run: |
