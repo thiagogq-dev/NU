@@ -1,0 +1,92 @@
+[
+    {
+        "repo_name": "nedap/mysql-binuuid-rails",
+        "Target PR": "https://github.com/nedap/mysql-binuuid-rails/pull/18",
+        "Closest PR": "https://github.com/nedap/mysql-binuuid-rails/pull/27",
+        "Closest Commit SHA": "2acfe7437371a6d5a856f21e7eb750c1b692ba4c",
+        "Title": "Bugfix data casting",
+        "Created At": "2019-04-16T21:20:51Z",
+        "fix_commit_hash": "9ae920951b46ff0163b16c55d744e89acb1036d4"
+    },
+    {
+        "repo_name": "neovim/neovim",
+        "Target PR": "https://github.com/neovim/neovim/pull/10082",
+        "Closest PR": "https://github.com/neovim/neovim/pull/12385",
+        "Closest Commit SHA": "78ecec885e7412a62ced899133c099c31f56c110",
+        "Title": "runtime: Add TeX conceal for \\left and \\right pipe",
+        "Created At": "2020-05-27T12:48:21Z",
+        "fix_commit_hash": "4553fc5e6cb6c8c43f57c173d01b31a61e51d13f"
+    },
+    {
+        "repo_name": "neutrinolabs/xrdp",
+        "Target PR": "https://github.com/neutrinolabs/xrdp/pull/958",
+        "Closest PR": "https://github.com/neutrinolabs/xrdp/pull/1233",
+        "Closest Commit SHA": "393bace7def896af9d428f104498c1a87ed6ad17",
+        "Title": "Fix two issues with Microsoft Remote Desktop for MAC",
+        "Created At": "2018-10-24T07:48:20Z",
+        "fix_commit_hash": "d958d1f0186968200da32bafc3d9be4a4aa7212d"
+    },
+    {
+        "repo_name": "neutrinolabs/xrdp",
+        "Target PR": "https://github.com/neutrinolabs/xrdp/pull/497",
+        "Closest PR": "https://github.com/neutrinolabs/xrdp/pull/936",
+        "Closest Commit SHA": "3d29b6ec768155b6eacf2846dbdb43eddde1d48c",
+        "Title": "sound: g_bbuf_size should be determined after codec is determined",
+        "Created At": "2017-11-07T10:02:16Z",
+        "fix_commit_hash": "dee27fec52a1ffec8c0c34ae9c5dfd32a6cde7f2"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "Target PR": "https://github.com/nextcloud/android/pull/8433",
+        "Closest PR": "https://github.com/nextcloud/android/pull/10256",
+        "Closest Commit SHA": "54b68b049c282a4d1be03744fc509519a8f3dac2",
+        "Title": "Bump emoji-google from 0.11.0 to 0.12.0",
+        "Created At": "2022-05-17T01:04:57Z",
+        "fix_commit_hash": "8af3112fff7104e4e3a5d612be8e783e8fea6f4d"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "Target PR": "https://github.com/nextcloud/android/pull/7919",
+        "Closest PR": "https://github.com/nextcloud/android/pull/9791",
+        "Closest Commit SHA": "b81027d057180f3f661f06c794245c49374f319c",
+        "Title": "FileActivity: fix crash on share operations when FileDetailFragment is second fragment",
+        "Created At": "2022-02-01T11:46:38Z",
+        "fix_commit_hash": "33945b880bdab610fe78ef3901dd22abb70cf114"
+    },
+    {
+        "repo_name": "nextcloud/circles",
+        "Target PR": "https://github.com/nextcloud/circles/pull/866",
+        "Closest PR": "https://github.com/nextcloud/circles/pull/1227",
+        "Closest Commit SHA": "78dd2324e5eacc4d18fe5e303a0b78ba48eabf5b",
+        "Title": "Bump phpunit/phpunit from 9.5.26 to 9.5.27",
+        "Created At": "2022-12-10T02:02:09Z",
+        "fix_commit_hash": "2e38ffd6b8b9db664cb4cdb540d92d300267eda1"
+    },
+    {
+        "repo_name": "nextcloud/desktop",
+        "Target PR": "https://github.com/nextcloud/desktop/pull/5106",
+        "Closest PR": "https://github.com/nextcloud/desktop/pull/6178",
+        "Closest Commit SHA": "b643773b107dfc9a544754bf6a7681934fd133f6",
+        "Title": "Fix crash. Remove unnecessary dependency injection causing crash.",
+        "Created At": "2023-10-27T18:39:06Z",
+        "fix_commit_hash": "6fa2e60bba99f9be7c57eefc447252f7199a5a25"
+    },
+    {
+        "repo_name": "nextcloud/desktop",
+        "Target PR": "https://github.com/nextcloud/desktop/pull/5233",
+        "Closest PR": "https://github.com/nextcloud/desktop/pull/6253",
+        "Closest Commit SHA": "50fbe1d02142d524800f98cbd1398a7a764a1526",
+        "Title": "[stable-3.10] Fix. Bulk upload. Accumulate sent bytes. Fix negative value in UI.",
+        "Created At": "2023-12-01T15:37:54Z",
+        "fix_commit_hash": "98e6ab2c646f5766ce08a841f3bb6e7f2516fb1f"
+    },
+    {
+        "repo_name": "nextcloud/mail",
+        "Target PR": "https://github.com/nextcloud/mail/pull/6600",
+        "Closest PR": "https://github.com/nextcloud/mail/pull/8503",
+        "Closest Commit SHA": "c9a2da70eb0af5607e1272f47b89903b54f02edc",
+        "Title": "fix(deps): bump christophwurst/kitinerary-bin from 0.3.0 to ^0.4 (main)",
+        "Created At": "2023-05-31T00:46:56Z",
+        "fix_commit_hash": "c5b7bb8823f2547c9335bb7e1f9b55f092082f9a"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "repo_name": "grpc/grpc-node",
+        "Target PR": "https://github.com/grpc/grpc-node/pull/1605",
+        "Closest PR": "https://github.com/grpc/grpc-node/pull/1601",
+        "Closest Commit SHA": "576b07af454065a7ece1e6f5fe79103531f08874",
+        "Title": "Fix missing arg variable in perRpcCreds interop test",
+        "Created At": "",
+        "fix_commit_hash": "afe4c3e0825d0b0256a0f994c7087115d508c580"
+    },
+    {
+        "repo_name": "grpc/grpc",
+        "Target PR": "https://github.com/grpc/grpc/pull/32309",
+        "Closest PR": "https://github.com/grpc/grpc/pull/35828",
+        "Closest Commit SHA": "472e98f579531d01237da10d184cb3748454aeb6",
+        "Title": "[work-serializer] deflake tests for dispatching workserializer",
+        "Created At": "2024-02-06T17:39:44Z",
+        "fix_commit_hash": "29d8beee0ac2555773b2a2dda5601c74a95d6c10"
+    },
+    {
+        "repo_name": "hashicorp/vault-action",
+        "Target PR": "https://github.com/hashicorp/vault-action/pull/208",
+        "Closest PR": "https://github.com/hashicorp/vault-action/pull/318",
+        "Closest Commit SHA": "9169e8106822ecdbc81bf131057ca02a66a6c3aa",
+        "Title": "chore(deps-dev): bump jest from 26.6.3 to 28.0.3",
+        "Created At": "2022-04-29T22:03:42Z",
+        "fix_commit_hash": "3526e1be65cf8faf42d6088bc5da8bff596c718a"
+    },
+    {
+        "repo_name": "helm/helm",
+        "Target PR": "https://github.com/helm/helm/pull/3152",
+        "Closest PR": "https://github.com/helm/helm/pull/4930",
+        "Closest Commit SHA": "58272bfd4a774e47fd3a59af06647bb05980e9cd",
+        "Title": "fix(helm): Print details for pod resource",
+        "Created At": "2018-11-15T21:46:35Z",
+        "fix_commit_hash": "e8e6ac5d7783808cc0bd1adad053bec339849647"
+    },
+    {
+        "repo_name": "hexpm/hex",
+        "Target PR": "https://github.com/hexpm/hex/pull/646",
+        "Closest PR": "https://github.com/hexpm/hex/pull/668",
+        "Closest Commit SHA": "ed8a6c41f1f747537af615adfda8bb74d7efa26e",
+        "Title": "Fix old-style mix.lock support",
+        "Created At": "",
+        "fix_commit_hash": "8f5798043bc8ef9ec5d5a9ddcfa16386f17a5e75"
+    },
+    {
+        "repo_name": "home-assistant/plugin-dns",
+        "Target PR": "https://github.com/home-assistant/plugin-dns/pull/59",
+        "Closest PR": "https://github.com/home-assistant/plugin-dns/pull/91",
+        "Closest Commit SHA": "51d4cb594782d0a127aea523044065b5f80abbe4",
+        "Title": "Bump docker/login-action from 1.14.1 to 2.0.0",
+        "Created At": "2022-05-06T06:04:17Z",
+        "fix_commit_hash": "19f79cc8ba43b05afeef3b7c3921694897a24b86"
+    },
+    {
+        "repo_name": "i18next/i18next",
+        "Target PR": "https://github.com/i18next/i18next/pull/443",
+        "Closest PR": "https://github.com/i18next/i18next/pull/826",
+        "Closest Commit SHA": "11f059599889d857d497aa0499355be32df0dbb6",
+        "Title": "Fix Interpolator.escapeValue defaulting to undefined in some cases",
+        "Created At": "2016-10-13T20:01:34Z",
+        "fix_commit_hash": "2478ecaa933352afd29d22efe8ee85581ea2be4e"
+    },
+    {
+        "repo_name": "igniterealtime/Openfire",
+        "Target PR": "https://github.com/igniterealtime/Openfire/pull/1498",
+        "Closest PR": "https://github.com/igniterealtime/Openfire/pull/1718",
+        "Closest Commit SHA": "89ba3d2580d6b544f379d8ad2f61d91869d8c13d",
+        "Title": "Fix Maven Publish job in GH Actions",
+        "Created At": "2020-10-01T14:16:08Z",
+        "fix_commit_hash": "cb900749d4e836b32cc6e2cc41cda17f252b977d"
+    },
+    {
+        "repo_name": "infinispan/infinispan",
+        "Target PR": "https://github.com/infinispan/infinispan/pull/5639",
+        "Closest PR": "https://github.com/infinispan/infinispan/pull/6537",
+        "Closest Commit SHA": "abe7eac87bcf2d33e86a5efbd4fbef721fd29fc5",
+        "Title": "[9.4]  ISPN-9822 BasicComponentRegistryImpl fails with security manager",
+        "Created At": "2018-12-13T09:48:29Z",
+        "fix_commit_hash": "2944b0d1369a230bde88392b222921537c99331e"
+    },
+    {
+        "repo_name": "InvoicePlane/InvoicePlane",
+        "Target PR": "https://github.com/InvoicePlane/InvoicePlane/pull/551",
+        "Closest PR": "https://github.com/InvoicePlane/InvoicePlane/pull/678",
+        "Closest Commit SHA": "25cc633b35e7d53ba6cc8071e179c473e0aec8c1",
+        "Title": "[IP-747] Minor cosmetic changes to the General Settings forms",
+        "Created At": "2018-10-18T21:28:52Z",
+        "fix_commit_hash": "7b64642943cd37011b85f0f316c9b4fb1b787ae4"
+    }
+]
