@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "AndyRixon/LayerBB",
+        "Target PR": "https://github.com/AndyRixon/LayerBB/pull/40",
+        "Target Commit SHA": "a966d345486258f39d65db53f5acc5266fc49af5",
+        "Closest PR": "https://github.com/AndyRixon/LayerBB/pull/40",
+        "Closest Commit SHA": "a966d345486258f39d65db53f5acc5266fc49af5",
+        "Title": "Fixed Some CSRF Tokens",
+        "Created At": "2019-04-07T11:02:49Z"
+    }
+]

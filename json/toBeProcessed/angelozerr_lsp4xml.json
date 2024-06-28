@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "angelozerr/lsp4xml",
+        "Target PR": "https://github.com/angelozerr/lsp4xml/pull/566",
+        "Target Commit SHA": "d172c4daff4c0229493c62812a40be8357584f7b",
+        "Closest PR": "https://github.com/eclipse/lemminx/pull/897",
+        "Closest Commit SHA": "9f5f757f2e173883ca4e583099dc7a19e547c617",
+        "Title": "Improve ETagRequired error range",
+        "Created At": "2020-10-01T09:25:03Z"
+    }
+]
