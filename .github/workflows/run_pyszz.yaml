@@ -39,10 +39,6 @@ jobs:
         repository: 'thiagogquinto/pyszz_v2'
         path: 'pyszz_v2'
         ref: 'NU-STUDY'
-
-    - name: Clone Repositories
-      run: |
-        python clone_repositories.py ${{ matrix.file }}
       
     - name: Set up Python
       uses: actions/setup-python@v5.1.0

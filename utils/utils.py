@@ -126,3 +126,12 @@ def split_json_file(input_file, output_prefix, max_items_per_file=100):
             json.dump(chunk, f, indent=4)
         print(f"File {output_file} created with {len(chunk)} items.")
               
+def sort_json_file(file):
+    with open(file, 'r') as f:
+        data = json.load(f)
+
+    data = sorted(data, key=lambda x: x["repo_name"])
+
+    with open(file, 'w') as f:
+        json.dump(data, f, indent=4)
+        

@@ -1,698 +1,5 @@
 [
     {
-        "repo_name": "fluent/fluent-bit",
-        "Target PR": "https://github.com/fluent/fluent-bit/pull/3045",
-        "Target Commit SHA": "1f0918b2e195742f65c9592d9058884fd2dea203",
-        "Closest PR": "https://github.com/fluent/fluent-bit/pull/4772",
-        "Closest Commit SHA": "b82b337cb46e2c187363451044113f80cfe900aa",
-        "Title": "packaging: resolve CentOS 8 mirror issues",
-        "Created At": "2022-02-09T11:24:05Z"
-    },
-    {
-        "repo_name": "mafintosh/json-markup",
-        "Target PR": "https://github.com/mafintosh/json-markup/pull/15",
-        "Target Commit SHA": "e7fb4df7de6a7d57f2249f0527dda8b5498ad36b",
-        "Closest PR": "https://github.com/mafintosh/json-markup/pull/15",
-        "Closest Commit SHA": "e7fb4df7de6a7d57f2249f0527dda8b5498ad36b",
-        "Title": "Escape keys",
-        "Created At": "2023-06-13T17:40:09Z"
-    },
-    {
-        "repo_name": "eclipse/jetty.project",
-        "Target PR": "https://github.com/eclipse/jetty.project/pull/9660",
-        "Target Commit SHA": "5f48b4170f36b275e1576548b44bd5009feba669",
-        "Closest PR": "https://github.com/jetty/jetty.project/pull/11658",
-        "Closest Commit SHA": "706a0431fd630a7b6e8fe897cdc8749e37b5d6fa",
-        "Title": "Issue #11648 - Adding RFC 6265 Cookie parsing of Expires Date ",
-        "Created At": "2024-04-16T19:21:22Z"
-    },
-    {
-        "repo_name": "vaadin/flow",
-        "Target PR": "https://github.com/vaadin/flow/pull/10640",
-        "Target Commit SHA": "dde115adfbcc9484e60a34d603251edf94fae529",
-        "Closest PR": "https://github.com/vaadin/flow/pull/13547",
-        "Closest Commit SHA": "942276994b8fb2c089121c3f1e6e58257c5b6a96",
-        "Title": "fix: Force async version 3.2.2",
-        "Created At": "2022-04-14T10:25:59Z"
-    },
-    {
-        "repo_name": "lightningnetwork/lnd",
-        "Target PR": "https://github.com/lightningnetwork/lnd/pull/7098",
-        "Target Commit SHA": "96fe51e2e5c2ee0c97909499e0e96a3d3755757e",
-        "Closest PR": "https://github.com/lightningnetwork/lnd/pull/8139",
-        "Closest Commit SHA": "e6fbaafda4a9cfe08ccee5106aa6dc1da62bcebc",
-        "Title": "CI: upgrade bitcoind version to 0.25",
-        "Created At": "2023-11-01T08:35:46Z"
-    },
-    {
-        "repo_name": "Smashing/smashing",
-        "Target PR": "https://github.com/Smashing/smashing/pull/186",
-        "Target Commit SHA": "d1577b1119b483071634c2e100503639de648580",
-        "Closest PR": "https://github.com/Smashing/smashing/pull/173",
-        "Closest Commit SHA": "4247bf79d5e1abd4ac9dcba5126d82741a9922ce",
-        "Title": "Send only data that is needed on the dashboard",
-        "Created At": "2020-09-02T13:15:35Z"
-    },
-    {
-        "repo_name": "contiki-ng/contiki-ng",
-        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/1648",
-        "Target Commit SHA": "80a5479e9c880b38ec0f1bdb937d17c6fb4ccb25",
-        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/2180",
-        "Closest Commit SHA": "a5cff2340950c5cec876f446ea3f6e3149ff0cf7",
-        "Title": "Update tools/cooja submodule",
-        "Created At": "2022-09-14T12:13:09Z"
-    },
-    {
-        "repo_name": "appneta/tcpreplay",
-        "Target PR": "https://github.com/appneta/tcpreplay/pull/720",
-        "Target Commit SHA": "8764d4d9f1335dcaaafee0fa277f5ae803033666",
-        "Closest PR": "https://github.com/appneta/tcpreplay/pull/783",
-        "Closest Commit SHA": "342d29d9e42898b1e097a9f9a31fe0ad15d2f43b",
-        "Title": "Fix bugs caused by strtok_r",
-        "Created At": "2023-03-01T08:54:36Z"
-    },
-    {
-        "repo_name": "CrowCpp/Crow",
-        "Target PR": "https://github.com/CrowCpp/Crow/pull/317",
-        "Target Commit SHA": "8cfdfca76ee6d5195c51a7e1d4d62eb40d3dc0e2",
-        "Closest PR": "https://github.com/CrowCpp/Crow/pull/580",
-        "Closest Commit SHA": "a92aee49b96826f40290086502428efc9b55d633",
-        "Title": "fix warning on non MS systems for using sprintf instead of snprintf",
-        "Created At": "2022-12-20T10:25:12Z"
-    },
-    {
-        "repo_name": "numpy/numpy",
-        "Target PR": "https://github.com/numpy/numpy/pull/4262",
-        "Target Commit SHA": "c7a30d538ba4c984d6f97b613486a3738b2c7922",
-        "Closest PR": "https://github.com/numpy/numpy/pull/5535",
-        "Closest Commit SHA": "0faf6d68e1b15eaf87b0717024544269a4d66564",
-        "Title": "Return output from nm command as string (and not bytes)",
-        "Created At": "2015-02-05T11:15:25Z"
-    },
-    {
-        "repo_name": "zephyrproject-rtos/zephyr",
-        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23240",
-        "Target Commit SHA": "23ace0e55681c02a81fb6b891f832aa356c85aab",
-        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32850",
-        "Closest Commit SHA": null,
-        "Title": "checkpatch: Disable \"blank line after declarations\" warning",
-        "Created At": "2021-03-03T22:38:35Z"
-    },
-    {
-        "repo_name": "ruby-git/ruby-git",
-        "Target PR": "https://github.com/ruby-git/ruby-git/pull/569",
-        "Target Commit SHA": "291ca0946bec7164b90ad5c572ac147f512c7159",
-        "Closest PR": "https://github.com/ruby-git/ruby-git/pull/652",
-        "Closest Commit SHA": "2500bcf2461b84aae8e1cf68fd29e850081e39f4",
-        "Title": "Release v1.17.2",
-        "Created At": "2023-03-07T17:22:36Z"
-    },
-    {
-        "repo_name": "wolfSSL/wolfssl",
-        "Target PR": "https://github.com/wolfSSL/wolfssl/pull/2894/",
-        "Target Commit SHA": "3cb0c600ba849e482ac52c3bf9f39c2c822c2f61",
-        "Closest PR": "https://github.com/wolfSSL/wolfssl/pull/3951",
-        "Closest Commit SHA": "537d33d5fa87c937cc602033700d664d5f0a246f",
-        "Title": "Fix for AES GCM with STM32H7",
-        "Created At": "2021-04-07T22:52:13Z"
-    },
-    {
-        "repo_name": "dropwizard/dropwizard",
-        "Target PR": "https://github.com/dropwizard/dropwizard/pull/3208",
-        "Target Commit SHA": "d5a512f7abf965275f2a6b913ac4fe778e424242",
-        "Closest PR": "https://github.com/dropwizard/dropwizard/pull/3820",
-        "Closest Commit SHA": "74736edff73a302dc6ec87c81ba589c0bc0a5ec6",
-        "Title": "Bump jdbi3-bom from 3.18.0 to 3.18.1",
-        "Created At": "2021-03-26T05:11:51Z"
-    },
-    {
-        "repo_name": "opencv/opencv_contrib",
-        "Target PR": "https://github.com/opencv/opencv_contrib/pull/3480",
-        "Target Commit SHA": "ccc277247ac1a7aef0a90353edcdec35fbc5903c",
-        "Closest PR": "https://github.com/opencv/opencv_contrib/pull/3726",
-        "Closest Commit SHA": "9358ad2e56f6d0b99860856fc1b53b783d186e73",
-        "Title": "Try to Fix #3725: cudaarithm: fix the compile faiure of CUDA 12.",
-        "Created At": "2024-04-22T15:46:07Z"
-    },
-    {
-        "repo_name": "dotCMS/core",
-        "Target PR": "https://github.com/dotCMS/core/pull/8460/",
-        "Target Commit SHA": "06bce92760e1f55a539e2496858678e043714d3b",
-        "Closest PR": "https://github.com/dotCMS/core/pull/10362",
-        "Closest Commit SHA": "5d965d6aff033892a472b599049e9b6a3423d2df",
-        "Title": "Issue 10242 update portlets",
-        "Created At": "2016-12-16T15:48:57Z"
-    },
-    {
-        "repo_name": "frappe/frappe",
-        "Target PR": "https://github.com/frappe/frappe/pull/8262",
-        "Target Commit SHA": "421f070e78ee1186e7f2f4b2575d8be1d3e2d646",
-        "Closest PR": "https://github.com/frappe/frappe/pull/11349",
-        "Closest Commit SHA": "7ce40130687ee2b7e86769b918676aa45ce36d01",
-        "Title": "fix: if db_type is not defined then set default to 'mariadb'  (bp #11346)",
-        "Created At": "2020-08-25T07:35:23Z"
-    },
-    {
-        "repo_name": "nextcloud/server",
-        "Target PR": "https://github.com/nextcloud/server/pull/29895",
-        "Target Commit SHA": "d9d54ce782d34656d2e53cb7588fcad80182a1fe",
-        "Closest PR": "https://github.com/nextcloud/server/pull/35417",
-        "Closest Commit SHA": "b48f0c7164a26fe2c18d0e28e31c9759682c8dce",
-        "Title": "[stable24] Update psalm-baseline.xml",
-        "Created At": "2022-11-25T04:14:29Z"
-    },
-    {
-        "repo_name": "eclipse-ee4j/parsson",
-        "Target PR": "https://github.com/eclipse-ee4j/parsson/pull/100",
-        "Target Commit SHA": "9dd5ad5f871f7b93654073a3f8ce3e1d9b8d9b31",
-        "Closest PR": "https://github.com/eclipse-ee4j/parsson/pull/124",
-        "Closest Commit SHA": "c96ef80bb3366caf2abdeb925265afc8646cd19a",
-        "Title": "Fixes",
-        "Created At": "2024-02-26T13:34:01Z"
-    },
-    {
-        "repo_name": "openmrs/openmrs-module-htmlformentry",
-        "Target PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/138",
-        "Target Commit SHA": "830db76f5da1b147ac5816ea66d8a7f14d9058f8",
-        "Closest PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/154",
-        "Closest Commit SHA": "45d3f8522d3e73aa4c0a2c75d6da59147d062754",
-        "Title": "HTML-707 Update ConditionTagHandlerSupport2_2 to work for later versions",
-        "Created At": "2019-08-17T22:52:27Z"
-    },
-    {
-        "repo_name": "InvoicePlane/InvoicePlane",
-        "Target PR": "https://github.com/InvoicePlane/InvoicePlane/pull/551",
-        "Target Commit SHA": "7b64642943cd37011b85f0f316c9b4fb1b787ae4",
-        "Closest PR": "https://github.com/InvoicePlane/InvoicePlane/pull/678",
-        "Closest Commit SHA": "25cc633b35e7d53ba6cc8071e179c473e0aec8c1",
-        "Title": "[IP-747] Minor cosmetic changes to the General Settings forms",
-        "Created At": "2018-10-18T21:28:52Z"
-    },
-    {
-        "repo_name": "apache/airflow",
-        "Target PR": "https://github.com/apache/airflow/pull/32014",
-        "Target Commit SHA": "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db",
-        "Closest PR": "https://github.com/apache/airflow/pull/40265",
-        "Closest Commit SHA": "56904394b9162644bf4b2a79651ee7d6b9fc05b6",
-        "Title": "Fix typo in xcoms.rst",
-        "Created At": "2024-06-15T22:09:57Z"
-    },
-    {
-        "repo_name": "bigbluebutton/bigbluebutton",
-        "Target PR": "https://github.com/bigbluebutton/bigbluebutton/pull/13850",
-        "Target Commit SHA": "b41f895ab80e7be8a54a41990c95e4c343b773f3",
-        "Closest PR": "https://github.com/bigbluebutton/bigbluebutton/pull/16090",
-        "Closest Commit SHA": "81fab5281259ef5b4cbb36d2ee249debbbbadbe4",
-        "Title": "fix: Webcam backgrounds crash the entire client on Firefox",
-        "Created At": "2022-12-06T10:35:56Z"
-    },
-    {
-        "repo_name": "taglib/taglib",
-        "Target PR": "https://github.com/taglib/taglib/pull/831",
-        "Target Commit SHA": "cb9f07d9dcd791b63e622da43f7b232adaec0a9a",
-        "Closest PR": "https://github.com/taglib/taglib/pull/869",
-        "Closest Commit SHA": "2c4ae870ec086f2ddd21a47861a3709c36faac45",
-        "Title": "Fixed OOB read when loading invalid ogg flac file. (#868)",
-        "Created At": "2018-06-04T15:39:57Z"
-    },
-    {
-        "repo_name": "nextcloud/password_policy",
-        "Target PR": "https://github.com/nextcloud/password_policy/pull/363",
-        "Target Commit SHA": "b19a56d8d79f4e61d8ee27d69baf4a06de8187f9",
-        "Closest PR": "https://github.com/nextcloud/password_policy/pull/484",
-        "Closest Commit SHA": "cdfabb8ba049f2317c703119dbb7c4c0abfc79dd",
-        "Title": "Chore(deps): Bump @nextcloud/dialogs from 4.0.1 to 4.1.0",
-        "Created At": "2023-06-24T01:56:39Z"
-    },
-    {
-        "repo_name": "matrix-org/synapse",
-        "Target PR": "https://github.com/matrix-org/synapse/pull/13823",
-        "Target Commit SHA": "c06b2b714262825e1d2510b62c38fdeda339f6dc",
-        "Closest PR": "https://github.com/matrix-org/synapse/pull/16328",
-        "Closest Commit SHA": "eef2b9e34418e902baab1e730eb805eb56034cc2",
-        "Title": "Filter locked users in the admin API",
-        "Created At": "2023-09-15T14:31:53Z"
-    },
-    {
-        "repo_name": "ansible/ansible",
-        "Target PR": "https://github.com/ansible/ansible/pull/49142",
-        "Target Commit SHA": "8c1f701e6e9df29fe991f98265e2dd76acca4b8c",
-        "Closest PR": "https://github.com/ansible/ansible/pull/65289",
-        "Closest Commit SHA": "d8d9c9217dcdcec397af4f217019b36bac351c88",
-        "Title": "[stable-2.7] Add or later to the license expressed in the README",
-        "Created At": "2019-11-26T16:36:16Z"
-    },
-    {
-        "repo_name": "nextcloud/desktop",
-        "Target PR": "https://github.com/nextcloud/desktop/pull/5106",
-        "Target Commit SHA": "6fa2e60bba99f9be7c57eefc447252f7199a5a25",
-        "Closest PR": "https://github.com/nextcloud/desktop/pull/6178",
-        "Closest Commit SHA": "b643773b107dfc9a544754bf6a7681934fd133f6",
-        "Title": "Fix crash. Remove unnecessary dependency injection causing crash.",
-        "Created At": "2023-10-27T18:39:06Z"
-    },
-    {
-        "repo_name": "symfony/symfony",
-        "Target PR": "https://github.com/symfony/symfony/pull/44243",
-        "Target Commit SHA": "256c34a45b79fdc6276a8c941a1656713ee1ffec",
-        "Closest PR": "https://github.com/symfony/symfony/pull/48302",
-        "Closest Commit SHA": "52f3e48a2971d533bf2f1007bd43d65c60d6816c",
-        "Title": "fix: RegexValidator doesn't validate empty strings anymore",
-        "Created At": "2022-11-23T19:08:16Z"
-    },
-    {
-        "repo_name": "MediaArea/MediaInfoLib",
-        "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
-        "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
-        "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239",
-        "Closest Commit SHA": "a054a2578b0f7b97a3ea51c4db48940f25e06d64",
-        "Title": "Fix crash with nested nodes in xml and json output",
-        "Created At": "2020-04-09T17:28:58Z"
-    },
-    {
-        "repo_name": "MediaArea/MediaInfoLib",
-        "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
-        "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
-        "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239",
-        "Closest Commit SHA": "a054a2578b0f7b97a3ea51c4db48940f25e06d64",
-        "Title": "Fix crash with nested nodes in xml and json output",
-        "Created At": "2020-04-09T17:28:58Z"
-    },
-    {
-        "repo_name": "RocketChat/Rocket.Chat",
-        "Target PR": "https://github.com/RocketChat/Rocket.Chat/pull/20430",
-        "Target Commit SHA": "ac9d7612a8fd6eae8074bd06e5449da843065be6",
-        "Closest PR": "https://github.com/RocketChat/Rocket.Chat/pull/24306",
-        "Closest Commit SHA": "61fa8f140f99e2c9652a8d3bb314aaa2264415ea",
-        "Title": "Chore: Convert to typescript the slash commands create files",
-        "Created At": "2022-01-26T22:21:24Z"
-    },
-    {
-        "repo_name": "nextcloud/android",
-        "Target PR": "https://github.com/nextcloud/android/pull/8433",
-        "Target Commit SHA": "8af3112fff7104e4e3a5d612be8e783e8fea6f4d",
-        "Closest PR": "https://github.com/nextcloud/android/pull/10256",
-        "Closest Commit SHA": "54b68b049c282a4d1be03744fc509519a8f3dac2",
-        "Title": "Bump emoji-google from 0.11.0 to 0.12.0",
-        "Created At": "2022-05-17T01:04:57Z"
-    },
-    {
-        "repo_name": "webbukkit/dynmap",
-        "Target PR": "https://github.com/webbukkit/dynmap/pull/2475",
-        "Target Commit SHA": "641f142cd3ccdcbfb04eda3059be22dd9ed93783",
-        "Closest PR": "https://github.com/webbukkit/dynmap/pull/2874",
-        "Closest Commit SHA": "1289e31f8ca1d05127ff4bd62a8f955ff021f16d",
-        "Title": "fix Bukkit version detection",
-        "Created At": "2020-04-13T10:46:38Z"
-    },
-    {
-        "repo_name": "containous/traefik",
-        "Target PR": "https://github.com/containous/traefik/pull/4918",
-        "Target Commit SHA": "51287d9316b7506f0bab8ffcf6db517b38566390",
-        "Closest PR": "https://github.com/traefik/traefik/pull/6857",
-        "Closest Commit SHA": null,
-        "Title": "Add HTTP Provider",
-        "Created At": "2020-05-27T19:15:50Z"
-    },
-    {
-        "repo_name": "bitwarden/clients",
-        "Target PR": "https://github.com/bitwarden/clients/pull/5813",
-        "Target Commit SHA": "61d5b2df9c43c048c772c4d72c1c64a047a9b432",
-        "Closest PR": "https://github.com/bitwarden/clients/pull/9691",
-        "Closest Commit SHA": "0c6e296dc37c1ee1e9fd0240031619117747087b",
-        "Title": "[PM-8860] add client side form validation to recover 2fa component",
-        "Created At": "2024-06-17T14:00:46Z"
-    },
-    {
-        "repo_name": "matrix-org/matrix-react-sdk",
-        "Target PR": "https://github.com/matrix-org/matrix-react-sdk/pull/5981",
-        "Target Commit SHA": "45acf70b00cb0c51740455d09164b1c3c033b5f3",
-        "Closest PR": "https://github.com/matrix-org/matrix-react-sdk/pull/8518",
-        "Closest Commit SHA": "7e63202f9a93ad83acd1207137d740c369a3d702",
-        "Title": "Replace message composer menu with IconizedContextMenu",
-        "Created At": "2022-05-06T12:48:19Z"
-    },
-    {
-        "repo_name": "home-assistant/plugin-dns",
-        "Target PR": "https://github.com/home-assistant/plugin-dns/pull/59",
-        "Target Commit SHA": "19f79cc8ba43b05afeef3b7c3921694897a24b86",
-        "Closest PR": "https://github.com/home-assistant/plugin-dns/pull/91",
-        "Closest Commit SHA": "51d4cb594782d0a127aea523044065b5f80abbe4",
-        "Title": "Bump docker/login-action from 1.14.1 to 2.0.0",
-        "Created At": "2022-05-06T06:04:17Z"
-    },
-    {
-        "repo_name": "OpencachingDeutschland/oc-server3",
-        "Target PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/893",
-        "Target Commit SHA": "e36cbdce882fe37af3fed29e826fa86fed463ee4",
-        "Closest PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/902",
-        "Closest Commit SHA": "4bdd6a0e7b7760cea03b91812cbb80d7b16e3b5f",
-        "Title": "Fix XSS from open bug bounty from slack message 01",
-        "Created At": "2022-12-11T16:16:30Z"
-    },
-    {
-        "repo_name": "scipy/scipy",
-        "Target PR": "https://github.com/scipy/scipy/pull/16397",
-        "Target Commit SHA": "9a992782abc3123e139901c8751c076ceca0cf72",
-        "Closest PR": "https://github.com/scipy/scipy/pull/18668",
-        "Closest Commit SHA": "bd8ef0c59cea2a065eca8e4d9a9e8f7b0a5f1792",
-        "Title": "ENH: add machinery to support Array API",
-        "Created At": "2023-06-13T17:41:51Z"
-    },
-    {
-        "repo_name": "helm/helm",
-        "Target PR": "https://github.com/helm/helm/pull/3152",
-        "Target Commit SHA": "e8e6ac5d7783808cc0bd1adad053bec339849647",
-        "Closest PR": "https://github.com/helm/helm/pull/4930",
-        "Closest Commit SHA": "58272bfd4a774e47fd3a59af06647bb05980e9cd",
-        "Title": "fix(helm): Print details for pod resource",
-        "Created At": "2018-11-15T21:46:35Z"
-    },
-    {
-        "repo_name": "neovim/neovim",
-        "Target PR": "https://github.com/neovim/neovim/pull/10082",
-        "Target Commit SHA": "4553fc5e6cb6c8c43f57c173d01b31a61e51d13f",
-        "Closest PR": "https://github.com/neovim/neovim/pull/12385",
-        "Closest Commit SHA": "78ecec885e7412a62ced899133c099c31f56c110",
-        "Title": "runtime: Add TeX conceal for \\left and \\right pipe",
-        "Created At": "2020-05-27T12:48:21Z"
-    },
-    {
-        "repo_name": "python/cpython",
-        "Target PR": "https://github.com/python/cpython/pull/107982",
-        "Target Commit SHA": "ccf81e1088c25a9f4464e478dc3b5c03ed7ee63b",
-        "Closest PR": "https://github.com/python/cpython/pull/120643",
-        "Closest Commit SHA": "9e4a81f00fef689c6e18a64245aa064eaadc7ac7",
-        "Title": "gh-120642: Move private PyCode APIs to the internal C API",
-        "Created At": "2024-06-17T14:18:51Z"
-    },
-    {
-        "repo_name": "ansible/ansible",
-        "Target PR": "https://github.com/ansible/ansible/pull/73487",
-        "Target Commit SHA": "0cdc410dce6658e93c06fa27e0100ddbb11e7015",
-        "Closest PR": "https://github.com/ansible/ansible/pull/76954",
-        "Closest Commit SHA": "5bddecb048aae0a7fc84e38e086ac90445c4edb4",
-        "Title": "gather_facts sees collection networking connection",
-        "Created At": "2022-02-04T14:34:19Z"
-    },
-    {
-        "repo_name": "authzed/spicedb",
-        "Target PR": "https://github.com/authzed/spicedb/pull/1397",
-        "Target Commit SHA": "666d083225a1f3274112be95a9c6e17cc003be34",
-        "Closest PR": "https://github.com/authzed/spicedb/pull/1937",
-        "Closest Commit SHA": "58b50424af4d788a34388d70ef3059a423cfb3e9",
-        "Title": "Initial support for Intersection arrow",
-        "Created At": "2024-06-13T18:44:55Z"
-    },
-    {
-        "repo_name": "GENIVI/dlt-daemon",
-        "Target PR": "https://github.com/GENIVI/dlt-daemon/pull/275",
-        "Target Commit SHA": "ff4f44c159df6f44b48bd38c9d2f104eb360be11",
-        "Closest PR": "https://github.com/COVESA/dlt-daemon/pull/350",
-        "Closest Commit SHA": "68fb45019d04b637d5a51fbda411599ccf779dad",
-        "Title": "dlt-system: fix invalid free by removing unused TempDir",
-        "Created At": "2021-11-11T14:55:36Z"
-    },
-    {
-        "repo_name": "moderntribe/panel-builder",
-        "Target PR": "https://github.com/moderntribe/panel-builder/pull/173",
-        "Target Commit SHA": "4528d4f855dbbf24e9fc12a162fda84ce3bedc2f",
-        "Closest PR": "https://github.com/moderntribe/panel-builder/pull/189",
-        "Closest Commit SHA": "34c4419cce4e52dc17128ac70121736ac5accc11",
-        "Title": "Fixed a deprecation issue with oembed class usage from WP.",
-        "Created At": "2020-11-25T15:56:27Z"
-    },
-    {
-        "repo_name": "cocagne/pysrp",
-        "Target PR": "https://github.com/cocagne/pysrp/pull/43",
-        "Target Commit SHA": "dba52642f5e95d3da7af1780561213ee6053195f",
-        "Closest PR": "https://github.com/cocagne/pysrp/pull/45",
-        "Closest Commit SHA": "62e290ac21cd0fa161b6340f19dcbc6cdbc01aa8",
-        "Title": "Update libssl requested by pysrp for Darwin",
-        "Created At": "2021-05-21T14:55:47Z"
-    },
-    {
-        "repo_name": "Exiv2/exiv2",
-        "Target PR": "https://github.com/Exiv2/exiv2/pull/795",
-        "Target Commit SHA": "6fa2e31206127bd8bcac0269311f3775a8d6ea21",
-        "Closest PR": "https://github.com/Exiv2/exiv2/pull/1181",
-        "Closest Commit SHA": "7fa2ce90dc8d87dfb090a67c70fc23d148aa86b8",
-        "Title": "GCC 9.3.0 broken on MinGW/msys2 and CYGWIN (0.27->master)",
-        "Created At": "2020-04-24T14:45:55Z"
-    },
-    {
-        "repo_name": "miekg/dns",
-        "Target PR": "https://github.com/miekg/dns/pull/1044",
-        "Target Commit SHA": "8ebf2e419df7857ac8919baa05248789a8ffbf33",
-        "Closest PR": "https://github.com/miekg/dns/pull/1189",
-        "Closest Commit SHA": "fa528cceb79c97af9f11e13ee2c511700b62197d",
-        "Title": "Fix PacketConnReader typo in DecorateReader docs",
-        "Created At": "2020-10-24T15:55:42Z"
-    },
-    {
-        "repo_name": "infinispan/infinispan",
-        "Target PR": "https://github.com/infinispan/infinispan/pull/5639",
-        "Target Commit SHA": "2944b0d1369a230bde88392b222921537c99331e",
-        "Closest PR": "https://github.com/infinispan/infinispan/pull/6537",
-        "Closest Commit SHA": "abe7eac87bcf2d33e86a5efbd4fbef721fd29fc5",
-        "Title": "[9.4]  ISPN-9822 BasicComponentRegistryImpl fails with security manager",
-        "Created At": "2018-12-13T09:48:29Z"
-    },
-    {
-        "repo_name": "emarref/jwt",
-        "Target PR": "https://github.com/emarref/jwt/pull/20",
-        "Target Commit SHA": "79f563750ff90dabd4fa677c4b4e5ec9ed52d9b4",
-        "Closest PR": "https://github.com/emarref/jwt/pull/18",
-        "Closest Commit SHA": "4069f6a70909449d0cd245145055d8bd2a3de1f0",
-        "Title": "More precise exceptions",
-        "Created At": "2016-07-27T13:04:38Z"
-    },
-    {
-        "repo_name": "wasm3/wasm3",
-        "Target PR": "https://github.com/wasm3/wasm3/pull/324",
-        "Target Commit SHA": "8441c82c4a98f554b12971450220b580c3c2b6df",
-        "Closest PR": "https://github.com/wasm3/wasm3/pull/417",
-        "Closest Commit SHA": "6512cc99d0dfac983e8a0f67037b0f311ec3d395",
-        "Title": "Check global mutability",
-        "Created At": "2023-01-08T12:41:18Z"
-    },
-    {
-        "repo_name": "nextcloud/notes",
-        "Target PR": "https://github.com/nextcloud/notes/pull/1031",
-        "Target Commit SHA": "eb5c3ac65b744fcb2354368d0806baa674e747e4",
-        "Closest PR": "https://github.com/nextcloud/notes/pull/1279",
-        "Closest Commit SHA": "3f773b79ea7e8674af51f1bf20f757207c8186b2",
-        "Title": "Chore(deps): Bump @nextcloud/router from 2.2.1 to 3.0.1",
-        "Created At": "2024-04-23T10:36:24Z"
-    },
-    {
-        "repo_name": "tgstation/tgstation-server",
-        "Target PR": "https://github.com/tgstation/tgstation-server/pull/1526",
-        "Target Commit SHA": "b86d678e9fc5dc4b81bf90a2959f7f25a81f7146",
-        "Closest PR": "https://github.com/tgstation/tgstation-server/pull/1808",
-        "Closest Commit SHA": "0cf3ded03cd13f3c0b66d63834855b0371e7dfda",
-        "Title": "v6.4.1: Fix chat help commands",
-        "Created At": "2024-03-27T00:36:30Z"
-    },
-    {
-        "repo_name": "weston-embedded/uC-FTPs",
-        "Target PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
-        "Target Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
-        "Closest PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
-        "Closest Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
-        "Title": "Patched DoS vulnerabilities CVE-2022-46377 and CVE-2022-46378 / TALOS-2022-1681.",
-        "Created At": "2023-02-24T19:27:39Z"
-    },
-    {
-        "repo_name": "wazuh/wazuh-kibana-app",
-        "Target PR": "https://github.com/wazuh/wazuh-kibana-app/pull/5428",
-        "Target Commit SHA": "6290e99887fb20f84e2dba21e4f1255d7ad4e69e",
-        "Closest PR": "https://github.com/wazuh/wazuh-dashboard-plugins/pull/6652",
-        "Closest Commit SHA": "fd5dcaec03bdc55a96fd1a50eef4b44e9e85ae5f",
-        "Title": "Fix inventory table fullscreen styles",
-        "Created At": "2024-05-08T11:26:28Z"
-    },
-    {
-        "repo_name": "jackaudio/jack2",
-        "Target PR": "https://github.com/jackaudio/jack2/pull/480",
-        "Target Commit SHA": "dad4b5702782eef3bd66e3c3f4fefaaae3571208",
-        "Closest PR": "https://github.com/jackaudio/jack2/pull/597",
-        "Closest Commit SHA": "adc4a730d81708ac929b05199a9940f8c32ea91f",
-        "Title": "[DRAFT] Multi server by same client support",
-        "Created At": "2020-06-05T11:56:12Z"
-    },
-    {
-        "repo_name": "gradio-app/gradio",
-        "Target PR": "https://github.com/gradio-app/gradio/pull/817",
-        "Target Commit SHA": "80fea89117358ee105973453fdc402398ae20239",
-        "Closest PR": "https://github.com/gradio-app/gradio/pull/3459",
-        "Closest Commit SHA": "226e87cd54a1b4cf0340955eac6bc709b6844c0e",
-        "Title": "implement missing methods handle nested dict",
-        "Created At": "2023-03-14T07:43:48Z"
-    },
-    {
-        "repo_name": "graphite-project/graphite-web",
-        "Target PR": "https://github.com/graphite-project/graphite-web/pull/2785",
-        "Target Commit SHA": "2f178f490e10efc03cd1d27c72f64ecab224eb23",
-        "Closest PR": "https://github.com/graphite-project/graphite-web/pull/2821",
-        "Closest Commit SHA": "60517f8661d7e3cc476caaaabff37f2d333a2534",
-        "Title": "Tags Docs: fix allowed characters",
-        "Created At": "2023-10-26T08:52:41Z"
-    },
-    {
-        "repo_name": "apache/airflow",
-        "Target PR": "https://github.com/apache/airflow/pull/33108",
-        "Target Commit SHA": "52ca7bfc988f4c9b608f544bc3e9524fd6564639",
-        "Closest PR": "https://github.com/apache/airflow/pull/40278",
-        "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
-        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
-        "Created At": "2024-06-17T12:25:37Z"
-    },
-    {
-        "repo_name": "destinygg/chat",
-        "Target PR": "https://github.com/destinygg/chat/pull/35",
-        "Target Commit SHA": "bebd256fc3063111fb4503ca25e005ebf6e73780",
-        "Closest PR": "https://github.com/destinygg/chat/pull/35",
-        "Closest Commit SHA": "bebd256fc3063111fb4503ca25e005ebf6e73780",
-        "Title": "Fix WebSocket upgrade CSRF vulnerability",
-        "Created At": "2020-07-14T19:54:49Z"
-    },
-    {
-        "repo_name": "grafana/grafana",
-        "Target PR": "https://github.com/grafana/grafana/pull/62143",
-        "Target Commit SHA": "8b574e22b53aa4c5a35032a58844fd4aaaa12f5f",
-        "Closest PR": "https://github.com/grafana/grafana/pull/81285",
-        "Closest Commit SHA": "a9731846ccbfd905b85246c7d2d4160f1d075cc4",
-        "Title": "Docs: fix broken link",
-        "Created At": "2024-01-25T16:45:24Z"
-    },
-    {
-        "repo_name": "scala/scala",
-        "Target PR": "https://github.com/scala/scala/pull/10118",
-        "Target Commit SHA": "3a124138843ef06594aa955800ba83d7c8ac2b84",
-        "Closest PR": "https://github.com/scala/scala/pull/10502",
-        "Closest Commit SHA": "3b154a09de7a7527d5e15804e252b74294c52881",
-        "Title": "Use URI to compute Scaladoc URI [ci: last-only]",
-        "Created At": "2023-08-16T19:02:21Z"
-    },
-    {
-        "repo_name": "marmelab/react-admin",
-        "Target PR": "https://github.com/marmelab/react-admin/pull/8645",
-        "Target Commit SHA": "a4619a8691c2bea48359a656afb820eb0f6dc3d7",
-        "Closest PR": "https://github.com/marmelab/react-admin/pull/9660",
-        "Closest Commit SHA": "4c9b62b35d5fdde103d0b70691b7365f02ff809f",
-        "Title": "[Demo] Fix missing tags field in simple example fake dataset raises a warning",
-        "Created At": "2024-02-12T16:19:38Z"
-    },
-    {
-        "repo_name": "argoproj/argo-cd",
-        "Target PR": "https://github.com/argoproj/argo-cd/pull/3088",
-        "Target Commit SHA": "916d4aed5775fead4ab75f47c1d352cd0e73b815",
-        "Closest PR": "https://github.com/argoproj/argo-cd/pull/5430",
-        "Closest Commit SHA": "bb15a4996e327fb27ad91f3f6fa24f831f7754e0",
-        "Title": "fix(ui): Only connect edges between resources in the same namespace",
-        "Created At": "2021-02-05T22:21:27Z"
-    },
-    {
-        "repo_name": "cowtowncoder/java-merge-sort",
-        "Target PR": "https://github.com/cowtowncoder/java-merge-sort/pull/21",
-        "Target Commit SHA": "341fc70125ca4f3065b9604de1ee5e06fb5c245f",
-        "Closest PR": "https://github.com/cowtowncoder/java-merge-sort/pull/21",
-        "Closest Commit SHA": "341fc70125ca4f3065b9604de1ee5e06fb5c245f",
-        "Title": "[SECURITY] Fix Temporary File Information Disclosure Vulnerability\n",
-        "Created At": "2022-11-19T02:05:33Z"
-    },
-    {
-        "repo_name": "frappe/frappe",
-        "Target PR": "https://github.com/frappe/frappe/pull/8044",
-        "Target Commit SHA": "4a12dcef54d4c8831622a84a9c7dbac3fec0b992",
-        "Closest PR": "https://github.com/frappe/frappe/pull/11135",
-        "Closest Commit SHA": "1452ada65d9baf4468f7b77ef30ebde263daa1e5",
-        "Title": "fix: do not sanitize code field (bp #11133)",
-        "Created At": "2020-07-28T14:47:25Z"
-    },
-    {
-        "repo_name": "ansible/ansible",
-        "Target PR": "https://github.com/ansible/ansible/pull/63366",
-        "Target Commit SHA": "cb0f535a8b254a2daf69cd067e842fabb2993034",
-        "Closest PR": "https://github.com/ansible/ansible/pull/72181",
-        "Closest Commit SHA": "83c34eb7dea0faa5364fed3f57560daf20ae9682",
-        "Title": "[dnf] accumulate update filters (#71726)",
-        "Created At": "2020-10-09T23:31:05Z"
-    },
-    {
-        "repo_name": "pluginsGLPI/news",
-        "Target PR": "https://github.com/pluginsGLPI/news/pull/69",
-        "Target Commit SHA": "aaffe6dc30bcab4142dd257a3e2647cdac458890",
-        "Closest PR": "https://github.com/pluginsGLPI/news/pull/75",
-        "Closest Commit SHA": "90969f40ba3153336cf04df4e38478c509a89b96",
-        "Title": "Fix notice on plugin install",
-        "Created At": "2020-01-31T13:59:48Z"
-    },
-    {
-        "repo_name": "adamghill/django-unicorn",
-        "Target PR": "https://github.com/adamghill/django-unicorn/pull/288",
-        "Target Commit SHA": "aa5b9835d946bd9893ef02e556859e3ea62cc5e2",
-        "Closest PR": "https://github.com/adamghill/django-unicorn/pull/439",
-        "Closest Commit SHA": "e0c6d333aff67ee8a9c5f433901a23ae342233c1",
-        "Title": "Make sure that `updated_` and `updating_` methods are only called once",
-        "Created At": "2022-09-09T01:55:49Z"
-    },
-    {
-        "repo_name": "igniterealtime/Openfire",
-        "Target PR": "https://github.com/igniterealtime/Openfire/pull/1498",
-        "Target Commit SHA": "cb900749d4e836b32cc6e2cc41cda17f252b977d",
-        "Closest PR": "https://github.com/igniterealtime/Openfire/pull/1718",
-        "Closest Commit SHA": "89ba3d2580d6b544f379d8ad2f61d91869d8c13d",
-        "Title": "Fix Maven Publish job in GH Actions",
-        "Created At": "2020-10-01T14:16:08Z"
-    },
-    {
-        "repo_name": "eclipse-openj9/openj9",
-        "Target PR": "https://github.com/eclipse-openj9/openj9/pull/14935",
-        "Target Commit SHA": "2fd77d98c2276375fa0bc99a421ebdc4824e5b40",
-        "Closest PR": "https://github.com/eclipse-openj9/openj9/pull/17229",
-        "Closest Commit SHA": "9126ed150cc44f837ae8c75269a2fe9892d06f14",
-        "Title": "Prepare MM_Scheduler for OMR Base Class Changes",
-        "Created At": "2023-04-19T17:45:56Z"
-    },
-    {
-        "repo_name": "vim/vim",
-        "Target PR": "https://github.com/vim/vim/pull/13552",
-        "Target Commit SHA": "a67dd7d1b2607e3f1635d38f97a8e751aa650dee",
-        "Closest PR": "https://github.com/vim/vim/pull/15034",
-        "Closest Commit SHA": "89fa3eb0d87a0012007871b7fc9f30b1f450ae99",
-        "Title": "Fix typo in several documents",
-        "Created At": "2024-06-17T15:35:37Z"
-    },
-    {
-        "repo_name": "frappe/frappe",
-        "Target PR": "https://github.com/frappe/frappe/pull/8045",
-        "Target Commit SHA": "63b2f1d403418768012343e64261303030b48849",
-        "Closest PR": "https://github.com/frappe/frappe/pull/11135",
-        "Closest Commit SHA": "1452ada65d9baf4468f7b77ef30ebde263daa1e5",
-        "Title": "fix: do not sanitize code field (bp #11133)",
-        "Created At": "2020-07-28T14:47:25Z"
-    },
-    {
-        "repo_name": "OHDSI/WebAPI",
-        "Target PR": "https://github.com/OHDSI/WebAPI/pull/1101",
-        "Target Commit SHA": "d7b12b2f5234e425e5bc76545e75de0d6eb3f8fd",
-        "Closest PR": "https://github.com/OHDSI/WebAPI/pull/1537",
-        "Closest Commit SHA": "dbddfb4ae30fecb398aa02e2c31e0e5a49ada9b3",
-        "Title": "pac4j and Authz google id from 2.7",
-        "Created At": "2020-05-13T17:39:59Z"
-    },
-    {
-        "repo_name": "free5gc/udm",
-        "Target PR": "https://github.com/free5gc/udm/pull/20",
-        "Target Commit SHA": "5e1479cc686f058992557669b13fd3761a1b6024",
-        "Closest PR": "https://github.com/free5gc/udm/pull/34",
-        "Closest Commit SHA": "c2ede61351635a16b33f835ddb0076c0a6cad8a1",
-        "Title": "Bump google.golang.org/protobuf from 1.32.0 to 1.33.0",
-        "Created At": "2024-03-13T23:28:11Z"
-    },
-    {
         "repo_name": "ACINQ/eclair",
         "Target PR": "https://github.com/ACINQ/eclair/pull/1985",
         "Target Commit SHA": "75eafd0e4d4d93ac51e40a56c85e9df87a47d391",
@@ -700,150 +7,6 @@
         "Closest Commit SHA": "0de91f45231ea3f81a64c69bd0ed820570ea1732",
         "Title": "Bump scala-library from 2.13.8 to 2.13.9",
         "Created At": "2022-09-30T17:22:30Z"
-    },
-    {
-        "repo_name": "FriendsOfTYPO3/mediace",
-        "Target PR": "https://github.com/FriendsOfTYPO3/mediace/pull/31",
-        "Target Commit SHA": "cd705578691852a5a942ce8b676031985964182d",
-        "Closest PR": "https://github.com/FriendsOfTYPO3/mediace/pull/31",
-        "Closest Commit SHA": "cd705578691852a5a942ce8b676031985964182d",
-        "Title": "[SECURITY] Restrict file validation hash generation",
-        "Created At": "2020-07-28T09:10:59Z"
-    },
-    {
-        "repo_name": "librenms/librenms",
-        "Target PR": "https://github.com/librenms/librenms/pull/13554",
-        "Target Commit SHA": "35a69050922692e3aa69dae74bff981f30ee7689",
-        "Closest PR": "https://github.com/librenms/librenms/pull/14669",
-        "Closest Commit SHA": "1647913e23548b407ccf3e3c9e9cbe509a65eea2",
-        "Title": "Sensors: Handle string indexes better, change default flags",
-        "Created At": "2022-11-22T22:06:09Z"
-    },
-    {
-        "repo_name": "pjsip/pjproject",
-        "Target PR": "https://github.com/pjsip/pjproject/pull/2663",
-        "Target Commit SHA": "90a7d70ae24eed1f482e1f67c1f009f11787f3f5",
-        "Closest PR": "https://github.com/pjsip/pjproject/pull/3009",
-        "Closest Commit SHA": "d27f79da11df7bc8bb56c2f291d71e54df8d2c47",
-        "Title": "Check potential buffer overflow in `pjsip_auth_create_digest()`",
-        "Created At": "2022-03-07T07:39:26Z"
-    },
-    {
-        "repo_name": "antirez/redis",
-        "Target PR": "https://github.com/antirez/redis/pull/1418",
-        "Target Commit SHA": "a111d2f57efc5e934358ea39e41335f822558ab3",
-        "Closest PR": "https://github.com/redis/redis/pull/2169",
-        "Closest Commit SHA": "c87d63d00f306a4040914687315fec1d8aed3a37",
-        "Title": "fix benchmark memleak in loop mode",
-        "Created At": "2014-11-28T01:59:11Z"
-    },
-    {
-        "repo_name": "pf4j/pf4j",
-        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
-        "Target Commit SHA": "1f5e5319ecf21cd0b8acac49f4acf1590507f950",
-        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
-        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
-        "Title": "Fix the problem of not being able to disable plugins correctly",
-        "Created At": "2024-04-03T15:51:39Z"
-    },
-    {
-        "repo_name": "jooby-project/jooby",
-        "Target PR": "https://github.com/jooby-project/jooby/pull/1368",
-        "Target Commit SHA": "27b4af283de1a2c2a6b0530039b46eef75ddf655",
-        "Closest PR": "https://github.com/jooby-project/jooby/pull/1919",
-        "Closest Commit SHA": "0998fc529c22b9a6f467f00baaacf094de83cbb7",
-        "Title": "build(deps): bump directory-watcher from 0.9.10 to 0.10.0",
-        "Created At": "2020-08-13T06:58:12Z"
-    },
-    {
-        "repo_name": "pf4j/pf4j",
-        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
-        "Target Commit SHA": "1f5e5319ecf21cd0b8acac49f4acf1590507f950",
-        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
-        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
-        "Title": "Fix the problem of not being able to disable plugins correctly",
-        "Created At": "2024-04-03T15:51:39Z"
-    },
-    {
-        "repo_name": "xbmc/xbmc",
-        "Target PR": "https://github.com/xbmc/xbmc/pull/12024",
-        "Target Commit SHA": "089bed625a9c8b2a6323a98f925da8369f9fbb64",
-        "Closest PR": "https://github.com/xbmc/xbmc/pull/13822",
-        "Closest Commit SHA": "94737c2f6aa9e9f0939ed11a697498aa0de5ef4e",
-        "Title": "[fix] save resume points on exit",
-        "Created At": "2018-04-28T09:39:13Z"
-    },
-    {
-        "repo_name": "bolt/bolt",
-        "Target PR": "https://github.com/bolt/bolt/pull/7802",
-        "Target Commit SHA": "45780faa7ee5263a5a5ca4cfe102830ef244b06a",
-        "Closest PR": "https://github.com/bolt/bolt/pull/7871",
-        "Closest Commit SHA": "5be5f7a93c84b2e0b0368b1eb0d0523130853271",
-        "Title": "Fixes slashes in directory names",
-        "Created At": "2020-08-03T10:36:04Z"
-    },
-    {
-        "repo_name": "matrix-org/synapse",
-        "Target PR": "https://github.com/matrix-org/synapse/pull/14642",
-        "Target Commit SHA": "e2a1adbf5d11288f2134ced1f84c6ffdd91a9357",
-        "Closest PR": "https://github.com/matrix-org/synapse/pull/16737",
-        "Closest Commit SHA": "aa983c7b0f46db18bcafb5e78b447cfd096971a3",
-        "Title": "Clarify documentation for `only_for_reauth`",
-        "Created At": "2023-12-07T17:38:11Z"
-    },
-    {
-        "repo_name": "clonos/control-pane",
-        "Target PR": "https://github.com/clonos/control-pane/pull/20",
-        "Target Commit SHA": "a2d506267cb6179865c263e5f7b76340de95a514",
-        "Closest PR": "https://github.com/clonos/control-pane/pull/20",
-        "Closest Commit SHA": "a2d506267cb6179865c263e5f7b76340de95a514",
-        "Title": "Fixed most SQL Injections",
-        "Created At": "2019-04-24T15:24:53Z"
-    },
-    {
-        "repo_name": "pimcore/pimcore",
-        "Target PR": "https://github.com/pimcore/pimcore/pull/13347",
-        "Target Commit SHA": "43aa34e018f5cd447bceb864358285ba92f68372",
-        "Closest PR": "https://github.com/pimcore/pimcore/pull/16075",
-        "Closest Commit SHA": "3d81762cd56f123969faa19280d0b7e007dd7bd0",
-        "Title": "fix(page-factory): bug with not initalized defaultPageType",
-        "Created At": "2023-10-10T08:32:28Z"
-    },
-    {
-        "repo_name": "openemr/openemr",
-        "Target PR": "https://github.com/openemr/openemr/pull/2712",
-        "Target Commit SHA": "32a724f47321d1a4a68ca4fcbb517e7eb3a98a19",
-        "Closest PR": "https://github.com/openemr/openemr/pull/3959",
-        "Closest Commit SHA": "2763b493f128161e6b77a392ba1e0fcb1c023b12",
-        "Title": "corrected misspelling for system and added codeable concepts in FHIR  Condition",
-        "Created At": "2020-10-06T18:59:28Z"
-    },
-    {
-        "repo_name": "nedap/mysql-binuuid-rails",
-        "Target PR": "https://github.com/nedap/mysql-binuuid-rails/pull/18",
-        "Target Commit SHA": "9ae920951b46ff0163b16c55d744e89acb1036d4",
-        "Closest PR": "https://github.com/nedap/mysql-binuuid-rails/pull/27",
-        "Closest Commit SHA": "2acfe7437371a6d5a856f21e7eb750c1b692ba4c",
-        "Title": "Bugfix data casting",
-        "Created At": "2019-04-16T21:20:51Z"
-    },
-    {
-        "repo_name": "nextcloud/android",
-        "Target PR": "https://github.com/nextcloud/android/pull/7919",
-        "Target Commit SHA": "33945b880bdab610fe78ef3901dd22abb70cf114",
-        "Closest PR": "https://github.com/nextcloud/android/pull/9791",
-        "Closest Commit SHA": "b81027d057180f3f661f06c794245c49374f319c",
-        "Title": "FileActivity: fix crash on share operations when FileDetailFragment is second fragment",
-        "Created At": "2022-02-01T11:46:38Z"
-    },
-    {
-        "repo_name": "shoppingflux/module-prestashop",
-        "Target PR": "https://github.com/shoppingflux/module-prestashop/pull/209",
-        "Target Commit SHA": "a0a12f3084e0bcb593078b67c51be8d752dfd192",
-        "Closest PR": "https://github.com/shoppingflux/module-prestashop/pull/301",
-        "Closest Commit SHA": "e80fa97e6175bc17b1d8b12a42b73da4e6df4d76",
-        "Title": "Fix shipping cost by weight for variations (42561)",
-        "Created At": "2023-10-11T13:04:18Z"
     },
     {
         "repo_name": "AndyRixon/LayerBB",
@@ -855,6 +18,96 @@
         "Created At": "2019-04-07T11:02:49Z"
     },
     {
+        "repo_name": "CrowCpp/Crow",
+        "Target PR": "https://github.com/CrowCpp/Crow/pull/317",
+        "Target Commit SHA": "8cfdfca76ee6d5195c51a7e1d4d62eb40d3dc0e2",
+        "Closest PR": "https://github.com/CrowCpp/Crow/pull/580",
+        "Closest Commit SHA": "a92aee49b96826f40290086502428efc9b55d633",
+        "Title": "fix warning on non MS systems for using sprintf instead of snprintf",
+        "Created At": "2022-12-20T10:25:12Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/795",
+        "Target Commit SHA": "6fa2e31206127bd8bcac0269311f3775a8d6ea21",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/1181",
+        "Closest Commit SHA": "7fa2ce90dc8d87dfb090a67c70fc23d148aa86b8",
+        "Title": "GCC 9.3.0 broken on MinGW/msys2 and CYGWIN (0.27->master)",
+        "Created At": "2020-04-24T14:45:55Z"
+    },
+    {
+        "repo_name": "FriendsOfTYPO3/mediace",
+        "Target PR": "https://github.com/FriendsOfTYPO3/mediace/pull/31",
+        "Target Commit SHA": "cd705578691852a5a942ce8b676031985964182d",
+        "Closest PR": "https://github.com/FriendsOfTYPO3/mediace/pull/31",
+        "Closest Commit SHA": "cd705578691852a5a942ce8b676031985964182d",
+        "Title": "[SECURITY] Restrict file validation hash generation",
+        "Created At": "2020-07-28T09:10:59Z"
+    },
+    {
+        "repo_name": "GENIVI/dlt-daemon",
+        "Target PR": "https://github.com/GENIVI/dlt-daemon/pull/275",
+        "Target Commit SHA": "ff4f44c159df6f44b48bd38c9d2f104eb360be11",
+        "Closest PR": "https://github.com/COVESA/dlt-daemon/pull/350",
+        "Closest Commit SHA": "68fb45019d04b637d5a51fbda411599ccf779dad",
+        "Title": "dlt-system: fix invalid free by removing unused TempDir",
+        "Created At": "2021-11-11T14:55:36Z"
+    },
+    {
+        "repo_name": "InvoicePlane/InvoicePlane",
+        "Target PR": "https://github.com/InvoicePlane/InvoicePlane/pull/551",
+        "Target Commit SHA": "7b64642943cd37011b85f0f316c9b4fb1b787ae4",
+        "Closest PR": "https://github.com/InvoicePlane/InvoicePlane/pull/678",
+        "Closest Commit SHA": "25cc633b35e7d53ba6cc8071e179c473e0aec8c1",
+        "Title": "[IP-747] Minor cosmetic changes to the General Settings forms",
+        "Created At": "2018-10-18T21:28:52Z"
+    },
+    {
+        "repo_name": "MediaArea/MediaInfoLib",
+        "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
+        "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
+        "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239",
+        "Closest Commit SHA": "a054a2578b0f7b97a3ea51c4db48940f25e06d64",
+        "Title": "Fix crash with nested nodes in xml and json output",
+        "Created At": "2020-04-09T17:28:58Z"
+    },
+    {
+        "repo_name": "MediaArea/MediaInfoLib",
+        "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
+        "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
+        "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239",
+        "Closest Commit SHA": "a054a2578b0f7b97a3ea51c4db48940f25e06d64",
+        "Title": "Fix crash with nested nodes in xml and json output",
+        "Created At": "2020-04-09T17:28:58Z"
+    },
+    {
+        "repo_name": "OHDSI/WebAPI",
+        "Target PR": "https://github.com/OHDSI/WebAPI/pull/1101",
+        "Target Commit SHA": "d7b12b2f5234e425e5bc76545e75de0d6eb3f8fd",
+        "Closest PR": "https://github.com/OHDSI/WebAPI/pull/1537",
+        "Closest Commit SHA": "dbddfb4ae30fecb398aa02e2c31e0e5a49ada9b3",
+        "Title": "pac4j and Authz google id from 2.7",
+        "Created At": "2020-05-13T17:39:59Z"
+    },
+    {
+        "repo_name": "OpencachingDeutschland/oc-server3",
+        "Target PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/893",
+        "Target Commit SHA": "e36cbdce882fe37af3fed29e826fa86fed463ee4",
+        "Closest PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/902",
+        "Closest Commit SHA": "4bdd6a0e7b7760cea03b91812cbb80d7b16e3b5f",
+        "Title": "Fix XSS from open bug bounty from slack message 01",
+        "Created At": "2022-12-11T16:16:30Z"
+    },
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "Target PR": "https://github.com/RocketChat/Rocket.Chat/pull/20430",
+        "Target Commit SHA": "ac9d7612a8fd6eae8074bd06e5449da843065be6",
+        "Closest PR": "https://github.com/RocketChat/Rocket.Chat/pull/24306",
+        "Closest Commit SHA": "61fa8f140f99e2c9652a8d3bb314aaa2264415ea",
+        "Title": "Chore: Convert to typescript the slash commands create files",
+        "Created At": "2022-01-26T22:21:24Z"
+    },
+    {
         "repo_name": "SimbCo/httpster",
         "Target PR": "https://github.com/SimbCo/httpster/pull/36",
         "Target Commit SHA": "d3055b3e30b40b65d30c5a06d6e053dffa7f35d0",
@@ -864,22 +117,130 @@
         "Created At": "2021-06-11T16:26:57Z"
     },
     {
-        "repo_name": "radareorg/radare2-extras",
-        "Target PR": "https://github.com/radareorg/radare2-extras/pull/255",
-        "Target Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
-        "Closest PR": "https://github.com/radareorg/radare2-extras/pull/285",
-        "Closest Commit SHA": "e158c1bbdcdeea04fe66c6f7fb0b368d22edb2cc",
-        "Title": "M32c",
-        "Created At": "2021-06-28T01:52:27Z"
+        "repo_name": "Smashing/smashing",
+        "Target PR": "https://github.com/Smashing/smashing/pull/186",
+        "Target Commit SHA": "d1577b1119b483071634c2e100503639de648580",
+        "Closest PR": "https://github.com/Smashing/smashing/pull/173",
+        "Closest Commit SHA": "4247bf79d5e1abd4ac9dcba5126d82741a9922ce",
+        "Title": "Send only data that is needed on the dashboard",
+        "Created At": "2020-09-02T13:15:35Z"
     },
     {
-        "repo_name": "nghttp2/nghttp2",
-        "Target PR": "https://github.com/nghttp2/nghttp2/pull/1961",
-        "Target Commit SHA": "aa0973caf584b199510c9ab1b28632ba074d4d5b",
-        "Closest PR": "https://github.com/nghttp2/nghttp2/pull/2208",
-        "Closest Commit SHA": "58ab46b5610711e1a49bfe29792644759bd8a6c8",
-        "Title": "build(deps): bump docker/build-push-action from 5 to 6",
-        "Created At": "2024-06-17T14:27:40Z"
+        "repo_name": "adamghill/django-unicorn",
+        "Target PR": "https://github.com/adamghill/django-unicorn/pull/288",
+        "Target Commit SHA": "aa5b9835d946bd9893ef02e556859e3ea62cc5e2",
+        "Closest PR": "https://github.com/adamghill/django-unicorn/pull/439",
+        "Closest Commit SHA": "e0c6d333aff67ee8a9c5f433901a23ae342233c1",
+        "Title": "Make sure that `updated_` and `updating_` methods are only called once",
+        "Created At": "2022-09-09T01:55:49Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/49142",
+        "Target Commit SHA": "8c1f701e6e9df29fe991f98265e2dd76acca4b8c",
+        "Closest PR": "https://github.com/ansible/ansible/pull/65289",
+        "Closest Commit SHA": "d8d9c9217dcdcec397af4f217019b36bac351c88",
+        "Title": "[stable-2.7] Add or later to the license expressed in the README",
+        "Created At": "2019-11-26T16:36:16Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/73487",
+        "Target Commit SHA": "0cdc410dce6658e93c06fa27e0100ddbb11e7015",
+        "Closest PR": "https://github.com/ansible/ansible/pull/76954",
+        "Closest Commit SHA": "5bddecb048aae0a7fc84e38e086ac90445c4edb4",
+        "Title": "gather_facts sees collection networking connection",
+        "Created At": "2022-02-04T14:34:19Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/63366",
+        "Target Commit SHA": "cb0f535a8b254a2daf69cd067e842fabb2993034",
+        "Closest PR": "https://github.com/ansible/ansible/pull/72181",
+        "Closest Commit SHA": "83c34eb7dea0faa5364fed3f57560daf20ae9682",
+        "Title": "[dnf] accumulate update filters (#71726)",
+        "Created At": "2020-10-09T23:31:05Z"
+    },
+    {
+        "repo_name": "antirez/redis",
+        "Target PR": "https://github.com/antirez/redis/pull/1418",
+        "Target Commit SHA": "a111d2f57efc5e934358ea39e41335f822558ab3",
+        "Closest PR": "https://github.com/redis/redis/pull/2169",
+        "Closest Commit SHA": "c87d63d00f306a4040914687315fec1d8aed3a37",
+        "Title": "fix benchmark memleak in loop mode",
+        "Created At": "2014-11-28T01:59:11Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/32014",
+        "Target Commit SHA": "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db",
+        "Closest PR": "https://github.com/apache/airflow/pull/40265",
+        "Closest Commit SHA": "56904394b9162644bf4b2a79651ee7d6b9fc05b6",
+        "Title": "Fix typo in xcoms.rst",
+        "Created At": "2024-06-15T22:09:57Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/33108",
+        "Target Commit SHA": "52ca7bfc988f4c9b608f544bc3e9524fd6564639",
+        "Closest PR": "https://github.com/apache/airflow/pull/40278",
+        "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
+        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
+        "Created At": "2024-06-17T12:25:37Z"
+    },
+    {
+        "repo_name": "appneta/tcpreplay",
+        "Target PR": "https://github.com/appneta/tcpreplay/pull/720",
+        "Target Commit SHA": "8764d4d9f1335dcaaafee0fa277f5ae803033666",
+        "Closest PR": "https://github.com/appneta/tcpreplay/pull/783",
+        "Closest Commit SHA": "342d29d9e42898b1e097a9f9a31fe0ad15d2f43b",
+        "Title": "Fix bugs caused by strtok_r",
+        "Created At": "2023-03-01T08:54:36Z"
+    },
+    {
+        "repo_name": "argoproj/argo-cd",
+        "Target PR": "https://github.com/argoproj/argo-cd/pull/3088",
+        "Target Commit SHA": "916d4aed5775fead4ab75f47c1d352cd0e73b815",
+        "Closest PR": "https://github.com/argoproj/argo-cd/pull/5430",
+        "Closest Commit SHA": "bb15a4996e327fb27ad91f3f6fa24f831f7754e0",
+        "Title": "fix(ui): Only connect edges between resources in the same namespace",
+        "Created At": "2021-02-05T22:21:27Z"
+    },
+    {
+        "repo_name": "authzed/spicedb",
+        "Target PR": "https://github.com/authzed/spicedb/pull/1397",
+        "Target Commit SHA": "666d083225a1f3274112be95a9c6e17cc003be34",
+        "Closest PR": "https://github.com/authzed/spicedb/pull/1937",
+        "Closest Commit SHA": "58b50424af4d788a34388d70ef3059a423cfb3e9",
+        "Title": "Initial support for Intersection arrow",
+        "Created At": "2024-06-13T18:44:55Z"
+    },
+    {
+        "repo_name": "bigbluebutton/bigbluebutton",
+        "Target PR": "https://github.com/bigbluebutton/bigbluebutton/pull/13850",
+        "Target Commit SHA": "b41f895ab80e7be8a54a41990c95e4c343b773f3",
+        "Closest PR": "https://github.com/bigbluebutton/bigbluebutton/pull/16090",
+        "Closest Commit SHA": "81fab5281259ef5b4cbb36d2ee249debbbbadbe4",
+        "Title": "fix: Webcam backgrounds crash the entire client on Firefox",
+        "Created At": "2022-12-06T10:35:56Z"
+    },
+    {
+        "repo_name": "bitwarden/clients",
+        "Target PR": "https://github.com/bitwarden/clients/pull/5813",
+        "Target Commit SHA": "61d5b2df9c43c048c772c4d72c1c64a047a9b432",
+        "Closest PR": "https://github.com/bitwarden/clients/pull/9691",
+        "Closest Commit SHA": "0c6e296dc37c1ee1e9fd0240031619117747087b",
+        "Title": "[PM-8860] add client side form validation to recover 2fa component",
+        "Created At": "2024-06-17T14:00:46Z"
+    },
+    {
+        "repo_name": "bolt/bolt",
+        "Target PR": "https://github.com/bolt/bolt/pull/7802",
+        "Target Commit SHA": "45780faa7ee5263a5a5ca4cfe102830ef244b06a",
+        "Closest PR": "https://github.com/bolt/bolt/pull/7871",
+        "Closest Commit SHA": "5be5f7a93c84b2e0b0368b1eb0d0523130853271",
+        "Title": "Fixes slashes in directory names",
+        "Created At": "2020-08-03T10:36:04Z"
     },
     {
         "repo_name": "candlepin/candlepin",
@@ -891,6 +252,636 @@
         "Created At": "2023-01-16T13:17:32Z"
     },
     {
+        "repo_name": "clonos/control-pane",
+        "Target PR": "https://github.com/clonos/control-pane/pull/20",
+        "Target Commit SHA": "a2d506267cb6179865c263e5f7b76340de95a514",
+        "Closest PR": "https://github.com/clonos/control-pane/pull/20",
+        "Closest Commit SHA": "a2d506267cb6179865c263e5f7b76340de95a514",
+        "Title": "Fixed most SQL Injections",
+        "Created At": "2019-04-24T15:24:53Z"
+    },
+    {
+        "repo_name": "cocagne/pysrp",
+        "Target PR": "https://github.com/cocagne/pysrp/pull/43",
+        "Target Commit SHA": "dba52642f5e95d3da7af1780561213ee6053195f",
+        "Closest PR": "https://github.com/cocagne/pysrp/pull/45",
+        "Closest Commit SHA": "62e290ac21cd0fa161b6340f19dcbc6cdbc01aa8",
+        "Title": "Update libssl requested by pysrp for Darwin",
+        "Created At": "2021-05-21T14:55:47Z"
+    },
+    {
+        "repo_name": "containous/traefik",
+        "Target PR": "https://github.com/containous/traefik/pull/4918",
+        "Target Commit SHA": "51287d9316b7506f0bab8ffcf6db517b38566390",
+        "Closest PR": "https://github.com/traefik/traefik/pull/6857",
+        "Closest Commit SHA": null,
+        "Title": "Add HTTP Provider",
+        "Created At": "2020-05-27T19:15:50Z"
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/1648",
+        "Target Commit SHA": "80a5479e9c880b38ec0f1bdb937d17c6fb4ccb25",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/2180",
+        "Closest Commit SHA": "a5cff2340950c5cec876f446ea3f6e3149ff0cf7",
+        "Title": "Update tools/cooja submodule",
+        "Created At": "2022-09-14T12:13:09Z"
+    },
+    {
+        "repo_name": "cowtowncoder/java-merge-sort",
+        "Target PR": "https://github.com/cowtowncoder/java-merge-sort/pull/21",
+        "Target Commit SHA": "341fc70125ca4f3065b9604de1ee5e06fb5c245f",
+        "Closest PR": "https://github.com/cowtowncoder/java-merge-sort/pull/21",
+        "Closest Commit SHA": "341fc70125ca4f3065b9604de1ee5e06fb5c245f",
+        "Title": "[SECURITY] Fix Temporary File Information Disclosure Vulnerability\n",
+        "Created At": "2022-11-19T02:05:33Z"
+    },
+    {
+        "repo_name": "destinygg/chat",
+        "Target PR": "https://github.com/destinygg/chat/pull/35",
+        "Target Commit SHA": "bebd256fc3063111fb4503ca25e005ebf6e73780",
+        "Closest PR": "https://github.com/destinygg/chat/pull/35",
+        "Closest Commit SHA": "bebd256fc3063111fb4503ca25e005ebf6e73780",
+        "Title": "Fix WebSocket upgrade CSRF vulnerability",
+        "Created At": "2020-07-14T19:54:49Z"
+    },
+    {
+        "repo_name": "dotCMS/core",
+        "Target PR": "https://github.com/dotCMS/core/pull/8460/",
+        "Target Commit SHA": "06bce92760e1f55a539e2496858678e043714d3b",
+        "Closest PR": "https://github.com/dotCMS/core/pull/10362",
+        "Closest Commit SHA": "5d965d6aff033892a472b599049e9b6a3423d2df",
+        "Title": "Issue 10242 update portlets",
+        "Created At": "2016-12-16T15:48:57Z"
+    },
+    {
+        "repo_name": "dropwizard/dropwizard",
+        "Target PR": "https://github.com/dropwizard/dropwizard/pull/3208",
+        "Target Commit SHA": "d5a512f7abf965275f2a6b913ac4fe778e424242",
+        "Closest PR": "https://github.com/dropwizard/dropwizard/pull/3820",
+        "Closest Commit SHA": "74736edff73a302dc6ec87c81ba589c0bc0a5ec6",
+        "Title": "Bump jdbi3-bom from 3.18.0 to 3.18.1",
+        "Created At": "2021-03-26T05:11:51Z"
+    },
+    {
+        "repo_name": "eclipse-ee4j/parsson",
+        "Target PR": "https://github.com/eclipse-ee4j/parsson/pull/100",
+        "Target Commit SHA": "9dd5ad5f871f7b93654073a3f8ce3e1d9b8d9b31",
+        "Closest PR": "https://github.com/eclipse-ee4j/parsson/pull/124",
+        "Closest Commit SHA": "c96ef80bb3366caf2abdeb925265afc8646cd19a",
+        "Title": "Fixes",
+        "Created At": "2024-02-26T13:34:01Z"
+    },
+    {
+        "repo_name": "eclipse-openj9/openj9",
+        "Target PR": "https://github.com/eclipse-openj9/openj9/pull/14935",
+        "Target Commit SHA": "2fd77d98c2276375fa0bc99a421ebdc4824e5b40",
+        "Closest PR": "https://github.com/eclipse-openj9/openj9/pull/17229",
+        "Closest Commit SHA": "9126ed150cc44f837ae8c75269a2fe9892d06f14",
+        "Title": "Prepare MM_Scheduler for OMR Base Class Changes",
+        "Created At": "2023-04-19T17:45:56Z"
+    },
+    {
+        "repo_name": "eclipse/jetty.project",
+        "Target PR": "https://github.com/eclipse/jetty.project/pull/9660",
+        "Target Commit SHA": "5f48b4170f36b275e1576548b44bd5009feba669",
+        "Closest PR": "https://github.com/jetty/jetty.project/pull/11658",
+        "Closest Commit SHA": "706a0431fd630a7b6e8fe897cdc8749e37b5d6fa",
+        "Title": "Issue #11648 - Adding RFC 6265 Cookie parsing of Expires Date ",
+        "Created At": "2024-04-16T19:21:22Z"
+    },
+    {
+        "repo_name": "emarref/jwt",
+        "Target PR": "https://github.com/emarref/jwt/pull/20",
+        "Target Commit SHA": "79f563750ff90dabd4fa677c4b4e5ec9ed52d9b4",
+        "Closest PR": "https://github.com/emarref/jwt/pull/18",
+        "Closest Commit SHA": "4069f6a70909449d0cd245145055d8bd2a3de1f0",
+        "Title": "More precise exceptions",
+        "Created At": "2016-07-27T13:04:38Z"
+    },
+    {
+        "repo_name": "fluent/fluent-bit",
+        "Target PR": "https://github.com/fluent/fluent-bit/pull/3045",
+        "Target Commit SHA": "1f0918b2e195742f65c9592d9058884fd2dea203",
+        "Closest PR": "https://github.com/fluent/fluent-bit/pull/4772",
+        "Closest Commit SHA": "b82b337cb46e2c187363451044113f80cfe900aa",
+        "Title": "packaging: resolve CentOS 8 mirror issues",
+        "Created At": "2022-02-09T11:24:05Z"
+    },
+    {
+        "repo_name": "frappe/frappe",
+        "Target PR": "https://github.com/frappe/frappe/pull/8262",
+        "Target Commit SHA": "421f070e78ee1186e7f2f4b2575d8be1d3e2d646",
+        "Closest PR": "https://github.com/frappe/frappe/pull/11349",
+        "Closest Commit SHA": "7ce40130687ee2b7e86769b918676aa45ce36d01",
+        "Title": "fix: if db_type is not defined then set default to 'mariadb'  (bp #11346)",
+        "Created At": "2020-08-25T07:35:23Z"
+    },
+    {
+        "repo_name": "frappe/frappe",
+        "Target PR": "https://github.com/frappe/frappe/pull/8044",
+        "Target Commit SHA": "4a12dcef54d4c8831622a84a9c7dbac3fec0b992",
+        "Closest PR": "https://github.com/frappe/frappe/pull/11135",
+        "Closest Commit SHA": "1452ada65d9baf4468f7b77ef30ebde263daa1e5",
+        "Title": "fix: do not sanitize code field (bp #11133)",
+        "Created At": "2020-07-28T14:47:25Z"
+    },
+    {
+        "repo_name": "frappe/frappe",
+        "Target PR": "https://github.com/frappe/frappe/pull/8045",
+        "Target Commit SHA": "63b2f1d403418768012343e64261303030b48849",
+        "Closest PR": "https://github.com/frappe/frappe/pull/11135",
+        "Closest Commit SHA": "1452ada65d9baf4468f7b77ef30ebde263daa1e5",
+        "Title": "fix: do not sanitize code field (bp #11133)",
+        "Created At": "2020-07-28T14:47:25Z"
+    },
+    {
+        "repo_name": "free5gc/udm",
+        "Target PR": "https://github.com/free5gc/udm/pull/20",
+        "Target Commit SHA": "5e1479cc686f058992557669b13fd3761a1b6024",
+        "Closest PR": "https://github.com/free5gc/udm/pull/34",
+        "Closest Commit SHA": "c2ede61351635a16b33f835ddb0076c0a6cad8a1",
+        "Title": "Bump google.golang.org/protobuf from 1.32.0 to 1.33.0",
+        "Created At": "2024-03-13T23:28:11Z"
+    },
+    {
+        "repo_name": "gradio-app/gradio",
+        "Target PR": "https://github.com/gradio-app/gradio/pull/817",
+        "Target Commit SHA": "80fea89117358ee105973453fdc402398ae20239",
+        "Closest PR": "https://github.com/gradio-app/gradio/pull/3459",
+        "Closest Commit SHA": "226e87cd54a1b4cf0340955eac6bc709b6844c0e",
+        "Title": "implement missing methods handle nested dict",
+        "Created At": "2023-03-14T07:43:48Z"
+    },
+    {
+        "repo_name": "grafana/grafana",
+        "Target PR": "https://github.com/grafana/grafana/pull/62143",
+        "Target Commit SHA": "8b574e22b53aa4c5a35032a58844fd4aaaa12f5f",
+        "Closest PR": "https://github.com/grafana/grafana/pull/81285",
+        "Closest Commit SHA": "a9731846ccbfd905b85246c7d2d4160f1d075cc4",
+        "Title": "Docs: fix broken link",
+        "Created At": "2024-01-25T16:45:24Z"
+    },
+    {
+        "repo_name": "graphite-project/graphite-web",
+        "Target PR": "https://github.com/graphite-project/graphite-web/pull/2785",
+        "Target Commit SHA": "2f178f490e10efc03cd1d27c72f64ecab224eb23",
+        "Closest PR": "https://github.com/graphite-project/graphite-web/pull/2821",
+        "Closest Commit SHA": "60517f8661d7e3cc476caaaabff37f2d333a2534",
+        "Title": "Tags Docs: fix allowed characters",
+        "Created At": "2023-10-26T08:52:41Z"
+    },
+    {
+        "repo_name": "helm/helm",
+        "Target PR": "https://github.com/helm/helm/pull/3152",
+        "Target Commit SHA": "e8e6ac5d7783808cc0bd1adad053bec339849647",
+        "Closest PR": "https://github.com/helm/helm/pull/4930",
+        "Closest Commit SHA": "58272bfd4a774e47fd3a59af06647bb05980e9cd",
+        "Title": "fix(helm): Print details for pod resource",
+        "Created At": "2018-11-15T21:46:35Z"
+    },
+    {
+        "repo_name": "home-assistant/plugin-dns",
+        "Target PR": "https://github.com/home-assistant/plugin-dns/pull/59",
+        "Target Commit SHA": "19f79cc8ba43b05afeef3b7c3921694897a24b86",
+        "Closest PR": "https://github.com/home-assistant/plugin-dns/pull/91",
+        "Closest Commit SHA": "51d4cb594782d0a127aea523044065b5f80abbe4",
+        "Title": "Bump docker/login-action from 1.14.1 to 2.0.0",
+        "Created At": "2022-05-06T06:04:17Z"
+    },
+    {
+        "repo_name": "igniterealtime/Openfire",
+        "Target PR": "https://github.com/igniterealtime/Openfire/pull/1498",
+        "Target Commit SHA": "cb900749d4e836b32cc6e2cc41cda17f252b977d",
+        "Closest PR": "https://github.com/igniterealtime/Openfire/pull/1718",
+        "Closest Commit SHA": "89ba3d2580d6b544f379d8ad2f61d91869d8c13d",
+        "Title": "Fix Maven Publish job in GH Actions",
+        "Created At": "2020-10-01T14:16:08Z"
+    },
+    {
+        "repo_name": "infinispan/infinispan",
+        "Target PR": "https://github.com/infinispan/infinispan/pull/5639",
+        "Target Commit SHA": "2944b0d1369a230bde88392b222921537c99331e",
+        "Closest PR": "https://github.com/infinispan/infinispan/pull/6537",
+        "Closest Commit SHA": "abe7eac87bcf2d33e86a5efbd4fbef721fd29fc5",
+        "Title": "[9.4]  ISPN-9822 BasicComponentRegistryImpl fails with security manager",
+        "Created At": "2018-12-13T09:48:29Z"
+    },
+    {
+        "repo_name": "jackaudio/jack2",
+        "Target PR": "https://github.com/jackaudio/jack2/pull/480",
+        "Target Commit SHA": "dad4b5702782eef3bd66e3c3f4fefaaae3571208",
+        "Closest PR": "https://github.com/jackaudio/jack2/pull/597",
+        "Closest Commit SHA": "adc4a730d81708ac929b05199a9940f8c32ea91f",
+        "Title": "[DRAFT] Multi server by same client support",
+        "Created At": "2020-06-05T11:56:12Z"
+    },
+    {
+        "repo_name": "jooby-project/jooby",
+        "Target PR": "https://github.com/jooby-project/jooby/pull/1368",
+        "Target Commit SHA": "27b4af283de1a2c2a6b0530039b46eef75ddf655",
+        "Closest PR": "https://github.com/jooby-project/jooby/pull/1919",
+        "Closest Commit SHA": "0998fc529c22b9a6f467f00baaacf094de83cbb7",
+        "Title": "build(deps): bump directory-watcher from 0.9.10 to 0.10.0",
+        "Created At": "2020-08-13T06:58:12Z"
+    },
+    {
+        "repo_name": "librenms/librenms",
+        "Target PR": "https://github.com/librenms/librenms/pull/13554",
+        "Target Commit SHA": "35a69050922692e3aa69dae74bff981f30ee7689",
+        "Closest PR": "https://github.com/librenms/librenms/pull/14669",
+        "Closest Commit SHA": "1647913e23548b407ccf3e3c9e9cbe509a65eea2",
+        "Title": "Sensors: Handle string indexes better, change default flags",
+        "Created At": "2022-11-22T22:06:09Z"
+    },
+    {
+        "repo_name": "lightningnetwork/lnd",
+        "Target PR": "https://github.com/lightningnetwork/lnd/pull/7098",
+        "Target Commit SHA": "96fe51e2e5c2ee0c97909499e0e96a3d3755757e",
+        "Closest PR": "https://github.com/lightningnetwork/lnd/pull/8139",
+        "Closest Commit SHA": "e6fbaafda4a9cfe08ccee5106aa6dc1da62bcebc",
+        "Title": "CI: upgrade bitcoind version to 0.25",
+        "Created At": "2023-11-01T08:35:46Z"
+    },
+    {
+        "repo_name": "mafintosh/json-markup",
+        "Target PR": "https://github.com/mafintosh/json-markup/pull/15",
+        "Target Commit SHA": "e7fb4df7de6a7d57f2249f0527dda8b5498ad36b",
+        "Closest PR": "https://github.com/mafintosh/json-markup/pull/15",
+        "Closest Commit SHA": "e7fb4df7de6a7d57f2249f0527dda8b5498ad36b",
+        "Title": "Escape keys",
+        "Created At": "2023-06-13T17:40:09Z"
+    },
+    {
+        "repo_name": "marmelab/react-admin",
+        "Target PR": "https://github.com/marmelab/react-admin/pull/8645",
+        "Target Commit SHA": "a4619a8691c2bea48359a656afb820eb0f6dc3d7",
+        "Closest PR": "https://github.com/marmelab/react-admin/pull/9660",
+        "Closest Commit SHA": "4c9b62b35d5fdde103d0b70691b7365f02ff809f",
+        "Title": "[Demo] Fix missing tags field in simple example fake dataset raises a warning",
+        "Created At": "2024-02-12T16:19:38Z"
+    },
+    {
+        "repo_name": "matrix-org/matrix-react-sdk",
+        "Target PR": "https://github.com/matrix-org/matrix-react-sdk/pull/5981",
+        "Target Commit SHA": "45acf70b00cb0c51740455d09164b1c3c033b5f3",
+        "Closest PR": "https://github.com/matrix-org/matrix-react-sdk/pull/8518",
+        "Closest Commit SHA": "7e63202f9a93ad83acd1207137d740c369a3d702",
+        "Title": "Replace message composer menu with IconizedContextMenu",
+        "Created At": "2022-05-06T12:48:19Z"
+    },
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/13823",
+        "Target Commit SHA": "c06b2b714262825e1d2510b62c38fdeda339f6dc",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/16328",
+        "Closest Commit SHA": "eef2b9e34418e902baab1e730eb805eb56034cc2",
+        "Title": "Filter locked users in the admin API",
+        "Created At": "2023-09-15T14:31:53Z"
+    },
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/14642",
+        "Target Commit SHA": "e2a1adbf5d11288f2134ced1f84c6ffdd91a9357",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/16737",
+        "Closest Commit SHA": "aa983c7b0f46db18bcafb5e78b447cfd096971a3",
+        "Title": "Clarify documentation for `only_for_reauth`",
+        "Created At": "2023-12-07T17:38:11Z"
+    },
+    {
+        "repo_name": "miekg/dns",
+        "Target PR": "https://github.com/miekg/dns/pull/1044",
+        "Target Commit SHA": "8ebf2e419df7857ac8919baa05248789a8ffbf33",
+        "Closest PR": "https://github.com/miekg/dns/pull/1189",
+        "Closest Commit SHA": "fa528cceb79c97af9f11e13ee2c511700b62197d",
+        "Title": "Fix PacketConnReader typo in DecorateReader docs",
+        "Created At": "2020-10-24T15:55:42Z"
+    },
+    {
+        "repo_name": "moderntribe/panel-builder",
+        "Target PR": "https://github.com/moderntribe/panel-builder/pull/173",
+        "Target Commit SHA": "4528d4f855dbbf24e9fc12a162fda84ce3bedc2f",
+        "Closest PR": "https://github.com/moderntribe/panel-builder/pull/189",
+        "Closest Commit SHA": "34c4419cce4e52dc17128ac70121736ac5accc11",
+        "Title": "Fixed a deprecation issue with oembed class usage from WP.",
+        "Created At": "2020-11-25T15:56:27Z"
+    },
+    {
+        "repo_name": "nedap/mysql-binuuid-rails",
+        "Target PR": "https://github.com/nedap/mysql-binuuid-rails/pull/18",
+        "Target Commit SHA": "9ae920951b46ff0163b16c55d744e89acb1036d4",
+        "Closest PR": "https://github.com/nedap/mysql-binuuid-rails/pull/27",
+        "Closest Commit SHA": "2acfe7437371a6d5a856f21e7eb750c1b692ba4c",
+        "Title": "Bugfix data casting",
+        "Created At": "2019-04-16T21:20:51Z"
+    },
+    {
+        "repo_name": "neovim/neovim",
+        "Target PR": "https://github.com/neovim/neovim/pull/10082",
+        "Target Commit SHA": "4553fc5e6cb6c8c43f57c173d01b31a61e51d13f",
+        "Closest PR": "https://github.com/neovim/neovim/pull/12385",
+        "Closest Commit SHA": "78ecec885e7412a62ced899133c099c31f56c110",
+        "Title": "runtime: Add TeX conceal for \\left and \\right pipe",
+        "Created At": "2020-05-27T12:48:21Z"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "Target PR": "https://github.com/nextcloud/android/pull/8433",
+        "Target Commit SHA": "8af3112fff7104e4e3a5d612be8e783e8fea6f4d",
+        "Closest PR": "https://github.com/nextcloud/android/pull/10256",
+        "Closest Commit SHA": "54b68b049c282a4d1be03744fc509519a8f3dac2",
+        "Title": "Bump emoji-google from 0.11.0 to 0.12.0",
+        "Created At": "2022-05-17T01:04:57Z"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "Target PR": "https://github.com/nextcloud/android/pull/7919",
+        "Target Commit SHA": "33945b880bdab610fe78ef3901dd22abb70cf114",
+        "Closest PR": "https://github.com/nextcloud/android/pull/9791",
+        "Closest Commit SHA": "b81027d057180f3f661f06c794245c49374f319c",
+        "Title": "FileActivity: fix crash on share operations when FileDetailFragment is second fragment",
+        "Created At": "2022-02-01T11:46:38Z"
+    },
+    {
+        "repo_name": "nextcloud/desktop",
+        "Target PR": "https://github.com/nextcloud/desktop/pull/5106",
+        "Target Commit SHA": "6fa2e60bba99f9be7c57eefc447252f7199a5a25",
+        "Closest PR": "https://github.com/nextcloud/desktop/pull/6178",
+        "Closest Commit SHA": "b643773b107dfc9a544754bf6a7681934fd133f6",
+        "Title": "Fix crash. Remove unnecessary dependency injection causing crash.",
+        "Created At": "2023-10-27T18:39:06Z"
+    },
+    {
+        "repo_name": "nextcloud/notes",
+        "Target PR": "https://github.com/nextcloud/notes/pull/1031",
+        "Target Commit SHA": "eb5c3ac65b744fcb2354368d0806baa674e747e4",
+        "Closest PR": "https://github.com/nextcloud/notes/pull/1279",
+        "Closest Commit SHA": "3f773b79ea7e8674af51f1bf20f757207c8186b2",
+        "Title": "Chore(deps): Bump @nextcloud/router from 2.2.1 to 3.0.1",
+        "Created At": "2024-04-23T10:36:24Z"
+    },
+    {
+        "repo_name": "nextcloud/password_policy",
+        "Target PR": "https://github.com/nextcloud/password_policy/pull/363",
+        "Target Commit SHA": "b19a56d8d79f4e61d8ee27d69baf4a06de8187f9",
+        "Closest PR": "https://github.com/nextcloud/password_policy/pull/484",
+        "Closest Commit SHA": "cdfabb8ba049f2317c703119dbb7c4c0abfc79dd",
+        "Title": "Chore(deps): Bump @nextcloud/dialogs from 4.0.1 to 4.1.0",
+        "Created At": "2023-06-24T01:56:39Z"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/29895",
+        "Target Commit SHA": "d9d54ce782d34656d2e53cb7588fcad80182a1fe",
+        "Closest PR": "https://github.com/nextcloud/server/pull/35417",
+        "Closest Commit SHA": "b48f0c7164a26fe2c18d0e28e31c9759682c8dce",
+        "Title": "[stable24] Update psalm-baseline.xml",
+        "Created At": "2022-11-25T04:14:29Z"
+    },
+    {
+        "repo_name": "nghttp2/nghttp2",
+        "Target PR": "https://github.com/nghttp2/nghttp2/pull/1961",
+        "Target Commit SHA": "aa0973caf584b199510c9ab1b28632ba074d4d5b",
+        "Closest PR": "https://github.com/nghttp2/nghttp2/pull/2208",
+        "Closest Commit SHA": "58ab46b5610711e1a49bfe29792644759bd8a6c8",
+        "Title": "build(deps): bump docker/build-push-action from 5 to 6",
+        "Created At": "2024-06-17T14:27:40Z"
+    },
+    {
+        "repo_name": "numpy/numpy",
+        "Target PR": "https://github.com/numpy/numpy/pull/4262",
+        "Target Commit SHA": "c7a30d538ba4c984d6f97b613486a3738b2c7922",
+        "Closest PR": "https://github.com/numpy/numpy/pull/5535",
+        "Closest Commit SHA": "0faf6d68e1b15eaf87b0717024544269a4d66564",
+        "Title": "Return output from nm command as string (and not bytes)",
+        "Created At": "2015-02-05T11:15:25Z"
+    },
+    {
+        "repo_name": "opencv/opencv_contrib",
+        "Target PR": "https://github.com/opencv/opencv_contrib/pull/3480",
+        "Target Commit SHA": "ccc277247ac1a7aef0a90353edcdec35fbc5903c",
+        "Closest PR": "https://github.com/opencv/opencv_contrib/pull/3726",
+        "Closest Commit SHA": "9358ad2e56f6d0b99860856fc1b53b783d186e73",
+        "Title": "Try to Fix #3725: cudaarithm: fix the compile faiure of CUDA 12.",
+        "Created At": "2024-04-22T15:46:07Z"
+    },
+    {
+        "repo_name": "openemr/openemr",
+        "Target PR": "https://github.com/openemr/openemr/pull/2712",
+        "Target Commit SHA": "32a724f47321d1a4a68ca4fcbb517e7eb3a98a19",
+        "Closest PR": "https://github.com/openemr/openemr/pull/3959",
+        "Closest Commit SHA": "2763b493f128161e6b77a392ba1e0fcb1c023b12",
+        "Title": "corrected misspelling for system and added codeable concepts in FHIR  Condition",
+        "Created At": "2020-10-06T18:59:28Z"
+    },
+    {
+        "repo_name": "openmrs/openmrs-module-htmlformentry",
+        "Target PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/138",
+        "Target Commit SHA": "830db76f5da1b147ac5816ea66d8a7f14d9058f8",
+        "Closest PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/154",
+        "Closest Commit SHA": "45d3f8522d3e73aa4c0a2c75d6da59147d062754",
+        "Title": "HTML-707 Update ConditionTagHandlerSupport2_2 to work for later versions",
+        "Created At": "2019-08-17T22:52:27Z"
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
+        "Target Commit SHA": "1f5e5319ecf21cd0b8acac49f4acf1590507f950",
+        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
+        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
+        "Title": "Fix the problem of not being able to disable plugins correctly",
+        "Created At": "2024-04-03T15:51:39Z"
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
+        "Target Commit SHA": "1f5e5319ecf21cd0b8acac49f4acf1590507f950",
+        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
+        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
+        "Title": "Fix the problem of not being able to disable plugins correctly",
+        "Created At": "2024-04-03T15:51:39Z"
+    },
+    {
+        "repo_name": "pimcore/pimcore",
+        "Target PR": "https://github.com/pimcore/pimcore/pull/13347",
+        "Target Commit SHA": "43aa34e018f5cd447bceb864358285ba92f68372",
+        "Closest PR": "https://github.com/pimcore/pimcore/pull/16075",
+        "Closest Commit SHA": "3d81762cd56f123969faa19280d0b7e007dd7bd0",
+        "Title": "fix(page-factory): bug with not initalized defaultPageType",
+        "Created At": "2023-10-10T08:32:28Z"
+    },
+    {
+        "repo_name": "pjsip/pjproject",
+        "Target PR": "https://github.com/pjsip/pjproject/pull/2663",
+        "Target Commit SHA": "90a7d70ae24eed1f482e1f67c1f009f11787f3f5",
+        "Closest PR": "https://github.com/pjsip/pjproject/pull/3009",
+        "Closest Commit SHA": "d27f79da11df7bc8bb56c2f291d71e54df8d2c47",
+        "Title": "Check potential buffer overflow in `pjsip_auth_create_digest()`",
+        "Created At": "2022-03-07T07:39:26Z"
+    },
+    {
+        "repo_name": "pluginsGLPI/news",
+        "Target PR": "https://github.com/pluginsGLPI/news/pull/69",
+        "Target Commit SHA": "aaffe6dc30bcab4142dd257a3e2647cdac458890",
+        "Closest PR": "https://github.com/pluginsGLPI/news/pull/75",
+        "Closest Commit SHA": "90969f40ba3153336cf04df4e38478c509a89b96",
+        "Title": "Fix notice on plugin install",
+        "Created At": "2020-01-31T13:59:48Z"
+    },
+    {
+        "repo_name": "python/cpython",
+        "Target PR": "https://github.com/python/cpython/pull/107982",
+        "Target Commit SHA": "ccf81e1088c25a9f4464e478dc3b5c03ed7ee63b",
+        "Closest PR": "https://github.com/python/cpython/pull/120643",
+        "Closest Commit SHA": "9e4a81f00fef689c6e18a64245aa064eaadc7ac7",
+        "Title": "gh-120642: Move private PyCode APIs to the internal C API",
+        "Created At": "2024-06-17T14:18:51Z"
+    },
+    {
+        "repo_name": "radareorg/radare2-extras",
+        "Target PR": "https://github.com/radareorg/radare2-extras/pull/255",
+        "Target Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
+        "Closest PR": "https://github.com/radareorg/radare2-extras/pull/285",
+        "Closest Commit SHA": "e158c1bbdcdeea04fe66c6f7fb0b368d22edb2cc",
+        "Title": "M32c",
+        "Created At": "2021-06-28T01:52:27Z"
+    },
+    {
+        "repo_name": "ruby-git/ruby-git",
+        "Target PR": "https://github.com/ruby-git/ruby-git/pull/569",
+        "Target Commit SHA": "291ca0946bec7164b90ad5c572ac147f512c7159",
+        "Closest PR": "https://github.com/ruby-git/ruby-git/pull/652",
+        "Closest Commit SHA": "2500bcf2461b84aae8e1cf68fd29e850081e39f4",
+        "Title": "Release v1.17.2",
+        "Created At": "2023-03-07T17:22:36Z"
+    },
+    {
+        "repo_name": "scala/scala",
+        "Target PR": "https://github.com/scala/scala/pull/10118",
+        "Target Commit SHA": "3a124138843ef06594aa955800ba83d7c8ac2b84",
+        "Closest PR": "https://github.com/scala/scala/pull/10502",
+        "Closest Commit SHA": "3b154a09de7a7527d5e15804e252b74294c52881",
+        "Title": "Use URI to compute Scaladoc URI [ci: last-only]",
+        "Created At": "2023-08-16T19:02:21Z"
+    },
+    {
+        "repo_name": "scipy/scipy",
+        "Target PR": "https://github.com/scipy/scipy/pull/16397",
+        "Target Commit SHA": "9a992782abc3123e139901c8751c076ceca0cf72",
+        "Closest PR": "https://github.com/scipy/scipy/pull/18668",
+        "Closest Commit SHA": "bd8ef0c59cea2a065eca8e4d9a9e8f7b0a5f1792",
+        "Title": "ENH: add machinery to support Array API",
+        "Created At": "2023-06-13T17:41:51Z"
+    },
+    {
+        "repo_name": "shoppingflux/module-prestashop",
+        "Target PR": "https://github.com/shoppingflux/module-prestashop/pull/209",
+        "Target Commit SHA": "a0a12f3084e0bcb593078b67c51be8d752dfd192",
+        "Closest PR": "https://github.com/shoppingflux/module-prestashop/pull/301",
+        "Closest Commit SHA": "e80fa97e6175bc17b1d8b12a42b73da4e6df4d76",
+        "Title": "Fix shipping cost by weight for variations (42561)",
+        "Created At": "2023-10-11T13:04:18Z"
+    },
+    {
+        "repo_name": "symfony/symfony",
+        "Target PR": "https://github.com/symfony/symfony/pull/44243",
+        "Target Commit SHA": "256c34a45b79fdc6276a8c941a1656713ee1ffec",
+        "Closest PR": "https://github.com/symfony/symfony/pull/48302",
+        "Closest Commit SHA": "52f3e48a2971d533bf2f1007bd43d65c60d6816c",
+        "Title": "fix: RegexValidator doesn't validate empty strings anymore",
+        "Created At": "2022-11-23T19:08:16Z"
+    },
+    {
+        "repo_name": "taglib/taglib",
+        "Target PR": "https://github.com/taglib/taglib/pull/831",
+        "Target Commit SHA": "cb9f07d9dcd791b63e622da43f7b232adaec0a9a",
+        "Closest PR": "https://github.com/taglib/taglib/pull/869",
+        "Closest Commit SHA": "2c4ae870ec086f2ddd21a47861a3709c36faac45",
+        "Title": "Fixed OOB read when loading invalid ogg flac file. (#868)",
+        "Created At": "2018-06-04T15:39:57Z"
+    },
+    {
+        "repo_name": "tgstation/tgstation-server",
+        "Target PR": "https://github.com/tgstation/tgstation-server/pull/1526",
+        "Target Commit SHA": "b86d678e9fc5dc4b81bf90a2959f7f25a81f7146",
+        "Closest PR": "https://github.com/tgstation/tgstation-server/pull/1808",
+        "Closest Commit SHA": "0cf3ded03cd13f3c0b66d63834855b0371e7dfda",
+        "Title": "v6.4.1: Fix chat help commands",
+        "Created At": "2024-03-27T00:36:30Z"
+    },
+    {
+        "repo_name": "vaadin/flow",
+        "Target PR": "https://github.com/vaadin/flow/pull/10640",
+        "Target Commit SHA": "dde115adfbcc9484e60a34d603251edf94fae529",
+        "Closest PR": "https://github.com/vaadin/flow/pull/13547",
+        "Closest Commit SHA": "942276994b8fb2c089121c3f1e6e58257c5b6a96",
+        "Title": "fix: Force async version 3.2.2",
+        "Created At": "2022-04-14T10:25:59Z"
+    },
+    {
+        "repo_name": "vim/vim",
+        "Target PR": "https://github.com/vim/vim/pull/13552",
+        "Target Commit SHA": "a67dd7d1b2607e3f1635d38f97a8e751aa650dee",
+        "Closest PR": "https://github.com/vim/vim/pull/15034",
+        "Closest Commit SHA": "89fa3eb0d87a0012007871b7fc9f30b1f450ae99",
+        "Title": "Fix typo in several documents",
+        "Created At": "2024-06-17T15:35:37Z"
+    },
+    {
+        "repo_name": "wasm3/wasm3",
+        "Target PR": "https://github.com/wasm3/wasm3/pull/324",
+        "Target Commit SHA": "8441c82c4a98f554b12971450220b580c3c2b6df",
+        "Closest PR": "https://github.com/wasm3/wasm3/pull/417",
+        "Closest Commit SHA": "6512cc99d0dfac983e8a0f67037b0f311ec3d395",
+        "Title": "Check global mutability",
+        "Created At": "2023-01-08T12:41:18Z"
+    },
+    {
+        "repo_name": "wazuh/wazuh-kibana-app",
+        "Target PR": "https://github.com/wazuh/wazuh-kibana-app/pull/5428",
+        "Target Commit SHA": "6290e99887fb20f84e2dba21e4f1255d7ad4e69e",
+        "Closest PR": "https://github.com/wazuh/wazuh-dashboard-plugins/pull/6652",
+        "Closest Commit SHA": "fd5dcaec03bdc55a96fd1a50eef4b44e9e85ae5f",
+        "Title": "Fix inventory table fullscreen styles",
+        "Created At": "2024-05-08T11:26:28Z"
+    },
+    {
+        "repo_name": "webbukkit/dynmap",
+        "Target PR": "https://github.com/webbukkit/dynmap/pull/2475",
+        "Target Commit SHA": "641f142cd3ccdcbfb04eda3059be22dd9ed93783",
+        "Closest PR": "https://github.com/webbukkit/dynmap/pull/2874",
+        "Closest Commit SHA": "1289e31f8ca1d05127ff4bd62a8f955ff021f16d",
+        "Title": "fix Bukkit version detection",
+        "Created At": "2020-04-13T10:46:38Z"
+    },
+    {
+        "repo_name": "weston-embedded/uC-FTPs",
+        "Target PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
+        "Target Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
+        "Closest PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
+        "Closest Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
+        "Title": "Patched DoS vulnerabilities CVE-2022-46377 and CVE-2022-46378 / TALOS-2022-1681.",
+        "Created At": "2023-02-24T19:27:39Z"
+    },
+    {
+        "repo_name": "wolfSSL/wolfssl",
+        "Target PR": "https://github.com/wolfSSL/wolfssl/pull/2894/",
+        "Target Commit SHA": "3cb0c600ba849e482ac52c3bf9f39c2c822c2f61",
+        "Closest PR": "https://github.com/wolfSSL/wolfssl/pull/3951",
+        "Closest Commit SHA": "537d33d5fa87c937cc602033700d664d5f0a246f",
+        "Title": "Fix for AES GCM with STM32H7",
+        "Created At": "2021-04-07T22:52:13Z"
+    },
+    {
+        "repo_name": "xbmc/xbmc",
+        "Target PR": "https://github.com/xbmc/xbmc/pull/12024",
+        "Target Commit SHA": "089bed625a9c8b2a6323a98f925da8369f9fbb64",
+        "Closest PR": "https://github.com/xbmc/xbmc/pull/13822",
+        "Closest Commit SHA": "94737c2f6aa9e9f0939ed11a697498aa0de5ef4e",
+        "Title": "[fix] save resume points on exit",
+        "Created At": "2018-04-28T09:39:13Z"
+    },
+    {
         "repo_name": "yaml/pyyaml",
         "Target PR": "https://github.com/yaml/pyyaml/pull/74",
         "Target Commit SHA": "bbcf95fa051fdba9bbf879332e2f7999b195cf95",
@@ -898,5 +889,14 @@
         "Closest Commit SHA": "1e656e8d584be39967cc3f48e42f2bfbd9dfa482",
         "Title": "WIP: Another safe_load API attempt",
         "Created At": "2018-07-01T19:46:03Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23240",
+        "Target Commit SHA": "23ace0e55681c02a81fb6b891f832aa356c85aab",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32850",
+        "Closest Commit SHA": null,
+        "Title": "checkpatch: Disable \"blank line after declarations\" warning",
+        "Created At": "2021-03-03T22:38:35Z"
     }
 ]
