@@ -62,6 +62,10 @@ jobs:
         filename=$(basename ${{ matrix.file }})
         mkdir -p ../json/processed_data/
         cp out/bics.json ../json/processed_data/$filename
+
+    - name: Remove untracked files
+      run: |
+        git clean -fd
   
     - name: Commit and push
       run: |
