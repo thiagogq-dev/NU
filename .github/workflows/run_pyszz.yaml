@@ -38,7 +38,7 @@ jobs:
       with:
         repository: 'thiagogquinto/pyszz_v2'
         path: 'pyszz_v2'
-        ref: 'NU-STUDY'
+        ref: 'tcc_version'
       
     - name: Set up Python
       uses: actions/setup-python@v5.1.0

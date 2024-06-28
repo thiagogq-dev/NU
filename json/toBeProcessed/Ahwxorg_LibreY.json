@@ -2,7 +2,7 @@
     {
         "repo_name": "Ahwxorg/LibreY",
         "Target PR": "https://github.com/Ahwxorg/LibreY/pull/31",
-        "Target Commit SHA": "8f9b9803f231e2954e5b49987a532d28fe50a627",
+        "fix_commit_hash": "8f9b9803f231e2954e5b49987a532d28fe50a627",
         "Closest PR": "https://github.com/Ahwxorg/LibreY/pull/148",
         "Closest Commit SHA": "bd8287ee3934de5c1f84aeee829938ad79f758ab",
         "Title": "feat(instances.json): librey.nirn.quest ",
