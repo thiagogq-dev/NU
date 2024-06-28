@@ -60,6 +60,7 @@ jobs:
       working-directory: pyszz_v2/
       run: |
         filename=$(basename ${{ matrix.file }})
+        mkdir -p ../json/processed_data/
         cp out/bics.json ../json/processed_data/$filename
   
     - name: Commit and push
