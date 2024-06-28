@@ -45,6 +45,10 @@ jobs:
       with:
         python-version: '3.x'
 
+    - name: Create Repositories Directory
+      run: |
+        mkdir -p json/processed_data/
+
     - name: Clone Repositories
       run: |
         python clone_repositories.py ${{ matrix.file }}
