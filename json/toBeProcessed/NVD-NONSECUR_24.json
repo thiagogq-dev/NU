@@ -1,0 +1,128 @@
+[
+    {
+        "repo_name": "openemr/openemr",
+        "Target PR": "https://github.com/openemr/openemr/pull/1765",
+        "Closest PR": "https://github.com/openemr/openemr/pull/2553",
+        "Title": "The find_action method in C_PAtient_finder class was returning an err\u2026",
+        "Created At": "2019-07-12T23:04:14Z",
+        "Target Commit SHA": "b08475e4f646ea5f4d7d9f9bbd68dcaaba3cd9ad",
+        "target_inducing_commit_hash_pyszz": [
+            "43215e3129ffec377a5c8f0fbb2f152fe7c223e1"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "openemr/openemr",
+        "Target PR": "https://github.com/openemr/openemr/pull/1765",
+        "Closest PR": "https://github.com/openemr/openemr/pull/2553",
+        "Title": "The find_action method in C_PAtient_finder class was returning an err\u2026",
+        "Created At": "2019-07-12T23:04:14Z",
+        "Target Commit SHA": "b08475e4f646ea5f4d7d9f9bbd68dcaaba3cd9ad",
+        "target_inducing_commit_hash_pyszz": [
+            "43215e3129ffec377a5c8f0fbb2f152fe7c223e1"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "OpenIdentityPlatform/OpenAM",
+        "Target PR": "https://github.com/OpenIdentityPlatform/OpenAM/pull/514",
+        "Closest PR": "https://github.com/OpenIdentityPlatform/OpenAM/pull/606",
+        "Title": "Bump json from 20090211 to 20230227",
+        "Created At": "2023-04-14T17:09:15Z",
+        "Target Commit SHA": "c0c28b23668a45a38598016a73a59f6393c8eb74",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "130b7ec562d5556a565c9e027b3884c5937b33fb",
+        "closest_inducing_commit_hash_pyszz": [
+            "25d5d71e3826962e68ffd31a413f6c531ef3f618"
+        ]
+    },
+    {
+        "repo_name": "openmrs/openmrs-module-appointmentscheduling",
+        "Target PR": "https://github.com/openmrs/openmrs-module-appointmentscheduling/pull/32",
+        "Closest PR": "https://github.com/openmrs/openmrs-module-appointmentscheduling/pull/39",
+        "Title": "RA1865 - Fixing reflected XSS in the notes section",
+        "Created At": "2020-12-01T15:34:59Z",
+        "Target Commit SHA": "34213c3f6ea22df427573076fb62744694f601d8",
+        "target_inducing_commit_hash_pyszz": [
+            "9e7f786275655ce14d4d4b653b79cc4bad2f8a6d"
+        ],
+        "Closest Commit SHA": "2ccbe39c020809765de41eeb8ee4c70b5ec49cc8",
+        "closest_inducing_commit_hash_pyszz": [
+            "b1b0038e8c6d759bd7c82649203e244a6ada6490"
+        ]
+    },
+    {
+        "repo_name": "openmrs/openmrs-module-htmlformentry",
+        "Target PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/138",
+        "Closest PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/154",
+        "Title": "HTML-707 Update ConditionTagHandlerSupport2_2 to work for later versions",
+        "Created At": "2019-08-17T22:52:27Z",
+        "Target Commit SHA": "830db76f5da1b147ac5816ea66d8a7f14d9058f8",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "45d3f8522d3e73aa4c0a2c75d6da59147d062754",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/6250",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7313",
+        "Title": "build(deps-dev): bump sass from 1.77.4 to 1.77.5 in /core/web-assets",
+        "Created At": "2024-06-12T13:40:57Z",
+        "Target Commit SHA": "f2caf7d0b9db58b59e98506490aaca37fbf243b6",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "a7c5c9f47e33fbd1da4c8090aef3ccc36958eb27",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/5740",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7035",
+        "Title": "Ranger/fix web assets dependencies",
+        "Created At": "2024-01-23T23:20:21Z",
+        "Target Commit SHA": "a47e193f820c222b309763b508009e54b2f0e7f5",
+        "target_inducing_commit_hash_pyszz": [
+            "c8534bae0253194b9622196e7736f92f45832584"
+        ],
+        "Closest Commit SHA": "5a8fe3f0f9a5d84e622fc689332ac9929cfd6082",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/6288",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7322",
+        "Title": "build(deps): bump braces from 3.0.2 to 3.0.3 in /ui",
+        "Created At": "2024-06-17T16:18:40Z",
+        "Target Commit SHA": "da4c70beb001e0cdcc7b99d90dfe4ba39b23536f",
+        "target_inducing_commit_hash_pyszz": [
+            "f2caf7d0b9db58b59e98506490aaca37fbf243b6"
+        ],
+        "Closest Commit SHA": "48eb29e7d784e422f236656471e13eabdba305d2",
+        "closest_inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "openscad/openscad",
+        "Target PR": "https://github.com/openscad/openscad/pull/4044",
+        "Closest PR": "https://github.com/openscad/openscad/pull/4488",
+        "Title": "Correct use of \"-nightly\" icons suffix for snapshots builds",
+        "Created At": "2023-01-03T06:24:57Z",
+        "Target Commit SHA": "78a82cf31767bda6969d8ea2eb851dc24c12b4b0",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5f92c4d297bcdeb5af745bee249842b196491bdd",
+        "closest_inducing_commit_hash_pyszz": [
+            "8d1e0de8622f0d160d6f75c3b174dd138685e011"
+        ]
+    },
+    {
+        "repo_name": "OpenSeaMap/online_chart",
+        "Target PR": "https://github.com/OpenSeaMap/online_chart/pull/70",
+        "Closest PR": "https://github.com/OpenSeaMap/online_chart/pull/81",
+        "Title": "Fix for trip planner: allow the browser to display scrollbars on the page",
+        "Created At": "2016-02-18T19:33:49Z",
+        "Target Commit SHA": "473d1663e035d54066fbb6ef0bd9f5104638586e",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5a3bf01ab48f3d94486e6f5800800a14056ed19b",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

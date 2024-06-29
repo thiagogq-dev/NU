@@ -1,0 +1,130 @@
+[
+    {
+        "repo_name": "openssh/openssh-portable",
+        "Target PR": "https://github.com/openssh/openssh-portable/pull/270",
+        "Closest PR": "https://github.com/openssh/openssh-portable/pull/339",
+        "Title": "openbsd-compat/bsd-asprintf: add <stdio.h> include for vsnprintf",
+        "Created At": "2022-09-08T01:51:01Z",
+        "Target Commit SHA": "9bf9ee6811b02a413d713a678bb224f12bbeafa1",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "249b5a1428b03630cc5806ef22119992492c878d",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "Target PR": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/4481",
+        "Closest PR": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/5080",
+        "Title": "Avoid storing hashing function pointers in storage make MerkleTree structure upgrade-safe",
+        "Created At": "2024-06-12T16:33:17Z",
+        "Target Commit SHA": "28d9ac2bdb321b24fe06b8b916ee2962889f772b",
+        "target_inducing_commit_hash_pyszz": [
+            "f8cc8b844a9f92f63dc55aa581f7d643a1bc5ac1"
+        ],
+        "Closest Commit SHA": "8a990e6d6a56265ec3e4728338824b113df5f8bd",
+        "closest_inducing_commit_hash_pyszz": [
+            "cb2aaaa04a292887c49839cd958b08a83979d746"
+        ]
+    },
+    {
+        "repo_name": "orchest/orchest",
+        "Target PR": "https://github.com/orchest/orchest/pull/1324",
+        "Closest PR": "https://github.com/orchest/orchest/pull/1534",
+        "Title": "Update docs",
+        "Created At": "2023-06-06T08:42:52Z",
+        "Target Commit SHA": "3692eadcf0de10fbaae04ae31aa28bb16b1df386",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "3748b8f7fbbe1f805c67b4c4129c7f4dfdbf04ca",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "ory/oathkeeper",
+        "Target PR": "https://github.com/ory/oathkeeper/pull/424",
+        "Closest PR": "https://github.com/ory/oathkeeper/pull/710",
+        "Title": "feat: Timeouts for Remote Authorizer",
+        "Created At": "2021-04-27T17:09:33Z",
+        "Target Commit SHA": "d4557aeac69e84d36dfc2a1ab97c61188c93457f",
+        "target_inducing_commit_hash_pyszz": [
+            "12e0fc20ac6c5f573438a270b71396ac67de76eb"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "1ee445d1387dcf49cf75540267703d352be46ed2"
+        ]
+    },
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/2691",
+        "Closest PR": "https://github.com/pallets/flask/pull/3137",
+        "Title": "Update CONTRIBUTING.rst discord link + style info",
+        "Created At": "2019-04-03T08:47:28Z",
+        "Target Commit SHA": "465b48ed4e4af52493df1febe4687f53032a5e0a",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "eadb99eb93aa21cae3ce907006e62818319fbff7",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "paritytech/frontier",
+        "Target PR": "https://github.com/paritytech/frontier/pull/1212",
+        "Closest PR": "https://github.com/polkadot-evm/frontier/pull/1455",
+        "Title": "build(deps): bump derive_more from 0.99.17 to 0.99.18",
+        "Created At": "2024-06-17T05:03:43Z",
+        "Target Commit SHA": "aea528198b3b226e0d20cce878551fd4c0e3d5d0",
+        "target_inducing_commit_hash_pyszz": [
+            "cb041f1eb4f4acb7f9539d13d0b3e30a78b185a5"
+        ],
+        "Closest Commit SHA": "6f3f713475440aeb3e6039b5b1019759232a6a6a",
+        "closest_inducing_commit_hash_pyszz": [
+            "abc025ae7a8cb1e742e55dff7e6dd98349c03cdc"
+        ]
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
+        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
+        "Title": "Fix the problem of not being able to disable plugins correctly",
+        "Created At": "2024-04-03T15:51:39Z",
+        "Target Commit SHA": "1f5e5319ecf21cd0b8acac49f4acf1590507f950",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
+        "closest_inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
+        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
+        "Title": "Fix the problem of not being able to disable plugins correctly",
+        "Created At": "2024-04-03T15:51:39Z",
+        "Target Commit SHA": "1f5e5319ecf21cd0b8acac49f4acf1590507f950",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
+        "closest_inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "pimcore/pimcore",
+        "Target PR": "https://github.com/pimcore/pimcore/pull/14498",
+        "Closest PR": "https://github.com/pimcore/pimcore/pull/14491",
+        "Title": "Fix sizing of custom admin tab icons",
+        "Created At": "",
+        "Target Commit SHA": "7f788fa44bc18bc1c9182c25e26b770a1d30b62f",
+        "target_inducing_commit_hash_pyszz": [
+            "db567cc8e9f7375e119b2b9e1f616ddd30c61c7e"
+        ],
+        "Closest Commit SHA": "012440ee721c5e2518b40fd515f45c2bfbc96beb",
+        "closest_inducing_commit_hash_pyszz": [
+            "12832105f58185007505ebecfd3b66b5c0abdc65"
+        ]
+    },
+    {
+        "repo_name": "pimcore/pimcore",
+        "Target PR": "https://github.com/pimcore/pimcore/pull/13347",
+        "Closest PR": "https://github.com/pimcore/pimcore/pull/16075",
+        "Title": "fix(page-factory): bug with not initalized defaultPageType",
+        "Created At": "2023-10-10T08:32:28Z",
+        "Target Commit SHA": "43aa34e018f5cd447bceb864358285ba92f68372",
+        "target_inducing_commit_hash_pyszz": [
+            "27b0b2201e44e6da9f69f80ecf87bcee7840ab26"
+        ],
+        "Closest Commit SHA": "3d81762cd56f123969faa19280d0b7e007dd7bd0",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]
