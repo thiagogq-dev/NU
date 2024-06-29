@@ -1,0 +1,233 @@
+[
+    {
+        "repo_name": "grpc/grpc-node",
+        "Target PR": "https://github.com/grpc/grpc-node/pull/1605",
+        "Closest PR": "https://github.com/grpc/grpc-node/pull/1601",
+        "Title": "Fix missing arg variable in perRpcCreds interop test",
+        "Created At": "",
+        "Target Commit SHA": "afe4c3e0825d0b0256a0f994c7087115d508c580",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "576b07af454065a7ece1e6f5fe79103531f08874",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "grpc/grpc",
+        "Target PR": "https://github.com/grpc/grpc/pull/32309",
+        "Closest PR": "https://github.com/grpc/grpc/pull/35828",
+        "Title": "[work-serializer] deflake tests for dispatching workserializer",
+        "Created At": "2024-02-06T17:39:44Z",
+        "Target Commit SHA": "29d8beee0ac2555773b2a2dda5601c74a95d6c10",
+        "target_inducing_commit_hash_pyszz": [
+            "b64d623f24ef295c45d2082df9a18f264b3b6018"
+        ],
+        "Closest Commit SHA": "472e98f579531d01237da10d184cb3748454aeb6",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "8dd0cb47128739ddc24842a530066e0b3e32c6f0",
+            "3ec0e29bcf48e5774a1b124f0edf581b7ca40055",
+            "3bb427195e76d99fb55dd79fbcf9aa2956c7af79",
+            "0444d98f17c7e742be1463e5714a24cd2eb6f99e",
+            "220cf641fa18ee04d8dc962b1f55869eb0d7063b",
+            "22b338e2109745a27f1f84de8490bc8148df1a79",
+            "0eb3e13ea2c73a3de318c7a8297570fa2c6cdd85",
+            "8a1d8052eb8629643333ca4449180e27f65aa8dc",
+            "70db663ae8773dc45464c904603a3e73045b45c5",
+            "a116fa7e2551860fadc2307b34212275606f0e93",
+            "4e5b4521478cf817dae0c646232b7ec184f0ebe6",
+            "18a8f6aad95d5c2f73f70c3a7fbc58a429da9d56",
+            "1d59b25dea44fe0bd66b2345e36d5e6205b77b74",
+            "d3e97d953b9a94d017d76a44b780bb5ca48e5840",
+            "694e4b84272148cab34334aa575055530ec1fb05",
+            "d09f45c625edc33038915d2cb7cc2a8f809c9e7f",
+            "1791df0a72cd6457f152172b65515196df6663fc",
+            "3bb4d312dfdcf5e7583bec8e6467670b6e3eb0d3",
+            "6929cdd65454f0e77d5ad931209a4207ae15331c",
+            "f2fa95b5931f823fa438d552a1551852415f2157",
+            "0d8b21e1000f6e3e1771234573e8d577762db681",
+            "d43511f4af992862ae17c6fce5caa3ab3ce60995",
+            "c34bef4ca454decaeb348ed57cfbd2ad2fe1969b",
+            "997bec7f24cc1afab23877cb64d60934de84d0bd",
+            "613b90ba935674af15bb0780b730017f87f0fa5f",
+            "7c70b6c144a20782b6be4751da68c6aa7b35648d",
+            "78888d786129e207a4c0cc535a0ff38d86fb4a14",
+            "5eba7971fbb719b49039003e59508c4ccdae9cb1",
+            "b2b70515583fe18e36c7e70b265808fa3154f734",
+            "1713c3689252dce4515006c4a1c5c9fe707495d4",
+            "347bf1a1f4ce07c15d785e93a48a7971bfe06236",
+            "b64d623f24ef295c45d2082df9a18f264b3b6018"
+        ],
+        "target_matched": [
+            "b64d623f24ef295c45d2082df9a18f264b3b6018"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "hashicorp/vault-action",
+        "Target PR": "https://github.com/hashicorp/vault-action/pull/208",
+        "Closest PR": "https://github.com/hashicorp/vault-action/pull/318",
+        "Title": "chore(deps-dev): bump jest from 26.6.3 to 28.0.3",
+        "Created At": "2022-04-29T22:03:42Z",
+        "Target Commit SHA": "3526e1be65cf8faf42d6088bc5da8bff596c718a",
+        "target_inducing_commit_hash_pyszz": [
+            "0188d9d223dac8b24b94b04d3253bf0fe0365ca7"
+        ],
+        "Closest Commit SHA": "9169e8106822ecdbc81bf131057ca02a66a6c3aa",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "0188d9d223dac8b24b94b04d3253bf0fe0365ca7",
+            "13eebbc4e5eb04bb5e6c584bb3f9147f069b000c"
+        ],
+        "target_matched": [
+            "0188d9d223dac8b24b94b04d3253bf0fe0365ca7"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "helm/helm",
+        "Target PR": "https://github.com/helm/helm/pull/3152",
+        "Closest PR": "https://github.com/helm/helm/pull/4930",
+        "Title": "fix(helm): Print details for pod resource",
+        "Created At": "2018-11-15T21:46:35Z",
+        "Target Commit SHA": "e8e6ac5d7783808cc0bd1adad053bec339849647",
+        "target_inducing_commit_hash_pyszz": [
+            "d7240ff9430e31fa950e27fe5aa7a60edc3d99bf"
+        ],
+        "Closest Commit SHA": "58272bfd4a774e47fd3a59af06647bb05980e9cd",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "1cd9f5d5414ede41310f36090e92623f659da38b",
+            "735f4e3d4a9dbf24b8dec21006a09d09b3e176e5",
+            "d7240ff9430e31fa950e27fe5aa7a60edc3d99bf",
+            "5f981ad96f0ea8a9d8a2c161843a94c91f8e1bfc",
+            "aca9f86df62f6ff13fdade755ece70d25bdfe079",
+            "b4ca198cc625f5dc8a3544c475b2ad4c3499c5db",
+            "2fb8b60765a454c0308c1e46560fbcba5e416d0a",
+            "b0e7a43b5bd440ca891293bd3092f18f4d5ea3cf"
+        ],
+        "target_matched": [
+            "d7240ff9430e31fa950e27fe5aa7a60edc3d99bf"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "hexpm/hex",
+        "Target PR": "https://github.com/hexpm/hex/pull/646",
+        "Closest PR": "https://github.com/hexpm/hex/pull/668",
+        "Title": "Fix old-style mix.lock support",
+        "Created At": "",
+        "Target Commit SHA": "8f5798043bc8ef9ec5d5a9ddcfa16386f17a5e75",
+        "target_inducing_commit_hash_pyszz": [
+            "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a"
+        ],
+        "Closest Commit SHA": "ed8a6c41f1f747537af615adfda8bb74d7efa26e",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a",
+            "f049e906d38be8e85ad1070d3c417a99dfeb8ee0"
+        ],
+        "target_matched": [
+            "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "home-assistant/plugin-dns",
+        "Target PR": "https://github.com/home-assistant/plugin-dns/pull/59",
+        "Closest PR": "https://github.com/home-assistant/plugin-dns/pull/91",
+        "Title": "Bump docker/login-action from 1.14.1 to 2.0.0",
+        "Created At": "2022-05-06T06:04:17Z",
+        "Target Commit SHA": "19f79cc8ba43b05afeef3b7c3921694897a24b86",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "51d4cb594782d0a127aea523044065b5f80abbe4",
+        "closest_inducing_commit_hash_pyszz": [
+            "d232e32a81c9b7d2d14c479eff20670a7de495c7"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "d232e32a81c9b7d2d14c479eff20670a7de495c7"
+        ],
+        "closest_matched": [
+            "d232e32a81c9b7d2d14c479eff20670a7de495c7"
+        ]
+    },
+    {
+        "repo_name": "i18next/i18next",
+        "Target PR": "https://github.com/i18next/i18next/pull/443",
+        "Closest PR": "https://github.com/i18next/i18next/pull/826",
+        "Title": "Fix Interpolator.escapeValue defaulting to undefined in some cases",
+        "Created At": "2016-10-13T20:01:34Z",
+        "Target Commit SHA": "2478ecaa933352afd29d22efe8ee85581ea2be4e",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "11f059599889d857d497aa0499355be32df0dbb6",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "igniterealtime/Openfire",
+        "Target PR": "https://github.com/igniterealtime/Openfire/pull/1498",
+        "Closest PR": "https://github.com/igniterealtime/Openfire/pull/1718",
+        "Title": "Fix Maven Publish job in GH Actions",
+        "Created At": "2020-10-01T14:16:08Z",
+        "Target Commit SHA": "cb900749d4e836b32cc6e2cc41cda17f252b977d",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "89ba3d2580d6b544f379d8ad2f61d91869d8c13d",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "infinispan/infinispan",
+        "Target PR": "https://github.com/infinispan/infinispan/pull/5639",
+        "Closest PR": "https://github.com/infinispan/infinispan/pull/6537",
+        "Title": "[9.4]  ISPN-9822 BasicComponentRegistryImpl fails with security manager",
+        "Created At": "2018-12-13T09:48:29Z",
+        "Target Commit SHA": "2944b0d1369a230bde88392b222921537c99331e",
+        "target_inducing_commit_hash_pyszz": [
+            "2372aa3fc98cac5ca703ae3047ade4f6e12ff982"
+        ],
+        "Closest Commit SHA": "abe7eac87bcf2d33e86a5efbd4fbef721fd29fc5",
+        "closest_inducing_commit_hash_pyszz": [
+            "34f5f9224f20a54e0ded3fdf9bc55575871b2ca1"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "f2989a9b7b5ef2d3be690250d9d1bc7b2fa045d7",
+            "be741c9e7543d053455b2f3dc49a134f8665935c"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "34f5f9224f20a54e0ded3fdf9bc55575871b2ca1"
+        ],
+        "closest_matched": [
+            "34f5f9224f20a54e0ded3fdf9bc55575871b2ca1"
+        ]
+    },
+    {
+        "repo_name": "InvoicePlane/InvoicePlane",
+        "Target PR": "https://github.com/InvoicePlane/InvoicePlane/pull/551",
+        "Closest PR": "https://github.com/InvoicePlane/InvoicePlane/pull/678",
+        "Title": "[IP-747] Minor cosmetic changes to the General Settings forms",
+        "Created At": "2018-10-18T21:28:52Z",
+        "Target Commit SHA": "7b64642943cd37011b85f0f316c9b4fb1b787ae4",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "25cc633b35e7d53ba6cc8071e179c473e0aec8c1",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
