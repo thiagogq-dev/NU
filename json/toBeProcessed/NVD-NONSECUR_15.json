@@ -3,90 +3,108 @@
         "repo_name": "Katello/katello",
         "Target PR": "https://github.com/Katello/katello/pull/6051",
         "Closest PR": "https://github.com/Katello/katello/pull/6792",
-        "Closest Commit SHA": "ab6434137082ba219f6acb6974aee1214dcc8e08",
         "Title": "Fixes #18228 - Add CV/CCV info to client facts",
         "Created At": "2017-05-17T13:18:53Z",
-        "fix_commit_hash": "e3abf55352ba98c1dc73057677e6299617767dd0"
+        "Target Commit SHA": "e3abf55352ba98c1dc73057677e6299617767dd0",
+        "target_inducing_commit_hash_pyszz": [
+            "5dd2cae9777b6796f5f933553856a9765644c8f2"
+        ],
+        "fix_commit_hash": "ab6434137082ba219f6acb6974aee1214dcc8e08"
     },
     {
         "repo_name": "kogmbh/WebODF",
         "Target PR": "https://github.com/kogmbh/WebODF/pull/851",
         "Closest PR": "https://github.com/webodf/WebODF/pull/908",
-        "Closest Commit SHA": "b9e9150ade8560f538374f49c116489af2475bbd",
         "Title": "Let inserted image dimensions be in centimeters",
         "Created At": "2015-07-02T01:49:02Z",
-        "fix_commit_hash": "3dbc60a30a43b289b29a6cbed9314146a8efed3b"
+        "Target Commit SHA": "3dbc60a30a43b289b29a6cbed9314146a8efed3b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "b9e9150ade8560f538374f49c116489af2475bbd"
     },
     {
         "repo_name": "Kozea/Radicale",
         "Target PR": "https://github.com/Kozea/Radicale/pull/341",
         "Closest PR": "https://github.com/Kozea/Radicale/pull/536",
-        "Closest Commit SHA": "38f8c18860abb9d5adb21a1a93f97273770548da",
         "Title": "fix encoding",
         "Created At": "2016-11-13T15:06:32Z",
-        "fix_commit_hash": "1109973a925970353dfd13c6df8de0e4e446d983"
+        "Target Commit SHA": "1109973a925970353dfd13c6df8de0e4e446d983",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "38f8c18860abb9d5adb21a1a93f97273770548da"
     },
     {
         "repo_name": "kubeedge/kubeedge",
         "Target PR": "https://github.com/kubeedge/kubeedge/pull/3899",
         "Closest PR": "https://github.com/kubeedge/kubeedge/pull/4811",
-        "Closest Commit SHA": "f333672eda1b555843ff77442f910eb7747a0f62",
         "Title": "New reader",
         "Created At": "2023-06-01T08:12:09Z",
-        "fix_commit_hash": "ea23549e21ea13b99383521def5fb02f683ef509"
+        "Target Commit SHA": "ea23549e21ea13b99383521def5fb02f683ef509",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "f333672eda1b555843ff77442f910eb7747a0f62"
     },
     {
         "repo_name": "kubernetes/kubernetes",
         "Target PR": "https://github.com/kubernetes/kubernetes/pull/88684",
         "Closest PR": "https://github.com/kubernetes/kubernetes/pull/99543",
-        "Closest Commit SHA": null,
         "Title": "update azure_armclient log",
         "Created At": "2021-02-28T02:39:08Z",
-        "fix_commit_hash": "cd23e78c3dc1a4161abb11523a8614b56b9c0928"
+        "Target Commit SHA": "cd23e78c3dc1a4161abb11523a8614b56b9c0928",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "kyverno/kyverno",
         "Target PR": "https://github.com/kyverno/kyverno/pull/5713",
         "Closest PR": "https://github.com/kyverno/kyverno/pull/9173",
-        "Closest Commit SHA": "08d098d262b0523d340ea32413281602952d0946",
         "Title": "feat(jmespath):time_parse() support epoch time",
         "Created At": "2023-12-16T18:30:23Z",
-        "fix_commit_hash": "14d82cbf6df091d0b12d2d1cdce1d9c9f29f659d"
+        "Target Commit SHA": "14d82cbf6df091d0b12d2d1cdce1d9c9f29f659d",
+        "target_inducing_commit_hash_pyszz": [
+            "ed97ff66d03cb0de55d3ec062e30e3390b72fd68"
+        ],
+        "fix_commit_hash": "08d098d262b0523d340ea32413281602952d0946"
     },
     {
         "repo_name": "laravel/framework",
         "Target PR": "https://github.com/laravel/framework/pull/35865",
         "Closest PR": "https://github.com/laravel/framework/pull/40378",
-        "Closest Commit SHA": "c0a0086fdebcd4abc5fae5dac90c02d30d0952cd",
         "Title": "[9.x] Add session decorator",
         "Created At": "2022-01-12T22:31:01Z",
-        "fix_commit_hash": "d0954f4574f315f0c2e9e65e92cc74b80eadcac1"
+        "Target Commit SHA": "d0954f4574f315f0c2e9e65e92cc74b80eadcac1",
+        "target_inducing_commit_hash_pyszz": [
+            "0c4ef0f549e172240ccfdac045494c1a27b6ca06"
+        ],
+        "fix_commit_hash": "c0a0086fdebcd4abc5fae5dac90c02d30d0952cd"
     },
     {
         "repo_name": "laravel/framework",
         "Target PR": "https://github.com/laravel/framework/pull/39908",
         "Closest PR": "https://github.com/laravel/framework/pull/45199",
-        "Closest Commit SHA": "fe3d1bff07215c4ca79a0ae202d15ba22f17318d",
         "Title": "[9.x] Update HandleExceptions::$reservedMemory",
         "Created At": "2022-12-06T12:03:28Z",
-        "fix_commit_hash": "b8174169b1807f36de1837751599e2828ceddb9b"
+        "Target Commit SHA": "b8174169b1807f36de1837751599e2828ceddb9b",
+        "target_inducing_commit_hash_pyszz": [
+            "6be12dd818ed15c01ba28b2bbfd3bcadf0955da3"
+        ],
+        "fix_commit_hash": "fe3d1bff07215c4ca79a0ae202d15ba22f17318d"
     },
     {
         "repo_name": "laravel/laravel",
         "Target PR": "https://github.com/laravel/laravel/pull/5477",
         "Closest PR": "https://github.com/laravel/laravel/pull/5732",
-        "Closest Commit SHA": "50b77841068a01117f232b6f8e64a91c76334a13",
         "Title": "[8.x] Fix \"View path not found\" when managing view cache",
         "Created At": "2021-11-23T18:46:38Z",
-        "fix_commit_hash": "f6f772ba5490de48d8a79747b39540afe61eed24"
+        "Target Commit SHA": "f6f772ba5490de48d8a79747b39540afe61eed24",
+        "target_inducing_commit_hash_pyszz": [],
+        "fix_commit_hash": "50b77841068a01117f232b6f8e64a91c76334a13"
     },
     {
         "repo_name": "layer5io/meshery",
         "Target PR": "https://github.com/layer5io/meshery/pull/2745",
         "Closest PR": "https://github.com/meshery/meshery/pull/5423",
-        "Closest Commit SHA": "6b100a333e244b91421c1d0106f6fd2afc52559e",
         "Title": "Remove older hack for namespace creation",
         "Created At": "2022-04-23T07:19:44Z",
-        "fix_commit_hash": "7b17bea250972bdce47b1c5f2ebd3adc0fcf33dc"
+        "Target Commit SHA": "7b17bea250972bdce47b1c5f2ebd3adc0fcf33dc",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "6b100a333e244b91421c1d0106f6fd2afc52559e"
     }
 ]

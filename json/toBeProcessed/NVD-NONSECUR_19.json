@@ -3,90 +3,102 @@
         "repo_name": "moby/hyperkit",
         "Target PR": "https://github.com/moby/hyperkit/pull/313",
         "Closest PR": "https://github.com/moby/hyperkit/pull/326",
-        "Closest Commit SHA": "5ad2bf80ff025758cabad6bd5e8183c88c1a307a",
         "Title": "Fix condition to allow creating console on stdio",
         "Created At": "2021-12-03T14:48:35Z",
-        "fix_commit_hash": "acbc2d10593dfa86f490e799a7ee865db6da899f"
+        "Target Commit SHA": "acbc2d10593dfa86f490e799a7ee865db6da899f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "5ad2bf80ff025758cabad6bd5e8183c88c1a307a"
     },
     {
         "repo_name": "moby/moby",
         "Target PR": "https://github.com/moby/moby/pull/45118",
         "Closest PR": "https://github.com/moby/moby/pull/47520",
-        "Closest Commit SHA": "6c10086976d07d4746e03dcfd188972a2f07e1c9",
         "Title": "builder-next/export: Use leaseutil for descref lease",
         "Created At": "2024-03-06T16:48:17Z",
-        "fix_commit_hash": "b7bc043c58ac526a1e9dd4bc18535347a2455e4f"
+        "Target Commit SHA": "b7bc043c58ac526a1e9dd4bc18535347a2455e4f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "6c10086976d07d4746e03dcfd188972a2f07e1c9"
     },
     {
         "repo_name": "moby/moby",
         "Target PR": "https://github.com/moby/moby/pull/45118",
         "Closest PR": "https://github.com/moby/moby/pull/47520",
-        "Closest Commit SHA": "6c10086976d07d4746e03dcfd188972a2f07e1c9",
         "Title": "builder-next/export: Use leaseutil for descref lease",
         "Created At": "2024-03-06T16:48:17Z",
-        "fix_commit_hash": "b7bc043c58ac526a1e9dd4bc18535347a2455e4f"
+        "Target Commit SHA": "b7bc043c58ac526a1e9dd4bc18535347a2455e4f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "6c10086976d07d4746e03dcfd188972a2f07e1c9"
     },
     {
         "repo_name": "moderntribe/panel-builder",
         "Target PR": "https://github.com/moderntribe/panel-builder/pull/173",
         "Closest PR": "https://github.com/moderntribe/panel-builder/pull/189",
-        "Closest Commit SHA": "34c4419cce4e52dc17128ac70121736ac5accc11",
         "Title": "Fixed a deprecation issue with oembed class usage from WP.",
         "Created At": "2020-11-25T15:56:27Z",
-        "fix_commit_hash": "4528d4f855dbbf24e9fc12a162fda84ce3bedc2f"
+        "Target Commit SHA": "4528d4f855dbbf24e9fc12a162fda84ce3bedc2f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "34c4419cce4e52dc17128ac70121736ac5accc11"
     },
     {
         "repo_name": "modxcms/revolution",
         "Target PR": "https://github.com/modxcms/revolution/pull/13177",
         "Closest PR": "https://github.com/modxcms/revolution/pull/13690",
-        "Closest Commit SHA": "137acb4939cad144ef7140e02b35e726b4645aa2",
         "Title": "Fixing 'Flush Your Permissions' in topmenu",
         "Created At": "2017-11-14T19:30:58Z",
-        "fix_commit_hash": "d3df889703f712e71eb0cdca4f9b316731f51143"
+        "Target Commit SHA": "d3df889703f712e71eb0cdca4f9b316731f51143",
+        "target_inducing_commit_hash_pyszz": [
+            "5b684398c07aa267ed0822773ca2cde08ca7e01a"
+        ],
+        "fix_commit_hash": "137acb4939cad144ef7140e02b35e726b4645aa2"
     },
     {
         "repo_name": "mooltipass/moolticute",
         "Target PR": "https://github.com/mooltipass/moolticute/pull/483",
         "Closest PR": "https://github.com/mooltipass/moolticute/pull/746",
-        "Closest Commit SHA": "0c5ef7e0276867b95b9b18ab0223bbf421ab4bfe",
         "Title": "Fix device disconnection/reconnection issues",
         "Created At": "2020-10-13T18:33:56Z",
-        "fix_commit_hash": "b31478f8729f6c923f95b0b017d51b7d664dce96"
+        "Target Commit SHA": "b31478f8729f6c923f95b0b017d51b7d664dce96",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "0c5ef7e0276867b95b9b18ab0223bbf421ab4bfe"
     },
     {
         "repo_name": "mpruett/audiofile",
         "Target PR": "https://github.com/mpruett/audiofile/pull/42",
         "Closest PR": "https://github.com/mpruett/audiofile/pull/45",
-        "Closest Commit SHA": "6c1322f67b3ca79c3f65478bc7fe18aea29375db",
         "Title": "Fix static linking with libsndfile",
         "Created At": "2017-05-27T16:02:52Z",
-        "fix_commit_hash": "f30e9ab09cbc7bde366b512a2007b38aa2630cbc"
+        "Target Commit SHA": "f30e9ab09cbc7bde366b512a2007b38aa2630cbc",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "6c1322f67b3ca79c3f65478bc7fe18aea29375db"
     },
     {
         "repo_name": "mpruett/audiofile",
         "Target PR": "https://github.com/mpruett/audiofile/pull/42",
         "Closest PR": "https://github.com/mpruett/audiofile/pull/45",
-        "Closest Commit SHA": "6c1322f67b3ca79c3f65478bc7fe18aea29375db",
         "Title": "Fix static linking with libsndfile",
         "Created At": "2017-05-27T16:02:52Z",
-        "fix_commit_hash": "f30e9ab09cbc7bde366b512a2007b38aa2630cbc"
+        "Target Commit SHA": "f30e9ab09cbc7bde366b512a2007b38aa2630cbc",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "6c1322f67b3ca79c3f65478bc7fe18aea29375db"
     },
     {
         "repo_name": "mumble-voip/mumble",
         "Target PR": "https://github.com/mumble-voip/mumble/pull/3512",
         "Closest PR": "https://github.com/mumble-voip/mumble/pull/3772",
-        "Closest Commit SHA": "9f442e1a2279c2a898a7c018a709f2ecf298f8a2",
         "Title": "compiler.pri: disable warnings for deprecated stuff",
         "Created At": "2019-08-29T08:03:54Z",
-        "fix_commit_hash": "f7221c14efa14c4c73b64782673d309e97f87e61"
+        "Target Commit SHA": "f7221c14efa14c4c73b64782673d309e97f87e61",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "9f442e1a2279c2a898a7c018a709f2ecf298f8a2"
     },
     {
         "repo_name": "mybatis/mybatis-3",
         "Target PR": "https://github.com/mybatis/mybatis-3/pull/2079",
         "Closest PR": "https://github.com/mybatis/mybatis-3/pull/2347",
-        "Closest Commit SHA": "b8e5a30f97b059cb992340a5c42c2f24023aedc9",
         "Title": "fix the description of set tag in dynamic-sql.xml doc",
         "Created At": "2021-09-26T06:08:13Z",
-        "fix_commit_hash": "d89b30095f4687ae96119d70ef4622128efdd73f"
+        "Target Commit SHA": "d89b30095f4687ae96119d70ef4622128efdd73f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "b8e5a30f97b059cb992340a5c42c2f24023aedc9"
     }
 ]
