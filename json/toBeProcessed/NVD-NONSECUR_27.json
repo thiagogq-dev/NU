@@ -1,0 +1,112 @@
+[
+    {
+        "repo_name": "python-pillow/Pillow",
+        "Target PR": "https://github.com/python-pillow/Pillow/pull/4505",
+        "Closest PR": "https://github.com/python-pillow/Pillow/pull/5373",
+        "Closest Commit SHA": "b90c73f08d749e3a8b07a8400b6fd321316541fc",
+        "Title": "Fix pytest valgrind warnings",
+        "Created At": "2021-03-31T19:32:58Z",
+        "Target Commit SHA": "ff60894d697d1992147b791101ad53a8bf1352e4",
+        "target_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "Target PR": "https://github.com/python-pillow/Pillow/pull/7244",
+        "Closest PR": "https://github.com/python-pillow/Pillow/pull/8143",
+        "Closest Commit SHA": "6a6ad65b473c18971aa649493ae7ac44db5f2c3d",
+        "Title": "Update dependency cibuildwheel to v2.19.1",
+        "Created At": "2024-06-15T22:40:49Z",
+        "Target Commit SHA": "e37b25087d39bd54495380a9898c8c7a2a4698d1",
+        "target_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "Target PR": "https://github.com/python-pillow/Pillow/pull/4503",
+        "Closest PR": "https://github.com/python-pillow/Pillow/pull/5373",
+        "Closest Commit SHA": "b90c73f08d749e3a8b07a8400b6fd321316541fc",
+        "Title": "Fix pytest valgrind warnings",
+        "Created At": "2021-03-31T19:32:58Z",
+        "Target Commit SHA": "0da1eca7cfcea4ea67692ecec8dfd16837242da2",
+        "target_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "python/cpython",
+        "Target PR": "https://github.com/python/cpython/pull/107982",
+        "Closest PR": "https://github.com/python/cpython/pull/120643",
+        "Closest Commit SHA": "9e4a81f00fef689c6e18a64245aa064eaadc7ac7",
+        "Title": "gh-120642: Move private PyCode APIs to the internal C API",
+        "Created At": "2024-06-17T14:18:51Z",
+        "Target Commit SHA": "ccf81e1088c25a9f4464e478dc3b5c03ed7ee63b",
+        "target_inducing_commit_hash_pyszz": [
+            "9c5fa9c97c5c5336e60e4ae7a2e6e3f67acedfc7"
+        ]
+    },
+    {
+        "repo_name": "python/cpython",
+        "Target PR": "https://github.com/python/cpython/pull/107981",
+        "Closest PR": "https://github.com/python/cpython/pull/120655",
+        "Closest Commit SHA": "396f8b0b98441344e1d3223a4075e5e342e0c2df",
+        "Title": "[3.13] gh-117657:  Fix `__slots__` thread safety in free-threaded build (GH-119368)",
+        "Created At": "2024-06-17T18:45:03Z",
+        "Target Commit SHA": "ede98958810b76694cf756d305b564cd6adc1a48",
+        "target_inducing_commit_hash_pyszz": [
+            "9c5fa9c97c5c5336e60e4ae7a2e6e3f67acedfc7"
+        ]
+    },
+    {
+        "repo_name": "quinn-rs/quinn",
+        "Target PR": "https://github.com/quinn-rs/quinn/pull/1667",
+        "Closest PR": "https://github.com/quinn-rs/quinn/pull/1893",
+        "Closest Commit SHA": "bd9a350630995a19bf6d21ab3388c2013c26494a",
+        "Title": "Fix debug assert with reordered ACKs",
+        "Created At": "2024-06-07T22:11:13Z",
+        "Target Commit SHA": "f81c2fafa7381a826c76506126b217c584082177",
+        "target_inducing_commit_hash_pyszz": [
+            "bab7b0af9105d274a77b945c5932f4ec1e97a9dc"
+        ]
+    },
+    {
+        "repo_name": "radareorg/radare2-extras",
+        "Target PR": "https://github.com/radareorg/radare2-extras/pull/255",
+        "Closest PR": "https://github.com/radareorg/radare2-extras/pull/285",
+        "Closest Commit SHA": "e158c1bbdcdeea04fe66c6f7fb0b368d22edb2cc",
+        "Title": "M32c",
+        "Created At": "2021-06-28T01:52:27Z",
+        "Target Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
+        "target_inducing_commit_hash_pyszz": [
+            "00cd6d221e6a5d03968c4468835a0f73e7a64d8a"
+        ]
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "Target PR": "https://github.com/rapid7/metasploit-framework/pull/12433",
+        "Closest PR": "https://github.com/rapid7/metasploit-framework/pull/14238",
+        "Closest Commit SHA": "87b1facc5b4531a6b9617458909a601857ebda45",
+        "Title": "Update sap_service_discovery.rb to support discovering SAP IGS servers",
+        "Created At": "2020-10-08T11:06:33Z",
+        "Target Commit SHA": "d87f752591c710cd30527d851788f7d196c3904c",
+        "target_inducing_commit_hash_pyszz": [
+            "d65775e5bf5cb5df93d753d3e2ea684235cc90a0"
+        ]
+    },
+    {
+        "repo_name": "redpanda-data/redpanda",
+        "Target PR": "https://github.com/redpanda-data/redpanda/pull/7719",
+        "Closest PR": "https://github.com/redpanda-data/redpanda/pull/15414",
+        "Closest Commit SHA": "6cd0e7054aada957dc28b6826b6f4f77ea6eb40e",
+        "Title": "kafka/client: Stop the broker if `do_authenticate` failed",
+        "Created At": "2023-12-13T00:13:00Z",
+        "Target Commit SHA": "6a69c280a05721178946835130b5f2b20002e33d",
+        "target_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "RobotsAndPencils/go-saml",
+        "Target PR": "https://github.com/RobotsAndPencils/go-saml/pull/38",
+        "Closest PR": "https://github.com/RobotsAndPencils/go-saml/pull/38",
+        "Closest Commit SHA": "716804e0ce54d13702c802c1410dd98954ee0123",
+        "Title": "sign AuthnRequests and AuthnResponses with SHA256",
+        "Created At": "2020-07-10T16:22:10Z",
+        "Target Commit SHA": "716804e0ce54d13702c802c1410dd98954ee0123",
+        "target_inducing_commit_hash_pyszz": "-"
+    }
+]
