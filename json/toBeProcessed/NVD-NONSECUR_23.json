@@ -1,0 +1,92 @@
+[
+    {
+        "repo_name": "obgm/libcoap",
+        "Target PR": "https://github.com/obgm/libcoap/pull/1311",
+        "Closest PR": "https://github.com/obgm/libcoap/pull/1444",
+        "Closest Commit SHA": "5fbbd277651df65296f8574abc0656135770c05a",
+        "Title": "coap_resource.c: Remove debug test statement.",
+        "Created At": "2024-06-17T08:45:32Z",
+        "fix_commit_hash": "2b28d8b0e9607e71a145345b4fe49517e052b7d9"
+    },
+    {
+        "repo_name": "OHDSI/WebAPI",
+        "Target PR": "https://github.com/OHDSI/WebAPI/pull/1101",
+        "Closest PR": "https://github.com/OHDSI/WebAPI/pull/1537",
+        "Closest Commit SHA": "dbddfb4ae30fecb398aa02e2c31e0e5a49ada9b3",
+        "Title": "pac4j and Authz google id from 2.7",
+        "Created At": "2020-05-13T17:39:59Z",
+        "fix_commit_hash": "d7b12b2f5234e425e5bc76545e75de0d6eb3f8fd"
+    },
+    {
+        "repo_name": "OISF/libhtp",
+        "Target PR": "https://github.com/OISF/libhtp/pull/213",
+        "Closest PR": "https://github.com/OISF/libhtp/pull/294",
+        "Closest Commit SHA": "8068fb949d1c7cdcd1dc0370f86e28e2cf3c1592",
+        "Title": "htp.pc.in: add -lz to Libs.private",
+        "Created At": "2020-04-25T15:19:42Z",
+        "fix_commit_hash": "244b2de9ca018cc47efd8d06cd67004bbe2da057"
+    },
+    {
+        "repo_name": "omrilotan/async-git",
+        "Target PR": "https://github.com/omrilotan/async-git/pull/14",
+        "Closest PR": "https://github.com/omrilotan/async-git/pull/34",
+        "Closest Commit SHA": "0a44dfeabc17e9cb53e69c931493cc2fc5197317",
+        "Title": "Bump eslint from 7.32.0 to 8.5.0",
+        "Created At": "2021-12-20T03:08:14Z",
+        "fix_commit_hash": "d1950a5021f4e19d92f347614be0d85ce991510d"
+    },
+    {
+        "repo_name": "OpencachingDeutschland/oc-server3",
+        "Target PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/893",
+        "Closest PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/902",
+        "Closest Commit SHA": "4bdd6a0e7b7760cea03b91812cbb80d7b16e3b5f",
+        "Title": "Fix XSS from open bug bounty from slack message 01",
+        "Created At": "2022-12-11T16:16:30Z",
+        "fix_commit_hash": "e36cbdce882fe37af3fed29e826fa86fed463ee4"
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "Target PR": "https://github.com/opencv/opencv/pull/9448",
+        "Closest PR": "https://github.com/opencv/opencv/pull/12286",
+        "Closest Commit SHA": "b47c9ac6434a62f7773947273e8d561bb65f0ca5",
+        "Title": "Fix bug in cv::shape::AffineTransformer",
+        "Created At": "2018-08-23T05:50:29Z",
+        "fix_commit_hash": "aacae2065744adb05e858d327198c7bbe7f452b0"
+    },
+    {
+        "repo_name": "opencv/opencv_contrib",
+        "Target PR": "https://github.com/opencv/opencv_contrib/pull/3480",
+        "Closest PR": "https://github.com/opencv/opencv_contrib/pull/3726",
+        "Closest Commit SHA": "9358ad2e56f6d0b99860856fc1b53b783d186e73",
+        "Title": "Try to Fix #3725: cudaarithm: fix the compile faiure of CUDA 12.",
+        "Created At": "2024-04-22T15:46:07Z",
+        "fix_commit_hash": "ccc277247ac1a7aef0a90353edcdec35fbc5903c"
+    },
+    {
+        "repo_name": "openemr/openemr",
+        "Target PR": "https://github.com/openemr/openemr/pull/2712",
+        "Closest PR": "https://github.com/openemr/openemr/pull/3959",
+        "Closest Commit SHA": "2763b493f128161e6b77a392ba1e0fcb1c023b12",
+        "Title": "corrected misspelling for system and added codeable concepts in FHIR  Condition",
+        "Created At": "2020-10-06T18:59:28Z",
+        "fix_commit_hash": "32a724f47321d1a4a68ca4fcbb517e7eb3a98a19"
+    },
+    {
+        "repo_name": "openemr/openemr",
+        "Target PR": "https://github.com/openemr/openemr/pull/2701",
+        "Closest PR": "https://github.com/openemr/openemr/pull/3943",
+        "Closest Commit SHA": "232ac095d54d93db89b5671edce58994a6db7e78",
+        "Title": "Adding type in FHIR Encounter and Patient FHIR search by id",
+        "Created At": "2020-09-29T15:35:46Z",
+        "fix_commit_hash": "4a737a155dd82991dac333cbfa1ebb11804d0595"
+    },
+    {
+        "repo_name": "openemr/openemr",
+        "Target PR": "https://github.com/openemr/openemr/pull/2698",
+        "Closest PR": "https://github.com/openemr/openemr/pull/3938",
+        "Closest Commit SHA": "7d822fb0c698e61d49084cf661972845bd58d96e",
+        "Title": "more php8 fixes",
+        "Created At": "2020-09-26T07:44:50Z",
+        "fix_commit_hash": "52e6c1e8df0127f5c20656111c710fc2cbc9aec3"
+    }
+]
