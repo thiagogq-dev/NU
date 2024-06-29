@@ -1,0 +1,246 @@
+[
+    {
+        "repo_name": "argoproj/argo-cd",
+        "Target PR": "https://github.com/argoproj/argo-cd/pull/7139",
+        "Closest PR": "https://github.com/argoproj/argo-cd/pull/10493",
+        "Title": "fix: add more info to  creationtime format",
+        "Created At": "2022-09-01T06:04:24Z",
+        "Target Commit SHA": "7122b83fc346ec2729227405a2f9c2aa84b0bf80",
+        "target_inducing_commit_hash_pyszz": [
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
+        ],
+        "Closest Commit SHA": "9fac0f6ae6e52d6f4978a1eaaf51fbffb9c0958a",
+        "closest_inducing_commit_hash_pyszz": [
+            "6b08a23a0132667c71a9497ad0f043689b66b686"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "10d05cdb60fe65770809e58eee400b5d92764228",
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa",
+            "12ec99ad01a945e045225e5c239f8ee203e8139a",
+            "58ac345f2bd4054a12b4991a8909c56a035867d9"
+        ],
+        "target_matched": [
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "6b08a23a0132667c71a9497ad0f043689b66b686",
+            "ee28288d507b930cb89f6ef0f6dd6bfa4daa7341",
+            "a6039e1be9c98a80af9b43d976987d73d5d4489c",
+            "9f47a116219700a46750707fd4d0e5f835404444",
+            "8d55e72dfac991519f4121c2186067922dae59fc"
+        ],
+        "closest_matched": [
+            "6b08a23a0132667c71a9497ad0f043689b66b686"
+        ]
+    },
+    {
+        "repo_name": "argoproj/argo-events",
+        "Target PR": "https://github.com/argoproj/argo-events/pull/1966",
+        "Closest PR": "https://github.com/argoproj/argo-events/pull/2613",
+        "Title": "chore(deps): bump github.com/cloudflare/circl from 1.1.0 to 1.3.3",
+        "Created At": "2023-05-11T20:46:22Z",
+        "Target Commit SHA": "143f8beb81e87af523dd15a6de850c5e6a0e8f59",
+        "target_inducing_commit_hash_pyszz": [
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc"
+        ],
+        "Closest Commit SHA": "07eaa2e445b0224fb22bb851c009231845bae5b9",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "8f96b097242b8380de84c9ee670923746e962f61",
+            "fdc8eef12c488cc9854313289cc004bcbdd85f47",
+            "28e23ce27180b0e457034548da635e198ab0ca83",
+            "b839fd052e19aa80d538190a532ebb206ed527ad",
+            "58cc0930603dfd4a685eb904e17610bbc2ca8637",
+            "9d4a5c52dcd332a4fa462f739fc28d7e134ad6b7",
+            "93cd06d67d3a80c009d28ca426dfa74936edba4b",
+            "099ed605dd80db9f3b607c7987d945b428068095",
+            "af1f8557caaed0f081bac3a9172c51c793f65ffb",
+            "437cb88b1b840cd7402c048c6b5ac0e927caf3e8",
+            "145fd9a940833c6e5b398994305d85847215d957",
+            "6939b1b46b7e3e997091a48124c99791f1011458",
+            "89897386b74f62c61baf0d5dc320dab6ead67428",
+            "d3673d8ef952e3442377c193f1f3508d114b7fb5",
+            "21cb5b5d0780549bd2837f408683c6fa6335f2da",
+            "1cf98ab45ad1ae189da7a89fd453252f0e8e890b",
+            "fcf4944fc0b4f899eb4c20bb15fb3b68c763c102",
+            "88dc8b117f49504085c3b9d14dda5a1e2d46411d",
+            "6b7b466bbff7e22227e33dd955ad4e5cd3755f02",
+            "4ba0855140e3d5397736132767aac2255b0f1da9",
+            "3cf92547cce01a26dc58e5634837936fcea901e2",
+            "22de2c470487dcd3f6e2255727e522b305df2d4c",
+            "b5e5d8e8b3186660e3f456ed3c36919a10d96acf",
+            "f02d2cd7bdac456bb8ba6b3de4a97831c403c7af",
+            "2363cc1f448ebc689b6cde967ca90b6a5461cef7",
+            "d6e6aed65b1f538f3148ec01ec95820924d26e29",
+            "f91e05905ae55094912ff1153b80fd3736db7727",
+            "2f027680621e8d7696a917764fd12519c757025e",
+            "feeaf5d0420f6949ccaf1904a8dcd58c65a176ac",
+            "f493709fe2427ee0bd35159d2137bbc004ceacfb",
+            "0019098f333aa964c4380b6dd5a69afb12a1dcdf",
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc",
+            "6a9358204a065cf902b289d2f7cccad11c3c362c",
+            "92968e2d987800eb053d7bd0249f02bfee948a90",
+            "38d6adc939e6ddbbae99eafc3f65da83040185c3",
+            "160657f18961af7006567947f82b2b06c0808921",
+            "feed8019901222470e02c693ee7216f59ecb9a50",
+            "c16a1c597ff03b58d460307f50baede16fd059d4",
+            "849a9ffb74cc402d20dedf0b57380bda4f09bb71",
+            "12ae7b2e80f84faa0bafa476512473c59bbcb5be",
+            "28a5c2be7638580cde71598e8a9f58edf3283857"
+        ],
+        "target_matched": [
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "ariabuckles/simple-markdown",
+        "Target PR": "https://github.com/ariabuckles/simple-markdown/pull/73",
+        "Closest PR": "https://github.com/ariabuckles/simple-markdown/pull/91",
+        "Title": "Bump node-fetch from 2.6.0 to 2.6.1",
+        "Created At": "2020-09-10T23:29:45Z",
+        "Target Commit SHA": "015a719bf5cdc561feea05500ecb3274ef609cd2",
+        "target_inducing_commit_hash_pyszz": [
+            "90ef64a857169e68e7a9fde396b57b061372f396"
+        ],
+        "Closest Commit SHA": "40af8da92e4bd296ed01bde4bc87ae7aab22ee08",
+        "closest_inducing_commit_hash_pyszz": [
+            "71030b8af2b79119c44bae8fa13fc9c2a7efbee1"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "90ef64a857169e68e7a9fde396b57b061372f396"
+        ],
+        "target_matched": [
+            "90ef64a857169e68e7a9fde396b57b061372f396"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "71030b8af2b79119c44bae8fa13fc9c2a7efbee1"
+        ],
+        "closest_matched": [
+            "71030b8af2b79119c44bae8fa13fc9c2a7efbee1"
+        ]
+    },
+    {
+        "repo_name": "Arno0x/TwoFactorAuth",
+        "Target PR": "https://github.com/Arno0x/TwoFactorAuth/pull/3",
+        "Closest PR": "https://github.com/Arno0x/TwoFactorAuth/pull/7",
+        "Title": "Fixed a file system vulnerability",
+        "Created At": "2016-05-20T15:16:12Z",
+        "Target Commit SHA": "43535441857d8219606d101badca510691e4e8be",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "artesaos/seotools",
+        "Target PR": "https://github.com/artesaos/seotools/pull/201",
+        "Closest PR": "https://github.com/artesaos/seotools/pull/192",
+        "Title": "Fix testcases",
+        "Created At": "",
+        "Target Commit SHA": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "91c9fc3ee18db01d220dd47708f303b8eff8078b",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "authzed/spicedb",
+        "Target PR": "https://github.com/authzed/spicedb/pull/1397",
+        "Closest PR": "https://github.com/authzed/spicedb/pull/1937",
+        "Title": "Initial support for Intersection arrow",
+        "Created At": "2024-06-13T18:44:55Z",
+        "Target Commit SHA": "666d083225a1f3274112be95a9c6e17cc003be34",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "58b50424af4d788a34388d70ef3059a423cfb3e9",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "autovance/ftp-srv",
+        "Target PR": "https://github.com/autovance/ftp-srv/pull/224",
+        "Closest PR": "https://github.com/QuorumDMS/ftp-srv/pull/274",
+        "Title": "chore(deps): bump path-parse from 1.0.6 to 1.0.7",
+        "Created At": "2021-11-04T20:48:58Z",
+        "Target Commit SHA": "457b859450a37cba10ff3c431eb4aa67771122e3",
+        "target_inducing_commit_hash_pyszz": [
+            "c0e132b70e3b92c4008622db93ccb0babaff56d0"
+        ],
+        "Closest Commit SHA": "e1f1aa09cd98c41f36e8657d0346bc2e7646ecae",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "0b9167e1e44f41306925879a234f3d914a8b13f7",
+            "87a2138cb37049b2e475be332acb1febcda6b5aa",
+            "c0e132b70e3b92c4008622db93ccb0babaff56d0",
+            "c9b437157910c5a9ddb94ea1f3eff7a3a256c6c8",
+            "185e473edc1efef86fc898d89957d87ee69d6afe",
+            "7fb43a5790c4e15c24173b66524efec008142ef8"
+        ],
+        "target_matched": [
+            "c0e132b70e3b92c4008622db93ccb0babaff56d0"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "axios/axios",
+        "Target PR": "https://github.com/axios/axios/pull/1485",
+        "Closest PR": "https://github.com/axios/axios/pull/2090",
+        "Title": "Update README.md. - Fixed example methods typo",
+        "Created At": "2019-04-10T01:35:35Z",
+        "Target Commit SHA": "0d4fca085b9b44e110f4c5a3dd7384c31abaf756",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "48c43d5240e1ac6e6c44495e7428262d32a438f9",
+        "closest_inducing_commit_hash_pyszz": [
+            "d74238e1513a57ce3bd2b3683f0e595ac00fa8d7"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "d74238e1513a57ce3bd2b3683f0e595ac00fa8d7"
+        ],
+        "closest_matched": [
+            "d74238e1513a57ce3bd2b3683f0e595ac00fa8d7"
+        ]
+    },
+    {
+        "repo_name": "bigbluebutton/bigbluebutton",
+        "Target PR": "https://github.com/bigbluebutton/bigbluebutton/pull/13850",
+        "Closest PR": "https://github.com/bigbluebutton/bigbluebutton/pull/16090",
+        "Title": "fix: Webcam backgrounds crash the entire client on Firefox",
+        "Created At": "2022-12-06T10:35:56Z",
+        "Target Commit SHA": "b41f895ab80e7be8a54a41990c95e4c343b773f3",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "81fab5281259ef5b4cbb36d2ee249debbbbadbe4",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "bigbluebutton/bigbluebutton",
+        "Target PR": "https://github.com/bigbluebutton/bigbluebutton/pull/15067",
+        "Closest PR": "https://github.com/bigbluebutton/bigbluebutton/pull/17975",
+        "Title": "fix: Added check for parentMeetingId if isBreakout is true",
+        "Created At": "2023-05-23T19:37:53Z",
+        "Target Commit SHA": "4e96fc5bd4736fc72d61f7dd672c40996ef1bf48",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "b699a46802012de1d5a2d2f7b62f9c7a65d8bd9d",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
