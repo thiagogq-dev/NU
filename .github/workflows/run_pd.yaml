@@ -51,7 +51,7 @@ jobs:
       run: |
         python run_pd.py ${{ matrix.file }}
 
-    - Name: Delete PySzz folder
+    - name: Delete PySzz folder
       run: |
         rm -rf pyszz_v2
 
