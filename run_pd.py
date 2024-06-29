@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
     json_file = sys.argv[1]
 
-    with open(f"/json/tobeProcessed/{json_file}") as f:
+    with open(json_file) as f:
         data = json.load(f)
         for d in data:
             repo_path = f"pyszz_v2/repos_dir/{d['repo_name']}"
