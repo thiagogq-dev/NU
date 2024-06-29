@@ -1,0 +1,215 @@
+[
+    {
+        "repo_name": "vercel/ms",
+        "Target PR": "https://github.com/vercel/ms/pull/89",
+        "Closest PR": "https://github.com/vercel/ms/pull/104",
+        "Title": "Add full support for negative numbers",
+        "Created At": "2017-11-30T18:03:38Z",
+        "Target Commit SHA": "caae2988ba2a37765d055c4eee63d383320ee662",
+        "target_inducing_commit_hash_pyszz": [
+            "8e333857f4c0723bc73c3035bff9cea23532c824"
+        ],
+        "Closest Commit SHA": "b8acd77e258cd7b77e80a9655d05759f4134fd92",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "8e333857f4c0723bc73c3035bff9cea23532c824"
+        ],
+        "target_matched": [
+            "8e333857f4c0723bc73c3035bff9cea23532c824"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "vim/vim",
+        "Target PR": "https://github.com/vim/vim/pull/13552",
+        "Closest PR": "https://github.com/vim/vim/pull/15034",
+        "Title": "Fix typo in several documents",
+        "Created At": "2024-06-17T15:35:37Z",
+        "Target Commit SHA": "a67dd7d1b2607e3f1635d38f97a8e751aa650dee",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "89fa3eb0d87a0012007871b7fc9f30b1f450ae99",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "vinitkumar/json2xml",
+        "Target PR": "https://github.com/vinitkumar/json2xml/pull/107",
+        "Closest PR": "https://github.com/vinitkumar/json2xml/pull/170",
+        "Title": "Use fixture for attrs with dict and remove comment",
+        "Created At": "2023-01-19T15:46:22Z",
+        "Target Commit SHA": "dc8f15f505d9884364f633469e4086df95ac40fb",
+        "target_inducing_commit_hash_pyszz": [
+            "a9cd75b61329801b47a8fba7473bce6c85a38b9b"
+        ],
+        "Closest Commit SHA": "02d42d2a9ce32fc8aaaeb3a0caaeb7b4f67e15ea",
+        "closest_inducing_commit_hash_pyszz": [
+            "757b82249e3c2cf0bcf063d4bd7a86e2174c67bc"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "a9cd75b61329801b47a8fba7473bce6c85a38b9b"
+        ],
+        "target_matched": [
+            "a9cd75b61329801b47a8fba7473bce6c85a38b9b"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "757b82249e3c2cf0bcf063d4bd7a86e2174c67bc"
+        ],
+        "closest_matched": [
+            "757b82249e3c2cf0bcf063d4bd7a86e2174c67bc"
+        ]
+    },
+    {
+        "repo_name": "wasm3/wasm3",
+        "Target PR": "https://github.com/wasm3/wasm3/pull/324",
+        "Closest PR": "https://github.com/wasm3/wasm3/pull/417",
+        "Title": "Check global mutability",
+        "Created At": "2023-01-08T12:41:18Z",
+        "Target Commit SHA": "8441c82c4a98f554b12971450220b580c3c2b6df",
+        "target_inducing_commit_hash_pyszz": [
+            "6d423a8fbad2f217e75e2e73ddecd5627890c77c"
+        ],
+        "Closest Commit SHA": "6512cc99d0dfac983e8a0f67037b0f311ec3d395",
+        "closest_inducing_commit_hash_pyszz": [
+            "e1d85581917ce832decb8b94fbe209eaedc36e7a"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "18b8f6b1f156f3f49fff126b4958f1c917875aeb",
+            "d23269c76baac8fc3ae0b4baa262f1a33edaaaf8",
+            "5febf3e77fc52f171535c34f477c6f3f55f73fbc",
+            "23ab0983e98dc33e5b2a83bf2d4da946471fc1aa"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "wazuh/wazuh-kibana-app",
+        "Target PR": "https://github.com/wazuh/wazuh-kibana-app/pull/5428",
+        "Closest PR": "https://github.com/wazuh/wazuh-dashboard-plugins/pull/6652",
+        "Title": "Fix inventory table fullscreen styles",
+        "Created At": "2024-05-08T11:26:28Z",
+        "Target Commit SHA": "6290e99887fb20f84e2dba21e4f1255d7ad4e69e",
+        "target_inducing_commit_hash_pyszz": [
+            "de0e46a71410a9538898903aff1f6dd614969e37"
+        ],
+        "Closest Commit SHA": "fd5dcaec03bdc55a96fd1a50eef4b44e9e85ae5f",
+        "closest_inducing_commit_hash_pyszz": [
+            "870d52200e9cdcfbe91ad171891ff5f9130102a7"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "665ecc49d301c83941ec5fd57655ec326a3f6b57"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "870d52200e9cdcfbe91ad171891ff5f9130102a7"
+        ],
+        "closest_matched": [
+            "870d52200e9cdcfbe91ad171891ff5f9130102a7"
+        ]
+    },
+    {
+        "repo_name": "webbukkit/dynmap",
+        "Target PR": "https://github.com/webbukkit/dynmap/pull/2475",
+        "Closest PR": "https://github.com/webbukkit/dynmap/pull/2874",
+        "Title": "fix Bukkit version detection",
+        "Created At": "2020-04-13T10:46:38Z",
+        "Target Commit SHA": "641f142cd3ccdcbfb04eda3059be22dd9ed93783",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "1289e31f8ca1d05127ff4bd62a8f955ff021f16d",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "webtorrent/webtorrent",
+        "Target PR": "https://github.com/webtorrent/webtorrent/pull/1714",
+        "Closest PR": "https://github.com/webtorrent/webtorrent/pull/1905",
+        "Title": "Updated Readme",
+        "Created At": "2020-08-16T16:00:27Z",
+        "Target Commit SHA": "7e829b5d52c32d2e6d8f5fbcf0f8f418fffde083",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "dc31f98205e8beac4f11327948c04cc256cbb2ad",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "weston-embedded/uC-FTPs",
+        "Target PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
+        "Closest PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
+        "Title": "Patched DoS vulnerabilities CVE-2022-46377 and CVE-2022-46378 / TALOS-2022-1681.",
+        "Created At": "2023-02-24T19:27:39Z",
+        "Target Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "wireapp/wire-webapp",
+        "Target PR": "https://github.com/wireapp/wire-webapp/pull/10704",
+        "Closest PR": "https://github.com/wireapp/wire-webapp/pull/12637",
+        "Title": "fix(accessibility): create group modal #ACC-12",
+        "Created At": "2022-03-08T14:11:06Z",
+        "Target Commit SHA": "281f2a9d795f68abe423c116d5da4e1e73a60062",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "fce2a174570002e44c544cd85f2e41ea590b42e9",
+        "closest_inducing_commit_hash_pyszz": [
+            "dc69bff040982a9d68a68d8a68cc08395b3a593f"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "dc69bff040982a9d68a68d8a68cc08395b3a593f",
+            "12d1acedec194a57c4cdb09fbc40cf4fc1c314a1",
+            "70a8316b9561cc0c8e46a12c76b5b1d51883d5f9",
+            "1567665e6e5901002500238e868f966fe88c408c",
+            "0a10fcec71c6cb2b2e86b2d5fda174f89ce2607c",
+            "47feb072e75bad8abd7748bb51d7cd04b5b89a7f",
+            "0ce88934c7c323fa858575ca753ee960dbfaf217",
+            "e5788ef0dbe21e969345788ec00531465159b30f",
+            "acaa7afba9113e1ceb65604aec2aa5c7b2ea0cf4",
+            "204b83153adde7b035c7cdabcbd8b358818bc38f",
+            "5b74c2bc608c4d64f95145305e18bfed497cbedb",
+            "95c01d5a9261d84414e0ab2001af5bf6c6f4218e",
+            "1eea75ef50c9fb769c5c9da53cda7a4a0bbafd3f",
+            "5d222458a81d32d9db8b71bbf8c8a38607b6dc20",
+            "ac118a3b995a0c7d04ef59468984b48fbea641bf",
+            "c1f1275987d459c41cdb6ebd07fa8be3ba99b523",
+            "678bfe574a0b85c8f4ca97b01a1e8c437b4b6820",
+            "611b69e7908c555783d7628782b2818aac3fc029",
+            "810efef9527e95363e909f20ef6b2de22aa0287c",
+            "0cf9bf44a746681fd62262e1502f2320cae02984",
+            "5ebe6f51812b679eb1b687e7c6dc11bd3bb473a6"
+        ],
+        "closest_matched": [
+            "dc69bff040982a9d68a68d8a68cc08395b3a593f"
+        ]
+    },
+    {
+        "repo_name": "wolfSSL/wolfssl",
+        "Target PR": "https://github.com/wolfSSL/wolfssl/pull/2894/",
+        "Closest PR": "https://github.com/wolfSSL/wolfssl/pull/3951",
+        "Title": "Fix for AES GCM with STM32H7",
+        "Created At": "2021-04-07T22:52:13Z",
+        "Target Commit SHA": "3cb0c600ba849e482ac52c3bf9f39c2c822c2f61",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "537d33d5fa87c937cc602033700d664d5f0a246f",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
