@@ -1,6 +1,6 @@
 import json
 from pydriller import Git, Repository
-from utils.utils import match_bics, remove_empty_bug_hashs
+from utils.utils import match_bics
 import sys
 
 def find_pd(json_file, repo):
