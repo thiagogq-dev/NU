@@ -51,6 +51,10 @@ jobs:
       run: |
         python run_pd.py ${{ matrix.file }}
 
+    - Name: Delete PySzz folder
+      run: |
+        rm -rf pyszz_v2
+
     - name: Commit and push
       run: |
         git config --global user.email "thiagogquinto.dev@gmail.com"
