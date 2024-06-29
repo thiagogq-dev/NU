@@ -18,7 +18,7 @@ jobs:
     - name: List JSON files
       id: list-json-files
       run: |
-        files=$(ls json/bics/bics*.json | jq -R -s -c 'split("\n")[:-1]')
+        files=$(ls json/toBeProcessed/*.json | jq -R -s -c 'split("\n")[:-1]')
         echo "json_files=$files" >> $GITHUB_OUTPUT
 
   run-script:
