@@ -2,6 +2,10 @@ import json
 from pydriller import Git, Repository
 from utils.utils import match_bics
 import sys
+import os
+
+if not os.path.exists("/json/final_processed"):
+    os.makedirs("/json/final_processed")
 
 def pd_finder(fix_commit, repo):
     gr = Git(repo)
