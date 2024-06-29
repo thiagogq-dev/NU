@@ -43,5 +43,50 @@
         "Title": "Replace custom tooltips with native one for files sharing",
         "Created At": "2022-12-15T14:46:33Z",
         "fix_commit_hash": "c47406ad3cc1606d7357af6c32c4fa7dd0ac53a7"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/28078",
+        "Closest PR": "https://github.com/nextcloud/server/pull/33300",
+        "Closest Commit SHA": "5edab673a7b39dd552b344c5de25faa5ac56a5ac",
+        "Title": "dashboard: Fix dark theme detection",
+        "Created At": "2022-07-20T19:23:38Z",
+        "fix_commit_hash": "41eec84ade3541574b0ffa966d13915b407f5c5f"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/29895",
+        "Closest PR": "https://github.com/nextcloud/server/pull/35417",
+        "Closest Commit SHA": "b48f0c7164a26fe2c18d0e28e31c9759682c8dce",
+        "Title": "[stable24] Update psalm-baseline.xml",
+        "Created At": "2022-11-25T04:14:29Z",
+        "fix_commit_hash": "d9d54ce782d34656d2e53cb7588fcad80182a1fe"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/37227",
+        "Closest PR": "https://github.com/nextcloud/server/pull/44184",
+        "Closest Commit SHA": "e3b1a557f000e47f53c7ca681ae2e09f91f75bc6",
+        "Title": "fix: No password set for new mail shares",
+        "Created At": "2024-03-13T23:51:28Z",
+        "fix_commit_hash": "a30d7c51d361edd75c9b1d7f539f220a5a81be2e"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/34632",
+        "Closest PR": "https://github.com/nextcloud/server/pull/40946",
+        "Closest Commit SHA": "e4efb922b471080052bb91d06861dd847479cc3d",
+        "Title": "[stable26] Fix download URL for versions",
+        "Created At": "2023-10-17T10:52:59Z",
+        "fix_commit_hash": "3d0e8182badf44758d164d65c13661db66559bea"
+    },
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/33689",
+        "Closest PR": "https://github.com/nextcloud/server/pull/40039",
+        "Closest Commit SHA": "ff0569abab7b6bd912e428d6ad21677c31c74059",
+        "Title": "[stable27] fix(utility): De- deprecate getDateTime and getTime as now() only returns DateTimeImmutable",
+        "Created At": "2023-08-25T08:18:29Z",
+        "fix_commit_hash": "f1301097b0fec6f118b4216f50a59134d35cf043"
     }
 ]
