@@ -1,0 +1,359 @@
+[
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "Target PR": "https://github.com/RocketChat/Rocket.Chat/pull/20430",
+        "Closest PR": "https://github.com/RocketChat/Rocket.Chat/pull/24306",
+        "Title": "Chore: Convert to typescript the slash commands create files",
+        "Created At": "2022-01-26T22:21:24Z",
+        "Target Commit SHA": "ac9d7612a8fd6eae8074bd06e5449da843065be6",
+        "target_inducing_commit_hash_pyszz": [
+            "eeec50af5098f08836c8a9ce83cc85cdb798c815"
+        ],
+        "Closest Commit SHA": "61fa8f140f99e2c9652a8d3bb314aaa2264415ea",
+        "closest_inducing_commit_hash_pyszz": [
+            "5838a7b0d96569d8e01c939311b190dd215f693e"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "25c3a62861aa79c888f100badc63fc108c990cba",
+            "eeec50af5098f08836c8a9ce83cc85cdb798c815",
+            "7a21974bb39a1255bb9838d0476f9f15b107a270",
+            "b83cbf97398853902dc7562b042be89e437edc20",
+            "bda6e000c7bdde00ba3809c26a6235f5c5e86cd8",
+            "97311da8aff2b6ed03c9b0bd42e85971126ca04f",
+            "85fc1cf39412f5605a6436748a91c6f37cca3615",
+            "d8054b38c5cac43b6d0ce2840d3f99b25474f1ad",
+            "6c2f4ff703f2815f5fb86e3cd55d857a0fb35985",
+            "63f7e8fea6ef939455193e8e8661ea1197d410f9",
+            "1dc96dd6f79665495a276b5f9c4436313c32b616",
+            "41ef0fcba95d9aaca47da68b3135deeca87a57c6",
+            "0d42efc22d3c1bdf7ff353f581ce6ee129c48a1b",
+            "0ec692c92c1ba5ac21686b861e57caf08ba23ca5",
+            "33e67e48c04369650df5d2cb26665def703c4c68",
+            "0e88ac2a6150200c34ae2c12234afe8831180d3c",
+            "35728d61a66b2d0ddd6fdb0bcc98330ac3986540"
+        ],
+        "target_matched": [
+            "eeec50af5098f08836c8a9ce83cc85cdb798c815"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "7632f12cfcc7ed8ee8f843587fdff63b101cc765",
+            "300c7a1af081aa353ccc442f8b88c4e104b1a82f",
+            "26252a670e99a1b90d88cd4a5b24e2b611925442",
+            "0d30a52487d8a47951a9b3aad735d839a12675f6",
+            "97622a4d366b6ca8fc6248fcddadfddeeac7bf90",
+            "92e02f24c9684ebd2c2d8fdae73bcc720aaea2d6",
+            "2678365dfeab99f8bde4dbc1a2cb7d12e7a20aa0",
+            "6e88d4d474bdd4493222d174077e5139319668d0",
+            "305a6458024326fa80ef3ac1a4b45cac8dbe8827",
+            "1b001879a63c01fc1bd6084edc29ada702c1fca4",
+            "e0aae4980b521c5329037e6b2636ba2e2146a909",
+            "4e889bc854326a987d5e4619b49cc85187710339",
+            "85711287eaca9ce74574908cad2abc3ac87da475",
+            "74a7aa5b1c65c002da8f7c663cc1a857d433f405",
+            "b7766b9ebc2d7e62ae06bda722930750bc5ef737",
+            "db6aa025d0ce48e07ae58f94ed406d58867abcfc",
+            "ed092fbe490c21d64c071772ce1da66515837353",
+            "5838a7b0d96569d8e01c939311b190dd215f693e"
+        ],
+        "closest_matched": [
+            "5838a7b0d96569d8e01c939311b190dd215f693e"
+        ]
+    },
+    {
+        "repo_name": "rsyslog/rsyslog",
+        "Target PR": "https://github.com/rsyslog/rsyslog/pull/3875",
+        "Closest PR": "https://github.com/rsyslog/rsyslog/pull/4424",
+        "Title": "Replace GNUTLS_SHUT_RDWR by GNUTLS_SHUT_WR when ending TLS connections",
+        "Created At": "2020-09-18T13:56:22Z",
+        "Target Commit SHA": "03efebf299436b3bb334e7048be9b4bad4ad834b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "c8b1e306f88236b294e77c144cb7e8ee59a65bef",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "ruby-git/ruby-git",
+        "Target PR": "https://github.com/ruby-git/ruby-git/pull/569",
+        "Closest PR": "https://github.com/ruby-git/ruby-git/pull/652",
+        "Title": "Release v1.17.2",
+        "Created At": "2023-03-07T17:22:36Z",
+        "Target Commit SHA": "291ca0946bec7164b90ad5c572ac147f512c7159",
+        "target_inducing_commit_hash_pyszz": [
+            "e7f1880b41c798f65ce5e9c3f1c3854d8c3b10c9"
+        ],
+        "Closest Commit SHA": "2500bcf2461b84aae8e1cf68fd29e850081e39f4",
+        "closest_inducing_commit_hash_pyszz": [
+            "378b735b965dfde5ffb65d929bb7bf2a31732a77"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "907b03949bab53e2f7d55094100a71abd22f23e7",
+            "e7f1880b41c798f65ce5e9c3f1c3854d8c3b10c9",
+            "7045d8aa374c7a22637df43b48f140165e3e5eb1",
+            "32fbe703605310c91677225442a62ae0869d0892",
+            "d5175ed049a7bc108394176cdcfd191d6e8d7a38",
+            "35683a16e012009ce45fc068fab098593ca4941d"
+        ],
+        "target_matched": [
+            "e7f1880b41c798f65ce5e9c3f1c3854d8c3b10c9"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "378b735b965dfde5ffb65d929bb7bf2a31732a77"
+        ],
+        "closest_matched": [
+            "378b735b965dfde5ffb65d929bb7bf2a31732a77"
+        ]
+    },
+    {
+        "repo_name": "rust-ethereum/evm",
+        "Target PR": "https://github.com/rust-ethereum/evm/pull/264",
+        "Closest PR": "https://github.com/rust-ethereum/evm/pull/280",
+        "Title": "Fix eip2929 implementation",
+        "Created At": "2024-05-08T12:15:25Z",
+        "Target Commit SHA": "d8991ec727ad0fb64fe9957a3cd307387a6701e4",
+        "target_inducing_commit_hash_pyszz": [
+            "d543f105c2ce61494f9cedd6011f7f14989fd611"
+        ],
+        "Closest Commit SHA": "a5a79c4de4efc3fde78aa2e590ac33de29e5467b",
+        "closest_inducing_commit_hash_pyszz": [
+            "11e36de450bcc6fbd56a17dcbfa74fe57e1623a0"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "842e03d068ddb6a3195a2dedc4a9b63caadb3355",
+            "d543f105c2ce61494f9cedd6011f7f14989fd611"
+        ],
+        "target_matched": [
+            "d543f105c2ce61494f9cedd6011f7f14989fd611"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "cf516189760ba6841300c604cc163d7789f160b1",
+            "11e36de450bcc6fbd56a17dcbfa74fe57e1623a0"
+        ],
+        "closest_matched": [
+            "11e36de450bcc6fbd56a17dcbfa74fe57e1623a0"
+        ]
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "Target PR": "https://github.com/rust-lang/rust/pull/84603",
+        "Closest PR": "https://github.com/rust-lang/rust/pull/96455",
+        "Title": "Make write/print macros eagerly drop temporaries",
+        "Created At": "2022-04-26T22:55:40Z",
+        "Target Commit SHA": "f97769a2b7bc5a6b3d8f7140613cf26352f2b518",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "c186f7c07912064c352f12d8b0aa9d5e5975450e",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "saltstack/salt",
+        "Target PR": "https://github.com/saltstack/salt/pull/40609",
+        "Closest PR": "https://github.com/saltstack/salt/pull/46995",
+        "Title": "[schedule][develop] Minor fixes and enhancements",
+        "Created At": "2018-04-10T15:14:23Z",
+        "Target Commit SHA": "8492cef7a5c8871a3978ffc2f6e48b3b960e0151",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "fb035953f69e2e42cfa29c433543021ea96a1b8e",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "SAP/cloud-sdk-js",
+        "Target PR": "https://github.com/SAP/cloud-sdk-js/pull/1770",
+        "Closest PR": "https://github.com/SAP/cloud-sdk-js/pull/3026",
+        "Title": "chore(deps): bump dependabot/fetch-metadata from 1.3.4 to 1.3.5",
+        "Created At": "2022-11-03T01:30:45Z",
+        "Target Commit SHA": "fe1ba94ad0c2dae306634725bbd4fe525f81c77d",
+        "target_inducing_commit_hash_pyszz": [
+            "0b0b993d4f70403f42f14ab3b5c6b4318012f165"
+        ],
+        "Closest Commit SHA": "39ac83fbf02ff0e7312f475e5c0070c5725390aa",
+        "closest_inducing_commit_hash_pyszz": [
+            "f1a7898f2fe634e71c5dcf4eb0ce8b9caf4cd877"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "1087e7296bb2c9462efc8dffd7b3134af4ac199a",
+            "728e46e271c31f8e401e2223f9a07c5d7c8e67b3",
+            "342e2747b13a2574f10ce2d75389b278e0f60da3",
+            "021c3b5745a563b80682b1bba137427bce5da68a",
+            "4e3a525689287d94a64de15913858a2bc063ef82",
+            "f1289182cddb8417d17177e5d3f7ee0ad57269a4",
+            "6e37d2f0c85be232f559262c2e4ac986e156a20c",
+            "3c0a2bc4db5d9ffa504019451a497680f6a213f3"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "f1a7898f2fe634e71c5dcf4eb0ce8b9caf4cd877"
+        ],
+        "closest_matched": [
+            "f1a7898f2fe634e71c5dcf4eb0ce8b9caf4cd877"
+        ]
+    },
+    {
+        "repo_name": "scala/scala",
+        "Target PR": "https://github.com/scala/scala/pull/10118",
+        "Closest PR": "https://github.com/scala/scala/pull/10502",
+        "Title": "Use URI to compute Scaladoc URI [ci: last-only]",
+        "Created At": "2023-08-16T19:02:21Z",
+        "Target Commit SHA": "3a124138843ef06594aa955800ba83d7c8ac2b84",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "3b154a09de7a7527d5e15804e252b74294c52881",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "scala/scala",
+        "Target PR": "https://github.com/scala/scala/pull/6120",
+        "Closest PR": "https://github.com/scala/scala/pull/7324",
+        "Title": "Add ++: overload that return Map",
+        "Created At": "2018-10-07T04:45:23Z",
+        "Target Commit SHA": "67fcf5ce4496000574676d81ed72e4a6cb9e7757",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "d96aaafc388da5378634064517129df347b53991",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "scipy/scipy",
+        "Target PR": "https://github.com/scipy/scipy/pull/16397",
+        "Closest PR": "https://github.com/scipy/scipy/pull/18668",
+        "Title": "ENH: add machinery to support Array API",
+        "Created At": "2023-06-13T17:41:51Z",
+        "Target Commit SHA": "9a992782abc3123e139901c8751c076ceca0cf72",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "bd8ef0c59cea2a065eca8e4d9a9e8f7b0a5f1792",
+        "closest_inducing_commit_hash_pyszz": [
+            "1d4d2535498a6087f745177636e7592d0641e8ac"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "a4718552a72d2db187517db348eeae39c1646d73",
+            "5f622043524cf218eb8f59e6fc7a2cecc896b11d",
+            "8583f1a7af0c505b162c0e4493c2617e25cb22d3",
+            "49533d31ceec1aa38c227730b98e6e9dd7a2e739",
+            "91c71d9b2c680c67d70944f290eb39a6b5e4522c",
+            "f8063b0a37a76cc727f7ddbbb4ff84b8886b35e5",
+            "95d7d1959c779cd4d641d14980a6909617befd98",
+            "24145bbdbcf9433e179c9264b4a3080f44de18d9",
+            "ad9551a1d7b980595d5b6ada57cba8f86de33a5a",
+            "91cf6eb7155c847e9528817a71f015b077d537f4",
+            "c6a37214643f6f0a6ad8143513a513be18b70f05",
+            "59d079743c591ab01018b276b8d092ca4fbeed1b",
+            "4bf5b9ffb96d361f134f71a1566065fe4a68d87c",
+            "faf24ec3981214b64911edd82a161f70f433fad6",
+            "9384ad37f595dfc2cb0118abf8443e668524385f",
+            "ba3c7e31445bf9e5fbf5f8d7d0f56e57f714df96",
+            "604a7936cc9ed5d90b7a7a7eda80f7ae1b5594ba",
+            "0da721779fda2ecbf3a8a7277e8c57f3c92535a3",
+            "eaba22f06b48d6d3ec3e55bbfa510beef1312711",
+            "c3dbe6417e05a6ddf2f308ec3d0e68bf391dedbd",
+            "bf15de9c190661f97c08ef98de29e5c82a3749c9",
+            "808045b4bb16858f85e64c0e3f456199e71b998f",
+            "8e22d9bff4c174193b12cd6a708463a8d7636146",
+            "d150f85e4f7c14bfc23827f8fbd7b634307cc2dc",
+            "4f96197b836bb522b717116e3d53754233ad7d7c",
+            "15431aaeb7600bed507fdda886d7eb150f0c9e9b",
+            "3a25aaf6e9baac1dd867b2ca1e7b7c3d6481c57c",
+            "c6f6f5c931f2fe9935c51eca9202966e8981f150",
+            "6c6304bdab7a82d14715f871f6326a843d526fcf",
+            "c0c282bd7e2df6ecde964b09b1c05c0e6f13b410",
+            "e4f1cc57c33d666b70185553dbd277115293dd2f",
+            "ded2fef350ffd2e088b4876cc2adf814e4442d83",
+            "53eeb2ccefcef6aa5c4a6743a9087f422642f6f5",
+            "85a76244183546ba194a6b328925138347c9de1f",
+            "798893c887277ccc877189943980a624c527d6f3",
+            "cea7009641b9461e7054b665f70b8f94d5026b02",
+            "ac6fbcac99b75daf8229c4f67d056778b25efb99",
+            "c9412d711c9a10f0dd1ee31f73bd33560a271961",
+            "291c93ed820d042c35c8e544fc06868381439245",
+            "ff3580e98755877d360e6722393516fd56a072a3",
+            "2b526a9d2f0a85c804a2363e06111bd6976795e9",
+            "fe4ef50694ffca5df27b9d332d0aa967fa6b72ce",
+            "b4bf14e739fee172748d32813f7d291d0360d0d8",
+            "d52f8217d1582e1ef3b4ce14760b862a896bf225",
+            "5a5e7bb91c7705d9d1badaf6af37ee37b465e309",
+            "f11959bae76e083a7fdd80a7db84f3e6a79c2134",
+            "2459343598e40467909932639e2b05b29501097c",
+            "2414e784d4f6bb4544483f98f64eb9d4470272ff",
+            "e0cfa29e2fbe86f994924c0c7514ff5bbfffd514",
+            "def89a7571009c4b9939d4de31eccf62ce2370a7",
+            "1d4d2535498a6087f745177636e7592d0641e8ac",
+            "5f360b2e3da5ac3b2be304b34c233beb6053ce2c",
+            "011edfd0154f0d4f1593bdf09b4be5adc65fc7c5",
+            "7aef57d4d035dac8daa7a2c3b3ef27c5b9f0f3a4",
+            "fd2c143a65c80ac363f92b5532de19e637b069e7",
+            "f0dcc29fa45b8bdeb84bee33011fec73b2fe3dee",
+            "8dae4fa9b56a00c5f24fdf704376252cbc8751bd",
+            "84f8551fad02837fe1172568d5f338dae09f924c",
+            "56239459c5e885c3caf1a20f55802c4ab314cb70",
+            "10b0ea2bea867d6922daa42f1d86dc4fabf16cc7",
+            "9dd515c8908f1533678a1dda8e632c95aa9f2e94",
+            "74e963ce5266bf6706f2c10f996f92455c75c9f8",
+            "efa48065364e7a8ba5d7022692129aae5cf50337",
+            "5cf8e31f690ad8f8263e411a8649b8226592c6e8",
+            "b3bcc9d342651e9c1a6a07899bae7b554e529572",
+            "c941cf2ea6e96936252576ac4532909674f236b4",
+            "a566e94ccbae88b717e7869bb97654eb699191b1",
+            "7578838519f3701ecb048acd702eca65ab74d4cc",
+            "b20db6c423e6d3fb47b8c248d8e1fca6246199e8",
+            "a9c21d2793cc1fb9d93308ea92ab17df0a1d307f",
+            "9bc891fb7200ce82cb2dda538a01c460a0a352d1",
+            "e7e84cb23cf571d6c319d0ce38bfb860701bd912",
+            "2ecd7ecb54dad2ac9c001f087213196997dbfc06",
+            "067ce7e2aecd55aa2b61ac493f431c1b28cf72fa",
+            "a6b527221b4a32b30b5cfc5036997e833e22ebd0",
+            "672d974bc92c424294542d7d83275534ec179e71",
+            "cabb8a111af65967c0be86717e8ed66bfa1176d0",
+            "2e21e146510b81cc94f9be898a309d29e0dc7096",
+            "55c5148620c1f878bb1b1a46f4f04bea7f93626b",
+            "5cf1521766bee46a60c8b6583f123b35a315a457",
+            "8231c9fe0e58ded765eb3b298a7b457ca8bbb0b7",
+            "a49499b23b6cb5ee61f30cfd11064f9a0ba70e73",
+            "2152f79810b8e243e30bdf765232b82cc78b5332",
+            "95e89db8644222d99909ec5d8047c3ba1128220b",
+            "bcb2888e28e7e50b827b1aa57bb560dad5adde0f",
+            "cf31ab151dce04143082ee45e39f26198cda26c8",
+            "9a1cfaa403bceaabb1ce1c87535285a40170cb24",
+            "42e61e0cba669a22e3225e5ae6820077072fa0b9",
+            "57e1ec714bbcbb2ce6a4bbc76362b5071e294890",
+            "9ad5384f7f885efdcab23835031eeda27a0650ff",
+            "1adfa4b26dd94194db256767b99888e699b18af9",
+            "d847d8afd8c9a16cf577dbf15f7b243883330f9e",
+            "7efa96a900803964aef9f793ccf79f5d7f6a1b2b",
+            "e84aabdda95f17751f569a281d4a543046ecc609",
+            "335f40a110915f835895cab7adb6ec44f12c0701",
+            "6c4a3f3551f9ee52a75c8c3999a57bed8ea67deb",
+            "4a2f81b7d22096f61916f5feb053845009c42284",
+            "70b8b2ef87438b5e1c8ce060bd59e715b8f40176",
+            "e0d6b6041f36092376234ff141c28b02062296cd",
+            "ef876bbfe60b7677fd480d5734fcd415d4fe643d",
+            "79c26fcc02965240db021f25a810fcc1c26c95bb",
+            "df1132edcbc58bb39532bd8eca57b74d4c37bbe9",
+            "d192a1de166a3c2a3f97b44837a4c33cde9b6e08",
+            "5f5c0438233639895c14c4363b012d336406e06e",
+            "f57b69255fa4e85f56836f8dbed72ade0804b4d7",
+            "70f9780678fe770593facec4079a8af437f23066",
+            "492f0f00bc842b749ed420b5d804e086e9564bf3",
+            "62b792633f6b8e0ef9288457bc2f70420f98e625",
+            "7184be002eb9d48503256ddc2172fb51c2e1a7a5"
+        ],
+        "closest_matched": [
+            "1d4d2535498a6087f745177636e7592d0641e8ac"
+        ]
+    }
+]
