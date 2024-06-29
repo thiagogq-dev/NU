@@ -47,7 +47,7 @@ if __name__ == "__main__":
 
     file_to_save = json_file.split("/")[-1]
 
-    os.makedirs("/PyDriller/", exist_ok=True)
+    os.makedirs("json/final_processed", exist_ok=True)
 
-    with open(f"/PyDriller/{file_to_save}", 'w') as f:
+    with open(f"json/final_processed/{file_to_save}", 'w') as f:
         json.dump(data, f, indent=4)
