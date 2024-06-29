@@ -1,0 +1,259 @@
+[
+    {
+        "repo_name": "locutusjs/locutus",
+        "Target PR": "https://github.com/locutusjs/locutus/pull/446",
+        "Closest PR": "https://github.com/locutusjs/locutus/pull/451",
+        "Title": "Create SECURITY.md",
+        "Created At": "2021-09-20T14:11:22Z",
+        "Target Commit SHA": "eb863321990e7e5514aa14f68b8d9978ece9e65e",
+        "target_inducing_commit_hash_pyszz": [
+            "8a06aabe642898904956465e970af99fcd293e7e"
+        ],
+        "Closest Commit SHA": "eb3e427e055308d3062d81de730687de7f6c1f0f",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "0dbbcfc434f74389a7bf075b205f71cb4c2965fb"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "lodash/lodash",
+        "Target PR": "https://github.com/lodash/lodash/pull/5065",
+        "Closest PR": "https://github.com/lodash/lodash/pull/5366",
+        "Title": "Fixed the Object contain \"length\" prop issue",
+        "Created At": "2022-01-25T05:53:52Z",
+        "Target Commit SHA": "ae18dd227370bc3f7176b6625f2539095ccfc363",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "32ad1bb725998609b275f2c81c7d69cd1e6dc1ab",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "mafintosh/json-markup",
+        "Target PR": "https://github.com/mafintosh/json-markup/pull/15",
+        "Closest PR": "https://github.com/mafintosh/json-markup/pull/15",
+        "Title": "Escape keys",
+        "Created At": "2023-06-13T17:40:09Z",
+        "Target Commit SHA": "e7fb4df7de6a7d57f2249f0527dda8b5498ad36b",
+        "target_inducing_commit_hash_pyszz": [
+            "516822633fe33866993addb0dd5f27ea3d300df5"
+        ],
+        "Closest Commit SHA": "e7fb4df7de6a7d57f2249f0527dda8b5498ad36b",
+        "closest_inducing_commit_hash_pyszz": [
+            "516822633fe33866993addb0dd5f27ea3d300df5"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "516822633fe33866993addb0dd5f27ea3d300df5"
+        ],
+        "target_matched": [
+            "516822633fe33866993addb0dd5f27ea3d300df5"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "516822633fe33866993addb0dd5f27ea3d300df5"
+        ],
+        "closest_matched": [
+            "516822633fe33866993addb0dd5f27ea3d300df5"
+        ]
+    },
+    {
+        "repo_name": "mantisbt/mantisbt",
+        "Target PR": "https://github.com/mantisbt/mantisbt/pull/1094",
+        "Closest PR": "https://github.com/mantisbt/mantisbt/pull/1334",
+        "Title": "Remove soap folder check",
+        "Created At": "2018-04-16T20:51:54Z",
+        "Target Commit SHA": "bdb901b67b96e65ca05f57fbfdfe6dec4f499677",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "7bc6b57965f9626f2b64c118f56f51c3dfd33a6b",
+        "closest_inducing_commit_hash_pyszz": [
+            "55f2ac2091dd854a547c44d8f1deacaef5441c27"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "ba97560b02d620569ad062d894284722f0acd890"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "manuelstofer/json-pointer",
+        "Target PR": "https://github.com/manuelstofer/json-pointer/pull/34",
+        "Closest PR": "https://github.com/manuelstofer/json-pointer/pull/34",
+        "Title": "fix: \ud83d\udc1b fix prototype pollution",
+        "Created At": "2020-08-25T12:46:16Z",
+        "Target Commit SHA": "1dbd1ed6bef76f359dcf44d5b0e849d4881540b2",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "1dbd1ed6bef76f359dcf44d5b0e849d4881540b2",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "marmelab/react-admin",
+        "Target PR": "https://github.com/marmelab/react-admin/pull/8645",
+        "Closest PR": "https://github.com/marmelab/react-admin/pull/9660",
+        "Title": "[Demo] Fix missing tags field in simple example fake dataset raises a warning",
+        "Created At": "2024-02-12T16:19:38Z",
+        "Target Commit SHA": "a4619a8691c2bea48359a656afb820eb0f6dc3d7",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "4c9b62b35d5fdde103d0b70691b7365f02ff809f",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "matrix-org/matrix-react-sdk",
+        "Target PR": "https://github.com/matrix-org/matrix-react-sdk/pull/5981",
+        "Closest PR": "https://github.com/matrix-org/matrix-react-sdk/pull/8518",
+        "Title": "Replace message composer menu with IconizedContextMenu",
+        "Created At": "2022-05-06T12:48:19Z",
+        "Target Commit SHA": "45acf70b00cb0c51740455d09164b1c3c033b5f3",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "7e63202f9a93ad83acd1207137d740c369a3d702",
+        "closest_inducing_commit_hash_pyszz": [
+            "f5226f9d5b51066be04a7f44a5fa5c542ff04a64"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "222943742482ba1cc879c7e9c4b722769d4b68c2",
+            "991257cbc363dd1f674cadc0bddd1aaf2deeb12c",
+            "f5226f9d5b51066be04a7f44a5fa5c542ff04a64",
+            "a9d1f6e6164745ce01a63cd4531a2af2551e6832",
+            "dc979a33a12b86e76811080a8c76548c8f0001b4",
+            "b5a56698d674802d62181c4040c62b22332c0a91",
+            "8b2a478a25352c0a63d1c9a85d4def9c2b6c5b7f",
+            "329292eb9b731489abc9605ed3ba05d87e274c3d",
+            "5167b30ee616361a334e3f9a980870d92c0322c1"
+        ],
+        "closest_matched": [
+            "f5226f9d5b51066be04a7f44a5fa5c542ff04a64"
+        ]
+    },
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/13823",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/16328",
+        "Title": "Filter locked users in the admin API",
+        "Created At": "2023-09-15T14:31:53Z",
+        "Target Commit SHA": "c06b2b714262825e1d2510b62c38fdeda339f6dc",
+        "target_inducing_commit_hash_pyszz": [
+            "47e28b4031c7c5e2c87824c2b4873492b996d02e"
+        ],
+        "Closest Commit SHA": "eef2b9e34418e902baab1e730eb805eb56034cc2",
+        "closest_inducing_commit_hash_pyszz": [
+            "dcb27783417a1161c484525afb839233299b847f"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "4806651744616bf48abf408034ab9560e33f60ce",
+            "21fe249d62deafceca05cc114d5d6bec3e815b8c",
+            "2d16e69b4bf09b5274a8fa15c8ca4719db8366c1",
+            "8d609435c0053fc4decbc3f9c3603e728912749c",
+            "7f41bcbeec64da874c10a70f8a0b8e3f9f0626d8",
+            "1e453053cb12ff084fdcdc2f75c08ced274dff21",
+            "e3a720217a9d200a7c3db8305df53ef8bf76f565",
+            "6447db063a0d01135582bdfb3392b419f16a19e7",
+            "db215b7e0007a207b8775d78c6693153e16f2731",
+            "47e28b4031c7c5e2c87824c2b4873492b996d02e",
+            "739ea29d1ecbdf414db1f5062c8a2aeaa519f4ff",
+            "1800aabfc226938036479d2ab1a750aa34cf3974",
+            "248e6770ca0faadf574cfd62f72d8e200cb5b57a"
+        ],
+        "target_matched": [
+            "47e28b4031c7c5e2c87824c2b4873492b996d02e"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "dcb27783417a1161c484525afb839233299b847f",
+            "89c4ca81bb597159e456449c548ba3f166843ddc",
+            "649b6bc0888bb1f8c408d72dd92b0c025535a866",
+            "63cbdd8af081839f245915a18ed57f1a44f1a5f4"
+        ],
+        "closest_matched": [
+            "dcb27783417a1161c484525afb839233299b847f"
+        ]
+    },
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/14642",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/16737",
+        "Title": "Clarify documentation for `only_for_reauth`",
+        "Created At": "2023-12-07T17:38:11Z",
+        "Target Commit SHA": "e2a1adbf5d11288f2134ced1f84c6ffdd91a9357",
+        "target_inducing_commit_hash_pyszz": [
+            "f1145563f662653e451525032b043d1a58998b6d"
+        ],
+        "Closest Commit SHA": "aa983c7b0f46db18bcafb5e78b447cfd096971a3",
+        "closest_inducing_commit_hash_pyszz": [
+            "6ec98810e394588d0ff000b1875c8b70edc8c327"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "7afb615839a2df05d39f87718016d278ebdadf5c",
+            "4586119f0b0901be64f08655d3aaaef289a51bde",
+            "8422a7f7f6154bcbadc52f0d0d27b8e6b989cb4c",
+            "776ad3e5e9cb082a3c7d205da29b64e946a8176c",
+            "aff4d850bdc5d6108b1f6f84591b44db6e496d75",
+            "3c758d9808ddc00ee96c5426dda3caea356c8745",
+            "7e91107be1a4287873266e588a3c5b415279f4c8",
+            "406f7bfa171147f662c2f74d132334527f4129a9",
+            "d936371b698ea3085472ee83ae9a88ea7832280e",
+            "a699c044b6598954ec74322923dd6ec698cd272d",
+            "f02663c4ddfa259c96aebde848a83156540c9fb3",
+            "28c68411028e15858819f2a5896313ce0e71c25b",
+            "ee42a5513e020424daa736962fee7fb69bd2373a",
+            "294c67503300b6bfa7785a5cfa55e25c1e452574",
+            "3ac412b4e2f8c5ba11dc962b8a9d871c1efdce9b",
+            "f1145563f662653e451525032b043d1a58998b6d",
+            "f97511a1f3197c6011b5ef7a363885dde9939d6b",
+            "eb609c65d0794dd49efcd924bdc8743fd4253a93"
+        ],
+        "target_matched": [
+            "f1145563f662653e451525032b043d1a58998b6d"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "7b88f5a107ce9751365f9f2393521ef3d62afde8",
+            "e4f545c452df817daa2f22dfda906f3451d98351",
+            "0a5f4f766514b84aff84ff17dffd5301a437c797",
+            "6ec98810e394588d0ff000b1875c8b70edc8c327"
+        ],
+        "closest_matched": [
+            "6ec98810e394588d0ff000b1875c8b70edc8c327"
+        ]
+    },
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/6262",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/8666",
+        "Title": "Minor updates to docs on how to run tests",
+        "Created At": "2020-10-26T23:45:28Z",
+        "Target Commit SHA": "172f264ed38e8bef857552f93114b4ee113a880b",
+        "target_inducing_commit_hash_pyszz": [
+            "d1020653fcbecabcf8e109dafc6258b1f2c2afd0"
+        ],
+        "Closest Commit SHA": "e90fad5cbacebcf00f90e9432089533008ccc48b",
+        "closest_inducing_commit_hash_pyszz": [
+            "39c2d26e0b80ee0cd5589fc577327f2d3d80a446"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "95aa903ffa77effcbca2a510744c3c3fa9b46ed3",
+            "837d7f85a9d0a479487cd6205a3982f3981e4276"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "39c2d26e0b80ee0cd5589fc577327f2d3d80a446",
+            "cc03f4c58b03b054db8c11e77e454bc195cca007",
+            "2418b91bb7d64bfe572647565a6f1c80e82e1f5a",
+            "00714e5102523829eb20129567152667df154d5b"
+        ],
+        "closest_matched": [
+            "39c2d26e0b80ee0cd5589fc577327f2d3d80a446"
+        ]
+    }
+]
