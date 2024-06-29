@@ -1,0 +1,210 @@
+[
+    {
+        "repo_name": "pjsip/pjproject",
+        "Target PR": "https://github.com/pjsip/pjproject/pull/2663",
+        "Closest PR": "https://github.com/pjsip/pjproject/pull/3009",
+        "Title": "Check potential buffer overflow in `pjsip_auth_create_digest()`",
+        "Created At": "2022-03-07T07:39:26Z",
+        "Target Commit SHA": "90a7d70ae24eed1f482e1f67c1f009f11787f3f5",
+        "target_inducing_commit_hash_pyszz": [
+            "67e46c1ac45ad784db5b9080f5ed8b133c122872"
+        ],
+        "Closest Commit SHA": "d27f79da11df7bc8bb56c2f291d71e54df8d2c47",
+        "closest_inducing_commit_hash_pyszz": [
+            "abf2b4c54f22cb20912a01a6f59775554af0c408"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "67e46c1ac45ad784db5b9080f5ed8b133c122872",
+            "1f56d56b4f6261de944527fb4fa6d28c42638271"
+        ],
+        "target_matched": [
+            "67e46c1ac45ad784db5b9080f5ed8b133c122872"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "3f6ac906ae7075ac17fb50abd4e184422e7aa126",
+            "28f673a1d498fc587045f0c59caf9ab1109a7d0c",
+            "c09f47e48be20aff71c4deeb45bb5c5cc46880d7",
+            "a1e6968900c53cdde2023af20408e682f98631ec",
+            "abf2b4c54f22cb20912a01a6f59775554af0c408",
+            "728a9051935f16a844ad9488019fa611eba2aa34",
+            "7977f9f7eb64e51e351022e32d9d775be806e941",
+            "0a749f11c76147500c0729c16f334591196d1e77"
+        ],
+        "closest_matched": [
+            "abf2b4c54f22cb20912a01a6f59775554af0c408"
+        ]
+    },
+    {
+        "repo_name": "pluginsGLPI/news",
+        "Target PR": "https://github.com/pluginsGLPI/news/pull/69",
+        "Closest PR": "https://github.com/pluginsGLPI/news/pull/75",
+        "Title": "Fix notice on plugin install",
+        "Created At": "2020-01-31T13:59:48Z",
+        "Target Commit SHA": "aaffe6dc30bcab4142dd257a3e2647cdac458890",
+        "target_inducing_commit_hash_pyszz": [
+            "21f916cc0cf0105730fc3efc4695d7aeeb7b7aa7"
+        ],
+        "Closest Commit SHA": "90969f40ba3153336cf04df4e38478c509a89b96",
+        "closest_inducing_commit_hash_pyszz": [
+            "e655cd7bbe0b843cf86843c828abef88b01ce81c"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "21f916cc0cf0105730fc3efc4695d7aeeb7b7aa7"
+        ],
+        "target_matched": [
+            "21f916cc0cf0105730fc3efc4695d7aeeb7b7aa7"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "e655cd7bbe0b843cf86843c828abef88b01ce81c",
+            "8d810bd89e6861cc4af11da726e25d44981e2b3d"
+        ],
+        "closest_matched": [
+            "e655cd7bbe0b843cf86843c828abef88b01ce81c"
+        ]
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "Target PR": "https://github.com/PrestaShop/PrestaShop/pull/11285",
+        "Closest PR": "https://github.com/PrestaShop/PrestaShop/pull/16297",
+        "Title": "Functional tests - Using the correct element in loop for brands tests ",
+        "Created At": "2019-11-06T16:38:31Z",
+        "Target Commit SHA": "76619b513cb9698bc42a1a769a183c02e67be381",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "e45bbc3284d270a7e2106ade6a4f5c7855934458",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "progfay/scrapbox-parser",
+        "Target PR": "https://github.com/progfay/scrapbox-parser/pull/539",
+        "Closest PR": "https://github.com/progfay/scrapbox-parser/pull/971",
+        "Title": "chore(deps): update dependency @babel/core to v7.17.4",
+        "Created At": "2022-02-16T00:38:33Z",
+        "Target Commit SHA": "a1142341b06b1840de4e1760baf7f9b13b207bbb",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "99802c18baafa6c5e20f7f13aae7e8b221073599",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "projectdiscovery/interactsh",
+        "Target PR": "https://github.com/projectdiscovery/interactsh/pull/155",
+        "Closest PR": "https://github.com/projectdiscovery/interactsh/pull/425",
+        "Title": "chore(deps): bump goreleaser/goreleaser-action from 3 to 4",
+        "Created At": "2022-12-19T01:35:18Z",
+        "Target Commit SHA": "30135c8377ccba2c21c26ba5b9f7eadd3afabaf0",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "3b66677ea82821ebcff2fb8f6a2d31aa8036fa7c",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "psd-tools/psd-tools",
+        "Target PR": "https://github.com/psd-tools/psd-tools/pull/198",
+        "Closest PR": "https://github.com/psd-tools/psd-tools/pull/255",
+        "Title": "v1.9.17",
+        "Created At": "2021-01-15T04:19:07Z",
+        "Target Commit SHA": "fd51f8b4a52bc9c1c06d1035dfdf2cd920e87074",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "21fa2555621000a00a7637c604f1f870a4d1dd83",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "py-pdf/pypdf",
+        "Target PR": "https://github.com/py-pdf/pypdf/pull/2264",
+        "Closest PR": "https://github.com/py-pdf/pypdf/pull/2705",
+        "Title": "BUG: Fix deprecation for Ressources when using old constants",
+        "Created At": "2024-06-06T08:05:37Z",
+        "Target Commit SHA": "9b23ac3c9619492570011d551d521690de9a3e2d",
+        "target_inducing_commit_hash_pyszz": [
+            "39f52dceaef6b980d1e0e36214e373a97fb1fd15"
+        ],
+        "Closest Commit SHA": "aa4ddef11d30013ebc6f2f5e495379c19828dce9",
+        "closest_inducing_commit_hash_pyszz": [
+            "719ff25d3277fefc99d752a570ee01534a59659f"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "74b8a6364ee806cc0510b024864502d1fdbd8204",
+            "39f52dceaef6b980d1e0e36214e373a97fb1fd15"
+        ],
+        "target_matched": [
+            "39f52dceaef6b980d1e0e36214e373a97fb1fd15"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "719ff25d3277fefc99d752a570ee01534a59659f"
+        ],
+        "closest_matched": [
+            "719ff25d3277fefc99d752a570ee01534a59659f"
+        ]
+    },
+    {
+        "repo_name": "pyca/pyopenssl",
+        "Target PR": "https://github.com/pyca/pyopenssl/pull/723",
+        "Closest PR": "https://github.com/pyca/pyopenssl/pull/802",
+        "Title": "Fixes incorrect rtype in documentation",
+        "Created At": "2018-10-19T07:02:20Z",
+        "Target Commit SHA": "e73818600065821d588af475b024f4eb518c3509",
+        "target_inducing_commit_hash_pyszz": [
+            "57051a53e154c2b401ab84d6f01c6512e6c7b346"
+        ],
+        "Closest Commit SHA": "4121e2555d07bbba501ac237408a0eea1b41f467",
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [
+            "6037d073170d054554405df944136c1ddd9bbf22",
+            "e5912cef665cf21eaab078c440c2c684b8d14e26",
+            "80b25efa407f15c1c21323b7e512e2e051c0f5e3",
+            "7e166fe9cbd810ea7441e1e4fed0d600f47950dd"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "9939ba1658868b68654501aac24c97db8d9335ae",
+            "41c1024c4664fbd81afebae22cf923b9f6352b74"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "python-babel/babel",
+        "Target PR": "https://github.com/python-babel/babel/pull/782",
+        "Closest PR": "https://github.com/python-babel/babel/pull/864",
+        "Title": "chore(docs/typo): Fixes a minor typo in a function comment",
+        "Created At": "2022-04-25T14:24:48Z",
+        "Target Commit SHA": "412015ef642bfcc0d8ba8f4d05cdbb6aac98d9b3",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "3ae540289aa4669f0cab079876b05863abee0f0d",
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "8c1a722e1a99fba4d07c9279ec1532a6fd28b2c2"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "Target PR": "https://github.com/python-pillow/Pillow/pull/1714",
+        "Closest PR": "https://github.com/python-pillow/Pillow/pull/1748",
+        "Title": "Fixed bug when saving to a non-existent path using pathlib",
+        "Created At": "",
+        "Target Commit SHA": "b499c6410a3d82bdc1a165d7c674bf1f7b24ed9a",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "fb853267f9084e12c602a5f91d8579a1980c999f",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
