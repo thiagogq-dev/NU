@@ -5,7 +5,10 @@ import sys
 
 def pd_finder(fix_commit, repo):
     gr = Git(repo)
-    commit = gr.get_commit(fix_commit)
+    try:
+        commit = gr.get_commit(fix_commit)
+    except Exception as e:
+        return []
     buggy_commits = gr.get_commits_last_modified_lines(commit)
 
     only_hash = []
