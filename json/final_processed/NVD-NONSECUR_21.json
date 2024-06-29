@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "nextcloud/server",
+        "Target PR": "https://github.com/nextcloud/server/pull/28078",
+        "Closest PR": "https://github.com/nextcloud/server/pull/33300",
+        "Title": "dashboard: Fix dark theme detection",
+        "Created At": "2022-07-20T19:23:38Z",
+        "Target Commit SHA": "41eec84ade3541574b0ffa966d13915b407f5c5f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5edab673a7b39dd552b344c5de25faa5ac56a5ac",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
