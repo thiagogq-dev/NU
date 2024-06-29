@@ -1,0 +1,124 @@
+[
+    {
+        "repo_name": "ipfs/go-merkledag",
+        "Target PR": "https://github.com/ipfs/go-merkledag/pull/92",
+        "Closest PR": "https://github.com/ipfs/go-merkledag/pull/103",
+        "Title": "chore(deps): bump github.com/ipfs/go-bitswap from 0.11.0 to 0.12.0",
+        "Created At": "2023-05-11T20:40:29Z",
+        "Target Commit SHA": "0e4726d152e088749e0ef7404f44a4217f6f9d92",
+        "target_inducing_commit_hash_pyszz": [
+            "8335efd4765ed5a512baa7e522c3552d067cf966"
+        ],
+        "Closest Commit SHA": "bf951f70bdc3e149803b812cd9b334a4662a096b",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "jackaudio/jack2",
+        "Target PR": "https://github.com/jackaudio/jack2/pull/480",
+        "Closest PR": "https://github.com/jackaudio/jack2/pull/597",
+        "Title": "[DRAFT] Multi server by same client support",
+        "Created At": "2020-06-05T11:56:12Z",
+        "Target Commit SHA": "dad4b5702782eef3bd66e3c3f4fefaaae3571208",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "adc4a730d81708ac929b05199a9940f8c32ea91f",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "java-decompiler/jd-gui",
+        "Target PR": "https://github.com/java-decompiler/jd-gui/pull/418",
+        "Closest PR": "https://github.com/java-decompiler/jd-gui/pull/432",
+        "Title": "Upgrade the launch4j plugin to make the exe work with recent JRE",
+        "Created At": "2023-08-28T12:35:12Z",
+        "Target Commit SHA": "24fdc77622ef1053126c6747bd7ef9f44ec63e38",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "fb6a07d92e64336b36fd37bca7242d80cb474118",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "jessfraz/pastebinit",
+        "Target PR": "https://github.com/jessfraz/pastebinit/pull/3",
+        "Closest PR": "https://github.com/jessfraz/pastebinit/pull/4",
+        "Title": "Add a 413-specific error message to make for easier troubleshooting.",
+        "Created At": "2018-08-05T23:13:21Z",
+        "Target Commit SHA": "1af2facb6d95976c532b7f8f82747d454a092272",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "ac251ab69350c677e82a7ae1b3ad600a1d65c604",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "jonschlinkert/kind-of",
+        "Target PR": "https://github.com/jonschlinkert/kind-of/pull/31",
+        "Closest PR": "https://github.com/jonschlinkert/kind-of/pull/31",
+        "Title": "fix type checking vul in ctorName",
+        "Created At": "2019-12-30T17:52:41Z",
+        "Target Commit SHA": "1df992ce6d5a1292048e5fe9c52c5382f941ee0b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "1df992ce6d5a1292048e5fe9c52c5382f941ee0b",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "jooby-project/jooby",
+        "Target PR": "https://github.com/jooby-project/jooby/pull/1368",
+        "Closest PR": "https://github.com/jooby-project/jooby/pull/1919",
+        "Title": "build(deps): bump directory-watcher from 0.9.10 to 0.10.0",
+        "Created At": "2020-08-13T06:58:12Z",
+        "Target Commit SHA": "27b4af283de1a2c2a6b0530039b46eef75ddf655",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "0998fc529c22b9a6f467f00baaacf094de83cbb7",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "JoomGallery/JoomGallery",
+        "Target PR": "https://github.com/JoomGallery/JoomGallery/pull/122",
+        "Closest PR": "https://github.com/JoomGallery/JoomGallery/pull/167",
+        "Title": "Fix saving images in back end image manager",
+        "Created At": "2018-09-04T16:54:26Z",
+        "Target Commit SHA": "dc414ee954e849082260f8613e15a1c1e1d354a1",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "e04a5be59e94a43bc59031ce3b64c4799545281f",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "jquery/jquery-ui",
+        "Target PR": "https://github.com/jquery/jquery-ui/pull/1953",
+        "Closest PR": "https://github.com/jquery/jquery-ui/pull/2067",
+        "Title": "Datepicker: Capitalize some Indonesian words",
+        "Created At": "2022-04-06T09:25:53Z",
+        "Target Commit SHA": "afe20b79a64266e64011f34b26a30b3d1c62fd47",
+        "target_inducing_commit_hash_pyszz": [
+            "74d7eac2daabce0411e98ed9d59dada551cdd911"
+        ],
+        "Closest Commit SHA": "9d1fc97b4ea5c364b8f1c7d9ab2a3c28f8c594e7",
+        "closest_inducing_commit_hash_pyszz": [
+            "5d22c5fbf66511f06d048dda596b2d0b167108c6"
+        ]
+    },
+    {
+        "repo_name": "JustArchiNET/ArchiSteamFarm",
+        "Target PR": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2501",
+        "Closest PR": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2772",
+        "Title": "Fix parsing of possibly completed AppIDs",
+        "Created At": "2022-12-21T15:14:27Z",
+        "Target Commit SHA": "4258fed8732591a58d86362377a2aabe7dac3d84",
+        "target_inducing_commit_hash_pyszz": [
+            "81a92d67810b1f4e2d0a7f419a9ae306f11ebccf"
+        ],
+        "Closest Commit SHA": "981b347bd4d9626098f3d344dbe2fa023baefcb0",
+        "closest_inducing_commit_hash_pyszz": [
+            "f3229fa45f3b5a17aafaa2d13124b4cdc0a272ab"
+        ]
+    },
+    {
+        "repo_name": "kaltura/mwEmbed",
+        "Target PR": "https://github.com/kaltura/mwEmbed/pull/4266",
+        "Closest PR": "https://github.com/kaltura/mwEmbed/pull/4309",
+        "Title": "fix(SUP-37385): user cannot see q&a",
+        "Created At": "2023-05-16T14:42:51Z",
+        "Target Commit SHA": "13b8812ebc8c9fa034eed91ab35ba8423a528c0b",
+        "target_inducing_commit_hash_pyszz": [
+            "2e9f16ee149f1d02e038bd9d5b012d6d02b20092"
+        ],
+        "Closest Commit SHA": "e8fe09b909248c521f5272a625663e87055e4d97",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]
