@@ -1,0 +1,92 @@
+[
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23240",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32850",
+        "Closest Commit SHA": null,
+        "Title": "checkpatch: Disable \"blank line after declarations\" warning",
+        "Created At": "2021-03-03T22:38:35Z",
+        "fix_commit_hash": "23ace0e55681c02a81fb6b891f832aa356c85aab"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23328",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33098",
+        "Closest Commit SHA": "28c823b16ee2e281f5e805140e584c63530ae58e",
+        "Title": "mgmt/osdp: Fix couple of issues identified by coverity",
+        "Created At": "2021-03-07T02:19:49Z",
+        "fix_commit_hash": "5f0650b596c54691df35b92d027383396eef457d"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23457",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33310",
+        "Closest Commit SHA": "7f727ac322ab99084c3444bc2546e5777e2e5a3c",
+        "Title": "Bluetooth: controller: Fix regression in ctrl tx queue handling",
+        "Created At": "2021-03-13T05:38:31Z",
+        "fix_commit_hash": "8289dc75dda522b459418ec93f8a91012fdeddb9"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23649",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33514",
+        "Closest Commit SHA": "3a06d3d523d89d07f6fa2131985bced38371ae94",
+        "Title": "[Backport v2.4-branch] Bluetooth: L2CAP: Fix missing buffer length check for sdu_len",
+        "Created At": "2021-03-19T18:33:16Z",
+        "fix_commit_hash": "9d3186c43a8ffbfd5e8b25955c10c61b15a50409"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23091",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32658",
+        "Closest Commit SHA": "ae505e97bd30194a005bbbd72dff0844c10a5db5",
+        "Title": "tests: thread: thread_api: fix to allow test to run for non-secure",
+        "Created At": "2021-02-25T11:16:54Z",
+        "fix_commit_hash": "17e2618f2f75bc9358ae3f694a5fc62949f5702d"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23308",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33006",
+        "Closest Commit SHA": "15d1ea544b02599aa5c1eed61d80092716411f24",
+        "Title": "drivers: sensor: bmi160: Fix bug where undersampling is not set",
+        "Created At": "2021-03-06T00:16:49Z",
+        "fix_commit_hash": "d6d42bef9770a218985700fd430ce5fac6cea36e"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/24954",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/34839",
+        "Closest Commit SHA": "5af20cd2586ef02d41bb4aa53ea9c3f82da87779",
+        "Title": "modem: hl7800: Fix crash related to IPv6 address",
+        "Created At": "2021-05-04T17:00:27Z",
+        "fix_commit_hash": "69e8a7b657c6160801a73f4dd40ec29432e2d348"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/27891",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/38148",
+        "Closest Commit SHA": "21c6ca9487e0f77fb55412945a926b5c235b9f6d",
+        "Title": "drivers: sensor: clean up zephyr_library calls, again",
+        "Created At": "2021-08-30T18:11:40Z",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/13260",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/13261",
+        "Closest Commit SHA": "3a879deeccce1ab0c0fec74be0ad3c10791836a2",
+        "Title": "shell: Fix prompt length not updated in shell_prompt_change",
+        "Created At": "",
+        "fix_commit_hash": "cd59e3f32a999221de35a47458db40bc44a29874"
+    },
+    {
+        "repo_name": "ZeusCart/zeuscart",
+        "Target PR": "https://github.com/ZeusCart/zeuscart/pull/23",
+        "Closest PR": "https://github.com/ZeusCart/zeuscart/pull/23",
+        "Closest Commit SHA": "a392f055631bfb8f1bd082769a1a6a96e99839ab",
+        "Title": "Security fix for Bin/Core/Assembler.php",
+        "Created At": "2014-06-24T00:32:08Z",
+        "fix_commit_hash": "a392f055631bfb8f1bd082769a1a6a96e99839ab"
+    }
+]

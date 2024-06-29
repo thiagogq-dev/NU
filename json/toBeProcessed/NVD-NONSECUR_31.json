@@ -1,0 +1,92 @@
+[
+    {
+        "repo_name": "toumorokoshi/transmute-core",
+        "Target PR": "https://github.com/toumorokoshi/transmute-core/pull/58",
+        "Closest PR": "https://github.com/toumorokoshi/transmute-core/pull/59",
+        "Closest Commit SHA": "97dfda6bf06b75dc2f8ffa7043969972461a7876",
+        "Title": "Fix cattrs structure error as per latest version",
+        "Created At": "2023-11-29T15:24:09Z",
+        "fix_commit_hash": "b368618da1909c4e9e58c53a71319effb2a2cc0d"
+    },
+    {
+        "repo_name": "TryGhost/Ghost",
+        "Target PR": "https://github.com/TryGhost/Ghost/pull/17190",
+        "Closest PR": "https://github.com/TryGhost/Ghost/pull/20390",
+        "Closest Commit SHA": "710488ef82eed7cef57c5adb97d3fda2e79e6ea5",
+        "Title": "Update dependency mysql2 to v3.10.1",
+        "Created At": "2024-06-14T00:38:06Z",
+        "fix_commit_hash": "dc7e2b9261555f4a1a160ea4369e9d9578194358"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "Target PR": "https://github.com/twbs/bootstrap/pull/26630",
+        "Closest PR": "https://github.com/twbs/bootstrap/pull/28834",
+        "Closest Commit SHA": "24abed13369469c174acbec5e5939e252b29936f",
+        "Title": "Fix keyboard handling of button-style checkbox/radio button groups",
+        "Created At": "2019-05-27T22:18:55Z",
+        "fix_commit_hash": "cc61edfa8af7b5ec9d4888c59bf94377e499b78b"
+    },
+    {
+        "repo_name": "ucfopen/Materia",
+        "Target PR": "https://github.com/ucfopen/Materia/pull/1371",
+        "Closest PR": "https://github.com/ucfopen/Materia/pull/1468",
+        "Closest Commit SHA": "914c771dfebd0b8fcd6412df460ad130f2c75b43",
+        "Title": "React fixes and polish, part four",
+        "Created At": "2023-04-05T19:24:00Z",
+        "fix_commit_hash": "af259115d2e8f17068e61902151ee8a9dbac397b"
+    },
+    {
+        "repo_name": "vaadin/flow-components",
+        "Target PR": "https://github.com/vaadin/flow-components/pull/1903",
+        "Closest PR": "https://github.com/vaadin/flow-components/pull/3461",
+        "Closest Commit SHA": "48830df666083a2ee34e625daa1ca3f7f40489a3",
+        "Title": "fix: add fromClient to ClientValidatedEvent cto",
+        "Created At": "2022-07-14T12:26:24Z",
+        "fix_commit_hash": "eaf6e7afac5d9744e2a8b6797d3386858c95a4a0"
+    },
+    {
+        "repo_name": "vaadin/flow",
+        "Target PR": "https://github.com/vaadin/flow/pull/10157",
+        "Closest PR": "https://github.com/vaadin/flow/pull/10145",
+        "Closest Commit SHA": "21b4b932b91506228cdb2f2118d65a4ae5163ec5",
+        "Title": "fix: only inject scripts not already loaded when using an exported wc",
+        "Created At": "",
+        "fix_commit_hash": "11a6ad2ddf9b9bf91dd28515784d26c9ff5c6274"
+    },
+    {
+        "repo_name": "vaadin/flow",
+        "Target PR": "https://github.com/vaadin/flow/pull/10640",
+        "Closest PR": "https://github.com/vaadin/flow/pull/13547",
+        "Closest Commit SHA": "942276994b8fb2c089121c3f1e6e58257c5b6a96",
+        "Title": "fix: Force async version 3.2.2",
+        "Created At": "2022-04-14T10:25:59Z",
+        "fix_commit_hash": "dde115adfbcc9484e60a34d603251edf94fae529"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/744",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/1334",
+        "Closest Commit SHA": "4e3e54c8ecf74eba6fbd38913855c4a45300c01f",
+        "Title": "Addressing random BadNameSpace error by including the 'always_connect' option to Socket.io",
+        "Created At": "2024-06-14T13:22:44Z",
+        "fix_commit_hash": "aacfc24548cbf168579d2e13b2ddaf8ded715d36"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/711",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/1325",
+        "Closest Commit SHA": "878ef072f2d845e5c176e9965582914b33dd79b0",
+        "Title": "Bump braces from 3.0.2 to 3.0.3 in /vantage6-ui",
+        "Created At": "2024-06-13T08:35:02Z",
+        "fix_commit_hash": "86564e103cbac5238ce2fe392e3357e0e8c20220"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/281",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/785",
+        "Closest Commit SHA": "ef043032465968ee3bd9d23bb36248977aff068b",
+        "Title": "Bump cryptography from 41.0.0 to 41.0.3",
+        "Created At": "2023-08-02T02:05:37Z",
+        "fix_commit_hash": "41618096ef112eaf827056dd13395abffd7a4f4d"
+    }
+]
