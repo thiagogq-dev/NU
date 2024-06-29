@@ -44,5 +44,8 @@ if __name__ == "__main__":
             d["closest_inducing_commit_hash_pd"] = bics
             d["closest_matched"] = match_bics(d["closest_inducing_commit_hash_pyszz"], bics)
 
-    with open(f"/json/final_processed/{json_file}", 'w') as f:
+
+    file_to_save = json_file.split("/")[-1]
+
+    with open(f"/json/final_processed/{file_to_save}", 'w') as f:
         json.dump(data, f, indent=4)
