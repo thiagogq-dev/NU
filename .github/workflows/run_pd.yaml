@@ -1,0 +1,60 @@
+name: Run PyDriller
+
+on:
+  workflow_dispatch:
+      
+jobs:
+
+  list-json-files:
+    runs-on: ubuntu-latest
+
+    outputs:
+      json_files: ${{ steps.list-json-files.outputs.json_files }}
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4.1.6
+
+    - name: List JSON files
+      id: list-json-files
+      run: |
+        files=$(ls json/bics/bics*.json | jq -R -s -c 'split("\n")[:-1]')
+        echo "json_files=$files" >> $GITHUB_OUTPUT
+
+  run-script:
+    needs: list-json-files
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        file: ${{fromJson(needs.list-json-files.outputs.json_files)}}
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4.1.6
+
+    - name: Clone Repositories
+      run: |
+        python clone_repositories.py ${{ matrix.file }}
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5.1.0
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pydriller
+
+    - name: Run PyDriller
+      run: |
+        python run_pd.py ${{ matrix.file }}
+
+    - name: Commit and push
+      run: |
+        git config --global user.email "thiagogquinto.dev@gmail.com"
+        git config --global user.name "Thiago Quinto"
+        git pull 
+        git add .
+        git commit -m "Add bics by PyDriller"
+        git push

@@ -1,0 +1,126 @@
+[
+    {
+        "repo_name": "argoproj/argo-cd",
+        "Target PR": "https://github.com/argoproj/argo-cd/pull/7139",
+        "Closest PR": "https://github.com/argoproj/argo-cd/pull/10493",
+        "Title": "fix: add more info to  creationtime format",
+        "Created At": "2022-09-01T06:04:24Z",
+        "Target Commit SHA": "7122b83fc346ec2729227405a2f9c2aa84b0bf80",
+        "target_inducing_commit_hash_pyszz": [
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
+        ],
+        "Closest Commit SHA": "9fac0f6ae6e52d6f4978a1eaaf51fbffb9c0958a",
+        "closest_inducing_commit_hash_pyszz": [
+            "6b08a23a0132667c71a9497ad0f043689b66b686"
+        ]
+    },
+    {
+        "repo_name": "argoproj/argo-events",
+        "Target PR": "https://github.com/argoproj/argo-events/pull/1966",
+        "Closest PR": "https://github.com/argoproj/argo-events/pull/2613",
+        "Title": "chore(deps): bump github.com/cloudflare/circl from 1.1.0 to 1.3.3",
+        "Created At": "2023-05-11T20:46:22Z",
+        "Target Commit SHA": "143f8beb81e87af523dd15a6de850c5e6a0e8f59",
+        "target_inducing_commit_hash_pyszz": [
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc"
+        ],
+        "Closest Commit SHA": "07eaa2e445b0224fb22bb851c009231845bae5b9",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "ariabuckles/simple-markdown",
+        "Target PR": "https://github.com/ariabuckles/simple-markdown/pull/73",
+        "Closest PR": "https://github.com/ariabuckles/simple-markdown/pull/91",
+        "Title": "Bump node-fetch from 2.6.0 to 2.6.1",
+        "Created At": "2020-09-10T23:29:45Z",
+        "Target Commit SHA": "015a719bf5cdc561feea05500ecb3274ef609cd2",
+        "target_inducing_commit_hash_pyszz": [
+            "90ef64a857169e68e7a9fde396b57b061372f396"
+        ],
+        "Closest Commit SHA": "40af8da92e4bd296ed01bde4bc87ae7aab22ee08",
+        "closest_inducing_commit_hash_pyszz": [
+            "71030b8af2b79119c44bae8fa13fc9c2a7efbee1"
+        ]
+    },
+    {
+        "repo_name": "Arno0x/TwoFactorAuth",
+        "Target PR": "https://github.com/Arno0x/TwoFactorAuth/pull/3",
+        "Closest PR": "https://github.com/Arno0x/TwoFactorAuth/pull/7",
+        "Title": "Fixed a file system vulnerability",
+        "Created At": "2016-05-20T15:16:12Z",
+        "Target Commit SHA": "43535441857d8219606d101badca510691e4e8be",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "artesaos/seotools",
+        "Target PR": "https://github.com/artesaos/seotools/pull/201",
+        "Closest PR": "https://github.com/artesaos/seotools/pull/192",
+        "Title": "Fix testcases",
+        "Created At": "",
+        "Target Commit SHA": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "91c9fc3ee18db01d220dd47708f303b8eff8078b",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "authzed/spicedb",
+        "Target PR": "https://github.com/authzed/spicedb/pull/1397",
+        "Closest PR": "https://github.com/authzed/spicedb/pull/1937",
+        "Title": "Initial support for Intersection arrow",
+        "Created At": "2024-06-13T18:44:55Z",
+        "Target Commit SHA": "666d083225a1f3274112be95a9c6e17cc003be34",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "58b50424af4d788a34388d70ef3059a423cfb3e9",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "autovance/ftp-srv",
+        "Target PR": "https://github.com/autovance/ftp-srv/pull/224",
+        "Closest PR": "https://github.com/QuorumDMS/ftp-srv/pull/274",
+        "Title": "chore(deps): bump path-parse from 1.0.6 to 1.0.7",
+        "Created At": "2021-11-04T20:48:58Z",
+        "Target Commit SHA": "457b859450a37cba10ff3c431eb4aa67771122e3",
+        "target_inducing_commit_hash_pyszz": [
+            "c0e132b70e3b92c4008622db93ccb0babaff56d0"
+        ],
+        "Closest Commit SHA": "e1f1aa09cd98c41f36e8657d0346bc2e7646ecae",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "axios/axios",
+        "Target PR": "https://github.com/axios/axios/pull/1485",
+        "Closest PR": "https://github.com/axios/axios/pull/2090",
+        "Title": "Update README.md. - Fixed example methods typo",
+        "Created At": "2019-04-10T01:35:35Z",
+        "Target Commit SHA": "0d4fca085b9b44e110f4c5a3dd7384c31abaf756",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "48c43d5240e1ac6e6c44495e7428262d32a438f9",
+        "closest_inducing_commit_hash_pyszz": [
+            "d74238e1513a57ce3bd2b3683f0e595ac00fa8d7"
+        ]
+    },
+    {
+        "repo_name": "bigbluebutton/bigbluebutton",
+        "Target PR": "https://github.com/bigbluebutton/bigbluebutton/pull/13850",
+        "Closest PR": "https://github.com/bigbluebutton/bigbluebutton/pull/16090",
+        "Title": "fix: Webcam backgrounds crash the entire client on Firefox",
+        "Created At": "2022-12-06T10:35:56Z",
+        "Target Commit SHA": "b41f895ab80e7be8a54a41990c95e4c343b773f3",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "81fab5281259ef5b4cbb36d2ee249debbbbadbe4",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "bigbluebutton/bigbluebutton",
+        "Target PR": "https://github.com/bigbluebutton/bigbluebutton/pull/15067",
+        "Closest PR": "https://github.com/bigbluebutton/bigbluebutton/pull/17975",
+        "Title": "fix: Added check for parentMeetingId if isBreakout is true",
+        "Created At": "2023-05-23T19:37:53Z",
+        "Target Commit SHA": "4e96fc5bd4736fc72d61f7dd672c40996ef1bf48",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "b699a46802012de1d5a2d2f7b62f9c7a65d8bd9d",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

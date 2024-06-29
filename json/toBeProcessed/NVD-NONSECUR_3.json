@@ -1,0 +1,140 @@
+[
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/33108",
+        "Closest PR": "https://github.com/apache/airflow/pull/40278",
+        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
+        "Created At": "2024-06-17T12:25:37Z",
+        "Target Commit SHA": "52ca7bfc988f4c9b608f544bc3e9524fd6564639",
+        "target_inducing_commit_hash_pyszz": [
+            "032cf7cdbce34ceb0e9380f86e07a6c077470396"
+        ],
+        "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
+        "closest_inducing_commit_hash_pyszz": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/27641",
+        "Closest PR": "https://github.com/apache/airflow/pull/35597",
+        "Title": "added cancelled handling in dbt deferred",
+        "Created At": "2023-11-13T10:35:17Z",
+        "Target Commit SHA": "1d4fd5c6eacab0b88f8660f9d780174434393f1a",
+        "target_inducing_commit_hash_pyszz": [
+            "813cd431204b71f4e7c27f2bee9fafcc910da4d0"
+        ],
+        "Closest Commit SHA": "a8bc6c551d84dea4f57cd6d2a9807250cb187997",
+        "closest_inducing_commit_hash_pyszz": [
+            "55049c50d52323e242c2387f285f0591ea38cde7"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/33075",
+        "Closest PR": "https://github.com/apache/airflow/pull/40278",
+        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
+        "Created At": "2024-06-17T12:25:37Z",
+        "Target Commit SHA": "e20325db38fdfdd9db423a345b13d18aab6fe578",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
+        "closest_inducing_commit_hash_pyszz": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/29706",
+        "Closest PR": "https://github.com/apache/airflow/pull/37634",
+        "Title": "Fix Async GCSObjectsWithPrefixExistenceSensor xcom push",
+        "Created At": "2024-02-22T18:47:30Z",
+        "Target Commit SHA": "101d59c4b88ab979d305b8d96f612c27c8a44aa8",
+        "target_inducing_commit_hash_pyszz": [
+            "7dd19731f232d99d2947128c29e393b8ce013741"
+        ],
+        "Closest Commit SHA": "ca4c55986534a553baea80a7bb5b834f7fdf0ddd",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/27576",
+        "Closest PR": "https://github.com/apache/airflow/pull/35557",
+        "Title": "Remove `sqla` module from security manager",
+        "Created At": "2023-11-09T15:21:25Z",
+        "Target Commit SHA": "b33d22c2243c552f4d1372bbe6b75e5fb097f567",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "3c5f5b50a4e7459d5edd60c40fb95db87142be99",
+        "closest_inducing_commit_hash_pyszz": [
+            "c2046245c07fdd6eb05b996cc67c203c5ac456b6"
+        ]
+    },
+    {
+        "repo_name": "apache/incubator-superset",
+        "Target PR": "https://github.com/apache/incubator-superset/pull/4243",
+        "Closest PR": "https://github.com/apache/superset/pull/6721",
+        "Title": "Introduce configs for some timezone handling aspects: epoch_s and relative end time",
+        "Created At": "2019-01-18T05:36:31Z",
+        "Target Commit SHA": "2c72a7ae4fc0a8bac1f037a79efa90e1c5549710",
+        "target_inducing_commit_hash_pyszz": [
+            "2ab6a411f4b9fa75bc86b83f4aa4e3707e90e002"
+        ],
+        "Closest Commit SHA": "cecbba3fe63cfb6ea294cec90f57e5282b6dfb6c",
+        "closest_inducing_commit_hash_pyszz": [
+            "8c0551ed4608f086c489a6ab1c7a8afe2efd6ef0"
+        ]
+    },
+    {
+        "repo_name": "apache/trafficserver",
+        "Target PR": "https://github.com/apache/trafficserver/pull/10564",
+        "Closest PR": "https://github.com/apache/trafficserver/pull/11452",
+        "Title": "Fix unused parameters in iocore",
+        "Created At": "2024-06-15T04:20:18Z",
+        "Target Commit SHA": "b28ad74f117307e8de206f1de70c3fa716f90682",
+        "target_inducing_commit_hash_pyszz": [
+            "6550d81849b66a1f52c73bdce15b2c03d93cac29"
+        ],
+        "Closest Commit SHA": "d7e9b6b699f567e9afc75bc3f9eaf5df73f57046",
+        "closest_inducing_commit_hash_pyszz": [
+            "266b666ade7312a55ff68ee603e5e6b013c6ef13"
+        ]
+    },
+    {
+        "repo_name": "apache/trafficserver",
+        "Target PR": "https://github.com/apache/trafficserver/pull/3201",
+        "Closest PR": "https://github.com/apache/trafficserver/pull/5088",
+        "Title": "MIME: Fix line_is_real false positive.",
+        "Created At": "2019-02-28T17:02:22Z",
+        "Target Commit SHA": "fe9c1276aba6768e78b72a486c07e7b853214b09",
+        "target_inducing_commit_hash_pyszz": [
+            "08512deb11a610ae7084ce678b19bd637e30b3e1"
+        ],
+        "Closest Commit SHA": "f78dcdc78ff8d7f4cae7b588c743c2a11ce2176f",
+        "closest_inducing_commit_hash_pyszz": [
+            "0be4e7326b89670dea1ffe4c7f21c36bfd2bdf59"
+        ]
+    },
+    {
+        "repo_name": "appneta/tcpreplay",
+        "Target PR": "https://github.com/appneta/tcpreplay/pull/720",
+        "Closest PR": "https://github.com/appneta/tcpreplay/pull/783",
+        "Title": "Fix bugs caused by strtok_r",
+        "Created At": "2023-03-01T08:54:36Z",
+        "Target Commit SHA": "8764d4d9f1335dcaaafee0fa277f5ae803033666",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "342d29d9e42898b1e097a9f9a31fe0ad15d2f43b",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "argoproj/argo-cd",
+        "Target PR": "https://github.com/argoproj/argo-cd/pull/3088",
+        "Closest PR": "https://github.com/argoproj/argo-cd/pull/5430",
+        "Title": "fix(ui): Only connect edges between resources in the same namespace",
+        "Created At": "2021-02-05T22:21:27Z",
+        "Target Commit SHA": "916d4aed5775fead4ab75f47c1d352cd0e73b815",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "bb15a4996e327fb27ad91f3f6fa24f831f7754e0",
+        "closest_inducing_commit_hash_pyszz": [
+            "71f3351d2b068823314635ce71cfa9a2bb7cfe8c"
+        ]
+    }
+]
