@@ -7,7 +7,7 @@ def clone_repositories(repo_name):
     if not os.path.exists("repos_dir"):
         os.makedirs("repos_dir", exist_ok=True)
 
-    os.system(f"git clone https://github.com/{repo_name}.git /repos_dir/{repo_name}")
+    os.system(f"git clone https://github.com/{repo_name}.git repos_dir/{repo_name}")
 
 if not os.path.exists("json/with_fix_commits"):
     os.makedirs("json/with_fix_commits", exist_ok=True)
@@ -20,13 +20,16 @@ with open(json_file) as f:
     commits_data = []
     len  = len(data)
     read = 0
+
+    repo = data[0]["repo_name"]
+    clone_repositories(repo)
+    
     for entry in data:
         read += 1
         print(f"Read {read}/{len}")
         target_pr_number = entry["Target PR"].rstrip("/").split("/")[-1]
         closest_pr_number = entry["Closest PR"].rstrip("/").split("/")[-1]
 
-        clone_repositories(entry["repo_name"])
         
         owner, repo = entry["repo_name"].split("/")
         repo_path = f"repos_dir/{owner}/{repo}"
