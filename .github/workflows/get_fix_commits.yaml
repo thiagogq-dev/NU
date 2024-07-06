@@ -57,9 +57,10 @@ jobs:
 
     - name: Commit and push
       run: |
+        file = "$(basename ${{ matrix.file }})" 
         git config --global user.email "thiagogquinto.dev@gmail.com"
         git config --global user.name "Thiago Quinto"
         git pull 
-        git add json/with_fix_commits/*.json
+        git add json/with_fix_commits/$file
         git commit -m "Get Fix Commits"
         git push
