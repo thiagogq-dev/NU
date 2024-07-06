@@ -47,7 +47,11 @@ jobs:
         pip install pydriller
         pip install requests
 
-    - name: Run PyDriller
+    - name: Show File Name
+      run: |
+        echo "$(basename ${{ matrix.file }})"
+
+    - name: Get Fix Commits
       run: |
         python get_fix_commits.py ${{ matrix.file }}
 
