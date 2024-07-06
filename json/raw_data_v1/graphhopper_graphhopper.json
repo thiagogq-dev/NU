@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "Target PR": "https://github.com/graphhopper/graphhopper/pull/2328",
+        "Closest PR": "https://github.com/graphhopper/graphhopper/pull/2567",
+        "Title": "Consistent edge keys",
+        "Created At": "2022-04-27T06:02:00Z"
+    }
+]

@@ -1,5 +1,6 @@
 import requests
 import json
+from pydriller import Git, Repository
 
 API_TOKENS = [
     "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",
@@ -28,23 +29,21 @@ def get_valid_token():
         token = API_TOKENS[token_index]
     return token
 
-def check_commit_existence(owner, repo, commit_hash):
-    url = f"https://api.github.com/repos/{owner}/{repo}/commits/{commit_hash}"
-    response = requests.get(url, headers=get_headers())
-
-    if response.status_code == 422:
+def check_commit_existence(repo_path, commit_hash):
+    gr = Git(repo_path)
+    try:
+        commit = gr.get_commit(commit_hash)
+    except Exception as e:
         return False
-
     return True
 
-def get_pull_request_data(pr_number, owner, repo):
+def get_pull_request_data(pr_number, owner, repo, repo_path):
     url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}"
     response = requests.get(url, headers=get_headers())
     data = response.json()
-    print(data)
     merge_commit = data["merge_commit_sha"]
 
-    if not check_commit_existence(owner, repo, merge_commit):
+    if not check_commit_existence(repo_path, merge_commit):
         print(f"Merge commit {merge_commit} does not exist for PR {pr_number} in {owner}/{repo}.")
         return get_commit_that_references_pr(f"{owner}/{repo}", pr_number)
 
@@ -81,7 +80,13 @@ def get_commit_that_references_pr(repo_path, pr_number):
 
 
 def get_commit_pr(repo_path, commit_hash):
-    url = f"https://api.github.com/repos/{repo_path}/commits/{commit_hash}/pulls"
+
+    if commit_hash == []:
+        return None
+    
+    hash = commit_hash[0]
+
+    url = f"https://api.github.com/repos/{repo_path}/commits/{hash}/pulls"
     response = requests.get(url, headers=get_headers())
     data = response.json()
 
@@ -91,14 +96,14 @@ def get_commit_pr(repo_path, commit_hash):
         if pr["state"] == "closed":
             prs.append({
                 "merged_at": pr["merged_at"],
-                "merge_commit_sha": pr["merge_commit_sha"]
+                "url": pr["html_url"]
             })
 
     if len(prs) == 0:
         return None
     
     pr = max(prs, key=lambda x: x["merged_at"]) 
-    return pr["merge_commit_sha"]
+    return pr["url"]
 
 
 def match_bics(bics, bics2):
@@ -111,7 +116,7 @@ def match_bics(bics, bics2):
     return matched
 
 
-def split_json_file(input_file, output_prefix, max_items_per_file=100):
+def split_json_file(input_file, output_prefix, max_items_per_file=10):
     with open(input_file, 'r') as f:
         data = json.load(f)
 
@@ -126,12 +131,7 @@ def split_json_file(input_file, output_prefix, max_items_per_file=100):
             json.dump(chunk, f, indent=4)
         print(f"File {output_file} created with {len(chunk)} items.")
               
-def sort_json_file(file):
-    with open(file, 'r') as f:
+def leng(json_file):
+    with open(json_file, 'r') as f:
         data = json.load(f)
-
-    data = sorted(data, key=lambda x: x["repo_name"])
-
-    with open(file, 'w') as f:
-        json.dump(data, f, indent=4)
-        
+    return len(data)

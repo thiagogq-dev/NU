@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "dotnet/aspnetcore",
+        "Target PR": "https://github.com/dotnet/aspnetcore/pull/34997",
+        "Closest PR": "https://github.com/dotnet/aspnetcore/pull/43072",
+        "Title": "[main] Update dependencies from dotnet/runtime",
+        "Created At": "2022-08-03T12:08:46Z"
+    }
+]

@@ -1,10 +1,20 @@
 import json
-import requests
-from utils.utils import get_pull_request_data, split_json_file
+from utils.utils import get_pull_request_data
+import os
+import sys
 
-file = "NVD-selected-NONSECUR.json"
+def clone_repositories(repo_name):
+    if not os.path.exists("repos_dir"):
+        os.makedirs("repos_dir", exist_ok=True)
 
-with open(file) as f:
+    os.system(f"git clone https://github.com/{repo_name}.git /repos_dir/{repo_name}")
+
+if not os.path.exists("json/with_fix_commits"):
+    os.makedirs("json/with_fix_commits", exist_ok=True)
+
+json_file = sys.argv[1]
+
+with open(json_file) as f:
     data = json.load(f)
 
     commits_data = []
@@ -16,10 +26,13 @@ with open(file) as f:
         target_pr_number = entry["Target PR"].rstrip("/").split("/")[-1]
         closest_pr_number = entry["Closest PR"].rstrip("/").split("/")[-1]
 
+        clone_repositories(entry["repo_name"])
+        
         owner, repo = entry["repo_name"].split("/")
+        repo_path = f"repos_dir/{owner}/{repo}"
 
-        target_commit_sha = get_pull_request_data(target_pr_number, owner, repo)
-        closest_commit_sha = get_pull_request_data(closest_pr_number, owner, repo)
+        target_commit_sha = get_pull_request_data(target_pr_number, owner, repo, repo_path)
+        closest_commit_sha = get_pull_request_data(closest_pr_number, owner, repo, repo_path)
 
         commits_data.append({
             "repo_name": entry["repo_name"],
@@ -30,8 +43,12 @@ with open(file) as f:
             "Title": entry["Title"],
             "Created At": entry["Created At"]
         })
+        
+    os.system("rm -rf repos_dir/*")
+    new_file = json_file.split("/")[-1].split(".")[0]
+    output_file = f"./json/with_fix_commits/{new_file}.json"
+    print(f"Writing to {output_file}")
+    with open(output_file, "w") as f:
+        json.dump(commits_data, f, indent=4)
 
-        with open("NVD-selected-NONSECUR-commits.json", "w") as f:
-            json.dump(commits_data, f, indent=4)
-
-split_json_file("NVD-selected-NONSECUR-commits.json", "./raw_data/NVD-selected-NONSECUR-commits")
+# split_json_file("NVD-selected-NONSECUR-commits.json", "./json/with_fix_commits/NVD-selected-NONSECUR-commits")

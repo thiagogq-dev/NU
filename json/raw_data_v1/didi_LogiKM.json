@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "didi/LogiKM",
+        "Target PR": "https://github.com/didi/LogiKM/pull/195",
+        "Closest PR": "https://github.com/didi/KnowStreaming/pull/436",
+        "Title": "1. \u589e\u52a0\u5bf9BrokerMetadata\u4e2dendpoints\u4e3ainternal|External\u65b9\u5f0f\u7684\u89e3\u6790; 2. \u589e\u52a0\u7ebf\u7a0b\u6c60\u3001\u5ba2\u6237\u7aef\u6c60\u53ef\u914d\u7f6e; 3. fix config incorrectly comment",
+        "Created At": "2022-01-13T08:05:14Z"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "apache/shiro",
+        "Target PR": "https://github.com/apache/shiro/pull/194",
+        "Closest PR": "https://github.com/apache/shiro/pull/278",
+        "Title": "(build) fix JDK 16/17 builds",
+        "Created At": "2021-01-11T09:53:42Z"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "Target PR": "https://github.com/apache/shiro/pull/55",
+        "Closest PR": "https://github.com/apache/shiro/pull/75",
+        "Title": "[SHIRO-632] Removes duplicate classes from classpath",
+        "Created At": "2018-01-03T00:55:27Z"
+    }
+]

@@ -1,0 +1,1094 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/81318",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/92059",
+        "Title": "Add o.e.a.a.cluster.coordination to exports from server",
+        "Created At": "2022-12-02T10:37:04Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/78297",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90319",
+        "Title": "Preventing serialization errors in the nodes stats API",
+        "Created At": "2022-09-23T20:17:48Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77949",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110",
+        "Title": "Fix ClusterRebalanceRoutingTests",
+        "Created At": "2022-09-15T14:17:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77832",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110",
+        "Title": "Fix ClusterRebalanceRoutingTests",
+        "Created At": "2022-09-15T14:17:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77632",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90030",
+        "Title": "Fix typo in assertion",
+        "Created At": "2022-09-13T12:40:35Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77293",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77292",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77291",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77036",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89734",
+        "Title": "Fix partial reduce bug in ip_prefix",
+        "Created At": "2022-08-30T17:30:58Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76994",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89667",
+        "Title": "Operator/role mapping",
+        "Created At": "2022-08-26T16:17:49Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76879",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89571",
+        "Title": "Fix log expectation inconsistency in flush test",
+        "Created At": "2022-08-24T09:27:43Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76814",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89526",
+        "Title": "Update OIDC test fixture",
+        "Created At": "2022-08-23T05:31:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76801",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89526",
+        "Title": "Update OIDC test fixture",
+        "Created At": "2022-08-23T05:31:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76520",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89322",
+        "Title": "Fixing a version check for master stability functionality",
+        "Created At": "2022-08-12T16:42:09Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76462",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89322",
+        "Title": "Fixing a version check for master stability functionality",
+        "Created At": "2022-08-12T16:42:09Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76434",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/76359",
+        "Title": "[7.x] Fix IndexSnapshotsServiceIT and SnapshotsRecoveryPlannerServiceTests",
+        "Created At": "2022-08-12T14:50:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/82015",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/92514",
+        "Title": "Avoiding geoip downloader race conditions",
+        "Created At": "2022-12-21T22:33:12Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76276",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/76277",
+        "Title": "SQL: Fix nested ORDER BY",
+        "Created At": "2022-08-09T15:39:05Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76235",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89196",
+        "Title": "Buffer H3Polygon2D bounding boxes to avoid edge precision issues",
+        "Created At": "2022-08-09T11:03:15Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/59739",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/59756",
+        "Title": "[7.9] Fix handling of final pipelines when destination is changed",
+        "Created At": "2021-07-16T17:59:12Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/59378",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
+        "Created At": "2021-07-12T21:11:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/59376",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
+        "Created At": "2021-07-12T21:11:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/57050",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/73298",
+        "Title": "Make sure to return total hits when field collapsing",
+        "Created At": "2021-05-20T20:31:19Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55995",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/55981",
+        "Title": "Fix input snapshotting for test tasks",
+        "Created At": "2021-04-29T20:31:36Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55836",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72341",
+        "Title": "Make feature reset API response more informative (#71240)",
+        "Created At": "2021-04-27T21:55:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55700",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72185",
+        "Title": "Only delegate test events of current test run",
+        "Created At": "2021-04-23T21:47:05Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55578",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72063",
+        "Title": "Fix wildcard intervals when prefixes are indexed.",
+        "Created At": "2021-04-22T06:47:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55421",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55417",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55366",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54938",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71448",
+        "Title": "[Tests] Ignore all indices when testing global state for snapshot and restore (#71324)",
+        "Created At": "2021-04-08T02:51:37Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54547",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71156",
+        "Title": "Fix setup code in GeoIpCliTests",
+        "Created At": "2021-03-31T21:51:07Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54053",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70767",
+        "Title": "[7.12] Accept any type in after in composite aggs if the field is unmapped (#70518)",
+        "Created At": "2021-03-23T16:11:56Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54043",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70767",
+        "Title": "[7.12] Accept any type in after in composite aggs if the field is unmapped (#70518)",
+        "Created At": "2021-03-23T16:11:56Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/53527",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70351",
+        "Title": "[7.12] Fix failing SetProcessorTests.testCopyFromOtherField test (#70150)",
+        "Created At": "2021-03-12T12:29:06Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52811",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69586",
+        "Title": "Remove deprecated jcenter repository from our build (#69517) (7.x backport)",
+        "Created At": "2021-02-25T07:47:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52691",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69404",
+        "Title": "[Backport] Fix string replacement in certutil http test",
+        "Created At": "2021-02-23T05:37:53Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52579",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69282",
+        "Title": "[ML] Fix logic for moving .ml-state-write alias from legacy to new",
+        "Created At": "2021-02-19T15:11:14Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52347",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68951",
+        "Title": "[Backport 7.11]  Add a smoke test for security realms",
+        "Created At": "2021-02-12T13:31:47Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52344",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68951",
+        "Title": "[Backport 7.11]  Add a smoke test for security realms",
+        "Created At": "2021-02-12T13:31:47Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52217",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68835",
+        "Title": "Regroup searchable snapshot stats by file extension",
+        "Created At": "2021-02-10T15:23:43Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52211",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68823",
+        "Title": "Use JNA to Speed up Snapshot Cache File Creation (#68687)",
+        "Created At": "2021-02-10T13:33:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52141",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68741",
+        "Title": "[7.x] Unmute more memory-related tests after the fix in #68542",
+        "Created At": "2021-02-09T12:06:36Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52115",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68710",
+        "Title": "[7.x] Enable `BooleanNegation` checkstyle rule always",
+        "Created At": "2021-02-08T20:38:54Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52032",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68615",
+        "Title": "Revert \"Remove aggregation's postCollect phase",
+        "Created At": "2021-02-05T22:30:37Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51845",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68416",
+        "Title": "Replace NOT operator with explicit `false` check - part 6",
+        "Created At": "2021-02-02T21:03:07Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51660",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68191",
+        "Title": "fixes #33434",
+        "Created At": "2021-01-29T05:20:53Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51536",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68048",
+        "Title": "Extend probe handshake timeout if security enabled",
+        "Created At": "2021-01-27T13:16:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51518",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68023",
+        "Title": "Fix SnapshotStatus Transport Action Doing IO on Transport Thread",
+        "Created At": "2021-01-26T19:40:32Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52886",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69632",
+        "Title": "Speed up terms agg when alone (backport #69377)",
+        "Created At": "2021-02-25T19:58:48Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44787",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60095",
+        "Title": "Fix Test Failure in testConcurrentlyChangeRepositoryContentsInBwCMode",
+        "Created At": "2020-07-22T21:41:08Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/21519",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/27355",
+        "Title": "Updated the keys in the percentile aggregation tests to be strings",
+        "Created At": "2017-11-12T17:47:12Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44862",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60172",
+        "Title": "Let `isInetAddress` utility understand the scope ID on ipv6",
+        "Created At": "2020-07-24T15:15:03Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44918",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60172",
+        "Title": "Let `isInetAddress` utility understand the scope ID on ipv6",
+        "Created At": "2020-07-24T15:15:03Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33972",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/46971",
+        "Title": "Fix Bug in Snapshot Status Response Timestamps (#46919)",
+        "Created At": "2019-09-23T10:56:47Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44932",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60256",
+        "Title": "[7.x] Add aggregation list to node info (#60074)",
+        "Created At": "2020-07-27T22:15:24Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44936",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60256",
+        "Title": "[7.x] Add aggregation list to node info (#60074)",
+        "Created At": "2020-07-27T22:15:24Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/66967",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/82233",
+        "Title": "[8.0] Fix Watcher testWatcherWithApiKey (#82136)",
+        "Created At": "2022-01-04T20:44:28Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45852",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61411",
+        "Title": "Include authentication type for the authenticate response (#61247)",
+        "Created At": "2020-08-21T12:22:18Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45892",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61428",
+        "Title": "EQL: Replace SearchHit in response with Event",
+        "Created At": "2020-08-21T15:49:09Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45897",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61428",
+        "Title": "EQL: Replace SearchHit in response with Event",
+        "Created At": "2020-08-21T15:49:09Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45966",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61508",
+        "Title": "Fixes casting in constant folding",
+        "Created At": "2020-08-24T22:13:39Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/46147",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61671",
+        "Title": "Preserve grok pattern ordering and add sort option",
+        "Created At": "2020-08-28T11:46:10Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/40046",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/53543",
+        "Title": "[Backport] Avoid NPE in set_security_user without security",
+        "Created At": "2020-03-13T13:29:50Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/48221",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/63840",
+        "Title": "QL: Remove filter from field_caps requests",
+        "Created At": "2020-10-16T17:47:28Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/48378",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/64043",
+        "Title": "[ML] Fix rare ML daily maintenance test race condition",
+        "Created At": "2020-10-22T08:59:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/80762",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/91618",
+        "Title": "Always test explicit names with name predicate when ignore unavailable ",
+        "Created At": "2022-11-16T14:59:33Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/80231",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/91255",
+        "Title": "Skip prevoting if single-node discovery",
+        "Created At": "2022-11-02T16:41:53Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/49747",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/65659",
+        "Title": "Fix NPE in ClusterInfoService (#65654)",
+        "Created At": "2020-12-01T08:42:52Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/50207",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/66245",
+        "Title": "Fix SearchableSnapshotRelocationIntegTests (#66234)",
+        "Created At": "2020-12-14T08:53:01Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/50294",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/66470",
+        "Title": "Adjust port ranges for tests and test fixtures",
+        "Created At": "2020-12-16T19:56:25Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10717",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/17902",
+        "Title": "add ability to disable ability to override values of existing fields in set processor",
+        "Created At": "2016-04-20T20:59:06Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76051",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89085",
+        "Title": "[8.4] Fix failing test `RollupActionSingleNodeTests` `testCannotRollupToExistingIndex`  (#89025)",
+        "Created At": "2022-08-03T14:47:11Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10569",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/17651",
+        "Title": "Fix EC2 Discovery settings",
+        "Created At": "2016-04-11T13:46:20Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52183",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68799",
+        "Title": "Ensure resp handlers are exec on configured thread",
+        "Created At": "2021-02-10T05:47:11Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/13050",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/20082",
+        "Title": "Remove minimum master nodes bootstrap check",
+        "Created At": "2016-08-19T17:03:49Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/66848",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/82119",
+        "Title": "Fix TimeSeriesMetricsIT test",
+        "Created At": "2021-12-29T01:48:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/32903",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/45643",
+        "Title": "fix a grammar/context issue",
+        "Created At": "2019-08-16T00:59:25Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33131",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/45929",
+        "Title": "Fix SnapshotStatusApisIT",
+        "Created At": "2019-08-23T19:53:39Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33144",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/45929",
+        "Title": "Fix SnapshotStatusApisIT",
+        "Created At": "2019-08-23T19:53:39Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33261",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/46165",
+        "Title": "[7.4][ML] Regression dependent variable must be numeric (#46072)",
+        "Created At": "2019-08-30T07:00:09Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33328",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/46208",
+        "Title": "Cleanup BlobStoreRepository Abort and Failure Handling",
+        "Created At": "2019-08-31T20:25:15Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/16540",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/23015",
+        "Title": "Move search request validations to SearchRequest#validate",
+        "Created At": "2017-02-07T14:12:13Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/17912",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/24241",
+        "Title": "Provide informative error message in case of unknown suggestion context.",
+        "Created At": "2017-04-21T11:21:28Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/14303",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/21123",
+        "Title": "Add correct Content-Length on HEAD requests",
+        "Created At": "2016-10-26T01:51:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/73249",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/86931",
+        "Title": "Upgrade to lucene 9.2.0-RC2 snapshot",
+        "Created At": "2022-05-19T15:37:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/69185",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/84164",
+        "Title": "Fix GeoGridTilerTestCase",
+        "Created At": "2022-02-18T09:37:54Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/69259",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/84168",
+        "Title": "Upgrade hppc to 0.9.1",
+        "Created At": "2022-02-18T16:42:15Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/19310",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/25592",
+        "Title": "Engine - Do not store operations that are not index into lucene in the translog (5.x only)",
+        "Created At": "2017-07-07T09:29:55Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/16017",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/22610",
+        "Title": "Fix thread safety of Stempel's token filter factory",
+        "Created At": "2017-01-13T11:30:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/68823",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/83771",
+        "Title": "[WIP] Add DownSampleAction to downsampling time_series index",
+        "Created At": "2022-02-10T08:58:05Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10918",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/18074",
+        "Title": "add ability to specify multiple grok patterns",
+        "Created At": "2016-04-29T21:13:50Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/34575",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/48223",
+        "Title": "Fix TreeNode's Builder wrong nodeIndex assignment",
+        "Created At": "2019-10-18T02:15:18Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/60800",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/76205",
+        "Title": "Script: ulong support via Fields API",
+        "Created At": "2021-08-06T01:54:11Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51101",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/67573",
+        "Title": "Add deprecation warnings handling to GET /index requests in tests.",
+        "Created At": "2021-01-15T13:37:18Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/27144",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/34940",
+        "Title": "SQL: Add `CAST` and `CONVERT` to `SHOW FUNCTIONS`",
+        "Created At": "2018-10-26T23:34:24Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55424",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/80062",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/91181",
+        "Title": "Fix duplicate entries in AutoFollowCoordinator.recentAutoFollowErrors",
+        "Created At": "2022-10-28T13:58:21Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/64751",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/80462",
+        "Title": "Prepopulate the system's security manager setters map.",
+        "Created At": "2021-11-06T10:55:20Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10997",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/18117",
+        "Title": "Grammar fix in transport exception",
+        "Created At": "2016-05-03T16:47:29Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/32681",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/45265",
+        "Title": "Refactor cluster privileges and cluster permission",
+        "Created At": "2019-08-07T00:08:19Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/23976",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/29418",
+        "Title": "Fix overflow error in parsing of long geohashes",
+        "Created At": "2018-04-06T20:07:25Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/65553",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/81074",
+        "Title": "[ML] Allow datafeed start with remote indices despite local index pat\u2026",
+        "Created At": "2021-11-26T10:25:43Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/61135",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/76520",
+        "Title": "HLRC support for query API key API",
+        "Created At": "2021-08-14T05:10:06Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/67843",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/82895",
+        "Title": "Port fix to ccs-rolling-upgrade-remote-cluster",
+        "Created At": "2022-01-20T20:49:10Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/74715",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/88191",
+        "Title": "Fix RandomSamplerIT#testRandomSamplerHistogram test input",
+        "Created At": "2022-06-29T18:53:52Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10844",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/10917",
+        "Title": "Fixes Infinite values return from geo_bounds with non-zero bucket-ordinals",
+        "Created At": ""
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/25206",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/31306",
+        "Title": "move security ingest processors to a sub ingest directory",
+        "Created At": "2018-06-13T17:44:55Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/71517",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/85764",
+        "Title": "Remove xshare shell logic",
+        "Created At": "2022-04-08T14:10:48Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44390",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/59576",
+        "Title": "Fix TODO about Spurious FAILED Snapshots (#58994)",
+        "Created At": "2020-07-14T22:18:56Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30358",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/41784",
+        "Title": "Closed index replica allocation",
+        "Created At": "2019-05-03T09:20:06Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/65164",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/80794",
+        "Title": "Ensure LIBFFI_TMPDIR is exported by init script",
+        "Created At": "2021-11-17T14:22:06Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30442",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/41923",
+        "Title": "SQL: Improve error messages for geo_shape",
+        "Created At": "2019-05-07T22:28:48Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/36561",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/50141",
+        "Title": "\"CONTAINS\" support for BKD-backed geo_shape and shape fields",
+        "Created At": "2019-12-12T14:09:49Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52702",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69425",
+        "Title": "Fix failing data stream snapshot test",
+        "Created At": "2021-02-23T10:45:05Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/65486",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/81032",
+        "Title": "SQL: Fix rearranging columns in PIVOT queries",
+        "Created At": "2021-11-25T08:34:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30947",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42678",
+        "Title": "Add security test testing SLM cluster privileges",
+        "Created At": "2019-05-29T17:47:50Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30466",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/41959",
+        "Title": "Fix max_bucket test by specifying number of shards",
+        "Created At": "2019-05-08T16:32:54Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/49210",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/65041",
+        "Title": "EQL: Re-enable correctness tests",
+        "Created At": "2020-11-14T12:32:31Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30526",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42096",
+        "Title": "Bug fix to allow access to top level params in reduce script",
+        "Created At": "2019-05-10T22:05:24Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/66684",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/81979",
+        "Title": "Fix task manager tests, use reserved port range",
+        "Created At": "2021-12-21T10:23:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/65290",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/80887",
+        "Title": "Strip index blocks from settings for reindex targets",
+        "Created At": "2021-11-19T20:52:14Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/38917",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/52376",
+        "Title": "[7.6] ILM fix the init step to actually be retryable (#52076)",
+        "Created At": "2020-02-14T17:40:27Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30558",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42129",
+        "Title": "Fix grammar problem",
+        "Created At": "2019-05-13T21:59:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30620",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42150",
+        "Title": "Enforce transport TLS on Basic with Security",
+        "Created At": "2019-05-15T04:48:07Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30743",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42203",
+        "Title": "Move CORS handling to server package",
+        "Created At": "2019-05-17T20:01:36Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/12729",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/19846",
+        "Title": "Reduce GeoDistance Insanity",
+        "Created At": "2016-08-06T03:54:26Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/37785",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/51368",
+        "Title": "[Transform] avoid mapping problems with index templates",
+        "Created At": "2020-01-23T18:50:34Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/46619",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/62234",
+        "Title": "Fix log4j config for :qa:os tests",
+        "Created At": "2020-09-10T14:35:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30824",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42454",
+        "Title": "Cluster state from API should always have a master",
+        "Created At": "2019-05-23T16:43:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30953",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42678",
+        "Title": "Add security test testing SLM cluster privileges",
+        "Created At": "2019-05-29T17:47:50Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/61955",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/77281",
+        "Title": "Fix randomization in MlNodeShutdownIT",
+        "Created At": "2021-09-03T22:59:31Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/31123",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42909",
+        "Title": "Fix hang in test for \"too many fields\" dep. checks",
+        "Created At": "2019-06-05T23:19:48Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/31238",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/43063",
+        "Title": "[7.x] Fixing handling of auto slices in bulk scroll requests (#43050)",
+        "Created At": "2019-06-10T18:39:26Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/31998",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/44265",
+        "Title": "Fix InternalTestCluster StopRandomNode Assertion (#44258)",
+        "Created At": "2019-07-12T09:05:47Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/58447",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/74490",
+        "Title": "[7.x] Fix testPersistentCacheCleanUpAfterRelocation",
+        "Created At": "2021-06-23T13:27:08Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/46023",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61578",
+        "Title": "[ML] adds new n_gram_encoding custom processor",
+        "Created At": "2020-08-26T12:22:06Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/32073",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/44402",
+        "Title": "[Backport 7.2] Switch WriteActionsTests.testBulk to use hamcrest",
+        "Created At": "2019-07-16T05:37:55Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/20770",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/26896",
+        "Title": "[TEST] Added skipping the `headers` feature to the Bulk REST YAML test",
+        "Created At": "2017-10-05T16:42:05Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/32116",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/44468",
+        "Title": "Make peer recovery send file chunks async",
+        "Created At": "2019-07-17T01:20:00Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/32781",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/45419",
+        "Title": "Simplify and Optimize RestController Slightly",
+        "Created At": "2019-08-10T09:53:30Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/36197",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/49815",
+        "Title": "Scripting: add available languages & contexts API (#49652)",
+        "Created At": "2019-12-04T02:08:13Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/79213",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90925",
+        "Title": "Fix path to compatible x-pack tests",
+        "Created At": "2022-10-14T18:01:01Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/39411",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/52831",
+        "Title": "Fix GCS Mock Range Downloads (#52804)",
+        "Created At": "2020-02-26T16:07:25Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/38399",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/51911",
+        "Title": "Fix the type for \"slices\" in the Reindex and Update By Query REST API specification",
+        "Created At": "2020-02-05T08:55:25Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/39542",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/52973",
+        "Title": "Settings: AffixSettings as validator dependencies",
+        "Created At": "2020-02-28T22:02:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/41776",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/56057",
+        "Title": "SQL: SubSelect unresolved bugfix (#55956)",
+        "Created At": "2020-04-30T17:46:49Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/81747",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/92381",
+        "Title": "Revert back to S3 repository for ML snapshot artifacts",
+        "Created At": "2022-12-14T23:16:08Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/63287",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/78703",
+        "Title": "Changing test keytab to use aes256-cts-hmac-sha1-96 instead of des3-cbc-sha1-kd",
+        "Created At": "2021-10-05T14:58:34Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/46170",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61671",
+        "Title": "Preserve grok pattern ordering and add sort option",
+        "Created At": "2020-08-28T11:46:10Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/47499",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/63170",
+        "Title": "Fix querying a data stream name in _index field.",
+        "Created At": "2020-10-02T10:36:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/49888",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/65882",
+        "Title": "[7.x] [ML] fix running AutoscaleIT when build isn't a snapshot build (#65848)",
+        "Created At": "2020-12-04T12:20:58Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/21716",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/27460",
+        "Title": "Painless: Fix errors allowing void to be assigned to def.",
+        "Created At": "2017-11-20T20:22:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51943",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/51941",
+        "Title": "Fix GCS Mock Http Handler JDK Bug",
+        "Created At": "2021-02-04T13:34:51Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/50534",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/50549",
+        "Title": "Fix type conversion problem in Eclipse",
+        "Created At": ""
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/50635",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/66969",
+        "Title": "Support running FIPS tests with Oracle JVM (#66912)",
+        "Created At": "2021-01-05T03:09:48Z"
+    }
+]

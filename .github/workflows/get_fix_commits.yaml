@@ -1,0 +1,57 @@
+name: Get Fix Commits
+
+on:
+  workflow_dispatch:
+      
+jobs:
+
+  list-json-files:
+    runs-on: ubuntu-latest
+
+    outputs:
+      json_files: ${{ steps.list-json-files.outputs.json_files }}
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4.1.6
+
+    - name: List JSON files
+      id: list-json-files
+      run: |
+        files=$(ls json/raw_data_v1/*.json | jq -R -s -c 'split("\n")[:-1]')
+        echo "json_files=$files" >> $GITHUB_OUTPUT
+
+  run-script:
+    needs: list-json-files
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        file: ${{fromJson(needs.list-json-files.outputs.json_files)}}
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4.1.6
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5.1.0
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pydriller
+        pip install requests
+
+    - name: Run PyDriller
+      run: |
+        python get_fix_commits.py ${{ matrix.file }}
+
+    - name: Commit and push
+      run: |
+        git config --global user.email "thiagogquinto.dev@gmail.com"
+        git config --global user.name "Thiago Quinto"
+        git pull 
+        git add json/with_fix_commits/*.json
+        git commit -m "Get Fix Commits"
+        git push

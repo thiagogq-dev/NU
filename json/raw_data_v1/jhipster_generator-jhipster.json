@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "jhipster/generator-jhipster",
+        "Target PR": "https://github.com/jhipster/generator-jhipster/pull/13765",
+        "Closest PR": "https://github.com/jhipster/generator-jhipster/pull/17690",
+        "Title": "chore(deps-dev): bump npm from 8.3.2 to 8.4.0 in /generators/common/templates",
+        "Created At": "2022-01-28T05:06:12Z"
+    }
+]

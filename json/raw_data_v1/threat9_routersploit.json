@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "threat9/routersploit",
+        "Target PR": "https://github.com/threat9/routersploit/pull/529",
+        "Closest PR": "https://github.com/threat9/routersploit/pull/609",
+        "Title": "Fixing wordlist creds parsing",
+        "Created At": "2019-08-31T12:16:49Z"
+    }
+]

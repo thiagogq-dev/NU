@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "apache/pinot",
+        "Target PR": "https://github.com/apache/pinot/pull/6774",
+        "Closest PR": "https://github.com/apache/pinot/pull/8511",
+        "Title": "bugfix: fixing the bug of missing dot to extract sub props from ingestion job and minion",
+        "Created At": "2022-04-11T23:52:56Z"
+    },
+    {
+        "repo_name": "apache/pinot",
+        "Target PR": "https://github.com/apache/pinot/pull/5888",
+        "Closest PR": "https://github.com/apache/pinot/pull/7316",
+        "Title": "add underscore to obj vars in IndexKey and IndexEntry",
+        "Created At": "2021-08-18T00:44:03Z"
+    }
+]
