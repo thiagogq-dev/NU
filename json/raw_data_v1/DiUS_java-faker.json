@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "DiUS/java-faker",
-        "Target PR": "https://github.com/DiUS/java-faker/pull/264",
-        "Closest PR": "https://github.com/DiUS/java-faker/pull/315",
-        "Title": "This PR fixes a potential issue with the decimalBetween function where the max value may be included",
-        "Created At": "2018-09-19T22:06:37Z"
-    }
-]
