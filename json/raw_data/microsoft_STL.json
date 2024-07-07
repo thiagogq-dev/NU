@@ -2,10 +2,10 @@
     {
         "repo_name": "microsoft/STL",
         "Target PR": "https://github.com/microsoft/STL/pull/2210",
-        "Target Commit SHA": "dc888f7d9fb7a4db8d3441f9e9bac2e0c6ecc4db",
         "Closest PR": "https://github.com/microsoft/STL/pull/3110",
         "Closest Commit SHA": null,
         "Title": "fix(#2900): in max result value coping moved value",
-        "Created At": "2022-09-17T10:12:29Z"
+        "Created At": "2022-09-17T10:12:29Z",
+        "fix_commit_hash": "dc888f7d9fb7a4db8d3441f9e9bac2e0c6ecc4db"
     }
 ]

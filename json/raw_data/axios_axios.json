@@ -2,10 +2,10 @@
     {
         "repo_name": "axios/axios",
         "Target PR": "https://github.com/axios/axios/pull/4066",
-        "Target Commit SHA": "547815d9fda524babf9e2b3e9f1648834cb44cb5",
         "Closest PR": "https://github.com/axios/axios/pull/4961",
         "Closest Commit SHA": "c4bf0a4afcac9a49e9b58d3ea64570110cba34f8",
         "Title": "Allow null indexes on formSerializer and paramsSerializer v0.x",
-        "Created At": "2022-09-15T13:30:19Z"
+        "Created At": "2022-09-15T13:30:19Z",
+        "fix_commit_hash": "547815d9fda524babf9e2b3e9f1648834cb44cb5"
     }
 ]

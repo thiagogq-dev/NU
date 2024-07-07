@@ -2,10 +2,10 @@
     {
         "repo_name": "ray-project/ray",
         "Target PR": "https://github.com/ray-project/ray/pull/14859",
-        "Target Commit SHA": "25ebefafc818d3215c0dbbff6f74a6529d73f6c2",
         "Closest PR": "https://github.com/ray-project/ray/pull/23401",
         "Closest Commit SHA": "0cd687cc19b8bf32d8aea33ef3f6035e30c65c0d",
         "Title": "[Nightly test] Fix job download retry",
-        "Created At": "2022-03-22T13:59:14Z"
+        "Created At": "2022-03-22T13:59:14Z",
+        "fix_commit_hash": "25ebefafc818d3215c0dbbff6f74a6529d73f6c2"
     }
 ]

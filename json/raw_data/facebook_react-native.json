@@ -2,37 +2,37 @@
     {
         "repo_name": "facebook/react-native",
         "Target PR": "https://github.com/facebook/react-native/pull/32744",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/facebook/react-native/pull/35624",
         "Closest Commit SHA": "c6fa6335971459158efc8bf094822547a4333235",
         "Title": "[LOCAL] properly support both libraries and use_frameworks",
-        "Created At": "2022-12-13T08:29:17Z"
+        "Created At": "2022-12-13T08:29:17Z",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "facebook/react-native",
         "Target PR": "https://github.com/facebook/react-native/pull/15733",
-        "Target Commit SHA": "40e8a5f685376300aa5365de4557cd395996b9a2",
         "Closest PR": "https://github.com/facebook/react-native/pull/20929",
         "Closest Commit SHA": "f06bf54d7f00db3e15601a345e30d3a969adfd96",
         "Title": "Fix crash on overlayColor usage",
-        "Created At": "2018-08-30T23:53:33Z"
+        "Created At": "2018-08-30T23:53:33Z",
+        "fix_commit_hash": "40e8a5f685376300aa5365de4557cd395996b9a2"
     },
     {
         "repo_name": "facebook/react-native",
         "Target PR": "https://github.com/facebook/react-native/pull/23520",
-        "Target Commit SHA": "a9c8e2c0789db5c4d3720d21563d4d135db41967",
         "Closest PR": "https://github.com/facebook/react-native/pull/28105",
         "Closest Commit SHA": "6f209a9f1748f50b2a389098d132371fe43072fe",
         "Title": "[InputAccessoryView] Fix backgroundColor typing.",
-        "Created At": "2020-02-18T10:53:09Z"
+        "Created At": "2020-02-18T10:53:09Z",
+        "fix_commit_hash": "a9c8e2c0789db5c4d3720d21563d4d135db41967"
     },
     {
         "repo_name": "facebook/react-native",
         "Target PR": "https://github.com/facebook/react-native/pull/18526",
-        "Target Commit SHA": "2fc8647f846d25affadce576dfeca977f0a1e21c",
         "Closest PR": "https://github.com/facebook/react-native/pull/24115",
         "Closest Commit SHA": "775553b7da8b86ea2a864aa8eb8869c4d7dc8a2a",
         "Title": "Update projectRoot in launchPackager.bat",
-        "Created At": "2019-03-23T18:01:48Z"
+        "Created At": "2019-03-23T18:01:48Z",
+        "fix_commit_hash": "2fc8647f846d25affadce576dfeca977f0a1e21c"
     }
 ]

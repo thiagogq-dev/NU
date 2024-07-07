@@ -2,10 +2,10 @@
     {
         "repo_name": "python/cpython",
         "Target PR": "https://github.com/python/cpython/pull/22572",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/python/cpython/pull/28748",
         "Closest Commit SHA": "7fef8476629775c790f522a073ab279887bd81f9",
         "Title": "bpo-45383: Inherit MetaClass from bases in FromSpec API",
-        "Created At": "2021-10-05T21:51:11Z"
+        "Created At": "2021-10-05T21:51:11Z",
+        "fix_commit_hash": null
     }
 ]

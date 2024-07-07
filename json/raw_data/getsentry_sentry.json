@@ -2,10 +2,10 @@
     {
         "repo_name": "getsentry/sentry",
         "Target PR": "https://github.com/getsentry/sentry/pull/4100",
-        "Target Commit SHA": "413d110b17dbd27ae223454b665f30070778a071",
         "Closest PR": "https://github.com/getsentry/sentry/pull/6075",
         "Closest Commit SHA": "799553ccd3c3093c9ac2f70b36f0b1c01d1f6ada",
         "Title": "fix(react): pass \"disabled\" prop to <Button>",
-        "Created At": "2017-09-08T20:57:53Z"
+        "Created At": "2017-09-08T20:57:53Z",
+        "fix_commit_hash": "413d110b17dbd27ae223454b665f30070778a071"
     }
 ]

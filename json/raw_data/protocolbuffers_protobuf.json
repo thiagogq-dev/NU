@@ -2,10 +2,10 @@
     {
         "repo_name": "protocolbuffers/protobuf",
         "Target PR": "https://github.com/protocolbuffers/protobuf/pull/9018",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/protocolbuffers/protobuf/pull/10649",
         "Closest Commit SHA": "f1a939fb69504ff4e1fe386978165faa37fb2979",
         "Title": "Add an objc_class_prefix for the proto2 syntax file used in conformance tests",
-        "Created At": "2022-09-23T18:01:14Z"
+        "Created At": "2022-09-23T18:01:14Z",
+        "fix_commit_hash": null
     }
 ]

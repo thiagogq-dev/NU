@@ -2,10 +2,10 @@
     {
         "repo_name": "DiUS/java-faker",
         "Target PR": "https://github.com/DiUS/java-faker/pull/264",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/DiUS/java-faker/pull/315",
         "Closest Commit SHA": null,
         "Title": "This PR fixes a potential issue with the decimalBetween function where the max value may be included",
-        "Created At": "2018-09-19T22:06:37Z"
+        "Created At": "2018-09-19T22:06:37Z",
+        "fix_commit_hash": null
     }
 ]

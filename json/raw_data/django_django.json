@@ -2,19 +2,19 @@
     {
         "repo_name": "django/django",
         "Target PR": "https://github.com/django/django/pull/5949",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/django/django/pull/7807",
         "Closest Commit SHA": null,
         "Title": "Fixed #23908 -- Always use DEFAULT_CONTENT_TYPE from global_settings \u2026",
-        "Created At": "2017-01-06T20:07:21Z"
+        "Created At": "2017-01-06T20:07:21Z",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "django/django",
         "Target PR": "https://github.com/django/django/pull/13199",
-        "Target Commit SHA": "331324ecce1330dce3dbd1713203cb9a42854ad7",
         "Closest PR": "https://github.com/django/django/pull/14647",
         "Closest Commit SHA": "56f9579105c324ff15250423bf9f8bdf1634cfb4",
         "Title": "Fixed #32655 -- Deprecated extra_tests argument for DiscoverRunner.build_suite()/run_tests().",
-        "Created At": "2021-07-15T22:20:33Z"
+        "Created At": "2021-07-15T22:20:33Z",
+        "fix_commit_hash": "331324ecce1330dce3dbd1713203cb9a42854ad7"
     }
 ]
