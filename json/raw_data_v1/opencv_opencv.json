@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "opencv/opencv",
-        "Target PR": "https://github.com/opencv/opencv/pull/1831",
-        "Closest PR": "https://github.com/opencv/opencv/pull/3429",
-        "Title": "Fix debug build broken issue.",
-        "Created At": "2014-11-17T05:19:25Z"
-    }
-]

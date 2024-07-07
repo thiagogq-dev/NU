@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "dotnet/aspnetcore",
+        "Target PR": "https://github.com/dotnet/aspnetcore/pull/34997",
+        "Target Commit SHA": "4216ec2bc49fc6962c4bcfeaebd64fa4f485c21c",
+        "Closest PR": "https://github.com/dotnet/aspnetcore/pull/43072",
+        "Closest Commit SHA": "7a30a417cd8b8b1b934cc3dedcc5d866b81ca281",
+        "Title": "[main] Update dependencies from dotnet/runtime",
+        "Created At": "2022-08-03T12:08:46Z"
+    }
+]

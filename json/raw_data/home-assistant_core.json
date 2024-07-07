@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/31510",
+        "Target Commit SHA": "8b4bd95fc59976ea9e86389f01eae2514106111f",
+        "Closest PR": "https://github.com/home-assistant/core/pull/46023",
+        "Closest Commit SHA": "e4b987a64291c1246ea037c147c523b40dceba81",
+        "Title": "2021.2.1",
+        "Created At": "2021-02-04T23:42:36Z"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/9685",
+        "Target Commit SHA": "75f902f57e320983c5c4862dc694fd9de01728f1",
+        "Closest PR": "https://github.com/home-assistant/core/pull/17123",
+        "Closest Commit SHA": null,
+        "Title": "WIP: Add config entry and device registry entry for SimpliSafe",
+        "Created At": "2018-10-04T03:24:13Z"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/18714",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/home-assistant/core/pull/29079",
+        "Closest Commit SHA": null,
+        "Title": "Add flux_led wait method",
+        "Created At": "2019-11-25T21:32:11Z"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/19484",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/home-assistant/core/pull/30096",
+        "Closest Commit SHA": "3e7699b886e393778fec7041599833d503929b3b",
+        "Title": "0.103.3",
+        "Created At": "2019-12-20T14:17:58Z"
+    }
+]

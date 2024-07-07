@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "libgit2/libgit2",
-        "Target PR": "https://github.com/libgit2/libgit2/pull/4418",
-        "Closest PR": "https://github.com/libgit2/libgit2/pull/4891",
-        "Title": "refs: add support for core.logAllRefUpdates=always",
-        "Created At": "2018-11-17T16:56:27Z"
-    }
-]

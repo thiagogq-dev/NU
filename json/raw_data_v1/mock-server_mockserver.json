@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "mock-server/mockserver",
-        "Target PR": "https://github.com/mock-server/mockserver/pull/555",
-        "Closest PR": "https://github.com/mock-server/mockserver/pull/673",
-        "Title": "Adding global thread-safety to javascript process for local variables defined without keyword var",
-        "Created At": "2019-09-29T17:51:17Z"
-    }
-]

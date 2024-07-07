@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "h2database/h2database",
-        "Target PR": "https://github.com/h2database/h2database/pull/1784",
-        "Closest PR": "https://github.com/h2database/h2database/pull/1772",
-        "Title": "Fix newlines in test scripts",
-        "Created At": ""
-    }
-]

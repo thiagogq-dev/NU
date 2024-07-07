@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "keycloak/keycloak",
-        "Target PR": "https://github.com/keycloak/keycloak/pull/5766",
-        "Closest PR": "https://github.com/keycloak/keycloak/pull/6558",
-        "Title": "[KEYCLOAK-12254] Fix re-evaluation of conditional flow",
-        "Created At": "2019-11-29T14:12:03Z"
-    }
-]

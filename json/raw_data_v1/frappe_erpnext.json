@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "frappe/erpnext",
-        "Target PR": "https://github.com/frappe/erpnext/pull/22569",
-        "Closest PR": "https://github.com/frappe/erpnext/pull/26310",
-        "Title": "fix: Update Ewaybill Tool Version",
-        "Created At": "2021-07-03T07:25:27Z"
-    }
-]

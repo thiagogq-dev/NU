@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "elastic/elasticsearch-py",
-        "Target PR": "https://github.com/elastic/elasticsearch-py/pull/1702",
-        "Closest PR": "https://github.com/elastic/elasticsearch-py/pull/2048",
-        "Title": "[8.3] Fix Incorrect example of custom JsonSerializer",
-        "Created At": "2022-08-22T10:07:32Z"
-    }
-]

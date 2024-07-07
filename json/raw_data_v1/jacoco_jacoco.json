@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "jacoco/jacoco",
-        "Target PR": "https://github.com/jacoco/jacoco/pull/952",
-        "Closest PR": "https://github.com/jacoco/jacoco/pull/1091",
-        "Title": "Use Ant 1.9.15",
-        "Created At": "2020-09-14T18:21:50Z"
-    }
-]

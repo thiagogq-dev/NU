@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "cupy/cupy",
-        "Target PR": "https://github.com/cupy/cupy/pull/959",
-        "Closest PR": "https://github.com/cupy/cupy/pull/2036",
-        "Title": "Fix random generator seed type",
-        "Created At": "2019-02-18T11:12:12Z"
-    }
-]

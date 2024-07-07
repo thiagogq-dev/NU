@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "runelite/runelite",
-        "Target PR": "https://github.com/runelite/runelite/pull/11058",
-        "Closest PR": "https://github.com/runelite/runelite/pull/13330",
-        "Title": "hiscore: Fix lookups on despawned players",
-        "Created At": "2021-03-12T02:30:21Z"
-    }
-]

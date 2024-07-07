@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "getsentry/sentry",
-        "Target PR": "https://github.com/getsentry/sentry/pull/4100",
-        "Closest PR": "https://github.com/getsentry/sentry/pull/6075",
-        "Title": "fix(react): pass \"disabled\" prop to <Button>",
-        "Created At": "2017-09-08T20:57:53Z"
-    }
-]

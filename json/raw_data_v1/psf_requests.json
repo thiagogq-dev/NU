@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "psf/requests",
-        "Target PR": "https://github.com/psf/requests/pull/582",
-        "Closest PR": "https://github.com/psf/requests/pull/1343",
-        "Title": "Refactor merge_kwargs",
-        "Created At": "2013-05-02T17:03:42Z"
-    }
-]

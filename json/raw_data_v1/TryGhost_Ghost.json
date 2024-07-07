@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "TryGhost/Ghost",
-        "Target PR": "https://github.com/TryGhost/Ghost/pull/1729",
-        "Closest PR": "https://github.com/TryGhost/Ghost/pull/4688",
-        "Title": "Add tests to verify db version hasn't changed",
-        "Created At": "2014-12-20T10:24:45Z"
-    }
-]

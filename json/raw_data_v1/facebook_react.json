@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "facebook/react",
-        "Target PR": "https://github.com/facebook/react/pull/22593",
-        "Closest PR": "https://github.com/facebook/react/pull/25512",
-        "Title": "[useEvent] Lint for presence of useEvent functions in dependency lists",
-        "Created At": "2022-10-19T16:58:10Z"
-    }
-]

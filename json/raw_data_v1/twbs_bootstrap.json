@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "twbs/bootstrap",
-        "Target PR": "https://github.com/twbs/bootstrap/pull/33571",
-        "Closest PR": "https://github.com/twbs/bootstrap/pull/36126",
-        "Title": "Use the `border-color` property instead of the CSS variable in border color utilities",
-        "Created At": "2022-04-07T00:36:27Z"
-    }
-]

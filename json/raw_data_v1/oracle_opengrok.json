@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "oracle/opengrok",
-        "Target PR": "https://github.com/oracle/opengrok/pull/3399",
-        "Closest PR": "https://github.com/oracle/opengrok/pull/3833",
-        "Title": "lucene 9.1.0",
-        "Created At": "2021-12-09T12:34:44Z"
-    }
-]

@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "vercel/next.js",
+        "Target PR": "https://github.com/vercel/next.js/pull/31867",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/vercel/next.js/pull/43386",
+        "Closest Commit SHA": "eaaa193751f421c19eaaad183831f5450702fe46",
+        "Title": "Always transform styled-jsx for rsc and error with client-only condition",
+        "Created At": "2022-11-25T15:44:09Z"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "Target PR": "https://github.com/vercel/next.js/pull/11068",
+        "Target Commit SHA": "4cac93a75ea661973bf15aaaf5cdce1e185c279a",
+        "Closest PR": "https://github.com/vercel/next.js/pull/23021",
+        "Closest Commit SHA": "c1b2b3f91fd8b858e76353a631c7890a95db6875",
+        "Title": "Add an example for styled-jsx with content security policy",
+        "Created At": "2021-03-12T17:16:28Z"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "Target PR": "https://github.com/vercel/next.js/pull/7896",
+        "Target Commit SHA": "3ee5ec44127834010c0a421c4e5c867629e078e5",
+        "Closest PR": "https://github.com/vercel/next.js/pull/15049",
+        "Closest Commit SHA": "fcd03091b4bb6e8d1cf0b7e0360f5992b37ebdb8",
+        "Title": "Fix:  Invalid flag provided to next build results in UnhandledPromiseRejectionWarning",
+        "Created At": "2020-07-10T09:15:03Z"
+    }
+]

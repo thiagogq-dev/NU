@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "netdata/netdata",
-        "Target PR": "https://github.com/netdata/netdata/pull/5956",
-        "Closest PR": "https://github.com/netdata/netdata/pull/8880",
-        "Title": "Update Running-behind-nginx.md",
-        "Created At": "2020-05-02T19:48:12Z"
-    }
-]

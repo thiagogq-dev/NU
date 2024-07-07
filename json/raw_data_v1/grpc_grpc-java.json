@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "grpc/grpc-java",
-        "Target PR": "https://github.com/grpc/grpc-java/pull/7822",
-        "Closest PR": "https://github.com/grpc/grpc-java/pull/8847",
-        "Title": "stub: Have ClientCalls.ThreadlessExecutor reject Runnables after end \u2026",
-        "Created At": "2022-01-19T01:10:12Z"
-    }
-]

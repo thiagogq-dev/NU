@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "nvbn/thefuck",
+        "Target PR": "https://github.com/nvbn/thefuck/pull/907",
+        "Target Commit SHA": "201c01fc74d479d9e418d32c92a88b50b27728a7",
+        "Closest PR": "https://github.com/nvbn/thefuck/pull/1072",
+        "Closest Commit SHA": "6975d30818792f1b37de702fc93c66023c4c50d5",
+        "Title": "#960: Improve pacman_invalid_option rule",
+        "Created At": "2020-03-29T20:58:10Z"
+    }
+]

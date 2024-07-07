@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "grpc/grpc",
-        "Target PR": "https://github.com/grpc/grpc/pull/13022",
-        "Closest PR": "https://github.com/grpc/grpc/pull/16889",
-        "Title": "Repro mem corruption bug",
-        "Created At": "2018-10-15T19:15:36Z"
-    }
-]

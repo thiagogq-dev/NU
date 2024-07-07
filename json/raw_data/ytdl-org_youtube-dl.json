@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "ytdl-org/youtube-dl",
+        "Target PR": "https://github.com/ytdl-org/youtube-dl/pull/8142",
+        "Target Commit SHA": "032f2326268ae810343c5a083e048f361f7a2074",
+        "Closest PR": "https://github.com/ytdl-org/youtube-dl/pull/11596",
+        "Closest Commit SHA": "9d1f4d136492b4e48c0a40e1c984c4aae978f208",
+        "Title": "[Beam] Add new extractor",
+        "Created At": "2017-01-03T23:02:12Z"
+    }
+]

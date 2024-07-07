@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "QuantConnect/Lean",
-        "Target PR": "https://github.com/QuantConnect/Lean/pull/1373",
-        "Closest PR": "https://github.com/QuantConnect/Lean/pull/2733",
-        "Title": "BuyingPowerModel.GetInitialMarginRequiredForOrder will receive a Parameters object",
-        "Created At": "2018-12-04T20:57:40Z"
-    }
-]
