@@ -1,0 +1,1 @@
+[{"repo_name": "koajs/koa", "Target PR": "https://github.com/koajs/koa/pull/1320", "Closest PR": "https://github.com/koajs/koa/pull/1430", "Closest Commit SHA": null, "Title": "fix: for-in loop is missing hasOwnProperty check", "Created At": "2020-01-07T07:06:21Z", "fix_commit_hash": null, "inducing_commit_hash_pyszz": "-"}]
