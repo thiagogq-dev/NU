@@ -1,0 +1,54 @@
+[
+    {
+        "repo_name": "crate/crate",
+        "Target PR": "https://github.com/crate/crate/pull/11842",
+        "Closest PR": "https://github.com/crate/crate/pull/13165",
+        "Title": "tests: Fix flaky testTransientErrorsDuringRecoveryAreRetried (backport #13164)",
+        "Created At": "2022-10-18T15:38:47Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "28e9e9b1323213f0270fc6e0061156beb441e665",
+        "closest_inducing_commit_hash_pyszz": [
+            "208fc2bdc79def94f58d17fd16d84e6a514e651c"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "8acb044a7cdbab048b045854d0466fccc2492550",
+            "41d3c770bd0e16b9c3ed14be7a4df8b8e919c278",
+            "4b9a0f0ae36ff45ad2dfad92847f451e78e74d58",
+            "2c09fef429a2de2f8531526f1db4a8c0e3895937",
+            "95b5cadc39ec26a4a1e53df500ccf79367e8f647",
+            "ab6c8d3fade977e1ef4567b7f9186b40c48fd1d9",
+            "993f11462ee12cb66f27b4e18a46bed7bff4837e",
+            "da06dceeb3636650f6afcc6f37c54cd2c33ae275",
+            "c0eca7439bb1947109f5de49c356df0f9085dabd",
+            "24ecb291a0fdb5a43222e99c6cb18ea2987c9e28",
+            "6f143813c908815b9cba39c81559a64b959c6ea3",
+            "ab768a30fe9b71946e3a6d6647f069b69a23cd4f",
+            "605b16f034465ed39a042afb8e91d82c092aa52f",
+            "111ffe166e523a4a5cd3278975772ce365112b64",
+            "ef8a262d2daa217dccb37b3c1c6a735662f5bf26",
+            "6f9d72ac44d36cbfff50e8a0813daff7369f600c",
+            "481b55a61bc79618b27c4e93a38be1d41a27f3d2",
+            "176c8a2d85d14a695274ba0f849c2cea0e875f0c",
+            "959aba59c5a040c3436347f9c57227ca3355a222",
+            "1c752a54a4b48248deb4e46eda185ffb2e654fa7",
+            "efbaf5920d2b5596ce12c47dc19a56339ab0faf5",
+            "e146e883aa50c115fff6c05419a526829be8af15",
+            "07a59edb55a103acf4969e317c22dfa9fe62f552",
+            "54074fab28aed90d14d2dfbc467b9b14679d5653",
+            "275d2bd870f8dbc3d70b8ca1b3e78ed80ddbadd2",
+            "3e7490b0fef082ed3cb8213c7a441129c60fb1ff",
+            "e4f164725bafe2df94da8918e7e0f37275137cd7",
+            "1f2f9c25fcb432ab4f1b66bd29b9c59a96015244",
+            "ef6f85a62cd7369beeeb808261943b6471ae5b51",
+            "d7b27a2107e360b08185fb6df81597b39470e3dc"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "208fc2bdc79def94f58d17fd16d84e6a514e651c"
+        ],
+        "closest_matched": [
+            "208fc2bdc79def94f58d17fd16d84e6a514e651c"
+        ]
+    }
+]
