@@ -1,0 +1,32 @@
+[
+    {
+        "repo_name": "apache/zookeeper",
+        "Target PR": "https://github.com/apache/zookeeper/pull/1530",
+        "Closest PR": "https://github.com/apache/zookeeper/pull/1773",
+        "Title": "ZOOKEEPER-4396: Read Key/trust store password from file",
+        "Created At": "2021-10-13T02:39:59Z",
+        "Target Commit SHA": "ea3042d5c4d17b7e645d07a73d0cb9e832d0e9f0",
+        "target_inducing_commit_hash_pyszz": [
+            "83cf0a93c37759334fab885c2010fa0b7d953f52"
+        ],
+        "Closest Commit SHA": "b2c1b5af36a196ca2e9080750d212aa1a0550f7c",
+        "closest_inducing_commit_hash_pyszz": [
+            "fed6cdad1e7a4fb83b568e8bf3ba3cf1da492db9"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "fe940cdd8fb23ba09684cefb73233d570f4a20fa",
+            "8173d34f1bb7c59fa401c3db1c0e42264fc48924",
+            "83cf0a93c37759334fab885c2010fa0b7d953f52"
+        ],
+        "target_matched": [
+            "83cf0a93c37759334fab885c2010fa0b7d953f52"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "fed6cdad1e7a4fb83b568e8bf3ba3cf1da492db9",
+            "03286f29d29f4c1d3496ce87d1441df91422220e"
+        ],
+        "closest_matched": [
+            "fed6cdad1e7a4fb83b568e8bf3ba3cf1da492db9"
+        ]
+    }
+]
