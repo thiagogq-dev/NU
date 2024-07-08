@@ -1,0 +1,61 @@
+[
+    {
+        "repo_name": "huggingface/transformers",
+        "Target PR": "https://github.com/huggingface/transformers/pull/10817",
+        "Closest PR": "https://github.com/huggingface/transformers/pull/16273",
+        "Title": "added type hints for Blenderbot and BlenderbotSmall (TF & PyTorch)",
+        "Created At": "2022-03-19T19:24:28Z",
+        "Target Commit SHA": "8fb4671811e4f7d907e693b7849d606338b423a4",
+        "target_inducing_commit_hash_pyszz": [
+            "dbfe3795147e1360b3afac53a9ee0e14374d2ea6"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "d4fc1eb4984ce51551a9bc2c7f923018cc36de0c"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "dbfe3795147e1360b3afac53a9ee0e14374d2ea6"
+        ],
+        "target_matched": [
+            "dbfe3795147e1360b3afac53a9ee0e14374d2ea6"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "f270b960d6b755d5355a0f193ba71f47131c86b8",
+            "d4fc1eb4984ce51551a9bc2c7f923018cc36de0c",
+            "78cda46f17548d8739c354a07b00b3f2996773c7"
+        ],
+        "closest_matched": [
+            "d4fc1eb4984ce51551a9bc2c7f923018cc36de0c"
+        ]
+    },
+    {
+        "repo_name": "huggingface/transformers",
+        "Target PR": "https://github.com/huggingface/transformers/pull/6494",
+        "Closest PR": "https://github.com/huggingface/transformers/pull/13128",
+        "Title": "Fix missing `seq_len` in `electra` model when `inputs_embeds` is used. ",
+        "Created At": "2021-08-14T22:09:04Z",
+        "Target Commit SHA": "9dbe4094f2ac2b27d9aa47a6326e8a3a3198f21c",
+        "target_inducing_commit_hash_pyszz": [
+            "eb613b566acb90120afd8d90bc3660a18c12f140"
+        ],
+        "Closest Commit SHA": "14e9d2954c3a7256a49a3e581ae25364c76f521e",
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [
+            "f6c0680d36236bd149e68ed2ee640acbcd2f09ef",
+            "dd9d483d03962fea127f59661f3ae6156e7a91d2",
+            "eb613b566acb90120afd8d90bc3660a18c12f140",
+            "0ae96ff8a7e2d371242452d81bee85da8df202f5",
+            "158e82e061c02fc2f1613adb7ac1d1cb6adae71c",
+            "7bc00569df137296e8e4d4eb3ff585c431771c30",
+            "fa84ae26d62c7ac2ad6dca18b2d8b12ab83bc900",
+            "2fd28d43630e1bd6af978c23707f59363fde7e27"
+        ],
+        "target_matched": [
+            "eb613b566acb90120afd8d90bc3660a18c12f140"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "af6e01c5bc39467f1e3ce47a2135fb1777af1db2"
+        ],
+        "closest_matched": []
+    }
+]
