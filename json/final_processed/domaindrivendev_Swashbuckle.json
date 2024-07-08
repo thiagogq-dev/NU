@@ -1,0 +1,57 @@
+[
+    {
+        "repo_name": "domaindrivendev/Swashbuckle.AspNetCore",
+        "Target PR": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/1620",
+        "Closest PR": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2083",
+        "Title": "Add continuous security analysis",
+        "Created At": "2021-04-09T12:02:57Z",
+        "Target Commit SHA": "4e7518b8d37d3fe024f6011c0bfbe8172ecd42bc",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "14f29bbeaea2990db49e8d1f7df71ea350ccd6de"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "a843e9ce65c2f2afe76205ad350d56c2260447bb",
+            "ede4566af2847394a3b467b6a34d45758610148f",
+            "95a304b2568d92f2185320c1f9ebc016dba98402",
+            "08617292e3e21fe70d6ee39c0c7c07cbfe0ae0a7",
+            "893aa299547207fc74455399ec4292bd8aa8902f",
+            "f4504eefe8cc89af8be191767384d4ad7496c357",
+            "3bdadb64b15ab22744285d7cc698a2e3a3d7ca57",
+            "14f29bbeaea2990db49e8d1f7df71ea350ccd6de",
+            "61d890c8dcefe292c8c4582670d24c8f6bf90ce7",
+            "b30ed7194f4486205a713379a911b7e03a9fb920",
+            "d88a5df146f3c2460feadb3c3abed979b353f5ff",
+            "76cc6664768a2f2fe22ed026a688287612383940",
+            "55ad6335c6430e12924ee9842cd48b30d2d25d53",
+            "31c561dc0381412e817a78ce9bc1ff86ade4e6f8",
+            "9c1aaaa18fee018ec96f7fae73f1cd633c9e9cd1",
+            "c0d28c7dd87b1abbba6903e3e71e8ad3347d46d2",
+            "98a7dfe0f7ca2aa66c6daa029c3987490bd1eb20",
+            "845d37ea84a669c43fc4226f686e91ff11ee2156",
+            "c3992a495d34b74766fbe8ce149d9ed9d26d32a2",
+            "c207be7c6ba61c20201674697b9be3e08aee26ae",
+            "4da16fef24f35e80da655849eddc6600f9963ce8",
+            "20cf2d04faa552771e488c0ca281a93ab787b5c1",
+            "d5cd28e3e89971a53723fa590197752eb754b8ec",
+            "ff61147fedb50bf5ed87249f3f8a132e1b303b80",
+            "276eb5c6d45244b62ef3f69d8817578d966fa419",
+            "45e0d570849598565e4ce219ccd6748a6463c749",
+            "d6c8d26db4e10172fc89650469a59daf7d7c5b97",
+            "a2893063ab98a088810c96457a1d61a4a35829e3",
+            "f0df66ef66878bd73a73bf6014319b81482f1c79",
+            "46d829dea3f16f08ee2566abc7a9e7909b680a69",
+            "d2df21d76671eff87ce34f141f55c737249f0e28",
+            "5836547c9a49570217344568b2f2282037bb5bdd",
+            "5d6bbf7faf0a61d40794adbc109ed6123975fb8b",
+            "5b80646d6e2742e3c0c01c538fbb41b2948fea42",
+            "3ea1b7a6752767f36686d0e0f0576e95d24c071f"
+        ],
+        "closest_matched": [
+            "14f29bbeaea2990db49e8d1f7df71ea350ccd6de"
+        ]
+    }
+]
