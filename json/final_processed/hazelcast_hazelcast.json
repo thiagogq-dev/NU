@@ -1,0 +1,33 @@
+[
+    {
+        "repo_name": "hazelcast/hazelcast",
+        "Target PR": "https://github.com/hazelcast/hazelcast/pull/13291",
+        "Closest PR": "https://github.com/hazelcast/hazelcast/pull/15167",
+        "Title": "Reduce resource usage for LockBasicDistributedTest",
+        "Created At": "2019-06-13T09:15:02Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "0316587ddea32e6702bd24b0c3fc15c553e47573",
+        "closest_inducing_commit_hash_pyszz": [
+            "2d8525f60efc85b1c8ebbede62e04e3620b552c5"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "a5ac31b163318f52765a6012ca59b25c3824e14e",
+            "f22ada92e8357479eebc9c6645217b1830437c01"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "b41eba7a580ef29a0025b62a2c145a0bc703855d",
+            "abf7d2328e734a084e2a28d18f67a18b2379566b",
+            "a8b2df650bfb5909b5800c1a600082433360bb64",
+            "768c490a33396e8f5d2b69d433d6683fb740c695",
+            "50606167516d8962707073ded6b3162ad4899e0c",
+            "89372bbb60e119bf07132a0b13345beae36d355e",
+            "2d8525f60efc85b1c8ebbede62e04e3620b552c5",
+            "9dede520d790d678e3f9c8016da943d10c33a54d"
+        ],
+        "closest_matched": [
+            "2d8525f60efc85b1c8ebbede62e04e3620b552c5"
+        ]
+    }
+]
