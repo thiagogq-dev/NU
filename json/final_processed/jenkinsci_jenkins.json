@@ -1,0 +1,71 @@
+[
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "Target PR": "https://github.com/jenkinsci/jenkins/pull/2753",
+        "Closest PR": "https://github.com/jenkinsci/jenkins/pull/3296",
+        "Title": "[JENKINS-49565] - Update Jenkins CLI to Mina SSHD Core 1.7.0",
+        "Created At": "2018-02-16T17:34:18Z",
+        "Target Commit SHA": "83232e6b8c8f3cb665461294b5a44a6476cf28d9",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "54431a11e60e518dfd49a00e00c0054b37b5ee31",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "Target PR": "https://github.com/jenkinsci/jenkins/pull/4399",
+        "Closest PR": "https://github.com/jenkinsci/jenkins/pull/5129",
+        "Title": "Bump jnr-posix from 3.0.45 to 3.1.4",
+        "Created At": "2020-12-16T21:05:21Z",
+        "Target Commit SHA": "a67f59aca560e5631567a9583a3db553ae77dcd5",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "884e4ddefefce28ce3bb03395852c3607351ec59",
+        "closest_inducing_commit_hash_pyszz": [
+            "a372716cc785b933fa756ddf730debbd8b6dc28c"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "a372716cc785b933fa756ddf730debbd8b6dc28c"
+        ],
+        "closest_matched": [
+            "a372716cc785b933fa756ddf730debbd8b6dc28c"
+        ]
+    },
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "Target PR": "https://github.com/jenkinsci/jenkins/pull/2441",
+        "Closest PR": "https://github.com/jenkinsci/jenkins/pull/2932",
+        "Title": "[JENKINS-44657] Move sub-job's buildsdir when outside of itemrootdir",
+        "Created At": "2017-06-27T11:11:40Z",
+        "Target Commit SHA": "e94c399139e405de3bd66372849751d8df02d80e",
+        "target_inducing_commit_hash_pyszz": [
+            "c69a0cd762f5576defd0bbc4fc038950f52ba106"
+        ],
+        "Closest Commit SHA": "3adfed4b06a7f525446ea80a0164a3bf2e889d1a",
+        "closest_inducing_commit_hash_pyszz": [
+            "52a1a1035fa71a2e023e93c083a626898bcb0d47"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "4c37ee59e7a251c5617d4952f5b09edab8e8c98c",
+            "0cc7d3f580199a721bc74136580680745948d79f",
+            "c69a0cd762f5576defd0bbc4fc038950f52ba106",
+            "b3f16489ad5f15c3e749ed066cf6b4251f6668c6",
+            "0801043992b716291ceed989708d328fe9ab34d8"
+        ],
+        "target_matched": [
+            "c69a0cd762f5576defd0bbc4fc038950f52ba106"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "52a1a1035fa71a2e023e93c083a626898bcb0d47",
+            "68d4d22fcff170501e5d91da5f5a35070c272de3",
+            "50cbded7f8636b5dc745c4ee8cae23af3ee110f8"
+        ],
+        "closest_matched": [
+            "52a1a1035fa71a2e023e93c083a626898bcb0d47"
+        ]
+    }
+]
