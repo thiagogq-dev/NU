@@ -1,1 +1,17 @@
-[{"repo_name": "jacoco/jacoco", "Target PR": "https://github.com/jacoco/jacoco/pull/952", "Closest PR": "https://github.com/jacoco/jacoco/pull/1091", "Title": "Use Ant 1.9.15", "Created At": "2020-09-14T18:21:50Z", "Target Commit SHA": "fba553424f9d49ecb1ac324548d50a3a19c1af7d", "target_inducing_commit_hash_pyszz": ["6be65643ccd83d9cb5f87274a192c8296cda8d7f"], "fix_commit_hash": "50b6bd8f99776f25b11fe75743ba802842ecf48a", "inducing_commit_hash_pyszz": ["adf2bf660e12b3b284eb80965328802101cf6762"]}]
+[
+    {
+        "repo_name": "jacoco/jacoco",
+        "Target PR": "https://github.com/jacoco/jacoco/pull/952",
+        "Closest PR": "https://github.com/jacoco/jacoco/pull/1091",
+        "Title": "Use Ant 1.9.15",
+        "Created At": "2020-09-14T18:21:50Z",
+        "Target Commit SHA": "fba553424f9d49ecb1ac324548d50a3a19c1af7d",
+        "target_inducing_commit_hash_pyszz": [
+            "6be65643ccd83d9cb5f87274a192c8296cda8d7f"
+        ],
+        "Closest Commit SHA": "50b6bd8f99776f25b11fe75743ba802842ecf48a",
+        "closest_inducing_commit_hash_pyszz": [
+            "adf2bf660e12b3b284eb80965328802101cf6762"
+        ]
+    }
+]

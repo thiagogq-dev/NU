@@ -1,1 +1,39 @@
-[{"repo_name": "jeremylong/DependencyCheck", "Target PR": "https://github.com/jeremylong/DependencyCheck/pull/3871", "Closest PR": "https://github.com/jeremylong/DependencyCheck/pull/5143", "Title": "Add Maven property for Node Audit Analyzer URL", "Created At": "2022-12-12T20:51:54Z", "Target Commit SHA": "d89025e628edca455fe8cabe1930742c57bab0d1", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "5435749ece845862a4c52f1d554515bcb690d9aa", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "jeremylong/DependencyCheck", "Target PR": "https://github.com/jeremylong/DependencyCheck/pull/1568", "Closest PR": "https://github.com/jeremylong/DependencyCheck/pull/2335", "Title": "Bump plexus-utils from 3.2.1 to 3.3.0", "Created At": "2019-11-20T07:12:04Z", "Target Commit SHA": "7dfebd0e6ea599c8765b801c540ba1aea81936cd", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "e8b6cfc60deb7940228b53819ae079161314ec6e", "inducing_commit_hash_pyszz": ["bf9e950c9f06d23908857529f167c8a04664add6"]}, {"repo_name": "jeremylong/DependencyCheck", "Target PR": "https://github.com/jeremylong/DependencyCheck/pull/668", "Closest PR": "https://github.com/jeremylong/DependencyCheck/pull/1101", "Title": "Fix groovy script failure because of unescaped Windows File.separator.", "Created At": "2018-02-11T10:16:37Z", "Target Commit SHA": "4951ee5a62312adc92d753a9ff4d66c60dd75d18", "target_inducing_commit_hash_pyszz": ["caeec68999317317d0abb0e4aafcf8d48d68ba2d"], "fix_commit_hash": "4baf1687b5b37fda1a001554a89fcb97bf5fe8b2", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "jeremylong/DependencyCheck",
+        "Target PR": "https://github.com/jeremylong/DependencyCheck/pull/3871",
+        "Closest PR": "https://github.com/jeremylong/DependencyCheck/pull/5143",
+        "Title": "Add Maven property for Node Audit Analyzer URL",
+        "Created At": "2022-12-12T20:51:54Z",
+        "Target Commit SHA": "d89025e628edca455fe8cabe1930742c57bab0d1",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5435749ece845862a4c52f1d554515bcb690d9aa",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "jeremylong/DependencyCheck",
+        "Target PR": "https://github.com/jeremylong/DependencyCheck/pull/1568",
+        "Closest PR": "https://github.com/jeremylong/DependencyCheck/pull/2335",
+        "Title": "Bump plexus-utils from 3.2.1 to 3.3.0",
+        "Created At": "2019-11-20T07:12:04Z",
+        "Target Commit SHA": "7dfebd0e6ea599c8765b801c540ba1aea81936cd",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "e8b6cfc60deb7940228b53819ae079161314ec6e",
+        "closest_inducing_commit_hash_pyszz": [
+            "bf9e950c9f06d23908857529f167c8a04664add6"
+        ]
+    },
+    {
+        "repo_name": "jeremylong/DependencyCheck",
+        "Target PR": "https://github.com/jeremylong/DependencyCheck/pull/668",
+        "Closest PR": "https://github.com/jeremylong/DependencyCheck/pull/1101",
+        "Title": "Fix groovy script failure because of unescaped Windows File.separator.",
+        "Created At": "2018-02-11T10:16:37Z",
+        "Target Commit SHA": "4951ee5a62312adc92d753a9ff4d66c60dd75d18",
+        "target_inducing_commit_hash_pyszz": [
+            "caeec68999317317d0abb0e4aafcf8d48d68ba2d"
+        ],
+        "Closest Commit SHA": "4baf1687b5b37fda1a001554a89fcb97bf5fe8b2",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

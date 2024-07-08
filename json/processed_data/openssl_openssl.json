@@ -1,1 +1,15 @@
-[{"repo_name": "openssl/openssl", "Target PR": "https://github.com/openssl/openssl/pull/693", "Closest PR": "https://github.com/openssl/openssl/pull/2645", "Title": "Cleanup *.S files", "Created At": "2017-02-16T09:20:32Z", "Target Commit SHA": null, "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "9b90ce0b46aed53fdff4d767ca5669dfac211f62", "inducing_commit_hash_pyszz": ["dc01af7723123aa9d426a58b34225224c4bc68ef"]}]
+[
+    {
+        "repo_name": "openssl/openssl",
+        "Target PR": "https://github.com/openssl/openssl/pull/693",
+        "Closest PR": "https://github.com/openssl/openssl/pull/2645",
+        "Title": "Cleanup *.S files",
+        "Created At": "2017-02-16T09:20:32Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "9b90ce0b46aed53fdff4d767ca5669dfac211f62",
+        "closest_inducing_commit_hash_pyszz": [
+            "dc01af7723123aa9d426a58b34225224c4bc68ef"
+        ]
+    }
+]

@@ -1,1 +1,17 @@
-[{"repo_name": "dariuszseweryn/RxAndroidBle", "Target PR": "https://github.com/dariuszseweryn/RxAndroidBle/pull/747", "Closest PR": "https://github.com/dariuszseweryn/RxAndroidBle/pull/780", "Title": "Fix instructions to modify permissions", "Created At": "2022-03-07T15:30:05Z", "Target Commit SHA": "8acb6a0e17a525f6bc212826cc6eeca286c206f2", "target_inducing_commit_hash_pyszz": ["92919e75ca54c4a2db246e38fca29663cfb70047"], "fix_commit_hash": "2aa5579e0a18f9d12b9f11a9e996471217863453", "inducing_commit_hash_pyszz": ["f6e3d06786646628150889714de7eaf29be6ba07"]}]
+[
+    {
+        "repo_name": "dariuszseweryn/RxAndroidBle",
+        "Target PR": "https://github.com/dariuszseweryn/RxAndroidBle/pull/747",
+        "Closest PR": "https://github.com/dariuszseweryn/RxAndroidBle/pull/780",
+        "Title": "Fix instructions to modify permissions",
+        "Created At": "2022-03-07T15:30:05Z",
+        "Target Commit SHA": "8acb6a0e17a525f6bc212826cc6eeca286c206f2",
+        "target_inducing_commit_hash_pyszz": [
+            "92919e75ca54c4a2db246e38fca29663cfb70047"
+        ],
+        "Closest Commit SHA": "2aa5579e0a18f9d12b9f11a9e996471217863453",
+        "closest_inducing_commit_hash_pyszz": [
+            "f6e3d06786646628150889714de7eaf29be6ba07"
+        ]
+    }
+]

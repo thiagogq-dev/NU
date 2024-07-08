@@ -1,1 +1,17 @@
-[{"repo_name": "oracle/opengrok", "Target PR": "https://github.com/oracle/opengrok/pull/3399", "Closest PR": "https://github.com/oracle/opengrok/pull/3833", "Title": "lucene 9.1.0", "Created At": "2021-12-09T12:34:44Z", "Target Commit SHA": "1f6726aecb7d8a3e3a38bc1535d839b167982f31", "target_inducing_commit_hash_pyszz": ["195a23a5fb13b85418607a9be6d47f024f6397d6"], "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["3c85781e99d223d6414b2f556d0d91f687f3d690"]}]
+[
+    {
+        "repo_name": "oracle/opengrok",
+        "Target PR": "https://github.com/oracle/opengrok/pull/3399",
+        "Closest PR": "https://github.com/oracle/opengrok/pull/3833",
+        "Title": "lucene 9.1.0",
+        "Created At": "2021-12-09T12:34:44Z",
+        "Target Commit SHA": "1f6726aecb7d8a3e3a38bc1535d839b167982f31",
+        "target_inducing_commit_hash_pyszz": [
+            "195a23a5fb13b85418607a9be6d47f024f6397d6"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "3c85781e99d223d6414b2f556d0d91f687f3d690"
+        ]
+    }
+]
