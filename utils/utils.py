@@ -1,11 +1,12 @@
 import requests
 import json
 from pydriller import Git, Repository
+import os
 
 API_TOKENS = [
-    "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",
-    "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",
-    "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"
+    os.getenv('TOKEN_1'),
+    os.getenv('TOKEN_2'),
+    os.getenv('TOKEN_3')
 ]
 
 token_index = 0
