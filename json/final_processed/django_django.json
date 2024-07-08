@@ -1,0 +1,66 @@
+[
+    {
+        "repo_name": "django/django",
+        "Target PR": "https://github.com/django/django/pull/5949",
+        "Closest PR": "https://github.com/django/django/pull/7807",
+        "Title": "Fixed #23908 -- Always use DEFAULT_CONTENT_TYPE from global_settings \u2026",
+        "Created At": "2017-01-06T20:07:21Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "05d0eca635853564c57e639ac5590674a7de2ed6"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "a6ef025dfb2a1d1bd23893408eef6d066fb506d9",
+            "64982cc2fb13ebc45982c64e25fdb7865e6d2499",
+            "524c5fa07a38cc68a81a12428befdafcfde1afc3",
+            "c156e369553c75a30c78b8ed54a57b1101865105",
+            "93cffc3b37d7ef7a20c53f9001f0451a37be7584",
+            "bca9faae95db2a92e540fbd08505c134639916fe"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "a6ef025dfb2a1d1bd23893408eef6d066fb506d9",
+            "64982cc2fb13ebc45982c64e25fdb7865e6d2499",
+            "524c5fa07a38cc68a81a12428befdafcfde1afc3",
+            "c156e369553c75a30c78b8ed54a57b1101865105",
+            "93cffc3b37d7ef7a20c53f9001f0451a37be7584",
+            "bca9faae95db2a92e540fbd08505c134639916fe"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "django/django",
+        "Target PR": "https://github.com/django/django/pull/13199",
+        "Closest PR": "https://github.com/django/django/pull/14647",
+        "Title": "Fixed #32655 -- Deprecated extra_tests argument for DiscoverRunner.build_suite()/run_tests().",
+        "Created At": "2021-07-15T22:20:33Z",
+        "Target Commit SHA": "331324ecce1330dce3dbd1713203cb9a42854ad7",
+        "target_inducing_commit_hash_pyszz": [
+            "5a15e3e3788cf321ce5bdf0a874906229afd3b47"
+        ],
+        "Closest Commit SHA": "56f9579105c324ff15250423bf9f8bdf1634cfb4",
+        "closest_inducing_commit_hash_pyszz": [
+            "fc6fba0aa9e4575c9a1c23ad7031eebb1c112868"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "df8d8d4292684d6ffa7474f1e201aed486f02b53",
+            "97cb07c3a10ff0e584a260a7ee1001614691eb1d",
+            "0afffae4ecb660f2ecb94a756c2ab7729654ecf6",
+            "47a99d701277f6ec98e6fd220feb9c8a1e66718e",
+            "b4066d7d2149782cd694b98d1a6ed5c7ee885f55",
+            "4e59156c10d36eeb1e6fced4dff0f11157f68264"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "9012833af857e081b515ce760685b157638efcef",
+            "d19109fd37e75ccf29d2ca64370102753dbc7c5b",
+            "1b8af4cfa023161924a45fb572399d2f3071bf5b",
+            "fc6fba0aa9e4575c9a1c23ad7031eebb1c112868"
+        ],
+        "closest_matched": [
+            "fc6fba0aa9e4575c9a1c23ad7031eebb1c112868"
+        ]
+    }
+]
