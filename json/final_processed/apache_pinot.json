@@ -1,0 +1,62 @@
+[
+    {
+        "repo_name": "apache/pinot",
+        "Target PR": "https://github.com/apache/pinot/pull/6774",
+        "Closest PR": "https://github.com/apache/pinot/pull/8511",
+        "Title": "bugfix: fixing the bug of missing dot to extract sub props from ingestion job and minion",
+        "Created At": "2022-04-11T23:52:56Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "bb46e466af122a0dcf0f2246db62615d699af625",
+        "closest_inducing_commit_hash_pyszz": [
+            "f12e62522b8d09c8525a7482c92141042e3155c2"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "68522052ff8a0f315e7119e1fdcf26e2c8b204b7"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "f12e62522b8d09c8525a7482c92141042e3155c2",
+            "6976697aeaa3aa30377f958181eb4f2ba6399fd4",
+            "7e9ca6a5a4afe0d4e283ac1307c45430e474cbf2"
+        ],
+        "closest_matched": [
+            "f12e62522b8d09c8525a7482c92141042e3155c2"
+        ]
+    },
+    {
+        "repo_name": "apache/pinot",
+        "Target PR": "https://github.com/apache/pinot/pull/5888",
+        "Closest PR": "https://github.com/apache/pinot/pull/7316",
+        "Title": "add underscore to obj vars in IndexKey and IndexEntry",
+        "Created At": "2021-08-18T00:44:03Z",
+        "Target Commit SHA": "41dc432e775aeeb841f57bd25525832950698739",
+        "target_inducing_commit_hash_pyszz": [
+            "95510624a57a65f49207f77033db38e5f71c75c8"
+        ],
+        "Closest Commit SHA": "c15249484a5bbe0e9fbbee311218c163a26dd263",
+        "closest_inducing_commit_hash_pyszz": [
+            "12e5bcd37350a3e85a9e9630a7f6de05d91b5a24"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "95510624a57a65f49207f77033db38e5f71c75c8"
+        ],
+        "target_matched": [
+            "95510624a57a65f49207f77033db38e5f71c75c8"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "12e5bcd37350a3e85a9e9630a7f6de05d91b5a24",
+            "82345ea6940a542776284bd63222d061e3544392",
+            "916494a73acb31f43d98b807e1db0251a9561079",
+            "4fb7ae11ad76cc583b78cb92e6765c1be0e321e0",
+            "e5bf05b0ff831f8654fd1386a76b759266c6f8c7",
+            "57d1a2ae7878b8b4132b80d2c5fbfeff1b2dabf0",
+            "79cc2a9076028ef55f92cf4c6c14b78312f27fc6",
+            "1d79b0e949ad996f66908ee9ff6cbb26a21e780b",
+            "6010d897bef9ca334aa53560746940c387ea8702"
+        ],
+        "closest_matched": [
+            "12e5bcd37350a3e85a9e9630a7f6de05d91b5a24"
+        ]
+    }
+]
