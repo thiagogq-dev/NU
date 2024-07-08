@@ -1,0 +1,31 @@
+[
+    {
+        "repo_name": "microsoft/STL",
+        "Target PR": "https://github.com/microsoft/STL/pull/2210",
+        "Closest PR": "https://github.com/microsoft/STL/pull/3110",
+        "Title": "fix(#2900): in max result value coping moved value",
+        "Created At": "2022-09-17T10:12:29Z",
+        "Target Commit SHA": "dc888f7d9fb7a4db8d3441f9e9bac2e0c6ecc4db",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "14b54cab1bb0701482b5b18643e13a96cc15ac7b"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "30031d3de4ead56afdc82212d0b4e8aca238e9d9"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "daeb0a63b15191b34969b3522982adab344d9a49",
+            "9ae1b3f1faada15feff9f0a0a9fa55c9dce532f5",
+            "219514876ea86491de191ceaa88632616bbc0f19",
+            "f3ca37d67c4bf18938497766a86aa78188b3ba3b",
+            "72c724007cd605e7713bd3dc02074517da7f0a42",
+            "7ac838857da15c5607a762770bcc653106479e99",
+            "14b54cab1bb0701482b5b18643e13a96cc15ac7b"
+        ],
+        "closest_matched": [
+            "14b54cab1bb0701482b5b18643e13a96cc15ac7b"
+        ]
+    }
+]
