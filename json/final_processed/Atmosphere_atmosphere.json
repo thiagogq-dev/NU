@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "Atmosphere/atmosphere",
+        "Target PR": "https://github.com/Atmosphere/atmosphere/pull/1182",
+        "Closest PR": "https://github.com/Atmosphere/atmosphere/pull/1613",
+        "Title": "New Fix por issue #1612",
+        "Created At": "2014-05-29T18:38:18Z",
+        "Target Commit SHA": "b57af1b0e3b7dd349ca35eb54afbc1f97cd1c7c6",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
