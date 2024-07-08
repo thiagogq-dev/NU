@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "psf/requests",
+        "Target PR": "https://github.com/psf/requests/pull/582",
+        "Closest PR": "https://github.com/psf/requests/pull/1343",
+        "Title": "Refactor merge_kwargs",
+        "Created At": "2013-05-02T17:03:42Z",
+        "Target Commit SHA": "8bd65155645cc0e934d3cd841d90624b1c7e6c58",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "1621015e005e5a8c6c0368846050ef7c5b8b2078",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
