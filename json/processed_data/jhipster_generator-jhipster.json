@@ -1,1 +1,12 @@
-[{"repo_name": "jhipster/generator-jhipster", "Target PR": "https://github.com/jhipster/generator-jhipster/pull/13765", "Closest PR": "https://github.com/jhipster/generator-jhipster/pull/17690", "Closest Commit SHA": "fff0c397cf2b05794d20af70d641ddd64adc7431", "Title": "chore(deps-dev): bump npm from 8.3.2 to 8.4.0 in /generators/common/templates", "Created At": "2022-01-28T05:06:12Z", "fix_commit_hash": "f710bc0ac2da53fae20ee01e42746a249ffe7f8c", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "jhipster/generator-jhipster",
+        "Target PR": "https://github.com/jhipster/generator-jhipster/pull/13765",
+        "Closest PR": "https://github.com/jhipster/generator-jhipster/pull/17690",
+        "Title": "chore(deps-dev): bump npm from 8.3.2 to 8.4.0 in /generators/common/templates",
+        "Created At": "2022-01-28T05:06:12Z",
+        "Target Commit SHA": "f710bc0ac2da53fae20ee01e42746a249ffe7f8c",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "fff0c397cf2b05794d20af70d641ddd64adc7431"
+    }
+]

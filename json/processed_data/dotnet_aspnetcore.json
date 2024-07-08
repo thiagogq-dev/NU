@@ -1,1 +1,14 @@
-[{"repo_name": "dotnet/aspnetcore", "Target PR": "https://github.com/dotnet/aspnetcore/pull/34997", "Closest PR": "https://github.com/dotnet/aspnetcore/pull/43072", "Closest Commit SHA": "7a30a417cd8b8b1b934cc3dedcc5d866b81ca281", "Title": "[main] Update dependencies from dotnet/runtime", "Created At": "2022-08-03T12:08:46Z", "fix_commit_hash": "4216ec2bc49fc6962c4bcfeaebd64fa4f485c21c", "inducing_commit_hash_pyszz": ["929c19cfe59774b4f07dbbc1b1faa6a939e2d1d1"]}]
+[
+    {
+        "repo_name": "dotnet/aspnetcore",
+        "Target PR": "https://github.com/dotnet/aspnetcore/pull/34997",
+        "Closest PR": "https://github.com/dotnet/aspnetcore/pull/43072",
+        "Title": "[main] Update dependencies from dotnet/runtime",
+        "Created At": "2022-08-03T12:08:46Z",
+        "Target Commit SHA": "4216ec2bc49fc6962c4bcfeaebd64fa4f485c21c",
+        "target_inducing_commit_hash_pyszz": [
+            "929c19cfe59774b4f07dbbc1b1faa6a939e2d1d1"
+        ],
+        "fix_commit_hash": "7a30a417cd8b8b1b934cc3dedcc5d866b81ca281"
+    }
+]

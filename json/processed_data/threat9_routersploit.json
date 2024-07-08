@@ -1,1 +1,12 @@
-[{"repo_name": "threat9/routersploit", "Target PR": "https://github.com/threat9/routersploit/pull/529", "Closest PR": "https://github.com/threat9/routersploit/pull/609", "Closest Commit SHA": "b292f4e5779b23dd9d3294a4305a0f91991068b1", "Title": "Fixing wordlist creds parsing", "Created At": "2019-08-31T12:16:49Z", "fix_commit_hash": "aa4837260a36eb6d18764443447aef78668e01e1", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "threat9/routersploit",
+        "Target PR": "https://github.com/threat9/routersploit/pull/529",
+        "Closest PR": "https://github.com/threat9/routersploit/pull/609",
+        "Title": "Fixing wordlist creds parsing",
+        "Created At": "2019-08-31T12:16:49Z",
+        "Target Commit SHA": "aa4837260a36eb6d18764443447aef78668e01e1",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "b292f4e5779b23dd9d3294a4305a0f91991068b1"
+    }
+]

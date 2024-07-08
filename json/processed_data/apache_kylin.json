@@ -3,9 +3,10 @@
         "repo_name": "apache/kylin",
         "Target PR": "https://github.com/apache/kylin/pull/1193",
         "Closest PR": "https://github.com/apache/kylin/pull/1108",
-        "Closest Commit SHA": "d0d817ca734eebf26d12bff3e15a1c40a54270bf",
         "Title": "Fix sonar issues",
         "Created At": "",
-        "fix_commit_hash": null
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "d0d817ca734eebf26d12bff3e15a1c40a54270bf"
     }
 ]

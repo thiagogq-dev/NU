@@ -1,1 +1,12 @@
-[{"repo_name": "QuantConnect/Lean", "Target PR": "https://github.com/QuantConnect/Lean/pull/1373", "Closest PR": "https://github.com/QuantConnect/Lean/pull/2733", "Closest Commit SHA": "299b467062aba2ea7dd97e08c5b0a4a205066047", "Title": "BuyingPowerModel.GetInitialMarginRequiredForOrder will receive a Parameters object", "Created At": "2018-12-04T20:57:40Z", "fix_commit_hash": "3d67eb30680946611f0009ba26cf81b6bc2b0274", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "QuantConnect/Lean",
+        "Target PR": "https://github.com/QuantConnect/Lean/pull/1373",
+        "Closest PR": "https://github.com/QuantConnect/Lean/pull/2733",
+        "Title": "BuyingPowerModel.GetInitialMarginRequiredForOrder will receive a Parameters object",
+        "Created At": "2018-12-04T20:57:40Z",
+        "Target Commit SHA": "3d67eb30680946611f0009ba26cf81b6bc2b0274",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "299b467062aba2ea7dd97e08c5b0a4a205066047"
+    }
+]

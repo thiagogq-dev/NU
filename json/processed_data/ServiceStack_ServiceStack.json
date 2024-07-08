@@ -1,1 +1,12 @@
-[{"repo_name": "ServiceStack/ServiceStack", "Target PR": "https://github.com/ServiceStack/ServiceStack/pull/153", "Closest PR": "https://github.com/ServiceStack/ServiceStack/pull/685", "Closest Commit SHA": "4365249ef54ccccf45ee2ab26aa1b40bd50826fc", "Title": "Fix string concatenation in RegisterRestPath()", "Created At": "2013-05-20T19:38:57Z", "fix_commit_hash": "aa45023e780484b73199e2f849fd7cf55eadba55", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "ServiceStack/ServiceStack",
+        "Target PR": "https://github.com/ServiceStack/ServiceStack/pull/153",
+        "Closest PR": "https://github.com/ServiceStack/ServiceStack/pull/685",
+        "Title": "Fix string concatenation in RegisterRestPath()",
+        "Created At": "2013-05-20T19:38:57Z",
+        "Target Commit SHA": "aa45023e780484b73199e2f849fd7cf55eadba55",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "4365249ef54ccccf45ee2ab26aa1b40bd50826fc"
+    }
+]

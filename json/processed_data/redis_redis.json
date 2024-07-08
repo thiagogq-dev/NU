@@ -1,1 +1,24 @@
-[{"repo_name": "redis/redis", "Target PR": "https://github.com/redis/redis/pull/9920", "Closest PR": "https://github.com/redis/redis/pull/11595", "Closest Commit SHA": "f3f6f7c0d66f136146a912e06c8fbe31ecfbc977", "Title": "Key as dict entry - memory optimization for sets", "Created At": "2022-12-07T14:11:17Z", "fix_commit_hash": "ae2f5b7b2e007e4bb7108407d7d41972312d0766", "inducing_commit_hash_pyszz": ["0e5b813ef94b373f82bc75efcf3405f2c81af3dc"]}, {"repo_name": "redis/redis", "Target PR": "https://github.com/redis/redis/pull/9587", "Closest PR": "https://github.com/redis/redis/pull/11351", "Closest Commit SHA": null, "Title": "Bump vmactions/freebsd-vm from 0.2.4 to 0.2.9", "Created At": "2022-10-03T15:15:17Z", "fix_commit_hash": "0215324a66af949be39b34be2d55143232c1cb71", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "redis/redis",
+        "Target PR": "https://github.com/redis/redis/pull/9920",
+        "Closest PR": "https://github.com/redis/redis/pull/11595",
+        "Title": "Key as dict entry - memory optimization for sets",
+        "Created At": "2022-12-07T14:11:17Z",
+        "Target Commit SHA": "ae2f5b7b2e007e4bb7108407d7d41972312d0766",
+        "target_inducing_commit_hash_pyszz": [
+            "0e5b813ef94b373f82bc75efcf3405f2c81af3dc"
+        ],
+        "fix_commit_hash": "f3f6f7c0d66f136146a912e06c8fbe31ecfbc977"
+    },
+    {
+        "repo_name": "redis/redis",
+        "Target PR": "https://github.com/redis/redis/pull/9587",
+        "Closest PR": "https://github.com/redis/redis/pull/11351",
+        "Title": "Bump vmactions/freebsd-vm from 0.2.4 to 0.2.9",
+        "Created At": "2022-10-03T15:15:17Z",
+        "Target Commit SHA": "0215324a66af949be39b34be2d55143232c1cb71",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
+    }
+]

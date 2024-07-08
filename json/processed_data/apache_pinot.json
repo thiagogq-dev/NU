@@ -1,1 +1,24 @@
-[{"repo_name": "apache/pinot", "Target PR": "https://github.com/apache/pinot/pull/6774", "Closest PR": "https://github.com/apache/pinot/pull/8511", "Closest Commit SHA": "bb46e466af122a0dcf0f2246db62615d699af625", "Title": "bugfix: fixing the bug of missing dot to extract sub props from ingestion job and minion", "Created At": "2022-04-11T23:52:56Z", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["0a2debf53284fbbd4ec1af087a9950aebc8d1fb1"]}, {"repo_name": "apache/pinot", "Target PR": "https://github.com/apache/pinot/pull/5888", "Closest PR": "https://github.com/apache/pinot/pull/7316", "Closest Commit SHA": "c15249484a5bbe0e9fbbee311218c163a26dd263", "Title": "add underscore to obj vars in IndexKey and IndexEntry", "Created At": "2021-08-18T00:44:03Z", "fix_commit_hash": "41dc432e775aeeb841f57bd25525832950698739", "inducing_commit_hash_pyszz": ["95510624a57a65f49207f77033db38e5f71c75c8"]}]
+[
+    {
+        "repo_name": "apache/pinot",
+        "Target PR": "https://github.com/apache/pinot/pull/6774",
+        "Closest PR": "https://github.com/apache/pinot/pull/8511",
+        "Title": "bugfix: fixing the bug of missing dot to extract sub props from ingestion job and minion",
+        "Created At": "2022-04-11T23:52:56Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "bb46e466af122a0dcf0f2246db62615d699af625"
+    },
+    {
+        "repo_name": "apache/pinot",
+        "Target PR": "https://github.com/apache/pinot/pull/5888",
+        "Closest PR": "https://github.com/apache/pinot/pull/7316",
+        "Title": "add underscore to obj vars in IndexKey and IndexEntry",
+        "Created At": "2021-08-18T00:44:03Z",
+        "Target Commit SHA": "41dc432e775aeeb841f57bd25525832950698739",
+        "target_inducing_commit_hash_pyszz": [
+            "95510624a57a65f49207f77033db38e5f71c75c8"
+        ],
+        "fix_commit_hash": "c15249484a5bbe0e9fbbee311218c163a26dd263"
+    }
+]

@@ -1,1 +1,12 @@
-[{"repo_name": "yigit/android-priority-jobqueue", "Target PR": "https://github.com/yigit/android-priority-jobqueue/pull/112", "Closest PR": "https://github.com/yigit/android-priority-jobqueue/pull/263", "Closest Commit SHA": "3315288c353e73f121030af4049c9562661c83b2", "Title": "avoid infinite loop in idle callbacks", "Created At": "2016-10-10T06:04:16Z", "fix_commit_hash": null, "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "yigit/android-priority-jobqueue",
+        "Target PR": "https://github.com/yigit/android-priority-jobqueue/pull/112",
+        "Closest PR": "https://github.com/yigit/android-priority-jobqueue/pull/263",
+        "Title": "avoid infinite loop in idle callbacks",
+        "Created At": "2016-10-10T06:04:16Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "3315288c353e73f121030af4049c9562661c83b2"
+    }
+]

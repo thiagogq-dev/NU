@@ -1,1 +1,12 @@
-[{"repo_name": "domaindrivendev/Swashbuckle.AspNetCore", "Target PR": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/1620", "Closest PR": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2083", "Closest Commit SHA": null, "Title": "Add continuous security analysis", "Created At": "2021-04-09T12:02:57Z", "fix_commit_hash": "4e7518b8d37d3fe024f6011c0bfbe8172ecd42bc", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "domaindrivendev/Swashbuckle.AspNetCore",
+        "Target PR": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/1620",
+        "Closest PR": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2083",
+        "Title": "Add continuous security analysis",
+        "Created At": "2021-04-09T12:02:57Z",
+        "Target Commit SHA": "4e7518b8d37d3fe024f6011c0bfbe8172ecd42bc",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
+    }
+]

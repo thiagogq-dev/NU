@@ -1,1 +1,32 @@
-[{"repo_name": "pallets/flask", "Target PR": "https://github.com/pallets/flask/pull/4301", "Closest PR": "https://github.com/pallets/flask/pull/4843", "Closest Commit SHA": null, "Title": "misleading code correction", "Created At": "2022-10-10T07:26:11Z", "fix_commit_hash": "c5ed6c5e77cdf05740e9beb97ab7841abdb8f703", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "pallets/flask", "Target PR": "https://github.com/pallets/flask/pull/2309", "Closest PR": "https://github.com/pallets/flask/pull/2789", "Closest Commit SHA": "401d7f9bb2514eb45ff98b2ac7c04952f5eaa678", "Title": "AttributeError: 'module' object has no attribute 'SSLContext'", "Created At": "2018-05-17T12:29:51Z", "fix_commit_hash": "3acec5f801864e8a6fbac759e45569950dec719d", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "pallets/flask", "Target PR": "https://github.com/pallets/flask/pull/2059", "Closest PR": "https://github.com/pallets/flask/pull/2492", "Closest Commit SHA": "9291ead32e2fc8b13cef825186c968944e9ff344", "Title": "Fix typo in logging.rst", "Created At": "2017-10-13T11:52:51Z", "fix_commit_hash": "579832d8aa9e881f1874fb06bb86977197b84106", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/4301",
+        "Closest PR": "https://github.com/pallets/flask/pull/4843",
+        "Title": "misleading code correction",
+        "Created At": "2022-10-10T07:26:11Z",
+        "Target Commit SHA": "c5ed6c5e77cdf05740e9beb97ab7841abdb8f703",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/2309",
+        "Closest PR": "https://github.com/pallets/flask/pull/2789",
+        "Title": "AttributeError: 'module' object has no attribute 'SSLContext'",
+        "Created At": "2018-05-17T12:29:51Z",
+        "Target Commit SHA": "3acec5f801864e8a6fbac759e45569950dec719d",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "401d7f9bb2514eb45ff98b2ac7c04952f5eaa678"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/2059",
+        "Closest PR": "https://github.com/pallets/flask/pull/2492",
+        "Title": "Fix typo in logging.rst",
+        "Created At": "2017-10-13T11:52:51Z",
+        "Target Commit SHA": "579832d8aa9e881f1874fb06bb86977197b84106",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "9291ead32e2fc8b13cef825186c968944e9ff344"
+    }
+]
