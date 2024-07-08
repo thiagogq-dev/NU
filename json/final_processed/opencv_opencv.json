@@ -1,0 +1,27 @@
+[
+    {
+        "repo_name": "opencv/opencv",
+        "Target PR": "https://github.com/opencv/opencv/pull/1831",
+        "Closest PR": "https://github.com/opencv/opencv/pull/3429",
+        "Title": "Fix debug build broken issue.",
+        "Created At": "2014-11-17T05:19:25Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "c2b7c1f13b998a23dc9e1c8f18324b9114052782"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "96f23e3da1d304a6582514542843b5a3ef740a1a",
+            "c2b7c1f13b998a23dc9e1c8f18324b9114052782"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "96f23e3da1d304a6582514542843b5a3ef740a1a",
+            "c2b7c1f13b998a23dc9e1c8f18324b9114052782"
+        ],
+        "closest_matched": [
+            "c2b7c1f13b998a23dc9e1c8f18324b9114052782"
+        ]
+    }
+]
