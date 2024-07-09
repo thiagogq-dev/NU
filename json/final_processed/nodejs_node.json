@@ -1,0 +1,124 @@
+[
+    {
+        "repo_name": "nodejs/node",
+        "Target PR": "https://github.com/nodejs/node/pull/40587",
+        "Closest PR": "https://github.com/nodejs/node/pull/45149",
+        "Title": "tools: update V8 gypfiles for RISC-V",
+        "Created At": "2022-10-24T13:46:10Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "e888855ed2eb1a0d2a617339d54e20a19055b407",
+        "closest_inducing_commit_hash_pyszz": [
+            "1d21a8d140f78d4408c5375caedc917a83902a80"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "00c222593e49d817281bc88a322f41f8dca95885",
+            "4aa0eff787c14f14a239cf2f44bf751a0151e3eb",
+            "6fd147c4b08550e4d82ed54f21b9c737ac6d58b0",
+            "335ecda433c8f995c8233d7cec60238f02827d99"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "1d21a8d140f78d4408c5375caedc917a83902a80"
+        ],
+        "closest_matched": [
+            "1d21a8d140f78d4408c5375caedc917a83902a80"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "Target PR": "https://github.com/nodejs/node/pull/13277",
+        "Closest PR": "https://github.com/nodejs/node/pull/21003",
+        "Title": "fs: fix reads with pos > 4GB",
+        "Created At": "2018-05-28T17:06:27Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "c3c62e09865f925e0f040d8689cf2a207e36c2a1",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "00c222593e49d817281bc88a322f41f8dca95885",
+            "4aa0eff787c14f14a239cf2f44bf751a0151e3eb",
+            "6fd147c4b08550e4d82ed54f21b9c737ac6d58b0",
+            "335ecda433c8f995c8233d7cec60238f02827d99"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "Target PR": "https://github.com/nodejs/node/pull/29320",
+        "Closest PR": "https://github.com/nodejs/node/pull/34913",
+        "Title": "http: make response.setTimeout() work",
+        "Created At": "2020-08-24T21:15:44Z",
+        "Target Commit SHA": "403dacf9ce205d591b27c937141feb8321774c0b",
+        "target_inducing_commit_hash_pyszz": [
+            "bf347f537a853d201b531fc0ac35db626495180a"
+        ],
+        "Closest Commit SHA": "d54a696a0fac9a052deb203ca752322061fb141b",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "c49adbff6395654634d5c89661419696ce14352b",
+            "2da2625ad16b09c25d7622c91ffe1d940e44e41a",
+            "2f6ff1bb64ac4f3e201039c8e83f8eb95f73c769",
+            "7a3bbbf41be64d04058a158f6986ec5641885f42",
+            "f44969a5aba6b447f7c1a715c5009644cbd49a5b",
+            "f9dd34d301ab385ae316769b85ef916f9b70b6f6",
+            "0863a0e528ba9ee01f960dce7ffebe8fff3a774c",
+            "ed8fc7e11d688cbcdf33d0d149830064758bdcd2",
+            "bf347f537a853d201b531fc0ac35db626495180a",
+            "e313c0286b1c1a7267516a7b2b4c01fa76c71ec0",
+            "e5736d817c93ff9ac88c24d9e6a247a0f057a266",
+            "d91e10b3bd4f3011befa91d68a4305a0f438c62e",
+            "7babce90c9c87ccfa63169e86c7c26cdef3ebc26",
+            "7a52c51e811cd59db0d2b1b6d6b8b2e7f917d65c",
+            "e8a7003e940928e2d1684c12881dd2a39af2d7cc",
+            "05b566a5ef7c41f6f578fd36af0b5d91cbe1a2e4",
+            "77b39c2eb2c9fe437d0e09e3e7682564d815c7fb",
+            "cc8250fab86486632fdeb63892be735d7628cd13",
+            "8845a77f74f4cc17820ac50ca94bf2658ee95323",
+            "c2d738db8053a0e090aabbeeb088b34c3da7b7ad",
+            "17b7fa75c345ec2ef59c489a33aa14f346d60dc5",
+            "ea9df8b4a48f70cdd86c81d9e20b72d4be1bcd73",
+            "1562fb9ea7b993382a4aef0433a10b1029419f17",
+            "d7aa8fa088f3b8a31c7d85c6d71824c8c60e7c17",
+            "2981f24f926da32d708c8bb39d90fff5aa73bc3f",
+            "316665235c5a0f5b4aa4e74b6b23e862357635ab",
+            "623dcb7bd90ccd9876487e05ce715d2ffed9799b",
+            "2f1c356d7abe4949b5ee68e0724ed7e493fc03e1",
+            "2d441493a4a46a511ba1bdf93e442c3288fbe92d",
+            "3ad90a4ac8aefad4c5d73fc0607649bf2e2f9cfa",
+            "8c6d1a06869a295cbcc835437bdc42ab15ac1e27"
+        ],
+        "target_matched": [
+            "bf347f537a853d201b531fc0ac35db626495180a"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "Target PR": "https://github.com/nodejs/node/pull/28067",
+        "Closest PR": "https://github.com/nodejs/node/pull/33722",
+        "Title": "src: simplify Reindent function in json_utils.cc",
+        "Created At": "2020-06-04T07:20:56Z",
+        "Target Commit SHA": "3f1787b47d7eb3f29f06c6ce103c162d2ed151e3",
+        "target_inducing_commit_hash_pyszz": [
+            "5723b5dbbc98511ab3bc56ab639fcbfcc4e69776"
+        ],
+        "Closest Commit SHA": "c97c2878110457c5adafe6d60e0cd0cd0ce1f560",
+        "closest_inducing_commit_hash_pyszz": [
+            "29eca36ea8a157ba091fb782c7887300d0a54a7b"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "42dbaed4605f44c393a057aad75a31cac1d0e5f5"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "29eca36ea8a157ba091fb782c7887300d0a54a7b"
+        ],
+        "closest_matched": [
+            "29eca36ea8a157ba091fb782c7887300d0a54a7b"
+        ]
+    }
+]
