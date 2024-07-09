@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "TeamAmaze/AmazeFileManager",
+        "Target PR": "https://github.com/TeamAmaze/AmazeFileManager/pull/1814",
+        "Closest PR": "https://github.com/TeamAmaze/AmazeFileManager/pull/2202",
+        "Title": "Null check for getting file list",
+        "Created At": "2021-01-07T15:17:45Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "4b184473342c20a2d39847c4bb037cb60eac5fe5",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
