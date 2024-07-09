@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "Azure/azure-sdk-for-net",
+        "Target PR": "https://github.com/Azure/azure-sdk-for-net/pull/24797",
+        "Closest PR": "https://github.com/Azure/azure-sdk-for-net/pull/31864",
+        "Title": "[Smoke Tests] MSAL Native Interop Fix",
+        "Created At": "2022-10-18T16:08:42Z",
+        "Target Commit SHA": "f993f9d5a6062a04feedd7a72ac71dcb0c7ce77f",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "7445b521dc545f1751c0540eae76eb8936533ba9",
+        "closest_inducing_commit_hash_pyszz": [
+            "0355bd1241da986d6fdeeba54fee9e6855cd6b9c"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "639e185fd0df212f2cfe02eca3f105a793863184",
+            "de2bf7a8d3ed94f4819e87619128187ae981e8ad"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "a70183c292c4b6eec2195e2ee585fd00964caaf1"
+        ],
+        "closest_matched": []
+    }
+]
