@@ -1,0 +1,32 @@
+[
+    {
+        "repo_name": "spring-projects/spring-framework",
+        "Target PR": "https://github.com/spring-projects/spring-framework/pull/1055",
+        "Closest PR": "https://github.com/spring-projects/spring-framework/pull/1420",
+        "Title": "WebJarsResourceResolver: multiple matches fix",
+        "Created At": "2017-05-07T17:14:25Z",
+        "Target Commit SHA": "e2fa282e14102d9f5c00b2e848f7649847c2fd89",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-framework",
+        "Target PR": "https://github.com/spring-projects/spring-framework/pull/591",
+        "Closest PR": "https://github.com/spring-projects/spring-framework/pull/834",
+        "Title": "DelegatingFilterProxy looks at \"registered\" WebApplicationContexts",
+        "Created At": "2015-07-09T21:02:25Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
