@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "yigit/android-priority-jobqueue",
+        "Target PR": "https://github.com/yigit/android-priority-jobqueue/pull/112",
+        "Closest PR": "https://github.com/yigit/android-priority-jobqueue/pull/263",
+        "Title": "avoid infinite loop in idle callbacks",
+        "Created At": "2016-10-10T06:04:16Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "3315288c353e73f121030af4049c9562661c83b2",
+        "closest_inducing_commit_hash_pyszz": [
+            "0b5e991645f34563699c879fba597e62193c2793"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "dfc3b3f070fe3b11f26815d78d81f4ee71531824",
+            "3e845538708a40962de63e1de2d55553e37ca7bf",
+            "64facaf74486b40952a6b55b9c83262883aecefd",
+            "0b5e991645f34563699c879fba597e62193c2793"
+        ],
+        "closest_matched": [
+            "0b5e991645f34563699c879fba597e62193c2793"
+        ]
+    }
+]
