@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "TryGhost/Ghost",
+        "Target PR": "https://github.com/TryGhost/Ghost/pull/1729",
+        "Closest PR": "https://github.com/TryGhost/Ghost/pull/4688",
+        "Title": "Add tests to verify db version hasn't changed",
+        "Created At": "2014-12-20T10:24:45Z",
+        "Target Commit SHA": "f0b029100744a00f8ebb5772ddffb9c2acd20999",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "b00279885f5a17918e3d3e89c5117c25e14c6933",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
