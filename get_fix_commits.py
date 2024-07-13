@@ -16,7 +16,7 @@ if not os.path.exists("json/with_fix_commits"):
 
 for file in os.listdir("json/raw_data"):
     print(f"Reading {file}")
-    full_path = os.path.join("json/raw_data_v1", file)
+    full_path = os.path.join("json/raw_data", file)
     with open(full_path) as f:
         data = json.load(f)
 
