@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "sockjs/sockjs-node",
+        "Target PR": "https://github.com/sockjs/sockjs-node/pull/265",
+        "Closest PR": "https://github.com/sockjs/sockjs-node/pull/276",
+        "Title": "Bump lodash from 4.17.15 to 4.17.19",
+        "Created At": "2020-08-02T21:16:21Z"
+    }
+]

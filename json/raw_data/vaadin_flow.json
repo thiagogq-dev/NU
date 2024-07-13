@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "vaadin/flow",
+        "Target PR": "https://github.com/vaadin/flow/pull/10157",
+        "Closest PR": "https://github.com/vaadin/flow/pull/10145",
+        "Title": "fix: only inject scripts not already loaded when using an exported wc",
+        "Created At": ""
+    },
+    {
+        "repo_name": "vaadin/flow",
+        "Target PR": "https://github.com/vaadin/flow/pull/10640",
+        "Closest PR": "https://github.com/vaadin/flow/pull/13547",
+        "Title": "fix: Force async version 3.2.2",
+        "Created At": "2022-04-14T10:25:59Z"
+    }
+]

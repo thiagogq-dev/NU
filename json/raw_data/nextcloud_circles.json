@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "nextcloud/circles",
+        "Target PR": "https://github.com/nextcloud/circles/pull/866",
+        "Closest PR": "https://github.com/nextcloud/circles/pull/1227",
+        "Title": "Bump phpunit/phpunit from 9.5.26 to 9.5.27",
+        "Created At": "2022-12-10T02:02:09Z"
+    }
+]

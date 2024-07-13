@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "webbukkit/dynmap",
+        "Target PR": "https://github.com/webbukkit/dynmap/pull/2475",
+        "Closest PR": "https://github.com/webbukkit/dynmap/pull/2874",
+        "Title": "fix Bukkit version detection",
+        "Created At": "2020-04-13T10:46:38Z"
+    }
+]

@@ -29,7 +29,7 @@ def csv_to_json(csv_file_path, json_file_path):
                 json.dump(data, json_file, indent=4)
                 # json_file.write(json.dumps(dados, indent=4))
 
-file = "hugo-selected-NONSECUR"
+file = "NVD-selected-NONSECUR"
 
 # Exemplo de uso
 csv_to_json(f'{file}.csv', f'{file}.json')

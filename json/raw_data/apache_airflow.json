@@ -1,0 +1,51 @@
+[
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/30779",
+        "Closest PR": "https://github.com/apache/airflow/pull/39142",
+        "Title": "Fix stacklevel for TaskContextLogger",
+        "Created At": "2024-04-19T20:31:52Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/32014",
+        "Closest PR": "https://github.com/apache/airflow/pull/40265",
+        "Title": "Fix typo in xcoms.rst",
+        "Created At": "2024-06-15T22:09:57Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/33108",
+        "Closest PR": "https://github.com/apache/airflow/pull/40278",
+        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
+        "Created At": "2024-06-17T12:25:37Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/27641",
+        "Closest PR": "https://github.com/apache/airflow/pull/35597",
+        "Title": "added cancelled handling in dbt deferred",
+        "Created At": "2023-11-13T10:35:17Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/33075",
+        "Closest PR": "https://github.com/apache/airflow/pull/40278",
+        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
+        "Created At": "2024-06-17T12:25:37Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/29706",
+        "Closest PR": "https://github.com/apache/airflow/pull/37634",
+        "Title": "Fix Async GCSObjectsWithPrefixExistenceSensor xcom push",
+        "Created At": "2024-02-22T18:47:30Z"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/27576",
+        "Closest PR": "https://github.com/apache/airflow/pull/35557",
+        "Title": "Remove `sqla` module from security manager",
+        "Created At": "2023-11-09T15:21:25Z"
+    }
+]

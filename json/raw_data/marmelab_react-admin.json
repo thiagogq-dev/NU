@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "marmelab/react-admin",
+        "Target PR": "https://github.com/marmelab/react-admin/pull/8645",
+        "Closest PR": "https://github.com/marmelab/react-admin/pull/9660",
+        "Title": "[Demo] Fix missing tags field in simple example fake dataset raises a warning",
+        "Created At": "2024-02-12T16:19:38Z"
+    }
+]

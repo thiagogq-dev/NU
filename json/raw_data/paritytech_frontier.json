@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "paritytech/frontier",
+        "Target PR": "https://github.com/paritytech/frontier/pull/1212",
+        "Closest PR": "https://github.com/polkadot-evm/frontier/pull/1455",
+        "Title": "build(deps): bump derive_more from 0.99.17 to 0.99.18",
+        "Created At": "2024-06-17T05:03:43Z"
+    }
+]

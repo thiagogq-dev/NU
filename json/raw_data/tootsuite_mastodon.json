@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "tootsuite/mastodon",
+        "Target PR": "https://github.com/tootsuite/mastodon/pull/9329",
+        "Closest PR": "https://github.com/mastodon/mastodon/pull/12442",
+        "Title": "Fix blur behind closed registration message",
+        "Created At": "2019-11-21T20:40:47Z"
+    }
+]

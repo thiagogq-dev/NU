@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "openscad/openscad",
+        "Target PR": "https://github.com/openscad/openscad/pull/4044",
+        "Closest PR": "https://github.com/openscad/openscad/pull/4488",
+        "Title": "Correct use of \"-nightly\" icons suffix for snapshots builds",
+        "Created At": "2023-01-03T06:24:57Z"
+    }
+]

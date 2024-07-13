@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/744",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/1334",
+        "Title": "Addressing random BadNameSpace error by including the 'always_connect' option to Socket.io",
+        "Created At": "2024-06-14T13:22:44Z"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/711",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/1325",
+        "Title": "Bump braces from 3.0.2 to 3.0.3 in /vantage6-ui",
+        "Created At": "2024-06-13T08:35:02Z"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "Target PR": "https://github.com/vantage6/vantage6/pull/281",
+        "Closest PR": "https://github.com/vantage6/vantage6/pull/785",
+        "Title": "Bump cryptography from 41.0.0 to 41.0.3",
+        "Created At": "2023-08-02T02:05:37Z"
+    }
+]

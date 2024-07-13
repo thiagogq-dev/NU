@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "libexpat/libexpat",
+        "Target PR": "https://github.com/libexpat/libexpat/pull/539",
+        "Closest PR": "https://github.com/libexpat/libexpat/pull/682",
+        "Title": "Autotools: Fix looking up expat through CMake on systems where triplet are part of the path",
+        "Created At": "2022-12-21T23:23:25Z"
+    },
+    {
+        "repo_name": "libexpat/libexpat",
+        "Target PR": "https://github.com/libexpat/libexpat/pull/650",
+        "Closest PR": "https://github.com/libexpat/libexpat/pull/749",
+        "Title": "CMake: Require CMake >=3.5.0",
+        "Created At": "2023-09-19T17:47:01Z"
+    }
+]

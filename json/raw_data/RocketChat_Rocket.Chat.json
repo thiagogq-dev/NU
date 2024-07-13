@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "Target PR": "https://github.com/RocketChat/Rocket.Chat/pull/20430",
+        "Closest PR": "https://github.com/RocketChat/Rocket.Chat/pull/24306",
+        "Title": "Chore: Convert to typescript the slash commands create files",
+        "Created At": "2022-01-26T22:21:24Z"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/2081",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/2530",
+        "Title": "cooja: use fixed-size clock_time_t size",
+        "Created At": "2023-07-17T09:06:13Z"
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/1409",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/1414",
+        "Title": "Fix SNMP code style",
+        "Created At": ""
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/1648",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/2180",
+        "Title": "Update tools/cooja submodule",
+        "Created At": "2022-09-14T12:13:09Z"
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/972",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/1271",
+        "Title": "minor trivial fixes set",
+        "Created At": "2020-05-20T20:14:06Z"
+    }
+]

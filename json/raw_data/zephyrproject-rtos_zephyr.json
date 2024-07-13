@@ -1,0 +1,86 @@
+[
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/24065",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33997",
+        "Title": "Guideline: Fix violations for rule 10.4",
+        "Created At": "2021-04-03T06:13:59Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/27865",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/38079",
+        "Title": "manifest: update SOF module",
+        "Created At": "2021-08-27T22:11:12Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23190",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32777",
+        "Title": "drivers: i2c_ll_stm32_v2: Add timeout on transfer",
+        "Created At": "2021-03-02T11:18:03Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23240",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32850",
+        "Title": "checkpatch: Disable \"blank line after declarations\" warning",
+        "Created At": "2021-03-03T22:38:35Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23328",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33098",
+        "Title": "mgmt/osdp: Fix couple of issues identified by coverity",
+        "Created At": "2021-03-07T02:19:49Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23457",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33310",
+        "Title": "Bluetooth: controller: Fix regression in ctrl tx queue handling",
+        "Created At": "2021-03-13T05:38:31Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23649",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33514",
+        "Title": "[Backport v2.4-branch] Bluetooth: L2CAP: Fix missing buffer length check for sdu_len",
+        "Created At": "2021-03-19T18:33:16Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23091",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/32658",
+        "Title": "tests: thread: thread_api: fix to allow test to run for non-secure",
+        "Created At": "2021-02-25T11:16:54Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/23308",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/33006",
+        "Title": "drivers: sensor: bmi160: Fix bug where undersampling is not set",
+        "Created At": "2021-03-06T00:16:49Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/24954",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/34839",
+        "Title": "modem: hl7800: Fix crash related to IPv6 address",
+        "Created At": "2021-05-04T17:00:27Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/27891",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/38148",
+        "Title": "drivers: sensor: clean up zephyr_library calls, again",
+        "Created At": "2021-08-30T18:11:40Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/13260",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/13261",
+        "Title": "shell: Fix prompt length not updated in shell_prompt_change",
+        "Created At": ""
+    }
+]

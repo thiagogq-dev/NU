@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "laravel/laravel",
+        "Target PR": "https://github.com/laravel/laravel/pull/5477",
+        "Closest PR": "https://github.com/laravel/laravel/pull/5732",
+        "Title": "[8.x] Fix \"View path not found\" when managing view cache",
+        "Created At": "2021-11-23T18:46:38Z"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "snipe/snipe-it",
+        "Target PR": "https://github.com/snipe/snipe-it/pull/6831",
+        "Closest PR": "https://github.com/snipe/snipe-it/pull/7882",
+        "Title": "Fix for when a user with the correct permissions couldn't update Manufacturers.",
+        "Created At": "2020-03-06T20:21:01Z"
+    }
+]

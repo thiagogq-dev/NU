@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/13823",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/16328",
+        "Title": "Filter locked users in the admin API",
+        "Created At": "2023-09-15T14:31:53Z"
+    },
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/14642",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/16737",
+        "Title": "Clarify documentation for `only_for_reauth`",
+        "Created At": "2023-12-07T17:38:11Z"
+    },
+    {
+        "repo_name": "matrix-org/synapse",
+        "Target PR": "https://github.com/matrix-org/synapse/pull/6262",
+        "Closest PR": "https://github.com/matrix-org/synapse/pull/8666",
+        "Title": "Minor updates to docs on how to run tests",
+        "Created At": "2020-10-26T23:45:28Z"
+    }
+]

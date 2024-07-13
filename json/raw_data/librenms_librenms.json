@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "librenms/librenms",
+        "Target PR": "https://github.com/librenms/librenms/pull/13554",
+        "Closest PR": "https://github.com/librenms/librenms/pull/14669",
+        "Title": "Sensors: Handle string indexes better, change default flags",
+        "Created At": "2022-11-22T22:06:09Z"
+    }
+]

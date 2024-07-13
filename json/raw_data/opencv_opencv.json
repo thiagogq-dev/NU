@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "opencv/opencv",
+        "Target PR": "https://github.com/opencv/opencv/pull/9448",
+        "Closest PR": "https://github.com/opencv/opencv/pull/12286",
+        "Title": "Fix bug in cv::shape::AffineTransformer",
+        "Created At": "2018-08-23T05:50:29Z"
+    }
+]

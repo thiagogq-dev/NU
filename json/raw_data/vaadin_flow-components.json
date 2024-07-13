@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "vaadin/flow-components",
+        "Target PR": "https://github.com/vaadin/flow-components/pull/1903",
+        "Closest PR": "https://github.com/vaadin/flow-components/pull/3461",
+        "Title": "fix: add fromClient to ClientValidatedEvent cto",
+        "Created At": "2022-07-14T12:26:24Z"
+    }
+]

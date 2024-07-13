@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "home-assistant/plugin-dns",
+        "Target PR": "https://github.com/home-assistant/plugin-dns/pull/59",
+        "Closest PR": "https://github.com/home-assistant/plugin-dns/pull/91",
+        "Title": "Bump docker/login-action from 1.14.1 to 2.0.0",
+        "Created At": "2022-05-06T06:04:17Z"
+    }
+]

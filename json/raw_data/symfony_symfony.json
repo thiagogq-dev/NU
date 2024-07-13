@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "symfony/symfony",
+        "Target PR": "https://github.com/symfony/symfony/pull/44243",
+        "Closest PR": "https://github.com/symfony/symfony/pull/48302",
+        "Title": "fix: RegexValidator doesn't validate empty strings anymore",
+        "Created At": "2022-11-23T19:08:16Z"
+    }
+]

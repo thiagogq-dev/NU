@@ -4,10 +4,10 @@ import json
 import json
 
 # Defina um dicionário de substituições de chave
-    # "fix_commit_hash": "Target Commit SHA",
-    # "inducing_commit_hash_pyszz": "target_inducing_commit_hash_pyszz",
+    # "Closest Commit SHA": "fix_commit_hash",
 chaves_para_substituir = {
-    "Closest Commit SHA": "fix_commit_hash",
+    "fix_commit_hash": "Closest Commit SHA",
+    "inducing_commit_hash_pyszz": "closest_inducing_commit_hash_pyszz",
 }
 
 def format(file):
@@ -24,5 +24,5 @@ def format(file):
         json.dump(data, file, indent=4)
 
 
-for file in os.listdir("./json/toBeProcessed/"):
-    format("./json/toBeProcessed/" + file)
+for file in os.listdir("./json/final_processed/"):
+    format("./json/final_processed/" + file)

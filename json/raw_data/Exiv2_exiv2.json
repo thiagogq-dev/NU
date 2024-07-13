@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1536",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2197",
+        "Title": "Refactoring in JpegImage and Photoshop classes",
+        "Created At": "2022-04-07T15:46:00Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/842",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/849",
+        "Title": "fix836_getLoadedLibraries2",
+        "Created At": ""
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1758",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2249",
+        "Title": "Update olympus tags (#2246)",
+        "Created At": "2022-06-11T17:17:45Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/795",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/1181",
+        "Title": "GCC 9.3.0 broken on MinGW/msys2 and CYGWIN (0.27->master)",
+        "Created At": "2020-04-24T14:45:55Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1739",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2249",
+        "Title": "Update olympus tags (#2246)",
+        "Created At": "2022-06-11T17:17:45Z"
+    }
+]

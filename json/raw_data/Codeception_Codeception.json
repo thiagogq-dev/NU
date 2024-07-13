@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "Codeception/Codeception",
+        "Target PR": "https://github.com/Codeception/Codeception/pull/6241",
+        "Closest PR": "https://github.com/Codeception/Codeception/pull/6541",
+        "Title": "Fixed false negative message about missing stecman/symfony-console-completion packege",
+        "Created At": "2022-08-05T15:47:43Z"
+    }
+]

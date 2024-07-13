@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "angelozerr/lsp4xml",
+        "Target PR": "https://github.com/angelozerr/lsp4xml/pull/566",
+        "Closest PR": "https://github.com/eclipse/lemminx/pull/897",
+        "Title": "Improve ETagRequired error range",
+        "Created At": "2020-10-01T09:25:03Z"
+    }
+]

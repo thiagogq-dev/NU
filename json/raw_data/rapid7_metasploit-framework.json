@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "Target PR": "https://github.com/rapid7/metasploit-framework/pull/12433",
+        "Closest PR": "https://github.com/rapid7/metasploit-framework/pull/14238",
+        "Title": "Update sap_service_discovery.rb to support discovering SAP IGS servers",
+        "Created At": "2020-10-08T11:06:33Z"
+    }
+]

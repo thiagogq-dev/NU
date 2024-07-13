@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "wazuh/wazuh-kibana-app",
+        "Target PR": "https://github.com/wazuh/wazuh-kibana-app/pull/5428",
+        "Closest PR": "https://github.com/wazuh/wazuh-dashboard-plugins/pull/6652",
+        "Title": "Fix inventory table fullscreen styles",
+        "Created At": "2024-05-08T11:26:28Z"
+    }
+]

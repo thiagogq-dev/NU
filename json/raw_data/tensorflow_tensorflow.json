@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "Target PR": "https://github.com/tensorflow/tensorflow/pull/55274",
+        "Closest PR": "https://github.com/tensorflow/tensorflow/pull/60026",
+        "Title": "Reduce MKL overheads on small shapes by not rewriting node to use MKL",
+        "Created At": "2023-03-16T23:54:21Z"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "scala/scala",
+        "Target PR": "https://github.com/scala/scala/pull/10118",
+        "Closest PR": "https://github.com/scala/scala/pull/10502",
+        "Title": "Use URI to compute Scaladoc URI [ci: last-only]",
+        "Created At": "2023-08-16T19:02:21Z"
+    },
+    {
+        "repo_name": "scala/scala",
+        "Target PR": "https://github.com/scala/scala/pull/6120",
+        "Closest PR": "https://github.com/scala/scala/pull/7324",
+        "Title": "Add ++: overload that return Map",
+        "Created At": "2018-10-07T04:45:23Z"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "opencv/opencv_contrib",
+        "Target PR": "https://github.com/opencv/opencv_contrib/pull/3480",
+        "Closest PR": "https://github.com/opencv/opencv_contrib/pull/3726",
+        "Title": "Try to Fix #3725: cudaarithm: fix the compile faiure of CUDA 12.",
+        "Created At": "2024-04-22T15:46:07Z"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "obgm/libcoap",
+        "Target PR": "https://github.com/obgm/libcoap/pull/1311",
+        "Closest PR": "https://github.com/obgm/libcoap/pull/1444",
+        "Title": "coap_resource.c: Remove debug test statement.",
+        "Created At": "2024-06-17T08:45:32Z"
+    }
+]

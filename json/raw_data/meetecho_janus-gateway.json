@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "meetecho/janus-gateway",
+        "Target PR": "https://github.com/meetecho/janus-gateway/pull/1990",
+        "Closest PR": "https://github.com/meetecho/janus-gateway/pull/2565",
+        "Title": "errors: replace strerror with locale-safe and threadsafe g_strerror",
+        "Created At": "2021-02-17T21:57:14Z"
+    }
+]

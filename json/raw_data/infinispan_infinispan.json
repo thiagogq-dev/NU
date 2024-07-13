@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "infinispan/infinispan",
+        "Target PR": "https://github.com/infinispan/infinispan/pull/5639",
+        "Closest PR": "https://github.com/infinispan/infinispan/pull/6537",
+        "Title": "[9.4]  ISPN-9822 BasicComponentRegistryImpl fails with security manager",
+        "Created At": "2018-12-13T09:48:29Z"
+    }
+]

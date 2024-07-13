@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "GreycLab/CImg",
+        "Target PR": "https://github.com/GreycLab/CImg/pull/348",
+        "Closest PR": "https://github.com/GreycLab/CImg/pull/296",
+        "Title": "Fix unbounded malloc DoS in PNM loading code",
+        "Created At": ""
+    }
+]

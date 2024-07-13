@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "i18next/i18next",
+        "Target PR": "https://github.com/i18next/i18next/pull/443",
+        "Closest PR": "https://github.com/i18next/i18next/pull/826",
+        "Title": "Fix Interpolator.escapeValue defaulting to undefined in some cases",
+        "Created At": "2016-10-13T20:01:34Z"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "hexpm/hex",
+        "Target PR": "https://github.com/hexpm/hex/pull/646",
+        "Closest PR": "https://github.com/hexpm/hex/pull/668",
+        "Title": "Fix old-style mix.lock support",
+        "Created At": ""
+    }
+]

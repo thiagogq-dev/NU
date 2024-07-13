@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "AEB-labs/cruddl",
+        "Target PR": "https://github.com/AEB-labs/cruddl/pull/253",
+        "Closest PR": "https://github.com/AEB-labs/cruddl/pull/301",
+        "Title": "fix: fix warning if @flexSearch is used on a field of type OffsetDate\u2026",
+        "Created At": "2023-08-30T17:24:32Z"
+    }
+]

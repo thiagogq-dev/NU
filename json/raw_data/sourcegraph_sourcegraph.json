@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "sourcegraph/sourcegraph",
+        "Target PR": "https://github.com/sourcegraph/sourcegraph/pull/30833",
+        "Closest PR": "https://github.com/sourcegraph/sourcegraph/pull/47442",
+        "Title": "packages: fix package ref listing query with limit",
+        "Created At": "2023-02-07T17:55:03Z"
+    }
+]

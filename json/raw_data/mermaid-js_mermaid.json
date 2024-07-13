@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "mermaid-js/mermaid",
+        "Target PR": "https://github.com/mermaid-js/mermaid/pull/2123",
+        "Closest PR": "https://github.com/mermaid-js/mermaid/pull/3112",
+        "Title": "chore(deps-dev): bump cypress from 9.7.0 to 10.0.3",
+        "Created At": "2022-06-06T20:23:24Z"
+    }
+]

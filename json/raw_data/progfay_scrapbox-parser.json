@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "progfay/scrapbox-parser",
+        "Target PR": "https://github.com/progfay/scrapbox-parser/pull/539",
+        "Closest PR": "https://github.com/progfay/scrapbox-parser/pull/971",
+        "Title": "chore(deps): update dependency @babel/core to v7.17.4",
+        "Created At": "2022-02-16T00:38:33Z"
+    }
+]

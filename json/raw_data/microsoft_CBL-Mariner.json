@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "microsoft/CBL-Mariner",
+        "Target PR": "https://github.com/microsoft/CBL-Mariner/pull/6381",
+        "Closest PR": "https://github.com/microsoft/azurelinux/pull/9414",
+        "Title": "[3.0-dev] Patch CVE-2024-5564 in libndp",
+        "Created At": "2024-06-15T00:51:40Z"
+    }
+]

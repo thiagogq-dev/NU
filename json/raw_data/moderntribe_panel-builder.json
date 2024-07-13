@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "moderntribe/panel-builder",
+        "Target PR": "https://github.com/moderntribe/panel-builder/pull/173",
+        "Closest PR": "https://github.com/moderntribe/panel-builder/pull/189",
+        "Title": "Fixed a deprecation issue with oembed class usage from WP.",
+        "Created At": "2020-11-25T15:56:27Z"
+    }
+]

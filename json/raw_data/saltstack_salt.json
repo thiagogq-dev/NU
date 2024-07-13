@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "saltstack/salt",
+        "Target PR": "https://github.com/saltstack/salt/pull/40609",
+        "Closest PR": "https://github.com/saltstack/salt/pull/46995",
+        "Title": "[schedule][develop] Minor fixes and enhancements",
+        "Created At": "2018-04-10T15:14:23Z"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "openmrs/openmrs-module-appointmentscheduling",
+        "Target PR": "https://github.com/openmrs/openmrs-module-appointmentscheduling/pull/32",
+        "Closest PR": "https://github.com/openmrs/openmrs-module-appointmentscheduling/pull/39",
+        "Title": "RA1865 - Fixing reflected XSS in the notes section",
+        "Created At": "2020-12-01T15:34:59Z"
+    }
+]

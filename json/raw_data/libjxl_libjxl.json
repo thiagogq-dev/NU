@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "libjxl/libjxl",
+        "Target PR": "https://github.com/libjxl/libjxl/pull/757",
+        "Closest PR": "https://github.com/libjxl/libjxl/pull/1836",
+        "Title": "fix authors check",
+        "Created At": "2022-10-17T07:45:28Z"
+    },
+    {
+        "repo_name": "libjxl/libjxl",
+        "Target PR": "https://github.com/libjxl/libjxl/pull/365",
+        "Closest PR": "https://github.com/libjxl/libjxl/pull/1651",
+        "Title": "Use an interval tree for looking up patches that intersect a row.",
+        "Created At": "2022-07-26T09:21:19Z"
+    }
+]

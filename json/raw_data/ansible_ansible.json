@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/49569",
+        "Closest PR": "https://github.com/ansible/ansible/pull/65578",
+        "Title": "ansible-galaxy - expand User-Agent string for Galaxy endpoints",
+        "Created At": "2019-12-05T21:25:24Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/65686",
+        "Closest PR": "https://github.com/ansible/ansible/pull/72915",
+        "Title": "2.10: Use _wrap_native_text only for builtin STRING_TYPE_FILTERS (#71801)",
+        "Created At": "2020-12-09T09:30:33Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/49142",
+        "Closest PR": "https://github.com/ansible/ansible/pull/65289",
+        "Title": "[stable-2.7] Add or later to the license expressed in the README",
+        "Created At": "2019-11-26T16:36:16Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/73487",
+        "Closest PR": "https://github.com/ansible/ansible/pull/76954",
+        "Title": "gather_facts sees collection networking connection",
+        "Created At": "2022-02-04T14:34:19Z"
+    },
+    {
+        "repo_name": "ansible/ansible",
+        "Target PR": "https://github.com/ansible/ansible/pull/63366",
+        "Closest PR": "https://github.com/ansible/ansible/pull/72181",
+        "Title": "[dnf] accumulate update filters (#71726)",
+        "Created At": "2020-10-09T23:31:05Z"
+    }
+]

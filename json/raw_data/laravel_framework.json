@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "laravel/framework",
+        "Target PR": "https://github.com/laravel/framework/pull/35865",
+        "Closest PR": "https://github.com/laravel/framework/pull/40378",
+        "Title": "[9.x] Add session decorator",
+        "Created At": "2022-01-12T22:31:01Z"
+    },
+    {
+        "repo_name": "laravel/framework",
+        "Target PR": "https://github.com/laravel/framework/pull/39908",
+        "Closest PR": "https://github.com/laravel/framework/pull/45199",
+        "Title": "[9.x] Update HandleExceptions::$reservedMemory",
+        "Created At": "2022-12-06T12:03:28Z"
+    }
+]

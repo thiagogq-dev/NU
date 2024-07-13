@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "lightningnetwork/lnd",
+        "Target PR": "https://github.com/lightningnetwork/lnd/pull/7098",
+        "Closest PR": "https://github.com/lightningnetwork/lnd/pull/8139",
+        "Title": "CI: upgrade bitcoind version to 0.25",
+        "Created At": "2023-11-01T08:35:46Z"
+    }
+]

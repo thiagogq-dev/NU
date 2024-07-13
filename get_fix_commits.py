@@ -14,7 +14,7 @@ if not os.path.exists("json/with_fix_commits"):
 
 # json_file = sys.argv[1]
 
-for file in os.listdir("json/raw_data_v1"):
+for file in os.listdir("json/raw_data"):
     print(f"Reading {file}")
     full_path = os.path.join("json/raw_data_v1", file)
     with open(full_path) as f:
