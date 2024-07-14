@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "Katello/katello",
-        "Target PR": "https://github.com/Katello/katello/pull/6051",
-        "Closest PR": "https://github.com/Katello/katello/pull/6792",
-        "Title": "Fixes #18228 - Add CV/CCV info to client facts",
-        "Created At": "2017-05-17T13:18:53Z"
-    }
-]
