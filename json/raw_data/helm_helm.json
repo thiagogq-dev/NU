@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "helm/helm",
-        "Target PR": "https://github.com/helm/helm/pull/3152",
-        "Closest PR": "https://github.com/helm/helm/pull/4930",
-        "Title": "fix(helm): Print details for pod resource",
-        "Created At": "2018-11-15T21:46:35Z"
-    }
-]
