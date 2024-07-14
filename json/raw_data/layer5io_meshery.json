@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "layer5io/meshery",
-        "Target PR": "https://github.com/layer5io/meshery/pull/2745",
-        "Closest PR": "https://github.com/meshery/meshery/pull/5423",
-        "Title": "Remove older hack for namespace creation",
-        "Created At": "2022-04-23T07:19:44Z"
-    }
-]
