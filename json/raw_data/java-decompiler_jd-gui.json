@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "java-decompiler/jd-gui",
-        "Target PR": "https://github.com/java-decompiler/jd-gui/pull/418",
-        "Closest PR": "https://github.com/java-decompiler/jd-gui/pull/432",
-        "Title": "Upgrade the launch4j plugin to make the exe work with recent JRE",
-        "Created At": "2023-08-28T12:35:12Z"
-    }
-]
