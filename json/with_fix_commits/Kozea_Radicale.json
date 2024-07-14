@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "Kozea/Radicale",
+        "Target PR": "https://github.com/Kozea/Radicale/pull/341",
+        "Target Commit SHA": "1109973a925970353dfd13c6df8de0e4e446d983",
+        "Closest PR": "https://github.com/Kozea/Radicale/pull/536",
+        "Closest Commit SHA": null,
+        "Title": "fix encoding",
+        "Created At": "2016-11-13T15:06:32Z"
+    }
+]
