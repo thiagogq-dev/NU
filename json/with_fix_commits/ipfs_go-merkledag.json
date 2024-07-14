@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "ipfs/go-merkledag",
+        "Target PR": "https://github.com/ipfs/go-merkledag/pull/92",
+        "Target Commit SHA": "0e4726d152e088749e0ef7404f44a4217f6f9d92",
+        "Closest PR": "https://github.com/ipfs/go-merkledag/pull/103",
+        "Closest Commit SHA": null,
+        "Title": "chore(deps): bump github.com/ipfs/go-bitswap from 0.11.0 to 0.12.0",
+        "Created At": "2023-05-11T20:40:29Z"
+    }
+]
