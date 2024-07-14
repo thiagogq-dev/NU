@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "codehaus-plexus/plexus-archiver",
-        "Target PR": "https://github.com/codehaus-plexus/plexus-archiver/pull/87",
-        "Closest PR": "https://github.com/codehaus-plexus/plexus-archiver/pull/100",
-        "Title": "Parameter `fileMapper` for unpack path rewriting",
-        "Created At": "2018-09-19T12:34:20Z"
-    }
-]

@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "eclipse/jetty.project",
-        "Target PR": "https://github.com/eclipse/jetty.project/pull/9660",
-        "Closest PR": "https://github.com/jetty/jetty.project/pull/11658",
-        "Title": "Issue #11648 - Adding RFC 6265 Cookie parsing of Expires Date ",
-        "Created At": "2024-04-16T19:21:22Z"
-    }
-]

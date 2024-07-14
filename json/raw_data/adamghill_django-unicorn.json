@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "adamghill/django-unicorn",
-        "Target PR": "https://github.com/adamghill/django-unicorn/pull/288",
-        "Closest PR": "https://github.com/adamghill/django-unicorn/pull/439",
-        "Title": "Make sure that `updated_` and `updating_` methods are only called once",
-        "Created At": "2022-09-09T01:55:49Z"
-    }
-]

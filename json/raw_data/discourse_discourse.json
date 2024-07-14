@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "discourse/discourse",
-        "Target PR": "https://github.com/discourse/discourse/pull/20009",
-        "Closest PR": "https://github.com/discourse/discourse/pull/25418",
-        "Title": "FIX: Computed property override error for webhook.categories",
-        "Created At": "2024-01-25T11:53:24Z"
-    }
-]

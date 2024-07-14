@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "cilium/cilium",
-        "Target PR": "https://github.com/cilium/cilium/pull/27597",
-        "Closest PR": "https://github.com/cilium/cilium/pull/33205",
-        "Title": "chore(deps): update dependency renovatebot/renovate to v37.410.1 (main)",
-        "Created At": "2024-06-17T14:09:44Z"
-    }
-]
