@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "grafana/grafana",
+        "Target PR": "https://github.com/grafana/grafana/pull/62143",
+        "Target Commit SHA": "8b574e22b53aa4c5a35032a58844fd4aaaa12f5f",
+        "Closest PR": "https://github.com/grafana/grafana/pull/81285",
+        "Closest Commit SHA": "a9731846ccbfd905b85246c7d2d4160f1d075cc4",
+        "Title": "Docs: fix broken link",
+        "Created At": "2024-01-25T16:45:24Z"
+    },
+    {
+        "repo_name": "grafana/grafana",
+        "Target PR": "https://github.com/grafana/grafana/pull/24539",
+        "Target Commit SHA": "125ba95686df79989626ac1e8aa48e582c0efd98",
+        "Closest PR": "https://github.com/grafana/grafana/pull/33954",
+        "Closest Commit SHA": "8c03b80490cb628182d02f1f887a27946b109924",
+        "Title": "Select: updates story from knobs to control",
+        "Created At": "2021-05-11T16:43:46Z"
+    },
+    {
+        "repo_name": "grafana/grafana",
+        "Target PR": "https://github.com/grafana/grafana/pull/45083",
+        "Target Commit SHA": "605d056136b3dce5545bdbd7868acd8778eed9b1",
+        "Closest PR": "https://github.com/grafana/grafana/pull/63098",
+        "Closest Commit SHA": "f9abd8608e818d73ae8c7a0c1edf6fceb8297f9f",
+        "Title": "Docs: Add 'tenant_id' for Loki clients (Auditing & Analytics)",
+        "Created At": "2023-02-08T13:43:07Z"
+    }
+]
