@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "JustArchiNET/ArchiSteamFarm",
+        "Target PR": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2501",
+        "Target Commit SHA": "4258fed8732591a58d86362377a2aabe7dac3d84",
+        "Closest PR": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2772",
+        "Closest Commit SHA": "981b347bd4d9626098f3d344dbe2fa023baefcb0",
+        "Title": "Fix parsing of possibly completed AppIDs",
+        "Created At": "2022-12-21T15:14:27Z"
+    }
+]
