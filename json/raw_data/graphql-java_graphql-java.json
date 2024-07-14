@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "graphql-java/graphql-java",
-        "Target PR": "https://github.com/graphql-java/graphql-java/pull/2892",
-        "Closest PR": "https://github.com/graphql-java/graphql-java/pull/3262",
-        "Title": "fixes when instrumentExecutionResult on AbortExecutionException",
-        "Created At": "2023-07-04T07:28:31Z"
-    }
-]

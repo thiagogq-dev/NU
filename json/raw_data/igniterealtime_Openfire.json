@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "igniterealtime/Openfire",
-        "Target PR": "https://github.com/igniterealtime/Openfire/pull/1498",
-        "Closest PR": "https://github.com/igniterealtime/Openfire/pull/1718",
-        "Title": "Fix Maven Publish job in GH Actions",
-        "Created At": "2020-10-01T14:16:08Z"
-    }
-]

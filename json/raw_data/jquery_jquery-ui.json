@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "jquery/jquery-ui",
-        "Target PR": "https://github.com/jquery/jquery-ui/pull/1953",
-        "Closest PR": "https://github.com/jquery/jquery-ui/pull/2067",
-        "Title": "Datepicker: Capitalize some Indonesian words",
-        "Created At": "2022-04-06T09:25:53Z"
-    }
-]

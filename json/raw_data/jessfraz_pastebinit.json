@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "jessfraz/pastebinit",
-        "Target PR": "https://github.com/jessfraz/pastebinit/pull/3",
-        "Closest PR": "https://github.com/jessfraz/pastebinit/pull/4",
-        "Title": "Add a 413-specific error message to make for easier troubleshooting.",
-        "Created At": "2018-08-05T23:13:21Z"
-    }
-]
