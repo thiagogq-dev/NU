@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "i18next/i18next",
+        "Target PR": "https://github.com/i18next/i18next/pull/443",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/i18next/i18next/pull/826",
+        "Closest Commit SHA": "11f059599889d857d497aa0499355be32df0dbb6",
+        "Title": "Fix Interpolator.escapeValue defaulting to undefined in some cases",
+        "Created At": "2016-10-13T20:01:34Z"
+    }
+]
