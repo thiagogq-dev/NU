@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "RobotsAndPencils/go-saml",
+        "Target PR": "https://github.com/RobotsAndPencils/go-saml/pull/38",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/RobotsAndPencils/go-saml/pull/38",
+        "Closest Commit SHA": null,
+        "Title": "sign AuthnRequests and AuthnResponses with SHA256",
+        "Created At": "2020-07-10T16:22:10Z"
+    }
+]
