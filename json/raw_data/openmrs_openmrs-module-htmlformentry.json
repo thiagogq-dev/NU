@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "openmrs/openmrs-module-htmlformentry",
-        "Target PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/138",
-        "Closest PR": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/154",
-        "Title": "HTML-707 Update ConditionTagHandlerSupport2_2 to work for later versions",
-        "Created At": "2019-08-17T22:52:27Z"
-    }
-]

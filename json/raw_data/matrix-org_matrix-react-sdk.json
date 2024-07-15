@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "matrix-org/matrix-react-sdk",
-        "Target PR": "https://github.com/matrix-org/matrix-react-sdk/pull/5981",
-        "Closest PR": "https://github.com/matrix-org/matrix-react-sdk/pull/8518",
-        "Title": "Replace message composer menu with IconizedContextMenu",
-        "Created At": "2022-05-06T12:48:19Z"
-    }
-]

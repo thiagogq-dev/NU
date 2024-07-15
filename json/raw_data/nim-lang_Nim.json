@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "nim-lang/Nim",
-        "Target PR": "https://github.com/nim-lang/Nim/pull/16940",
-        "Closest PR": "https://github.com/nim-lang/Nim/pull/19487",
-        "Title": "Fix typo trailing space",
-        "Created At": "2022-02-03T22:55:20Z"
-    }
-]

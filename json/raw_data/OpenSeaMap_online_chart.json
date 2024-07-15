@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "OpenSeaMap/online_chart",
-        "Target PR": "https://github.com/OpenSeaMap/online_chart/pull/70",
-        "Closest PR": "https://github.com/OpenSeaMap/online_chart/pull/81",
-        "Title": "Fix for trip planner: allow the browser to display scrollbars on the page",
-        "Created At": "2016-02-18T19:33:49Z"
-    }
-]

@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "miekg/dns",
-        "Target PR": "https://github.com/miekg/dns/pull/1044",
-        "Closest PR": "https://github.com/miekg/dns/pull/1189",
-        "Title": "Fix PacketConnReader typo in DecorateReader docs",
-        "Created At": "2020-10-24T15:55:42Z"
-    }
-]

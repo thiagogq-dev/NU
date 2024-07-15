@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "lodash/lodash",
-        "Target PR": "https://github.com/lodash/lodash/pull/5065",
-        "Closest PR": "https://github.com/lodash/lodash/pull/5366",
-        "Title": "Fixed the Object contain \"length\" prop issue",
-        "Created At": "2022-01-25T05:53:52Z"
-    }
-]

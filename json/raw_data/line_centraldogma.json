@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "line/centraldogma",
-        "Target PR": "https://github.com/line/centraldogma/pull/621",
-        "Closest PR": "https://github.com/line/centraldogma/pull/703",
-        "Title": "Bump terser from 4.8.0 to 4.8.1 in /server-auth/webapp",
-        "Created At": "2022-07-20T03:52:39Z"
-    }
-]

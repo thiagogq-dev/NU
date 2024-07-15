@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "OHDSI/WebAPI",
-        "Target PR": "https://github.com/OHDSI/WebAPI/pull/1101",
-        "Closest PR": "https://github.com/OHDSI/WebAPI/pull/1537",
-        "Title": "pac4j and Authz google id from 2.7",
-        "Created At": "2020-05-13T17:39:59Z"
-    }
-]

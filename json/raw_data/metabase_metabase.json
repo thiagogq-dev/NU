@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "metabase/metabase",
-        "Target PR": "https://github.com/metabase/metabase/pull/30854",
-        "Closest PR": "https://github.com/metabase/metabase/pull/42848",
-        "Title": "\ud83e\udd16 backported \"Fix homepage flaky test\"",
-        "Created At": "2024-05-17T17:52:51Z"
-    }
-]

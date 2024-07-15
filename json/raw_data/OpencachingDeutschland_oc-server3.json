@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "OpencachingDeutschland/oc-server3",
-        "Target PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/893",
-        "Closest PR": "https://github.com/OpencachingDeutschland/oc-server3/pull/902",
-        "Title": "Fix XSS from open bug bounty from slack message 01",
-        "Created At": "2022-12-11T16:16:30Z"
-    }
-]

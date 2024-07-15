@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "nextcloud/notes",
-        "Target PR": "https://github.com/nextcloud/notes/pull/1031",
-        "Closest PR": "https://github.com/nextcloud/notes/pull/1279",
-        "Title": "Chore(deps): Bump @nextcloud/router from 2.2.1 to 3.0.1",
-        "Created At": "2024-04-23T10:36:24Z"
-    }
-]
