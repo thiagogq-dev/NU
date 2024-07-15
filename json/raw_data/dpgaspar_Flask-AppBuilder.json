@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "dpgaspar/Flask-AppBuilder",
+        "Target PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2045",
+        "Closest PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2238",
+        "Title": "chore: bump cryptography to 42.0.4",
+        "Created At": "2024-05-13T14:34:15Z"
+    }
+]

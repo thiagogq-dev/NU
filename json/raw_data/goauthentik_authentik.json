@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "goauthentik/authentik",
+        "Target PR": "https://github.com/goauthentik/authentik/pull/7669",
+        "Closest PR": "https://github.com/goauthentik/authentik/pull/10124",
+        "Title": "policies/reputation: fix existing reputation update",
+        "Created At": "2024-06-16T14:21:28Z"
+    }
+]

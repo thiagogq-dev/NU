@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "destinygg/chat",
+        "Target PR": "https://github.com/destinygg/chat/pull/35",
+        "Closest PR": "https://github.com/destinygg/chat/pull/35",
+        "Title": "Fix WebSocket upgrade CSRF vulnerability",
+        "Created At": "2020-07-14T19:54:49Z"
+    }
+]

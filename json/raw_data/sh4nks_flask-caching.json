@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "sh4nks/flask-caching",
-        "Target PR": "https://github.com/sh4nks/flask-caching/pull/209",
-        "Closest PR": "https://github.com/pallets-eco/flask-caching/pull/300",
-        "Title": "Bump pre-commit from 2.15.0 to 2.16.0 in /requirements",
-        "Created At": "2021-12-01T08:08:53Z"
-    }
-]
