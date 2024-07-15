@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "py-pdf/pypdf",
+        "Target PR": "https://github.com/py-pdf/pypdf/pull/2264",
+        "Target Commit SHA": "9b23ac3c9619492570011d551d521690de9a3e2d",
+        "Closest PR": "https://github.com/py-pdf/pypdf/pull/2705",
+        "Closest Commit SHA": "aa4ddef11d30013ebc6f2f5e495379c19828dce9",
+        "Title": "BUG: Fix deprecation for Ressources when using old constants",
+        "Created At": "2024-06-06T08:05:37Z"
+    }
+]
