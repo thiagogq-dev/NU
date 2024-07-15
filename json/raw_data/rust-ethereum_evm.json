@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "rust-ethereum/evm",
-        "Target PR": "https://github.com/rust-ethereum/evm/pull/264",
-        "Closest PR": "https://github.com/rust-ethereum/evm/pull/280",
-        "Title": "Fix eip2929 implementation",
-        "Created At": "2024-05-08T12:15:25Z"
-    }
-]

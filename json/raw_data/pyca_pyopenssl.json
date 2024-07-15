@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "pyca/pyopenssl",
-        "Target PR": "https://github.com/pyca/pyopenssl/pull/723",
-        "Closest PR": "https://github.com/pyca/pyopenssl/pull/802",
-        "Title": "Fixes incorrect rtype in documentation",
-        "Created At": "2018-10-19T07:02:20Z"
-    }
-]
