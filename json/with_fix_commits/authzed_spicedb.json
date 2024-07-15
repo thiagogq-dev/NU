@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "authzed/spicedb",
+        "Target PR": "https://github.com/authzed/spicedb/pull/1397",
+        "Target Commit SHA": "666d083225a1f3274112be95a9c6e17cc003be34",
+        "Closest PR": "https://github.com/authzed/spicedb/pull/1937",
+        "Closest Commit SHA": "42b739f13648db3f574c03dbf4e21a5f7f3c51a1",
+        "Title": "Initial support for Intersection arrow",
+        "Created At": "2024-06-13T18:44:55Z"
+    }
+]
