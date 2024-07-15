@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "py-pdf/pypdf",
-        "Target PR": "https://github.com/py-pdf/pypdf/pull/2264",
-        "Closest PR": "https://github.com/py-pdf/pypdf/pull/2705",
-        "Title": "BUG: Fix deprecation for Ressources when using old constants",
-        "Created At": "2024-06-06T08:05:37Z"
-    }
-]
