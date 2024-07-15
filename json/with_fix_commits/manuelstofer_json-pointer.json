@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "manuelstofer/json-pointer",
+        "Target PR": "https://github.com/manuelstofer/json-pointer/pull/34",
+        "Target Commit SHA": "1dbd1ed6bef76f359dcf44d5b0e849d4881540b2",
+        "Closest PR": "https://github.com/manuelstofer/json-pointer/pull/34",
+        "Closest Commit SHA": "1dbd1ed6bef76f359dcf44d5b0e849d4881540b2",
+        "Title": "fix: \ud83d\udc1b fix prototype pollution",
+        "Created At": "2020-08-25T12:46:16Z"
+    }
+]

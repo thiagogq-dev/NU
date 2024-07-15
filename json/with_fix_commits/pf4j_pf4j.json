@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "pf4j/pf4j",
+        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
+        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
+        "Title": "Fix the problem of not being able to disable plugins correctly",
+        "Created At": "2024-04-03T15:51:39Z"
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "Target PR": "https://github.com/pf4j/pf4j/pull/537",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
+        "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
+        "Title": "Fix the problem of not being able to disable plugins correctly",
+        "Created At": "2024-04-03T15:51:39Z"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "nilsteampassnet/TeamPass",
+        "Target PR": "https://github.com/nilsteampassnet/TeamPass/pull/1140",
+        "Target Commit SHA": "6a0d13aaf16b8a5ea224ec818e1853419bb6e60b",
+        "Closest PR": "https://github.com/nilsteampassnet/TeamPass/pull/1565",
+        "Closest Commit SHA": null,
+        "Title": "Fix for issues #1218 and #1105.",
+        "Created At": "2016-10-31T17:09:56Z"
+    }
+]

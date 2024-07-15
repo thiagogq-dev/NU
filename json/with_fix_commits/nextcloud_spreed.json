@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "nextcloud/spreed",
+        "Target PR": "https://github.com/nextcloud/spreed/pull/7535",
+        "Target Commit SHA": "7f33ad49df6c7d77173c6c9748e0f4e3cf381e4f",
+        "Closest PR": "https://github.com/nextcloud/spreed/pull/9897",
+        "Closest Commit SHA": "ac00edaf32b75d7c6ac2be24ebb0d50757cdcd58",
+        "Title": "fix(MessagesList) - performance, search fixes and minor refactoring",
+        "Created At": "2023-07-04T15:37:51Z"
+    },
+    {
+        "repo_name": "nextcloud/spreed",
+        "Target PR": "https://github.com/nextcloud/spreed/pull/7504",
+        "Target Commit SHA": "6ec9552b0fdadbf7f7012598f76b13abcdc0767a",
+        "Closest PR": "https://github.com/nextcloud/spreed/pull/9870",
+        "Closest Commit SHA": "329f6c4c60aa3777188ee523169dd3d6a56ef9ad",
+        "Title": "fix(ParticipantsTab) replace v-model for SearchBox component",
+        "Created At": "2023-06-30T08:07:12Z"
+    }
+]
