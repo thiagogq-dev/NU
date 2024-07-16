@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/2081",
+        "Target Commit SHA": "3216ebf59e698b6dc71d0ba3e8052d5d5e09d2bd",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/2530",
+        "Closest Commit SHA": "6cfd952f886d8c901da58a0399a80649aad9032c",
+        "Title": "cooja: use fixed-size clock_time_t size",
+        "Created At": "2023-07-17T09:06:13Z"
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/1409",
+        "Target Commit SHA": "48a3799e2d2c52e91cb7153b163bb26dfd9a4b4f",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/1414",
+        "Closest Commit SHA": "5bf0fd68bab09221dcc5e01ba405c1e844d01eea",
+        "Title": "Fix SNMP code style",
+        "Created At": ""
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/1648",
+        "Target Commit SHA": "80a5479e9c880b38ec0f1bdb937d17c6fb4ccb25",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/2180",
+        "Closest Commit SHA": "a5cff2340950c5cec876f446ea3f6e3149ff0cf7",
+        "Title": "Update tools/cooja submodule",
+        "Created At": "2022-09-14T12:13:09Z"
+    },
+    {
+        "repo_name": "contiki-ng/contiki-ng",
+        "Target PR": "https://github.com/contiki-ng/contiki-ng/pull/972",
+        "Target Commit SHA": "5884a12d7d71c5bce0d97b1a387aeb7928189b04",
+        "Closest PR": "https://github.com/contiki-ng/contiki-ng/pull/1271",
+        "Closest Commit SHA": null,
+        "Title": "minor trivial fixes set",
+        "Created At": "2020-05-20T20:14:06Z"
+    }
+]
