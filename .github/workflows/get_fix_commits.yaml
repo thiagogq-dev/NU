@@ -50,6 +50,10 @@ jobs:
         TOKEN_3: ${{ secrets.TOKEN_3 }}
       run: |
         python get_fix_commits.py ${{ matrix.file }}
+
+    - name: Remover Raw Data File
+      run: |
+        rm ${{ matrix.file }}
         
     - name: Commit and push
       run: |
