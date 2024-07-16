@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "cowtowncoder/java-merge-sort",
-        "Target PR": "https://github.com/cowtowncoder/java-merge-sort/pull/21",
-        "Closest PR": "https://github.com/cowtowncoder/java-merge-sort/pull/21",
-        "Title": "[SECURITY] Fix Temporary File Information Disclosure Vulnerability\n",
-        "Created At": "2022-11-19T02:05:33Z"
-    }
-]

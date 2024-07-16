@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "DanBloomberg/leptonica",
-        "Target PR": "https://github.com/DanBloomberg/leptonica/pull/499",
-        "Closest PR": "https://github.com/DanBloomberg/leptonica/pull/573",
-        "Title": "Fix OSS-Fuzz issue 28181 (Use-of-uninitialized-value)",
-        "Created At": "2021-04-11T06:46:19Z"
-    }
-]
