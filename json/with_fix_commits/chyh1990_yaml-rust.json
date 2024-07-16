@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "chyh1990/yaml-rust",
+        "Target PR": "https://github.com/chyh1990/yaml-rust/pull/109",
+        "Target Commit SHA": "7eb6b6afa9b1e3122f4a1ca06ec8390496eb3d57",
+        "Closest PR": "https://github.com/chyh1990/yaml-rust/pull/134",
+        "Closest Commit SHA": "360a34d75bb64357cfdbc5bb706bcde9a0ecbc23",
+        "Title": "Fix emitting hexlike strings without quotes",
+        "Created At": "2019-07-24T14:36:46Z"
+    }
+]
