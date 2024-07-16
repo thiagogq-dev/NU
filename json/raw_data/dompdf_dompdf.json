@@ -1,9 +1,0 @@
-[
-    {
-        "repo_name": "dompdf/dompdf",
-        "Target PR": "https://github.com/dompdf/dompdf/pull/2995",
-        "Closest PR": "https://github.com/dompdf/dompdf/pull/3170",
-        "Title": "Adjust default input styling to treat unhandled types as text",
-        "Created At": "2023-03-26T20:32:34Z"
-    }
-]

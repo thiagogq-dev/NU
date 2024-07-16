@@ -56,6 +56,7 @@ with open(json_file) as f:
     with open(output_file, "w") as f:
         json.dump(commits_data, f, indent=4)
     # remover arquivos lido
+    print(f"Removing {json_file}")
     os.remove(json_file)
 
 # split_json_file("NVD-selected-NONSECUR-commits.json", "./json/with_fix_commits/NVD-selected-NONSECUR-commits")
