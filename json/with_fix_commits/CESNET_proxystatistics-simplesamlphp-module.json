@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "CESNET/proxystatistics-simplesamlphp-module",
+        "Target PR": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/18",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/21",
+        "Closest Commit SHA": null,
+        "Title": "Move Javascript from inline to external",
+        "Created At": "2019-06-12T14:52:00Z"
+    }
+]
