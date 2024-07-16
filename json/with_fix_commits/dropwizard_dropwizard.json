@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "dropwizard/dropwizard",
+        "Target PR": "https://github.com/dropwizard/dropwizard/pull/3208",
+        "Target Commit SHA": "d5a512f7abf965275f2a6b913ac4fe778e424242",
+        "Closest PR": "https://github.com/dropwizard/dropwizard/pull/3820",
+        "Closest Commit SHA": "74736edff73a302dc6ec87c81ba589c0bc0a5ec6",
+        "Title": "Bump jdbi3-bom from 3.18.0 to 3.18.1",
+        "Created At": "2021-03-26T05:11:51Z"
+    }
+]
