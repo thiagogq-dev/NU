@@ -57,5 +57,6 @@ jobs:
         git config --global user.name "Thiago Quinto"
         git pull 
         git add json/with_fix_commits/*.json
+        git add json/raw_data/*.json
         git commit -m "Get Fix Commits"
         git push
