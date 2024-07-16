@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "clonos/control-pane",
+        "Target PR": "https://github.com/clonos/control-pane/pull/20",
+        "Target Commit SHA": "a2d506267cb6179865c263e5f7b76340de95a514",
+        "Closest PR": "https://github.com/clonos/control-pane/pull/20",
+        "Closest Commit SHA": "a2d506267cb6179865c263e5f7b76340de95a514",
+        "Title": "Fixed most SQL Injections",
+        "Created At": "2019-04-24T15:24:53Z"
+    }
+]
