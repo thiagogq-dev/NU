@@ -2,7 +2,9 @@
     {
         "repo_name": "glpi-project/glpi",
         "Target PR": "https://github.com/glpi-project/glpi/pull/5520",
+        "Target Commit SHA": "7afbcc75eb0a2caa502114575f8155b1920c5c55",
         "Closest PR": "https://github.com/glpi-project/glpi/pull/7017",
+        "Closest Commit SHA": "5e1c52c5e8a30ceb4e9572964da7ed89ddfb1aaf",
         "Title": "Use correct content-type for autocompletion url",
         "Created At": "2020-03-04T11:30:03Z"
     }
