@@ -2,7 +2,9 @@
     {
         "repo_name": "GoogleCloudPlatform/iot-device-sdk-embedded-c",
         "Target PR": "https://github.com/GoogleCloudPlatform/iot-device-sdk-embedded-c/pull/119",
+        "Target Commit SHA": "96018ab742975e1a4fc45857bb16140e52297041",
         "Closest PR": "https://github.com/GoogleCloudPlatform/iot-device-sdk-embedded-c/pull/120",
+        "Closest Commit SHA": "726458492602cd6c93f17e670daaefefd732c5ea",
         "Title": "Fix fuzz_test checkout",
         "Created At": "2021-04-09T13:57:36Z"
     }
