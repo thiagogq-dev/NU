@@ -1,0 +1,47 @@
+[
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1536",
+        "Target Commit SHA": null,
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2197",
+        "Closest Commit SHA": "25c47cd1cfca4b6dd2acd2f18c717d704b5f6fca",
+        "Title": "Refactoring in JpegImage and Photoshop classes",
+        "Created At": "2022-04-07T15:46:00Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/842",
+        "Target Commit SHA": "7798ae25574425271305fffe85de77bec8df03f1",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/849",
+        "Closest Commit SHA": "f3a13a912f99e473d5a5c2d6040619edab20a701",
+        "Title": "fix836_getLoadedLibraries2",
+        "Created At": ""
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1758",
+        "Target Commit SHA": "75a1832c57de18ef67c1e8b48f098393a7a843e1",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2249",
+        "Closest Commit SHA": "94f8889cd3b7cefd93dde8b47581a2090dc9c9a6",
+        "Title": "Update olympus tags (#2246)",
+        "Created At": "2022-06-11T17:17:45Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/795",
+        "Target Commit SHA": "6fa2e31206127bd8bcac0269311f3775a8d6ea21",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/1181",
+        "Closest Commit SHA": "7fa2ce90dc8d87dfb090a67c70fc23d148aa86b8",
+        "Title": "GCC 9.3.0 broken on MinGW/msys2 and CYGWIN (0.27->master)",
+        "Created At": "2020-04-24T14:45:55Z"
+    },
+    {
+        "repo_name": "Exiv2/exiv2",
+        "Target PR": "https://github.com/Exiv2/exiv2/pull/1739",
+        "Target Commit SHA": "17f0d759662aa88343b6084e8c97d67ef363a030",
+        "Closest PR": "https://github.com/Exiv2/exiv2/pull/2249",
+        "Closest Commit SHA": "94f8889cd3b7cefd93dde8b47581a2090dc9c9a6",
+        "Title": "Update olympus tags (#2246)",
+        "Created At": "2022-06-11T17:17:45Z"
+    }
+]
