@@ -2,14 +2,18 @@
     {
         "repo_name": "python/cpython",
         "Target PR": "https://github.com/python/cpython/pull/107982",
+        "Target Commit SHA": "ccf81e1088c25a9f4464e478dc3b5c03ed7ee63b",
         "Closest PR": "https://github.com/python/cpython/pull/120643",
+        "Closest Commit SHA": "9e4a81f00fef689c6e18a64245aa064eaadc7ac7",
         "Title": "gh-120642: Move private PyCode APIs to the internal C API",
         "Created At": "2024-06-17T14:18:51Z"
     },
     {
         "repo_name": "python/cpython",
         "Target PR": "https://github.com/python/cpython/pull/107981",
+        "Target Commit SHA": "ede98958810b76694cf756d305b564cd6adc1a48",
         "Closest PR": "https://github.com/python/cpython/pull/120655",
+        "Closest Commit SHA": "396f8b0b98441344e1d3223a4075e5e342e0c2df",
         "Title": "[3.13] gh-117657:  Fix `__slots__` thread safety in free-threaded build (GH-119368)",
         "Created At": "2024-06-17T18:45:03Z"
     }
