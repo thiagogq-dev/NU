@@ -2,7 +2,9 @@
     {
         "repo_name": "ZeusCart/zeuscart",
         "Target PR": "https://github.com/ZeusCart/zeuscart/pull/23",
+        "Target Commit SHA": "b488c7e2b82ce07fd75d18f167bb48f4f84a425f",
         "Closest PR": "https://github.com/ZeusCart/zeuscart/pull/23",
+        "Closest Commit SHA": "b488c7e2b82ce07fd75d18f167bb48f4f84a425f",
         "Title": "Security fix for Bin/Core/Assembler.php",
         "Created At": "2014-06-24T00:32:08Z"
     }
