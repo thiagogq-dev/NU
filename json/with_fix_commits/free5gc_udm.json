@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "free5gc/udm",
+        "Target PR": "https://github.com/free5gc/udm/pull/20",
+        "Target Commit SHA": "5e1479cc686f058992557669b13fd3761a1b6024",
+        "Closest PR": "https://github.com/free5gc/udm/pull/34",
+        "Closest Commit SHA": "c2ede61351635a16b33f835ddb0076c0a6cad8a1",
+        "Title": "Bump google.golang.org/protobuf from 1.32.0 to 1.33.0",
+        "Created At": "2024-03-13T23:28:11Z"
+    }
+]
