@@ -2,14 +2,18 @@
     {
         "repo_name": "pimcore/pimcore",
         "Target PR": "https://github.com/pimcore/pimcore/pull/14498",
+        "Target Commit SHA": "7f788fa44bc18bc1c9182c25e26b770a1d30b62f",
         "Closest PR": "https://github.com/pimcore/pimcore/pull/14491",
+        "Closest Commit SHA": "012440ee721c5e2518b40fd515f45c2bfbc96beb",
         "Title": "Fix sizing of custom admin tab icons",
         "Created At": ""
     },
     {
         "repo_name": "pimcore/pimcore",
         "Target PR": "https://github.com/pimcore/pimcore/pull/13347",
+        "Target Commit SHA": "43aa34e018f5cd447bceb864358285ba92f68372",
         "Closest PR": "https://github.com/pimcore/pimcore/pull/16075",
+        "Closest Commit SHA": null,
         "Title": "fix(page-factory): bug with not initalized defaultPageType",
         "Created At": "2023-10-10T08:32:28Z"
     }
