@@ -2,7 +2,9 @@
     {
         "repo_name": "ruby-git/ruby-git",
         "Target PR": "https://github.com/ruby-git/ruby-git/pull/569",
+        "Target Commit SHA": "291ca0946bec7164b90ad5c572ac147f512c7159",
         "Closest PR": "https://github.com/ruby-git/ruby-git/pull/652",
+        "Closest Commit SHA": "2500bcf2461b84aae8e1cf68fd29e850081e39f4",
         "Title": "Release v1.17.2",
         "Created At": "2023-03-07T17:22:36Z"
     }
