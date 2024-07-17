@@ -2,7 +2,9 @@
     {
         "repo_name": "rust-lang/rust",
         "Target PR": "https://github.com/rust-lang/rust/pull/84603",
+        "Target Commit SHA": "f97769a2b7bc5a6b3d8f7140613cf26352f2b518",
         "Closest PR": "https://github.com/rust-lang/rust/pull/96455",
+        "Closest Commit SHA": "c186f7c07912064c352f12d8b0aa9d5e5975450e",
         "Title": "Make write/print macros eagerly drop temporaries",
         "Created At": "2022-04-26T22:55:40Z"
     }
