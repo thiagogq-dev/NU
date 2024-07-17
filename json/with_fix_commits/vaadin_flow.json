@@ -2,14 +2,18 @@
     {
         "repo_name": "vaadin/flow",
         "Target PR": "https://github.com/vaadin/flow/pull/10157",
+        "Target Commit SHA": "11a6ad2ddf9b9bf91dd28515784d26c9ff5c6274",
         "Closest PR": "https://github.com/vaadin/flow/pull/10145",
+        "Closest Commit SHA": "21b4b932b91506228cdb2f2118d65a4ae5163ec5",
         "Title": "fix: only inject scripts not already loaded when using an exported wc",
         "Created At": ""
     },
     {
         "repo_name": "vaadin/flow",
         "Target PR": "https://github.com/vaadin/flow/pull/10640",
+        "Target Commit SHA": "dde115adfbcc9484e60a34d603251edf94fae529",
         "Closest PR": "https://github.com/vaadin/flow/pull/13547",
+        "Closest Commit SHA": "942276994b8fb2c089121c3f1e6e58257c5b6a96",
         "Title": "fix: Force async version 3.2.2",
         "Created At": "2022-04-14T10:25:59Z"
     }
