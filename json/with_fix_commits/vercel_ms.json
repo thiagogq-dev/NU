@@ -2,7 +2,9 @@
     {
         "repo_name": "vercel/ms",
         "Target PR": "https://github.com/vercel/ms/pull/89",
+        "Target Commit SHA": "caae2988ba2a37765d055c4eee63d383320ee662",
         "Closest PR": "https://github.com/vercel/ms/pull/104",
+        "Closest Commit SHA": "7437f923023931ba23f345bba9afd7e1d3e84894",
         "Title": "Add full support for negative numbers",
         "Created At": "2017-11-30T18:03:38Z"
     }
