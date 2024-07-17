@@ -2,7 +2,9 @@
     {
         "repo_name": "yrutschle/sslh",
         "Target PR": "https://github.com/yrutschle/sslh/pull/353",
+        "Target Commit SHA": "9a36854ed37dab1c2cf66ead53bf0467caae0af7",
         "Closest PR": "https://github.com/yrutschle/sslh/pull/401",
+        "Closest Commit SHA": "54fe4b2f472ede62f990c8d58d9f7f9cdad68f16",
         "Title": "fix handling of IPv6 UDP connections",
         "Created At": "2023-08-22T10:03:50Z"
     }
