@@ -2,14 +2,18 @@
     {
         "repo_name": "argoproj/argo-cd",
         "Target PR": "https://github.com/argoproj/argo-cd/pull/3088",
+        "Target Commit SHA": "916d4aed5775fead4ab75f47c1d352cd0e73b815",
         "Closest PR": "https://github.com/argoproj/argo-cd/pull/5430",
+        "Closest Commit SHA": "bb15a4996e327fb27ad91f3f6fa24f831f7754e0",
         "Title": "fix(ui): Only connect edges between resources in the same namespace",
         "Created At": "2021-02-05T22:21:27Z"
     },
     {
         "repo_name": "argoproj/argo-cd",
         "Target PR": "https://github.com/argoproj/argo-cd/pull/7139",
+        "Target Commit SHA": "7122b83fc346ec2729227405a2f9c2aa84b0bf80",
         "Closest PR": "https://github.com/argoproj/argo-cd/pull/10493",
+        "Closest Commit SHA": "9fac0f6ae6e52d6f4978a1eaaf51fbffb9c0958a",
         "Title": "fix: add more info to  creationtime format",
         "Created At": "2022-09-01T06:04:24Z"
     }
