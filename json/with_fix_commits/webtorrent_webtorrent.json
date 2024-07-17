@@ -2,7 +2,9 @@
     {
         "repo_name": "webtorrent/webtorrent",
         "Target PR": "https://github.com/webtorrent/webtorrent/pull/1714",
+        "Target Commit SHA": "7e829b5d52c32d2e6d8f5fbcf0f8f418fffde083",
         "Closest PR": "https://github.com/webtorrent/webtorrent/pull/1905",
+        "Closest Commit SHA": "dc31f98205e8beac4f11327948c04cc256cbb2ad",
         "Title": "Updated Readme",
         "Created At": "2020-08-16T16:00:27Z"
     }
