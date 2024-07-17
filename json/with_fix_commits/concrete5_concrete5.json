@@ -2,14 +2,18 @@
     {
         "repo_name": "concrete5/concrete5",
         "Target PR": "https://github.com/concrete5/concrete5/pull/8651",
+        "Target Commit SHA": "9c3e000327801c84c0656c56b38a9915d036244b",
         "Closest PR": "https://github.com/concretecms/concretecms/pull/9490",
+        "Closest Commit SHA": "144cd0e3d97892575632ceb2d32989ed25417ab5",
         "Title": "[v9] Fix Page Alias notification error",
         "Created At": "2021-05-17T15:10:10Z"
     },
     {
         "repo_name": "concrete5/concrete5",
         "Target PR": "https://github.com/concrete5/concrete5/pull/6008",
+        "Target Commit SHA": "fc234f94e178f17c796a7fd8a61af171e4bcd256",
         "Closest PR": "https://github.com/concretecms/concretecms/pull/7145",
+        "Closest Commit SHA": "a06e66d5c99759f460027c69084fe3a624c6cf8e",
         "Title": "Force MYISAM for PageSearchIndex only if required",
         "Created At": "2018-10-02T14:35:13Z"
     }
