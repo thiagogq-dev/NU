@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "projectdiscovery/interactsh",
+        "Target PR": "https://github.com/projectdiscovery/interactsh/pull/155",
+        "Target Commit SHA": "30135c8377ccba2c21c26ba5b9f7eadd3afabaf0",
+        "Closest PR": "https://github.com/projectdiscovery/interactsh/pull/425",
+        "Closest Commit SHA": "3b66677ea82821ebcff2fb8f6a2d31aa8036fa7c",
+        "Title": "chore(deps): bump goreleaser/goreleaser-action from 3 to 4",
+        "Created At": "2022-12-19T01:35:18Z"
+    }
+]
