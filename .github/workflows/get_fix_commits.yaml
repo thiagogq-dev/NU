@@ -53,7 +53,7 @@ jobs:
 
     - name: Remover Raw Data File
       run: |
-        rm ${{ matrix.file }}
+        git rm ${{ matrix.file }}
         
     - name: Commit and push
       run: |
