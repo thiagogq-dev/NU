@@ -2,7 +2,9 @@
     {
         "repo_name": "YourAcclaim/block_acclaim",
         "Target PR": "https://github.com/YourAcclaim/block_acclaim/pull/18",
+        "Target Commit SHA": "703318ab3ddae7690903284875ff12e907b4fea2",
         "Closest PR": "https://github.com/YourAcclaim/block_acclaim/pull/40",
+        "Closest Commit SHA": "bdb7627c2a67351e8015246410add24140b14e10",
         "Title": "Select badge UI not saving",
         "Created At": "2020-06-05T17:08:32Z"
     }
