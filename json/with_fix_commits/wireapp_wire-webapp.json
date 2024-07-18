@@ -2,10 +2,10 @@
     {
         "repo_name": "wireapp/wire-webapp",
         "Target PR": "https://github.com/wireapp/wire-webapp/pull/10704",
-        "Target Commit SHA": "281f2a9d795f68abe423c116d5da4e1e73a60062",
         "Closest PR": "https://github.com/wireapp/wire-webapp/pull/12637",
         "Closest Commit SHA": "fce2a174570002e44c544cd85f2e41ea590b42e9",
         "Title": "fix(accessibility): create group modal #ACC-12",
-        "Created At": "2022-03-08T14:11:06Z"
+        "Created At": "2022-03-08T14:11:06Z",
+        "fix_commit_hash": "281f2a9d795f68abe423c116d5da4e1e73a60062"
     }
 ]

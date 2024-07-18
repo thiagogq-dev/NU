@@ -2,10 +2,10 @@
     {
         "repo_name": "weston-embedded/uC-FTPs",
         "Target PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
-        "Target Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
         "Closest PR": "https://github.com/weston-embedded/uC-FTPs/pull/2",
         "Closest Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
         "Title": "Patched DoS vulnerabilities CVE-2022-46377 and CVE-2022-46378 / TALOS-2022-1681.",
-        "Created At": "2023-02-24T19:27:39Z"
+        "Created At": "2023-02-24T19:27:39Z",
+        "fix_commit_hash": "0f54674769456a31ba693a44029bd8baa9f73e0f"
     }
 ]

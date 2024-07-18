@@ -2,10 +2,10 @@
     {
         "repo_name": "wazuh/wazuh-kibana-app",
         "Target PR": "https://github.com/wazuh/wazuh-kibana-app/pull/5428",
-        "Target Commit SHA": "6290e99887fb20f84e2dba21e4f1255d7ad4e69e",
         "Closest PR": "https://github.com/wazuh/wazuh-dashboard-plugins/pull/6652",
         "Closest Commit SHA": "fd5dcaec03bdc55a96fd1a50eef4b44e9e85ae5f",
         "Title": "Fix inventory table fullscreen styles",
-        "Created At": "2024-05-08T11:26:28Z"
+        "Created At": "2024-05-08T11:26:28Z",
+        "fix_commit_hash": "6290e99887fb20f84e2dba21e4f1255d7ad4e69e"
     }
 ]
