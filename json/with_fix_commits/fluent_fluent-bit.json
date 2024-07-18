@@ -2,19 +2,19 @@
     {
         "repo_name": "fluent/fluent-bit",
         "Target PR": "https://github.com/fluent/fluent-bit/pull/3045",
-        "Target Commit SHA": "1f0918b2e195742f65c9592d9058884fd2dea203",
         "Closest PR": "https://github.com/fluent/fluent-bit/pull/4772",
         "Closest Commit SHA": "b82b337cb46e2c187363451044113f80cfe900aa",
         "Title": "packaging: resolve CentOS 8 mirror issues",
-        "Created At": "2022-02-09T11:24:05Z"
+        "Created At": "2022-02-09T11:24:05Z",
+        "fix_commit_hash": "1f0918b2e195742f65c9592d9058884fd2dea203"
     },
     {
         "repo_name": "fluent/fluent-bit",
         "Target PR": "https://github.com/fluent/fluent-bit/pull/3453",
-        "Target Commit SHA": "22346a74c07ceb90296be872be2d53eb92252a54",
         "Closest PR": "https://github.com/fluent/fluent-bit/pull/5422",
         "Closest Commit SHA": "e450e230118c05d84128b6de3ea7ef180d38d85b",
         "Title": "workflows: bump docker/build-push-action from 2 to 3",
-        "Created At": "2022-05-06T06:27:06Z"
+        "Created At": "2022-05-06T06:27:06Z",
+        "fix_commit_hash": "22346a74c07ceb90296be872be2d53eb92252a54"
     }
 ]

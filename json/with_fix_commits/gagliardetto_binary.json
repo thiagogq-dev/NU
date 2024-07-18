@@ -2,10 +2,10 @@
     {
         "repo_name": "gagliardetto/binary",
         "Target PR": "https://github.com/gagliardetto/binary/pull/7",
-        "Target Commit SHA": "2b2638040b6d1921df7e9247b441a630ba80d517",
         "Closest PR": "https://github.com/gagliardetto/binary/pull/6",
         "Closest Commit SHA": "60963137589d09158532c71767a7a1f113821a20",
         "Title": "decoder: add slice len bounds checks",
-        "Created At": "2022-08-20T08:06:35Z"
+        "Created At": "2022-08-20T08:06:35Z",
+        "fix_commit_hash": "2b2638040b6d1921df7e9247b441a630ba80d517"
     }
 ]

@@ -2,10 +2,10 @@
     {
         "repo_name": "graphql-java/graphql-java",
         "Target PR": "https://github.com/graphql-java/graphql-java/pull/2892",
-        "Target Commit SHA": "226aabd9ffa863387085483e6b73799507b90b2c",
         "Closest PR": "https://github.com/graphql-java/graphql-java/pull/3262",
         "Closest Commit SHA": "09e63ae952af1c9c8d6e28c362ff2517e79ac5a3",
         "Title": "fixes when instrumentExecutionResult on AbortExecutionException",
-        "Created At": "2023-07-04T07:28:31Z"
+        "Created At": "2023-07-04T07:28:31Z",
+        "fix_commit_hash": "226aabd9ffa863387085483e6b73799507b90b2c"
     }
 ]

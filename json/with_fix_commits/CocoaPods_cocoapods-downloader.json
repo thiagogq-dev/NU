@@ -2,10 +2,10 @@
     {
         "repo_name": "CocoaPods/cocoapods-downloader",
         "Target PR": "https://github.com/CocoaPods/cocoapods-downloader/pull/127",
-        "Target Commit SHA": "d2564c3aa470ffd0856e50d88a0bdf6328e0c0f7",
         "Closest PR": "https://github.com/CocoaPods/cocoapods-downloader/pull/131",
         "Closest Commit SHA": null,
         "Title": "fix: Ignore default curl config file",
-        "Created At": "2022-10-13T16:45:56Z"
+        "Created At": "2022-10-13T16:45:56Z",
+        "fix_commit_hash": "d2564c3aa470ffd0856e50d88a0bdf6328e0c0f7"
     }
 ]

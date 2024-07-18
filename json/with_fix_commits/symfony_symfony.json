@@ -2,10 +2,10 @@
     {
         "repo_name": "symfony/symfony",
         "Target PR": "https://github.com/symfony/symfony/pull/44243",
-        "Target Commit SHA": "256c34a45b79fdc6276a8c941a1656713ee1ffec",
         "Closest PR": "https://github.com/symfony/symfony/pull/48302",
         "Closest Commit SHA": null,
         "Title": "fix: RegexValidator doesn't validate empty strings anymore",
-        "Created At": "2022-11-23T19:08:16Z"
+        "Created At": "2022-11-23T19:08:16Z",
+        "fix_commit_hash": "256c34a45b79fdc6276a8c941a1656713ee1ffec"
     }
 ]

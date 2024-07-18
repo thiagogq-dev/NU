@@ -2,64 +2,64 @@
     {
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/30779",
-        "Target Commit SHA": "9c936208f46735269bec98a2038bd065e5581591",
         "Closest PR": "https://github.com/apache/airflow/pull/39142",
         "Closest Commit SHA": "acc2338aed8d789503dca7fba262b326eeb5c117",
         "Title": "Fix stacklevel for TaskContextLogger",
-        "Created At": "2024-04-19T20:31:52Z"
+        "Created At": "2024-04-19T20:31:52Z",
+        "fix_commit_hash": "9c936208f46735269bec98a2038bd065e5581591"
     },
     {
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/32014",
-        "Target Commit SHA": "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db",
         "Closest PR": "https://github.com/apache/airflow/pull/40265",
         "Closest Commit SHA": "56904394b9162644bf4b2a79651ee7d6b9fc05b6",
         "Title": "Fix typo in xcoms.rst",
-        "Created At": "2024-06-15T22:09:57Z"
+        "Created At": "2024-06-15T22:09:57Z",
+        "fix_commit_hash": "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db"
     },
     {
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/33108",
-        "Target Commit SHA": "52ca7bfc988f4c9b608f544bc3e9524fd6564639",
         "Closest PR": "https://github.com/apache/airflow/pull/40278",
         "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
         "Title": "Fix replace parameter for BigQueryToPostgresOperator",
-        "Created At": "2024-06-17T12:25:37Z"
+        "Created At": "2024-06-17T12:25:37Z",
+        "fix_commit_hash": "52ca7bfc988f4c9b608f544bc3e9524fd6564639"
     },
     {
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/27641",
-        "Target Commit SHA": "1d4fd5c6eacab0b88f8660f9d780174434393f1a",
         "Closest PR": "https://github.com/apache/airflow/pull/35597",
         "Closest Commit SHA": "a8bc6c551d84dea4f57cd6d2a9807250cb187997",
         "Title": "added cancelled handling in dbt deferred",
-        "Created At": "2023-11-13T10:35:17Z"
+        "Created At": "2023-11-13T10:35:17Z",
+        "fix_commit_hash": "1d4fd5c6eacab0b88f8660f9d780174434393f1a"
     },
     {
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/33075",
-        "Target Commit SHA": "e20325db38fdfdd9db423a345b13d18aab6fe578",
         "Closest PR": "https://github.com/apache/airflow/pull/40278",
         "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
         "Title": "Fix replace parameter for BigQueryToPostgresOperator",
-        "Created At": "2024-06-17T12:25:37Z"
+        "Created At": "2024-06-17T12:25:37Z",
+        "fix_commit_hash": "e20325db38fdfdd9db423a345b13d18aab6fe578"
     },
     {
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/29706",
-        "Target Commit SHA": "101d59c4b88ab979d305b8d96f612c27c8a44aa8",
         "Closest PR": "https://github.com/apache/airflow/pull/37634",
         "Closest Commit SHA": "ca4c55986534a553baea80a7bb5b834f7fdf0ddd",
         "Title": "Fix Async GCSObjectsWithPrefixExistenceSensor xcom push",
-        "Created At": "2024-02-22T18:47:30Z"
+        "Created At": "2024-02-22T18:47:30Z",
+        "fix_commit_hash": "101d59c4b88ab979d305b8d96f612c27c8a44aa8"
     },
     {
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/27576",
-        "Target Commit SHA": "b33d22c2243c552f4d1372bbe6b75e5fb097f567",
         "Closest PR": "https://github.com/apache/airflow/pull/35557",
         "Closest Commit SHA": "3c5f5b50a4e7459d5edd60c40fb95db87142be99",
         "Title": "Remove `sqla` module from security manager",
-        "Created At": "2023-11-09T15:21:25Z"
+        "Created At": "2023-11-09T15:21:25Z",
+        "fix_commit_hash": "b33d22c2243c552f4d1372bbe6b75e5fb097f567"
     }
 ]

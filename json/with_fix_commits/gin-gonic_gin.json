@@ -2,10 +2,10 @@
     {
         "repo_name": "gin-gonic/gin",
         "Target PR": "https://github.com/gin-gonic/gin/pull/3500",
-        "Target Commit SHA": "81ac7d55a09e34013225db0aeac6e70c1ae68928",
         "Closest PR": "https://github.com/gin-gonic/gin/pull/3845",
         "Closest Commit SHA": null,
         "Title": "chore(deps): bump golangci/golangci-lint-action from 3.7.0 to 4.0.0",
-        "Created At": "2024-02-12T22:12:50Z"
+        "Created At": "2024-02-12T22:12:50Z",
+        "fix_commit_hash": "81ac7d55a09e34013225db0aeac6e70c1ae68928"
     }
 ]

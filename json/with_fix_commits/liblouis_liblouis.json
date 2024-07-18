@@ -2,10 +2,10 @@
     {
         "repo_name": "liblouis/liblouis",
         "Target PR": "https://github.com/liblouis/liblouis/pull/1302",
-        "Target Commit SHA": "21a2ee76d5de1ab3ce789ef18106343c8e65a175",
         "Closest PR": "https://github.com/liblouis/liblouis/pull/1509",
         "Closest Commit SHA": "b7b698fab2c6c54d9b6d5014b6d075bdc89bd37a",
         "Title": "Further improvements to UEB",
-        "Created At": "2024-02-08T11:24:14Z"
+        "Created At": "2024-02-08T11:24:14Z",
+        "fix_commit_hash": "21a2ee76d5de1ab3ce789ef18106343c8e65a175"
     }
 ]

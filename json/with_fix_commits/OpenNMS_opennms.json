@@ -2,28 +2,28 @@
     {
         "repo_name": "OpenNMS/opennms",
         "Target PR": "https://github.com/OpenNMS/opennms/pull/6250",
-        "Target Commit SHA": "f2caf7d0b9db58b59e98506490aaca37fbf243b6",
         "Closest PR": "https://github.com/OpenNMS/opennms/pull/7313",
         "Closest Commit SHA": null,
         "Title": "build(deps-dev): bump sass from 1.77.4 to 1.77.5 in /core/web-assets",
-        "Created At": "2024-06-12T13:40:57Z"
+        "Created At": "2024-06-12T13:40:57Z",
+        "fix_commit_hash": "f2caf7d0b9db58b59e98506490aaca37fbf243b6"
     },
     {
         "repo_name": "OpenNMS/opennms",
         "Target PR": "https://github.com/OpenNMS/opennms/pull/5740",
-        "Target Commit SHA": "a47e193f820c222b309763b508009e54b2f0e7f5",
         "Closest PR": "https://github.com/OpenNMS/opennms/pull/7035",
         "Closest Commit SHA": "5a8fe3f0f9a5d84e622fc689332ac9929cfd6082",
         "Title": "Ranger/fix web assets dependencies",
-        "Created At": "2024-01-23T23:20:21Z"
+        "Created At": "2024-01-23T23:20:21Z",
+        "fix_commit_hash": "a47e193f820c222b309763b508009e54b2f0e7f5"
     },
     {
         "repo_name": "OpenNMS/opennms",
         "Target PR": "https://github.com/OpenNMS/opennms/pull/6288",
-        "Target Commit SHA": "da4c70beb001e0cdcc7b99d90dfe4ba39b23536f",
         "Closest PR": "https://github.com/OpenNMS/opennms/pull/7322",
         "Closest Commit SHA": "48eb29e7d784e422f236656471e13eabdba305d2",
         "Title": "build(deps): bump braces from 3.0.2 to 3.0.3 in /ui",
-        "Created At": "2024-06-17T16:18:40Z"
+        "Created At": "2024-06-17T16:18:40Z",
+        "fix_commit_hash": "da4c70beb001e0cdcc7b99d90dfe4ba39b23536f"
     }
 ]

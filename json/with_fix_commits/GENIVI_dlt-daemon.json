@@ -2,10 +2,10 @@
     {
         "repo_name": "GENIVI/dlt-daemon",
         "Target PR": "https://github.com/GENIVI/dlt-daemon/pull/275",
-        "Target Commit SHA": "ff4f44c159df6f44b48bd38c9d2f104eb360be11",
         "Closest PR": "https://github.com/COVESA/dlt-daemon/pull/350",
         "Closest Commit SHA": "68fb45019d04b637d5a51fbda411599ccf779dad",
         "Title": "dlt-system: fix invalid free by removing unused TempDir",
-        "Created At": "2021-11-11T14:55:36Z"
+        "Created At": "2021-11-11T14:55:36Z",
+        "fix_commit_hash": "ff4f44c159df6f44b48bd38c9d2f104eb360be11"
     }
 ]

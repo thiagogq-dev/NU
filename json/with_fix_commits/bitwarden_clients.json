@@ -2,10 +2,10 @@
     {
         "repo_name": "bitwarden/clients",
         "Target PR": "https://github.com/bitwarden/clients/pull/5813",
-        "Target Commit SHA": "61d5b2df9c43c048c772c4d72c1c64a047a9b432",
         "Closest PR": "https://github.com/bitwarden/clients/pull/9691",
         "Closest Commit SHA": "0c6e296dc37c1ee1e9fd0240031619117747087b",
         "Title": "[PM-8860] add client side form validation to recover 2fa component",
-        "Created At": "2024-06-17T14:00:46Z"
+        "Created At": "2024-06-17T14:00:46Z",
+        "fix_commit_hash": "61d5b2df9c43c048c772c4d72c1c64a047a9b432"
     }
 ]

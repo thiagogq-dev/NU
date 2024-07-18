@@ -2,46 +2,46 @@
     {
         "repo_name": "openemr/openemr",
         "Target PR": "https://github.com/openemr/openemr/pull/2712",
-        "Target Commit SHA": "32a724f47321d1a4a68ca4fcbb517e7eb3a98a19",
         "Closest PR": "https://github.com/openemr/openemr/pull/3959",
         "Closest Commit SHA": "2763b493f128161e6b77a392ba1e0fcb1c023b12",
         "Title": "corrected misspelling for system and added codeable concepts in FHIR  Condition",
-        "Created At": "2020-10-06T18:59:28Z"
+        "Created At": "2020-10-06T18:59:28Z",
+        "fix_commit_hash": "32a724f47321d1a4a68ca4fcbb517e7eb3a98a19"
     },
     {
         "repo_name": "openemr/openemr",
         "Target PR": "https://github.com/openemr/openemr/pull/2701",
-        "Target Commit SHA": "4a737a155dd82991dac333cbfa1ebb11804d0595",
         "Closest PR": "https://github.com/openemr/openemr/pull/3943",
         "Closest Commit SHA": "232ac095d54d93db89b5671edce58994a6db7e78",
         "Title": "Adding type in FHIR Encounter and Patient FHIR search by id",
-        "Created At": "2020-09-29T15:35:46Z"
+        "Created At": "2020-09-29T15:35:46Z",
+        "fix_commit_hash": "4a737a155dd82991dac333cbfa1ebb11804d0595"
     },
     {
         "repo_name": "openemr/openemr",
         "Target PR": "https://github.com/openemr/openemr/pull/2698",
-        "Target Commit SHA": "52e6c1e8df0127f5c20656111c710fc2cbc9aec3",
         "Closest PR": "https://github.com/openemr/openemr/pull/3938",
         "Closest Commit SHA": "7d822fb0c698e61d49084cf661972845bd58d96e",
         "Title": "more php8 fixes",
-        "Created At": "2020-09-26T07:44:50Z"
+        "Created At": "2020-09-26T07:44:50Z",
+        "fix_commit_hash": "52e6c1e8df0127f5c20656111c710fc2cbc9aec3"
     },
     {
         "repo_name": "openemr/openemr",
         "Target PR": "https://github.com/openemr/openemr/pull/1765",
-        "Target Commit SHA": "b08475e4f646ea5f4d7d9f9bbd68dcaaba3cd9ad",
         "Closest PR": "https://github.com/openemr/openemr/pull/2553",
         "Closest Commit SHA": null,
         "Title": "The find_action method in C_PAtient_finder class was returning an err\u2026",
-        "Created At": "2019-07-12T23:04:14Z"
+        "Created At": "2019-07-12T23:04:14Z",
+        "fix_commit_hash": "b08475e4f646ea5f4d7d9f9bbd68dcaaba3cd9ad"
     },
     {
         "repo_name": "openemr/openemr",
         "Target PR": "https://github.com/openemr/openemr/pull/1765",
-        "Target Commit SHA": "b08475e4f646ea5f4d7d9f9bbd68dcaaba3cd9ad",
         "Closest PR": "https://github.com/openemr/openemr/pull/2553",
         "Closest Commit SHA": null,
         "Title": "The find_action method in C_PAtient_finder class was returning an err\u2026",
-        "Created At": "2019-07-12T23:04:14Z"
+        "Created At": "2019-07-12T23:04:14Z",
+        "fix_commit_hash": "b08475e4f646ea5f4d7d9f9bbd68dcaaba3cd9ad"
     }
 ]

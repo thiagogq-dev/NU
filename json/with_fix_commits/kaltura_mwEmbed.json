@@ -2,10 +2,10 @@
     {
         "repo_name": "kaltura/mwEmbed",
         "Target PR": "https://github.com/kaltura/mwEmbed/pull/4266",
-        "Target Commit SHA": "13b8812ebc8c9fa034eed91ab35ba8423a528c0b",
         "Closest PR": "https://github.com/kaltura/mwEmbed/pull/4309",
         "Closest Commit SHA": "e8fe09b909248c521f5272a625663e87055e4d97",
         "Title": "fix(SUP-37385): user cannot see q&a",
-        "Created At": "2023-05-16T14:42:51Z"
+        "Created At": "2023-05-16T14:42:51Z",
+        "fix_commit_hash": "13b8812ebc8c9fa034eed91ab35ba8423a528c0b"
     }
 ]

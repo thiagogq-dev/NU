@@ -2,10 +2,10 @@
     {
         "repo_name": "moby/hyperkit",
         "Target PR": "https://github.com/moby/hyperkit/pull/313",
-        "Target Commit SHA": "acbc2d10593dfa86f490e799a7ee865db6da899f",
         "Closest PR": "https://github.com/moby/hyperkit/pull/326",
         "Closest Commit SHA": null,
         "Title": "Fix condition to allow creating console on stdio",
-        "Created At": "2021-12-03T14:48:35Z"
+        "Created At": "2021-12-03T14:48:35Z",
+        "fix_commit_hash": "acbc2d10593dfa86f490e799a7ee865db6da899f"
     }
 ]

@@ -2,10 +2,10 @@
     {
         "repo_name": "helm/helm",
         "Target PR": "https://github.com/helm/helm/pull/3152",
-        "Target Commit SHA": "e8e6ac5d7783808cc0bd1adad053bec339849647",
         "Closest PR": "https://github.com/helm/helm/pull/4930",
         "Closest Commit SHA": "58272bfd4a774e47fd3a59af06647bb05980e9cd",
         "Title": "fix(helm): Print details for pod resource",
-        "Created At": "2018-11-15T21:46:35Z"
+        "Created At": "2018-11-15T21:46:35Z",
+        "fix_commit_hash": "e8e6ac5d7783808cc0bd1adad053bec339849647"
     }
 ]

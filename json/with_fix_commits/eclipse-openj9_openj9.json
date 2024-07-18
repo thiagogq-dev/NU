@@ -2,10 +2,10 @@
     {
         "repo_name": "eclipse-openj9/openj9",
         "Target PR": "https://github.com/eclipse-openj9/openj9/pull/14935",
-        "Target Commit SHA": "2fd77d98c2276375fa0bc99a421ebdc4824e5b40",
         "Closest PR": "https://github.com/eclipse-openj9/openj9/pull/17229",
         "Closest Commit SHA": "9126ed150cc44f837ae8c75269a2fe9892d06f14",
         "Title": "Prepare MM_Scheduler for OMR Base Class Changes",
-        "Created At": "2023-04-19T17:45:56Z"
+        "Created At": "2023-04-19T17:45:56Z",
+        "fix_commit_hash": "2fd77d98c2276375fa0bc99a421ebdc4824e5b40"
     }
 ]

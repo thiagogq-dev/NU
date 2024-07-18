@@ -2,10 +2,10 @@
     {
         "repo_name": "theforeman/foreman",
         "Target PR": "https://github.com/theforeman/foreman/pull/2328",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/theforeman/foreman/pull/3470",
         "Closest Commit SHA": null,
         "Title": "Fixes #14843 - Improve rake config error handling",
-        "Created At": "2016-04-27T08:06:57Z"
+        "Created At": "2016-04-27T08:06:57Z",
+        "fix_commit_hash": null
     }
 ]

@@ -2,10 +2,10 @@
     {
         "repo_name": "TestLinkOpenSourceTRMS/testlink-code",
         "Target PR": "https://github.com/TestLinkOpenSourceTRMS/testlink-code/pull/357",
-        "Target Commit SHA": "42324f1d354917b9747f2da9ffd5f2cd463b826d",
         "Closest PR": "https://github.com/TestLinkOpenSourceTRMS/testlink-code/pull/365",
         "Closest Commit SHA": null,
         "Title": "Fix for userHasRight function",
-        "Created At": "2024-02-14T19:50:40Z"
+        "Created At": "2024-02-14T19:50:40Z",
+        "fix_commit_hash": "42324f1d354917b9747f2da9ffd5f2cd463b826d"
     }
 ]

@@ -2,10 +2,10 @@
     {
         "repo_name": "paritytech/frontier",
         "Target PR": "https://github.com/paritytech/frontier/pull/1212",
-        "Target Commit SHA": "aea528198b3b226e0d20cce878551fd4c0e3d5d0",
         "Closest PR": "https://github.com/polkadot-evm/frontier/pull/1455",
         "Closest Commit SHA": "6f3f713475440aeb3e6039b5b1019759232a6a6a",
         "Title": "build(deps): bump derive_more from 0.99.17 to 0.99.18",
-        "Created At": "2024-06-17T05:03:43Z"
+        "Created At": "2024-06-17T05:03:43Z",
+        "fix_commit_hash": "aea528198b3b226e0d20cce878551fd4c0e3d5d0"
     }
 ]

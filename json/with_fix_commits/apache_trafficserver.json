@@ -2,19 +2,19 @@
     {
         "repo_name": "apache/trafficserver",
         "Target PR": "https://github.com/apache/trafficserver/pull/10564",
-        "Target Commit SHA": "b28ad74f117307e8de206f1de70c3fa716f90682",
         "Closest PR": "https://github.com/apache/trafficserver/pull/11452",
         "Closest Commit SHA": "d7e9b6b699f567e9afc75bc3f9eaf5df73f57046",
         "Title": "Fix unused parameters in iocore",
-        "Created At": "2024-06-15T04:20:18Z"
+        "Created At": "2024-06-15T04:20:18Z",
+        "fix_commit_hash": "b28ad74f117307e8de206f1de70c3fa716f90682"
     },
     {
         "repo_name": "apache/trafficserver",
         "Target PR": "https://github.com/apache/trafficserver/pull/3201",
-        "Target Commit SHA": "fe9c1276aba6768e78b72a486c07e7b853214b09",
         "Closest PR": "https://github.com/apache/trafficserver/pull/5088",
         "Closest Commit SHA": "f78dcdc78ff8d7f4cae7b588c743c2a11ce2176f",
         "Title": "MIME: Fix line_is_real false positive.",
-        "Created At": "2019-02-28T17:02:22Z"
+        "Created At": "2019-02-28T17:02:22Z",
+        "fix_commit_hash": "fe9c1276aba6768e78b72a486c07e7b853214b09"
     }
 ]

@@ -2,10 +2,10 @@
     {
         "repo_name": "openssh/openssh-portable",
         "Target PR": "https://github.com/openssh/openssh-portable/pull/270",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/openssh/openssh-portable/pull/339",
         "Closest Commit SHA": null,
         "Title": "openbsd-compat/bsd-asprintf: add <stdio.h> include for vsnprintf",
-        "Created At": "2022-09-08T01:51:01Z"
+        "Created At": "2022-09-08T01:51:01Z",
+        "fix_commit_hash": null
     }
 ]

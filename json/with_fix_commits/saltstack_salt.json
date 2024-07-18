@@ -2,10 +2,10 @@
     {
         "repo_name": "saltstack/salt",
         "Target PR": "https://github.com/saltstack/salt/pull/40609",
-        "Target Commit SHA": "8492cef7a5c8871a3978ffc2f6e48b3b960e0151",
         "Closest PR": "https://github.com/saltstack/salt/pull/46995",
         "Closest Commit SHA": "fb035953f69e2e42cfa29c433543021ea96a1b8e",
         "Title": "[schedule][develop] Minor fixes and enhancements",
-        "Created At": "2018-04-10T15:14:23Z"
+        "Created At": "2018-04-10T15:14:23Z",
+        "fix_commit_hash": "8492cef7a5c8871a3978ffc2f6e48b3b960e0151"
     }
 ]

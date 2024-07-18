@@ -2,10 +2,10 @@
     {
         "repo_name": "mumble-voip/mumble",
         "Target PR": "https://github.com/mumble-voip/mumble/pull/3512",
-        "Target Commit SHA": "f7221c14efa14c4c73b64782673d309e97f87e61",
         "Closest PR": "https://github.com/mumble-voip/mumble/pull/3772",
         "Closest Commit SHA": "9f442e1a2279c2a898a7c018a709f2ecf298f8a2",
         "Title": "compiler.pri: disable warnings for deprecated stuff",
-        "Created At": "2019-08-29T08:03:54Z"
+        "Created At": "2019-08-29T08:03:54Z",
+        "fix_commit_hash": "f7221c14efa14c4c73b64782673d309e97f87e61"
     }
 ]

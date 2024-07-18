@@ -2,28 +2,28 @@
     {
         "repo_name": "matrix-org/synapse",
         "Target PR": "https://github.com/matrix-org/synapse/pull/13823",
-        "Target Commit SHA": "c06b2b714262825e1d2510b62c38fdeda339f6dc",
         "Closest PR": "https://github.com/matrix-org/synapse/pull/16328",
         "Closest Commit SHA": "eef2b9e34418e902baab1e730eb805eb56034cc2",
         "Title": "Filter locked users in the admin API",
-        "Created At": "2023-09-15T14:31:53Z"
+        "Created At": "2023-09-15T14:31:53Z",
+        "fix_commit_hash": "c06b2b714262825e1d2510b62c38fdeda339f6dc"
     },
     {
         "repo_name": "matrix-org/synapse",
         "Target PR": "https://github.com/matrix-org/synapse/pull/14642",
-        "Target Commit SHA": "e2a1adbf5d11288f2134ced1f84c6ffdd91a9357",
         "Closest PR": "https://github.com/matrix-org/synapse/pull/16737",
         "Closest Commit SHA": "aa983c7b0f46db18bcafb5e78b447cfd096971a3",
         "Title": "Clarify documentation for `only_for_reauth`",
-        "Created At": "2023-12-07T17:38:11Z"
+        "Created At": "2023-12-07T17:38:11Z",
+        "fix_commit_hash": "e2a1adbf5d11288f2134ced1f84c6ffdd91a9357"
     },
     {
         "repo_name": "matrix-org/synapse",
         "Target PR": "https://github.com/matrix-org/synapse/pull/6262",
-        "Target Commit SHA": "172f264ed38e8bef857552f93114b4ee113a880b",
         "Closest PR": "https://github.com/matrix-org/synapse/pull/8666",
         "Closest Commit SHA": "e90fad5cbacebcf00f90e9432089533008ccc48b",
         "Title": "Minor updates to docs on how to run tests",
-        "Created At": "2020-10-26T23:45:28Z"
+        "Created At": "2020-10-26T23:45:28Z",
+        "fix_commit_hash": "172f264ed38e8bef857552f93114b4ee113a880b"
     }
 ]

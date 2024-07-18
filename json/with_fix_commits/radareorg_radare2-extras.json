@@ -2,10 +2,10 @@
     {
         "repo_name": "radareorg/radare2-extras",
         "Target PR": "https://github.com/radareorg/radare2-extras/pull/255",
-        "Target Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
         "Closest PR": "https://github.com/radareorg/radare2-extras/pull/285",
         "Closest Commit SHA": "e158c1bbdcdeea04fe66c6f7fb0b368d22edb2cc",
         "Title": "M32c",
-        "Created At": "2021-06-28T01:52:27Z"
+        "Created At": "2021-06-28T01:52:27Z",
+        "fix_commit_hash": "e74a93c4add46ab5ed046825ebb22c3b120a4668"
     }
 ]

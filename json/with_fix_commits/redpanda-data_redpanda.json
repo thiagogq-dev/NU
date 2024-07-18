@@ -2,10 +2,10 @@
     {
         "repo_name": "redpanda-data/redpanda",
         "Target PR": "https://github.com/redpanda-data/redpanda/pull/7719",
-        "Target Commit SHA": "6a69c280a05721178946835130b5f2b20002e33d",
         "Closest PR": "https://github.com/redpanda-data/redpanda/pull/15414",
         "Closest Commit SHA": "6cd0e7054aada957dc28b6826b6f4f77ea6eb40e",
         "Title": "kafka/client: Stop the broker if `do_authenticate` failed",
-        "Created At": "2023-12-13T00:13:00Z"
+        "Created At": "2023-12-13T00:13:00Z",
+        "fix_commit_hash": "6a69c280a05721178946835130b5f2b20002e33d"
     }
 ]

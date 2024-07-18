@@ -2,10 +2,10 @@
     {
         "repo_name": "fastify/csrf",
         "Target PR": "https://github.com/fastify/csrf/pull/2",
-        "Target Commit SHA": "5882472cbe2e50aa9ede11d1875919a15ab60800",
         "Closest PR": "https://github.com/fastify/csrf/pull/34",
         "Closest Commit SHA": "5c1785b652c85023bfc91323f7f2c95e1665b8b9",
         "Title": "build(deps-dev): bump mocha from 9.2.2 to 10.0.0",
-        "Created At": "2022-05-02T00:15:29Z"
+        "Created At": "2022-05-02T00:15:29Z",
+        "fix_commit_hash": "5882472cbe2e50aa9ede11d1875919a15ab60800"
     }
 ]

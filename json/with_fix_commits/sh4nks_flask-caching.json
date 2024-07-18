@@ -2,10 +2,10 @@
     {
         "repo_name": "sh4nks/flask-caching",
         "Target PR": "https://github.com/sh4nks/flask-caching/pull/209",
-        "Target Commit SHA": "090a97344e6d4e68d7ec2612b423183712fff467",
         "Closest PR": "https://github.com/pallets-eco/flask-caching/pull/300",
         "Closest Commit SHA": "783a7674ff8c0871d47a4ddc9d24b1ad0fbb590f",
         "Title": "Bump pre-commit from 2.15.0 to 2.16.0 in /requirements",
-        "Created At": "2021-12-01T08:08:53Z"
+        "Created At": "2021-12-01T08:08:53Z",
+        "fix_commit_hash": "090a97344e6d4e68d7ec2612b423183712fff467"
     }
 ]

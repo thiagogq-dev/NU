@@ -2,10 +2,10 @@
     {
         "repo_name": "python-babel/babel",
         "Target PR": "https://github.com/python-babel/babel/pull/782",
-        "Target Commit SHA": "412015ef642bfcc0d8ba8f4d05cdbb6aac98d9b3",
         "Closest PR": "https://github.com/python-babel/babel/pull/864",
         "Closest Commit SHA": "3ae540289aa4669f0cab079876b05863abee0f0d",
         "Title": "chore(docs/typo): Fixes a minor typo in a function comment",
-        "Created At": "2022-04-25T14:24:48Z"
+        "Created At": "2022-04-25T14:24:48Z",
+        "fix_commit_hash": "412015ef642bfcc0d8ba8f4d05cdbb6aac98d9b3"
     }
 ]

@@ -2,10 +2,10 @@
     {
         "repo_name": "meetecho/janus-gateway",
         "Target PR": "https://github.com/meetecho/janus-gateway/pull/1990",
-        "Target Commit SHA": "d26869dfe864b72027fde9a9c0eb664fa3df7001",
         "Closest PR": "https://github.com/meetecho/janus-gateway/pull/2565",
         "Closest Commit SHA": "b0974f17ff6c90d99eb49a149f56121b854039bb",
         "Title": "errors: replace strerror with locale-safe and threadsafe g_strerror",
-        "Created At": "2021-02-17T21:57:14Z"
+        "Created At": "2021-02-17T21:57:14Z",
+        "fix_commit_hash": "d26869dfe864b72027fde9a9c0eb664fa3df7001"
     }
 ]

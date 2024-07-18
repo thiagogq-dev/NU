@@ -2,10 +2,10 @@
     {
         "repo_name": "InvoicePlane/InvoicePlane",
         "Target PR": "https://github.com/InvoicePlane/InvoicePlane/pull/551",
-        "Target Commit SHA": "7b64642943cd37011b85f0f316c9b4fb1b787ae4",
         "Closest PR": "https://github.com/InvoicePlane/InvoicePlane/pull/678",
         "Closest Commit SHA": "25cc633b35e7d53ba6cc8071e179c473e0aec8c1",
         "Title": "[IP-747] Minor cosmetic changes to the General Settings forms",
-        "Created At": "2018-10-18T21:28:52Z"
+        "Created At": "2018-10-18T21:28:52Z",
+        "fix_commit_hash": "7b64642943cd37011b85f0f316c9b4fb1b787ae4"
     }
 ]

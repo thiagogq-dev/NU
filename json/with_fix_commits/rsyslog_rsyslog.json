@@ -2,10 +2,10 @@
     {
         "repo_name": "rsyslog/rsyslog",
         "Target PR": "https://github.com/rsyslog/rsyslog/pull/3875",
-        "Target Commit SHA": "03efebf299436b3bb334e7048be9b4bad4ad834b",
         "Closest PR": "https://github.com/rsyslog/rsyslog/pull/4424",
         "Closest Commit SHA": "c8b1e306f88236b294e77c144cb7e8ee59a65bef",
         "Title": "Replace GNUTLS_SHUT_RDWR by GNUTLS_SHUT_WR when ending TLS connections",
-        "Created At": "2020-09-18T13:56:22Z"
+        "Created At": "2020-09-18T13:56:22Z",
+        "fix_commit_hash": "03efebf299436b3bb334e7048be9b4bad4ad834b"
     }
 ]
