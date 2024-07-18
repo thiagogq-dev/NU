@@ -1,4 +1,4 @@
-name: Process Issue Data
+name: Run PySzz
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ jobs:
     - name: List JSON files
       id: list-json-files
       run: |
-        files=$(ls json/raw_data/*.json | jq -R -s -c 'split("\n")[:-1]')
+        files=$(ls json/with_fix_commits/*.json | jq -R -s -c 'split("\n")[:-1]')
         echo files=$files
         echo "json_files=$files" >> $GITHUB_OUTPUT
 
@@ -77,6 +77,6 @@ jobs:
         git config --global user.name "Thiago Quinto"
         git pull origin main
         git add json/processed_data/*.json
-        git add json/raw_data/*.json
+        git add json/with_fix_commits/*.json
         git commit -m "Add bics files"
         git push
