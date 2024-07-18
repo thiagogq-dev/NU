@@ -2,7 +2,7 @@
     {
         "repo_name": "togglz/togglz",
         "Target PR": "https://github.com/togglz/togglz/pull/495",
-        "Target Commit SHA": "ed66e3f584de954297ebaf98ea4a235286784707",
+        "fix_commit_hash": "ed66e3f584de954297ebaf98ea4a235286784707",
         "Closest PR": "https://github.com/togglz/togglz/pull/632",
         "Closest Commit SHA": null,
         "Title": "Bump h2 from 1.4.199 to 2.0.206 in /core",
