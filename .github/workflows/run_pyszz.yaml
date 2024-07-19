@@ -67,9 +67,10 @@ jobs:
         mkdir -p ../json/processed_data/
         cp out/bics.json ../json/processed_data/$filename
 
-    - name: Remove JSON files
-      run: |
-        git rm ${{ matrix.file }}
+    # - name: Remove JSON files
+    #   run: |
+    #     git rm ${{ matrix.file }}
+        # git commit -m "Add bics files"
 
     - name: Git Operations
       run: |
@@ -78,5 +79,4 @@ jobs:
         git pull origin main
         git add json/processed_data/*.json
         git add json/raw_data/*.json
-        git commit -m "Add bics files"
         git push
