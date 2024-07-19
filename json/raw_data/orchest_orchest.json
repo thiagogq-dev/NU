@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "orchest/orchest",
+        "Target PR": "https://github.com/orchest/orchest/pull/1324",
+        "Closest PR": "https://github.com/orchest/orchest/pull/1534",
+        "Title": "Update docs",
+        "Created At": "2023-06-06T08:42:52Z",
+        "Target Commit SHA": "3692eadcf0de10fbaae04ae31aa28bb16b1df386",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "3748b8f7fbbe1f805c67b4c4129c7f4dfdbf04ca"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "kogmbh/WebODF",
+        "Target PR": "https://github.com/kogmbh/WebODF/pull/851",
+        "Closest PR": "https://github.com/webodf/WebODF/pull/908",
+        "Title": "Let inserted image dimensions be in centimeters",
+        "Created At": "2015-07-02T01:49:02Z",
+        "Target Commit SHA": "60a1269c33a65e40d34902f4f875cbec56d58ab3",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "b9e9150ade8560f538374f49c116489af2475bbd"
+    }
+]

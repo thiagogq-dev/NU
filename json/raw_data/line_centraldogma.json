@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "line/centraldogma",
+        "Target PR": "https://github.com/line/centraldogma/pull/621",
+        "Closest PR": "https://github.com/line/centraldogma/pull/703",
+        "Title": "Bump terser from 4.8.0 to 4.8.1 in /server-auth/webapp",
+        "Created At": "2022-07-20T03:52:39Z",
+        "Target Commit SHA": "b6749e86505735ec16e8bb8fa4d3243d32d9284b",
+        "target_inducing_commit_hash_pyszz": [
+            "f3f5b4d9dcf4cd90f463e4015c5ac19616e009ff"
+        ],
+        "fix_commit_hash": "0c397eb1f5aa99cec586adcf5417464032ce117f"
+    }
+]

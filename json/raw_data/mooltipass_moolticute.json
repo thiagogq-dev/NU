@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "mooltipass/moolticute",
+        "Target PR": "https://github.com/mooltipass/moolticute/pull/483",
+        "Closest PR": "https://github.com/mooltipass/moolticute/pull/746",
+        "Title": "Fix device disconnection/reconnection issues",
+        "Created At": "2020-10-13T18:33:56Z",
+        "Target Commit SHA": "b31478f8729f6c923f95b0b017d51b7d664dce96",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "0c5ef7e0276867b95b9b18ab0223bbf421ab4bfe"
+    }
+]

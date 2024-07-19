@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "zwczou/weixin-python",
+        "Target PR": "https://github.com/zwczou/weixin-python/pull/30",
+        "Closest PR": "https://github.com/zwczou/weixin-python/pull/13",
+        "Title": "\u4fee\u590d\u4e86\u5173\u95ed\u8ba2\u5355\u91cc\u53c2\u6570\"out_trade_no\"\u5199\u6210\"out_trace_no\"\u7684\u9519\u8bef.",
+        "Created At": "2017-11-10T08:24:06Z",
+        "Target Commit SHA": "bae7c80d443e2799523b61ad39b32c2cbda1ec5a",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "6ae0ced34adeae4c9834941213529411ffec0975"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "greenbone/gsa",
+        "Target PR": "https://github.com/greenbone/gsa/pull/318",
+        "Closest PR": "https://github.com/greenbone/gsa/pull/1135",
+        "Title": "Git issue gvmd302",
+        "Created At": "2019-01-23T09:31:54Z",
+        "Target Commit SHA": "fff55cae13946fb3ebfe14eba70245472e460baa",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "36906eab03e2a6e64a8fbc6689a9d66c755575b2"
+    }
+]

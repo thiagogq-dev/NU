@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/2691",
+        "Closest PR": "https://github.com/pallets/flask/pull/3137",
+        "Title": "Update CONTRIBUTING.rst discord link + style info",
+        "Created At": "2019-04-03T08:47:28Z",
+        "Target Commit SHA": "465b48ed4e4af52493df1febe4687f53032a5e0a",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "eadb99eb93aa21cae3ce907006e62818319fbff7"
+    }
+]

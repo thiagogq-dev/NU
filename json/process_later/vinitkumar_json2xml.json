@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "vinitkumar/json2xml",
+        "Target PR": "https://github.com/vinitkumar/json2xml/pull/107",
+        "Closest PR": "https://github.com/vinitkumar/json2xml/pull/170",
+        "Title": "Use fixture for attrs with dict and remove comment",
+        "Created At": "2023-01-19T15:46:22Z",
+        "Target Commit SHA": "dc8f15f505d9884364f633469e4086df95ac40fb",
+        "target_inducing_commit_hash_pyszz": [
+            "a9cd75b61329801b47a8fba7473bce6c85a38b9b"
+        ],
+        "fix_commit_hash": "02d42d2a9ce32fc8aaaeb3a0caaeb7b4f67e15ea"
+    }
+]

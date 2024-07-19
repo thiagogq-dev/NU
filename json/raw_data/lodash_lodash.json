@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "lodash/lodash",
+        "Target PR": "https://github.com/lodash/lodash/pull/5065",
+        "Closest PR": "https://github.com/lodash/lodash/pull/5366",
+        "Title": "Fixed the Object contain \"length\" prop issue",
+        "Created At": "2022-01-25T05:53:52Z",
+        "Target Commit SHA": "c4847ebe7d14540bb28a8b932a9ce1b9ecbfee1a",
+        "target_inducing_commit_hash_pyszz": [
+            "deb65de218ef0cc0e117840f70a9e70cbb960698"
+        ],
+        "fix_commit_hash": null
+    }
+]

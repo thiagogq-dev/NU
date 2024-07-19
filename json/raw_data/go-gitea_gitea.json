@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "go-gitea/gitea",
+        "Target PR": "https://github.com/go-gitea/gitea/pull/21463",
+        "Closest PR": "https://github.com/go-gitea/gitea/pull/27627",
+        "Title": "fix duplicated icon in repolist",
+        "Created At": "2023-10-14T20:15:28Z",
+        "Target Commit SHA": "cd48a007bb85ba071ed175a6376b9e392e2c49b6",
+        "target_inducing_commit_hash_pyszz": [
+            "34b5436ae1af2735546bb519a950eabf4990212d"
+        ],
+        "fix_commit_hash": "6cef7a767b649aa250ea902042c719d1c87d678d"
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "Target PR": "https://github.com/go-gitea/gitea/pull/4664",
+        "Closest PR": "https://github.com/go-gitea/gitea/pull/7817",
+        "Title": "app.ini.sample grammar fix",
+        "Created At": "2019-08-10T18:33:32Z",
+        "Target Commit SHA": "194a11eb110cd98fc2ba52861abf7770db6885a3",
+        "target_inducing_commit_hash_pyszz": [
+            "240609432b84a8caa5ec4c99a916277952ef02d5"
+        ],
+        "fix_commit_hash": "80d2c2575b78eb5ea7193b9fe98d7c3ad6409605"
+    }
+]

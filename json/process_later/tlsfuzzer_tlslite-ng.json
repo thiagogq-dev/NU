@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "tlsfuzzer/tlslite-ng",
+        "Target PR": "https://github.com/tlsfuzzer/tlslite-ng/pull/439",
+        "Closest PR": "https://github.com/tlsfuzzer/tlslite-ng/pull/472",
+        "Title": "EdDSA",
+        "Created At": "2021-07-26T18:42:04Z",
+        "Target Commit SHA": "c28d6d387bba59d8bd5cb3ba15edc42edf54b368",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "80b4c7a8b72537a6aa4f3d56c464471785c57717"
+    }
+]

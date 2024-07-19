@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "yaml/pyyaml",
+        "Target PR": "https://github.com/yaml/pyyaml/pull/74",
+        "Closest PR": "https://github.com/yaml/pyyaml/pull/198",
+        "Title": "WIP: Another safe_load API attempt",
+        "Created At": "2018-07-01T19:46:03Z",
+        "Target Commit SHA": "bbcf95fa051fdba9bbf879332e2f7999b195cf95",
+        "target_inducing_commit_hash_pyszz": [],
+        "fix_commit_hash": null
+    }
+]

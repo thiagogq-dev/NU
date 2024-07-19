@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "wso2/carbon-apimgt",
+        "Target PR": "https://github.com/wso2/carbon-apimgt/pull/5844",
+        "Closest PR": "https://github.com/wso2/carbon-apimgt/pull/7830",
+        "Title": "Bump org.wso2.carbon.identity.recovery from 1.3.15 to 1.3.18",
+        "Created At": "2019-10-30T16:32:52Z",
+        "Target Commit SHA": "c56a6d7070e1bcda6db0b5e50af0751c34274b9c",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
+    }
+]

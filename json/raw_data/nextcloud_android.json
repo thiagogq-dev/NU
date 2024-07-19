@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "nextcloud/android",
+        "Target PR": "https://github.com/nextcloud/android/pull/8433",
+        "Closest PR": "https://github.com/nextcloud/android/pull/10256",
+        "Title": "Bump emoji-google from 0.11.0 to 0.12.0",
+        "Created At": "2022-05-17T01:04:57Z",
+        "Target Commit SHA": "8af3112fff7104e4e3a5d612be8e783e8fea6f4d",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "54b68b049c282a4d1be03744fc509519a8f3dac2"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "Target PR": "https://github.com/nextcloud/android/pull/7919",
+        "Closest PR": "https://github.com/nextcloud/android/pull/9791",
+        "Title": "FileActivity: fix crash on share operations when FileDetailFragment is second fragment",
+        "Created At": "2022-02-01T11:46:38Z",
+        "Target Commit SHA": "33945b880bdab610fe78ef3901dd22abb70cf114",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "b81027d057180f3f661f06c794245c49374f319c"
+    }
+]

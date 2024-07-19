@@ -1,1 +1,0 @@
-[{"repo_name": "GreycLab/CImg", "Target PR": "https://github.com/GreycLab/CImg/pull/348", "Closest PR": "https://github.com/GreycLab/CImg/pull/296", "Closest Commit SHA": null, "Title": "Fix unbounded malloc DoS in PNM loading code", "Created At": "", "fix_commit_hash": "5801be3d268c93e724b1395019463d86e660e04b", "inducing_commit_hash_pyszz": "-"}]

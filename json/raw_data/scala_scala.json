@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "scala/scala",
+        "Target PR": "https://github.com/scala/scala/pull/10118",
+        "Closest PR": "https://github.com/scala/scala/pull/10502",
+        "Title": "Use URI to compute Scaladoc URI [ci: last-only]",
+        "Created At": "2023-08-16T19:02:21Z",
+        "Target Commit SHA": "3a124138843ef06594aa955800ba83d7c8ac2b84",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "3b154a09de7a7527d5e15804e252b74294c52881"
+    },
+    {
+        "repo_name": "scala/scala",
+        "Target PR": "https://github.com/scala/scala/pull/6120",
+        "Closest PR": "https://github.com/scala/scala/pull/7324",
+        "Title": "Add ++: overload that return Map",
+        "Created At": "2018-10-07T04:45:23Z",
+        "Target Commit SHA": "67fcf5ce4496000574676d81ed72e4a6cb9e7757",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "f34381fa9f04409f2434d234c453aa7dc4f032ee"
+    }
+]

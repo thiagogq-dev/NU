@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "neutrinolabs/xrdp",
+        "Target PR": "https://github.com/neutrinolabs/xrdp/pull/958",
+        "Closest PR": "https://github.com/neutrinolabs/xrdp/pull/1233",
+        "Title": "Fix two issues with Microsoft Remote Desktop for MAC",
+        "Created At": "2018-10-24T07:48:20Z",
+        "Target Commit SHA": "d958d1f0186968200da32bafc3d9be4a4aa7212d",
+        "target_inducing_commit_hash_pyszz": [
+            "10fdc5c17f7aec2df8885d2cf7354f6681af76f6"
+        ],
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "neutrinolabs/xrdp",
+        "Target PR": "https://github.com/neutrinolabs/xrdp/pull/497",
+        "Closest PR": "https://github.com/neutrinolabs/xrdp/pull/936",
+        "Title": "sound: g_bbuf_size should be determined after codec is determined",
+        "Created At": "2017-11-07T10:02:16Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "3d29b6ec768155b6eacf2846dbdb43eddde1d48c"
+    }
+]

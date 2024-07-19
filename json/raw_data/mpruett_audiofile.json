@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "mpruett/audiofile",
+        "Target PR": "https://github.com/mpruett/audiofile/pull/42",
+        "Closest PR": "https://github.com/mpruett/audiofile/pull/45",
+        "Title": "Fix static linking with libsndfile",
+        "Created At": "2017-05-27T16:02:52Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [],
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "mpruett/audiofile",
+        "Target PR": "https://github.com/mpruett/audiofile/pull/42",
+        "Closest PR": "https://github.com/mpruett/audiofile/pull/45",
+        "Title": "Fix static linking with libsndfile",
+        "Created At": "2017-05-27T16:02:52Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [],
+        "fix_commit_hash": null
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "rust-ethereum/evm",
+        "Target PR": "https://github.com/rust-ethereum/evm/pull/264",
+        "Closest PR": "https://github.com/rust-ethereum/evm/pull/280",
+        "Title": "Fix eip2929 implementation",
+        "Created At": "2024-05-08T12:15:25Z",
+        "Target Commit SHA": "d8991ec727ad0fb64fe9957a3cd307387a6701e4",
+        "target_inducing_commit_hash_pyszz": [
+            "d543f105c2ce61494f9cedd6011f7f14989fd611"
+        ],
+        "fix_commit_hash": "a5a79c4de4efc3fde78aa2e590ac33de29e5467b"
+    }
+]

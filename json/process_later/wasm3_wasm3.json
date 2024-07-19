@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "wasm3/wasm3",
+        "Target PR": "https://github.com/wasm3/wasm3/pull/324",
+        "Closest PR": "https://github.com/wasm3/wasm3/pull/417",
+        "Title": "Check global mutability",
+        "Created At": "2023-01-08T12:41:18Z",
+        "Target Commit SHA": "8441c82c4a98f554b12971450220b580c3c2b6df",
+        "target_inducing_commit_hash_pyszz": [
+            "6d423a8fbad2f217e75e2e73ddecd5627890c77c"
+        ],
+        "fix_commit_hash": "6512cc99d0dfac983e8a0f67037b0f311ec3d395"
+    }
+]

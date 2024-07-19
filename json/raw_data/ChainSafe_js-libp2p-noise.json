@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "ChainSafe/js-libp2p-noise",
+        "Target PR": "https://github.com/ChainSafe/js-libp2p-noise/pull/130",
+        "Closest PR": "https://github.com/ChainSafe/js-libp2p-noise/pull/285",
+        "Title": "fix: bump it-pb-stream from 2.0.4 to 3.2.0",
+        "Created At": "2023-03-06T11:18:48Z",
+        "Target Commit SHA": "e447d2bbeafc9584f4538f016b1b97f75ce58337",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "61a53e41952f214d6314a97124445ef9ddfd5bfa"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "omrilotan/async-git",
+        "Target PR": "https://github.com/omrilotan/async-git/pull/14",
+        "Closest PR": "https://github.com/omrilotan/async-git/pull/34",
+        "Title": "Bump eslint from 7.32.0 to 8.5.0",
+        "Created At": "2021-12-20T03:08:14Z",
+        "Target Commit SHA": "d1950a5021f4e19d92f347614be0d85ce991510d",
+        "target_inducing_commit_hash_pyszz": [
+            "af4c2aa0bf52e01d866cb8435f942dd404c8eb35"
+        ],
+        "fix_commit_hash": null
+    }
+]

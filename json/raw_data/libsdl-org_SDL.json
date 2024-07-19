@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "libsdl-org/SDL",
+        "Target PR": "https://github.com/libsdl-org/SDL/pull/6269",
+        "Closest PR": "https://github.com/libsdl-org/SDL/pull/8269",
+        "Title": "cmake: fix building SDL3 with ndk 26",
+        "Created At": "2023-09-20T03:00:07Z",
+        "Target Commit SHA": "00b67f55727bc0944c3266e2b875440da132ce4b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "c9ccf0670c6731ea35ee8c70bfe0cb48851cec91"
+    }
+]

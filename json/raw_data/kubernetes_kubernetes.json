@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "kubernetes/kubernetes",
+        "Target PR": "https://github.com/kubernetes/kubernetes/pull/88684",
+        "Closest PR": "https://github.com/kubernetes/kubernetes/pull/99543",
+        "Title": "update azure_armclient log",
+        "Created At": "2021-02-28T02:39:08Z",
+        "Target Commit SHA": "cd23e78c3dc1a4161abb11523a8614b56b9c0928",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
+    }
+]

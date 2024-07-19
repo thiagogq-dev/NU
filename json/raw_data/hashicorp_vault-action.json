@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "hashicorp/vault-action",
+        "Target PR": "https://github.com/hashicorp/vault-action/pull/208",
+        "Closest PR": "https://github.com/hashicorp/vault-action/pull/318",
+        "Title": "chore(deps-dev): bump jest from 26.6.3 to 28.0.3",
+        "Created At": "2022-04-29T22:03:42Z",
+        "Target Commit SHA": "3526e1be65cf8faf42d6088bc5da8bff596c718a",
+        "target_inducing_commit_hash_pyszz": [
+            "0188d9d223dac8b24b94b04d3253bf0fe0365ca7"
+        ],
+        "fix_commit_hash": null
+    }
+]
