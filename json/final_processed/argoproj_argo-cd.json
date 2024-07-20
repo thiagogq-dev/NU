@@ -10,7 +10,13 @@
         "Closest Commit SHA": "bb15a4996e327fb27ad91f3f6fa24f831f7754e0",
         "closest_inducing_commit_hash_pyszz": [
             "71f3351d2b068823314635ce71cfa9a2bb7cfe8c"
-        ]
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "cfd59aded2a7b0d4a252f435c2f5b3dd6691411b"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -24,6 +30,25 @@
         ],
         "Closest Commit SHA": "9fac0f6ae6e52d6f4978a1eaaf51fbffb9c0958a",
         "closest_inducing_commit_hash_pyszz": [
+            "6b08a23a0132667c71a9497ad0f043689b66b686"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "12ec99ad01a945e045225e5c239f8ee203e8139a",
+            "58ac345f2bd4054a12b4991a8909c56a035867d9",
+            "10d05cdb60fe65770809e58eee400b5d92764228",
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
+        ],
+        "target_matched": [
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "8d55e72dfac991519f4121c2186067922dae59fc",
+            "a6039e1be9c98a80af9b43d976987d73d5d4489c",
+            "9f47a116219700a46750707fd4d0e5f835404444",
+            "ee28288d507b930cb89f6ef0f6dd6bfa4daa7341",
+            "6b08a23a0132667c71a9497ad0f043689b66b686"
+        ],
+        "closest_matched": [
             "6b08a23a0132667c71a9497ad0f043689b66b686"
         ]
     }
