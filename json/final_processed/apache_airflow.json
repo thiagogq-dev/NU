@@ -1,0 +1,235 @@
+[
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/30779",
+        "Closest PR": "https://github.com/apache/airflow/pull/39142",
+        "Title": "Fix stacklevel for TaskContextLogger",
+        "Created At": "2024-04-19T20:31:52Z",
+        "Target Commit SHA": "9c936208f46735269bec98a2038bd065e5581591",
+        "target_inducing_commit_hash_pyszz": [
+            "56a03710a607376a01cb201ec81eb9d87d7418fe"
+        ],
+        "Closest Commit SHA": "acc2338aed8d789503dca7fba262b326eeb5c117",
+        "closest_inducing_commit_hash_pyszz": [
+            "2f69b5f007b544f992432a3c681f393317e16c16"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "0db38ad1a2cf403eb546f027f2e5673610626f47",
+            "c920b1bd5c880e1dcb2ed7b6c0e2aa14fbd6b71b"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "2f69b5f007b544f992432a3c681f393317e16c16"
+        ],
+        "closest_matched": [
+            "2f69b5f007b544f992432a3c681f393317e16c16"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/32014",
+        "Closest PR": "https://github.com/apache/airflow/pull/40265",
+        "Title": "Fix typo in xcoms.rst",
+        "Created At": "2024-06-15T22:09:57Z",
+        "Target Commit SHA": "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db",
+        "target_inducing_commit_hash_pyszz": [
+            "dd623016aececfa7e0644e7da901902a7a629f44"
+        ],
+        "Closest Commit SHA": "56904394b9162644bf4b2a79651ee7d6b9fc05b6",
+        "closest_inducing_commit_hash_pyszz": [
+            "0371ea8f4e6b53580a0c0ed3cd553b800028d53d"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "e2f19505bf3622935480e80bee55bf5b6d80097b"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "fd5fe8d2c698b9c26cee47fd0af2f211e9fee7e6",
+            "0371ea8f4e6b53580a0c0ed3cd553b800028d53d",
+            "40d3a76a9bce2360b951f2e990cba571c5f51a76"
+        ],
+        "closest_matched": [
+            "0371ea8f4e6b53580a0c0ed3cd553b800028d53d"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/33108",
+        "Closest PR": "https://github.com/apache/airflow/pull/40278",
+        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
+        "Created At": "2024-06-17T12:25:37Z",
+        "Target Commit SHA": "52ca7bfc988f4c9b608f544bc3e9524fd6564639",
+        "target_inducing_commit_hash_pyszz": [
+            "032cf7cdbce34ceb0e9380f86e07a6c077470396"
+        ],
+        "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
+        "closest_inducing_commit_hash_pyszz": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "44c43363f326d7c04411ad796ce58d30bce64fd7",
+            "06acf40a4337759797f666d5bb27a5a393b74fed",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "25a5f553c306549d3d1f0f71f3eee53c72447e41"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788",
+            "cf1e26b04669ad2b232618fee623e6bc7797a13a"
+        ],
+        "closest_matched": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/27641",
+        "Closest PR": "https://github.com/apache/airflow/pull/35597",
+        "Title": "added cancelled handling in dbt deferred",
+        "Created At": "2023-11-13T10:35:17Z",
+        "Target Commit SHA": "1d4fd5c6eacab0b88f8660f9d780174434393f1a",
+        "target_inducing_commit_hash_pyszz": [
+            "813cd431204b71f4e7c27f2bee9fafcc910da4d0"
+        ],
+        "Closest Commit SHA": "a8bc6c551d84dea4f57cd6d2a9807250cb187997",
+        "closest_inducing_commit_hash_pyszz": [
+            "55049c50d52323e242c2387f285f0591ea38cde7"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "0481b9a95786a62de4776a735ae80e746583ef2b"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "55049c50d52323e242c2387f285f0591ea38cde7",
+            "d1aa509bbd1941ceb3fe31789efeebbddd58d32f",
+            "7a93b1913845710eb67ab4670c1be9e9382c030b"
+        ],
+        "closest_matched": [
+            "55049c50d52323e242c2387f285f0591ea38cde7"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/33075",
+        "Closest PR": "https://github.com/apache/airflow/pull/40278",
+        "Title": "Fix replace parameter for BigQueryToPostgresOperator",
+        "Created At": "2024-06-17T12:25:37Z",
+        "Target Commit SHA": "e20325db38fdfdd9db423a345b13d18aab6fe578",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "ca7e2a05b597bbb5a74b7a2f06a401013e730a38",
+        "closest_inducing_commit_hash_pyszz": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "3fac5c35409ccfde771ce08ea8daeaac056b2c10"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788",
+            "cf1e26b04669ad2b232618fee623e6bc7797a13a"
+        ],
+        "closest_matched": [
+            "78fa36518a17f65a2ad2aa98b684c9d1aacd5788"
+        ]
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/29706",
+        "Closest PR": "https://github.com/apache/airflow/pull/37634",
+        "Title": "Fix Async GCSObjectsWithPrefixExistenceSensor xcom push",
+        "Created At": "2024-02-22T18:47:30Z",
+        "Target Commit SHA": "101d59c4b88ab979d305b8d96f612c27c8a44aa8",
+        "target_inducing_commit_hash_pyszz": [
+            "7dd19731f232d99d2947128c29e393b8ce013741"
+        ],
+        "Closest Commit SHA": "ca4c55986534a553baea80a7bb5b834f7fdf0ddd",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "b333b24a04a752fd25ec48f76dce04a4bb5ed566",
+            "4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68",
+            "8d31ca21a74a918a934912ecd47287b7a51193e2",
+            "2bb26a38070a4b949bfb210ef1d5644e016e373a",
+            "24d0ecf4ee6dbfd2339847443d4b12033efe9c0f",
+            "26175ee5d931b8454d61ccbbd5dd585f7288c97b",
+            "411c686800fd5cc5175fdb27a94a20f08a56c001",
+            "3182ba2f402656bfc7d7777f1678161ec5a9cf79",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "1e8ac47589967f2a7284faeab0f65b01bfd8202d",
+            "944dcfbb918050274fd3a1cc51d8fdf460ea2429",
+            "9510043546d1ac8ac56b67bafa537e4b940d68a4",
+            "1047940ca4363b04044c4963b9c88f7632746407",
+            "49431c9587ef13ff3ff2ff2b8e74d4d2952afe78",
+            "f360414774f1ecb2e0f4e53ebdd623c7435f9a78",
+            "a36cfe049a2c5948b24fde7a878fe19cabede5f7",
+            "d12dc188d97f83d29bb8bba8b7b10c452f4c159a",
+            "72679bef3abee141dd20f75d6ff977bd3978ecc8",
+            "51d61a9ec2ee66a7f1b45901a2bb732786341cf4",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b",
+            "4c1fcee6ba1559fcb53836ac7fcccd68b1891d93",
+            "c6b27e309cbc29c73604969c88c8e8b437af583f",
+            "3d3cc41678297ac113287760ed5fe9968a96f1d9",
+            "67e8bdd691ded0e88760b3d59b9c58ba43fa9453",
+            "10c9cb5318fd8a9e41a7b4338e5052c8feece7ae",
+            "c030729dcbe35a2a4869e46b57a761c8376ede8d",
+            "1edef28b315809c8367b29f3f1a83984dc6566c4",
+            "b4e9c678d7375401bb548302a2074a215aec5dc0",
+            "9c592cbe4300f64be5698d0fc7a79e067b5b6832",
+            "7dd19731f232d99d2947128c29e393b8ce013741",
+            "476d0f6e3d2059f56532cda36cdc51aa86bafb37",
+            "aeabef7ba4b4a7f2ca30b72da25aa32c8a86bc8b",
+            "9b63df8946308ccd7bf7e7ca02766bf09316cf93",
+            "dbed51e702bf8177800183d2c4f595073aa2339d",
+            "e29d33b89f7deea6eafb03006c37b60692781e61",
+            "4d0fd8ef6adc35f683c7561f05688a65fd7451f4",
+            "2400de2c5ece644cadb870baeea28907fa4dcf58",
+            "f74d0ab38e00b83b49e20d410736e2a8c42de095",
+            "88292837ba219c99f94bf3e03c5befda470c83b4",
+            "22b49d334ef0008be7bd3d8481b55b8ab5d71c80",
+            "4cb06219dc6b2c9fb888446165605e63aa16bdaa",
+            "ffa33e44affdfc9e8a53119a9a6461626d431546"
+        ],
+        "target_matched": [
+            "7dd19731f232d99d2947128c29e393b8ce013741"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "apache/airflow",
+        "Target PR": "https://github.com/apache/airflow/pull/27576",
+        "Closest PR": "https://github.com/apache/airflow/pull/35557",
+        "Title": "Remove `sqla` module from security manager",
+        "Created At": "2023-11-09T15:21:25Z",
+        "Target Commit SHA": "b33d22c2243c552f4d1372bbe6b75e5fb097f567",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "3c5f5b50a4e7459d5edd60c40fb95db87142be99",
+        "closest_inducing_commit_hash_pyszz": [
+            "c2046245c07fdd6eb05b996cc67c203c5ac456b6"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "64c2a56faf31d5f7e38e7b55e9eb4c38ced54c59",
+            "f17e2ba48b59525655a92e04684db664a672918f",
+            "f4c522f120626662c797c37f51b51d048a8ac047",
+            "8775f841ddc57960358c83050841f02a3bc0f8ca",
+            "c2046245c07fdd6eb05b996cc67c203c5ac456b6",
+            "3e9828022b03b60d9e112f1f64340a528c8407e3",
+            "ae3a61775a79a3000df0a8bdf50807033f4e3cdc",
+            "d3ce44236895e9e1779ea39d7681b59a25af0509",
+            "b8165941d007081f0b7b24458d461a8760909ac8",
+            "031e3945e44030d4f085753ffdc43dc104708f91",
+            "319045492d2559bd856a43a1fa810adf59358d7d",
+            "e6ce871a020cad94ecc3a4e3bbb9ee796986775f",
+            "d67ac5932dabbf06ae733fc57b48491a8029b8c2",
+            "6deebec04c71373f5f99a14a3477fc4d6dc9bcdc",
+            "e2f19505bf3622935480e80bee55bf5b6d80097b",
+            "48d4c5da19217174c8996b2882bb71f40381ae2c"
+        ],
+        "closest_matched": [
+            "c2046245c07fdd6eb05b996cc67c203c5ac456b6"
+        ]
+    }
+]
