@@ -8,7 +8,11 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "25c47cd1cfca4b6dd2acd2f18c717d704b5f6fca",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -23,7 +27,18 @@
         "Closest Commit SHA": "f3a13a912f99e473d5a5c2d6040619edab20a701",
         "closest_inducing_commit_hash_pyszz": [
             "b7607c34db674e3ebade5eea3f88a34474212f85"
-        ]
+        ],
+        "target_inducing_commit_hash_pd": [
+            "d3748152a70e6e3c54011f23c9d16b66d5e8dccc",
+            "00a3ef321b16882f1f6d424a10a753d2712334dd"
+        ],
+        "target_matched": [
+            "00a3ef321b16882f1f6d424a10a753d2712334dd"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "a00862336230fbe7ef72346e23b517d344656a78"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -36,6 +51,23 @@
         "Closest Commit SHA": "94f8889cd3b7cefd93dde8b47581a2090dc9c9a6",
         "closest_inducing_commit_hash_pyszz": [
             "44c3aab2dc2e34a120459159237626486ebc4386"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "2a3dd2def9614558177e49f45a798e853efd0e7e",
+            "20dfab80369d2531e63821c7e22ec532c6d6314d",
+            "6da49fd29b4b15962794a35b045b87fbc0b39f28",
+            "3ef783e02a454f937344a11442b61d7464289885",
+            "2f4c337ad6a6998c8c092035b5613492edfb61ad",
+            "30bf563f4d71ff284b5f42d45f77226200a2e571",
+            "44c3aab2dc2e34a120459159237626486ebc4386",
+            "839012f0373cdd3f789b837491411dd1398c4b77",
+            "b318b9de65e005c5af086b7a7d602e709c7ed669",
+            "0fd3e9e8cdd67a48ffce7ee6fe8ef412703f4da5"
+        ],
+        "closest_matched": [
+            "44c3aab2dc2e34a120459159237626486ebc4386"
         ]
     },
     {
@@ -47,7 +79,11 @@
         "Target Commit SHA": "6fa2e31206127bd8bcac0269311f3775a8d6ea21",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "7fa2ce90dc8d87dfb090a67c70fc23d148aa86b8",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -59,6 +95,23 @@
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "94f8889cd3b7cefd93dde8b47581a2090dc9c9a6",
         "closest_inducing_commit_hash_pyszz": [
+            "44c3aab2dc2e34a120459159237626486ebc4386"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "2a3dd2def9614558177e49f45a798e853efd0e7e",
+            "20dfab80369d2531e63821c7e22ec532c6d6314d",
+            "6da49fd29b4b15962794a35b045b87fbc0b39f28",
+            "3ef783e02a454f937344a11442b61d7464289885",
+            "2f4c337ad6a6998c8c092035b5613492edfb61ad",
+            "30bf563f4d71ff284b5f42d45f77226200a2e571",
+            "44c3aab2dc2e34a120459159237626486ebc4386",
+            "839012f0373cdd3f789b837491411dd1398c4b77",
+            "b318b9de65e005c5af086b7a7d602e709c7ed669",
+            "0fd3e9e8cdd67a48ffce7ee6fe8ef412703f4da5"
+        ],
+        "closest_matched": [
             "44c3aab2dc2e34a120459159237626486ebc4386"
         ]
     }
