@@ -10,6 +10,14 @@
         "Closest Commit SHA": null,
         "closest_inducing_commit_hash_pyszz": [
             "3ea9d5b51f8fa5ebe4bda781f8c23efed9b2978c"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "3ea9d5b51f8fa5ebe4bda781f8c23efed9b2978c"
+        ],
+        "closest_matched": [
+            "3ea9d5b51f8fa5ebe4bda781f8c23efed9b2978c"
         ]
     }
 ]
