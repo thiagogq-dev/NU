@@ -1,0 +1,133 @@
+[
+    {
+        "repo_name": "apache/trafficserver",
+        "Target PR": "https://github.com/apache/trafficserver/pull/10564",
+        "Closest PR": "https://github.com/apache/trafficserver/pull/11452",
+        "Title": "Fix unused parameters in iocore",
+        "Created At": "2024-06-15T04:20:18Z",
+        "Target Commit SHA": "b28ad74f117307e8de206f1de70c3fa716f90682",
+        "target_inducing_commit_hash_pyszz": [
+            "6550d81849b66a1f52c73bdce15b2c03d93cac29"
+        ],
+        "Closest Commit SHA": "d7e9b6b699f567e9afc75bc3f9eaf5df73f57046",
+        "closest_inducing_commit_hash_pyszz": [
+            "266b666ade7312a55ff68ee603e5e6b013c6ef13"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "f2ebbcee400c3c91aa789382d7f7243797ed733c",
+            "d430efe76ba0726ae64e8da9b8853c986d18af40",
+            "9c09dbc118f7ce22ce6a89ac88c7532f83ee23b0",
+            "5cd7b75d0f50f8da50119a4044314cc187905ae7",
+            "4208ecb8719add76aa46ab2005ff9424531e2e73",
+            "693b3cb465d2867379a80e882899aca8ea98f389",
+            "aa5ead6edc46e46baa3832f512951ebe9ca83463",
+            "50441b39e6631389ef95c4133f06bbf94544879c",
+            "7bef8ca0b8a80efda417616d995a89c2b8eed119",
+            "0c53eaec1348cb71f2e9e8319c6803b53620a325",
+            "0e6e5c151cde5f06c15e295f663a98b2b7d37a6d",
+            "11041d9368de4e68a6447d23d1fa9d04c7bbc7c7",
+            "9c05e64df3e9eb00f786a42e29bfbdb4ffa76ec1",
+            "ef0f0e1ae1b9574695050ec370c6f40ccba6c25c",
+            "d91a8ca17bb17b08ce7f040b868e3c286a7bb0a6",
+            "f2b45853cba1c49024e3985c3aa09b777dda7360",
+            "adf9151d85b68ba5472eb29fa77f2a3dc184dec7",
+            "07fb9130cdd458965a8631ff7cd2f1376d6ac689",
+            "e6291181b4eb6bc98b57fa1cd86ec07fd2d59928",
+            "16172a4e79865d1201a51e85aeb72df8b0609986",
+            "cbbdd53cc2836df415bb3970edd7bf17b65e30eb",
+            "6550d81849b66a1f52c73bdce15b2c03d93cac29",
+            "0ecd3fb1223019a37715f3b4db957fe8ca6cda13",
+            "22733a32b81346cd758b69377c61d3569a63c13a",
+            "91f1bb7b54827f80bd5b976e83e25bc86e4e3a3b",
+            "923932fc5144a14ee334477dabf418545af1ae2c",
+            "2aae7251b793c9db3cb3ddd71f666e872522732f",
+            "edccb98c97f15abce60ddb795e8429ce940c1414",
+            "83d1f110debd9d3ebbc827ee1138e69544b95559",
+            "490495431f1f11e9e52cff12df54d51115cef2c0",
+            "0d2ad23921061c4117104b64d15bc17cae79c9fe",
+            "46422dfaf007eccbda03183557805902ac853cef",
+            "4810f98e746c2ac0f777bca0351b31f82fc0594d",
+            "3db54378720e6f4c66e265c28b7c0d445afe5849"
+        ],
+        "target_matched": [
+            "6550d81849b66a1f52c73bdce15b2c03d93cac29"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "18e847d1408cb0a9bc9dff80d83266c7930f289b",
+            "e084750c6943920cae0fe611d9ebf416c09d2c97",
+            "003e9ce2b90df26fcc06aba377af9e261c8f6a4a",
+            "f692c2014c1bace3555bb145efe866dec17b80c1",
+            "4cfd5a73824843836c22481416503d3d4c35dc19",
+            "46acdc85f405ba480356952ff2979d7385a6c591",
+            "763cd6d0140f53eb149e944c0a9e7198fcc80624",
+            "46422dfaf007eccbda03183557805902ac853cef",
+            "341e99c50f72750efb2fd05fcee3870e21ff6d27",
+            "e0620eb941eab2603b2c230366e0fae5eeb6b57d",
+            "cb247c6af699cb08286f04bd2ef481031b5babc7",
+            "4cf91f8acd7290e960edefc6b5f87d8a50d2271f",
+            "a885dc63896e972bcde388c32019d258a6148398",
+            "473a0fa29798b428515b5c57f980bb1a2214524a",
+            "ed16edfa2d50e2cbd75b8455b9d4ba48ff7d1e01",
+            "ee0ce71fed73ae5092da12ced4e11556ecaced36",
+            "2d70a007933176c80b09ddeaf164206794671442",
+            "53b4d791d7f950ddbce138d7bdb74534664c5040",
+            "a1651345d11f228dfb392cc79169760e80d25f06",
+            "0c471003541e0835a6f190104e5214da4ca9a026",
+            "675d77a9eeacadde9f6426a28b700c7f3cf1433e",
+            "16fb8092efd128723e7ccd6e374ffd7add155070",
+            "c6f1ea6dc19fba3b13cac526d4af2f90c640766a",
+            "6d1382defe4ebb1a614847393973c5a041a1a3a8",
+            "fc3f12e5eb360a32845ddbf3cba64294c8cb1ddf",
+            "65477944357bdb8bef778dda91ff1319271d9172",
+            "c181e7eea93592fa496247118f72e8323846fd5a",
+            "2959516a1336663ab2429ff04f0e65d002c1072f",
+            "1ecdebb4d45490cc8c7c4a9f654b024803ea2d90",
+            "ffaf1aa4e8839dade0d5e517d31e2a8aeb262d04",
+            "3cea21977b0729633b141682f50b297cb5369463",
+            "b070028fc55cbcd46bcbfae0b37574a2cd650e2c",
+            "d52c64ab93afa2df92caff0781f239d0f994b452",
+            "664e80eaf392f36ece50cfc463bb22dc25117395",
+            "03847a136dd570bf75aec6e85dea06b17cb6c7e8",
+            "17b9c5f389ccc266c967261df85262a9206041dd",
+            "7dbb6cb1881aa344edb1ab59dcbe3342171ea0a7",
+            "39522703d7b9fdf4834b797e2d812f37f8970f71",
+            "3a5707f1b0cb87d04f1823f13761f4dc63bcd5b1",
+            "a1a47b93ad29ffd3d3168d1c74c8ef20bbe7b28e",
+            "5d75ea06902ec8f3bb0534f982ca87bb3102e9e1",
+            "f0cdd4a84c22f96bd3d73fc81027dcceba796536",
+            "768bcf8cf9b7d6fc36ec9145aed0ae1d9879e056",
+            "4dc8dc7f787fcb484e85b6dcf646c189a74fb1b3",
+            "7e5093ef6f1fc608326e80f4f3c815a7b027a8dd",
+            "398213c44156268b1fa7f38613d77ad93cdbc64a",
+            "6406ef8c66b3dd009af3e2f2b8f3cd6e409fa2cf"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "apache/trafficserver",
+        "Target PR": "https://github.com/apache/trafficserver/pull/3201",
+        "Closest PR": "https://github.com/apache/trafficserver/pull/5088",
+        "Title": "MIME: Fix line_is_real false positive.",
+        "Created At": "2019-02-28T17:02:22Z",
+        "Target Commit SHA": "fe9c1276aba6768e78b72a486c07e7b853214b09",
+        "target_inducing_commit_hash_pyszz": [
+            "08512deb11a610ae7084ce678b19bd637e30b3e1"
+        ],
+        "Closest Commit SHA": "f78dcdc78ff8d7f4cae7b588c743c2a11ce2176f",
+        "closest_inducing_commit_hash_pyszz": [
+            "0be4e7326b89670dea1ffe4c7f21c36bfd2bdf59"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "08512deb11a610ae7084ce678b19bd637e30b3e1"
+        ],
+        "target_matched": [
+            "08512deb11a610ae7084ce678b19bd637e30b3e1"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "0be4e7326b89670dea1ffe4c7f21c36bfd2bdf59"
+        ],
+        "closest_matched": [
+            "0be4e7326b89670dea1ffe4c7f21c36bfd2bdf59"
+        ]
+    }
+]
