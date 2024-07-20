@@ -8,7 +8,11 @@
         "Target Commit SHA": "53cc8d7ce66b971d540341d279aa7b8843bcf482",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "1d857a99d5d9bee9c5000db9af6694cc2f96c4e6",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "antirez/redis",
@@ -19,6 +23,10 @@
         "Target Commit SHA": "53cc8d7ce66b971d540341d279aa7b8843bcf482",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "10c35b584edb9534240a99b82721fd90847120fc",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
