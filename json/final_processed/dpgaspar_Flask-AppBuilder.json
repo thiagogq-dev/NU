@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "dpgaspar/Flask-AppBuilder",
+        "Target PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2045",
+        "Closest PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2238",
+        "Title": "chore: bump cryptography to 42.0.4",
+        "Created At": "2024-05-13T14:34:15Z",
+        "Target Commit SHA": "ae25ad4c87a9051ebe4a4e8f02aee73232642626",
+        "target_inducing_commit_hash_pyszz": [
+            "0d634131d1d76c5ea90d69e24fa40104546def63"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "2e2931f2fc470a4f1756a0c39e0cc04b86818d84"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "c12b3370fa427b64105fbf31b29e31c673210a84",
+            "b4c8bca85b900e98b64f45b774051c99d8154b82",
+            "51c6ad0208477fdb8cd6a9dd9cdcd3c87412a90e",
+            "e379f688cda6fe74524d3a4506b50a9f70147a21",
+            "db1816483f7d1a7c035326c773276355e7365a38",
+            "6f0d7dd871c8456b71d46364b8c345415ee2eb77",
+            "32d8df985fdfbf8fe71d75e5ca7f25af92e4a036",
+            "1a248f965873afa35d5fd15182eca7664e7985b9",
+            "d4f46552ae5d5bc370b0080271938c942cfa6b08",
+            "e2e97381e03871670940ce8f12c91479bd32560c",
+            "b27ef73b4f88b5b2fee677d3b6b348b6e84cab85",
+            "9dd1244bcdced5ca82e1b143da290d99d0d16ccb",
+            "9ba9407f13309a2a0bd800bdc582872a39b90585",
+            "292fdb40fc313bb263e849a507f9693bb1593872"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "eed6d8649bd18a2e03c5ae3f1afdf70f26513e0b"
+        ],
+        "closest_matched": []
+    }
+]
