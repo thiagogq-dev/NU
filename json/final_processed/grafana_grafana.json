@@ -1,0 +1,103 @@
+[
+    {
+        "repo_name": "grafana/grafana",
+        "Target PR": "https://github.com/grafana/grafana/pull/62143",
+        "Closest PR": "https://github.com/grafana/grafana/pull/81285",
+        "Title": "Docs: fix broken link",
+        "Created At": "2024-01-25T16:45:24Z",
+        "Target Commit SHA": "8b574e22b53aa4c5a35032a58844fd4aaaa12f5f",
+        "target_inducing_commit_hash_pyszz": [
+            "900d9bf9a1650274354206e3cee64d9cfed94da2"
+        ],
+        "Closest Commit SHA": "a9731846ccbfd905b85246c7d2d4160f1d075cc4",
+        "closest_inducing_commit_hash_pyszz": [
+            "be6b407d739fd938f1720bd3673d25a0b912799c"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "118b87ee8feaa2488a4ae696753559045185ba47",
+            "b14b267bede3db9ac19d93e5efc620c5e74457a3",
+            "3c6e0e8ef85048af952367751e478c08342e17b4",
+            "a0806691516087de0f94b52dcd8abd795c9d31fa",
+            "238d761450738cdef822589f321500879fa49b32",
+            "009d65b7943bf1cca9f7fbd0681a96d1241bb83e",
+            "900d9bf9a1650274354206e3cee64d9cfed94da2",
+            "8a7b4696792f9d58def7f7892836a8ee7ca827aa",
+            "9a0040c0aeaae8357c650cec2ee644a571dddf3d",
+            "11aa6a3e8f67bc99b5c1416ece1c5740664b5c2c",
+            "4a00c7ebde1f84e01c0faac3bcb8e423f09487ce"
+        ],
+        "target_matched": [
+            "900d9bf9a1650274354206e3cee64d9cfed94da2"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "be6b407d739fd938f1720bd3673d25a0b912799c"
+        ],
+        "closest_matched": [
+            "be6b407d739fd938f1720bd3673d25a0b912799c"
+        ]
+    },
+    {
+        "repo_name": "grafana/grafana",
+        "Target PR": "https://github.com/grafana/grafana/pull/24539",
+        "Closest PR": "https://github.com/grafana/grafana/pull/33954",
+        "Title": "Select: updates story from knobs to control",
+        "Created At": "2021-05-11T16:43:46Z",
+        "Target Commit SHA": "125ba95686df79989626ac1e8aa48e582c0efd98",
+        "target_inducing_commit_hash_pyszz": [
+            "0da733de9ced6bfce1f1a530771e2f30aa345f35"
+        ],
+        "Closest Commit SHA": "8c03b80490cb628182d02f1f887a27946b109924",
+        "closest_inducing_commit_hash_pyszz": [
+            "8587e9fe6cb5e98e8da21dff0915faaee40b3665"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "fadfc665e473c1b979ce1def31fa9cb9e6113d0e"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "3d23ab549b976c1464d4178b9a30aec8b77e3365",
+            "b00755a2d93b0919201a0b5a6fa77fdee4a55efc",
+            "9bbc007cb9f83db1fd143589be266068ef70084a",
+            "431f454d57512813e153bb57e14344345c0e084d",
+            "8587e9fe6cb5e98e8da21dff0915faaee40b3665",
+            "b34281e250eccd4328a361d007f4386de46ef2eb",
+            "98418ea55f451c6d4b22151a7f5672c9e4751ace"
+        ],
+        "closest_matched": [
+            "8587e9fe6cb5e98e8da21dff0915faaee40b3665"
+        ]
+    },
+    {
+        "repo_name": "grafana/grafana",
+        "Target PR": "https://github.com/grafana/grafana/pull/45083",
+        "Closest PR": "https://github.com/grafana/grafana/pull/63098",
+        "Title": "Docs: Add 'tenant_id' for Loki clients (Auditing & Analytics)",
+        "Created At": "2023-02-08T13:43:07Z",
+        "Target Commit SHA": "605d056136b3dce5545bdbd7868acd8778eed9b1",
+        "target_inducing_commit_hash_pyszz": [
+            "4e37a53a1c0e39f6aacb1336bac3dfa7a84fc90c"
+        ],
+        "Closest Commit SHA": "f9abd8608e818d73ae8c7a0c1edf6fceb8297f9f",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "6589a4e55f9ed120ec8d36f461cc7ea07a561074",
+            "89d4db8eb6d02cd585cf53cbfeda01dd5a6f1e9a",
+            "3131388084a96f3fe84b8bf0451cb6c69b0abb05",
+            "00c389933ba8d145d3a16cc6a2c60375fc0418e9",
+            "57fcfd578dd43fae2b2df335fec7536fef7dd1e3",
+            "967e9b39e8a74fb33ac6a7a5835c80c109fb8a7e",
+            "53c74fa2f56a4b1b029be8a71a3ec882d88b86e9",
+            "782b5b6a3ab5b1965f1cf1a17d03867cfc376cbd",
+            "22e098b83019bb048212a704a406e84316f499c0",
+            "8377d3630c4c85e3dac0aaec94ab7fb9ebd752ae",
+            "4e37a53a1c0e39f6aacb1336bac3dfa7a84fc90c",
+            "22788d1d861094170b993d3f1a659d2a79876826",
+            "3fdd2648b1d28ace24a8fae5125e9fdf937b1814"
+        ],
+        "target_matched": [
+            "4e37a53a1c0e39f6aacb1336bac3dfa7a84fc90c"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
