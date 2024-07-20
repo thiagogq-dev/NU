@@ -1,0 +1,35 @@
+[
+    {
+        "repo_name": "apache/incubator-superset",
+        "Target PR": "https://github.com/apache/incubator-superset/pull/4243",
+        "Closest PR": "https://github.com/apache/superset/pull/6721",
+        "Title": "Introduce configs for some timezone handling aspects: epoch_s and relative end time",
+        "Created At": "2019-01-18T05:36:31Z",
+        "Target Commit SHA": "2c72a7ae4fc0a8bac1f037a79efa90e1c5549710",
+        "target_inducing_commit_hash_pyszz": [
+            "2ab6a411f4b9fa75bc86b83f4aa4e3707e90e002"
+        ],
+        "Closest Commit SHA": "cecbba3fe63cfb6ea294cec90f57e5282b6dfb6c",
+        "closest_inducing_commit_hash_pyszz": [
+            "8c0551ed4608f086c489a6ab1c7a8afe2efd6ef0"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "2969cc9993325acc730b794f9d0d0b07fe1a60ec",
+            "ac577806071c415eda071aad466322e37eb5b81b",
+            "73cd2ea3b17574f8fef1112aa5e5b39f843882f6",
+            "11a8e3591d281a8cde6fb0ab57ed54ec97035e23"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "4fa416347d4a74cfc77cb10af04532082d8db32a",
+            "8c0551ed4608f086c489a6ab1c7a8afe2efd6ef0",
+            "a47a512808bb4032351942a2f9ebff25a083149f",
+            "ad9103f5ba8028ca3326aaac533f2952fbf598e6",
+            "2969cc9993325acc730b794f9d0d0b07fe1a60ec",
+            "83e1e2c0fe738e6134b2c30879bcd35698bb9112"
+        ],
+        "closest_matched": [
+            "8c0551ed4608f086c489a6ab1c7a8afe2efd6ef0"
+        ]
+    }
+]
