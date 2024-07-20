@@ -1,0 +1,73 @@
+[
+    {
+        "repo_name": "argoproj/argo-events",
+        "Target PR": "https://github.com/argoproj/argo-events/pull/1966",
+        "Closest PR": "https://github.com/argoproj/argo-events/pull/2613",
+        "Title": "chore(deps): bump github.com/cloudflare/circl from 1.1.0 to 1.3.3",
+        "Created At": "2023-05-11T20:46:22Z",
+        "Target Commit SHA": "143f8beb81e87af523dd15a6de850c5e6a0e8f59",
+        "target_inducing_commit_hash_pyszz": [
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "b44128a26397f812ef43b60396d19c03d2f758de"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "160657f18961af7006567947f82b2b06c0808921",
+            "2363cc1f448ebc689b6cde967ca90b6a5461cef7",
+            "9d4a5c52dcd332a4fa462f739fc28d7e134ad6b7",
+            "92968e2d987800eb053d7bd0249f02bfee948a90",
+            "feed8019901222470e02c693ee7216f59ecb9a50",
+            "93cd06d67d3a80c009d28ca426dfa74936edba4b",
+            "21cb5b5d0780549bd2837f408683c6fa6335f2da",
+            "88dc8b117f49504085c3b9d14dda5a1e2d46411d",
+            "38d6adc939e6ddbbae99eafc3f65da83040185c3",
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc",
+            "6939b1b46b7e3e997091a48124c99791f1011458",
+            "58cc0930603dfd4a685eb904e17610bbc2ca8637",
+            "f02d2cd7bdac456bb8ba6b3de4a97831c403c7af",
+            "4ba0855140e3d5397736132767aac2255b0f1da9",
+            "d6e6aed65b1f538f3148ec01ec95820924d26e29",
+            "1cf98ab45ad1ae189da7a89fd453252f0e8e890b",
+            "6b7b466bbff7e22227e33dd955ad4e5cd3755f02",
+            "145fd9a940833c6e5b398994305d85847215d957",
+            "f493709fe2427ee0bd35159d2137bbc004ceacfb",
+            "22de2c470487dcd3f6e2255727e522b305df2d4c",
+            "b839fd052e19aa80d538190a532ebb206ed527ad",
+            "feeaf5d0420f6949ccaf1904a8dcd58c65a176ac",
+            "0019098f333aa964c4380b6dd5a69afb12a1dcdf",
+            "c16a1c597ff03b58d460307f50baede16fd059d4",
+            "6a9358204a065cf902b289d2f7cccad11c3c362c",
+            "b5e5d8e8b3186660e3f456ed3c36919a10d96acf",
+            "099ed605dd80db9f3b607c7987d945b428068095",
+            "849a9ffb74cc402d20dedf0b57380bda4f09bb71",
+            "437cb88b1b840cd7402c048c6b5ac0e927caf3e8",
+            "28a5c2be7638580cde71598e8a9f58edf3283857",
+            "12ae7b2e80f84faa0bafa476512473c59bbcb5be",
+            "fdc8eef12c488cc9854313289cc004bcbdd85f47",
+            "f91e05905ae55094912ff1153b80fd3736db7727",
+            "28e23ce27180b0e457034548da635e198ab0ca83",
+            "3cf92547cce01a26dc58e5634837936fcea901e2",
+            "af1f8557caaed0f081bac3a9172c51c793f65ffb",
+            "fcf4944fc0b4f899eb4c20bb15fb3b68c763c102",
+            "2f027680621e8d7696a917764fd12519c757025e",
+            "89897386b74f62c61baf0d5dc320dab6ead67428",
+            "d3673d8ef952e3442377c193f1f3508d114b7fb5",
+            "8f96b097242b8380de84c9ee670923746e962f61"
+        ],
+        "target_matched": [
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "d3732ff3d6df414e06b1d9edee24c3cde128e994",
+            "2f027680621e8d7696a917764fd12519c757025e",
+            "81d2cd1b4290060d392f9ee9d99b789069678bc8",
+            "b44128a26397f812ef43b60396d19c03d2f758de",
+            "cb3f20d654e536ed1a14e00e7ca564fbc57643c5"
+        ],
+        "closest_matched": [
+            "b44128a26397f812ef43b60396d19c03d2f758de"
+        ]
+    }
+]
