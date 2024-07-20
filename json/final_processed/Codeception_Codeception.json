@@ -8,6 +8,10 @@
         "Target Commit SHA": "cbce9ea7f4664052fa1ac6b36f5b5a6dbd864d71",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "494ebe0c137a3d4d3028d57378af8b9c11c40fd1",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
