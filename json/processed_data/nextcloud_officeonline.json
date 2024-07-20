@@ -1,1 +1,13 @@
-[{"repo_name": "nextcloud/officeonline", "Target PR": "https://github.com/nextcloud/officeonline/pull/204", "Closest PR": "https://github.com/nextcloud/officeonline/pull/354", "Title": "Bump typescript from 4.3.5 to 4.8.3", "Created At": "2022-09-09T03:11:36Z", "Target Commit SHA": "8715bfc114859ddd14d474ad36f04b619fb80063", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": null, "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "nextcloud/officeonline",
+        "Target PR": "https://github.com/nextcloud/officeonline/pull/204",
+        "Closest PR": "https://github.com/nextcloud/officeonline/pull/354",
+        "Title": "Bump typescript from 4.3.5 to 4.8.3",
+        "Created At": "2022-09-09T03:11:36Z",
+        "Target Commit SHA": "8715bfc114859ddd14d474ad36f04b619fb80063",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

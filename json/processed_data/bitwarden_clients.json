@@ -1,1 +1,15 @@
-[{"repo_name": "bitwarden/clients", "Target PR": "https://github.com/bitwarden/clients/pull/5813", "Closest PR": "https://github.com/bitwarden/clients/pull/9691", "Title": "[PM-8860] add client side form validation to recover 2fa component", "Created At": "2024-06-17T14:00:46Z", "Target Commit SHA": "61d5b2df9c43c048c772c4d72c1c64a047a9b432", "target_inducing_commit_hash_pyszz": ["df59f99ec649c1f4a75456e1e5a3c0f98de0e9c1"], "fix_commit_hash": "0c6e296dc37c1ee1e9fd0240031619117747087b", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "bitwarden/clients",
+        "Target PR": "https://github.com/bitwarden/clients/pull/5813",
+        "Closest PR": "https://github.com/bitwarden/clients/pull/9691",
+        "Title": "[PM-8860] add client side form validation to recover 2fa component",
+        "Created At": "2024-06-17T14:00:46Z",
+        "Target Commit SHA": "61d5b2df9c43c048c772c4d72c1c64a047a9b432",
+        "target_inducing_commit_hash_pyszz": [
+            "df59f99ec649c1f4a75456e1e5a3c0f98de0e9c1"
+        ],
+        "Closest Commit SHA": "0c6e296dc37c1ee1e9fd0240031619117747087b",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

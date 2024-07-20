@@ -1,1 +1,13 @@
-[{"repo_name": "comelz/quark", "Target PR": "https://github.com/comelz/quark/pull/18", "Closest PR": "https://github.com/comelz/quark/pull/36", "Title": "bin/quark: prepend our path to the system paths instead of appending it", "Created At": "2019-12-03T15:12:44Z", "Target Commit SHA": "3311efee0074f8bf677aa76a5502086d462b3451", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "7b5b03edff90e7929b0b18675c4b1249ffbcd048", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "comelz/quark",
+        "Target PR": "https://github.com/comelz/quark/pull/18",
+        "Closest PR": "https://github.com/comelz/quark/pull/36",
+        "Title": "bin/quark: prepend our path to the system paths instead of appending it",
+        "Created At": "2019-12-03T15:12:44Z",
+        "Target Commit SHA": "3311efee0074f8bf677aa76a5502086d462b3451",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "7b5b03edff90e7929b0b18675c4b1249ffbcd048",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

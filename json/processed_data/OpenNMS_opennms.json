@@ -1,1 +1,39 @@
-[{"repo_name": "OpenNMS/opennms", "Target PR": "https://github.com/OpenNMS/opennms/pull/6250", "Closest PR": "https://github.com/OpenNMS/opennms/pull/7313", "Title": "build(deps-dev): bump sass from 1.77.4 to 1.77.5 in /core/web-assets", "Created At": "2024-06-12T13:40:57Z", "Target Commit SHA": "f2caf7d0b9db58b59e98506490aaca37fbf243b6", "target_inducing_commit_hash_pyszz": [], "fix_commit_hash": null, "inducing_commit_hash_pyszz": "-"}, {"repo_name": "OpenNMS/opennms", "Target PR": "https://github.com/OpenNMS/opennms/pull/5740", "Closest PR": "https://github.com/OpenNMS/opennms/pull/7035", "Title": "Ranger/fix web assets dependencies", "Created At": "2024-01-23T23:20:21Z", "Target Commit SHA": "a47e193f820c222b309763b508009e54b2f0e7f5", "target_inducing_commit_hash_pyszz": ["c8534bae0253194b9622196e7736f92f45832584"], "fix_commit_hash": "5a8fe3f0f9a5d84e622fc689332ac9929cfd6082", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "OpenNMS/opennms", "Target PR": "https://github.com/OpenNMS/opennms/pull/6288", "Closest PR": "https://github.com/OpenNMS/opennms/pull/7322", "Title": "build(deps): bump braces from 3.0.2 to 3.0.3 in /ui", "Created At": "2024-06-17T16:18:40Z", "Target Commit SHA": "da4c70beb001e0cdcc7b99d90dfe4ba39b23536f", "target_inducing_commit_hash_pyszz": ["f2caf7d0b9db58b59e98506490aaca37fbf243b6"], "fix_commit_hash": "48eb29e7d784e422f236656471e13eabdba305d2", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/6250",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7313",
+        "Title": "build(deps-dev): bump sass from 1.77.4 to 1.77.5 in /core/web-assets",
+        "Created At": "2024-06-12T13:40:57Z",
+        "Target Commit SHA": "f2caf7d0b9db58b59e98506490aaca37fbf243b6",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/5740",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7035",
+        "Title": "Ranger/fix web assets dependencies",
+        "Created At": "2024-01-23T23:20:21Z",
+        "Target Commit SHA": "a47e193f820c222b309763b508009e54b2f0e7f5",
+        "target_inducing_commit_hash_pyszz": [
+            "c8534bae0253194b9622196e7736f92f45832584"
+        ],
+        "Closest Commit SHA": "5a8fe3f0f9a5d84e622fc689332ac9929cfd6082",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "OpenNMS/opennms",
+        "Target PR": "https://github.com/OpenNMS/opennms/pull/6288",
+        "Closest PR": "https://github.com/OpenNMS/opennms/pull/7322",
+        "Title": "build(deps): bump braces from 3.0.2 to 3.0.3 in /ui",
+        "Created At": "2024-06-17T16:18:40Z",
+        "Target Commit SHA": "da4c70beb001e0cdcc7b99d90dfe4ba39b23536f",
+        "target_inducing_commit_hash_pyszz": [
+            "f2caf7d0b9db58b59e98506490aaca37fbf243b6"
+        ],
+        "Closest Commit SHA": "48eb29e7d784e422f236656471e13eabdba305d2",
+        "closest_inducing_commit_hash_pyszz": []
+    }
+]

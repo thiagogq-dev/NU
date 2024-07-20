@@ -1,1 +1,13 @@
-[{"repo_name": "nextcloud/notes", "Target PR": "https://github.com/nextcloud/notes/pull/1031", "Closest PR": "https://github.com/nextcloud/notes/pull/1279", "Title": "Chore(deps): Bump @nextcloud/router from 2.2.1 to 3.0.1", "Created At": "2024-04-23T10:36:24Z", "Target Commit SHA": "eb5c3ac65b744fcb2354368d0806baa674e747e4", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": null, "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "nextcloud/notes",
+        "Target PR": "https://github.com/nextcloud/notes/pull/1031",
+        "Closest PR": "https://github.com/nextcloud/notes/pull/1279",
+        "Title": "Chore(deps): Bump @nextcloud/router from 2.2.1 to 3.0.1",
+        "Created At": "2024-04-23T10:36:24Z",
+        "Target Commit SHA": "eb5c3ac65b744fcb2354368d0806baa674e747e4",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

@@ -1,1 +1,26 @@
-[{"repo_name": "fluent/fluent-bit", "Target PR": "https://github.com/fluent/fluent-bit/pull/3045", "Closest PR": "https://github.com/fluent/fluent-bit/pull/4772", "Title": "packaging: resolve CentOS 8 mirror issues", "Created At": "2022-02-09T11:24:05Z", "Target Commit SHA": "1f0918b2e195742f65c9592d9058884fd2dea203", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "b82b337cb46e2c187363451044113f80cfe900aa", "inducing_commit_hash_pyszz": []}, {"repo_name": "fluent/fluent-bit", "Target PR": "https://github.com/fluent/fluent-bit/pull/3453", "Closest PR": "https://github.com/fluent/fluent-bit/pull/5422", "Title": "workflows: bump docker/build-push-action from 2 to 3", "Created At": "2022-05-06T06:27:06Z", "Target Commit SHA": "22346a74c07ceb90296be872be2d53eb92252a54", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "e450e230118c05d84128b6de3ea7ef180d38d85b", "inducing_commit_hash_pyszz": ["4651e9dcb2ffec5e5e01532bbd1c28d757e00bbd"]}]
+[
+    {
+        "repo_name": "fluent/fluent-bit",
+        "Target PR": "https://github.com/fluent/fluent-bit/pull/3045",
+        "Closest PR": "https://github.com/fluent/fluent-bit/pull/4772",
+        "Title": "packaging: resolve CentOS 8 mirror issues",
+        "Created At": "2022-02-09T11:24:05Z",
+        "Target Commit SHA": "1f0918b2e195742f65c9592d9058884fd2dea203",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "b82b337cb46e2c187363451044113f80cfe900aa",
+        "closest_inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "fluent/fluent-bit",
+        "Target PR": "https://github.com/fluent/fluent-bit/pull/3453",
+        "Closest PR": "https://github.com/fluent/fluent-bit/pull/5422",
+        "Title": "workflows: bump docker/build-push-action from 2 to 3",
+        "Created At": "2022-05-06T06:27:06Z",
+        "Target Commit SHA": "22346a74c07ceb90296be872be2d53eb92252a54",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "e450e230118c05d84128b6de3ea7ef180d38d85b",
+        "closest_inducing_commit_hash_pyszz": [
+            "4651e9dcb2ffec5e5e01532bbd1c28d757e00bbd"
+        ]
+    }
+]

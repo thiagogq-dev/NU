@@ -1,1 +1,35 @@
-[{"repo_name": "dotCMS/core", "Target PR": "https://github.com/dotCMS/core/pull/8460/", "Closest PR": "https://github.com/dotCMS/core/pull/10362", "Title": "Issue 10242 update portlets", "Created At": "2016-12-16T15:48:57Z", "Target Commit SHA": "06bce92760e1f55a539e2496858678e043714d3b", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "5d965d6aff033892a472b599049e9b6a3423d2df", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "dotCMS/core", "Target PR": "https://github.com/dotCMS/core/pull/8460/", "Closest PR": "https://github.com/dotCMS/core/pull/10362", "Title": "Issue 10242 update portlets", "Created At": "2016-12-16T15:48:57Z", "Target Commit SHA": "06bce92760e1f55a539e2496858678e043714d3b", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "5d965d6aff033892a472b599049e9b6a3423d2df", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "dotCMS/core", "Target PR": "https://github.com/dotCMS/core/pull/8468/", "Closest PR": "https://github.com/dotCMS/core/pull/10362", "Title": "Issue 10242 update portlets", "Created At": "2016-12-16T15:48:57Z", "Target Commit SHA": "f4603408a7972ce219c84e62e5bbb4911a879a85", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "5d965d6aff033892a472b599049e9b6a3423d2df", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "dotCMS/core",
+        "Target PR": "https://github.com/dotCMS/core/pull/8460/",
+        "Closest PR": "https://github.com/dotCMS/core/pull/10362",
+        "Title": "Issue 10242 update portlets",
+        "Created At": "2016-12-16T15:48:57Z",
+        "Target Commit SHA": "06bce92760e1f55a539e2496858678e043714d3b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5d965d6aff033892a472b599049e9b6a3423d2df",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "dotCMS/core",
+        "Target PR": "https://github.com/dotCMS/core/pull/8460/",
+        "Closest PR": "https://github.com/dotCMS/core/pull/10362",
+        "Title": "Issue 10242 update portlets",
+        "Created At": "2016-12-16T15:48:57Z",
+        "Target Commit SHA": "06bce92760e1f55a539e2496858678e043714d3b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5d965d6aff033892a472b599049e9b6a3423d2df",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "dotCMS/core",
+        "Target PR": "https://github.com/dotCMS/core/pull/8468/",
+        "Closest PR": "https://github.com/dotCMS/core/pull/10362",
+        "Title": "Issue 10242 update portlets",
+        "Created At": "2016-12-16T15:48:57Z",
+        "Target Commit SHA": "f4603408a7972ce219c84e62e5bbb4911a879a85",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5d965d6aff033892a472b599049e9b6a3423d2df",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

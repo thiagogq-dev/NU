@@ -1,1 +1,15 @@
-[{"repo_name": "pyca/pyopenssl", "Target PR": "https://github.com/pyca/pyopenssl/pull/723", "Closest PR": "https://github.com/pyca/pyopenssl/pull/802", "Title": "Fixes incorrect rtype in documentation", "Created At": "2018-10-19T07:02:20Z", "Target Commit SHA": "e73818600065821d588af475b024f4eb518c3509", "target_inducing_commit_hash_pyszz": ["57051a53e154c2b401ab84d6f01c6512e6c7b346"], "fix_commit_hash": "4121e2555d07bbba501ac237408a0eea1b41f467", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "pyca/pyopenssl",
+        "Target PR": "https://github.com/pyca/pyopenssl/pull/723",
+        "Closest PR": "https://github.com/pyca/pyopenssl/pull/802",
+        "Title": "Fixes incorrect rtype in documentation",
+        "Created At": "2018-10-19T07:02:20Z",
+        "Target Commit SHA": "e73818600065821d588af475b024f4eb518c3509",
+        "target_inducing_commit_hash_pyszz": [
+            "57051a53e154c2b401ab84d6f01c6512e6c7b346"
+        ],
+        "Closest Commit SHA": "4121e2555d07bbba501ac237408a0eea1b41f467",
+        "closest_inducing_commit_hash_pyszz": []
+    }
+]

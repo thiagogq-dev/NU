@@ -1,1 +1,17 @@
-[{"repo_name": "eclipse-ee4j/parsson", "Target PR": "https://github.com/eclipse-ee4j/parsson/pull/100", "Closest PR": "https://github.com/eclipse-ee4j/parsson/pull/124", "Title": "Fixes", "Created At": "2024-02-26T13:34:01Z", "Target Commit SHA": "9dd5ad5f871f7b93654073a3f8ce3e1d9b8d9b31", "target_inducing_commit_hash_pyszz": ["d0ec79badd44a940c82842954430762a2199f4e1"], "fix_commit_hash": "c96ef80bb3366caf2abdeb925265afc8646cd19a", "inducing_commit_hash_pyszz": ["dfbe33a5b29271b929a8c6ba495de680be2e69ff"]}]
+[
+    {
+        "repo_name": "eclipse-ee4j/parsson",
+        "Target PR": "https://github.com/eclipse-ee4j/parsson/pull/100",
+        "Closest PR": "https://github.com/eclipse-ee4j/parsson/pull/124",
+        "Title": "Fixes",
+        "Created At": "2024-02-26T13:34:01Z",
+        "Target Commit SHA": "9dd5ad5f871f7b93654073a3f8ce3e1d9b8d9b31",
+        "target_inducing_commit_hash_pyszz": [
+            "d0ec79badd44a940c82842954430762a2199f4e1"
+        ],
+        "Closest Commit SHA": "c96ef80bb3366caf2abdeb925265afc8646cd19a",
+        "closest_inducing_commit_hash_pyszz": [
+            "dfbe33a5b29271b929a8c6ba495de680be2e69ff"
+        ]
+    }
+]

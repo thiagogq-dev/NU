@@ -1,1 +1,15 @@
-[{"repo_name": "autovance/ftp-srv", "Target PR": "https://github.com/autovance/ftp-srv/pull/224", "Closest PR": "https://github.com/QuorumDMS/ftp-srv/pull/274", "Title": "chore(deps): bump path-parse from 1.0.6 to 1.0.7", "Created At": "2021-11-04T20:48:58Z", "Target Commit SHA": "457b859450a37cba10ff3c431eb4aa67771122e3", "target_inducing_commit_hash_pyszz": ["c0e132b70e3b92c4008622db93ccb0babaff56d0"], "fix_commit_hash": "e1f1aa09cd98c41f36e8657d0346bc2e7646ecae", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "autovance/ftp-srv",
+        "Target PR": "https://github.com/autovance/ftp-srv/pull/224",
+        "Closest PR": "https://github.com/QuorumDMS/ftp-srv/pull/274",
+        "Title": "chore(deps): bump path-parse from 1.0.6 to 1.0.7",
+        "Created At": "2021-11-04T20:48:58Z",
+        "Target Commit SHA": "457b859450a37cba10ff3c431eb4aa67771122e3",
+        "target_inducing_commit_hash_pyszz": [
+            "c0e132b70e3b92c4008622db93ccb0babaff56d0"
+        ],
+        "Closest Commit SHA": "e1f1aa09cd98c41f36e8657d0346bc2e7646ecae",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

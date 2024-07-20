@@ -1,1 +1,13 @@
-[{"repo_name": "DanBloomberg/leptonica", "Target PR": "https://github.com/DanBloomberg/leptonica/pull/499", "Closest PR": "https://github.com/DanBloomberg/leptonica/pull/573", "Title": "Fix OSS-Fuzz issue 28181 (Use-of-uninitialized-value)", "Created At": "2021-04-11T06:46:19Z", "Target Commit SHA": "076971f4de3f71cb6c255328833d7df2ac8acf04", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "21435f654d147aaf9ce4fc407650467f44eed87d", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "DanBloomberg/leptonica",
+        "Target PR": "https://github.com/DanBloomberg/leptonica/pull/499",
+        "Closest PR": "https://github.com/DanBloomberg/leptonica/pull/573",
+        "Title": "Fix OSS-Fuzz issue 28181 (Use-of-uninitialized-value)",
+        "Created At": "2021-04-11T06:46:19Z",
+        "Target Commit SHA": "076971f4de3f71cb6c255328833d7df2ac8acf04",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "21435f654d147aaf9ce4fc407650467f44eed87d",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

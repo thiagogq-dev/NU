@@ -1,1 +1,15 @@
-[{"repo_name": "rapid7/metasploit-framework", "Target PR": "https://github.com/rapid7/metasploit-framework/pull/12433", "Closest PR": "https://github.com/rapid7/metasploit-framework/pull/14238", "Title": "Update sap_service_discovery.rb to support discovering SAP IGS servers", "Created At": "2020-10-08T11:06:33Z", "Target Commit SHA": "d87f752591c710cd30527d851788f7d196c3904c", "target_inducing_commit_hash_pyszz": ["d65775e5bf5cb5df93d753d3e2ea684235cc90a0"], "fix_commit_hash": "87b1facc5b4531a6b9617458909a601857ebda45", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "Target PR": "https://github.com/rapid7/metasploit-framework/pull/12433",
+        "Closest PR": "https://github.com/rapid7/metasploit-framework/pull/14238",
+        "Title": "Update sap_service_discovery.rb to support discovering SAP IGS servers",
+        "Created At": "2020-10-08T11:06:33Z",
+        "Target Commit SHA": "d87f752591c710cd30527d851788f7d196c3904c",
+        "target_inducing_commit_hash_pyszz": [
+            "d65775e5bf5cb5df93d753d3e2ea684235cc90a0"
+        ],
+        "Closest Commit SHA": "87b1facc5b4531a6b9617458909a601857ebda45",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

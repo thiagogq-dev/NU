@@ -1,1 +1,17 @@
-[{"repo_name": "vercel/ms", "Target PR": "https://github.com/vercel/ms/pull/89", "Closest PR": "https://github.com/vercel/ms/pull/104", "Title": "Add full support for negative numbers", "Created At": "2017-11-30T18:03:38Z", "Target Commit SHA": "caae2988ba2a37765d055c4eee63d383320ee662", "target_inducing_commit_hash_pyszz": ["8e333857f4c0723bc73c3035bff9cea23532c824"], "fix_commit_hash": "7437f923023931ba23f345bba9afd7e1d3e84894", "inducing_commit_hash_pyszz": ["f0bc0a2bfa34b2f4a424afaa330fd828cbf1b5b8"]}]
+[
+    {
+        "repo_name": "vercel/ms",
+        "Target PR": "https://github.com/vercel/ms/pull/89",
+        "Closest PR": "https://github.com/vercel/ms/pull/104",
+        "Title": "Add full support for negative numbers",
+        "Created At": "2017-11-30T18:03:38Z",
+        "Target Commit SHA": "caae2988ba2a37765d055c4eee63d383320ee662",
+        "target_inducing_commit_hash_pyszz": [
+            "8e333857f4c0723bc73c3035bff9cea23532c824"
+        ],
+        "Closest Commit SHA": "7437f923023931ba23f345bba9afd7e1d3e84894",
+        "closest_inducing_commit_hash_pyszz": [
+            "f0bc0a2bfa34b2f4a424afaa330fd828cbf1b5b8"
+        ]
+    }
+]

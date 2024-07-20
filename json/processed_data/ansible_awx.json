@@ -1,1 +1,13 @@
-[{"repo_name": "ansible/awx", "Target PR": "https://github.com/ansible/awx/pull/3505", "Closest PR": "https://github.com/ansible/awx/pull/6422", "Title": "Initial cut at tower_job_wait conversion", "Created At": "2020-03-25T18:08:02Z", "Target Commit SHA": "2129f1208597d5c84478df48e0770e7b81b658ec", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "4a8f1d41fa05f25e310f3166449e1a93de4fddb1", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "ansible/awx",
+        "Target PR": "https://github.com/ansible/awx/pull/3505",
+        "Closest PR": "https://github.com/ansible/awx/pull/6422",
+        "Title": "Initial cut at tower_job_wait conversion",
+        "Created At": "2020-03-25T18:08:02Z",
+        "Target Commit SHA": "2129f1208597d5c84478df48e0770e7b81b658ec",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "4a8f1d41fa05f25e310f3166449e1a93de4fddb1",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

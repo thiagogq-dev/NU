@@ -1,1 +1,15 @@
-[{"repo_name": "caolan/async", "Target PR": "https://github.com/caolan/async/pull/1828", "Closest PR": "https://github.com/caolan/async/pull/1900", "Title": "chore: updated babel/core to @babel/core", "Created At": "2023-03-02T18:00:01Z", "Target Commit SHA": "8f7f90342a6571ba1c197d747ebed30c368096d2", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "812184055566b7803b89d8ef8dc6a93ea3b95eda", "inducing_commit_hash_pyszz": ["086485292d80225ba3a22976b92831612e3e2373"]}]
+[
+    {
+        "repo_name": "caolan/async",
+        "Target PR": "https://github.com/caolan/async/pull/1828",
+        "Closest PR": "https://github.com/caolan/async/pull/1900",
+        "Title": "chore: updated babel/core to @babel/core",
+        "Created At": "2023-03-02T18:00:01Z",
+        "Target Commit SHA": "8f7f90342a6571ba1c197d747ebed30c368096d2",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "812184055566b7803b89d8ef8dc6a93ea3b95eda",
+        "closest_inducing_commit_hash_pyszz": [
+            "086485292d80225ba3a22976b92831612e3e2373"
+        ]
+    }
+]

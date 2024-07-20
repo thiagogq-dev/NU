@@ -1,1 +1,17 @@
-[{"repo_name": "fastify/csrf", "Target PR": "https://github.com/fastify/csrf/pull/2", "Closest PR": "https://github.com/fastify/csrf/pull/34", "Title": "build(deps-dev): bump mocha from 9.2.2 to 10.0.0", "Created At": "2022-05-02T00:15:29Z", "Target Commit SHA": "5882472cbe2e50aa9ede11d1875919a15ab60800", "target_inducing_commit_hash_pyszz": ["b2f3de60dd0f4e5b71a837ca52c86979bc983183"], "fix_commit_hash": "5c1785b652c85023bfc91323f7f2c95e1665b8b9", "inducing_commit_hash_pyszz": ["585c140bd2406d34716e1899192c323afb4bfc26"]}]
+[
+    {
+        "repo_name": "fastify/csrf",
+        "Target PR": "https://github.com/fastify/csrf/pull/2",
+        "Closest PR": "https://github.com/fastify/csrf/pull/34",
+        "Title": "build(deps-dev): bump mocha from 9.2.2 to 10.0.0",
+        "Created At": "2022-05-02T00:15:29Z",
+        "Target Commit SHA": "5882472cbe2e50aa9ede11d1875919a15ab60800",
+        "target_inducing_commit_hash_pyszz": [
+            "b2f3de60dd0f4e5b71a837ca52c86979bc983183"
+        ],
+        "Closest Commit SHA": "5c1785b652c85023bfc91323f7f2c95e1665b8b9",
+        "closest_inducing_commit_hash_pyszz": [
+            "585c140bd2406d34716e1899192c323afb4bfc26"
+        ]
+    }
+]

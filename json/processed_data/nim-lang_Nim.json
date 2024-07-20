@@ -1,1 +1,17 @@
-[{"repo_name": "nim-lang/Nim", "Target PR": "https://github.com/nim-lang/Nim/pull/16940", "Closest PR": "https://github.com/nim-lang/Nim/pull/19487", "Title": "Fix typo trailing space", "Created At": "2022-02-03T22:55:20Z", "Target Commit SHA": "abac35e7437dd1ac2b3687dfa51de7f9d4b6e853", "target_inducing_commit_hash_pyszz": ["297c8e403d110dd872e070563328f4e0c734cd01"], "fix_commit_hash": "516db3bac389ea554166ee1a6671b5005159a30a", "inducing_commit_hash_pyszz": ["342e50e26c7023a8ac6829b02d27c3810cb45d05"]}]
+[
+    {
+        "repo_name": "nim-lang/Nim",
+        "Target PR": "https://github.com/nim-lang/Nim/pull/16940",
+        "Closest PR": "https://github.com/nim-lang/Nim/pull/19487",
+        "Title": "Fix typo trailing space",
+        "Created At": "2022-02-03T22:55:20Z",
+        "Target Commit SHA": "abac35e7437dd1ac2b3687dfa51de7f9d4b6e853",
+        "target_inducing_commit_hash_pyszz": [
+            "297c8e403d110dd872e070563328f4e0c734cd01"
+        ],
+        "Closest Commit SHA": "516db3bac389ea554166ee1a6671b5005159a30a",
+        "closest_inducing_commit_hash_pyszz": [
+            "342e50e26c7023a8ac6829b02d27c3810cb45d05"
+        ]
+    }
+]

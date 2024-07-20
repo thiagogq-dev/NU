@@ -1,1 +1,15 @@
-[{"repo_name": "OpenIdentityPlatform/OpenAM", "Target PR": "https://github.com/OpenIdentityPlatform/OpenAM/pull/514", "Closest PR": "https://github.com/OpenIdentityPlatform/OpenAM/pull/606", "Title": "Bump json from 20090211 to 20230227", "Created At": "2023-04-14T17:09:15Z", "Target Commit SHA": "c0c28b23668a45a38598016a73a59f6393c8eb74", "target_inducing_commit_hash_pyszz": [], "fix_commit_hash": "130b7ec562d5556a565c9e027b3884c5937b33fb", "inducing_commit_hash_pyszz": ["25d5d71e3826962e68ffd31a413f6c531ef3f618"]}]
+[
+    {
+        "repo_name": "OpenIdentityPlatform/OpenAM",
+        "Target PR": "https://github.com/OpenIdentityPlatform/OpenAM/pull/514",
+        "Closest PR": "https://github.com/OpenIdentityPlatform/OpenAM/pull/606",
+        "Title": "Bump json from 20090211 to 20230227",
+        "Created At": "2023-04-14T17:09:15Z",
+        "Target Commit SHA": "c0c28b23668a45a38598016a73a59f6393c8eb74",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "130b7ec562d5556a565c9e027b3884c5937b33fb",
+        "closest_inducing_commit_hash_pyszz": [
+            "25d5d71e3826962e68ffd31a413f6c531ef3f618"
+        ]
+    }
+]

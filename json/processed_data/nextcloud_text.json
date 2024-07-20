@@ -1,1 +1,13 @@
-[{"repo_name": "nextcloud/text", "Target PR": "https://github.com/nextcloud/text/pull/4877", "Closest PR": "https://github.com/nextcloud/text/pull/5909", "Title": "fix(deps): update dependency @nextcloud/dialogs to ^5.3.2 (stable29)", "Created At": "2024-06-15T12:15:32Z", "Target Commit SHA": "6972cf1d4f83eaf400b1fb6c405f87c28501a55d", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "42edd8c7e951f7e8d189dc14026ea75597735eda", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "nextcloud/text",
+        "Target PR": "https://github.com/nextcloud/text/pull/4877",
+        "Closest PR": "https://github.com/nextcloud/text/pull/5909",
+        "Title": "fix(deps): update dependency @nextcloud/dialogs to ^5.3.2 (stable29)",
+        "Created At": "2024-06-15T12:15:32Z",
+        "Target Commit SHA": "6972cf1d4f83eaf400b1fb6c405f87c28501a55d",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "42edd8c7e951f7e8d189dc14026ea75597735eda",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

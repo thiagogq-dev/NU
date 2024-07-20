@@ -1,1 +1,24 @@
-[{"repo_name": "MediaArea/MediaInfoLib", "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111", "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239", "Title": "Fix crash with nested nodes in xml and json output", "Created At": "2020-04-09T17:28:58Z", "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "a054a2578b0f7b97a3ea51c4db48940f25e06d64", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "MediaArea/MediaInfoLib", "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111", "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239", "Title": "Fix crash with nested nodes in xml and json output", "Created At": "2020-04-09T17:28:58Z", "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "a054a2578b0f7b97a3ea51c4db48940f25e06d64", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "MediaArea/MediaInfoLib",
+        "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
+        "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239",
+        "Title": "Fix crash with nested nodes in xml and json output",
+        "Created At": "2020-04-09T17:28:58Z",
+        "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "a054a2578b0f7b97a3ea51c4db48940f25e06d64",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "MediaArea/MediaInfoLib",
+        "Target PR": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
+        "Closest PR": "https://github.com/MediaArea/MediaInfoLib/pull/1239",
+        "Title": "Fix crash with nested nodes in xml and json output",
+        "Created At": "2020-04-09T17:28:58Z",
+        "Target Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "a054a2578b0f7b97a3ea51c4db48940f25e06d64",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

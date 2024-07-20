@@ -1,1 +1,17 @@
-[{"repo_name": "dpgaspar/Flask-AppBuilder", "Target PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2045", "Closest PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2238", "Title": "chore: bump cryptography to 42.0.4", "Created At": "2024-05-13T14:34:15Z", "Target Commit SHA": "ae25ad4c87a9051ebe4a4e8f02aee73232642626", "target_inducing_commit_hash_pyszz": ["0d634131d1d76c5ea90d69e24fa40104546def63"], "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["2e2931f2fc470a4f1756a0c39e0cc04b86818d84"]}]
+[
+    {
+        "repo_name": "dpgaspar/Flask-AppBuilder",
+        "Target PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2045",
+        "Closest PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2238",
+        "Title": "chore: bump cryptography to 42.0.4",
+        "Created At": "2024-05-13T14:34:15Z",
+        "Target Commit SHA": "ae25ad4c87a9051ebe4a4e8f02aee73232642626",
+        "target_inducing_commit_hash_pyszz": [
+            "0d634131d1d76c5ea90d69e24fa40104546def63"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "2e2931f2fc470a4f1756a0c39e0cc04b86818d84"
+        ]
+    }
+]

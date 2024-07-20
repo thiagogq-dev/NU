@@ -1,1 +1,26 @@
-[{"repo_name": "nextcloud/desktop", "Target PR": "https://github.com/nextcloud/desktop/pull/5106", "Closest PR": "https://github.com/nextcloud/desktop/pull/6178", "Title": "Fix crash. Remove unnecessary dependency injection causing crash.", "Created At": "2023-10-27T18:39:06Z", "Target Commit SHA": "6fa2e60bba99f9be7c57eefc447252f7199a5a25", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "b643773b107dfc9a544754bf6a7681934fd133f6", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "nextcloud/desktop", "Target PR": "https://github.com/nextcloud/desktop/pull/5233", "Closest PR": "https://github.com/nextcloud/desktop/pull/6253", "Title": "[stable-3.10] Fix. Bulk upload. Accumulate sent bytes. Fix negative value in UI.", "Created At": "2023-12-01T15:37:54Z", "Target Commit SHA": "98e6ab2c646f5766ce08a841f3bb6e7f2516fb1f", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "50fbe1d02142d524800f98cbd1398a7a764a1526", "inducing_commit_hash_pyszz": ["c194605c356a0ffcc31f752e7792b6b6cd014911"]}]
+[
+    {
+        "repo_name": "nextcloud/desktop",
+        "Target PR": "https://github.com/nextcloud/desktop/pull/5106",
+        "Closest PR": "https://github.com/nextcloud/desktop/pull/6178",
+        "Title": "Fix crash. Remove unnecessary dependency injection causing crash.",
+        "Created At": "2023-10-27T18:39:06Z",
+        "Target Commit SHA": "6fa2e60bba99f9be7c57eefc447252f7199a5a25",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "b643773b107dfc9a544754bf6a7681934fd133f6",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "nextcloud/desktop",
+        "Target PR": "https://github.com/nextcloud/desktop/pull/5233",
+        "Closest PR": "https://github.com/nextcloud/desktop/pull/6253",
+        "Title": "[stable-3.10] Fix. Bulk upload. Accumulate sent bytes. Fix negative value in UI.",
+        "Created At": "2023-12-01T15:37:54Z",
+        "Target Commit SHA": "98e6ab2c646f5766ce08a841f3bb6e7f2516fb1f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "50fbe1d02142d524800f98cbd1398a7a764a1526",
+        "closest_inducing_commit_hash_pyszz": [
+            "c194605c356a0ffcc31f752e7792b6b6cd014911"
+        ]
+    }
+]

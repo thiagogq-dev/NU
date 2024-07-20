@@ -1,1 +1,13 @@
-[{"repo_name": "progfay/scrapbox-parser", "Target PR": "https://github.com/progfay/scrapbox-parser/pull/539", "Closest PR": "https://github.com/progfay/scrapbox-parser/pull/971", "Title": "chore(deps): update dependency @babel/core to v7.17.4", "Created At": "2022-02-16T00:38:33Z", "Target Commit SHA": "a1142341b06b1840de4e1760baf7f9b13b207bbb", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "99802c18baafa6c5e20f7f13aae7e8b221073599", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "progfay/scrapbox-parser",
+        "Target PR": "https://github.com/progfay/scrapbox-parser/pull/539",
+        "Closest PR": "https://github.com/progfay/scrapbox-parser/pull/971",
+        "Title": "chore(deps): update dependency @babel/core to v7.17.4",
+        "Created At": "2022-02-16T00:38:33Z",
+        "Target Commit SHA": "a1142341b06b1840de4e1760baf7f9b13b207bbb",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "99802c18baafa6c5e20f7f13aae7e8b221073599",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

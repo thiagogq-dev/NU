@@ -1,1 +1,17 @@
-[{"repo_name": "AcademySoftwareFoundation/openexr", "Target PR": "https://github.com/AcademySoftwareFoundation/openexr/pull/849", "Closest PR": "https://github.com/AcademySoftwareFoundation/openexr/pull/1173", "Title": "Fix misc issues due to OSS-fuzz", "Created At": "2021-10-05T10:09:49Z", "Target Commit SHA": "51a92d67f53c08230734e74564c807043cbfe41e", "target_inducing_commit_hash_pyszz": ["88246d991e0318c043e6f584f7493da08a31f9f8"], "fix_commit_hash": "b39b63a1d2989a90655cd9b02b0fe8af8cd8c017", "inducing_commit_hash_pyszz": ["481bde4b2584ef018cca4a6538062efd0d5d0b88"]}]
+[
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "Target PR": "https://github.com/AcademySoftwareFoundation/openexr/pull/849",
+        "Closest PR": "https://github.com/AcademySoftwareFoundation/openexr/pull/1173",
+        "Title": "Fix misc issues due to OSS-fuzz",
+        "Created At": "2021-10-05T10:09:49Z",
+        "Target Commit SHA": "51a92d67f53c08230734e74564c807043cbfe41e",
+        "target_inducing_commit_hash_pyszz": [
+            "88246d991e0318c043e6f584f7493da08a31f9f8"
+        ],
+        "Closest Commit SHA": "b39b63a1d2989a90655cd9b02b0fe8af8cd8c017",
+        "closest_inducing_commit_hash_pyszz": [
+            "481bde4b2584ef018cca4a6538062efd0d5d0b88"
+        ]
+    }
+]

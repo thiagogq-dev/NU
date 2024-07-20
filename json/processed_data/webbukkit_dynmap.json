@@ -1,1 +1,15 @@
-[{"repo_name": "webbukkit/dynmap", "Target PR": "https://github.com/webbukkit/dynmap/pull/2475", "Closest PR": "https://github.com/webbukkit/dynmap/pull/2874", "Title": "fix Bukkit version detection", "Created At": "2020-04-13T10:46:38Z", "Target Commit SHA": "641f142cd3ccdcbfb04eda3059be22dd9ed93783", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["36dc1adb1535081e1ee61e480e2664187e83b215"]}]
+[
+    {
+        "repo_name": "webbukkit/dynmap",
+        "Target PR": "https://github.com/webbukkit/dynmap/pull/2475",
+        "Closest PR": "https://github.com/webbukkit/dynmap/pull/2874",
+        "Title": "fix Bukkit version detection",
+        "Created At": "2020-04-13T10:46:38Z",
+        "Target Commit SHA": "641f142cd3ccdcbfb04eda3059be22dd9ed93783",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "36dc1adb1535081e1ee61e480e2664187e83b215"
+        ]
+    }
+]

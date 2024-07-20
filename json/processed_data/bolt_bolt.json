@@ -1,1 +1,13 @@
-[{"repo_name": "bolt/bolt", "Target PR": "https://github.com/bolt/bolt/pull/7802", "Closest PR": "https://github.com/bolt/bolt/pull/7871", "Title": "Fixes slashes in directory names", "Created At": "2020-08-03T10:36:04Z", "Target Commit SHA": "45780faa7ee5263a5a5ca4cfe102830ef244b06a", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "5be5f7a93c84b2e0b0368b1eb0d0523130853271", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "bolt/bolt",
+        "Target PR": "https://github.com/bolt/bolt/pull/7802",
+        "Closest PR": "https://github.com/bolt/bolt/pull/7871",
+        "Title": "Fixes slashes in directory names",
+        "Created At": "2020-08-03T10:36:04Z",
+        "Target Commit SHA": "45780faa7ee5263a5a5ca4cfe102830ef244b06a",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5be5f7a93c84b2e0b0368b1eb0d0523130853271",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

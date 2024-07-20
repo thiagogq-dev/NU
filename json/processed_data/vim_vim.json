@@ -1,1 +1,17 @@
-[{"repo_name": "vim/vim", "Target PR": "https://github.com/vim/vim/pull/13552", "Closest PR": "https://github.com/vim/vim/pull/15034", "Title": "Fix typo in several documents", "Created At": "2024-06-17T15:35:37Z", "Target Commit SHA": "26c11c56888d01e298cd8044caf860f3c26f57bb", "target_inducing_commit_hash_pyszz": ["18d2709aa12ffa3f6ae1a13059990558c5f8e406"], "fix_commit_hash": "84ac2126f470569c770cd22a52f8d48c50cd42a1", "inducing_commit_hash_pyszz": ["ae321b51f7531b23545d64c3a98ed991a31dd5ee"]}]
+[
+    {
+        "repo_name": "vim/vim",
+        "Target PR": "https://github.com/vim/vim/pull/13552",
+        "Closest PR": "https://github.com/vim/vim/pull/15034",
+        "Title": "Fix typo in several documents",
+        "Created At": "2024-06-17T15:35:37Z",
+        "Target Commit SHA": "26c11c56888d01e298cd8044caf860f3c26f57bb",
+        "target_inducing_commit_hash_pyszz": [
+            "18d2709aa12ffa3f6ae1a13059990558c5f8e406"
+        ],
+        "Closest Commit SHA": "84ac2126f470569c770cd22a52f8d48c50cd42a1",
+        "closest_inducing_commit_hash_pyszz": [
+            "ae321b51f7531b23545d64c3a98ed991a31dd5ee"
+        ]
+    }
+]
