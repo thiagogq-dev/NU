@@ -12,6 +12,24 @@
         "Closest Commit SHA": "eaba5572cd1f206ae850c6730d50f32c58cc3131",
         "closest_inducing_commit_hash_pyszz": [
             "8648003c1fb01da6e194db8b18dbbd9c52745314"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "1fe67f9f436595003f7951dd88159731e6d82498",
+            "9f0be5a5569495a705b4cca94b48a6a8c7437896",
+            "673c55f2efce52c155872c80b0bff160e4a7b7b7"
+        ],
+        "target_matched": [
+            "673c55f2efce52c155872c80b0bff160e4a7b7b7"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "239d639feedb1a6881ebd1bb43e00d147442b833",
+            "8648003c1fb01da6e194db8b18dbbd9c52745314",
+            "e747487720ce682798cfdbbfecb9b7299f9a6a2b",
+            "94f5e2d9ed964d32271e193445f40557bb5892b6",
+            "11ffc0bfeeb57b8eb450ab20534308748d2b67fc"
+        ],
+        "closest_matched": [
+            "8648003c1fb01da6e194db8b18dbbd9c52745314"
         ]
     },
     {
@@ -24,6 +42,14 @@
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "a5df30e2bf0cc7bfc3e3d7cbadb194ec18d76e18",
         "closest_inducing_commit_hash_pyszz": [
+            "02f4fc1a145f71d2368307739749e35d18a447e4"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "02f4fc1a145f71d2368307739749e35d18a447e4"
+        ],
+        "closest_matched": [
             "02f4fc1a145f71d2368307739749e35d18a447e4"
         ]
     },
@@ -40,6 +66,24 @@
         "Closest Commit SHA": "d8d9c9217dcdcec397af4f217019b36bac351c88",
         "closest_inducing_commit_hash_pyszz": [
             "7afa34ae8a89bbcd0f4b0d0134cca387cb080c86"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "b004a6373a743c950bf8afc9fc4625451a7eeb9e",
+            "8bf1c53b21ee30d426d9cfe1e87461ddc040670a",
+            "e7d8ebf08038c672a6f9397cc9b9a66465af5547",
+            "6373f2b0455ad023aef0f567d9c6469c12ba7f85",
+            "e972287c359654d65294fa89002a1f900a3a870e",
+            "0ee46cb0df007dc2e417666de244afd54d619ed3",
+            "e87cf4a3cc2d74695b226e6ff073da342f72abf2",
+            "36ad934156bd55adb337fc885b68bd661a92f5fa",
+            "f0134079e3aaff3a6c8d31ff55cd3d01c82f2bc8"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "7afa34ae8a89bbcd0f4b0d0134cca387cb080c86"
+        ],
+        "closest_matched": [
+            "7afa34ae8a89bbcd0f4b0d0134cca387cb080c86"
         ]
     },
     {
@@ -55,6 +99,22 @@
         "Closest Commit SHA": "5bddecb048aae0a7fc84e38e086ac90445c4edb4",
         "closest_inducing_commit_hash_pyszz": [
             "8940732b580822b4df5c18d1f21907bbc4f1e0cb"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "d34a26e30729c39c83dba4a46203c5c100a3eaeb",
+            "97a34cf008501088ae012f24e4712e2bc6dd6d4c",
+            "6e5055e7868414ce1aeab48756177350c4dd6ba0",
+            "305c88700de7fc17de80b2f58fb6d44180573e61",
+            "3b0e9ded91b6e2cabd77e13e0469b55d7b8de642"
+        ],
+        "target_matched": [
+            "3b0e9ded91b6e2cabd77e13e0469b55d7b8de642"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "8940732b580822b4df5c18d1f21907bbc4f1e0cb"
+        ],
+        "closest_matched": [
+            "8940732b580822b4df5c18d1f21907bbc4f1e0cb"
         ]
     },
     {
@@ -69,6 +129,18 @@
         ],
         "Closest Commit SHA": "83c34eb7dea0faa5364fed3f57560daf20ae9682",
         "closest_inducing_commit_hash_pyszz": [
+            "6d95624c22d1c275974db1e7c94dcc171dc1457e"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "0089eb81027b325551d5efef900cde841c3c093e"
+        ],
+        "target_matched": [
+            "0089eb81027b325551d5efef900cde841c3c093e"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "6d95624c22d1c275974db1e7c94dcc171dc1457e"
+        ],
+        "closest_matched": [
             "6d95624c22d1c275974db1e7c94dcc171dc1457e"
         ]
     }
