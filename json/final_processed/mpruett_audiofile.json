@@ -8,7 +8,15 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": [],
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": []
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [
+            "2bbebc4aa0c847d59f42e291d99ad015e40c51c7"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "2bbebc4aa0c847d59f42e291d99ad015e40c51c7"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "mpruett/audiofile",
@@ -19,6 +27,14 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": [],
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": []
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [
+            "2bbebc4aa0c847d59f42e291d99ad015e40c51c7"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "2bbebc4aa0c847d59f42e291d99ad015e40c51c7"
+        ],
+        "closest_matched": []
     }
 ]
