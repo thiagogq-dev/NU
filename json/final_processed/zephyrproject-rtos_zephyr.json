@@ -12,6 +12,19 @@
         "Closest Commit SHA": "f6f951cc1709a23fa0a6e4d74337667f90a03af1",
         "closest_inducing_commit_hash_pyszz": [
             "5611e9234729fc291229c3637db7f19f8e6d2fa4"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
+        ],
+        "target_matched": [
+            "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "5611e9234729fc291229c3637db7f19f8e6d2fa4",
+            "8ce260d8df10807bbd08807b022182b43f6860ed"
+        ],
+        "closest_matched": [
+            "5611e9234729fc291229c3637db7f19f8e6d2fa4"
         ]
     },
     {
@@ -25,7 +38,18 @@
             "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
         ],
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
+        ],
+        "target_matched": [
+            "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "909ad8170c7feaae8c03ae3bc4aeafaed37d2cfa",
+            "f3a110bcb9d2f7e9b7a6933ef06b074064798128"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -38,6 +62,15 @@
         "Closest Commit SHA": "e1d22a0b6117d2f21d456c202b2feb711b5f54ff",
         "closest_inducing_commit_hash_pyszz": [
             "c7875b75aa51ee60264201aa1778ceed67a04d69"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "21fbc9b07e8df888b892b2204ab873b17e26bc5b",
+            "c7875b75aa51ee60264201aa1778ceed67a04d69"
+        ],
+        "closest_matched": [
+            "c7875b75aa51ee60264201aa1778ceed67a04d69"
         ]
     },
     {
@@ -49,7 +82,14 @@
         "Target Commit SHA": "23ace0e55681c02a81fb6b891f832aa356c85aab",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "909ad8170c7feaae8c03ae3bc4aeafaed37d2cfa",
+            "f3a110bcb9d2f7e9b7a6933ef06b074064798128"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -61,6 +101,16 @@
         "target_inducing_commit_hash_pyszz": [],
         "Closest Commit SHA": "28c823b16ee2e281f5e805140e584c63530ae58e",
         "closest_inducing_commit_hash_pyszz": [
+            "ea03c9c30488c3c8404b75eb9419f02811eaa34e"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "f81dee0b2b87fc91f5e5555ca194404922383b52"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "ea03c9c30488c3c8404b75eb9419f02811eaa34e"
+        ],
+        "closest_matched": [
             "ea03c9c30488c3c8404b75eb9419f02811eaa34e"
         ]
     },
@@ -75,6 +125,16 @@
         "Closest Commit SHA": "7f727ac322ab99084c3444bc2546e5777e2e5a3c",
         "closest_inducing_commit_hash_pyszz": [
             "41017478b1f1e4da744f7bd8c3b09fed9f10a925"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "41017478b1f1e4da744f7bd8c3b09fed9f10a925",
+            "1475402d416800c4be265e2e8fde1786f7238ee3",
+            "705515c0925851e4c0b81cfda06ac957df575c03"
+        ],
+        "closest_matched": [
+            "41017478b1f1e4da744f7bd8c3b09fed9f10a925"
         ]
     },
     {
@@ -88,7 +148,15 @@
             "6aed72e487b5c3a8ccb5ecadab558567e16fee9c"
         ],
         "Closest Commit SHA": "3a06d3d523d89d07f6fa2131985bced38371ae94",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "6aed72e487b5c3a8ccb5ecadab558567e16fee9c"
+        ],
+        "target_matched": [
+            "6aed72e487b5c3a8ccb5ecadab558567e16fee9c"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -101,7 +169,17 @@
             "2b2eb9bb07c418f6853a8000da749b39a871f34b"
         ],
         "Closest Commit SHA": "ae505e97bd30194a005bbbd72dff0844c10a5db5",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "48c48711e600aa1375d80218136790ca931b6b1c",
+            "2f70a6bcca1e1491ef88bd81091fbfdc08d25d65",
+            "2b2eb9bb07c418f6853a8000da749b39a871f34b"
+        ],
+        "target_matched": [
+            "2b2eb9bb07c418f6853a8000da749b39a871f34b"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -113,6 +191,14 @@
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "15d1ea544b02599aa5c1eed61d80092716411f24",
         "closest_inducing_commit_hash_pyszz": [
+            "5d2a2003817c2d6c9cf5eaac8a69e0feb647c6ee"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "5d2a2003817c2d6c9cf5eaac8a69e0feb647c6ee"
+        ],
+        "closest_matched": [
             "5d2a2003817c2d6c9cf5eaac8a69e0feb647c6ee"
         ]
     },
@@ -129,6 +215,18 @@
         "Closest Commit SHA": "5af20cd2586ef02d41bb4aa53ea9c3f82da87779",
         "closest_inducing_commit_hash_pyszz": [
             "eca8842b67c51edb4eb7374fcc8a077f22e7d91d"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "665d195f3ae0e156b32a86c6e5aedd8b3fd3d64d"
+        ],
+        "target_matched": [
+            "665d195f3ae0e156b32a86c6e5aedd8b3fd3d64d"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "eca8842b67c51edb4eb7374fcc8a077f22e7d91d"
+        ],
+        "closest_matched": [
+            "eca8842b67c51edb4eb7374fcc8a077f22e7d91d"
         ]
     },
     {
@@ -144,6 +242,20 @@
         "Closest Commit SHA": "21c6ca9487e0f77fb55412945a926b5c235b9f6d",
         "closest_inducing_commit_hash_pyszz": [
             "bcdff8220ab93e1ff1b5fe9e3b454178d2c6aeda"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "909ad8170c7feaae8c03ae3bc4aeafaed37d2cfa",
+            "f3a110bcb9d2f7e9b7a6933ef06b074064798128"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "bcdff8220ab93e1ff1b5fe9e3b454178d2c6aeda",
+            "bd8afe9365e19d579417a514dd3bc87ee1667b9f",
+            "22c8d9973bd042d9cf1246d644b456bb16baee0d",
+            "9a06428244a8fb42c789483c57a37c9b633e644f"
+        ],
+        "closest_matched": [
+            "bcdff8220ab93e1ff1b5fe9e3b454178d2c6aeda"
         ]
     },
     {
@@ -157,6 +269,15 @@
             "436e295dd983826d180cf311789d272ed517df80"
         ],
         "Closest Commit SHA": "3a879deeccce1ab0c0fec74be0ad3c10791836a2",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "436e295dd983826d180cf311789d272ed517df80",
+            "aa11cef22778bd21d4db0cac976d68f024fbb835"
+        ],
+        "target_matched": [
+            "436e295dd983826d180cf311789d272ed517df80"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
