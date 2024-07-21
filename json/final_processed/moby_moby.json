@@ -8,7 +8,11 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "6c10086976d07d4746e03dcfd188972a2f07e1c9",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "moby/moby",
@@ -19,6 +23,10 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "6c10086976d07d4746e03dcfd188972a2f07e1c9",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
