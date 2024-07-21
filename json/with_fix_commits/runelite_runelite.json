@@ -2,7 +2,9 @@
     {
         "repo_name": "runelite/runelite",
         "Target PR": "https://github.com/runelite/runelite/pull/11058",
+        "Target Commit SHA": "32e435e42d0027c910d164d8643f8adac76c5d7a",
         "Closest PR": "https://github.com/runelite/runelite/pull/13330",
+        "Closest Commit SHA": null,
         "Title": "hiscore: Fix lookups on despawned players",
         "Created At": "2021-03-12T02:30:21Z"
     }
