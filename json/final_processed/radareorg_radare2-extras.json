@@ -1,0 +1,40 @@
+[
+    {
+        "repo_name": "radareorg/radare2-extras",
+        "Target PR": "https://github.com/radareorg/radare2-extras/pull/255",
+        "Closest PR": "https://github.com/radareorg/radare2-extras/pull/285",
+        "Title": "M32c",
+        "Created At": "2021-06-28T01:52:27Z",
+        "Target Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
+        "target_inducing_commit_hash_pyszz": [
+            "00cd6d221e6a5d03968c4468835a0f73e7a64d8a"
+        ],
+        "Closest Commit SHA": "e158c1bbdcdeea04fe66c6f7fb0b368d22edb2cc",
+        "closest_inducing_commit_hash_pyszz": [
+            "6f726e0f689fd02ab68fd78d9ad1572fe318d83b"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "00cd6d221e6a5d03968c4468835a0f73e7a64d8a"
+        ],
+        "target_matched": [
+            "00cd6d221e6a5d03968c4468835a0f73e7a64d8a"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "956b3aaf14d20dbe267582fee8065ef3ded2a4ab",
+            "6f726e0f689fd02ab68fd78d9ad1572fe318d83b",
+            "b9723c5629fbaafa1298ef4ddf64dcad34fc0e48",
+            "ad5a00ccce902cd0c0bbb069371dfb43e4b2c00b",
+            "7500101a859127659f3256521a61ed937cb90ff6",
+            "b2244eb3863523769c4600a09c9ab0867fc8e5d7",
+            "fe6b3f0356f55f66ec4310281972e0de14da06a2",
+            "7028bab425b917a340b726c73d547108c13d5924",
+            "cb010aff695ece35ffc17d01af9d951f5d99f9c9",
+            "e809b61b4776399fb7ca47d137e767ec07fddf80",
+            "1a56c842e187d2f53c775bf5e88e1ff259213d29",
+            "f64cec8e36f14797c769a82322d55f19f2b5eec7"
+        ],
+        "closest_matched": [
+            "6f726e0f689fd02ab68fd78d9ad1572fe318d83b"
+        ]
+    }
+]
