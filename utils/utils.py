@@ -40,6 +40,7 @@ def check_commit_existence(repo_path, commit_hash):
 
 def get_pull_request_data(pr_number, owner, repo, repo_path):
     url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}"
+    print(url)
     response = requests.get(url, headers=get_headers())
     data = response.json()
     merge_commit = data["merge_commit_sha"]
@@ -75,7 +76,7 @@ def get_commit_that_references_pr(repo_path, pr_number):
     response = requests.post(graphql_url, json={'query': query3}, headers=get_headers())
     data = response.json()
     print(data)
-    if data["data"]["repository"]["pullRequest"]["timelineItems"]["nodes"] == []:
+    if data["data"]["repository"]["pullRequest"]["timelineItems"]["nodes"] == [] or data["data"]["repository"]["pullRequest"]["timelineItems"]["nodes"][0]["commit"] is None:
         return None
     return data["data"]["repository"]["pullRequest"]["timelineItems"]["nodes"][0]["commit"]["oid"]
 
