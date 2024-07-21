@@ -1,0 +1,44 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/47499",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/63170",
+        "Title": "Fix querying a data stream name in _index field.",
+        "Created At": "2020-10-02T10:36:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/49888",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/65882",
+        "Title": "[7.x] [ML] fix running AutoscaleIT when build isn't a snapshot build (#65848)",
+        "Created At": "2020-12-04T12:20:58Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/21716",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/27460",
+        "Title": "Painless: Fix errors allowing void to be assigned to def.",
+        "Created At": "2017-11-20T20:22:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51943",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/51941",
+        "Title": "Fix GCS Mock Http Handler JDK Bug",
+        "Created At": "2021-02-04T13:34:51Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/50534",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/50549",
+        "Title": "Fix type conversion problem in Eclipse",
+        "Created At": ""
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/50635",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/66969",
+        "Title": "Support running FIPS tests with Oracle JVM (#66912)",
+        "Created At": "2021-01-05T03:09:48Z"
+    }
+]

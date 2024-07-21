@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33261",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/46165",
+        "Title": "[7.4][ML] Regression dependent variable must be numeric (#46072)",
+        "Created At": "2019-08-30T07:00:09Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33328",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/46208",
+        "Title": "Cleanup BlobStoreRepository Abort and Failure Handling",
+        "Created At": "2019-08-31T20:25:15Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/16540",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/23015",
+        "Title": "Move search request validations to SearchRequest#validate",
+        "Created At": "2017-02-07T14:12:13Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/17912",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/24241",
+        "Title": "Provide informative error message in case of unknown suggestion context.",
+        "Created At": "2017-04-21T11:21:28Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/14303",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/21123",
+        "Title": "Add correct Content-Length on HEAD requests",
+        "Created At": "2016-10-26T01:51:45Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/73249",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/86931",
+        "Title": "Upgrade to lucene 9.2.0-RC2 snapshot",
+        "Created At": "2022-05-19T15:37:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/69185",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/84164",
+        "Title": "Fix GeoGridTilerTestCase",
+        "Created At": "2022-02-18T09:37:54Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/69259",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/84168",
+        "Title": "Upgrade hppc to 0.9.1",
+        "Created At": "2022-02-18T16:42:15Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/19310",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/25592",
+        "Title": "Engine - Do not store operations that are not index into lucene in the translog (5.x only)",
+        "Created At": "2017-07-07T09:29:55Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/16017",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/22610",
+        "Title": "Fix thread safety of Stempel's token filter factory",
+        "Created At": "2017-01-13T11:30:59Z"
+    }
+]

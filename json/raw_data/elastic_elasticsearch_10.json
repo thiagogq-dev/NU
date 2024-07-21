@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/68823",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/83771",
+        "Title": "[WIP] Add DownSampleAction to downsampling time_series index",
+        "Created At": "2022-02-10T08:58:05Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10918",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/18074",
+        "Title": "add ability to specify multiple grok patterns",
+        "Created At": "2016-04-29T21:13:50Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/34575",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/48223",
+        "Title": "Fix TreeNode's Builder wrong nodeIndex assignment",
+        "Created At": "2019-10-18T02:15:18Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/60800",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/76205",
+        "Title": "Script: ulong support via Fields API",
+        "Created At": "2021-08-06T01:54:11Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51101",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/67573",
+        "Title": "Add deprecation warnings handling to GET /index requests in tests.",
+        "Created At": "2021-01-15T13:37:18Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/27144",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/34940",
+        "Title": "SQL: Add `CAST` and `CONVERT` to `SHOW FUNCTIONS`",
+        "Created At": "2018-10-26T23:34:24Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55424",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/80062",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/91181",
+        "Title": "Fix duplicate entries in AutoFollowCoordinator.recentAutoFollowErrors",
+        "Created At": "2022-10-28T13:58:21Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/64751",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/80462",
+        "Title": "Prepopulate the system's security manager setters map.",
+        "Created At": "2021-11-06T10:55:20Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10997",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/18117",
+        "Title": "Grammar fix in transport exception",
+        "Created At": "2016-05-03T16:47:29Z"
+    }
+]

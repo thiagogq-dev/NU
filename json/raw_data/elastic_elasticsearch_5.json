@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52217",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68835",
+        "Title": "Regroup searchable snapshot stats by file extension",
+        "Created At": "2021-02-10T15:23:43Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52211",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68823",
+        "Title": "Use JNA to Speed up Snapshot Cache File Creation (#68687)",
+        "Created At": "2021-02-10T13:33:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52141",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68741",
+        "Title": "[7.x] Unmute more memory-related tests after the fix in #68542",
+        "Created At": "2021-02-09T12:06:36Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52115",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68710",
+        "Title": "[7.x] Enable `BooleanNegation` checkstyle rule always",
+        "Created At": "2021-02-08T20:38:54Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52032",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68615",
+        "Title": "Revert \"Remove aggregation's postCollect phase",
+        "Created At": "2021-02-05T22:30:37Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51845",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68416",
+        "Title": "Replace NOT operator with explicit `false` check - part 6",
+        "Created At": "2021-02-02T21:03:07Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51660",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68191",
+        "Title": "fixes #33434",
+        "Created At": "2021-01-29T05:20:53Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51536",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68048",
+        "Title": "Extend probe handshake timeout if security enabled",
+        "Created At": "2021-01-27T13:16:22Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51518",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68023",
+        "Title": "Fix SnapshotStatus Transport Action Doing IO on Transport Thread",
+        "Created At": "2021-01-26T19:40:32Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52886",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69632",
+        "Title": "Speed up terms agg when alone (backport #69377)",
+        "Created At": "2021-02-25T19:58:48Z"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/32781",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/45419",
+        "Title": "Simplify and Optimize RestController Slightly",
+        "Created At": "2019-08-10T09:53:30Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/36197",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/49815",
+        "Title": "Scripting: add available languages & contexts API (#49652)",
+        "Created At": "2019-12-04T02:08:13Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/79213",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90925",
+        "Title": "Fix path to compatible x-pack tests",
+        "Created At": "2022-10-14T18:01:01Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/39411",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/52831",
+        "Title": "Fix GCS Mock Range Downloads (#52804)",
+        "Created At": "2020-02-26T16:07:25Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/38399",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/51911",
+        "Title": "Fix the type for \"slices\" in the Reindex and Update By Query REST API specification",
+        "Created At": "2020-02-05T08:55:25Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/39542",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/52973",
+        "Title": "Settings: AffixSettings as validator dependencies",
+        "Created At": "2020-02-28T22:02:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/41776",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/56057",
+        "Title": "SQL: SubSelect unresolved bugfix (#55956)",
+        "Created At": "2020-04-30T17:46:49Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/81747",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/92381",
+        "Title": "Revert back to S3 repository for ML snapshot artifacts",
+        "Created At": "2022-12-14T23:16:08Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/63287",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/78703",
+        "Title": "Changing test keytab to use aes256-cts-hmac-sha1-96 instead of des3-cbc-sha1-kd",
+        "Created At": "2021-10-05T14:58:34Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/46170",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61671",
+        "Title": "Preserve grok pattern ordering and add sort option",
+        "Created At": "2020-08-28T11:46:10Z"
+    }
+]

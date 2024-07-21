@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44787",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60095",
+        "Title": "Fix Test Failure in testConcurrentlyChangeRepositoryContentsInBwCMode",
+        "Created At": "2020-07-22T21:41:08Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/21519",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/27355",
+        "Title": "Updated the keys in the percentile aggregation tests to be strings",
+        "Created At": "2017-11-12T17:47:12Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44862",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60172",
+        "Title": "Let `isInetAddress` utility understand the scope ID on ipv6",
+        "Created At": "2020-07-24T15:15:03Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44918",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60172",
+        "Title": "Let `isInetAddress` utility understand the scope ID on ipv6",
+        "Created At": "2020-07-24T15:15:03Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/33972",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/46971",
+        "Title": "Fix Bug in Snapshot Status Response Timestamps (#46919)",
+        "Created At": "2019-09-23T10:56:47Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44932",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60256",
+        "Title": "[7.x] Add aggregation list to node info (#60074)",
+        "Created At": "2020-07-27T22:15:24Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/44936",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/60256",
+        "Title": "[7.x] Add aggregation list to node info (#60074)",
+        "Created At": "2020-07-27T22:15:24Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/66967",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/82233",
+        "Title": "[8.0] Fix Watcher testWatcherWithApiKey (#82136)",
+        "Created At": "2022-01-04T20:44:28Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45852",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61411",
+        "Title": "Include authentication type for the authenticate response (#61247)",
+        "Created At": "2020-08-21T12:22:18Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45892",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61428",
+        "Title": "EQL: Replace SearchHit in response with Event",
+        "Created At": "2020-08-21T15:49:09Z"
+    }
+]

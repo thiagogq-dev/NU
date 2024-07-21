@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45897",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61428",
+        "Title": "EQL: Replace SearchHit in response with Event",
+        "Created At": "2020-08-21T15:49:09Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/45966",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61508",
+        "Title": "Fixes casting in constant folding",
+        "Created At": "2020-08-24T22:13:39Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/46147",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/61671",
+        "Title": "Preserve grok pattern ordering and add sort option",
+        "Created At": "2020-08-28T11:46:10Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/40046",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/53543",
+        "Title": "[Backport] Avoid NPE in set_security_user without security",
+        "Created At": "2020-03-13T13:29:50Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/48221",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/63840",
+        "Title": "QL: Remove filter from field_caps requests",
+        "Created At": "2020-10-16T17:47:28Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/48378",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/64043",
+        "Title": "[ML] Fix rare ML daily maintenance test race condition",
+        "Created At": "2020-10-22T08:59:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/80762",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/91618",
+        "Title": "Always test explicit names with name predicate when ignore unavailable ",
+        "Created At": "2022-11-16T14:59:33Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/80231",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/91255",
+        "Title": "Skip prevoting if single-node discovery",
+        "Created At": "2022-11-02T16:41:53Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/49747",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/65659",
+        "Title": "Fix NPE in ClusterInfoService (#65654)",
+        "Created At": "2020-12-01T08:42:52Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/50207",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/66245",
+        "Title": "Fix SearchableSnapshotRelocationIntegTests (#66234)",
+        "Created At": "2020-12-14T08:53:01Z"
+    }
+]

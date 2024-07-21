@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/59378",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
+        "Created At": "2021-07-12T21:11:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/59376",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
+        "Created At": "2021-07-12T21:11:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/57050",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/73298",
+        "Title": "Make sure to return total hits when field collapsing",
+        "Created At": "2021-05-20T20:31:19Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55995",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/55981",
+        "Title": "Fix input snapshotting for test tasks",
+        "Created At": "2021-04-29T20:31:36Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55836",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72341",
+        "Title": "Make feature reset API response more informative (#71240)",
+        "Created At": "2021-04-27T21:55:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55700",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72185",
+        "Title": "Only delegate test events of current test run",
+        "Created At": "2021-04-23T21:47:05Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55578",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72063",
+        "Title": "Fix wildcard intervals when prefixes are indexed.",
+        "Created At": "2021-04-22T06:47:59Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55421",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55417",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55366",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z"
+    }
+]

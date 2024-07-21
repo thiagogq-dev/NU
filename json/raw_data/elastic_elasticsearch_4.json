@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54938",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71448",
+        "Title": "[Tests] Ignore all indices when testing global state for snapshot and restore (#71324)",
+        "Created At": "2021-04-08T02:51:37Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54547",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71156",
+        "Title": "Fix setup code in GeoIpCliTests",
+        "Created At": "2021-03-31T21:51:07Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54053",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70767",
+        "Title": "[7.12] Accept any type in after in composite aggs if the field is unmapped (#70518)",
+        "Created At": "2021-03-23T16:11:56Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54043",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70767",
+        "Title": "[7.12] Accept any type in after in composite aggs if the field is unmapped (#70518)",
+        "Created At": "2021-03-23T16:11:56Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/53527",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70351",
+        "Title": "[7.12] Fix failing SetProcessorTests.testCopyFromOtherField test (#70150)",
+        "Created At": "2021-03-12T12:29:06Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52811",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69586",
+        "Title": "Remove deprecated jcenter repository from our build (#69517) (7.x backport)",
+        "Created At": "2021-02-25T07:47:46Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52691",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69404",
+        "Title": "[Backport] Fix string replacement in certutil http test",
+        "Created At": "2021-02-23T05:37:53Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52579",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69282",
+        "Title": "[ML] Fix logic for moving .ml-state-write alias from legacy to new",
+        "Created At": "2021-02-19T15:11:14Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52347",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68951",
+        "Title": "[Backport 7.11]  Add a smoke test for security realms",
+        "Created At": "2021-02-12T13:31:47Z"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52344",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68951",
+        "Title": "[Backport 7.11]  Add a smoke test for security realms",
+        "Created At": "2021-02-12T13:31:47Z"
+    }
+]
