@@ -1,0 +1,43 @@
+[
+    {
+        "repo_name": "microsoft/CBL-Mariner",
+        "Target PR": "https://github.com/microsoft/CBL-Mariner/pull/6381",
+        "Closest PR": "https://github.com/microsoft/azurelinux/pull/9414",
+        "Title": "[3.0-dev] Patch CVE-2024-5564 in libndp",
+        "Created At": "2024-06-15T00:51:40Z",
+        "Target Commit SHA": "44cd1ce357fd96ceb410a43f38931fbac6fe13eb",
+        "target_inducing_commit_hash_pyszz": [
+            "115ecc713d6b70246707cecfea8598777af9e3e8"
+        ],
+        "Closest Commit SHA": "6fda93c24e708bfd16c22d11160b6270b861c7f7",
+        "closest_inducing_commit_hash_pyszz": [
+            "b213f09c93c8bf79ab393fb0cf9482402c931ac8"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "ea37acfa628d6d51378088891400435879209ea7",
+            "956b3090769fe8a45023344268eecddc09ed862d",
+            "115ecc713d6b70246707cecfea8598777af9e3e8",
+            "d2ba4f043a8f6ff5eec3ab65af1ec2ff46d5dbbd",
+            "63c1d45e66ce684b2b2b2ebf44dc02bd4463b64e",
+            "eb08b379164dd94f378cb6d3969b184f97f2e02c",
+            "af6ece382324e6aaae497f385219ae4549870461",
+            "d82493a5f91b0fbb94fd469178f92b3a4ed152fb",
+            "f571b3fabde3a07cde8bdd2e9d584c6633e5af78",
+            "6a8f378cad9babb595bfd5e1bccf7a8771dd817e",
+            "45d111d407945a4bd086c5658cd5c794719a0877",
+            "307f520d1affeff92c4e97de45953c2cd160a179",
+            "e2ad74a2ca9974b4e0bc2391c1d5bbf823e6b865",
+            "41e5023e43f1647c4e6fcfe2f12b0fad836b6c7b"
+        ],
+        "target_matched": [
+            "115ecc713d6b70246707cecfea8598777af9e3e8"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "b213f09c93c8bf79ab393fb0cf9482402c931ac8",
+            "b877013b274d765f0dd34fe3df5a7bf008730180"
+        ],
+        "closest_matched": [
+            "b213f09c93c8bf79ab393fb0cf9482402c931ac8"
+        ]
+    }
+]
