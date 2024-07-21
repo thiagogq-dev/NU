@@ -8,7 +8,11 @@
         "Target Commit SHA": "8af3112fff7104e4e3a5d612be8e783e8fea6f4d",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "54b68b049c282a4d1be03744fc509519a8f3dac2",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "nextcloud/android",
@@ -19,6 +23,10 @@
         "Target Commit SHA": "33945b880bdab610fe78ef3901dd22abb70cf114",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "b81027d057180f3f661f06c794245c49374f319c",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
