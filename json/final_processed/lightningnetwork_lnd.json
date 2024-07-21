@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "lightningnetwork/lnd",
+        "Target PR": "https://github.com/lightningnetwork/lnd/pull/7098",
+        "Closest PR": "https://github.com/lightningnetwork/lnd/pull/8139",
+        "Title": "CI: upgrade bitcoind version to 0.25",
+        "Created At": "2023-11-01T08:35:46Z",
+        "Target Commit SHA": "96fe51e2e5c2ee0c97909499e0e96a3d3755757e",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "e6fbaafda4a9cfe08ccee5106aa6dc1da62bcebc",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]

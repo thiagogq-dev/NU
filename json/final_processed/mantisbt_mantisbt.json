@@ -1,0 +1,27 @@
+[
+    {
+        "repo_name": "mantisbt/mantisbt",
+        "Target PR": "https://github.com/mantisbt/mantisbt/pull/1094",
+        "Closest PR": "https://github.com/mantisbt/mantisbt/pull/1334",
+        "Title": "Remove soap folder check",
+        "Created At": "2018-04-16T20:51:54Z",
+        "Target Commit SHA": "a1c719313d61b07bbe8700005807b8195fdc32f1",
+        "target_inducing_commit_hash_pyszz": [
+            "e2d1de8a9f2fc5a7190efa252b2aa6df7e5c6310"
+        ],
+        "Closest Commit SHA": "7bc6b57965f9626f2b64c118f56f51c3dfd33a6b",
+        "closest_inducing_commit_hash_pyszz": [
+            "55f2ac2091dd854a547c44d8f1deacaef5441c27"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "e2d1de8a9f2fc5a7190efa252b2aa6df7e5c6310"
+        ],
+        "target_matched": [
+            "e2d1de8a9f2fc5a7190efa252b2aa6df7e5c6310"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "ba97560b02d620569ad062d894284722f0acd890"
+        ],
+        "closest_matched": []
+    }
+]

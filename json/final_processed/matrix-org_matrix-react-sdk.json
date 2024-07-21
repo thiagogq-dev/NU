@@ -1,0 +1,31 @@
+[
+    {
+        "repo_name": "matrix-org/matrix-react-sdk",
+        "Target PR": "https://github.com/matrix-org/matrix-react-sdk/pull/5981",
+        "Closest PR": "https://github.com/matrix-org/matrix-react-sdk/pull/8518",
+        "Title": "Replace message composer menu with IconizedContextMenu",
+        "Created At": "2022-05-06T12:48:19Z",
+        "Target Commit SHA": "45acf70b00cb0c51740455d09164b1c3c033b5f3",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "7e63202f9a93ad83acd1207137d740c369a3d702",
+        "closest_inducing_commit_hash_pyszz": [
+            "f5226f9d5b51066be04a7f44a5fa5c542ff04a64"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "991257cbc363dd1f674cadc0bddd1aaf2deeb12c",
+            "a9d1f6e6164745ce01a63cd4531a2af2551e6832",
+            "8b2a478a25352c0a63d1c9a85d4def9c2b6c5b7f",
+            "b5a56698d674802d62181c4040c62b22332c0a91",
+            "5167b30ee616361a334e3f9a980870d92c0322c1",
+            "222943742482ba1cc879c7e9c4b722769d4b68c2",
+            "329292eb9b731489abc9605ed3ba05d87e274c3d",
+            "f5226f9d5b51066be04a7f44a5fa5c542ff04a64",
+            "dc979a33a12b86e76811080a8c76548c8f0001b4"
+        ],
+        "closest_matched": [
+            "f5226f9d5b51066be04a7f44a5fa5c542ff04a64"
+        ]
+    }
+]

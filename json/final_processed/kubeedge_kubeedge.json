@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "Target PR": "https://github.com/kubeedge/kubeedge/pull/3899",
+        "Closest PR": "https://github.com/kubeedge/kubeedge/pull/4811",
+        "Title": "New reader",
+        "Created At": "2023-06-01T08:12:09Z",
+        "Target Commit SHA": "ea23549e21ea13b99383521def5fb02f683ef509",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]

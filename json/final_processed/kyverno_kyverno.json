@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "kyverno/kyverno",
+        "Target PR": "https://github.com/kyverno/kyverno/pull/5713",
+        "Closest PR": "https://github.com/kyverno/kyverno/pull/9173",
+        "Title": "feat(jmespath):time_parse() support epoch time",
+        "Created At": "2023-12-16T18:30:23Z",
+        "Target Commit SHA": "14d82cbf6df091d0b12d2d1cdce1d9c9f29f659d",
+        "target_inducing_commit_hash_pyszz": [
+            "ed97ff66d03cb0de55d3ec062e30e3390b72fd68"
+        ],
+        "Closest Commit SHA": "08d098d262b0523d340ea32413281602952d0946",
+        "closest_inducing_commit_hash_pyszz": [
+            "91f2622384ad807e9ac34248857f1636529396bf"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "0f186afb3ec44d0012595f5a6533ae3ca3b74f46",
+            "af787b9fe6d4b384970e53ed6fbef946020b48ca",
+            "ef06833613656a966e9810b1c82debdfb2fa16fa",
+            "ff728d5f2b01980a35ba2a83d5812a06c1332bb8"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "91f2622384ad807e9ac34248857f1636529396bf"
+        ],
+        "closest_matched": [
+            "91f2622384ad807e9ac34248857f1636529396bf"
+        ]
+    }
+]

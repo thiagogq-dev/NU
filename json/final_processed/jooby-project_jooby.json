@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "jooby-project/jooby",
+        "Target PR": "https://github.com/jooby-project/jooby/pull/1368",
+        "Closest PR": "https://github.com/jooby-project/jooby/pull/1919",
+        "Title": "build(deps): bump directory-watcher from 0.9.10 to 0.10.0",
+        "Created At": "2020-08-13T06:58:12Z",
+        "Target Commit SHA": "27b4af283de1a2c2a6b0530039b46eef75ddf655",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "0998fc529c22b9a6f467f00baaacf094de83cbb7",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]

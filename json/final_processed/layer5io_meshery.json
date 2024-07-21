@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "layer5io/meshery",
+        "Target PR": "https://github.com/layer5io/meshery/pull/2745",
+        "Closest PR": "https://github.com/meshery/meshery/pull/5423",
+        "Title": "Remove older hack for namespace creation",
+        "Created At": "2022-04-23T07:19:44Z",
+        "Target Commit SHA": "7b17bea250972bdce47b1c5f2ebd3adc0fcf33dc",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "6b100a333e244b91421c1d0106f6fd2afc52559e",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]

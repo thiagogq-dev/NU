@@ -1,0 +1,32 @@
+[
+    {
+        "repo_name": "Katello/katello",
+        "Target PR": "https://github.com/Katello/katello/pull/6051",
+        "Closest PR": "https://github.com/Katello/katello/pull/6792",
+        "Title": "Fixes #18228 - Add CV/CCV info to client facts",
+        "Created At": "2017-05-17T13:18:53Z",
+        "Target Commit SHA": "e3abf55352ba98c1dc73057677e6299617767dd0",
+        "target_inducing_commit_hash_pyszz": [
+            "5dd2cae9777b6796f5f933553856a9765644c8f2"
+        ],
+        "Closest Commit SHA": "ab6434137082ba219f6acb6974aee1214dcc8e08",
+        "closest_inducing_commit_hash_pyszz": [
+            "9d063d5de2aa0143974481b40a0a6ae37f7b47b6"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "690b777d62eee0ef1800ddbab5990ac7fa7a7f03",
+            "6055ee58cb7fc531ace956939c8e059275eaaec2",
+            "5dd2cae9777b6796f5f933553856a9765644c8f2",
+            "a7e8ad4c7adcbbce30cc37f73653aa3aa8eca6f4"
+        ],
+        "target_matched": [
+            "5dd2cae9777b6796f5f933553856a9765644c8f2"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "9d063d5de2aa0143974481b40a0a6ae37f7b47b6"
+        ],
+        "closest_matched": [
+            "9d063d5de2aa0143974481b40a0a6ae37f7b47b6"
+        ]
+    }
+]
