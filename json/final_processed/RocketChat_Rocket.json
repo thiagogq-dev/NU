@@ -1,0 +1,62 @@
+[
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "Target PR": "https://github.com/RocketChat/Rocket.Chat/pull/20430",
+        "Closest PR": "https://github.com/RocketChat/Rocket.Chat/pull/24306",
+        "Title": "Chore: Convert to typescript the slash commands create files",
+        "Created At": "2022-01-26T22:21:24Z",
+        "Target Commit SHA": "ac9d7612a8fd6eae8074bd06e5449da843065be6",
+        "target_inducing_commit_hash_pyszz": [
+            "eeec50af5098f08836c8a9ce83cc85cdb798c815"
+        ],
+        "Closest Commit SHA": "61fa8f140f99e2c9652a8d3bb314aaa2264415ea",
+        "closest_inducing_commit_hash_pyszz": [
+            "5838a7b0d96569d8e01c939311b190dd215f693e"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "85fc1cf39412f5605a6436748a91c6f37cca3615",
+            "7a21974bb39a1255bb9838d0476f9f15b107a270",
+            "6c2f4ff703f2815f5fb86e3cd55d857a0fb35985",
+            "0ec692c92c1ba5ac21686b861e57caf08ba23ca5",
+            "0e88ac2a6150200c34ae2c12234afe8831180d3c",
+            "63f7e8fea6ef939455193e8e8661ea1197d410f9",
+            "bda6e000c7bdde00ba3809c26a6235f5c5e86cd8",
+            "eeec50af5098f08836c8a9ce83cc85cdb798c815",
+            "35728d61a66b2d0ddd6fdb0bcc98330ac3986540",
+            "97311da8aff2b6ed03c9b0bd42e85971126ca04f",
+            "d8054b38c5cac43b6d0ce2840d3f99b25474f1ad",
+            "33e67e48c04369650df5d2cb26665def703c4c68",
+            "1dc96dd6f79665495a276b5f9c4436313c32b616",
+            "25c3a62861aa79c888f100badc63fc108c990cba",
+            "0d42efc22d3c1bdf7ff353f581ce6ee129c48a1b",
+            "b83cbf97398853902dc7562b042be89e437edc20",
+            "41ef0fcba95d9aaca47da68b3135deeca87a57c6"
+        ],
+        "target_matched": [
+            "eeec50af5098f08836c8a9ce83cc85cdb798c815"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "26252a670e99a1b90d88cd4a5b24e2b611925442",
+            "e0aae4980b521c5329037e6b2636ba2e2146a909",
+            "74a7aa5b1c65c002da8f7c663cc1a857d433f405",
+            "85711287eaca9ce74574908cad2abc3ac87da475",
+            "4e889bc854326a987d5e4619b49cc85187710339",
+            "0d30a52487d8a47951a9b3aad735d839a12675f6",
+            "b7766b9ebc2d7e62ae06bda722930750bc5ef737",
+            "db6aa025d0ce48e07ae58f94ed406d58867abcfc",
+            "97622a4d366b6ca8fc6248fcddadfddeeac7bf90",
+            "5838a7b0d96569d8e01c939311b190dd215f693e",
+            "92e02f24c9684ebd2c2d8fdae73bcc720aaea2d6",
+            "305a6458024326fa80ef3ac1a4b45cac8dbe8827",
+            "2678365dfeab99f8bde4dbc1a2cb7d12e7a20aa0",
+            "6e88d4d474bdd4493222d174077e5139319668d0",
+            "1b001879a63c01fc1bd6084edc29ada702c1fca4",
+            "300c7a1af081aa353ccc442f8b88c4e104b1a82f",
+            "ed092fbe490c21d64c071772ce1da66515837353",
+            "7632f12cfcc7ed8ee8f843587fdff63b101cc765"
+        ],
+        "closest_matched": [
+            "5838a7b0d96569d8e01c939311b190dd215f693e"
+        ]
+    }
+]
