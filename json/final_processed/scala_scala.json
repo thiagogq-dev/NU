@@ -8,7 +8,11 @@
         "Target Commit SHA": "3a124138843ef06594aa955800ba83d7c8ac2b84",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "3b154a09de7a7527d5e15804e252b74294c52881",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "scala/scala",
@@ -20,6 +24,15 @@
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "f34381fa9f04409f2434d234c453aa7dc4f032ee",
         "closest_inducing_commit_hash_pyszz": [
+            "21738c7167bb91ff2dc4bac8ee7ae4fe0db41517"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "21738c7167bb91ff2dc4bac8ee7ae4fe0db41517",
+            "1940eaf6a8fb6f3b4773c0a2f1464d0852bf357b"
+        ],
+        "closest_matched": [
             "21738c7167bb91ff2dc4bac8ee7ae4fe0db41517"
         ]
     }
