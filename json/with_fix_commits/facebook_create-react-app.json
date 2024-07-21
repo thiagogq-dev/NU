@@ -2,7 +2,9 @@
     {
         "repo_name": "facebook/create-react-app",
         "Target PR": "https://github.com/facebook/create-react-app/pull/8975",
+        "Target Commit SHA": "a0b3753476053ed60159fb209f974b83e2aad7f9",
         "Closest PR": "https://github.com/facebook/create-react-app/pull/10938",
+        "Closest Commit SHA": null,
         "Title": "fix: add missing \"-\" in create app command",
         "Created At": "2021-05-08T13:01:00Z"
     }
