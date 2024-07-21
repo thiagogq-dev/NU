@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "pjsip/pjproject",
+        "Target PR": "https://github.com/pjsip/pjproject/pull/2663",
+        "Closest PR": "https://github.com/pjsip/pjproject/pull/3009",
+        "Title": "Check potential buffer overflow in `pjsip_auth_create_digest()`",
+        "Created At": "2022-03-07T07:39:26Z",
+        "Target Commit SHA": "90a7d70ae24eed1f482e1f67c1f009f11787f3f5",
+        "target_inducing_commit_hash_pyszz": [
+            "67e46c1ac45ad784db5b9080f5ed8b133c122872"
+        ],
+        "Closest Commit SHA": "d27f79da11df7bc8bb56c2f291d71e54df8d2c47",
+        "closest_inducing_commit_hash_pyszz": [
+            "abf2b4c54f22cb20912a01a6f59775554af0c408"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "1f56d56b4f6261de944527fb4fa6d28c42638271",
+            "67e46c1ac45ad784db5b9080f5ed8b133c122872"
+        ],
+        "target_matched": [
+            "67e46c1ac45ad784db5b9080f5ed8b133c122872"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "0a749f11c76147500c0729c16f334591196d1e77",
+            "7977f9f7eb64e51e351022e32d9d775be806e941",
+            "28f673a1d498fc587045f0c59caf9ab1109a7d0c",
+            "a1e6968900c53cdde2023af20408e682f98631ec",
+            "abf2b4c54f22cb20912a01a6f59775554af0c408",
+            "728a9051935f16a844ad9488019fa611eba2aa34",
+            "c09f47e48be20aff71c4deeb45bb5c5cc46880d7",
+            "3f6ac906ae7075ac17fb50abd4e184422e7aa126"
+        ],
+        "closest_matched": [
+            "abf2b4c54f22cb20912a01a6f59775554af0c408"
+        ]
+    }
+]
