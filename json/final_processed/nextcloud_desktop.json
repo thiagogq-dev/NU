@@ -8,7 +8,11 @@
         "Target Commit SHA": "6fa2e60bba99f9be7c57eefc447252f7199a5a25",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "b643773b107dfc9a544754bf6a7681934fd133f6",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "nextcloud/desktop",
@@ -20,6 +24,14 @@
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "50fbe1d02142d524800f98cbd1398a7a764a1526",
         "closest_inducing_commit_hash_pyszz": [
+            "c194605c356a0ffcc31f752e7792b6b6cd014911"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "c194605c356a0ffcc31f752e7792b6b6cd014911"
+        ],
+        "closest_matched": [
             "c194605c356a0ffcc31f752e7792b6b6cd014911"
         ]
     }
