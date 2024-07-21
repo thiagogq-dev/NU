@@ -2,42 +2,54 @@
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/47499",
+        "Target Commit SHA": "4e2ee64b91369470aa4708f6c25f5d3d41fe0e0b",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/63170",
+        "Closest Commit SHA": "3d6bbd064656ff48dc2fc1b7e7f314bafba34cb1",
         "Title": "Fix querying a data stream name in _index field.",
         "Created At": "2020-10-02T10:36:17Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/49888",
+        "Target Commit SHA": "ba37e3c4a092141ee869bf05cdcc44709bd433e0",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/65882",
+        "Closest Commit SHA": "6050d34603bbe28088a9c26236518662a535408e",
         "Title": "[7.x] [ML] fix running AutoscaleIT when build isn't a snapshot build (#65848)",
         "Created At": "2020-12-04T12:20:58Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/21716",
+        "Target Commit SHA": "4225737db9513ea2af11b92353786518b4bdcf12",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/27460",
+        "Closest Commit SHA": "2d927fababd58459db1d89d743618399ef175461",
         "Title": "Painless: Fix errors allowing void to be assigned to def.",
         "Created At": "2017-11-20T20:22:22Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/51943",
+        "Target Commit SHA": "67a264b82e28254a3ed224bc70dbefb940970680",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/51941",
+        "Closest Commit SHA": "3be70f64d88d10dd72d94fb34ccd5a8b788998c3",
         "Title": "Fix GCS Mock Http Handler JDK Bug",
         "Created At": "2021-02-04T13:34:51Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/50534",
+        "Target Commit SHA": "75b68fa55e05a781612349fb90e18ed3cb50774e",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/50549",
+        "Closest Commit SHA": "be68264981fbc8fb0e81b8dce3a971620ecc6c67",
         "Title": "Fix type conversion problem in Eclipse",
         "Created At": ""
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/50635",
+        "Target Commit SHA": "496604942f6b6eeedb7a22dabe4641b67a53b8e1",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/66969",
+        "Closest Commit SHA": "51d98c7ebc3ae8fe7e31001c16edbfe92d3d5a28",
         "Title": "Support running FIPS tests with Oracle JVM (#66912)",
         "Created At": "2021-01-05T03:09:48Z"
     }
