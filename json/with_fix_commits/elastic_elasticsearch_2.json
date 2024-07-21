@@ -2,70 +2,90 @@
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76879",
+        "Target Commit SHA": "8b3a61574f24a336e44f6f38c009c18ffd90383c",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/89571",
+        "Closest Commit SHA": "8cac4906b5125aded7df8892122519e8e422d2b9",
         "Title": "Fix log expectation inconsistency in flush test",
         "Created At": "2022-08-24T09:27:43Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76814",
+        "Target Commit SHA": "3a8586b596b52e567336035e77b7739722d295a8",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/89526",
+        "Closest Commit SHA": "b557d20ff4ec8dc4e3e0f61fbf0689651c93ba63",
         "Title": "Update OIDC test fixture",
         "Created At": "2022-08-23T05:31:59Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76801",
+        "Target Commit SHA": "ea0dc4514647365c1a4605501fd68c2c2bc36db6",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/89526",
+        "Closest Commit SHA": "b557d20ff4ec8dc4e3e0f61fbf0689651c93ba63",
         "Title": "Update OIDC test fixture",
         "Created At": "2022-08-23T05:31:59Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76520",
+        "Target Commit SHA": "7bb11858061f450de934a2dbf937f3b0935eeee9",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/89322",
+        "Closest Commit SHA": "8360bf9a475c9eff46884993e849ee9d0b06c9a2",
         "Title": "Fixing a version check for master stability functionality",
         "Created At": "2022-08-12T16:42:09Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76462",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/89322",
+        "Closest Commit SHA": "8360bf9a475c9eff46884993e849ee9d0b06c9a2",
         "Title": "Fixing a version check for master stability functionality",
         "Created At": "2022-08-12T16:42:09Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76434",
+        "Target Commit SHA": "34ea976ccdf58de9f53f70a1aa8cd828961d8b89",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/76359",
+        "Closest Commit SHA": "28d6c89b24a647eb57f7296b28b601fac44329cc",
         "Title": "[7.x] Fix IndexSnapshotsServiceIT and SnapshotsRecoveryPlannerServiceTests",
         "Created At": "2022-08-12T14:50:17Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/82015",
+        "Target Commit SHA": "daff5c0ab6f875b36ca9e6044bdf2fc37f246ea8",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/92514",
+        "Closest Commit SHA": null,
         "Title": "Avoiding geoip downloader race conditions",
         "Created At": "2022-12-21T22:33:12Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76276",
+        "Target Commit SHA": "4c149e8183787dc1dd427eca518ea4a196d65b9b",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/76277",
+        "Closest Commit SHA": "0fb10cc15ac09efa97fce81904a5b80908c98df2",
         "Title": "SQL: Fix nested ORDER BY",
         "Created At": "2022-08-09T15:39:05Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/76235",
+        "Target Commit SHA": "3a361426a1e2b42e53240ac07b4961070b53ed24",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/89196",
+        "Closest Commit SHA": "1c2bd7c0f15044b1ed41f5a64ac8f6544eb331b7",
         "Title": "Buffer H3Polygon2D bounding boxes to avoid edge precision issues",
         "Created At": "2022-08-09T11:03:15Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/59739",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/59756",
+        "Closest Commit SHA": "cc27efc0d09f526fa32b0be3a4f42edc90b4645d",
         "Title": "[7.9] Fix handling of final pipelines when destination is changed",
         "Created At": "2021-07-16T17:59:12Z"
     }
