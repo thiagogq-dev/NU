@@ -10,7 +10,17 @@
             "53745be62c939ee7a6891a2d9507d4da790fa47c"
         ],
         "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
-        "closest_inducing_commit_hash_pyszz": []
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [
+            "53745be62c939ee7a6891a2d9507d4da790fa47c"
+        ],
+        "target_matched": [
+            "53745be62c939ee7a6891a2d9507d4da790fa47c"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "30f415fe2d92d38ab84cac119e52fd54a4bc36ba"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "pf4j/pf4j",
@@ -23,6 +33,16 @@
             "53745be62c939ee7a6891a2d9507d4da790fa47c"
         ],
         "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
-        "closest_inducing_commit_hash_pyszz": []
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [
+            "53745be62c939ee7a6891a2d9507d4da790fa47c"
+        ],
+        "target_matched": [
+            "53745be62c939ee7a6891a2d9507d4da790fa47c"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "30f415fe2d92d38ab84cac119e52fd54a4bc36ba"
+        ],
+        "closest_matched": []
     }
 ]
