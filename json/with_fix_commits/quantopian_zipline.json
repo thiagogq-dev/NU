@@ -2,7 +2,9 @@
     {
         "repo_name": "quantopian/zipline",
         "Target PR": "https://github.com/quantopian/zipline/pull/574",
+        "Target Commit SHA": "d1b1708ccb3bbbd1fa574c124316493204fcf155",
         "Closest PR": "https://github.com/quantopian/zipline/pull/1169",
+        "Closest Commit SHA": "21bc598d8582b7687ce069ef6b8d162383c50dd0",
         "Title": "FIX: Error message for BenchmarkAssetNotAvailableTooLate is wrong",
         "Created At": "2016-04-27T18:45:56Z"
     }
