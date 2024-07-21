@@ -12,6 +12,22 @@
         "Closest Commit SHA": "7437f923023931ba23f345bba9afd7e1d3e84894",
         "closest_inducing_commit_hash_pyszz": [
             "f0bc0a2bfa34b2f4a424afaa330fd828cbf1b5b8"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "8e333857f4c0723bc73c3035bff9cea23532c824"
+        ],
+        "target_matched": [
+            "8e333857f4c0723bc73c3035bff9cea23532c824"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "a2caead13ac7f9931338a1a51ab4e36ddb505e00",
+            "c0f5d6d6a03a59c23ead360377ddb9451f4fa03c",
+            "f0bc0a2bfa34b2f4a424afaa330fd828cbf1b5b8",
+            "57b3ef8e3423cae6254f94c5564a11b4492cff43",
+            "8e333857f4c0723bc73c3035bff9cea23532c824"
+        ],
+        "closest_matched": [
+            "f0bc0a2bfa34b2f4a424afaa330fd828cbf1b5b8"
         ]
     }
 ]
