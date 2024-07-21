@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "Target PR": "https://github.com/graphhopper/graphhopper/pull/2328",
+        "Closest PR": "https://github.com/graphhopper/graphhopper/pull/2567",
+        "Title": "Consistent edge keys",
+        "Created At": "2022-04-27T06:02:00Z",
+        "Target Commit SHA": "d1baa22952d41e0ca25b888f3bf1248648874f47",
+        "target_inducing_commit_hash_pyszz": [
+            "cc294ee05d95685e31fccd4667ef79c5aecc9fd9"
+        ],
+        "fix_commit_hash": "4a57859ad7a7d45b6b28ac2e0dd8c22d469bbf78"
+    }
+]

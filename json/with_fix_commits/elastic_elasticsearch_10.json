@@ -1,0 +1,116 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/68823",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/83771",
+        "Title": "[WIP] Add DownSampleAction to downsampling time_series index",
+        "Created At": "2022-02-10T08:58:05Z",
+        "Target Commit SHA": "2ca8ba880d92da63c5f191996a56bca21a426432",
+        "target_inducing_commit_hash_pyszz": [
+            "69ec58ab5b6d18afb15280aa87a8844b46edcfe3"
+        ],
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10918",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/18074",
+        "Title": "add ability to specify multiple grok patterns",
+        "Created At": "2016-04-29T21:13:50Z",
+        "Target Commit SHA": "d32391684b257a8e31dc6e42a431dfb49f1b8629",
+        "target_inducing_commit_hash_pyszz": [
+            "d6fcb18b5a04e33956d45153dc2afa1aa1b68c40"
+        ],
+        "fix_commit_hash": "edfbdf2748f7abe0bcccd00893c37bb007dfc036"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/34575",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/48223",
+        "Title": "Fix TreeNode's Builder wrong nodeIndex assignment",
+        "Created At": "2019-10-18T02:15:18Z",
+        "Target Commit SHA": "670ccfb85383f649168c613125466fefc9544019",
+        "target_inducing_commit_hash_pyszz": [
+            "b105118ef0a60ff06cfd89497834eecfcb3a785d"
+        ],
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/60800",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/76205",
+        "Title": "Script: ulong support via Fields API",
+        "Created At": "2021-08-06T01:54:11Z",
+        "Target Commit SHA": "42460a137a2f8cd16e1e761d140cabdd072d860b",
+        "target_inducing_commit_hash_pyszz": [],
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51101",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/67573",
+        "Title": "Add deprecation warnings handling to GET /index requests in tests.",
+        "Created At": "2021-01-15T13:37:18Z",
+        "Target Commit SHA": "e6f778474e8f6d052ba7198fc49c03f386a5b32b",
+        "target_inducing_commit_hash_pyszz": [
+            "2bd3a0589259ffda6caf27bf23bb8ed8813bc4e9"
+        ],
+        "fix_commit_hash": "c398c4d6e2cd575831ca0bca4564b7b64880627d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/27144",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/34940",
+        "Title": "SQL: Add `CAST` and `CONVERT` to `SHOW FUNCTIONS`",
+        "Created At": "2018-10-26T23:34:24Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "42b4f23a76762b150ba9f40e058e59de24278241"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55424",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z",
+        "Target Commit SHA": "999ebbd7ef1bad1d7f4855795558693ebd3bfbd3",
+        "target_inducing_commit_hash_pyszz": [
+            "de30a0e18e6ca14110f2b3adcccb204496753c47"
+        ],
+        "fix_commit_hash": "6ad769548a55049b9c9b84bd61bd2a58438fac0b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/80062",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/91181",
+        "Title": "Fix duplicate entries in AutoFollowCoordinator.recentAutoFollowErrors",
+        "Created At": "2022-10-28T13:58:21Z",
+        "Target Commit SHA": "475affd646db5e469ef42b31cfbe0d0a3116d62a",
+        "target_inducing_commit_hash_pyszz": [
+            "ec400b839c8f252347cd671a753658ed28624a50"
+        ],
+        "fix_commit_hash": "0799663a589aec510877272d41044f276e22fd2d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/64751",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/80462",
+        "Title": "Prepopulate the system's security manager setters map.",
+        "Created At": "2021-11-06T10:55:20Z",
+        "Target Commit SHA": "23a47cebf166126f5b640eb03c232d75011f5e15",
+        "target_inducing_commit_hash_pyszz": [
+            "2c5884188734eccb9b962058b09d62824997f1f8"
+        ],
+        "fix_commit_hash": "4f00058d22c3e53324c1650091b32c400e93adeb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/10997",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/18117",
+        "Title": "Grammar fix in transport exception",
+        "Created At": "2016-05-03T16:47:29Z",
+        "Target Commit SHA": "5351fbd8a0773cbf5efa5490e5e06095789a8edb",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
+    }
+]

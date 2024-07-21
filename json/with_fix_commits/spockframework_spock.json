@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "spockframework/spock",
+        "Target PR": "https://github.com/spockframework/spock/pull/1027",
+        "Closest PR": "https://github.com/spockframework/spock/pull/1215",
+        "Title": "Check skipped state in Node.prepare and do nothing if already skipped",
+        "Created At": "2020-09-07T16:46:49Z",
+        "Target Commit SHA": "3b2e01cfed59a086541853268580d96445143091",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "464097e8415e9ec64dd93217eea70f670cb3ad4c"
+    }
+]

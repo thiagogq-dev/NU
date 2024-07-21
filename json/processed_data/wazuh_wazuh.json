@@ -1,1 +1,0 @@
-[{"repo_name": "wazuh/wazuh", "Target PR": "https://github.com/wazuh/wazuh/pull/8092", "Closest PR": "https://github.com/wazuh/wazuh/pull/12946", "Closest Commit SHA": "480be37e9a53673eac81b373df31e9612dc1fe1d", "Title": "Fix to process unknown registry value types in FIM sync", "Created At": "2022-03-31T12:49:25Z", "fix_commit_hash": null, "inducing_commit_hash_pyszz": "-"}]

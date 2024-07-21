@@ -1,0 +1,116 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30358",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/41784",
+        "Title": "Closed index replica allocation",
+        "Created At": "2019-05-03T09:20:06Z",
+        "Target Commit SHA": "a8faf9768adb1c8a7426ceea59b776c977beaba8",
+        "target_inducing_commit_hash_pyszz": [
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056"
+        ],
+        "fix_commit_hash": "06f4d3cff696d409c411483b223df125d22d302f"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/65164",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/80794",
+        "Title": "Ensure LIBFFI_TMPDIR is exported by init script",
+        "Created At": "2021-11-17T14:22:06Z",
+        "Target Commit SHA": "003bbd4a5c6a3fd576f5925895d6353c78619fe5",
+        "target_inducing_commit_hash_pyszz": [
+            "440ec4d9f53d42155a96b1ed16ee21c376c87d25"
+        ],
+        "fix_commit_hash": "7ab138cf1c4f1b87ec6df74bcbcbf0d56e047afa"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30442",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/41923",
+        "Title": "SQL: Improve error messages for geo_shape",
+        "Created At": "2019-05-07T22:28:48Z",
+        "Target Commit SHA": "ce008c446b356e92462e8ab5bd7b8a9e737e7737",
+        "target_inducing_commit_hash_pyszz": [
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736"
+        ],
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/36561",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/50141",
+        "Title": "\"CONTAINS\" support for BKD-backed geo_shape and shape fields",
+        "Created At": "2019-12-12T14:09:49Z",
+        "Target Commit SHA": "4a8cd45cca3fb485ef916f7ee5d65f190976cf01",
+        "target_inducing_commit_hash_pyszz": [
+            "143f151185c01698d9416de2a530714c40d9b96e"
+        ],
+        "fix_commit_hash": "7c559be31c35172c3071dae4c0feaea9c2abacbb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52702",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69425",
+        "Title": "Fix failing data stream snapshot test",
+        "Created At": "2021-02-23T10:45:05Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "72ae62ec2233d25ddf85bb884aea429d90f4c0a3"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/65486",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/81032",
+        "Title": "SQL: Fix rearranging columns in PIVOT queries",
+        "Created At": "2021-11-25T08:34:46Z",
+        "Target Commit SHA": "b4b4483e24105785d4b2aa2c5e82a771dcf15eaa",
+        "target_inducing_commit_hash_pyszz": [
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813"
+        ],
+        "fix_commit_hash": "05ffbff778207f86d6930adaeed641561f96f8bf"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30947",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42678",
+        "Title": "Add security test testing SLM cluster privileges",
+        "Created At": "2019-05-29T17:47:50Z",
+        "Target Commit SHA": "de93989550d71a75d146b5eab2a00612bfd886f8",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30466",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/41959",
+        "Title": "Fix max_bucket test by specifying number of shards",
+        "Created At": "2019-05-08T16:32:54Z",
+        "Target Commit SHA": "8d1756cd12e1b1f86250889195778286056847c2",
+        "target_inducing_commit_hash_pyszz": [
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736"
+        ],
+        "fix_commit_hash": "a3b1e5f6d74cf682662e765507bdd9bb6aa9f49d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/49210",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/65041",
+        "Title": "EQL: Re-enable correctness tests",
+        "Created At": "2020-11-14T12:32:31Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "20210cc43b34438c40b8b5aebf0aa2b8161c4104"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/30526",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/42096",
+        "Title": "Bug fix to allow access to top level params in reduce script",
+        "Created At": "2019-05-10T22:05:24Z",
+        "Target Commit SHA": "21b9170dec8601b5509142a0fb3fa5389614232d",
+        "target_inducing_commit_hash_pyszz": [
+            "637301becad0e830db1595917d297053a3d7e102"
+        ],
+        "fix_commit_hash": "c87ea81573557783d25a1023abcb92f7e9ec88aa"
+    }
+]

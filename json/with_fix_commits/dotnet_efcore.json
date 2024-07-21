@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "dotnet/efcore",
+        "Target PR": "https://github.com/dotnet/efcore/pull/19707",
+        "Closest PR": "https://github.com/dotnet/efcore/pull/23946",
+        "Title": "Add GetDbSets and fix error details of incorrect Entity type full name",
+        "Created At": "2021-01-23T15:31:53Z",
+        "Target Commit SHA": "973b1ea1d7e270218e4efa2ce872294d609ba5c0",
+        "target_inducing_commit_hash_pyszz": [
+            "c32787de45ef0d619f3f254d7abccb4b862f44e6"
+        ],
+        "fix_commit_hash": "ee09fa7b24e23504c8338b0dc24c237351a49704"
+    }
+]

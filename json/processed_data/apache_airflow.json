@@ -1,1 +1,0 @@
-[{"repo_name": "apache/airflow", "Target PR": "https://github.com/apache/airflow/pull/16446", "Closest PR": "https://github.com/apache/airflow/pull/24445", "Closest Commit SHA": null, "Title": "rename GKEStartPodOperator -> GKEPodOperator", "Created At": "2022-06-14T14:08:47Z", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["a03324382b2f891fbcecf5ff637213a08e9b877b"]}]

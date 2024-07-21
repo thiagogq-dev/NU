@@ -1,0 +1,12 @@
+[
+    {
+        "repo_name": "h2database/h2database",
+        "Target PR": "https://github.com/h2database/h2database/pull/1784",
+        "Closest PR": "https://github.com/h2database/h2database/pull/1772",
+        "Title": "Fix newlines in test scripts",
+        "Created At": "",
+        "Target Commit SHA": "2a6869f9e2c71bb0309fe9559076a7cf1c578738",
+        "target_inducing_commit_hash_pyszz": "-",
+        "fix_commit_hash": "1cd6ee15e391fcaa4f33988b34df9c8891be786d"
+    }
+]
