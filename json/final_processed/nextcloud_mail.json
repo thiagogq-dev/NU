@@ -8,7 +8,11 @@
         "Target Commit SHA": "c5b7bb8823f2547c9335bb7e1f9b55f092082f9a",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "c9a2da70eb0af5607e1272f47b89903b54f02edc",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "nextcloud/mail",
@@ -19,6 +23,10 @@
         "Target Commit SHA": "30f09fbbf08d1e2a092f8665c5953d2b107caaf4",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "6938b489823629ec0fefc05b23031969a0162b5a",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
