@@ -2,10 +2,10 @@
     {
         "repo_name": "prestodb/presto",
         "Target PR": "https://github.com/prestodb/presto/pull/11912",
-        "Target Commit SHA": "5d3fbee7af778e53d6eba09ec9177386f7108b70",
         "Closest PR": "https://github.com/prestodb/presto/pull/13691",
         "Closest Commit SHA": "91af80f36d3dbc7331e262134c66a57b41b9bd49",
         "Title": "Enable testGroupByKeyPredicatePushdown with filter pushdown",
-        "Created At": "2019-11-12T16:25:50Z"
+        "Created At": "2019-11-12T16:25:50Z",
+        "fix_commit_hash": "5d3fbee7af778e53d6eba09ec9177386f7108b70"
     }
 ]

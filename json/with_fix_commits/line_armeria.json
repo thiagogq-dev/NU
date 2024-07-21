@@ -2,37 +2,37 @@
     {
         "repo_name": "line/armeria",
         "Target PR": "https://github.com/line/armeria/pull/3984",
-        "Target Commit SHA": "920eca8abeeffe3ab9293e866a6d27acdc6ee468",
         "Closest PR": "https://github.com/line/armeria/pull/4564",
         "Closest Commit SHA": "dd49448e73b905d4f630f361d68779459d7e67d9",
         "Title": "Limit the max length of decoded content in `Decoding{Service,Client}`",
-        "Created At": "2022-12-07T14:18:04Z"
+        "Created At": "2022-12-07T14:18:04Z",
+        "fix_commit_hash": "920eca8abeeffe3ab9293e866a6d27acdc6ee468"
     },
     {
         "repo_name": "line/armeria",
         "Target PR": "https://github.com/line/armeria/pull/3727",
-        "Target Commit SHA": "fcd2d72a73218a3dda4c2c89f4908ec1ad12d810",
         "Closest PR": "https://github.com/line/armeria/pull/4366",
         "Closest Commit SHA": "712cb0d8623f637cc241491815f912c11c90e63a",
         "Title": "Cache an aggregated result of a `StreamMessage` for non-pooled objects",
-        "Created At": "2022-07-26T09:34:29Z"
+        "Created At": "2022-07-26T09:34:29Z",
+        "fix_commit_hash": "fcd2d72a73218a3dda4c2c89f4908ec1ad12d810"
     },
     {
         "repo_name": "line/armeria",
         "Target PR": "https://github.com/line/armeria/pull/1315",
-        "Target Commit SHA": "c53bfccd1bad83ed64598c1ebf928a1477a5e5d5",
         "Closest PR": "https://github.com/line/armeria/pull/1940",
         "Closest Commit SHA": "d63f1ad29d5082fb824c74dcea374333c576d914",
         "Title": "Wait for delegate endpoints before beginning health check.",
-        "Created At": "2019-07-30T11:31:41Z"
+        "Created At": "2019-07-30T11:31:41Z",
+        "fix_commit_hash": "c53bfccd1bad83ed64598c1ebf928a1477a5e5d5"
     },
     {
         "repo_name": "line/armeria",
         "Target PR": "https://github.com/line/armeria/pull/3939",
-        "Target Commit SHA": "b34fe092e9addbb50d86f278f260599b91d0b803",
         "Closest PR": "https://github.com/line/armeria/pull/3920",
         "Closest Commit SHA": "5c1666c4b7489581ffc1724d539153a9d99b4698",
         "Title": "Fix the case where\ufffdunfinishedResponses\ufffdisn't decremented on early abort",
-        "Created At": ""
+        "Created At": "",
+        "fix_commit_hash": "b34fe092e9addbb50d86f278f260599b91d0b803"
     }
 ]

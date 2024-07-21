@@ -2,10 +2,10 @@
     {
         "repo_name": "atom/atom",
         "Target PR": "https://github.com/atom/atom/pull/17770",
-        "Target Commit SHA": "6def4aa4651ffdba549cd6096ff91688a7cee0d2",
         "Closest PR": "https://github.com/atom/atom/pull/19726",
         "Closest Commit SHA": "cac1a77e40b14a1053357c39c75def733fba8a5a",
         "Title": "Only cover scope boundaries in the parent layer if there is a scope boundary in the injected layer",
-        "Created At": "2019-07-30T03:44:37Z"
+        "Created At": "2019-07-30T03:44:37Z",
+        "fix_commit_hash": "6def4aa4651ffdba549cd6096ff91688a7cee0d2"
     }
 ]

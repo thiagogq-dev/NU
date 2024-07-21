@@ -2,10 +2,10 @@
     {
         "repo_name": "aws/s2n-tls",
         "Target PR": "https://github.com/aws/s2n-tls/pull/762",
-        "Target Commit SHA": "df791f3859e8899e7d721d97c480f9860be82c26",
         "Closest PR": "https://github.com/aws/s2n-tls/pull/995",
         "Closest Commit SHA": "a9e7686a3e159604a27fe9fe074ca8c316e253db",
         "Title": "Fix receiving of signature algorithms",
-        "Created At": "2019-03-21T20:23:24Z"
+        "Created At": "2019-03-21T20:23:24Z",
+        "fix_commit_hash": "df791f3859e8899e7d721d97c480f9860be82c26"
     }
 ]

@@ -2,10 +2,10 @@
     {
         "repo_name": "facebook/react",
         "Target PR": "https://github.com/facebook/react/pull/22593",
-        "Target Commit SHA": "3677c019af7251207dee41df7689859ab991a665",
         "Closest PR": "https://github.com/facebook/react/pull/25512",
         "Closest Commit SHA": "9336e29d917f286f74fc1e10db4cfbc9ccf67a38",
         "Title": "[useEvent] Lint for presence of useEvent functions in dependency lists",
-        "Created At": "2022-10-19T16:58:10Z"
+        "Created At": "2022-10-19T16:58:10Z",
+        "fix_commit_hash": "3677c019af7251207dee41df7689859ab991a665"
     }
 ]

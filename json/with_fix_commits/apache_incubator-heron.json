@@ -2,10 +2,10 @@
     {
         "repo_name": "apache/incubator-heron",
         "Target PR": "https://github.com/apache/incubator-heron/pull/3747",
-        "Target Commit SHA": "fd30626d70e3cc3284dcc527f9d0883f42ff1157",
         "Closest PR": "https://github.com/apache/incubator-heron/pull/3860",
         "Closest Commit SHA": "0e7dbe56825623f99ada54e5ebe10fe508b8811d",
         "Title": "Bump qs from 6.5.2 to 6.5.3 in /website2/website",
-        "Created At": "2022-12-09T06:18:13Z"
+        "Created At": "2022-12-09T06:18:13Z",
+        "fix_commit_hash": "fd30626d70e3cc3284dcc527f9d0883f42ff1157"
     }
 ]

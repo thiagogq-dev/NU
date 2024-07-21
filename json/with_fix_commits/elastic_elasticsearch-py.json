@@ -2,10 +2,10 @@
     {
         "repo_name": "elastic/elasticsearch-py",
         "Target PR": "https://github.com/elastic/elasticsearch-py/pull/1702",
-        "Target Commit SHA": "b06ea37de78d831b2a2798e137d8ae0eee386d1c",
         "Closest PR": "https://github.com/elastic/elasticsearch-py/pull/2048",
         "Closest Commit SHA": "513c754f455b637e3a17868af24a59fd2ec53298",
         "Title": "[8.3] Fix Incorrect example of custom JsonSerializer",
-        "Created At": "2022-08-22T10:07:32Z"
+        "Created At": "2022-08-22T10:07:32Z",
+        "fix_commit_hash": "b06ea37de78d831b2a2798e137d8ae0eee386d1c"
     }
 ]

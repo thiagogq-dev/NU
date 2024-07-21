@@ -2,91 +2,91 @@
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/52217",
-        "Target Commit SHA": "cc1fce96bad49d3d9b8e0921a992631f1271c945",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68835",
         "Closest Commit SHA": "6cf33b1c7cc8e948fbc51401b22dba8275af4b65",
         "Title": "Regroup searchable snapshot stats by file extension",
-        "Created At": "2021-02-10T15:23:43Z"
+        "Created At": "2021-02-10T15:23:43Z",
+        "fix_commit_hash": "cc1fce96bad49d3d9b8e0921a992631f1271c945"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/52211",
-        "Target Commit SHA": "ea55105c1de0e1d808d3835510e2606b2d9810f0",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68823",
         "Closest Commit SHA": "2ca8ba880d92da63c5f191996a56bca21a426432",
         "Title": "Use JNA to Speed up Snapshot Cache File Creation (#68687)",
-        "Created At": "2021-02-10T13:33:22Z"
+        "Created At": "2021-02-10T13:33:22Z",
+        "fix_commit_hash": "ea55105c1de0e1d808d3835510e2606b2d9810f0"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/52141",
-        "Target Commit SHA": "97f6e972b997802dfa1da144202bc55a2a9a7f2f",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68741",
         "Closest Commit SHA": "b31190600956ca308c5ad43423288a7fdfc2a874",
         "Title": "[7.x] Unmute more memory-related tests after the fix in #68542",
-        "Created At": "2021-02-09T12:06:36Z"
+        "Created At": "2021-02-09T12:06:36Z",
+        "fix_commit_hash": "97f6e972b997802dfa1da144202bc55a2a9a7f2f"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/52115",
-        "Target Commit SHA": "4bc7545e4333ce0ee4500f1b8367b9d79a48fb05",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68710",
         "Closest Commit SHA": "713cf88a163735a802d20ee56e0fb4d143816666",
         "Title": "[7.x] Enable `BooleanNegation` checkstyle rule always",
-        "Created At": "2021-02-08T20:38:54Z"
+        "Created At": "2021-02-08T20:38:54Z",
+        "fix_commit_hash": "4bc7545e4333ce0ee4500f1b8367b9d79a48fb05"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/52032",
-        "Target Commit SHA": "9fb5c811fc04e13e2b4d010ea98656d4af6207a6",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68615",
         "Closest Commit SHA": "0bbc6addd9b5314db9115fa4ac10211e43ba2d66",
         "Title": "Revert \"Remove aggregation's postCollect phase",
-        "Created At": "2021-02-05T22:30:37Z"
+        "Created At": "2021-02-05T22:30:37Z",
+        "fix_commit_hash": "9fb5c811fc04e13e2b4d010ea98656d4af6207a6"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/51845",
-        "Target Commit SHA": "b59cff44e438c0e61d3c4c8a8aaed114a9cdcae5",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68416",
         "Closest Commit SHA": "65501d0f254c8c71f03cd3733cc1a75eefe3a5bd",
         "Title": "Replace NOT operator with explicit `false` check - part 6",
-        "Created At": "2021-02-02T21:03:07Z"
+        "Created At": "2021-02-02T21:03:07Z",
+        "fix_commit_hash": "b59cff44e438c0e61d3c4c8a8aaed114a9cdcae5"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/51660",
-        "Target Commit SHA": "d12672e141852c95d65fcf6b0212b54ff8a7c6de",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68191",
         "Closest Commit SHA": null,
         "Title": "fixes #33434",
-        "Created At": "2021-01-29T05:20:53Z"
+        "Created At": "2021-01-29T05:20:53Z",
+        "fix_commit_hash": "d12672e141852c95d65fcf6b0212b54ff8a7c6de"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/51536",
-        "Target Commit SHA": "ba3051a50fe0ba84240626128a462c6670ce5a54",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68048",
         "Closest Commit SHA": null,
         "Title": "Extend probe handshake timeout if security enabled",
-        "Created At": "2021-01-27T13:16:22Z"
+        "Created At": "2021-01-27T13:16:22Z",
+        "fix_commit_hash": "ba3051a50fe0ba84240626128a462c6670ce5a54"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/51518",
-        "Target Commit SHA": "51ada96fc424b0cf2ff19332c6fdd5095dfc0b11",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/68023",
         "Closest Commit SHA": "f5c64af0cf49edf659c656584aace13965aa482e",
         "Title": "Fix SnapshotStatus Transport Action Doing IO on Transport Thread",
-        "Created At": "2021-01-26T19:40:32Z"
+        "Created At": "2021-01-26T19:40:32Z",
+        "fix_commit_hash": "51ada96fc424b0cf2ff19332c6fdd5095dfc0b11"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/52886",
-        "Target Commit SHA": "150735c29c80762fa39743db738f52f126fd9a2c",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/69632",
         "Closest Commit SHA": "c153abb5ab55bac490c34ebb026a6743c356746c",
         "Title": "Speed up terms agg when alone (backport #69377)",
-        "Created At": "2021-02-25T19:58:48Z"
+        "Created At": "2021-02-25T19:58:48Z",
+        "fix_commit_hash": "150735c29c80762fa39743db738f52f126fd9a2c"
     }
 ]

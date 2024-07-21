@@ -2,10 +2,10 @@
     {
         "repo_name": "netdata/netdata",
         "Target PR": "https://github.com/netdata/netdata/pull/5956",
-        "Target Commit SHA": "b6088e08a7dcf40c89dc859f85be11b2f9883a23",
         "Closest PR": "https://github.com/netdata/netdata/pull/8880",
         "Closest Commit SHA": "b07904f779273d525d9a1810b6159bb762d5c877",
         "Title": "Update Running-behind-nginx.md",
-        "Created At": "2020-05-02T19:48:12Z"
+        "Created At": "2020-05-02T19:48:12Z",
+        "fix_commit_hash": "b6088e08a7dcf40c89dc859f85be11b2f9883a23"
     }
 ]

@@ -2,91 +2,91 @@
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/45897",
-        "Target Commit SHA": "5761b0a79ca2028cf93d43d03094c6a9a1e489e0",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/61428",
         "Closest Commit SHA": "997376fbe6ef2894038968842f5e0635731ede65",
         "Title": "EQL: Replace SearchHit in response with Event",
-        "Created At": "2020-08-21T15:49:09Z"
+        "Created At": "2020-08-21T15:49:09Z",
+        "fix_commit_hash": "5761b0a79ca2028cf93d43d03094c6a9a1e489e0"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/45966",
-        "Target Commit SHA": "c99224a32d26db985053b7b36e2049036e438f97",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/61508",
         "Closest Commit SHA": "0ca776ed53690e555564b59fdee47cd59f038252",
         "Title": "Fixes casting in constant folding",
-        "Created At": "2020-08-24T22:13:39Z"
+        "Created At": "2020-08-24T22:13:39Z",
+        "fix_commit_hash": "c99224a32d26db985053b7b36e2049036e438f97"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/46147",
-        "Target Commit SHA": "2bcfe1a2d82d52d7d0b74071610875cdaf418f76",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/61671",
         "Closest Commit SHA": "9dcab76427b62d69fdb411e849b4ff643f049a68",
         "Title": "Preserve grok pattern ordering and add sort option",
-        "Created At": "2020-08-28T11:46:10Z"
+        "Created At": "2020-08-28T11:46:10Z",
+        "fix_commit_hash": "2bcfe1a2d82d52d7d0b74071610875cdaf418f76"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/40046",
-        "Target Commit SHA": "a8fae6211c962887f021bb52458f39f50dd91233",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/53543",
         "Closest Commit SHA": "74dbdb991ce1707ccb7a4aef8f72212bccf583f2",
         "Title": "[Backport] Avoid NPE in set_security_user without security",
-        "Created At": "2020-03-13T13:29:50Z"
+        "Created At": "2020-03-13T13:29:50Z",
+        "fix_commit_hash": "a8fae6211c962887f021bb52458f39f50dd91233"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/48221",
-        "Target Commit SHA": null,
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/63840",
         "Closest Commit SHA": "f009e6341d0fc0471f212d5a41c91e7aab77e006",
         "Title": "QL: Remove filter from field_caps requests",
-        "Created At": "2020-10-16T17:47:28Z"
+        "Created At": "2020-10-16T17:47:28Z",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/48378",
-        "Target Commit SHA": "c7689cea79294e5333d809f11b1d25af964c88af",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/64043",
         "Closest Commit SHA": "30224d0d64cc3563db67509fc636587df1466e83",
         "Title": "[ML] Fix rare ML daily maintenance test race condition",
-        "Created At": "2020-10-22T08:59:59Z"
+        "Created At": "2020-10-22T08:59:59Z",
+        "fix_commit_hash": "c7689cea79294e5333d809f11b1d25af964c88af"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/80762",
-        "Target Commit SHA": "d5a250394361155543d6425a2f3f1c484992e67c",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/91618",
         "Closest Commit SHA": "343c5c1ef7d722577085382bf84fb93cbfa2eccd",
         "Title": "Always test explicit names with name predicate when ignore unavailable ",
-        "Created At": "2022-11-16T14:59:33Z"
+        "Created At": "2022-11-16T14:59:33Z",
+        "fix_commit_hash": "d5a250394361155543d6425a2f3f1c484992e67c"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/80231",
-        "Target Commit SHA": "e5dbddc7639d7cea2c08372bb2146ec13a08b700",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/91255",
         "Closest Commit SHA": "611c9b86e2b81edaf0aaf936f79d5c4e913786a3",
         "Title": "Skip prevoting if single-node discovery",
-        "Created At": "2022-11-02T16:41:53Z"
+        "Created At": "2022-11-02T16:41:53Z",
+        "fix_commit_hash": "e5dbddc7639d7cea2c08372bb2146ec13a08b700"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/49747",
-        "Target Commit SHA": "d9560e5340f16bf8512563d66ee2e7883f1386a6",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/65659",
         "Closest Commit SHA": "f8f08ba3a78d3b02360c03a20497fe3274043b66",
         "Title": "Fix NPE in ClusterInfoService (#65654)",
-        "Created At": "2020-12-01T08:42:52Z"
+        "Created At": "2020-12-01T08:42:52Z",
+        "fix_commit_hash": "d9560e5340f16bf8512563d66ee2e7883f1386a6"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/50207",
-        "Target Commit SHA": "3184a894d716e701fc20605774656229e0c3e52f",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/66245",
         "Closest Commit SHA": "1eb051ada96b3002d895cb6e57fb1d5fe166009f",
         "Title": "Fix SearchableSnapshotRelocationIntegTests (#66234)",
-        "Created At": "2020-12-14T08:53:01Z"
+        "Created At": "2020-12-14T08:53:01Z",
+        "fix_commit_hash": "3184a894d716e701fc20605774656229e0c3e52f"
     }
 ]
