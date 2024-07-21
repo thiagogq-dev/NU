@@ -8,7 +8,11 @@
         "Target Commit SHA": "aacfc24548cbf168579d2e13b2ddaf8ded715d36",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "4e3e54c8ecf74eba6fbd38913855c4a45300c01f",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "vantage6/vantage6",
@@ -19,7 +23,11 @@
         "Target Commit SHA": "86564e103cbac5238ce2fe392e3357e0e8c20220",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "7ae3865943c8ec82760f75d6a9120b1c4b0d8610",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "vantage6/vantage6",
@@ -30,6 +38,10 @@
         "Target Commit SHA": "41618096ef112eaf827056dd13395abffd7a4f4d",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "ef043032465968ee3bd9d23bb36248977aff068b",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
