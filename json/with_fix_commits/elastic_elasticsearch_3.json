@@ -2,70 +2,90 @@
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/59378",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Closest Commit SHA": "c061964a3a4eb011a387a06165d0c66d3b706396",
         "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
         "Created At": "2021-07-12T21:11:59Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/59376",
+        "Target Commit SHA": "9e1f912cccfbc1aac79352b17902077e0815e68b",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Closest Commit SHA": "c061964a3a4eb011a387a06165d0c66d3b706396",
         "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
         "Created At": "2021-07-12T21:11:59Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/57050",
+        "Target Commit SHA": "afbd8cac63c45f3b13a243dee7e5792cfdfb8270",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/73298",
+        "Closest Commit SHA": "aa94cd52124065bd686224035c64e80543a1b76f",
         "Title": "Make sure to return total hits when field collapsing",
         "Created At": "2021-05-20T20:31:19Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/55995",
+        "Target Commit SHA": "84a2f1adf217c8da2817a7d36d9f5694ae85b4b0",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/55981",
+        "Closest Commit SHA": "3b7ae2d14fa755aa1e868acbd018941fdb8380a8",
         "Title": "Fix input snapshotting for test tasks",
         "Created At": "2021-04-29T20:31:36Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/55836",
+        "Target Commit SHA": "38185e5da05e8b6322ae7f1eed8399e869cafd6b",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/72341",
+        "Closest Commit SHA": "3db139433171158ba8f7fdce7d7c1812d69a3877",
         "Title": "Make feature reset API response more informative (#71240)",
         "Created At": "2021-04-27T21:55:46Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/55700",
+        "Target Commit SHA": "97c4b64fb16aa6fa1efabddc3e219455b080d16c",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/72185",
+        "Closest Commit SHA": "8712cfddb79c49014d6e02ed120ba952a167c87a",
         "Title": "Only delegate test events of current test run",
         "Created At": "2021-04-23T21:47:05Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/55578",
+        "Target Commit SHA": "3f08c8d69a9ff69d1a1f55ebc38da38c15635993",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/72063",
+        "Closest Commit SHA": "2b144911aabbb8051d996f215e2ce5ad0253e436",
         "Title": "Fix wildcard intervals when prefixes are indexed.",
         "Created At": "2021-04-22T06:47:59Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/55421",
+        "Target Commit SHA": "a10b25e185a5f5918b5bbb460cc27c5baa8ebad7",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Closest Commit SHA": "6ad769548a55049b9c9b84bd61bd2a58438fac0b",
         "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
         "Created At": "2021-04-16T19:26:17Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/55417",
+        "Target Commit SHA": "66071b2f6e2b161afe89ea5f3b6e3a8d036b78e4",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Closest Commit SHA": "6ad769548a55049b9c9b84bd61bd2a58438fac0b",
         "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
         "Created At": "2021-04-16T19:26:17Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/55366",
+        "Target Commit SHA": "62719221a5838df31cafc6db3fc69f4e043c73eb",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Closest Commit SHA": "6ad769548a55049b9c9b84bd61bd2a58438fac0b",
         "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
         "Created At": "2021-04-16T19:26:17Z"
     }
