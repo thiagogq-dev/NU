@@ -2,7 +2,9 @@
     {
         "repo_name": "dropbox/hackpad",
         "Target PR": "https://github.com/dropbox/hackpad/pull/4",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/dropbox/hackpad/pull/16",
+        "Closest Commit SHA": "8d95c7447978a79584ce04efb0ad94afd1fd46a2",
         "Title": "Pass the correct number of arguments to createNewAccount",
         "Created At": "2015-08-27T02:49:33Z"
     }
