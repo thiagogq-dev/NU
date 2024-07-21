@@ -2,7 +2,9 @@
     {
         "repo_name": "spring-projects/spring-security",
         "Target PR": "https://github.com/spring-projects/spring-security/pull/9318",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/spring-projects/spring-security/pull/10614",
+        "Closest Commit SHA": null,
         "Title": "Set the AuthnRequestsSigned attribute in the Saml2 metadata filter",
         "Created At": "2021-12-18T13:18:36Z"
     }
