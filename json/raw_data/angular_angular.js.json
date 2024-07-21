@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "angular/angular.js",
+        "Target PR": "https://github.com/angular/angular.js/pull/16391",
+        "Closest PR": "https://github.com/angular/angular.js/pull/16800",
+        "Title": "chore(package): rename to angular to match npm",
+        "Created At": "2018-12-27T16:08:14Z"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "Target PR": "https://github.com/angular/angular.js/pull/7464",
+        "Closest PR": "https://github.com/angular/angular.js/pull/11874",
+        "Title": "fix(select): prevent unknown option being added to select when bound \u2026",
+        "Created At": "2015-05-14T15:12:09Z"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "Target PR": "https://github.com/angular/angular.js/pull/15346",
+        "Closest PR": "https://github.com/angular/angular.js/pull/16314",
+        "Title": "fix($compile): sanitize special chars in directive name",
+        "Created At": "2017-11-01T13:31:37Z"
+    }
+]

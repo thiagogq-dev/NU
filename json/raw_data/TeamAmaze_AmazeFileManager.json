@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "TeamAmaze/AmazeFileManager",
+        "Target PR": "https://github.com/TeamAmaze/AmazeFileManager/pull/1814",
+        "Closest PR": "https://github.com/TeamAmaze/AmazeFileManager/pull/2202",
+        "Title": "Null check for getting file list",
+        "Created At": "2021-01-07T15:17:45Z"
+    }
+]

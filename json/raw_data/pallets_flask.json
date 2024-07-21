@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/4301",
+        "Closest PR": "https://github.com/pallets/flask/pull/4843",
+        "Title": "misleading code correction",
+        "Created At": "2022-10-10T07:26:11Z"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/2309",
+        "Closest PR": "https://github.com/pallets/flask/pull/2789",
+        "Title": "AttributeError: 'module' object has no attribute 'SSLContext'",
+        "Created At": "2018-05-17T12:29:51Z"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "Target PR": "https://github.com/pallets/flask/pull/2059",
+        "Closest PR": "https://github.com/pallets/flask/pull/2492",
+        "Title": "Fix typo in logging.rst",
+        "Created At": "2017-10-13T11:52:51Z"
+    }
+]

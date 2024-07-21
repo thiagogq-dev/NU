@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "jitsi/jitsi",
+        "Target PR": "https://github.com/jitsi/jitsi/pull/347",
+        "Closest PR": "https://github.com/jitsi/jitsi/pull/448",
+        "Title": "Fix NPE on call state change",
+        "Created At": "2018-02-17T10:30:26Z"
+    }
+]

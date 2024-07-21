@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "apache/kylin",
+        "Target PR": "https://github.com/apache/kylin/pull/1193",
+        "Closest PR": "https://github.com/apache/kylin/pull/1108",
+        "Title": "Fix sonar issues",
+        "Created At": ""
+    }
+]

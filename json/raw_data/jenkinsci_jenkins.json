@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "Target PR": "https://github.com/jenkinsci/jenkins/pull/2753",
+        "Closest PR": "https://github.com/jenkinsci/jenkins/pull/3296",
+        "Title": "[JENKINS-49565] - Update Jenkins CLI to Mina SSHD Core 1.7.0",
+        "Created At": "2018-02-16T17:34:18Z"
+    },
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "Target PR": "https://github.com/jenkinsci/jenkins/pull/4399",
+        "Closest PR": "https://github.com/jenkinsci/jenkins/pull/5129",
+        "Title": "Bump jnr-posix from 3.0.45 to 3.1.4",
+        "Created At": "2020-12-16T21:05:21Z"
+    },
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "Target PR": "https://github.com/jenkinsci/jenkins/pull/2441",
+        "Closest PR": "https://github.com/jenkinsci/jenkins/pull/2932",
+        "Title": "[JENKINS-44657] Move sub-job's buildsdir when outside of itemrootdir",
+        "Created At": "2017-06-27T11:11:40Z"
+    }
+]

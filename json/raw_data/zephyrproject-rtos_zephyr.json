@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/35050",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/45510",
+        "Title": "Bluetooth: Host: Avoid adding the same device to resolving list",
+        "Created At": "2022-05-10T11:50:20Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/39576",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/51473",
+        "Title": "driver: stm32: usb: add usb detach",
+        "Created At": "2022-10-20T08:35:03Z"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/37599",
+        "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/48910",
+        "Title": "Bluetooth: gatt: allow the CCCD to be in any location",
+        "Created At": "2022-08-11T08:08:32Z"
+    }
+]

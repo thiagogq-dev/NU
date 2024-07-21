@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "hazelcast/hazelcast",
+        "Target PR": "https://github.com/hazelcast/hazelcast/pull/13291",
+        "Closest PR": "https://github.com/hazelcast/hazelcast/pull/15167",
+        "Title": "Reduce resource usage for LockBasicDistributedTest",
+        "Created At": "2019-06-13T09:15:02Z"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "apache/kafka",
+        "Target PR": "https://github.com/apache/kafka/pull/10922",
+        "Closest PR": "https://github.com/apache/kafka/pull/12335",
+        "Title": "MINOR: Fix group coordinator is unavailable log",
+        "Created At": "2022-06-23T11:57:43Z"
+    }
+]
