@@ -2,7 +2,9 @@
     {
         "repo_name": "zeromq/libzmq",
         "Target PR": "https://github.com/zeromq/libzmq/pull/2652",
+        "Target Commit SHA": "e83abb3de3b7525e2c4fe14c617a960828427f2e",
         "Closest PR": "https://github.com/zeromq/libzmq/pull/2646",
+        "Closest Commit SHA": "c191909c0e063a4564a5ad11e325a029e9fe4205",
         "Title": "Fix error code when ZAP handler sends an invalid status code",
         "Created At": "2018-07-28T10:53:01Z"
     }
