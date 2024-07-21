@@ -10,7 +10,15 @@
             "12b63061c27557551f4d8aa19a3a1399083c10a0"
         ],
         "Closest Commit SHA": "d350654aeecb76ab797e5471d7074598f7e503ec",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "12b63061c27557551f4d8aa19a3a1399083c10a0"
+        ],
+        "target_matched": [
+            "12b63061c27557551f4d8aa19a3a1399083c10a0"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "minio/minio",
@@ -24,6 +32,23 @@
         ],
         "Closest Commit SHA": "48152a56ac6aa127895caf2a521372f67970eae9",
         "closest_inducing_commit_hash_pyszz": [
+            "7d4fce09dc17a9f87998416d3173326da2b49ade"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "ecd54b4cba1bbda0744b0013324a746882bde246",
+            "13441ad0f81b49f4c42d4c8a7c6fc8f465d536d2",
+            "07c5e72cdb8657a016ca28faa3d365115b937e71",
+            "f4623ea8dc7b0cd54dbdaea4da3c9333aefb7050",
+            "42d11d9e7ddef2c647628a4a8bd54bfbc907bf6c",
+            "822eb5ddc76c7edb52b7f38550caf58717c76ea1"
+        ],
+        "target_matched": [
+            "13441ad0f81b49f4c42d4c8a7c6fc8f465d536d2"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "7d4fce09dc17a9f87998416d3173326da2b49ade"
+        ],
+        "closest_matched": [
             "7d4fce09dc17a9f87998416d3173326da2b49ade"
         ]
     },
@@ -39,6 +64,26 @@
         ],
         "Closest Commit SHA": "5e5bdf543230c7b0d638a88332e14495942ed5b7",
         "closest_inducing_commit_hash_pyszz": [
+            "c84e2939e48c57f6eb2d80c54b27c1d19e189640"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "3a73f1ead5c04d595a7ceccb21b5f2029e884dec",
+            "fdaa129a5b651680578b5225c3da9ab6c6038fab",
+            "d65a2c672518a8af5f37f07c3abf18222df1839a",
+            "2c3a2241e773b27862334441da44df983d1731da",
+            "817269475fa2984754834fab1cdd380d99007dbc",
+            "e63a44b73478f50c25762d1111871e5dc088ffc9",
+            "602dac87730656580c5645215a771ea3b41426a5"
+        ],
+        "target_matched": [
+            "e63a44b73478f50c25762d1111871e5dc088ffc9"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "0eb146e1b27c65d465cc05f9a3ba0497150f3760",
+            "c84e2939e48c57f6eb2d80c54b27c1d19e189640",
+            "ac055b09e9833dc9cf324eae7145ebe014ce10d5"
+        ],
+        "closest_matched": [
             "c84e2939e48c57f6eb2d80c54b27c1d19e189640"
         ]
     }
