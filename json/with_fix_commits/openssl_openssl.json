@@ -2,7 +2,9 @@
     {
         "repo_name": "openssl/openssl",
         "Target PR": "https://github.com/openssl/openssl/pull/693",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/openssl/openssl/pull/2645",
+        "Closest Commit SHA": "9b90ce0b46aed53fdff4d767ca5669dfac211f62",
         "Title": "Cleanup *.S files",
         "Created At": "2017-02-16T09:20:32Z"
     }
