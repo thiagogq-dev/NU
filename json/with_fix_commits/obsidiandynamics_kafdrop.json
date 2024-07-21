@@ -2,7 +2,9 @@
     {
         "repo_name": "obsidiandynamics/kafdrop",
         "Target PR": "https://github.com/obsidiandynamics/kafdrop/pull/312",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/obsidiandynamics/kafdrop/pull/450",
+        "Closest Commit SHA": null,
         "Title": "Bump spring-boot-starter-parent from 2.7.5 to 3.0.0",
         "Created At": "2022-11-25T16:00:48Z"
     }
