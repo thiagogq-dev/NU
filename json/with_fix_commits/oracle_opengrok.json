@@ -2,7 +2,9 @@
     {
         "repo_name": "oracle/opengrok",
         "Target PR": "https://github.com/oracle/opengrok/pull/3399",
+        "Target Commit SHA": "1f6726aecb7d8a3e3a38bc1535d839b167982f31",
         "Closest PR": "https://github.com/oracle/opengrok/pull/3833",
+        "Closest Commit SHA": null,
         "Title": "lucene 9.1.0",
         "Created At": "2021-12-09T12:34:44Z"
     }
