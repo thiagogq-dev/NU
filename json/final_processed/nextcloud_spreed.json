@@ -8,7 +8,11 @@
         "Target Commit SHA": "7f33ad49df6c7d77173c6c9748e0f4e3cf381e4f",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "ac00edaf32b75d7c6ac2be24ebb0d50757cdcd58",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "nextcloud/spreed",
@@ -19,6 +23,10 @@
         "Target Commit SHA": "6ec9552b0fdadbf7f7012598f76b13abcdc0767a",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "329f6c4c60aa3777188ee523169dd3d6a56ef9ad",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
