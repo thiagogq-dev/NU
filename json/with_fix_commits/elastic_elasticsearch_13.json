@@ -2,70 +2,90 @@
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/66684",
+        "Target Commit SHA": "8e49ba9b18cb38be1208d80109ce5cb550beab9f",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/81979",
+        "Closest Commit SHA": "8054d83ec49d3a54fd9399267062eaff92222460",
         "Title": "Fix task manager tests, use reserved port range",
         "Created At": "2021-12-21T10:23:46Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/65290",
+        "Target Commit SHA": "1c89ecb833576342464a1962d7ea4f1b3f65e443",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/80887",
+        "Closest Commit SHA": "43e6cacdb0225e7d92e33fdccab233c6a9c27c21",
         "Title": "Strip index blocks from settings for reindex targets",
         "Created At": "2021-11-19T20:52:14Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/38917",
+        "Target Commit SHA": "b76a08393d74fad19d9d8e5641815adf72872bc5",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/52376",
+        "Closest Commit SHA": "e6b5a4fc99ca360ba82339051d0f0bb17bb6709c",
         "Title": "[7.6] ILM fix the init step to actually be retryable (#52076)",
         "Created At": "2020-02-14T17:40:27Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/30558",
+        "Target Commit SHA": "8a89306aafc6cefc1a6886233036387ad67118ae",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/42129",
+        "Closest Commit SHA": null,
         "Title": "Fix grammar problem",
         "Created At": "2019-05-13T21:59:45Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/30620",
+        "Target Commit SHA": "a75b8adce57c4fe803cb4b79e202f673e969daef",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/42150",
+        "Closest Commit SHA": "7e0ffaebaf1004c959766b905987fcb5f4bf7f70",
         "Title": "Enforce transport TLS on Basic with Security",
         "Created At": "2019-05-15T04:48:07Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/30743",
+        "Target Commit SHA": "8145a820c2dd4d37612ab6db1e45e484f2c20512",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/42203",
+        "Closest Commit SHA": null,
         "Title": "Move CORS handling to server package",
         "Created At": "2019-05-17T20:01:36Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/12729",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/19846",
+        "Closest Commit SHA": "b41d5747f0bd67dad05c8168312ba456bcdaebda",
         "Title": "Reduce GeoDistance Insanity",
         "Created At": "2016-08-06T03:54:26Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/37785",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/51368",
+        "Closest Commit SHA": "4d11e1ad245e7a322fedd6052111eeb5b4831ce3",
         "Title": "[Transform] avoid mapping problems with index templates",
         "Created At": "2020-01-23T18:50:34Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/46619",
+        "Target Commit SHA": "e304815af2f09c6550a3c533250e41aea5fe2ddc",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/62234",
+        "Closest Commit SHA": "1896fb3cca9b792e7f8859c816aa4b6b6f4feb9b",
         "Title": "Fix log4j config for :qa:os tests",
         "Created At": "2020-09-10T14:35:45Z"
     },
     {
         "repo_name": "elastic/elasticsearch",
         "Target PR": "https://github.com/elastic/elasticsearch/pull/30824",
+        "Target Commit SHA": "8aa58887e2a15ebe49358b0a33f1f4ec81dd5836",
         "Closest PR": "https://github.com/elastic/elasticsearch/pull/42454",
+        "Closest Commit SHA": "c1de8c29db228bb633f6766684874ed3321d7200",
         "Title": "Cluster state from API should always have a master",
         "Created At": "2019-05-23T16:43:45Z"
     }
