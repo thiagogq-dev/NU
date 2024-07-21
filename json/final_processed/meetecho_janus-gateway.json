@@ -1,0 +1,68 @@
+[
+    {
+        "repo_name": "meetecho/janus-gateway",
+        "Target PR": "https://github.com/meetecho/janus-gateway/pull/1990",
+        "Closest PR": "https://github.com/meetecho/janus-gateway/pull/2565",
+        "Title": "errors: replace strerror with locale-safe and threadsafe g_strerror",
+        "Created At": "2021-02-17T21:57:14Z",
+        "Target Commit SHA": "d26869dfe864b72027fde9a9c0eb664fa3df7001",
+        "target_inducing_commit_hash_pyszz": [
+            "5665a5be27222ff4957819f9d8b360b67afb12ab"
+        ],
+        "Closest Commit SHA": "b0974f17ff6c90d99eb49a149f56121b854039bb",
+        "closest_inducing_commit_hash_pyszz": [
+            "535a3642f81585bb3622d8431421f20c270404f3"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "20cbbc6746cfa9ae34cd06bb7d21b3b81bc33976",
+            "5665a5be27222ff4957819f9d8b360b67afb12ab",
+            "f7fca6953aad0967ede0c80e1cec5b5101f27622",
+            "b5577abda526bc4234da930306106076184938fe",
+            "c0c3d8e5f6c26acfeecd20ccf64f372d2ab8f348"
+        ],
+        "target_matched": [
+            "5665a5be27222ff4957819f9d8b360b67afb12ab"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "6ea19bee8923347086bee6b45a09d81b49af0d99",
+            "f10c611d9c2b4f2c880140e2fb5da84c85fc5608",
+            "36d273d741b93f7da1d81f62d51ffd2703bd7c76",
+            "415e0253bdb90c17d9c40b353581239dafcb262f",
+            "e77fb9f8d53b7abe86220fce04012faa2a406974",
+            "a2ba8fa80163506aff10d2a851ea1862e2c62e5f",
+            "e742bfdd00510d85073d4865ffd60dda684f959e",
+            "8a32bb7d1acaff2212b7512d4c4960f016c3dce1",
+            "44202438e288d4f255cc1b469b5e62cbec7adf99",
+            "5f5b80da298226cdabb48c6a22731063f09a7fa5",
+            "992bb519034f071a467edcda4e2146a40d971937",
+            "211a6fbb2a3dee9f0ff99a771ba4e3c5f7d83d9b",
+            "d072629cb45bb5f3675ddeff4aec5d9868c174fc",
+            "636790a9e7381397ab8cbb0ed0275c8feb8bc7b8",
+            "8b22411451ec757c2acfefc350feb3bc2aaa93e8",
+            "f4ce3aa4e670798e2c85d21baa443109b57f43aa",
+            "535a3642f81585bb3622d8431421f20c270404f3",
+            "4ea579520fc62f432f2172adc8d04562eaef9752",
+            "4036c07eb881a8b119c794d40661eda80ba2e865",
+            "ccd7cadaafcc2ad51276f0057f9077708be80233",
+            "e66c93602733bc3c0e6fa1c144bcf0ae8a5f8959",
+            "603478f5aac31ad7195e93780ecf803ffd64897e",
+            "ba8b7562373100f0d0a1de86d5bf55f4404d98d7",
+            "69cbccdf0e9fd0db3e2ff7826f56b34e7680bc27",
+            "f24fbae0aab4234020bb9891ca47c20a2ef1d988",
+            "0897862edd307d0f0feebdc37a4bffc4c3c13913",
+            "d3494b98355710d78073c2d89023e4fc41bd41e8",
+            "f0ae6d18c2995f1daa72c996e341d6f87f7bcbcb",
+            "2512456fa490961f8368cc87df008daf7a282f3a",
+            "3c311019f029c8f35d718b55dafc18a390274e67",
+            "4d8ee7e69176888efd0a667bbc1b3a06a134276b",
+            "4ca8ee58b0a1a1eaca48e59cbd3b34af42a42f53",
+            "34b5087ef8c38b6f62409d5b268e7e57d2f11eef",
+            "0e4462c62cd8fffa593b4be97fd1216d6ac432db",
+            "b31731d609c8eeb8aeba5d27ab783c249c9feb1f",
+            "88ca0d5a882ccf0b6699f565eef1b8cd153bef6e"
+        ],
+        "closest_matched": [
+            "535a3642f81585bb3622d8431421f20c270404f3"
+        ]
+    }
+]
