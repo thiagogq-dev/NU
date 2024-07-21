@@ -12,6 +12,18 @@
         "Closest Commit SHA": "21b4b932b91506228cdb2f2118d65a4ae5163ec5",
         "closest_inducing_commit_hash_pyszz": [
             "c4de9d0366e3a84441b2419413bcf4b079a6a9ca"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "5a385294ad6d12f81da3244d9941c0373587d6fa"
+        ],
+        "target_matched": [
+            "5a385294ad6d12f81da3244d9941c0373587d6fa"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "c4de9d0366e3a84441b2419413bcf4b079a6a9ca"
+        ],
+        "closest_matched": [
+            "c4de9d0366e3a84441b2419413bcf4b079a6a9ca"
         ]
     },
     {
@@ -26,6 +38,24 @@
         ],
         "Closest Commit SHA": "942276994b8fb2c089121c3f1e6e58257c5b6a96",
         "closest_inducing_commit_hash_pyszz": [
+            "56886e41d90a522aa8bbbe2b1478347659d86c8f"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "c24193ab9a4e32ed2199fb2fdf81445ad7876a63",
+            "997de5cc91492dd5907dc6b64014d6dac38e3b51"
+        ],
+        "target_matched": [
+            "c24193ab9a4e32ed2199fb2fdf81445ad7876a63"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "aa508e3e98fad7eab1fdd83b458c8abe042ec3b3",
+            "c2eb44c6aa179da3141ba8db256a8c23c4805cbf",
+            "aad51f3d95743bf2da9f0ee96a4dc27ca86dfa67",
+            "56886e41d90a522aa8bbbe2b1478347659d86c8f",
+            "87575d6a2bcf510a1f50fb0face36c2c0706fe01",
+            "ee2a1df575b6b4d90cf625d5f9ce6c6aaadefc95"
+        ],
+        "closest_matched": [
             "56886e41d90a522aa8bbbe2b1478347659d86c8f"
         ]
     }
