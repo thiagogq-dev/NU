@@ -1,0 +1,39 @@
+[
+    {
+        "repo_name": "nilsteampassnet/TeamPass",
+        "Target PR": "https://github.com/nilsteampassnet/TeamPass/pull/1140",
+        "Closest PR": "https://github.com/nilsteampassnet/TeamPass/pull/1565",
+        "Title": "Fix for issues #1218 and #1105.",
+        "Created At": "2016-10-31T17:09:56Z",
+        "Target Commit SHA": "6a0d13aaf16b8a5ea224ec818e1853419bb6e60b",
+        "target_inducing_commit_hash_pyszz": [
+            "8203a252aa7f905556b3f70e638c53403bef18a1"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "0d5534a57f8c27aa568b9f28e06e682f6ef04742"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "a43df6b5862228c195754907de7137ead9decb34",
+            "c4f8b364a9df130e4860b0a9d31f6a8ac8317d16",
+            "3bc3739ddd0b05e62819e41b89953e825809ca21",
+            "5a94c885f2f108fc2c567ecd9d0e90600764312a",
+            "7ff83a682e85ceb38ac5d5ce2e9cf71a4f4de4e6",
+            "019d2ff759dd7093ac6790d863277d9fc522c3f8",
+            "898bcd3988e25b4bc160b36f7461bf7b59d3a3dd",
+            "12b47ce51e9ea09464f4edb7474e8fd413c26cd3",
+            "8203a252aa7f905556b3f70e638c53403bef18a1",
+            "91b405a9538f8097d5edc7d3dfea0bf554e772f9",
+            "54d2346af790238ea12297163f24aec25eb2403e"
+        ],
+        "target_matched": [
+            "8203a252aa7f905556b3f70e638c53403bef18a1"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "11cbb4cfee6cdefefd1ef2e9b6438bba7cda7c5b",
+            "f851d99b522d71434648d5ba0361b3305c49d7c4",
+            "144a76913d50fc6b8bfcd2f67661e04f87fb7313"
+        ],
+        "closest_matched": []
+    }
+]
