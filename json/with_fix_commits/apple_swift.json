@@ -2,35 +2,45 @@
     {
         "repo_name": "apple/swift",
         "Target PR": "https://github.com/apple/swift/pull/30246",
+        "Target Commit SHA": "16c01fedea18752723161ea905e53db3afa53fd3",
         "Closest PR": "https://github.com/apple/swift/pull/36325",
+        "Closest Commit SHA": "a0369c58130d311c3a4ece71befce71720f46cf6",
         "Title": "Sema: Fix crash with local 'lazy' variables that contain a closure",
         "Created At": "2021-03-05T20:45:49Z"
     },
     {
         "repo_name": "apple/swift",
         "Target PR": "https://github.com/apple/swift/pull/30135",
+        "Target Commit SHA": "ef149d5c86234d9a530148ea5580cc8c19bbfb60",
         "Closest PR": "https://github.com/apple/swift/pull/36201",
+        "Closest Commit SHA": "a9290166d8396beb2c5bbfb05dc49835bfe581cc",
         "Title": "[Concurrency] Fix async-main crash",
         "Created At": "2021-02-27T09:49:03Z"
     },
     {
         "repo_name": "apple/swift",
         "Target PR": "https://github.com/apple/swift/pull/35220",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/apple/swift/pull/40697",
+        "Closest Commit SHA": "68eb340a2b7690f3770004c6000d6d8d254829f1",
         "Title": "[Distributed] IRGen: A couple of fixes for accessor",
         "Created At": "2021-12-23T02:13:57Z"
     },
     {
         "repo_name": "apple/swift",
         "Target PR": "https://github.com/apple/swift/pull/3859",
+        "Target Commit SHA": "a99221bfded64ffdea1aa18931e29d87708093d9",
         "Closest PR": "https://github.com/apple/swift/pull/11256",
+        "Closest Commit SHA": "a24a43928a7aca94a8071ab38c0f13b725be26f9",
         "Title": "Parse: Relax a recently-added assertion",
         "Created At": "2017-07-29T04:37:02Z"
     },
     {
         "repo_name": "apple/swift",
         "Target PR": "https://github.com/apple/swift/pull/26917",
+        "Target Commit SHA": null,
         "Closest PR": "https://github.com/apple/swift/pull/33670",
+        "Closest Commit SHA": "12dd83db4fa1ba57917e7c797c390e3349dda8ff",
         "Title": "[Dependency Scanner] Prefix Clang dependency scanner search path arguments with `-Xcc`",
         "Created At": "2020-08-27T20:04:56Z"
     }
