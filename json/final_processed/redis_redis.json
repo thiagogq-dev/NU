@@ -1,0 +1,84 @@
+[
+    {
+        "repo_name": "redis/redis",
+        "Target PR": "https://github.com/redis/redis/pull/9920",
+        "Closest PR": "https://github.com/redis/redis/pull/11595",
+        "Title": "Key as dict entry - memory optimization for sets",
+        "Created At": "2022-12-07T14:11:17Z",
+        "Target Commit SHA": "ae2f5b7b2e007e4bb7108407d7d41972312d0766",
+        "target_inducing_commit_hash_pyszz": [
+            "0e5b813ef94b373f82bc75efcf3405f2c81af3dc"
+        ],
+        "Closest Commit SHA": "f3f6f7c0d66f136146a912e06c8fbe31ecfbc977",
+        "closest_inducing_commit_hash_pyszz": [
+            "b60d33c91eef09aea34cecad789c552405737c55"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "07b0d144cee7e3ef0ed34fbf046c418d66099cea",
+            "b087dd1db60ed23d9e59304deb0b1599437f6e23",
+            "18e72c5cc723c60489b1598de8c3c503ef42c7d0",
+            "c8391388c221b9255a7b6536c3f43438f36b8e2b",
+            "cd6b3d558be0703b1a43f9fe58fd5f1ed7452829",
+            "0e5b813ef94b373f82bc75efcf3405f2c81af3dc",
+            "867816003ec214840c18754be9840f1ddf4192d1",
+            "ffbe36fc3ee824407b3818c0a6f861176ce56482"
+        ],
+        "target_matched": [
+            "0e5b813ef94b373f82bc75efcf3405f2c81af3dc"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "5792a217f85633225209557d952ad2fa6a3fa0c0",
+            "d9dd352b3693e1ad8ab2e0993b4f0a275d7fd512",
+            "68bf45fa1e77c7e2e3f3ab4a7894f9bc1a1da57b",
+            "5413c40da79d06b53b276b5358e04706a2738e9b",
+            "be1b4aa9aa76d15bb57b7159cb559a8b9dde5513",
+            "5e908a290ccbe9c4a7bea9356faf3b837df62793",
+            "d1176b582c8f482e46821527114c5c1476bc66d4",
+            "5ab6a54cc619e750daac59baef7b9f9dc1f87db9",
+            "0c05436cef6f65cb2d62c8764522abefeb964314",
+            "2eb9b19612db39b1bb91902c9669e28883bbbee7",
+            "b60d33c91eef09aea34cecad789c552405737c55",
+            "2bbc89196a4aab93cfa2f94c400aebd2841a2670",
+            "ed9b544e10b84cd43348ddfab7068b610a5df1f7",
+            "8ca3e9d10b013263a5356c81882b00e619a88720",
+            "afcbcc0e58749ebbebcd595c120d17a0e3dbb82e",
+            "71a50956b1ff6b45b8265afa8e7e0264c465cec8",
+            "c84248b5d2fba04e5056bad32a5d29a5fc906e8c",
+            "d4e9e0aebdc2c44c252e8ca27644b4392a6e820b",
+            "f24c63a292e045d4b14b82b25981f00a95c1767a",
+            "86d48efbfd40cba447025c36ac6b0c5507b032fd",
+            "6ed8c2823065fc32bd8eaa63b42ca41a82b25b39",
+            "4e472a1a7fc0dc2c7da2b48ac7342e9385b4f92a",
+            "c81813148b71cd4be686402ef69f628f67dbb8c4",
+            "c0ba9ebe13865189a3b21f7be8a910e349b59fda",
+            "7aa9e6d2ae1d500d8ba900b239207143993ecc3e"
+        ],
+        "closest_matched": [
+            "b60d33c91eef09aea34cecad789c552405737c55"
+        ]
+    },
+    {
+        "repo_name": "redis/redis",
+        "Target PR": "https://github.com/redis/redis/pull/9587",
+        "Closest PR": "https://github.com/redis/redis/pull/11351",
+        "Title": "Bump vmactions/freebsd-vm from 0.2.4 to 0.2.9",
+        "Created At": "2022-10-03T15:15:17Z",
+        "Target Commit SHA": "0215324a66af949be39b34be2d55143232c1cb71",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "e57a4db5d753e427317075071b0992fd965168b3"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "e57a4db5d753e427317075071b0992fd965168b3",
+            "cf61ad14cc45787e57d9af3f28f41462ac0f2aa2",
+            "f0c5052aa8de084f54b3eda7848f17b122907509",
+            "a527c3e8148881c4a33b2c78ba1cb0889b4893fc"
+        ],
+        "closest_matched": [
+            "e57a4db5d753e427317075071b0992fd965168b3"
+        ]
+    }
+]
