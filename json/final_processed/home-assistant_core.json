@@ -8,7 +8,11 @@
         "Target Commit SHA": "8b4bd95fc59976ea9e86389f01eae2514106111f",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "e4b987a64291c1246ea037c147c523b40dceba81",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "home-assistant/core",
@@ -23,7 +27,21 @@
         "Closest Commit SHA": null,
         "closest_inducing_commit_hash_pyszz": [
             "04bf12642546df9b29b5b7094b486e57f65c6396"
-        ]
+        ],
+        "target_inducing_commit_hash_pd": [
+            "85e3dfe6a633d9722fbb26759b51621633f82027",
+            "a557cf388b23ba035f6a5d3e6c5b9401505e4028",
+            "de08f0afaa13e32dcdb86ea4aab9e57069e10b26",
+            "8d1a9d86ea302254dd956b48fe3b529d38f0d834",
+            "17631cd728527ac82338b77df13377316333138c"
+        ],
+        "target_matched": [
+            "17631cd728527ac82338b77df13377316333138c"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "ec937781cab2239788239ff70fe6174f60b5f0e1"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "home-assistant/core",
@@ -38,7 +56,15 @@
         "Closest Commit SHA": null,
         "closest_inducing_commit_hash_pyszz": [
             "04bf12642546df9b29b5b7094b486e57f65c6396"
-        ]
+        ],
+        "target_inducing_commit_hash_pd": [
+            "ec937781cab2239788239ff70fe6174f60b5f0e1"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "ec937781cab2239788239ff70fe6174f60b5f0e1"
+        ],
+        "closest_matched": []
     },
     {
         "repo_name": "home-assistant/core",
@@ -51,6 +77,12 @@
             "1e72c2f94d5de5aac405059a8a0b90a48191aa42"
         ],
         "Closest Commit SHA": "3e7699b886e393778fec7041599833d503929b3b",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "ec937781cab2239788239ff70fe6174f60b5f0e1"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
