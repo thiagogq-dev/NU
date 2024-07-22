@@ -1,0 +1,46 @@
+[
+    {
+        "repo_name": "python/cpython",
+        "Target PR": "https://github.com/python/cpython/pull/22572",
+        "Closest PR": "https://github.com/python/cpython/pull/28748",
+        "Title": "bpo-45383: Inherit MetaClass from bases in FromSpec API",
+        "Created At": "2021-10-05T21:51:11Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "43709d5d5424725ec061de2c12c3761affde69ef"
+        ],
+        "Closest Commit SHA": "7fef8476629775c790f522a073ab279887bd81f9",
+        "closest_inducing_commit_hash_pyszz": [
+            "5e34b494a08015e9b5a3deade23943bdba284a93"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "f27593a87c344f3774ca73644a11cbd5614007ef"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "4d0d471a8031de90a2b1ce99c4ac4780e60b3bc9",
+            "5cade88ac1cf9241a8052c68646beac08aaa718e",
+            "9c56409d3353b8cd4cfc19e0467bbe23fd34fc92",
+            "5f79b50763d687aeeed8edcb4efcc7ac9f8fa186",
+            "bb78f57c1486e124e5dc5e585e6a136b8ca7ee24",
+            "5faff977adbe089e1f91a5916ccb2160a22dd292",
+            "3940333637b98a2781869977b077552514784529",
+            "2652d2570ea2d34fc790ef99ebd0c3c321fb86cb",
+            "032400b2d83ba1c2e4ee1cd33f51e9a598b2cf6c",
+            "5e34b494a08015e9b5a3deade23943bdba284a93",
+            "3368f3c6ae4140a0883e19350e672fd09c9db616",
+            "1db76394ea79030aa4ed5349c950f6c6da51450f",
+            "490055a1673b524da2ebe2312f072aba2a826036",
+            "686c203cd4355be5b7809a9d24b4aa3566d9371f",
+            "45ec5b99aefa54552947049086e87ec01bc2fc9a",
+            "a48db2bc8b882e887fbe8a84b31828d8491dd877",
+            "474eedfb3d1b6fecbd749f36bf4a987cf4a00b44",
+            "8a310dd5f4242b5d28013c1905c6573477e3b957",
+            "b510e101f8b5b31276bf97b921ca9247162881d2",
+            "24b8bad6d30ae4fb37ee686a073adfa5308659f9"
+        ],
+        "closest_matched": [
+            "5e34b494a08015e9b5a3deade23943bdba284a93"
+        ]
+    }
+]
