@@ -10,6 +10,14 @@
         "Closest Commit SHA": null,
         "closest_inducing_commit_hash_pyszz": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "closest_matched": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ]
     },
     {
@@ -24,6 +32,18 @@
         ],
         "Closest Commit SHA": null,
         "closest_inducing_commit_hash_pyszz": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "target_matched": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "closest_matched": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ]
     },
@@ -40,6 +60,18 @@
         "Closest Commit SHA": null,
         "closest_inducing_commit_hash_pyszz": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "target_matched": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "closest_matched": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ]
     },
     {
@@ -53,6 +85,14 @@
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ],
         "Closest Commit SHA": "4eb9dd0f01badf0460ac189f0441b5f842148c7e",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "target_matched": [
+            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
