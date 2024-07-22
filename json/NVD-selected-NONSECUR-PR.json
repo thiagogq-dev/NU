@@ -39,30 +39,20 @@
         "repo_name": "achernya/hesiod",
         "Target PR": "https://github.com/achernya/hesiod/pull/10",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "fb5778afcc17671282eab183b766c61ccdf41a34"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "fb5778afcc17671282eab183b766c61ccdf41a34",
-            "6b41c0866478cfc716daef55b6cf0c6a4a542c75"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "fb5778afcc17671282eab183b766c61ccdf41a34"
         ],
-        "pr_target_bic": "https://github.com/achernya/hesiod/commit/fb5778afcc17671282eab183b766c61ccdf41a34",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/achernya/hesiod/pull/13",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "fb5778afcc17671282eab183b766c61ccdf41a34"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "fb5778afcc17671282eab183b766c61ccdf41a34",
-            "6b41c0866478cfc716daef55b6cf0c6a4a542c75"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "fb5778afcc17671282eab183b766c61ccdf41a34"
         ],
-        "pr_closest_bic": "https://github.com/achernya/hesiod/commit/fb5778afcc17671282eab183b766c61ccdf41a34",
+        "pr_closest_bic": null,
         "Title": "Add support for libidn2",
         "Created At": "2017-04-27T03:26:14Z"
     },
@@ -1075,20 +1065,12 @@
         "pr_target_bic": "https://github.com/argoproj/argo-events/pull/1965",
         "Closest PR": "https://github.com/argoproj/argo-events/pull/2613",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "b44128a26397f812ef43b60396d19c03d2f758de"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "d3732ff3d6df414e06b1d9edee24c3cde128e994",
-            "2f027680621e8d7696a917764fd12519c757025e",
-            "81d2cd1b4290060d392f9ee9d99b789069678bc8",
-            "b44128a26397f812ef43b60396d19c03d2f758de",
-            "cb3f20d654e536ed1a14e00e7ca564fbc57643c5"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "b44128a26397f812ef43b60396d19c03d2f758de"
         ],
-        "pr_closest_bic": "https://github.com/argoproj/argo-events/pull/1210",
+        "pr_closest_bic": null,
         "Title": "chore(deps): bump github.com/cloudflare/circl from 1.1.0 to 1.3.3",
         "Created At": "2023-05-11T20:46:22Z"
     },
@@ -1427,28 +1409,20 @@
         "repo_name": "CESNET/proxystatistics-simplesamlphp-module",
         "Target PR": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/18",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "44e507aef480a9a029243fe92d61183cbc6b4776"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "44e507aef480a9a029243fe92d61183cbc6b4776"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "44e507aef480a9a029243fe92d61183cbc6b4776"
         ],
-        "pr_target_bic": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/80",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/21",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "44e507aef480a9a029243fe92d61183cbc6b4776"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "44e507aef480a9a029243fe92d61183cbc6b4776"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "44e507aef480a9a029243fe92d61183cbc6b4776"
         ],
-        "pr_closest_bic": "https://github.com/CESNET/proxystatistics-simplesamlphp-module/pull/80",
+        "pr_closest_bic": null,
         "Title": "Move Javascript from inline to external",
         "Created At": "2019-06-12T14:52:00Z"
     },
@@ -1617,16 +1591,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/codehaus-plexus/plexus-archiver/pull/100",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "3ea9d5b51f8fa5ebe4bda781f8c23efed9b2978c"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "3ea9d5b51f8fa5ebe4bda781f8c23efed9b2978c"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "3ea9d5b51f8fa5ebe4bda781f8c23efed9b2978c"
         ],
-        "pr_closest_bic": "https://github.com/codehaus-plexus/plexus-archiver/commit/3ea9d5b51f8fa5ebe4bda781f8c23efed9b2978c",
+        "pr_closest_bic": null,
         "Title": "Parameter `fileMapper` for unpack path rewriting",
         "Created At": "2018-09-19T12:34:20Z"
     },
@@ -2065,16 +2035,12 @@
         "pr_target_bic": "https://github.com/dpgaspar/Flask-AppBuilder/commit/0d634131d1d76c5ea90d69e24fa40104546def63",
         "Closest PR": "https://github.com/dpgaspar/Flask-AppBuilder/pull/2238",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "2e2931f2fc470a4f1756a0c39e0cc04b86818d84"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "eed6d8649bd18a2e03c5ae3f1afdf70f26513e0b"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "2e2931f2fc470a4f1756a0c39e0cc04b86818d84"
         ],
-        "pr_closest_bic": "https://github.com/dpgaspar/Flask-AppBuilder/pull/1817",
+        "pr_closest_bic": null,
         "Title": "chore: bump cryptography to 42.0.4",
         "Created At": "2024-05-13T14:34:15Z"
     },
@@ -2276,16 +2242,12 @@
         "pr_target_bic": "https://github.com/ericcornelissen/shescape/pull/902",
         "Closest PR": "https://github.com/ericcornelissen/shescape/pull/1600",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "7a0f9dfa44f9c3d76a7a8b3909bd1cd07a81e6e0"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "efd6b8898a18ed718a1ca3aa96c25be26975fc37"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "7a0f9dfa44f9c3d76a7a8b3909bd1cd07a81e6e0"
         ],
-        "pr_closest_bic": "https://github.com/ericcornelissen/shescape/pull/1394",
+        "pr_closest_bic": null,
         "Title": "Bump eslint-plugin-jsdoc from 48.2.7 to 48.2.11",
         "Created At": "2024-06-14T05:52:24Z"
     },
@@ -2711,17 +2673,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/gin-gonic/gin/pull/3845",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "3ac729dc4a497d360a23b9d7e766c622b3c99f51"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "638aa19e7d30513f7bc777c62ff8558fd5f90ea5",
-            "3ac729dc4a497d360a23b9d7e766c622b3c99f51"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "3ac729dc4a497d360a23b9d7e766c622b3c99f51"
         ],
-        "pr_closest_bic": "https://github.com/gin-gonic/gin/pull/3210",
+        "pr_closest_bic": null,
         "Title": "chore(deps): bump golangci/golangci-lint-action from 3.7.0 to 4.0.0",
         "Created At": "2024-02-12T22:12:50Z"
     },
@@ -3210,24 +3167,12 @@
         "pr_target_bic": "https://github.com/grpc/grpc/pull/31916",
         "Closest PR": "https://github.com/grpc/grpc/pull/35828",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "658588a4ed4e1864a59ae5c9605c972ba92798b8"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "c08eb4fc41c170c549170067e9b520662bc7b687",
-            "1c4b138322bbe5f6091092013b318aece2d3a55a",
-            "7e7b4fd1a429b0fb5b9e302baaef7b84a95969a8",
-            "2fc9dd15467ba23bbb325d4be30d9509dad0974f",
-            "0f1afec5a8906ae3f00d58ff2499ad7e7cfb577e",
-            "34a7e76359370286a0eb1508172afd59e4d11359",
-            "2fd63f2f8102e4a8259fd7d317afe84fc2182326",
-            "f1e79853ed3de5fdbbc6a2eb5530074b1c40e5b1",
-            "549460839b9b503c9fed9e2ba4ddd9f4f6fbded0"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "658588a4ed4e1864a59ae5c9605c972ba92798b8"
         ],
-        "pr_closest_bic": "https://github.com/grpc/grpc/commit/658588a4ed4e1864a59ae5c9605c972ba92798b8",
+        "pr_closest_bic": null,
         "Title": "[work-serializer] deflake tests for dispatching workserializer",
         "Created At": "2024-02-06T17:39:44Z"
     },
@@ -3248,16 +3193,12 @@
         "pr_target_bic": "https://github.com/hashicorp/vault-action/pull/15",
         "Closest PR": "https://github.com/hashicorp/vault-action/pull/318",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "f7f0d5a2892a36fafaaabc1694859b1270e243f6"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "f7f0d5a2892a36fafaaabc1694859b1270e243f6"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "f7f0d5a2892a36fafaaabc1694859b1270e243f6"
         ],
-        "pr_closest_bic": "https://github.com/hashicorp/vault-action/pull/102",
+        "pr_closest_bic": null,
         "Title": "chore(deps-dev): bump jest from 26.6.3 to 28.0.3",
         "Created At": "2022-04-29T22:03:42Z"
     },
@@ -3319,16 +3260,12 @@
         "repo_name": "home-assistant/plugin-dns",
         "Target PR": "https://github.com/home-assistant/plugin-dns/pull/59",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "823b1170c0bcab1b25f2850fdeb51196b6ed6d11"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "823b1170c0bcab1b25f2850fdeb51196b6ed6d11"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "823b1170c0bcab1b25f2850fdeb51196b6ed6d11"
         ],
-        "pr_target_bic": "https://github.com/home-assistant/plugin-dns/pull/138",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/home-assistant/plugin-dns/pull/91",
         "Closest Commit SHA": "51d4cb594782d0a127aea523044065b5f80abbe4",
         "closest_inducing_commit_hash_pyszz": [
@@ -3348,16 +3285,12 @@
         "repo_name": "i18next/i18next",
         "Target PR": "https://github.com/i18next/i18next/pull/443",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "48c84a0f71ffe1bcdabd2f276dae9fbdd570bcef"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "4002c1721573704f7dc9c62460b714ef33eda638"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "48c84a0f71ffe1bcdabd2f276dae9fbdd570bcef"
         ],
-        "pr_target_bic": "https://github.com/i18next/i18next/commit/48c84a0f71ffe1bcdabd2f276dae9fbdd570bcef",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/i18next/i18next/pull/826",
         "Closest Commit SHA": "11f059599889d857d497aa0499355be32df0dbb6",
         "closest_inducing_commit_hash_pyszz": "-",
@@ -3447,20 +3380,12 @@
         "pr_target_bic": "https://github.com/ipfs/go-merkledag/pull/88",
         "Closest PR": "https://github.com/ipfs/go-merkledag/pull/103",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "1f823e20567dc667c0247731cc04b58f25c1b987"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "d55833e9d3b305483ad1896414ad3312bdee30d5",
-            "e27f5b67121ba919cd6203dbbbf13992a5d555ab",
-            "9ad721569d332dd9b978752b6f8245f3b790bd53",
-            "ed7b07a2d086988d29ebb44eb66f1b77a0d6b746",
-            "1f823e20567dc667c0247731cc04b58f25c1b987"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "1f823e20567dc667c0247731cc04b58f25c1b987"
         ],
-        "pr_closest_bic": "https://github.com/ipfs/go-merkledag/pull/109",
+        "pr_closest_bic": null,
         "Title": "chore(deps): bump github.com/ipfs/go-bitswap from 0.11.0 to 0.12.0",
         "Created At": "2023-05-11T20:40:29Z"
     },
@@ -3474,16 +3399,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/jackaudio/jack2/pull/597",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "f14409bb92a43a70b42c7c482561c06e8cb12d29"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "f14409bb92a43a70b42c7c482561c06e8cb12d29"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "f14409bb92a43a70b42c7c482561c06e8cb12d29"
         ],
-        "pr_closest_bic": "https://github.com/jackaudio/jack2/commit/f14409bb92a43a70b42c7c482561c06e8cb12d29",
+        "pr_closest_bic": null,
         "Title": "[DRAFT] Multi server by same client support",
         "Created At": "2020-06-05T11:56:12Z"
     },
@@ -3491,28 +3412,20 @@
         "repo_name": "java-decompiler/jd-gui",
         "Target PR": "https://github.com/java-decompiler/jd-gui/pull/418",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "34afc1b3aaf7b2c0b5343446c970d3e16f1690a9"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "34afc1b3aaf7b2c0b5343446c970d3e16f1690a9"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "34afc1b3aaf7b2c0b5343446c970d3e16f1690a9"
         ],
-        "pr_target_bic": "https://github.com/java-decompiler/jd-gui/commit/34afc1b3aaf7b2c0b5343446c970d3e16f1690a9",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/java-decompiler/jd-gui/pull/432",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "34afc1b3aaf7b2c0b5343446c970d3e16f1690a9"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "34afc1b3aaf7b2c0b5343446c970d3e16f1690a9"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "34afc1b3aaf7b2c0b5343446c970d3e16f1690a9"
         ],
-        "pr_closest_bic": "https://github.com/java-decompiler/jd-gui/commit/34afc1b3aaf7b2c0b5343446c970d3e16f1690a9",
+        "pr_closest_bic": null,
         "Title": "Upgrade the launch4j plugin to make the exe work with recent JRE",
         "Created At": "2023-08-28T12:35:12Z"
     },
@@ -4225,16 +4138,12 @@
         "pr_target_bic": "https://github.com/locutusjs/locutus/commit/8a06aabe642898904956465e970af99fcd293e7e",
         "Closest PR": "https://github.com/locutusjs/locutus/pull/451",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "597a5b43f8409145b3281f7dd196e8cda7b3a3f1"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "597a5b43f8409145b3281f7dd196e8cda7b3a3f1"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "597a5b43f8409145b3281f7dd196e8cda7b3a3f1"
         ],
-        "pr_closest_bic": "https://github.com/locutusjs/locutus/commit/597a5b43f8409145b3281f7dd196e8cda7b3a3f1",
+        "pr_closest_bic": null,
         "Title": "Create SECURITY.md",
         "Created At": "2021-09-20T14:11:22Z"
     },
@@ -4255,19 +4164,12 @@
         "pr_target_bic": "https://github.com/lodash/lodash/commit/deb65de218ef0cc0e117840f70a9e70cbb960698",
         "Closest PR": "https://github.com/lodash/lodash/pull/5366",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "40e096b6d5291a025e365a0f4c010d9a0efb9a69"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "40e096b6d5291a025e365a0f4c010d9a0efb9a69",
-            "30d305da0fcd31f4316f5d3cae02f9c3d986626b",
-            "2900cfd288f72671c335021fa3220818445f9123",
-            "6cb3460fcefe66cb96e55b82c6febd2153c992cc"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "40e096b6d5291a025e365a0f4c010d9a0efb9a69"
         ],
-        "pr_closest_bic": "https://github.com/lodash/lodash/pull/3499",
+        "pr_closest_bic": null,
         "Title": "Fixed the Object contain \"length\" prop issue",
         "Created At": "2022-01-25T05:53:52Z"
     },
@@ -4906,16 +4808,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/moderntribe/panel-builder/pull/189",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "7b07e78fa1c0ffc4b4f40a44501f64e45f5d465c"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "7b07e78fa1c0ffc4b4f40a44501f64e45f5d465c"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "7b07e78fa1c0ffc4b4f40a44501f64e45f5d465c"
         ],
-        "pr_closest_bic": "https://github.com/moderntribe/panel-builder/pull/194",
+        "pr_closest_bic": null,
         "Title": "Fixed a deprecation issue with oembed class usage from WP.",
         "Created At": "2020-11-25T15:56:27Z"
     },
@@ -5095,17 +4993,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/neovim/neovim/pull/12385",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "f61efe3fe77c9a517dccb9fd5ff7f16c0660ced4"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "975a610233e05772d9c835caeede4b7ae2e1af7d",
-            "a98a6996c291b3e300d27b791eded9eed333d677"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "f61efe3fe77c9a517dccb9fd5ff7f16c0660ced4"
         ],
-        "pr_closest_bic": "https://github.com/neovim/neovim/pull/29660",
+        "pr_closest_bic": null,
         "Title": "runtime: Add TeX conceal for \\left and \\right pipe",
         "Created At": "2020-05-27T12:48:21Z"
     },
@@ -5202,16 +5095,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/nextcloud/circles/pull/1227",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "535cdcdf2dc2b58c03c76f63693c9cd67db5619b"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "0b9a0c504c8d3e460c0f9ccfeec8cdd31906af5f"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "535cdcdf2dc2b58c03c76f63693c9cd67db5619b"
         ],
-        "pr_closest_bic": "https://github.com/nextcloud/circles/commit/535cdcdf2dc2b58c03c76f63693c9cd67db5619b",
+        "pr_closest_bic": null,
         "Title": "Bump phpunit/phpunit from 9.5.26 to 9.5.27",
         "Created At": "2022-12-10T02:02:09Z"
     },
@@ -5570,18 +5459,12 @@
         "pr_target_bic": "https://github.com/nilsteampassnet/TeamPass/commit/8203a252aa7f905556b3f70e638c53403bef18a1",
         "Closest PR": "https://github.com/nilsteampassnet/TeamPass/pull/1565",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "0d5534a57f8c27aa568b9f28e06e682f6ef04742"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "11cbb4cfee6cdefefd1ef2e9b6438bba7cda7c5b",
-            "f851d99b522d71434648d5ba0361b3305c49d7c4",
-            "144a76913d50fc6b8bfcd2f67661e04f87fb7313"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "0d5534a57f8c27aa568b9f28e06e682f6ef04742"
         ],
-        "pr_closest_bic": "https://github.com/nilsteampassnet/TeamPass/commit/0d5534a57f8c27aa568b9f28e06e682f6ef04742",
+        "pr_closest_bic": null,
         "Title": "Fix for issues #1218 and #1105.",
         "Created At": "2016-10-31T17:09:56Z"
     },
@@ -5636,16 +5519,12 @@
         "pr_target_bic": "https://github.com/npm/hosted-git-info/commit/1ac973c4d9d82dcdd0b444ebc248112159a20cea",
         "Closest PR": "https://github.com/npm/hosted-git-info/pull/120",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "2a295d3a0b49967dd16d49313808ddacb82d17c9"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "2a295d3a0b49967dd16d49313808ddacb82d17c9"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "2a295d3a0b49967dd16d49313808ddacb82d17c9"
         ],
-        "pr_closest_bic": "https://github.com/npm/hosted-git-info/pull/215",
+        "pr_closest_bic": null,
         "Title": "Update localhost.js",
         "Created At": "2022-01-06T03:46:45Z"
     },
@@ -5771,22 +5650,12 @@
         "pr_target_bic": "https://github.com/omrilotan/async-git/pull/13",
         "Closest PR": "https://github.com/omrilotan/async-git/pull/34",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "eab37e947ae4c14b9c4ae385f81e6226bad62ae4"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "86fb3a2eb165e91af3457d6eabc75a9fc85d18ab",
-            "d1950a5021f4e19d92f347614be0d85ce991510d",
-            "22fe04b8f6afcb53665d5b6184456df74a59d03f",
-            "a2009a4896007b164d52e39f051381567ebb3ccb",
-            "eab37e947ae4c14b9c4ae385f81e6226bad62ae4",
-            "2db645b3087c16bad085f2766eef4d55ea250337",
-            "20701c5d46798fd7d61855f37ca52be1b806da5e"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "eab37e947ae4c14b9c4ae385f81e6226bad62ae4"
         ],
-        "pr_closest_bic": "https://github.com/omrilotan/async-git/pull/24",
+        "pr_closest_bic": null,
         "Title": "Bump eslint from 7.32.0 to 8.5.0",
         "Created At": "2021-12-20T03:08:14Z"
     },
@@ -5970,20 +5839,12 @@
         "pr_target_bic": "https://github.com/openemr/openemr/pull/1761",
         "Closest PR": "https://github.com/openemr/openemr/pull/2553",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "3766c7dcfbbb7dd89303402ddc87d1f9e80e0c4f"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "4afa84ed938af9b6fdb38c2353daeb8b4f17d42d",
-            "dee575767fa0d7e47924e4c24a08b2fe9b8f03b2",
-            "495ac0ec309219b733675307ab23051a5f00d543",
-            "3766c7dcfbbb7dd89303402ddc87d1f9e80e0c4f",
-            "20575d219bacf548d43caebf03044a55c562c419"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "3766c7dcfbbb7dd89303402ddc87d1f9e80e0c4f"
         ],
-        "pr_closest_bic": "https://github.com/openemr/openemr/pull/6770",
+        "pr_closest_bic": null,
         "Title": "The find_action method in C_PAtient_finder class was returning an err\u2026",
         "Created At": "2019-07-12T23:04:14Z"
     },
@@ -6006,20 +5867,12 @@
         "pr_target_bic": "https://github.com/openemr/openemr/pull/1761",
         "Closest PR": "https://github.com/openemr/openemr/pull/2553",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "3766c7dcfbbb7dd89303402ddc87d1f9e80e0c4f"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "4afa84ed938af9b6fdb38c2353daeb8b4f17d42d",
-            "dee575767fa0d7e47924e4c24a08b2fe9b8f03b2",
-            "495ac0ec309219b733675307ab23051a5f00d543",
-            "3766c7dcfbbb7dd89303402ddc87d1f9e80e0c4f",
-            "20575d219bacf548d43caebf03044a55c562c419"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "3766c7dcfbbb7dd89303402ddc87d1f9e80e0c4f"
         ],
-        "pr_closest_bic": "https://github.com/openemr/openemr/pull/6770",
+        "pr_closest_bic": null,
         "Title": "The find_action method in C_PAtient_finder class was returning an err\u2026",
         "Created At": "2019-07-12T23:04:14Z"
     },
@@ -6316,24 +6169,12 @@
         "pr_target_bic": "https://github.com/ory/oathkeeper/pull/384",
         "Closest PR": "https://github.com/ory/oathkeeper/pull/710",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "1ee445d1387dcf49cf75540267703d352be46ed2"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "1ee445d1387dcf49cf75540267703d352be46ed2",
-            "98e8e5cafc2aaf4f53eb3fcc0437fb4ae89a5d35",
-            "8ac1dac6c34f6e1cdf5a5e7a1a699c5951333d03",
-            "12e0fc20ac6c5f573438a270b71396ac67de76eb",
-            "6bac5365611039e2904a596d186d931d75d9ad59",
-            "8f429406c75b34feb71d6b06be060587ef1b2e85",
-            "7f32bc256c1a672e35e9af1e3eca029ec5b7d817",
-            "5bf9b703edc8d42c776f9612ebb58b4de2a25462",
-            "37e2df81169ce5ef9047c7c73b9ad158324605fc"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "1ee445d1387dcf49cf75540267703d352be46ed2"
         ],
-        "pr_closest_bic": "https://github.com/ory/oathkeeper/pull/1140",
+        "pr_closest_bic": null,
         "Title": "feat: Timeouts for Remote Authorizer",
         "Created At": "2021-04-27T17:09:33Z"
     },
@@ -6389,16 +6230,12 @@
         "repo_name": "pf4j/pf4j",
         "Target PR": "https://github.com/pf4j/pf4j/pull/537",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "53745be62c939ee7a6891a2d9507d4da790fa47c"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "53745be62c939ee7a6891a2d9507d4da790fa47c"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "53745be62c939ee7a6891a2d9507d4da790fa47c"
         ],
-        "pr_target_bic": "https://github.com/pf4j/pf4j/pull/385",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
         "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
         "closest_inducing_commit_hash_pyszz": [],
@@ -6416,16 +6253,12 @@
         "repo_name": "pf4j/pf4j",
         "Target PR": "https://github.com/pf4j/pf4j/pull/537",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "53745be62c939ee7a6891a2d9507d4da790fa47c"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "53745be62c939ee7a6891a2d9507d4da790fa47c"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "53745be62c939ee7a6891a2d9507d4da790fa47c"
         ],
-        "pr_target_bic": "https://github.com/pf4j/pf4j/pull/385",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/pf4j/pf4j/pull/577",
         "Closest Commit SHA": "f563b9168b4beaca95b28541c1031b0dd7bed913",
         "closest_inducing_commit_hash_pyszz": [],
@@ -6491,16 +6324,12 @@
         "pr_target_bic": "https://github.com/pimcore/pimcore/pull/12635",
         "Closest PR": "https://github.com/pimcore/pimcore/pull/16075",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "92ca9c898394c60215f45194236aaab6e8d0adf0"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "92ca9c898394c60215f45194236aaab6e8d0adf0"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "92ca9c898394c60215f45194236aaab6e8d0adf0"
         ],
-        "pr_closest_bic": "https://github.com/pimcore/pimcore/pull/16966",
+        "pr_closest_bic": null,
         "Title": "fix(page-factory): bug with not initalized defaultPageType",
         "Created At": "2023-10-10T08:32:28Z"
     },
@@ -7572,17 +7401,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/sockjs/sockjs-node/pull/276",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "da1f106db233b844985e9f9812995fbb0b6b9985"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "0ec6460aca2471e7f4eda6cd6f305d66dad26ac5",
-            "da1f106db233b844985e9f9812995fbb0b6b9985"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "da1f106db233b844985e9f9812995fbb0b6b9985"
         ],
-        "pr_closest_bic": "https://github.com/sockjs/sockjs-node/commit/da1f106db233b844985e9f9812995fbb0b6b9985",
+        "pr_closest_bic": null,
         "Title": "Bump lodash from 4.17.15 to 4.17.19",
         "Created At": "2020-08-02T21:16:21Z"
     },
@@ -7731,28 +7555,20 @@
         "repo_name": "theforeman/foreman",
         "Target PR": "https://github.com/theforeman/foreman/pull/2328",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "de56ffb2806473db9dc0cfd1f13d38076c7e56ea"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "d6dd67c4898a555c5901637133e147301dd4d64a"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "de56ffb2806473db9dc0cfd1f13d38076c7e56ea"
         ],
-        "pr_target_bic": "https://github.com/theforeman/foreman/pull/9050",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/theforeman/foreman/pull/3470",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "de56ffb2806473db9dc0cfd1f13d38076c7e56ea"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "d6dd67c4898a555c5901637133e147301dd4d64a"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "de56ffb2806473db9dc0cfd1f13d38076c7e56ea"
         ],
-        "pr_closest_bic": "https://github.com/theforeman/foreman/pull/9050",
+        "pr_closest_bic": null,
         "Title": "Fixes #14843 - Improve rake config error handling",
         "Created At": "2016-04-27T08:06:57Z"
     },
@@ -7835,16 +7651,12 @@
         "pr_target_bic": "https://github.com/togglz/togglz/pull/228",
         "Closest PR": "https://github.com/togglz/togglz/pull/632",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "0b03f3c07e156a38e872123f48cc7240df083dff"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "0b03f3c07e156a38e872123f48cc7240df083dff"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "0b03f3c07e156a38e872123f48cc7240df083dff"
         ],
-        "pr_closest_bic": "https://github.com/togglz/togglz/pull/1059",
+        "pr_closest_bic": null,
         "Title": "Bump h2 from 1.4.199 to 2.0.206 in /core",
         "Created At": "2022-01-06T23:59:20Z"
     },
@@ -8308,16 +8120,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/webbukkit/dynmap/pull/2874",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "36dc1adb1535081e1ee61e480e2664187e83b215"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "36dc1adb1535081e1ee61e480e2664187e83b215"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "36dc1adb1535081e1ee61e480e2664187e83b215"
         ],
-        "pr_closest_bic": "https://github.com/webbukkit/dynmap/commit/36dc1adb1535081e1ee61e480e2664187e83b215",
+        "pr_closest_bic": null,
         "Title": "fix Bukkit version detection",
         "Created At": "2020-04-13T10:46:38Z"
     },
@@ -8425,16 +8233,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/wso2/carbon-apimgt/pull/7830",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "9bed4d59c2d1cc971e03645e80a7fbcb888d4421"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "53231be93696a9145bb5259313c72f0e4ca55bfe"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "9bed4d59c2d1cc971e03645e80a7fbcb888d4421"
         ],
-        "pr_closest_bic": "https://github.com/wso2/carbon-apimgt/pull/10914",
+        "pr_closest_bic": null,
         "Title": "Bump org.wso2.carbon.identity.recovery from 1.3.15 to 1.3.18",
         "Created At": "2019-10-30T16:32:52Z"
     },
@@ -8487,29 +8291,12 @@
         "pr_target_bic": "https://github.com/yaml/pyyaml/commit/235ab98c2c2f37a6bc9d0292d5032ecc7aa8a640",
         "Closest PR": "https://github.com/yaml/pyyaml/pull/198",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "155ec463f6a854ac14ccd5e2dda8017ce42a508a"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "89f608599d700bf2976bf9307f9f86565f27a80e",
-            "235ab98c2c2f37a6bc9d0292d5032ecc7aa8a640",
-            "a98fd6088e81d7aca571220c966bbfe2ac43c335",
-            "0b6b7d61719fbe0a11f0980489f1bf8ce746c164",
-            "7f35bb5bf285c330f480ae1505870324860c5b21",
-            "e9bf819da69b8bbbc8661e48266399d8f6cf0e17",
-            "c97691596eec279ef9191a9b3bba583a17139d5a",
-            "d5aba406edc9d2618fc9d6ffccd257fe593e4283",
-            "957ae4d495cf8fcb5475c6c2f1bce801096b68a5",
-            "d6572c3a80607bd095b7288426a4d1352349f961",
-            "48838a3c768e3d1bcab44197d800145cfd0719d6",
-            "7d5f9450cf75a3aaf17250257c16daa814063e4a",
-            "a4fb55e943abf25055725245b0779cf527069a78",
-            "27f9a9930616437f7bdfa26da7c00f274657e767"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "155ec463f6a854ac14ccd5e2dda8017ce42a508a"
         ],
-        "pr_closest_bic": "https://github.com/yaml/pyyaml/commit/155ec463f6a854ac14ccd5e2dda8017ce42a508a",
+        "pr_closest_bic": null,
         "Title": "WIP: Another safe_load API attempt",
         "Created At": "2018-07-01T19:46:03Z"
     },
@@ -8529,16 +8316,12 @@
         "pr_target_bic": "https://github.com/yargs/y18n/pull/95",
         "Closest PR": "https://github.com/yargs/y18n/pull/139",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "4d7ae94bcb42e84164e2180366474b1cd321ed94"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "4d7ae94bcb42e84164e2180366474b1cd321ed94"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "4d7ae94bcb42e84164e2180366474b1cd321ed94"
         ],
-        "pr_closest_bic": "https://github.com/yargs/y18n/pull/95",
+        "pr_closest_bic": null,
         "Title": "chore(deps): update dependency mocha to v9 - abandoned",
         "Created At": "2021-06-07T17:08:16Z"
     },
@@ -8836,17 +8619,12 @@
         "repo_name": "zephyrproject-rtos/zephyr",
         "Target PR": "https://github.com/zephyrproject-rtos/zephyr/pull/27891",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "2fe9d6cd68c38dfc21bb7414ce173e42fd2e4477"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "909ad8170c7feaae8c03ae3bc4aeafaed37d2cfa",
-            "f3a110bcb9d2f7e9b7a6933ef06b074064798128"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "2fe9d6cd68c38dfc21bb7414ce173e42fd2e4477"
         ],
-        "pr_target_bic": "https://github.com/zephyrproject-rtos/zephyr/pull/73047",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/zephyrproject-rtos/zephyr/pull/38148",
         "Closest Commit SHA": "21c6ca9487e0f77fb55412945a926b5c235b9f6d",
         "closest_inducing_commit_hash_pyszz": [

@@ -15,6 +15,6 @@ def split_json_file(input_file, output_prefix, max_items_per_file=10):
             json.dump(chunk, f, indent=4)
         print(f"File {output_file} created with {len(chunk)} items.")
               
-input_file = './json/raw_data/NVD-selected-NONSECUR.json'  
-output_prefix = './json/raw_data/NVD-NONSECUR'  
+input_file = ''  
+output_prefix = ''  
 split_json_file(input_file, output_prefix)

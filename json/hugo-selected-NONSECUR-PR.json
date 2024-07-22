@@ -76,32 +76,20 @@
         "repo_name": "apache/airflow",
         "Target PR": "https://github.com/apache/airflow/pull/16446",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "a03324382b2f891fbcecf5ff637213a08e9b877b"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "0fee73019d29d5611dd296efb2c92635e21070ab",
-            "b40dffa08547b610162f8cacfa75847f3c4ca364",
-            "d91c481ac9051316d0e61b02eda5a7e21bb6ac5b"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "a03324382b2f891fbcecf5ff637213a08e9b877b"
         ],
-        "pr_target_bic": "https://github.com/apache/airflow/pull/38499",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/apache/airflow/pull/24445",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "0fee73019d29d5611dd296efb2c92635e21070ab"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "0fee73019d29d5611dd296efb2c92635e21070ab",
-            "b40dffa08547b610162f8cacfa75847f3c4ca364",
-            "d91c481ac9051316d0e61b02eda5a7e21bb6ac5b"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "0fee73019d29d5611dd296efb2c92635e21070ab"
         ],
-        "pr_closest_bic": "https://github.com/apache/airflow/pull/34652",
+        "pr_closest_bic": null,
         "Title": "rename GKEStartPodOperator -> GKEPodOperator",
         "Created At": "2022-06-14T14:08:47Z"
     },
@@ -166,19 +154,12 @@
         "repo_name": "apache/kylin",
         "Target PR": "https://github.com/apache/kylin/pull/1193",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "3f9b9c83bedbce17be0dcac5af427c636353621a"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "ada7c4ee26cba3523d2af78039b1f72e5becc507",
-            "235e2a2c6f6f0ce8abbf0026e9dcbf7d232cd2ec",
-            "edab8698b6a9770ddc4cd00d9788d718d032b5e8",
-            "926e4d2b9a5427947ceefe3f960ab2849c97e80c"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "3f9b9c83bedbce17be0dcac5af427c636353621a"
         ],
-        "pr_target_bic": "https://github.com/apache/kylin/pull/2181",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/apache/kylin/pull/1108",
         "Closest Commit SHA": "d0d817ca734eebf26d12bff3e15a1c40a54270bf",
         "closest_inducing_commit_hash_pyszz": "-",
@@ -192,16 +173,12 @@
         "repo_name": "apache/pinot",
         "Target PR": "https://github.com/apache/pinot/pull/6774",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "02f554df9bd3e612ee6f6f27955a4306f8831c62"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "02f554df9bd3e612ee6f6f27955a4306f8831c62"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "02f554df9bd3e612ee6f6f27955a4306f8831c62"
         ],
-        "pr_target_bic": "https://github.com/apache/pinot/pull/13601",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/apache/pinot/pull/8511",
         "Closest Commit SHA": "bb46e466af122a0dcf0f2246db62615d699af625",
         "closest_inducing_commit_hash_pyszz": [
@@ -638,36 +615,20 @@
         "repo_name": "bytedeco/javacpp",
         "Target PR": "https://github.com/bytedeco/javacpp/pull/177",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5",
-            "c26e91aaada72dbd7b295206ad09b316a9f50fc6",
-            "190f6dd67d7a4c93ec9ac92f39d8332e90363308",
-            "45daaa690059ca65a12fdbc965beb8f0aebb6dbc",
-            "d25d7e4b393620c54ba4b3a9b8f5c7be76343a54"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
         ],
-        "pr_target_bic": "https://github.com/bytedeco/javacpp/commit/78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/bytedeco/javacpp/pull/235",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5",
-            "c26e91aaada72dbd7b295206ad09b316a9f50fc6",
-            "190f6dd67d7a4c93ec9ac92f39d8332e90363308",
-            "45daaa690059ca65a12fdbc965beb8f0aebb6dbc",
-            "d25d7e4b393620c54ba4b3a9b8f5c7be76343a54"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
         ],
-        "pr_closest_bic": "https://github.com/bytedeco/javacpp/commit/78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5",
+        "pr_closest_bic": null,
         "Title": "Update README.md",
         "Created At": "2018-03-28T04:15:53Z"
     },
@@ -675,16 +636,12 @@
         "repo_name": "crate/crate",
         "Target PR": "https://github.com/crate/crate/pull/11842",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "2d40b150bdd47224c8c7d865ddb6699fb112262f"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "2d40b150bdd47224c8c7d865ddb6699fb112262f"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "2d40b150bdd47224c8c7d865ddb6699fb112262f"
         ],
-        "pr_target_bic": "https://github.com/crate/crate/pull/16098",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/crate/crate/pull/13165",
         "Closest Commit SHA": "28e9e9b1323213f0270fc6e0061156beb441e665",
         "closest_inducing_commit_hash_pyszz": [
@@ -785,46 +742,20 @@
         "repo_name": "django/django",
         "Target PR": "https://github.com/django/django/pull/5949",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "9c19aff7c7561e3a82978a272ecdaad40dda5c00",
-            "14d026cccb144c6877294ba4cd4e03ebf0842498",
-            "f9a33e3c3f4cfbff60522cd54455e78c96a9d2a4",
-            "70499b25c708557fb9ee2264686cd172f4b2354e",
-            "3d734c09ff0138441dfe0a59010435871d17950f",
-            "44ffd8d06fabc07d8333f31439e8dd39ea87329b",
-            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3",
-            "30a01441347d5a2146af2944b29778fa0834d4be",
-            "ca74e563500e291480f1976b58fcd34aac768dca",
-            "c2cc80756b8949cdd87b88bbfdfee698ced441e0"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
         ],
-        "pr_target_bic": "https://github.com/django/django/pull/16703",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/django/django/pull/7807",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "9c19aff7c7561e3a82978a272ecdaad40dda5c00",
-            "14d026cccb144c6877294ba4cd4e03ebf0842498",
-            "f9a33e3c3f4cfbff60522cd54455e78c96a9d2a4",
-            "70499b25c708557fb9ee2264686cd172f4b2354e",
-            "3d734c09ff0138441dfe0a59010435871d17950f",
-            "44ffd8d06fabc07d8333f31439e8dd39ea87329b",
-            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3",
-            "30a01441347d5a2146af2944b29778fa0834d4be",
-            "ca74e563500e291480f1976b58fcd34aac768dca",
-            "c2cc80756b8949cdd87b88bbfdfee698ced441e0"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
         ],
-        "pr_closest_bic": "https://github.com/django/django/pull/16703",
+        "pr_closest_bic": null,
         "Title": "Fixed #23908 -- Always use DEFAULT_CONTENT_TYPE from global_settings \u2026",
         "Created At": "2017-01-06T20:07:21Z"
     },
@@ -875,18 +806,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2083",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "a0f1d99d22933fb4165245d56fa122ab05a8c087"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "7f7f46f6474c3aae7c901da5f2c09dd9cce2617e",
-            "a0f1d99d22933fb4165245d56fa122ab05a8c087",
-            "9e2ec0f242d99c168c977ebbbc34e26d90e849b8"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "a0f1d99d22933fb4165245d56fa122ab05a8c087"
         ],
-        "pr_closest_bic": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/2297",
+        "pr_closest_bic": null,
         "Title": "Add continuous security analysis",
         "Created At": "2021-04-09T12:02:57Z"
     },
@@ -6953,20 +6878,12 @@
         "pr_target_bic": "https://github.com/electron/electron/pull/20055",
         "Closest PR": "https://github.com/electron/electron/pull/35614",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
-            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
-            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
-            "9f328abe19186af292eea3757ac908bc793a987c"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
         ],
-        "pr_closest_bic": "https://github.com/electron/electron/pull/30193",
+        "pr_closest_bic": null,
         "Title": "fix: add support for ELECTRON_OZONE_PLATFORM_HINT environment variable",
         "Created At": "2022-09-08T17:41:28Z"
     },
@@ -7043,20 +6960,12 @@
         "repo_name": "electron/electron",
         "Target PR": "https://github.com/electron/electron/pull/30043",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
-            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
-            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
-            "9f328abe19186af292eea3757ac908bc793a987c"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
         ],
-        "pr_target_bic": "https://github.com/electron/electron/pull/30193",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/electron/electron/pull/34840",
         "Closest Commit SHA": "4cc3b85adc79dc4d65515a8d98390651ccb4754f",
         "closest_inducing_commit_hash_pyszz": [
@@ -7363,20 +7272,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/electron/electron/pull/11078",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
-            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
-            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
-            "9f328abe19186af292eea3757ac908bc793a987c"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
         ],
-        "pr_closest_bic": "https://github.com/electron/electron/pull/30193",
+        "pr_closest_bic": null,
         "Title": "Fix address of Korea Community",
         "Created At": "2017-11-10T08:09:49Z"
     },
@@ -7384,36 +7285,20 @@
         "repo_name": "electron/electron",
         "Target PR": "https://github.com/electron/electron/pull/7671",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
-            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
-            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
-            "9f328abe19186af292eea3757ac908bc793a987c"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
         ],
-        "pr_target_bic": "https://github.com/electron/electron/pull/30193",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/electron/electron/pull/10783",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
-            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
-            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
-            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
-            "9f328abe19186af292eea3757ac908bc793a987c"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
         ],
-        "pr_closest_bic": "https://github.com/electron/electron/pull/30193",
+        "pr_closest_bic": null,
         "Title": "Windows 10 focus fix",
         "Created At": "2017-10-13T11:21:25Z"
     },
@@ -7546,16 +7431,12 @@
         "repo_name": "expressjs/express",
         "Target PR": "https://github.com/expressjs/express/pull/4028",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
         ],
-        "pr_target_bic": "https://github.com/expressjs/express/pull/4143",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/expressjs/express/pull/4370",
         "Closest Commit SHA": "5596222f6a6e0eea74f6fb38915b071d98122a2f",
         "closest_inducing_commit_hash_pyszz": [
@@ -7575,28 +7456,20 @@
         "repo_name": "expressjs/express",
         "Target PR": "https://github.com/expressjs/express/pull/4692",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
         ],
-        "pr_target_bic": "https://github.com/expressjs/express/pull/4143",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/expressjs/express/pull/4922",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "67e64ca4c1c5b26cf971e6d6c35278d6357dc6bb"
         ],
-        "pr_closest_bic": "https://github.com/expressjs/express/pull/4143",
+        "pr_closest_bic": null,
         "Title": "App.listen() only accepting numbers",
         "Created At": "2022-06-09T03:14:26Z"
     },
@@ -7616,27 +7489,12 @@
         "pr_target_bic": "https://github.com/facebook/create-react-app/pull/8620",
         "Closest PR": "https://github.com/facebook/create-react-app/pull/10938",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "657739fb15a39fc2bb608ff446c308406afe6388"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "e8319da3d8d4ebbda5f6a18f0a7db74751513734",
-            "bb64e31a81eb12d688c14713dce812143688750a",
-            "7b196fa4d6f4a98b93a460440adfef206e214652",
-            "4c0c81953d090dbf122e126f2b6b8c803d4a0569",
-            "04482a6c2c6639c19deb330c48e4fa5573a1654e",
-            "9788522d8747b506f469d2fcb6ff696332271ab9",
-            "7bdeced8495370b683c08b86bc84b66af83f2f0a",
-            "f0a837c1f07ebd963ddbba2c2937d04fc1b79d40",
-            "ece4dbf3a58168f07b8cad631aef569cd89d3c2f",
-            "8b0d21fb3d35312c169249fc89ae73922ab69b88",
-            "f99167c014a728ec856bda14f87181d90b050813",
-            "657739fb15a39fc2bb608ff446c308406afe6388"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "657739fb15a39fc2bb608ff446c308406afe6388"
         ],
-        "pr_closest_bic": "https://github.com/facebook/create-react-app/pull/11723",
+        "pr_closest_bic": null,
         "Title": "fix: add missing \"-\" in create app command",
         "Created At": "2021-05-08T13:01:00Z"
     },
@@ -7811,16 +7669,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/frappe/erpnext/pull/26310",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "900a8fb21a9a22d4f683912035777c33341730d6"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "900a8fb21a9a22d4f683912035777c33341730d6"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "900a8fb21a9a22d4f683912035777c33341730d6"
         ],
-        "pr_closest_bic": "https://github.com/frappe/erpnext/pull/25595",
+        "pr_closest_bic": null,
         "Title": "fix: Update Ewaybill Tool Version",
         "Created At": "2021-07-03T07:25:27Z"
     },
@@ -8174,24 +8028,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/grpc/grpc/pull/16889",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "15ef046440ef0f4e2e4a9ca4db7cf17b76377162"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "2fd63f2f8102e4a8259fd7d317afe84fc2182326",
-            "c08eb4fc41c170c549170067e9b520662bc7b687",
-            "0f1afec5a8906ae3f00d58ff2499ad7e7cfb577e",
-            "549460839b9b503c9fed9e2ba4ddd9f4f6fbded0",
-            "2fc9dd15467ba23bbb325d4be30d9509dad0974f",
-            "7e7b4fd1a429b0fb5b9e302baaef7b84a95969a8",
-            "34a7e76359370286a0eb1508172afd59e4d11359",
-            "f1e79853ed3de5fdbbc6a2eb5530074b1c40e5b1",
-            "1c4b138322bbe5f6091092013b318aece2d3a55a"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "15ef046440ef0f4e2e4a9ca4db7cf17b76377162"
         ],
-        "pr_closest_bic": "https://github.com/grpc/grpc/pull/32807",
+        "pr_closest_bic": null,
         "Title": "Repro mem corruption bug",
         "Created At": "2018-10-15T19:15:36Z"
     },
@@ -8216,18 +8058,12 @@
         "repo_name": "hazelcast/hazelcast",
         "Target PR": "https://github.com/hazelcast/hazelcast/pull/13291",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "6b7bd04da52628fd6af87a657990553d67fddb44"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "288f6cfae2bdcd3394ffbe83cd216b52940eba15",
-            "b24f43135709d02c0e1dc85b46352103d335eff8",
-            "6b7bd04da52628fd6af87a657990553d67fddb44"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "6b7bd04da52628fd6af87a657990553d67fddb44"
         ],
-        "pr_target_bic": "https://github.com/hazelcast/hazelcast/pull/3880",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/hazelcast/hazelcast/pull/15167",
         "Closest Commit SHA": "0316587ddea32e6702bd24b0c3fc15c553e47573",
         "closest_inducing_commit_hash_pyszz": [
@@ -8287,16 +8123,12 @@
         "pr_target_bic": "https://github.com/home-assistant/core/pull/2967",
         "Closest PR": "https://github.com/home-assistant/core/pull/17123",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "04bf12642546df9b29b5b7094b486e57f65c6396"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "ec937781cab2239788239ff70fe6174f60b5f0e1"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "04bf12642546df9b29b5b7094b486e57f65c6396"
         ],
-        "pr_closest_bic": "https://github.com/home-assistant/core/pull/99477",
+        "pr_closest_bic": null,
         "Title": "WIP: Add config entry and device registry entry for SimpliSafe",
         "Created At": "2018-10-04T03:24:13Z"
     },
@@ -8304,28 +8136,20 @@
         "repo_name": "home-assistant/core",
         "Target PR": "https://github.com/home-assistant/core/pull/18714",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "1e72c2f94d5de5aac405059a8a0b90a48191aa42"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "ec937781cab2239788239ff70fe6174f60b5f0e1"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "1e72c2f94d5de5aac405059a8a0b90a48191aa42"
         ],
-        "pr_target_bic": "https://github.com/home-assistant/core/pull/120727",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/home-assistant/core/pull/29079",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "04bf12642546df9b29b5b7094b486e57f65c6396"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "ec937781cab2239788239ff70fe6174f60b5f0e1"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "04bf12642546df9b29b5b7094b486e57f65c6396"
         ],
-        "pr_closest_bic": "https://github.com/home-assistant/core/pull/99477",
+        "pr_closest_bic": null,
         "Title": "Add flux_led wait method",
         "Created At": "2019-11-25T21:32:11Z"
     },
@@ -8333,16 +8157,12 @@
         "repo_name": "home-assistant/core",
         "Target PR": "https://github.com/home-assistant/core/pull/19484",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "1e72c2f94d5de5aac405059a8a0b90a48191aa42"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "ec937781cab2239788239ff70fe6174f60b5f0e1"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "1e72c2f94d5de5aac405059a8a0b90a48191aa42"
         ],
-        "pr_target_bic": "https://github.com/home-assistant/core/pull/120727",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/home-assistant/core/pull/30096",
         "Closest Commit SHA": "3e7699b886e393778fec7041599833d503929b3b",
         "closest_inducing_commit_hash_pyszz": "-",
@@ -8368,17 +8188,12 @@
         "pr_target_bic": "https://github.com/huggingface/transformers/pull/10818",
         "Closest PR": "https://github.com/huggingface/transformers/pull/16273",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "baf1daa58eb2960248fd9f7c3af0ed245b8ce4af"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "3081d3868e8cefb2d851e713ac7e94cf5f449f28",
-            "baf1daa58eb2960248fd9f7c3af0ed245b8ce4af"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "baf1daa58eb2960248fd9f7c3af0ed245b8ce4af"
         ],
-        "pr_closest_bic": "https://github.com/huggingface/transformers/pull/25095",
+        "pr_closest_bic": null,
         "Title": "added type hints for Blenderbot and BlenderbotSmall (TF & PyTorch)",
         "Created At": "2022-03-19T19:24:28Z"
     },
@@ -9355,28 +9170,20 @@
         "repo_name": "obsidiandynamics/kafdrop",
         "Target PR": "https://github.com/obsidiandynamics/kafdrop/pull/312",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "a709670cd50520ac48dcaeb78e05512dae9e9761"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "a709670cd50520ac48dcaeb78e05512dae9e9761"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "a709670cd50520ac48dcaeb78e05512dae9e9761"
         ],
-        "pr_target_bic": "https://github.com/obsidiandynamics/kafdrop/pull/654",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/obsidiandynamics/kafdrop/pull/450",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "a709670cd50520ac48dcaeb78e05512dae9e9761"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "a709670cd50520ac48dcaeb78e05512dae9e9761"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "a709670cd50520ac48dcaeb78e05512dae9e9761"
         ],
-        "pr_closest_bic": "https://github.com/obsidiandynamics/kafdrop/pull/654",
+        "pr_closest_bic": null,
         "Title": "Bump spring-boot-starter-parent from 2.7.5 to 3.0.0",
         "Created At": "2022-11-25T16:00:48Z"
     },
@@ -9384,44 +9191,20 @@
         "repo_name": "opencv/opencv",
         "Target PR": "https://github.com/opencv/opencv/pull/1831",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "e3858cc5a39127d098879f7ebca144a280bff3cb"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "0ac2f0e04ce014caa7d7a7f0076e561ece90eacf",
-            "e3858cc5a39127d098879f7ebca144a280bff3cb",
-            "8d6b8b45b6450747146e6c9c7a11e2102903b146",
-            "1bd382c1d0dc7ce65b352ffb0628b5e9bb431f28",
-            "1feb3838b51c0b27b0f3e64f02358ff5ef3111b8",
-            "c2b7c1f13b998a23dc9e1c8f18324b9114052782",
-            "71a22e45b0448aa9dc496012ac43326151a6d40b",
-            "4995aecd62e0a65cfb9a0f75ccbe2e16d43f6c5f",
-            "78c5e41c2378f5fc44e6640a9249a16085906390"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "e3858cc5a39127d098879f7ebca144a280bff3cb"
         ],
-        "pr_target_bic": "https://github.com/opencv/opencv/pull/25147",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/opencv/opencv/pull/3429",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "e3858cc5a39127d098879f7ebca144a280bff3cb"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "0ac2f0e04ce014caa7d7a7f0076e561ece90eacf",
-            "e3858cc5a39127d098879f7ebca144a280bff3cb",
-            "8d6b8b45b6450747146e6c9c7a11e2102903b146",
-            "1bd382c1d0dc7ce65b352ffb0628b5e9bb431f28",
-            "1feb3838b51c0b27b0f3e64f02358ff5ef3111b8",
-            "c2b7c1f13b998a23dc9e1c8f18324b9114052782",
-            "71a22e45b0448aa9dc496012ac43326151a6d40b",
-            "4995aecd62e0a65cfb9a0f75ccbe2e16d43f6c5f",
-            "78c5e41c2378f5fc44e6640a9249a16085906390"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "e3858cc5a39127d098879f7ebca144a280bff3cb"
         ],
-        "pr_closest_bic": "https://github.com/opencv/opencv/pull/25147",
+        "pr_closest_bic": null,
         "Title": "Fix debug build broken issue.",
         "Created At": "2014-11-17T05:19:25Z"
     },
@@ -9465,16 +9248,12 @@
         "pr_target_bic": "https://github.com/oracle/opengrok/pull/3399",
         "Closest PR": "https://github.com/oracle/opengrok/pull/3833",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "688531bb2f063a15e94cf2881cf7cc218cb86537"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "688531bb2f063a15e94cf2881cf7cc218cb86537"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "688531bb2f063a15e94cf2881cf7cc218cb86537"
         ],
-        "pr_closest_bic": "https://github.com/oracle/opengrok/commit/688531bb2f063a15e94cf2881cf7cc218cb86537",
+        "pr_closest_bic": null,
         "Title": "lucene 9.1.0",
         "Created At": "2021-12-09T12:34:44Z"
     },
@@ -9625,16 +9404,12 @@
         "repo_name": "python/cpython",
         "Target PR": "https://github.com/python/cpython/pull/22572",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "43709d5d5424725ec061de2c12c3761affde69ef"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "f27593a87c344f3774ca73644a11cbd5614007ef"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "43709d5d5424725ec061de2c12c3761affde69ef"
         ],
-        "pr_target_bic": "https://github.com/python/cpython/pull/121088",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/python/cpython/pull/28748",
         "Closest Commit SHA": "7fef8476629775c790f522a073ab279887bd81f9",
         "closest_inducing_commit_hash_pyszz": [
@@ -9679,23 +9454,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/pytorch/pytorch/pull/85365",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "7b9e6430edaac6001af65a420b089c8651c9fc95"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "2b1b055a96745cf4bca7090efa777dc359538171",
-            "e408d9ca250dc7e808c8f9b396e6eb671dfb5736",
-            "236fbcbdf44ea429b11ac44c1814af56ca243605",
-            "01694eaa56adb343f5d3d15b53d2962615dafe17",
-            "98ffdf930c5bb93f547ff94a5d3af1f194cddbbc",
-            "cfd06bd60cc959622292112ba535a2aadc58f7c7",
-            "96a067b190be82a0029f7bf2fa891eed15f2d5fb",
-            "7b9e6430edaac6001af65a420b089c8651c9fc95"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "7b9e6430edaac6001af65a420b089c8651c9fc95"
         ],
-        "pr_closest_bic": "https://github.com/pytorch/pytorch/commit/7b9e6430edaac6001af65a420b089c8651c9fc95",
+        "pr_closest_bic": null,
         "Title": "fixup base",
         "Created At": "2022-09-20T19:12:23Z"
     },
@@ -9861,19 +9625,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/redis/redis/pull/11351",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "e57a4db5d753e427317075071b0992fd965168b3"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "e57a4db5d753e427317075071b0992fd965168b3",
-            "cf61ad14cc45787e57d9af3f28f41462ac0f2aa2",
-            "f0c5052aa8de084f54b3eda7848f17b122907509",
-            "a527c3e8148881c4a33b2c78ba1cb0889b4893fc"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "e57a4db5d753e427317075071b0992fd965168b3"
         ],
-        "pr_closest_bic": "https://github.com/redis/redis/pull/9881",
+        "pr_closest_bic": null,
         "Title": "Bump vmactions/freebsd-vm from 0.2.4 to 0.2.9",
         "Created At": "2022-10-03T15:15:17Z"
     },
@@ -9881,28 +9638,20 @@
         "repo_name": "rovo89/XposedInstaller",
         "Target PR": "https://github.com/rovo89/XposedInstaller/pull/293",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "28a0f9beb01f90219aa728acb3fec09478801f6c"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "28a0f9beb01f90219aa728acb3fec09478801f6c"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "28a0f9beb01f90219aa728acb3fec09478801f6c"
         ],
-        "pr_target_bic": "https://github.com/rovo89/XposedInstaller/commit/28a0f9beb01f90219aa728acb3fec09478801f6c",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/rovo89/XposedInstaller/pull/295",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "28a0f9beb01f90219aa728acb3fec09478801f6c"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "28a0f9beb01f90219aa728acb3fec09478801f6c"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "28a0f9beb01f90219aa728acb3fec09478801f6c"
         ],
-        "pr_closest_bic": "https://github.com/rovo89/XposedInstaller/commit/28a0f9beb01f90219aa728acb3fec09478801f6c",
+        "pr_closest_bic": null,
         "Title": "Enable copying text from Logs screen",
         "Created At": "2015-08-18T09:31:22Z"
     },
@@ -9923,16 +9672,12 @@
         "pr_target_bic": "https://github.com/runelite/runelite/commit/82cef9329663833ee800575d32b52c97fda34e4a",
         "Closest PR": "https://github.com/runelite/runelite/pull/13330",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "7b7e394fd9b1c040c152636dea31cb265c7bd33a"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "7b7e394fd9b1c040c152636dea31cb265c7bd33a"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "7b7e394fd9b1c040c152636dea31cb265c7bd33a"
         ],
-        "pr_closest_bic": "https://github.com/runelite/runelite/commit/7b7e394fd9b1c040c152636dea31cb265c7bd33a",
+        "pr_closest_bic": null,
         "Title": "hiscore: Fix lookups on despawned players",
         "Created At": "2021-03-12T02:30:21Z"
     },
@@ -9987,16 +9732,12 @@
         "pr_target_bic": null,
         "Closest PR": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2582",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ],
-        "pr_closest_bic": "https://github.com/spring-cloud/spring-cloud-gateway/commit/fa41264ea775f12b3ae5fefed5609f16c09c24c2",
+        "pr_closest_bic": null,
         "Title": "Pass preflight request to upstream. Fixes gh-2472",
         "Created At": "2022-04-10T09:21:56Z"
     },
@@ -10004,28 +9745,20 @@
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "Target PR": "https://github.com/spring-cloud/spring-cloud-gateway/pull/52",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ],
-        "pr_target_bic": "https://github.com/spring-cloud/spring-cloud-gateway/commit/fa41264ea775f12b3ae5fefed5609f16c09c24c2",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/spring-cloud/spring-cloud-gateway/pull/520",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ],
-        "pr_closest_bic": "https://github.com/spring-cloud/spring-cloud-gateway/commit/fa41264ea775f12b3ae5fefed5609f16c09c24c2",
+        "pr_closest_bic": null,
         "Title": "Add global cors config to simlple URL Handler mapping. Spring webflux\u2026",
         "Created At": "2018-08-27T17:28:58Z"
     },
@@ -10033,28 +9766,20 @@
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "Target PR": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2006",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ],
-        "pr_target_bic": "https://github.com/spring-cloud/spring-cloud-gateway/commit/fa41264ea775f12b3ae5fefed5609f16c09c24c2",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/spring-cloud/spring-cloud-gateway/pull/1863",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ],
-        "pr_closest_bic": "https://github.com/spring-cloud/spring-cloud-gateway/commit/fa41264ea775f12b3ae5fefed5609f16c09c24c2",
+        "pr_closest_bic": null,
         "Title": "[fix #1861] fix retry body while retry iteration",
         "Created At": ""
     },
@@ -10062,16 +9787,12 @@
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "Target PR": "https://github.com/spring-cloud/spring-cloud-gateway/pull/879",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "fa41264ea775f12b3ae5fefed5609f16c09c24c2"
         ],
-        "pr_target_bic": "https://github.com/spring-cloud/spring-cloud-gateway/commit/fa41264ea775f12b3ae5fefed5609f16c09c24c2",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/spring-cloud/spring-cloud-gateway/pull/772",
         "Closest Commit SHA": "4eb9dd0f01badf0460ac189f0441b5f842148c7e",
         "closest_inducing_commit_hash_pyszz": "-",
@@ -10289,30 +10010,20 @@
         "repo_name": "tensorflow/tensorflow",
         "Target PR": "https://github.com/tensorflow/tensorflow/pull/17459",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "866723f3e86b8c08d8160ccf1ea5274c97c68199"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "6530c155939db305165f42b99e1c525dc76a36a8",
-            "632b9bd788790ea10869f8248df842007e250893"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "866723f3e86b8c08d8160ccf1ea5274c97c68199"
         ],
-        "pr_target_bic": "https://github.com/tensorflow/tensorflow/commit/866723f3e86b8c08d8160ccf1ea5274c97c68199",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/tensorflow/tensorflow/pull/26374",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "6530c155939db305165f42b99e1c525dc76a36a8"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "6530c155939db305165f42b99e1c525dc76a36a8",
-            "632b9bd788790ea10869f8248df842007e250893"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "6530c155939db305165f42b99e1c525dc76a36a8"
         ],
-        "pr_closest_bic": "https://github.com/tensorflow/tensorflow/pull/71352",
+        "pr_closest_bic": null,
         "Title": "Make weighted_cross_entropy_with_logits and sigmoid_cross_entropy_with_logits consistent",
         "Created At": "2019-03-06T01:35:40Z"
     },
@@ -10320,28 +10031,20 @@
         "repo_name": "testcontainers/testcontainers-java",
         "Target PR": "https://github.com/testcontainers/testcontainers-java/pull/1296",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "1f291eb5eca5f7ad3cd8461bfbac2605afd45585"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "1f291eb5eca5f7ad3cd8461bfbac2605afd45585"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "1f291eb5eca5f7ad3cd8461bfbac2605afd45585"
         ],
-        "pr_target_bic": "https://github.com/testcontainers/testcontainers-java/pull/8614",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/testcontainers/testcontainers-java/pull/2406",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": [
-            "1f291eb5eca5f7ad3cd8461bfbac2605afd45585"
-        ],
-        "closest_inducing_commit_hash_pd": [
-            "1f291eb5eca5f7ad3cd8461bfbac2605afd45585"
-        ],
+        "closest_inducing_commit_hash_pyszz": [],
+        "closest_inducing_commit_hash_pd": [],
         "closest_matched": [
             "1f291eb5eca5f7ad3cd8461bfbac2605afd45585"
         ],
-        "pr_closest_bic": "https://github.com/testcontainers/testcontainers-java/pull/8614",
+        "pr_closest_bic": null,
         "Title": "Bump aws-java-sdk-logs from 1.11.737 to 1.11.738 in /modules/localstack",
         "Created At": "2020-03-06T05:22:26Z"
     },
@@ -10414,16 +10117,12 @@
         "repo_name": "TryGhost/Ghost",
         "Target PR": "https://github.com/TryGhost/Ghost/pull/1729",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "d0db527b8d895965ed6c1bfc8efd2116a6ca7f75"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "d0db527b8d895965ed6c1bfc8efd2116a6ca7f75"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "d0db527b8d895965ed6c1bfc8efd2116a6ca7f75"
         ],
-        "pr_target_bic": "https://github.com/TryGhost/Ghost/commit/d0db527b8d895965ed6c1bfc8efd2116a6ca7f75",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/TryGhost/Ghost/pull/4688",
         "Closest Commit SHA": "b00279885f5a17918e3d3e89c5117c25e14c6933",
         "closest_inducing_commit_hash_pyszz": "-",
@@ -10518,16 +10217,12 @@
         "repo_name": "vercel/next.js",
         "Target PR": "https://github.com/vercel/next.js/pull/31867",
         "Target Commit SHA": null,
-        "target_inducing_commit_hash_pyszz": [
-            "843332f0bd4eb9eef96d3333c58030b78879e566"
-        ],
-        "target_inducing_commit_hash_pd": [
-            "0613902dd2d1e9ffe596111a5216f0341c2d839f"
-        ],
+        "target_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
         "target_matched": [
             "843332f0bd4eb9eef96d3333c58030b78879e566"
         ],
-        "pr_target_bic": "https://github.com/vercel/next.js/pull/64305",
+        "pr_target_bic": null,
         "Closest PR": "https://github.com/vercel/next.js/pull/43386",
         "Closest Commit SHA": "eaaa193751f421c19eaaad183831f5450702fe46",
         "closest_inducing_commit_hash_pyszz": [
