@@ -1,0 +1,308 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54938",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71448",
+        "Title": "[Tests] Ignore all indices when testing global state for snapshot and restore (#71324)",
+        "Created At": "2021-04-08T02:51:37Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "9c9987293cf5ac0b04ea0290fa9a2a31affe2bcb",
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "5f8dd9167097d6fc05f7fe34db43faec4b78601f"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54547",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71156",
+        "Title": "Fix setup code in GeoIpCliTests",
+        "Created At": "2021-03-31T21:51:07Z",
+        "Target Commit SHA": "6efa5c5d6b0e2bbed50ed59176d06c91926bbf21",
+        "target_inducing_commit_hash_pyszz": [
+            "354f131449228ba4cfa9a9d31830b08ac20f7ffb"
+        ],
+        "Closest Commit SHA": "ac0fc017ab0cbdac954053b9c56b9b1845f2fa77",
+        "closest_inducing_commit_hash_pyszz": [
+            "b07851261c35784b813cdeab45da870ce3f5d20e"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "9467dbf1208970b7e8e60d3650b53dc0e6151514",
+            "8b0526ec9e3a45890a5ee7d5b26d98ec95324a71",
+            "0ae6e531735042d0e26e3307bfd6f0a8e4d6922a",
+            "cc0fdaf3e34ddcc8f68abe557a25198670a1806f",
+            "4101fc4e3d0bd3ccc64c99e1bdd93dee6d8df4d8",
+            "d7c5d8049afa2edea2cf13c1ec423647bea6cae5",
+            "ba1ced90960271fc4527bba96a9413a4f3ac7bc5",
+            "dc57eece75334b4fb2875082790eda3cf5e5088d",
+            "48790b0aad0f8cc12da288f1bc4a5bd6a3566d38",
+            "20c6c9c542835f1620a495c54f2d84235f338fa7",
+            "a9cc0e1520c9804b0833403af700e9c1d240337b",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "b59b6bbdd4dcf63477161a9b6ab3ee25a84e915b",
+            "e07ae87cf40f711d9407ba669d7c9f81252c71c3",
+            "1da7c591c5229c83964cefbb773b56130a4df7bb",
+            "c593c8b9a2ec78d0037d8e3b4153fc8b1ed3ff8c",
+            "2d893df7e92a4f163c083d0d8259dfbdd0c44a39",
+            "a984f8afb385a75e467a3edbebcd3956d21436c4",
+            "4ab16c67115342e47d1ae9138f90c579140f3b5e",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f",
+            "7d60f6b365067e6c75132725ce772743cdd6c155",
+            "354f131449228ba4cfa9a9d31830b08ac20f7ffb",
+            "5fa36dad0b8503bef3d91173bb342da555445c26",
+            "45140ef9efc201ba2d775e8fa0253cf25de3650e",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "b948d3156e45b9c3c7c5e9bb0b6a4e8c86dd2d14",
+            "21e2735b3e91b779244d17fdafb626aebe4ca2fb"
+        ],
+        "target_matched": [
+            "354f131449228ba4cfa9a9d31830b08ac20f7ffb"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "b07851261c35784b813cdeab45da870ce3f5d20e",
+            "61fe14565a1c33b81d51f11751a5b3c553bf974e"
+        ],
+        "closest_matched": [
+            "b07851261c35784b813cdeab45da870ce3f5d20e"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54053",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70767",
+        "Title": "[7.12] Accept any type in after in composite aggs if the field is unmapped (#70518)",
+        "Created At": "2021-03-23T16:11:56Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "0f50c1ef75466164629560061d0b0fdaf8d224de",
+        "closest_inducing_commit_hash_pyszz": [
+            "d755fcfd4bc8ffc1c23210443e14fe1e8ff36f7b"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "e33d107f840602344774d1b71774d04f834c74e0"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/54043",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70767",
+        "Title": "[7.12] Accept any type in after in composite aggs if the field is unmapped (#70518)",
+        "Created At": "2021-03-23T16:11:56Z",
+        "Target Commit SHA": "0bee3f7410107210f712195836dc7d7442ad3cba",
+        "target_inducing_commit_hash_pyszz": [
+            "a2a47567369ff9e321bf19f05f08daddc02a54b9"
+        ],
+        "Closest Commit SHA": "0f50c1ef75466164629560061d0b0fdaf8d224de",
+        "closest_inducing_commit_hash_pyszz": [
+            "d755fcfd4bc8ffc1c23210443e14fe1e8ff36f7b"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "20c6c9c542835f1620a495c54f2d84235f338fa7",
+            "084179f4572c95b94d6f072eacf39b76aac4d36a",
+            "ba1ced90960271fc4527bba96a9413a4f3ac7bc5",
+            "b0607ce3440013fbd63d565e569a271101ef73e5",
+            "8b0526ec9e3a45890a5ee7d5b26d98ec95324a71",
+            "ecd127c9496ed1740b1900d662a89f15fa5add22",
+            "f666ceeb78d802f1fc99335e0837416110225ea5",
+            "a2a47567369ff9e321bf19f05f08daddc02a54b9"
+        ],
+        "target_matched": [
+            "a2a47567369ff9e321bf19f05f08daddc02a54b9"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "e33d107f840602344774d1b71774d04f834c74e0"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/53527",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/70351",
+        "Title": "[7.12] Fix failing SetProcessorTests.testCopyFromOtherField test (#70150)",
+        "Created At": "2021-03-12T12:29:06Z",
+        "Target Commit SHA": "49131091614c9270bdfb35efa7f0aaf29c5829b6",
+        "target_inducing_commit_hash_pyszz": [
+            "5a12e5856a4eca1a4de7b0c9da58248e47201f66"
+        ],
+        "Closest Commit SHA": "ee816117fc97bdc098857b18f2911a8f2c45e26d",
+        "closest_inducing_commit_hash_pyszz": [
+            "5af172da66854a226bf516a547a0f3417d3774f2"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "5a12e5856a4eca1a4de7b0c9da58248e47201f66",
+            "150735c29c80762fa39743db738f52f126fd9a2c"
+        ],
+        "target_matched": [
+            "5a12e5856a4eca1a4de7b0c9da58248e47201f66"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "11dd465610e28ef1f9d0d74a2b8b0dcca731c01f",
+            "5af172da66854a226bf516a547a0f3417d3774f2"
+        ],
+        "closest_matched": [
+            "5af172da66854a226bf516a547a0f3417d3774f2"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52811",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69586",
+        "Title": "Remove deprecated jcenter repository from our build (#69517) (7.x backport)",
+        "Created At": "2021-02-25T07:47:46Z",
+        "Target Commit SHA": "f5ba0f6fd19b21732967874c1b29c53827826795",
+        "target_inducing_commit_hash_pyszz": [
+            "5d9c2706085e6d68c98227fbe6df747892af3de6"
+        ],
+        "Closest Commit SHA": "6d00f020528384b7f65e57ca39e2e2746e536660",
+        "closest_inducing_commit_hash_pyszz": [
+            "c04dfdeff992720c705266b7abc709963b891794"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "8b0526ec9e3a45890a5ee7d5b26d98ec95324a71",
+            "5d9c2706085e6d68c98227fbe6df747892af3de6",
+            "fe36861ada3e75259ff601a9f6b0e1cd5fbb8afe",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "7b9ca62174216097493e83d1f127c1098c4f6737",
+            "295051ee8c05b66df931a2605ce7d916407b98d6"
+        ],
+        "target_matched": [
+            "5d9c2706085e6d68c98227fbe6df747892af3de6"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "68dd431bc9b142ec934d80bb4bedabfd7c3b8c6d",
+            "bdd7347bbf5ef2bdfbbbc2deab4bbb2c7b13b8af",
+            "6344e9a3ce485d6deafb78082dc5f757788e83ec",
+            "c04dfdeff992720c705266b7abc709963b891794",
+            "09a9e2236ce4ccff9b3bb0b5d2a57b7b4c229912",
+            "2e278eaf3ca2665badc6c747376ae2b05ef8b79f",
+            "561436eba36d2f986ac4a2d262ae880d3db197b1",
+            "b49f461bf1e1a6adda090b956ef1dc56fcbf4dec"
+        ],
+        "closest_matched": [
+            "c04dfdeff992720c705266b7abc709963b891794"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52691",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69404",
+        "Title": "[Backport] Fix string replacement in certutil http test",
+        "Created At": "2021-02-23T05:37:53Z",
+        "Target Commit SHA": "cc0fdaf3e34ddcc8f68abe557a25198670a1806f",
+        "target_inducing_commit_hash_pyszz": [
+            "d02e1e3770f2d65231450db465de0fe334775428"
+        ],
+        "Closest Commit SHA": "89bf0dbb45fc939736c63b5061e25072830d8f2d",
+        "closest_inducing_commit_hash_pyszz": [
+            "32e46bf5526991a2adb23c69e937124c49584e1a"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "3c94f805d8fbc53863e5b916f04a54c625ab5756",
+            "d02e1e3770f2d65231450db465de0fe334775428",
+            "5c9f79534f4c493f254fc502da804e7da5cf9782",
+            "9fb5c811fc04e13e2b4d010ea98656d4af6207a6",
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174"
+        ],
+        "target_matched": [
+            "d02e1e3770f2d65231450db465de0fe334775428"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "2bb7b53e419a1ebdb2f5bf529f48812aabc26260",
+            "32e46bf5526991a2adb23c69e937124c49584e1a"
+        ],
+        "closest_matched": [
+            "32e46bf5526991a2adb23c69e937124c49584e1a"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52579",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69282",
+        "Title": "[ML] Fix logic for moving .ml-state-write alias from legacy to new",
+        "Created At": "2021-02-19T15:11:14Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "acea14969e5cf35337d434844be8ca827b0f534e",
+        "closest_inducing_commit_hash_pyszz": [
+            "e1c5ca421e49d0e6b88b90d89b19196c2f3a25fb"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "e1c5ca421e49d0e6b88b90d89b19196c2f3a25fb",
+            "2eb079b67f02cd928e4393675c4f2fb4dedf3dfb",
+            "d54d7f2be04b0c4069eedd00a1c576afe8fa8080"
+        ],
+        "closest_matched": [
+            "e1c5ca421e49d0e6b88b90d89b19196c2f3a25fb"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52347",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68951",
+        "Title": "[Backport 7.11]  Add a smoke test for security realms",
+        "Created At": "2021-02-12T13:31:47Z",
+        "Target Commit SHA": "284c978475e4e2683d10ed5019c35082ee5c8441",
+        "target_inducing_commit_hash_pyszz": [
+            "81227dc3892de76b2c22781a57865bef6028a959"
+        ],
+        "Closest Commit SHA": "405cd67dbf3cbfdd548f32b845b2590da4ef1f24",
+        "closest_inducing_commit_hash_pyszz": [
+            "556e5213a9238ec40db5dc6094c466307e38e725"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "8c156ed47c506c9f5db5ca94bcd3bb7d9b26ff72",
+            "81227dc3892de76b2c22781a57865bef6028a959"
+        ],
+        "target_matched": [
+            "81227dc3892de76b2c22781a57865bef6028a959"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "a8faf9768adb1c8a7426ceea59b776c977beaba8",
+            "cde126dbff1e443bdaa13b5d1b541dfb037db028",
+            "a95d4f4ee7e7ada4b1ddec96b8deef140f96c1a7",
+            "556e5213a9238ec40db5dc6094c466307e38e725"
+        ],
+        "closest_matched": [
+            "556e5213a9238ec40db5dc6094c466307e38e725"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52344",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68951",
+        "Title": "[Backport 7.11]  Add a smoke test for security realms",
+        "Created At": "2021-02-12T13:31:47Z",
+        "Target Commit SHA": "c3c84c690e1b49d2913f9789533b5d787ee8ef42",
+        "target_inducing_commit_hash_pyszz": [
+            "5b427d415e5de7bc326caa3df6e317e82a60855a"
+        ],
+        "Closest Commit SHA": "405cd67dbf3cbfdd548f32b845b2590da4ef1f24",
+        "closest_inducing_commit_hash_pyszz": [
+            "556e5213a9238ec40db5dc6094c466307e38e725"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "5b427d415e5de7bc326caa3df6e317e82a60855a"
+        ],
+        "target_matched": [
+            "5b427d415e5de7bc326caa3df6e317e82a60855a"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "a8faf9768adb1c8a7426ceea59b776c977beaba8",
+            "cde126dbff1e443bdaa13b5d1b541dfb037db028",
+            "a95d4f4ee7e7ada4b1ddec96b8deef140f96c1a7",
+            "556e5213a9238ec40db5dc6094c466307e38e725"
+        ],
+        "closest_matched": [
+            "556e5213a9238ec40db5dc6094c466307e38e725"
+        ]
+    }
+]
