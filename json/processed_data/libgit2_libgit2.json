@@ -1,1 +1,13 @@
-[{"repo_name": "libgit2/libgit2", "Target PR": "https://github.com/libgit2/libgit2/pull/4418", "Closest PR": "https://github.com/libgit2/libgit2/pull/4891", "Title": "refs: add support for core.logAllRefUpdates=always", "Created At": "2018-11-17T16:56:27Z", "Target Commit SHA": "4ab9567f6968f3cdd58ad260ba7782b6e46ca02e", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": null, "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "libgit2/libgit2",
+        "Target PR": "https://github.com/libgit2/libgit2/pull/4418",
+        "Closest PR": "https://github.com/libgit2/libgit2/pull/4891",
+        "Title": "refs: add support for core.logAllRefUpdates=always",
+        "Created At": "2018-11-17T16:56:27Z",
+        "Target Commit SHA": "4ab9567f6968f3cdd58ad260ba7782b6e46ca02e",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

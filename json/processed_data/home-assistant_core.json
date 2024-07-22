@@ -1,1 +1,56 @@
-[{"repo_name": "home-assistant/core", "Target PR": "https://github.com/home-assistant/core/pull/31510", "Closest PR": "https://github.com/home-assistant/core/pull/46023", "Title": "2021.2.1", "Created At": "2021-02-04T23:42:36Z", "Target Commit SHA": "8b4bd95fc59976ea9e86389f01eae2514106111f", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "e4b987a64291c1246ea037c147c523b40dceba81", "inducing_commit_hash_pyszz": "-"}, {"repo_name": "home-assistant/core", "Target PR": "https://github.com/home-assistant/core/pull/9685", "Closest PR": "https://github.com/home-assistant/core/pull/17123", "Title": "WIP: Add config entry and device registry entry for SimpliSafe", "Created At": "2018-10-04T03:24:13Z", "Target Commit SHA": "75f902f57e320983c5c4862dc694fd9de01728f1", "target_inducing_commit_hash_pyszz": ["17631cd728527ac82338b77df13377316333138c"], "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["04bf12642546df9b29b5b7094b486e57f65c6396"]}, {"repo_name": "home-assistant/core", "Target PR": "https://github.com/home-assistant/core/pull/18714", "Closest PR": "https://github.com/home-assistant/core/pull/29079", "Title": "Add flux_led wait method", "Created At": "2019-11-25T21:32:11Z", "Target Commit SHA": null, "target_inducing_commit_hash_pyszz": ["1e72c2f94d5de5aac405059a8a0b90a48191aa42"], "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["04bf12642546df9b29b5b7094b486e57f65c6396"]}, {"repo_name": "home-assistant/core", "Target PR": "https://github.com/home-assistant/core/pull/19484", "Closest PR": "https://github.com/home-assistant/core/pull/30096", "Title": "0.103.3", "Created At": "2019-12-20T14:17:58Z", "Target Commit SHA": null, "target_inducing_commit_hash_pyszz": ["1e72c2f94d5de5aac405059a8a0b90a48191aa42"], "fix_commit_hash": "3e7699b886e393778fec7041599833d503929b3b", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/31510",
+        "Closest PR": "https://github.com/home-assistant/core/pull/46023",
+        "Title": "2021.2.1",
+        "Created At": "2021-02-04T23:42:36Z",
+        "Target Commit SHA": "8b4bd95fc59976ea9e86389f01eae2514106111f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "e4b987a64291c1246ea037c147c523b40dceba81",
+        "closest_inducing_commit_hash_pyszz": "-"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/9685",
+        "Closest PR": "https://github.com/home-assistant/core/pull/17123",
+        "Title": "WIP: Add config entry and device registry entry for SimpliSafe",
+        "Created At": "2018-10-04T03:24:13Z",
+        "Target Commit SHA": "75f902f57e320983c5c4862dc694fd9de01728f1",
+        "target_inducing_commit_hash_pyszz": [
+            "17631cd728527ac82338b77df13377316333138c"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "04bf12642546df9b29b5b7094b486e57f65c6396"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/18714",
+        "Closest PR": "https://github.com/home-assistant/core/pull/29079",
+        "Title": "Add flux_led wait method",
+        "Created At": "2019-11-25T21:32:11Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "1e72c2f94d5de5aac405059a8a0b90a48191aa42"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "04bf12642546df9b29b5b7094b486e57f65c6396"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "Target PR": "https://github.com/home-assistant/core/pull/19484",
+        "Closest PR": "https://github.com/home-assistant/core/pull/30096",
+        "Title": "0.103.3",
+        "Created At": "2019-12-20T14:17:58Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "1e72c2f94d5de5aac405059a8a0b90a48191aa42"
+        ],
+        "Closest Commit SHA": "3e7699b886e393778fec7041599833d503929b3b",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

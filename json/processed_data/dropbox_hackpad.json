@@ -1,1 +1,13 @@
-[{"repo_name": "dropbox/hackpad", "Target PR": "https://github.com/dropbox/hackpad/pull/4", "Closest PR": "https://github.com/dropbox/hackpad/pull/16", "Title": "Pass the correct number of arguments to createNewAccount", "Created At": "2015-08-27T02:49:33Z", "Target Commit SHA": null, "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "8d95c7447978a79584ce04efb0ad94afd1fd46a2", "inducing_commit_hash_pyszz": "-"}]
+[
+    {
+        "repo_name": "dropbox/hackpad",
+        "Target PR": "https://github.com/dropbox/hackpad/pull/4",
+        "Closest PR": "https://github.com/dropbox/hackpad/pull/16",
+        "Title": "Pass the correct number of arguments to createNewAccount",
+        "Created At": "2015-08-27T02:49:33Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "8d95c7447978a79584ce04efb0ad94afd1fd46a2",
+        "closest_inducing_commit_hash_pyszz": "-"
+    }
+]

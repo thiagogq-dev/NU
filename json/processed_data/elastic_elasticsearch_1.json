@@ -1,1 +1,146 @@
-[{"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/81318", "Closest PR": "https://github.com/elastic/elasticsearch/pull/92059", "Title": "Add o.e.a.a.cluster.coordination to exports from server", "Created At": "2022-12-02T10:37:04Z", "Target Commit SHA": "628bc78caf807569782854ecec7f26951f73fa85", "target_inducing_commit_hash_pyszz": ["75d8079c37a69dfb965d3ce73d0c990765c286a0"], "fix_commit_hash": "48c1447dd8990d26cb75ab31a79217cb62f83cfa", "inducing_commit_hash_pyszz": ["e1d03efd1e59eea59b72f26cd4c179e49b595a71"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/78297", "Closest PR": "https://github.com/elastic/elasticsearch/pull/90319", "Title": "Preventing serialization errors in the nodes stats API", "Created At": "2022-09-23T20:17:48Z", "Target Commit SHA": "821f36b4d285fc5cf8ff528fdfd17a7e7185549d", "target_inducing_commit_hash_pyszz": ["71023765011407db82b5422ad6f3fd8ada890b82"], "fix_commit_hash": "e21be6ece781b4272eeb99d2da55642d7d5a86cf", "inducing_commit_hash_pyszz": ["39de085cb085f116b2ec40961de727deaa4777e8"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/77949", "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110", "Title": "Fix ClusterRebalanceRoutingTests", "Created At": "2022-09-15T14:17:59Z", "Target Commit SHA": "19fe3246f7bcfd2d373cfac716902c0180b8981b", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "b9e7e1550329d746dce734cb772a3bd68c32977e", "inducing_commit_hash_pyszz": ["28090b3d7366044a8cadb0e6d47c324f94c1684a"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/77832", "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110", "Title": "Fix ClusterRebalanceRoutingTests", "Created At": "2022-09-15T14:17:59Z", "Target Commit SHA": "a8c25fd596fa8ff23c9bcb84e778f64e2b2f9db5", "target_inducing_commit_hash_pyszz": ["2cfdadce278bcd77c9d7a3ef90184e139ec3ec35"], "fix_commit_hash": "b9e7e1550329d746dce734cb772a3bd68c32977e", "inducing_commit_hash_pyszz": ["28090b3d7366044a8cadb0e6d47c324f94c1684a"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/77632", "Closest PR": "https://github.com/elastic/elasticsearch/pull/90030", "Title": "Fix typo in assertion", "Created At": "2022-09-13T12:40:35Z", "Target Commit SHA": "ad5c782f9cce6577cfc3c6db8b1cd37dd192a4ca", "target_inducing_commit_hash_pyszz": ["8a9ea8565745cb811a45b87fbd4bd14cd6516f87"], "fix_commit_hash": "2b8c03bf202e55c770c00147fab5dafc6441ebbe", "inducing_commit_hash_pyszz": []}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/77293", "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809", "Title": "[TSDB] Rename rollup public API to downsample ", "Created At": "2022-09-05T19:17:45Z", "Target Commit SHA": "f1753ee6e97b1e845a518d309ff1cba9863dc315", "target_inducing_commit_hash_pyszz": ["c1a32447a77745bc417f44bfa68386b76f7b04b2"], "fix_commit_hash": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9", "inducing_commit_hash_pyszz": ["4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/77292", "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809", "Title": "[TSDB] Rename rollup public API to downsample ", "Created At": "2022-09-05T19:17:45Z", "Target Commit SHA": "1399fb67846317c078db2bd016477345e29d6231", "target_inducing_commit_hash_pyszz": ["c5b73fcaf8289da4f00c3cd8dbfff5715b470eef"], "fix_commit_hash": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9", "inducing_commit_hash_pyszz": ["4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/77291", "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809", "Title": "[TSDB] Rename rollup public API to downsample ", "Created At": "2022-09-05T19:17:45Z", "Target Commit SHA": "42508530460eb320b934953512dce0510e28c5ee", "target_inducing_commit_hash_pyszz": ["cb37989bd9b075bd51b8e40a3f57e54e087acfab"], "fix_commit_hash": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9", "inducing_commit_hash_pyszz": ["4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/77036", "Closest PR": "https://github.com/elastic/elasticsearch/pull/89734", "Title": "Fix partial reduce bug in ip_prefix", "Created At": "2022-08-30T17:30:58Z", "Target Commit SHA": null, "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "734dae6d365e8eba9179bb5eca9fac1237ee0892", "inducing_commit_hash_pyszz": ["13018e73324d86e916b72f7534d9d6275a99e6d0"]}, {"repo_name": "elastic/elasticsearch", "Target PR": "https://github.com/elastic/elasticsearch/pull/76994", "Closest PR": "https://github.com/elastic/elasticsearch/pull/89667", "Title": "Operator/role mapping", "Created At": "2022-08-26T16:17:49Z", "Target Commit SHA": "3f4b6a74b86ce2efe75bdefc6c91e7cbca70430a", "target_inducing_commit_hash_pyszz": ["717d83df30b63381b59a3b0368161c70069b384a"], "fix_commit_hash": "2b3dbdebf37176c983fccf7bf4325f467b4d1d6c", "inducing_commit_hash_pyszz": ["f0e498bec2db29340b00b801da3644c97330b9b4"]}]
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/81318",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/92059",
+        "Title": "Add o.e.a.a.cluster.coordination to exports from server",
+        "Created At": "2022-12-02T10:37:04Z",
+        "Target Commit SHA": "628bc78caf807569782854ecec7f26951f73fa85",
+        "target_inducing_commit_hash_pyszz": [
+            "75d8079c37a69dfb965d3ce73d0c990765c286a0"
+        ],
+        "Closest Commit SHA": "48c1447dd8990d26cb75ab31a79217cb62f83cfa",
+        "closest_inducing_commit_hash_pyszz": [
+            "e1d03efd1e59eea59b72f26cd4c179e49b595a71"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/78297",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90319",
+        "Title": "Preventing serialization errors in the nodes stats API",
+        "Created At": "2022-09-23T20:17:48Z",
+        "Target Commit SHA": "821f36b4d285fc5cf8ff528fdfd17a7e7185549d",
+        "target_inducing_commit_hash_pyszz": [
+            "71023765011407db82b5422ad6f3fd8ada890b82"
+        ],
+        "Closest Commit SHA": "e21be6ece781b4272eeb99d2da55642d7d5a86cf",
+        "closest_inducing_commit_hash_pyszz": [
+            "39de085cb085f116b2ec40961de727deaa4777e8"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77949",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110",
+        "Title": "Fix ClusterRebalanceRoutingTests",
+        "Created At": "2022-09-15T14:17:59Z",
+        "Target Commit SHA": "19fe3246f7bcfd2d373cfac716902c0180b8981b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "b9e7e1550329d746dce734cb772a3bd68c32977e",
+        "closest_inducing_commit_hash_pyszz": [
+            "28090b3d7366044a8cadb0e6d47c324f94c1684a"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77832",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110",
+        "Title": "Fix ClusterRebalanceRoutingTests",
+        "Created At": "2022-09-15T14:17:59Z",
+        "Target Commit SHA": "a8c25fd596fa8ff23c9bcb84e778f64e2b2f9db5",
+        "target_inducing_commit_hash_pyszz": [
+            "2cfdadce278bcd77c9d7a3ef90184e139ec3ec35"
+        ],
+        "Closest Commit SHA": "b9e7e1550329d746dce734cb772a3bd68c32977e",
+        "closest_inducing_commit_hash_pyszz": [
+            "28090b3d7366044a8cadb0e6d47c324f94c1684a"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77632",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90030",
+        "Title": "Fix typo in assertion",
+        "Created At": "2022-09-13T12:40:35Z",
+        "Target Commit SHA": "ad5c782f9cce6577cfc3c6db8b1cd37dd192a4ca",
+        "target_inducing_commit_hash_pyszz": [
+            "8a9ea8565745cb811a45b87fbd4bd14cd6516f87"
+        ],
+        "Closest Commit SHA": "2b8c03bf202e55c770c00147fab5dafc6441ebbe",
+        "closest_inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77293",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z",
+        "Target Commit SHA": "f1753ee6e97b1e845a518d309ff1cba9863dc315",
+        "target_inducing_commit_hash_pyszz": [
+            "c1a32447a77745bc417f44bfa68386b76f7b04b2"
+        ],
+        "Closest Commit SHA": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9",
+        "closest_inducing_commit_hash_pyszz": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77292",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z",
+        "Target Commit SHA": "1399fb67846317c078db2bd016477345e29d6231",
+        "target_inducing_commit_hash_pyszz": [
+            "c5b73fcaf8289da4f00c3cd8dbfff5715b470eef"
+        ],
+        "Closest Commit SHA": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9",
+        "closest_inducing_commit_hash_pyszz": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77291",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z",
+        "Target Commit SHA": "42508530460eb320b934953512dce0510e28c5ee",
+        "target_inducing_commit_hash_pyszz": [
+            "cb37989bd9b075bd51b8e40a3f57e54e087acfab"
+        ],
+        "Closest Commit SHA": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9",
+        "closest_inducing_commit_hash_pyszz": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77036",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89734",
+        "Title": "Fix partial reduce bug in ip_prefix",
+        "Created At": "2022-08-30T17:30:58Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "734dae6d365e8eba9179bb5eca9fac1237ee0892",
+        "closest_inducing_commit_hash_pyszz": [
+            "13018e73324d86e916b72f7534d9d6275a99e6d0"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76994",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89667",
+        "Title": "Operator/role mapping",
+        "Created At": "2022-08-26T16:17:49Z",
+        "Target Commit SHA": "3f4b6a74b86ce2efe75bdefc6c91e7cbca70430a",
+        "target_inducing_commit_hash_pyszz": [
+            "717d83df30b63381b59a3b0368161c70069b384a"
+        ],
+        "Closest Commit SHA": "2b3dbdebf37176c983fccf7bf4325f467b4d1d6c",
+        "closest_inducing_commit_hash_pyszz": [
+            "f0e498bec2db29340b00b801da3644c97330b9b4"
+        ]
+    }
+]

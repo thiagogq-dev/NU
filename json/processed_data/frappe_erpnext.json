@@ -1,1 +1,15 @@
-[{"repo_name": "frappe/erpnext", "Target PR": "https://github.com/frappe/erpnext/pull/22569", "Closest PR": "https://github.com/frappe/erpnext/pull/26310", "Title": "fix: Update Ewaybill Tool Version", "Created At": "2021-07-03T07:25:27Z", "Target Commit SHA": "3292e63dee390af9f3eda9a1dbacf1153e97b3f4", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["900a8fb21a9a22d4f683912035777c33341730d6"]}]
+[
+    {
+        "repo_name": "frappe/erpnext",
+        "Target PR": "https://github.com/frappe/erpnext/pull/22569",
+        "Closest PR": "https://github.com/frappe/erpnext/pull/26310",
+        "Title": "fix: Update Ewaybill Tool Version",
+        "Created At": "2021-07-03T07:25:27Z",
+        "Target Commit SHA": "3292e63dee390af9f3eda9a1dbacf1153e97b3f4",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "900a8fb21a9a22d4f683912035777c33341730d6"
+        ]
+    }
+]

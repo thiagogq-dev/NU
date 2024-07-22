@@ -1,1 +1,17 @@
-[{"repo_name": "tensorflow/tensorflow", "Target PR": "https://github.com/tensorflow/tensorflow/pull/17459", "Closest PR": "https://github.com/tensorflow/tensorflow/pull/26374", "Title": "Make weighted_cross_entropy_with_logits and sigmoid_cross_entropy_with_logits consistent", "Created At": "2019-03-06T01:35:40Z", "Target Commit SHA": null, "target_inducing_commit_hash_pyszz": ["866723f3e86b8c08d8160ccf1ea5274c97c68199"], "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["6530c155939db305165f42b99e1c525dc76a36a8"]}]
+[
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "Target PR": "https://github.com/tensorflow/tensorflow/pull/17459",
+        "Closest PR": "https://github.com/tensorflow/tensorflow/pull/26374",
+        "Title": "Make weighted_cross_entropy_with_logits and sigmoid_cross_entropy_with_logits consistent",
+        "Created At": "2019-03-06T01:35:40Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "866723f3e86b8c08d8160ccf1ea5274c97c68199"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "6530c155939db305165f42b99e1c525dc76a36a8"
+        ]
+    }
+]

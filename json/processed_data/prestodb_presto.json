@@ -1,1 +1,17 @@
-[{"repo_name": "prestodb/presto", "Target PR": "https://github.com/prestodb/presto/pull/11912", "Closest PR": "https://github.com/prestodb/presto/pull/13691", "Title": "Enable testGroupByKeyPredicatePushdown with filter pushdown", "Created At": "2019-11-12T16:25:50Z", "Target Commit SHA": "5d3fbee7af778e53d6eba09ec9177386f7108b70", "target_inducing_commit_hash_pyszz": ["1b95fc5f41a79066650dfc5dcd74c206b3345f2c"], "fix_commit_hash": "91af80f36d3dbc7331e262134c66a57b41b9bd49", "inducing_commit_hash_pyszz": ["323bd92e25bb00f467c915f43c2c1e046179269e"]}]
+[
+    {
+        "repo_name": "prestodb/presto",
+        "Target PR": "https://github.com/prestodb/presto/pull/11912",
+        "Closest PR": "https://github.com/prestodb/presto/pull/13691",
+        "Title": "Enable testGroupByKeyPredicatePushdown with filter pushdown",
+        "Created At": "2019-11-12T16:25:50Z",
+        "Target Commit SHA": "5d3fbee7af778e53d6eba09ec9177386f7108b70",
+        "target_inducing_commit_hash_pyszz": [
+            "1b95fc5f41a79066650dfc5dcd74c206b3345f2c"
+        ],
+        "Closest Commit SHA": "91af80f36d3dbc7331e262134c66a57b41b9bd49",
+        "closest_inducing_commit_hash_pyszz": [
+            "323bd92e25bb00f467c915f43c2c1e046179269e"
+        ]
+    }
+]

@@ -1,1 +1,41 @@
-[{"repo_name": "google/data-transfer-project", "Target PR": "https://github.com/google/data-transfer-project/pull/709", "Closest PR": "https://github.com/google/data-transfer-project/pull/714", "Title": "Fix copy and paste", "Created At": "", "Target Commit SHA": "fc8982fcdec7d9f7aed01a8e32b73755e87610cd", "target_inducing_commit_hash_pyszz": ["74cdc54d099f95964c02a854f76709b2a505e737"], "fix_commit_hash": null, "inducing_commit_hash_pyszz": []}, {"repo_name": "google/data-transfer-project", "Target PR": "https://github.com/google/data-transfer-project/pull/595", "Closest PR": "https://github.com/google/data-transfer-project/pull/664", "Title": "fix renamed accessor method", "Created At": "", "Target Commit SHA": "caaaad07d7602043c08aa39ad4ca20c2b2a87fc3", "target_inducing_commit_hash_pyszz": ["f999a6481b7a91b938f6e411de502dea02ae3671"], "fix_commit_hash": "4166f12f83d9add26f068e2bb1f7779476bbb827", "inducing_commit_hash_pyszz": []}, {"repo_name": "google/data-transfer-project", "Target PR": "https://github.com/google/data-transfer-project/pull/566", "Closest PR": "https://github.com/google/data-transfer-project/pull/401", "Title": "Rogue newline fix", "Created At": "", "Target Commit SHA": "d7e132ab5525a581b5a667c6bd136bcf507c7c91", "target_inducing_commit_hash_pyszz": "-", "fix_commit_hash": "9105a043d4aa9f3113cba295fa18c1842f65b047", "inducing_commit_hash_pyszz": ["14c848c2640497f5cb2197c95120bb9142759259"]}]
+[
+    {
+        "repo_name": "google/data-transfer-project",
+        "Target PR": "https://github.com/google/data-transfer-project/pull/709",
+        "Closest PR": "https://github.com/google/data-transfer-project/pull/714",
+        "Title": "Fix copy and paste",
+        "Created At": "",
+        "Target Commit SHA": "fc8982fcdec7d9f7aed01a8e32b73755e87610cd",
+        "target_inducing_commit_hash_pyszz": [
+            "74cdc54d099f95964c02a854f76709b2a505e737"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "google/data-transfer-project",
+        "Target PR": "https://github.com/google/data-transfer-project/pull/595",
+        "Closest PR": "https://github.com/google/data-transfer-project/pull/664",
+        "Title": "fix renamed accessor method",
+        "Created At": "",
+        "Target Commit SHA": "caaaad07d7602043c08aa39ad4ca20c2b2a87fc3",
+        "target_inducing_commit_hash_pyszz": [
+            "f999a6481b7a91b938f6e411de502dea02ae3671"
+        ],
+        "Closest Commit SHA": "4166f12f83d9add26f068e2bb1f7779476bbb827",
+        "closest_inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "google/data-transfer-project",
+        "Target PR": "https://github.com/google/data-transfer-project/pull/566",
+        "Closest PR": "https://github.com/google/data-transfer-project/pull/401",
+        "Title": "Rogue newline fix",
+        "Created At": "",
+        "Target Commit SHA": "d7e132ab5525a581b5a667c6bd136bcf507c7c91",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "9105a043d4aa9f3113cba295fa18c1842f65b047",
+        "closest_inducing_commit_hash_pyszz": [
+            "14c848c2640497f5cb2197c95120bb9142759259"
+        ]
+    }
+]
