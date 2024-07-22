@@ -8,7 +8,11 @@
         "Target Commit SHA": "2c9f96a4e25b9e5db869561efb2af65c544e5451",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "66af9e8d82f5080093c12f771626aece45e5a1d6",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "undertow-io/undertow",
@@ -19,7 +23,11 @@
         "Target Commit SHA": "5fa7ac68c0e4251c93056d9982db5e794e04ebfa",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "7cedb56cdf422bf1a08c4c1610cd243a992b8a71",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "undertow-io/undertow",
@@ -30,6 +38,10 @@
         "Target Commit SHA": "630023f77cc94f2ba9aaf56bea82132f8ac80263",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
