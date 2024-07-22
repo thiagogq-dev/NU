@@ -1,0 +1,565 @@
+[
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/30885",
+        "Closest PR": "https://github.com/electron/electron/pull/35614",
+        "Title": "fix: add support for ELECTRON_OZONE_PLATFORM_HINT environment variable",
+        "Created At": "2022-09-08T17:41:28Z",
+        "Target Commit SHA": "e38a0a67c6b82595c4b19a8b2f5496b1b9d9593a",
+        "target_inducing_commit_hash_pyszz": [
+            "f5373663875034079b4a38da44444ff144f812f6"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "5d657dece4102e5e5304d42e8004b6ad64c0fcda",
+            "243ab451110a9700eb2e607d1fe636d1448273f2",
+            "dee331519cb7bd62928332af3194bbcb6c25987f"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
+            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
+            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
+            "9f328abe19186af292eea3757ac908bc793a987c"
+        ],
+        "closest_matched": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/30720",
+        "Closest PR": "https://github.com/electron/electron/pull/35469",
+        "Title": "chore: delete implicit fallthrough patch",
+        "Created At": "2022-08-26T11:21:55Z",
+        "Target Commit SHA": "4fd7c2adcde8fae42e812ee094e329ca1efd41a2",
+        "target_inducing_commit_hash_pyszz": [
+            "55c57808fb9105dfc077f612b2d6c7303e0a2522"
+        ],
+        "Closest Commit SHA": "4ab9295e62dca5afd006fa052907bce9775ae01c",
+        "closest_inducing_commit_hash_pyszz": [
+            "6c5fbe356620d66af58ebf1da505e41d4869b0c3"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "392ea320cf60916b3f47da2691f6a295c04a3e0c",
+            "5d657dece4102e5e5304d42e8004b6ad64c0fcda",
+            "547097b036a9717e800e08776ff9b80c5ba969ad",
+            "7825d043f2765ddab5c1b05e49d2eb5782c8421b",
+            "441c9ce3766697c1511b7ce857999d63e6ab8663",
+            "1e69ef79de55fd4d26161fbb808edef8574c778c",
+            "a824e12275c73a88cd2c5c8ad86b893b61c22d9a",
+            "2c65060ec8fd2e0a48b61fdd4eff6be0dc2b9d31",
+            "a453f2ae6cd429c0e9b81ba06a2472d96be5e440",
+            "659e79fc08c6ffc2f7506dd1358918d97d240147",
+            "6a3679dc5572685b8df76c85d912d9cb9ad1a8dc",
+            "eb100cdf9e0f6eea18c5ab6708ac7591dc0bb12d",
+            "ee0e15a52e16a33d1732b399cbba94b60381db69",
+            "9f4a097e039aef04e3df4ee1f24ce3b817091b5d",
+            "314071d79f83405cc4442905deef472d285361ea",
+            "a11a234eaccad5b222b8f23ab51ed8fd448a6bb2",
+            "fb11a12d5b572201d6b1a24d6288fe2ccebb9ae6",
+            "bc527f6b51aee20a49baae593d379bd00b43a91b",
+            "de1d24b61613c6b1dbab04ea32e7c71ee8826cd4",
+            "ccff140046336275dd8898f694bd2e6b3141401d",
+            "6e88b6b4459075b156ed30846dff719c9527c62a",
+            "b02748e6076bd9f3802b7a4af1532d7e663381f5",
+            "2c68bad63107d59432f9ed3fdf13c360427041e7",
+            "fade3eb67999a11f17a8b64e63653d25f7bfe065",
+            "0d2e9679600bc757eeb34356dc9c3779d0edccee",
+            "370e9522b4641b973a082f15c4d866de6dbebf5f",
+            "6f5c850d60d05a188212f247e9edc746f6fce18c",
+            "680399f47657bc9767ffe7b7c5146a7eb107cf4d",
+            "83124889e5dabbc5c67c41d43c5dc9d5b38f921e",
+            "55c57808fb9105dfc077f612b2d6c7303e0a2522",
+            "d2a94e6b1374809fdcda9bbf41fa16dfd56848c8",
+            "349a3c20ae31c6ef9f53b5e9a0f8f9b9bd624bd2",
+            "2fad53e66b1a2cb6f7dad88fe9bb62d7a461fe98",
+            "186301e12636c9a7373179810cd84ba1c6f973a6",
+            "df53816eea51f90f1fe792138b6f477613f8d991",
+            "6bfb122cd1ac6f41c6983000220fdc2109aefa0f",
+            "3ac3fbdbfb4af9d7b35b02b0c3b4b8307c614c08",
+            "c6c022dc46258b439c311da7feaa15d24dc08b16",
+            "85fae6796620a860e795e8b6c552fb24c4691b0c"
+        ],
+        "target_matched": [
+            "55c57808fb9105dfc077f612b2d6c7303e0a2522"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "6c5fbe356620d66af58ebf1da505e41d4869b0c3",
+            "bd10b19b0cdc46cdbadb570af89305e64541b679",
+            "53912118243ed64378e98f1c92b1d06e3919288b"
+        ],
+        "closest_matched": [
+            "6c5fbe356620d66af58ebf1da505e41d4869b0c3"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/30043",
+        "Closest PR": "https://github.com/electron/electron/pull/34840",
+        "Title": "fix: WCO pressed background state updates",
+        "Created At": "2022-07-07T15:18:12Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ],
+        "Closest Commit SHA": "4cc3b85adc79dc4d65515a8d98390651ccb4754f",
+        "closest_inducing_commit_hash_pyszz": [
+            "bb4951514582b366a91b4367158e710f5cc1eee0"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
+            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
+            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
+            "9f328abe19186af292eea3757ac908bc793a987c"
+        ],
+        "target_matched": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "bb4951514582b366a91b4367158e710f5cc1eee0",
+            "41646d1168a22f9a7bad683e5a30bd4cead7d945"
+        ],
+        "closest_matched": [
+            "bb4951514582b366a91b4367158e710f5cc1eee0"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/29196",
+        "Closest PR": "https://github.com/electron/electron/pull/34263",
+        "Title": "fix: crash in `safeStorage` on Linux",
+        "Created At": "2022-05-17T07:16:55Z",
+        "Target Commit SHA": "dcbabcb23cf850582928bb98e2c57136d238c3fd",
+        "target_inducing_commit_hash_pyszz": [
+            "5a8046c994d11263c5448772c46d572fa1fb25a6"
+        ],
+        "Closest Commit SHA": "d5ba5c8e0a3828d2a3975ab12ed0261eeed10002",
+        "closest_inducing_commit_hash_pyszz": [
+            "24b3ee84444bf379e6e2a42e86fce3e99df7e05e"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "335e9f68b768b34d63ae1550a12d4f140669609c",
+            "8383c14aba6257bae16cd11ad6026901516db801",
+            "49b47ee4edb6e90545ca56ed2d3c051437df9521",
+            "3b4e7067583174ab9d206b4c4c16017ab074c574",
+            "2fb14f53fe8c04397a49d32fb293547db27916ed",
+            "2cd03bf360f2eceabf1e3839e0301513c16dc945",
+            "55e50a0879b7dc9633cacf1bf11a49b93ae61c7e",
+            "22a70eb8036825e3dc722473aa1de382e7371dff",
+            "ff33fa1970e6eef75c25b26b1e1c1126c3db8360",
+            "b6246dcf122e584c672566877cb60d33dbc4705e",
+            "cb9be091aa203f27496b2b8993e10b5c554525c4",
+            "596ae2c2df27a97c98976d4f954bbfe90dcb7474",
+            "cdf04f3ae7e4cc569130eeda0fb0bb356a5f2bb6",
+            "50b9c7051ef482bb53ff5227d4e1a94d62442363",
+            "96b32a814ceda6818f7b9e1138f7468e7767cda2",
+            "db21391156b1cdb07fd9e6d46599a296473f7579",
+            "1e16606524ae8da57e01dd8707177d6969e33d95",
+            "e959137a4be792e46ec11760246d38a39bc6a936",
+            "ef12492d6caa6fa8cf1b0275e5371241bb147ea4",
+            "8798571a77a4d2a7e073b046d2e8b56caa4d1e68",
+            "76c5f5cc8a58660f7df8bc6aa01d473fb4c0410a",
+            "3ac3fbdbfb4af9d7b35b02b0c3b4b8307c614c08",
+            "5a8046c994d11263c5448772c46d572fa1fb25a6"
+        ],
+        "target_matched": [
+            "5a8046c994d11263c5448772c46d572fa1fb25a6"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "ebf54d7cc08a6f3ffabdf839329bc40e60140b93",
+            "24b3ee84444bf379e6e2a42e86fce3e99df7e05e",
+            "7984933e9cf9cb50a2472eaa4715a0b81d650b5a"
+        ],
+        "closest_matched": [
+            "24b3ee84444bf379e6e2a42e86fce3e99df7e05e"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/26331",
+        "Closest PR": "https://github.com/electron/electron/pull/31701",
+        "Title": "fix: <webview> background transparency",
+        "Created At": "2021-11-03T19:04:23Z",
+        "Target Commit SHA": "40ebdb5c42c1b3a5b9870a6f3fe99571cc30487c",
+        "target_inducing_commit_hash_pyszz": [
+            "829b230b8518be0a02f313dcd612fb3557d6aca7"
+        ],
+        "Closest Commit SHA": "3e0a2edec43eb25e1d0db4fe2dfca04c88ee7e7d",
+        "closest_inducing_commit_hash_pyszz": [
+            "439a2957767399ddf9e1a1ea3d546f0d51c7568a"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "829b230b8518be0a02f313dcd612fb3557d6aca7"
+        ],
+        "target_matched": [
+            "829b230b8518be0a02f313dcd612fb3557d6aca7"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "439a2957767399ddf9e1a1ea3d546f0d51c7568a"
+        ],
+        "closest_matched": [
+            "439a2957767399ddf9e1a1ea3d546f0d51c7568a"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/25692",
+        "Closest PR": "https://github.com/electron/electron/pull/31193",
+        "Title": "fix: persist permission granted to serial ports",
+        "Created At": "2021-09-29T18:17:38Z",
+        "Target Commit SHA": "822b04406873e60dcbccc29c5e8e980329d4b426",
+        "target_inducing_commit_hash_pyszz": [
+            "2e8934854148d48e70e6c27c5a492d195c9f7c20"
+        ],
+        "Closest Commit SHA": "e395cd391aca45c8fa4f35928cb5d3e6ea106795",
+        "closest_inducing_commit_hash_pyszz": [
+            "e100c22a264ee3159fef065ec2012222bfd2b7d6"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "2e8934854148d48e70e6c27c5a492d195c9f7c20",
+            "d586ef2f39d650f117054f32a523fd9786087e9f"
+        ],
+        "target_matched": [
+            "2e8934854148d48e70e6c27c5a492d195c9f7c20"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "e100c22a264ee3159fef065ec2012222bfd2b7d6",
+            "46f3491c7d5d2ec669fac28298280129c449561e",
+            "fd63510ca94af9e105dd61cae1ffa56acd110e1f"
+        ],
+        "closest_matched": [
+            "e100c22a264ee3159fef065ec2012222bfd2b7d6"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/13028",
+        "Closest PR": "https://github.com/electron/electron/pull/13032",
+        "Title": "fix: add native function to create preload script",
+        "Created At": "",
+        "Target Commit SHA": "d3efc52745e686cd492387fa1aedcb461b9551ab",
+        "target_inducing_commit_hash_pyszz": [
+            "ae8c0f71b1db062087421b9d4e732eeb7b703bbc"
+        ],
+        "Closest Commit SHA": "ffc15e02a6ae480763d7d5a52bf0217467ba56de",
+        "closest_inducing_commit_hash_pyszz": [
+            "e1aebef57c00bd254b64c813e388eaeea53c6e5f"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "b50f86ef43b17f90c295349d8ca93751ad9045a6",
+            "1718697ef0d761fff1318cf83106331eb0e777cc",
+            "3855a774abd9fb15d257166a15c9d2388b05c6e2",
+            "ca7b492b97cb754561646d1b332742f57201dab9",
+            "83dc8cc13b7d148f5cce43f83af13684f0d3b0fa",
+            "ae8c0f71b1db062087421b9d4e732eeb7b703bbc",
+            "54ef9068327d7ac34af06ec133b4cb4ea7edbc8f",
+            "fc85d027868235fea2ac1f22f09adeed6bec6230",
+            "5efb0fdff18b889d8b51fbb2830da54f8996a613",
+            "e1aebef57c00bd254b64c813e388eaeea53c6e5f",
+            "f1fe485768eb0267db58ffaea8914aecd88ec23b",
+            "ce1a5e3c9c5d231233035fc1b5836656d64de56c",
+            "9e88d337ec7a66ae196ec750a5e9060fb8cfb853",
+            "dee9aef975794deeb070574436d12945d4076242",
+            "e2029435c45fc7e10b74ce7778f2d32587f513b0"
+        ],
+        "target_matched": [
+            "ae8c0f71b1db062087421b9d4e732eeb7b703bbc"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "cd05834d96357b7b1592cee91eae965be1c11a15",
+            "e1aebef57c00bd254b64c813e388eaeea53c6e5f"
+        ],
+        "closest_matched": [
+            "e1aebef57c00bd254b64c813e388eaeea53c6e5f"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/12749",
+        "Closest PR": "https://github.com/electron/electron/pull/12742",
+        "Title": "Fix clang-format patch output filename",
+        "Created At": "",
+        "Target Commit SHA": "e00b128a50eb933d917f125000f3f6faac3ae2b1",
+        "target_inducing_commit_hash_pyszz": [
+            "d586ef2f39d650f117054f32a523fd9786087e9f"
+        ],
+        "Closest Commit SHA": "ee2c3607ade8c62cead056318b89829be3cdf67b",
+        "closest_inducing_commit_hash_pyszz": [
+            "21e5a2e071bb7e7aada84201def92c52092356ae"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "d586ef2f39d650f117054f32a523fd9786087e9f"
+        ],
+        "target_matched": [
+            "d586ef2f39d650f117054f32a523fd9786087e9f"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "21e5a2e071bb7e7aada84201def92c52092356ae"
+        ],
+        "closest_matched": [
+            "21e5a2e071bb7e7aada84201def92c52092356ae"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/11810",
+        "Closest PR": "https://github.com/electron/electron/pull/16687",
+        "Title": "fix: use a new Electron dedicated ABI number for Electron 4.0",
+        "Created At": "2019-02-01T22:09:20Z",
+        "Target Commit SHA": "d586ef2f39d650f117054f32a523fd9786087e9f",
+        "target_inducing_commit_hash_pyszz": [
+            "2db125890cf901f939ab60b550dee54a091d57a4"
+        ],
+        "Closest Commit SHA": "abb1a09f16bd3fa98593f478469c6f71112ba8cb",
+        "closest_inducing_commit_hash_pyszz": [
+            "435ca8cff39360850d2d49b2f314f46a8aa0c5c9"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "11ac780cafd98fcaa2ff6d56cb5149d576d4e813",
+            "14c6e7814774db0be3b8ebfcfe7ee72ce20c994a",
+            "2bd8877be37b35e4036ea23a3631e9a1d9159a1d",
+            "02e8e929e1646dd37541274420515c7955d2d58a"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "435ca8cff39360850d2d49b2f314f46a8aa0c5c9"
+        ],
+        "closest_matched": [
+            "435ca8cff39360850d2d49b2f314f46a8aa0c5c9"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/10537",
+        "Closest PR": "https://github.com/electron/electron/pull/14638",
+        "Title": "chore: fix python lint warnings",
+        "Created At": "2018-09-15T23:26:47Z",
+        "Target Commit SHA": "beb06c0787bbddb4b60f564a3549b00da9cd65fb",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "a45ded550833e9fb4d22511fc991143aad48b68e",
+        "closest_inducing_commit_hash_pyszz": [
+            "05783d56f76014994384ffad67c0511eb46fc8df"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "ac2caef37fc731786022b3367cfb2f49c614f2aa",
+            "c122852f09426c9305fbea47a79cf08c11123198",
+            "5d6921ff2a95ff6849057ee1c25fcda99e12ab55",
+            "c1439bb02b0ad472f9e999147b63ee022485e1c2",
+            "a83b8e751bc159195b57c4b702661cd96821e472",
+            "57a4d8666931ca76014e31f9dd4922d7c52e2c81",
+            "86af20ded062598fbc71244fd180e3e608954ba6",
+            "0ca33dc6b8ecb461255680d3de6f51be70a10018",
+            "05783d56f76014994384ffad67c0511eb46fc8df",
+            "2497c73009caa3e6b37166d2175875596eab2e65",
+            "6861c1018390e128939c98b0556eb711a99fef05",
+            "8e525f965da4323ee73f8c5f9548e898983f208b",
+            "dfd98e342822a648c7ac2c2847c4096459e56cf7",
+            "40ed17d8fd406dad64e019a71c3efb8b8951b3f4",
+            "8fe675e56cb069d899b3431b778b02344c346616",
+            "7cc73140f8b671ad9cc2d137499dbd428e24af82",
+            "00b2d94785590d1a5d02335e6585a22ccd9eac49",
+            "8a1523147574258cfa0ce49b2985ee6053327cfa",
+            "22bc1b004ec7cd0078c657749da9a7372614be17",
+            "76c5f5cc8a58660f7df8bc6aa01d473fb4c0410a",
+            "28f11516fe6d2f338b6ac7cc53739b6751904b4c",
+            "996c9149129bff8d4dd20c64b5ad1d41fb1681f5"
+        ],
+        "closest_matched": [
+            "05783d56f76014994384ffad67c0511eb46fc8df"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/7947",
+        "Closest PR": "https://github.com/electron/electron/pull/11092",
+        "Title": "Give user access to the URL that is attempting to be openExternal'ed",
+        "Created At": "2017-11-11T03:28:21Z",
+        "Target Commit SHA": "1d288b69e2ea8057a0aa497b13240411fe8dd2c8",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "5a9221e1dcc730b6edde4c3844028abb1e8107f1",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/7933",
+        "Closest PR": "https://github.com/electron/electron/pull/11078",
+        "Title": "Fix address of Korea Community",
+        "Created At": "2017-11-10T08:09:49Z",
+        "Target Commit SHA": "ad638097b6122815cdbfd6631134fd52aaf298a0",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
+            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
+            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
+            "9f328abe19186af292eea3757ac908bc793a987c"
+        ],
+        "closest_matched": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/7671",
+        "Closest PR": "https://github.com/electron/electron/pull/10783",
+        "Title": "Windows 10 focus fix",
+        "Created At": "2017-10-13T11:21:25Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
+            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
+            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
+            "9f328abe19186af292eea3757ac908bc793a987c"
+        ],
+        "target_matched": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "69ea0b4ebf896fc063a4c0eb76aa91c407053077",
+            "702cc84bd3dd9055a44fbe370c9b4bee0fcb1791",
+            "0b85fdf26c396112afac4bbb26d89a9f3033854b",
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f",
+            "9f328abe19186af292eea3757ac908bc793a987c"
+        ],
+        "closest_matched": [
+            "385d0f590fe39f6e8ec87dafb2c8b22ae005901f"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/3120",
+        "Closest PR": "https://github.com/electron/electron/pull/7628",
+        "Title": "browser: fix race in creation of default browser context by AtomAccessTokenStore",
+        "Created At": "2016-10-14T19:56:13Z",
+        "Target Commit SHA": "14e2bbe4c76f86b4e8b6822eaf463216cb3bdd8a",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "88ac3763827d10b1adb3745d04093036ad973a78",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/1571",
+        "Closest PR": "https://github.com/electron/electron/pull/5378",
+        "Title": "Use select to query the uv kqueue",
+        "Created At": "2016-05-03T07:22:10Z",
+        "Target Commit SHA": "f2bf8d6db3283cf36af83c1d08ad294dd16bfef0",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "ef561fb919cc07bfdaf23f04c7526dec8fee9dd9",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/31626",
+        "Closest PR": "https://github.com/electron/electron/pull/36188",
+        "Title": "build: use npm@7 for npm view command",
+        "Created At": "2022-10-28T16:16:39Z",
+        "Target Commit SHA": "a938af3f54aa891a29cc7c78e05078056997a5da",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "3a179fb2b7562c7a0fe664bbcd0cba51e4abcbcf",
+        "closest_inducing_commit_hash_pyszz": [
+            "286b533ec1dec53c6ee4dbccdbeef40c4dcf0de9"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "6aece4a83d12b6ec610994895e43560ae1aa77dc"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "286b533ec1dec53c6ee4dbccdbeef40c4dcf0de9"
+        ],
+        "closest_matched": [
+            "286b533ec1dec53c6ee4dbccdbeef40c4dcf0de9"
+        ]
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/5584",
+        "Closest PR": "https://github.com/electron/electron/pull/9519",
+        "Title": "Use v8::ArrayBuffer::Allocator inside Node",
+        "Created At": "2017-05-18T07:33:16Z",
+        "Target Commit SHA": "e05f795d1df9f0cceed7f7ca981baee191bdd22c",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "f793db2b2a5a84298ecea9be8f06f8dc311f1865",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/5580",
+        "Closest PR": "https://github.com/electron/electron/pull/9507",
+        "Title": "Suppress dispatching to PDF viewer if plugins are disabled",
+        "Created At": "2017-05-17T15:10:11Z",
+        "Target Commit SHA": "49cca0978ddbc876fcec5410369abc91c4495d9f",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "021b5a9ae0f35f48bcf546763d2b58438cb03344",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "electron/electron",
+        "Target PR": "https://github.com/electron/electron/pull/30174",
+        "Closest PR": "https://github.com/electron/electron/pull/34932",
+        "Title": "fix: do not define _LIBCPP_ABI_NAMESPACE=Cr for all native modules",
+        "Created At": "2022-07-15T22:13:35Z",
+        "Target Commit SHA": "ced2e8779fb4e4a50f7fb39b4845e4ae7a396234",
+        "target_inducing_commit_hash_pyszz": [
+            "ead13791a8d5b4ded4c9a8183138ce9756c90ed4"
+        ],
+        "Closest Commit SHA": "f1746c81c66d6857e8b857a6eaedee8cc123c942",
+        "closest_inducing_commit_hash_pyszz": [
+            "9a5d759ea30724d2d3fd4872ddec54232a5e551a"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "ead13791a8d5b4ded4c9a8183138ce9756c90ed4"
+        ],
+        "target_matched": [
+            "ead13791a8d5b4ded4c9a8183138ce9756c90ed4"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "e86d1cba75be6e5134a3190432b4aae6b19134e8",
+            "9a5d759ea30724d2d3fd4872ddec54232a5e551a"
+        ],
+        "closest_matched": [
+            "9a5d759ea30724d2d3fd4872ddec54232a5e551a"
+        ]
+    }
+]
