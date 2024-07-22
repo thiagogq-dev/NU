@@ -1,0 +1,168 @@
+[
+    {
+        "repo_name": "line/armeria",
+        "Target PR": "https://github.com/line/armeria/pull/3984",
+        "Closest PR": "https://github.com/line/armeria/pull/4564",
+        "Title": "Limit the max length of decoded content in `Decoding{Service,Client}`",
+        "Created At": "2022-12-07T14:18:04Z",
+        "Target Commit SHA": "920eca8abeeffe3ab9293e866a6d27acdc6ee468",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": "dd49448e73b905d4f630f361d68779459d7e67d9",
+        "closest_inducing_commit_hash_pyszz": [
+            "84cbaf1a69f0833e8181bf3662bf3bf3ff18a5f2"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "54b70906bcd813f0b9b2c6715ad4086160ac49b2",
+            "b8b689f2487a8d53393819d7284d9c0a2f812b4f"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "5192b8bc50fff957c352676694de0d8ff09f7866",
+            "de2990fef898b0a7de6743a60bd14d9eefcbff9e",
+            "ccf630c417bc2f9f78a90bad53a999cc7aa46314",
+            "79b7bbfa5824202f73034cf87d32bc9b1b706a3d",
+            "d07f5d2454406e6a615b318a49d5864e5298d11f",
+            "a08ddf04e24a46fd8edc81a64e7d31203a189ea7",
+            "890631e15dff9b7030f20b18649d461e3efb5b34",
+            "a1ede9e89e56c4394c2740fd9bf232b5b16333b1",
+            "ac398ea9f1e69b837fc32e663830ae2f2ade002f",
+            "30abdc405b864f3b9e643cc93421bc9e83c72995",
+            "4aff91f4aef8365217f7f77c077607bbf879d9a4",
+            "74057cae9dc9459e16c091636c3babc31191e038",
+            "e729261fc0357937edf52989988a1df2456e5977",
+            "0296b6cb71945cf0871ac957e896fe95b8c64151",
+            "dda1a30d5af9e299a0ca6ff8af62c59c254d6abc",
+            "386268a9c868f3cd3b26c6eba65bab684dbb5929",
+            "e29b577e57dd02f4f24d76ac2baa39447bf13d30",
+            "24924b47b6212a24a309e5da01f6b16cde02e3d4",
+            "9546b288a7f837f4d20fa9ba070ebfe6302518d5",
+            "744098d4ed83a65c6668fd863afebae14f5e2a1c",
+            "84cbaf1a69f0833e8181bf3662bf3bf3ff18a5f2",
+            "235bb3ffed6ae0665dd4796f8a551a5cc1691d89",
+            "e22dc1d5799c2903b304a6b777a8bd7015465eb3",
+            "add6da5035552ac15fae8086433e1e8bbe4b26bf",
+            "f5c5081c55934b023ebfdb37a092829f35f04f8c",
+            "3588a5167689a4419d6018326db2d8e10f7b98c2",
+            "76095befbe1e06447f9576cbe4f7f32b58db6ef7"
+        ],
+        "closest_matched": [
+            "84cbaf1a69f0833e8181bf3662bf3bf3ff18a5f2"
+        ]
+    },
+    {
+        "repo_name": "line/armeria",
+        "Target PR": "https://github.com/line/armeria/pull/3727",
+        "Closest PR": "https://github.com/line/armeria/pull/4366",
+        "Title": "Cache an aggregated result of a `StreamMessage` for non-pooled objects",
+        "Created At": "2022-07-26T09:34:29Z",
+        "Target Commit SHA": "fcd2d72a73218a3dda4c2c89f4908ec1ad12d810",
+        "target_inducing_commit_hash_pyszz": [
+            "85e7e386b7222655d9ae3cf577f0f5f77c5cae85"
+        ],
+        "Closest Commit SHA": "712cb0d8623f637cc241491815f912c11c90e63a",
+        "closest_inducing_commit_hash_pyszz": [
+            "bf792d4465756738f30937241403e02da1b1efd6"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "92919ff6b4883e5500124b8b426f44ea1d5457bc",
+            "3eef7032c7503c4525a73aa7c0148121859bab8b",
+            "c260bfee7a68abbb5a6ca90814ed23d2e1f38f05",
+            "fb48705bf3fa505699bf90c804cd1d4f780f05b6",
+            "bd09b15ff507ba9872937a9762c05ade4ebbe76c",
+            "2e0b6b0bc3cedcf870f400a4f4a24c9bf4d77666",
+            "323c66eb3cbefc7b770da969b3ec3f9eb4ecf77f",
+            "8a67c5823ab3cfd1f4a27683409c638091093d3f",
+            "7827f5753b9dddc9022ab96f4c46a40bdaf49f10",
+            "878684c4858dcee496f92117ccc615b1cf310fa6",
+            "cc0aa2633354e498642cdc40d6906a59faa26662",
+            "1929ba01f0a86b7e93f4be74c10ef27b40c33f11"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "92919ff6b4883e5500124b8b426f44ea1d5457bc",
+            "70eef3a43a88bcd745d75d39b5e2241603270a21",
+            "ed021f3d0fcb8160032a89f6a625bd2fbb0ae542",
+            "4b8bc9095fd4b456d4d231c0b3df13bc43736cda",
+            "43a675859a705d415e452ce5d7d6c60e5e5f0715",
+            "085e3e1759b31a5c7d27f0ff7f4a2eb0dd17f927",
+            "a1ede9e89e56c4394c2740fd9bf232b5b16333b1",
+            "f363566578e5233172cdc180feee09013158f2c9",
+            "74057cae9dc9459e16c091636c3babc31191e038",
+            "ea2dbc05089191a4f457d03147440e3a7c27d27f",
+            "976d85aafab837ccd86e7276a0823747771a01db",
+            "dda1a30d5af9e299a0ca6ff8af62c59c254d6abc",
+            "871d87297e4d051241589cb1ae95641cbc83f880",
+            "04bb4ae376bf93cfe18e012c72716857f286638c",
+            "32b3d5a5caf18fb1ea0b1d8b29ade61d18935d05",
+            "cb6f940394c560f2002a10bf92b972b48e5d89f2",
+            "f0818b990b47ef863bf82bad81f34c09eb2ad565",
+            "5595b5aaa554cbb2e2edbb45f63356bef380cf52",
+            "67fc0111b5609a7d29ba79bf2763d22a940c5bf2",
+            "0016f868b15cae6d8568004f3288ed86621a7b93",
+            "22f357c8b1ee27632b40891a3763b1b54cb7ceb9",
+            "8ab8ca94538541edbb42c843f6b5c1e2a3cc954f",
+            "3eef7032c7503c4525a73aa7c0148121859bab8b",
+            "bf792d4465756738f30937241403e02da1b1efd6",
+            "e68cb7f0af2c79f31ff373937e3a60dbac982871",
+            "3588a5167689a4419d6018326db2d8e10f7b98c2"
+        ],
+        "closest_matched": [
+            "bf792d4465756738f30937241403e02da1b1efd6"
+        ]
+    },
+    {
+        "repo_name": "line/armeria",
+        "Target PR": "https://github.com/line/armeria/pull/1315",
+        "Closest PR": "https://github.com/line/armeria/pull/1940",
+        "Title": "Wait for delegate endpoints before beginning health check.",
+        "Created At": "2019-07-30T11:31:41Z",
+        "Target Commit SHA": "c53bfccd1bad83ed64598c1ebf928a1477a5e5d5",
+        "target_inducing_commit_hash_pyszz": [
+            "77d14b52ec1affcbb4b75a9bdfd3af104253c68a"
+        ],
+        "Closest Commit SHA": "d63f1ad29d5082fb824c74dcea374333c576d914",
+        "closest_inducing_commit_hash_pyszz": [
+            "6297b0c54ced6194e408cd7ba30314927192ffc8"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "1f782ca4f73ebce587a9342c157038c1abf6155e",
+            "c02f40f75eeaa5a75c8b125a30a75cf5c70d4552"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "1f782ca4f73ebce587a9342c157038c1abf6155e",
+            "0d16befa6498b8dc70497413431de5f3ea67b175",
+            "6297b0c54ced6194e408cd7ba30314927192ffc8"
+        ],
+        "closest_matched": [
+            "6297b0c54ced6194e408cd7ba30314927192ffc8"
+        ]
+    },
+    {
+        "repo_name": "line/armeria",
+        "Target PR": "https://github.com/line/armeria/pull/3939",
+        "Closest PR": "https://github.com/line/armeria/pull/3920",
+        "Title": "Fix the case where\ufffdunfinishedResponses\ufffdisn't decremented on early abort",
+        "Created At": "",
+        "Target Commit SHA": "b34fe092e9addbb50d86f278f260599b91d0b803",
+        "target_inducing_commit_hash_pyszz": [
+            "2e9bfbd81682428a0569925b7e5709ad1d7d0604"
+        ],
+        "Closest Commit SHA": "5c1666c4b7489581ffc1724d539153a9d99b4698",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "54b70906bcd813f0b9b2c6715ad4086160ac49b2",
+            "e8ef252f21d02ca80904e76a4fb38bac978411c7",
+            "2e9bfbd81682428a0569925b7e5709ad1d7d0604",
+            "2f270812aab77dd436a74b6a8d8223f0f05fc65c",
+            "740ab1cb2b772840acfb8a82122c7559b80cf01d",
+            "b8b689f2487a8d53393819d7284d9c0a2f812b4f",
+            "e8f6f45a019db4b5a884fdf6c7c4217c5ea63469"
+        ],
+        "target_matched": [
+            "2e9bfbd81682428a0569925b7e5709ad1d7d0604"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
