@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "bytedeco/javacpp",
+        "Target PR": "https://github.com/bytedeco/javacpp/pull/177",
+        "Closest PR": "https://github.com/bytedeco/javacpp/pull/235",
+        "Title": "Update README.md",
+        "Created At": "2018-03-28T04:15:53Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5",
+            "c26e91aaada72dbd7b295206ad09b316a9f50fc6",
+            "190f6dd67d7a4c93ec9ac92f39d8332e90363308",
+            "45daaa690059ca65a12fdbc965beb8f0aebb6dbc",
+            "d25d7e4b393620c54ba4b3a9b8f5c7be76343a54"
+        ],
+        "target_matched": [
+            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5",
+            "c26e91aaada72dbd7b295206ad09b316a9f50fc6",
+            "190f6dd67d7a4c93ec9ac92f39d8332e90363308",
+            "45daaa690059ca65a12fdbc965beb8f0aebb6dbc",
+            "d25d7e4b393620c54ba4b3a9b8f5c7be76343a54"
+        ],
+        "closest_matched": [
+            "78f0203d3a8ce1b4f410ab52c1fd4bbda0e500d5"
+        ]
+    }
+]
