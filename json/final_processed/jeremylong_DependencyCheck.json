@@ -8,7 +8,11 @@
         "Target Commit SHA": "d89025e628edca455fe8cabe1930742c57bab0d1",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "5435749ece845862a4c52f1d554515bcb690d9aa",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
@@ -20,6 +24,14 @@
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "e8b6cfc60deb7940228b53819ae079161314ec6e",
         "closest_inducing_commit_hash_pyszz": [
+            "bf9e950c9f06d23908857529f167c8a04664add6"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "bf9e950c9f06d23908857529f167c8a04664add6"
+        ],
+        "closest_matched": [
             "bf9e950c9f06d23908857529f167c8a04664add6"
         ]
     },
@@ -34,6 +46,15 @@
             "caeec68999317317d0abb0e4aafcf8d48d68ba2d"
         ],
         "Closest Commit SHA": "4baf1687b5b37fda1a001554a89fcb97bf5fe8b2",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "caeec68999317317d0abb0e4aafcf8d48d68ba2d",
+            "720870675c08a3274a95b5f2cd2d93d3d5e8dfb2"
+        ],
+        "target_matched": [
+            "caeec68999317317d0abb0e4aafcf8d48d68ba2d"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
