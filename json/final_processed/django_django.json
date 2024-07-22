@@ -1,0 +1,80 @@
+[
+    {
+        "repo_name": "django/django",
+        "Target PR": "https://github.com/django/django/pull/5949",
+        "Closest PR": "https://github.com/django/django/pull/7807",
+        "Title": "Fixed #23908 -- Always use DEFAULT_CONTENT_TYPE from global_settings \u2026",
+        "Created At": "2017-01-06T20:07:21Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": [
+            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "9c19aff7c7561e3a82978a272ecdaad40dda5c00",
+            "14d026cccb144c6877294ba4cd4e03ebf0842498",
+            "f9a33e3c3f4cfbff60522cd54455e78c96a9d2a4",
+            "70499b25c708557fb9ee2264686cd172f4b2354e",
+            "3d734c09ff0138441dfe0a59010435871d17950f",
+            "44ffd8d06fabc07d8333f31439e8dd39ea87329b",
+            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3",
+            "30a01441347d5a2146af2944b29778fa0834d4be",
+            "ca74e563500e291480f1976b58fcd34aac768dca",
+            "c2cc80756b8949cdd87b88bbfdfee698ced441e0"
+        ],
+        "target_matched": [
+            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "9c19aff7c7561e3a82978a272ecdaad40dda5c00",
+            "14d026cccb144c6877294ba4cd4e03ebf0842498",
+            "f9a33e3c3f4cfbff60522cd54455e78c96a9d2a4",
+            "70499b25c708557fb9ee2264686cd172f4b2354e",
+            "3d734c09ff0138441dfe0a59010435871d17950f",
+            "44ffd8d06fabc07d8333f31439e8dd39ea87329b",
+            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3",
+            "30a01441347d5a2146af2944b29778fa0834d4be",
+            "ca74e563500e291480f1976b58fcd34aac768dca",
+            "c2cc80756b8949cdd87b88bbfdfee698ced441e0"
+        ],
+        "closest_matched": [
+            "6d220963fa275a8431fcbcc05de1468f9f8bc3d3"
+        ]
+    },
+    {
+        "repo_name": "django/django",
+        "Target PR": "https://github.com/django/django/pull/13199",
+        "Closest PR": "https://github.com/django/django/pull/14647",
+        "Title": "Fixed #32655 -- Deprecated extra_tests argument for DiscoverRunner.build_suite()/run_tests().",
+        "Created At": "2021-07-15T22:20:33Z",
+        "Target Commit SHA": "331324ecce1330dce3dbd1713203cb9a42854ad7",
+        "target_inducing_commit_hash_pyszz": [
+            "5a15e3e3788cf321ce5bdf0a874906229afd3b47"
+        ],
+        "Closest Commit SHA": "56f9579105c324ff15250423bf9f8bdf1634cfb4",
+        "closest_inducing_commit_hash_pyszz": [
+            "fc6fba0aa9e4575c9a1c23ad7031eebb1c112868"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "b4066d7d2149782cd694b98d1a6ed5c7ee885f55",
+            "4e59156c10d36eeb1e6fced4dff0f11157f68264",
+            "0afffae4ecb660f2ecb94a756c2ab7729654ecf6",
+            "df8d8d4292684d6ffa7474f1e201aed486f02b53",
+            "47a99d701277f6ec98e6fd220feb9c8a1e66718e",
+            "97cb07c3a10ff0e584a260a7ee1001614691eb1d"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "fc6fba0aa9e4575c9a1c23ad7031eebb1c112868",
+            "d19109fd37e75ccf29d2ca64370102753dbc7c5b",
+            "1b8af4cfa023161924a45fb572399d2f3071bf5b",
+            "9012833af857e081b515ce760685b157638efcef"
+        ],
+        "closest_matched": [
+            "fc6fba0aa9e4575c9a1c23ad7031eebb1c112868"
+        ]
+    }
+]
