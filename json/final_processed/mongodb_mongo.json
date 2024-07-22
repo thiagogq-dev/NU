@@ -10,6 +10,10 @@
             "f2e628f93bf2c1229d2248ceb9ad94a982bcda7a"
         ],
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
