@@ -1,0 +1,599 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52217",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68835",
+        "Title": "Regroup searchable snapshot stats by file extension",
+        "Created At": "2021-02-10T15:23:43Z",
+        "Target Commit SHA": "cc1fce96bad49d3d9b8e0921a992631f1271c945",
+        "target_inducing_commit_hash_pyszz": [
+            "2b789fa3e6f743632066b26efd5235d3acdd2264"
+        ],
+        "Closest Commit SHA": "6cf33b1c7cc8e948fbc51401b22dba8275af4b65",
+        "closest_inducing_commit_hash_pyszz": [
+            "49a927fa4dc757ac93304a8420f27ca09b92fdb0"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "8e5855e62ebae5fe814367fa85f9bfdc3105213a",
+            "2b789fa3e6f743632066b26efd5235d3acdd2264",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "0588dad80b4463ecf571207f18ca684dfc577041",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f",
+            "30687cbe7fc65111d29ca8f4e9fb828f2c32724e"
+        ],
+        "target_matched": [
+            "2b789fa3e6f743632066b26efd5235d3acdd2264"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "3388642ef688204ee1fd7b1475e0b63010857c22",
+            "f6feb6c2c845aaab31cec4b4047c77c2caf85b89",
+            "9ba3c16208fa1542d5293180a75ad88692ef2c8d",
+            "a20ff514f13a5b0e897db1deeedffa246daf65b3",
+            "49a927fa4dc757ac93304a8420f27ca09b92fdb0"
+        ],
+        "closest_matched": [
+            "49a927fa4dc757ac93304a8420f27ca09b92fdb0"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52211",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68823",
+        "Title": "Use JNA to Speed up Snapshot Cache File Creation (#68687)",
+        "Created At": "2021-02-10T13:33:22Z",
+        "Target Commit SHA": "ea55105c1de0e1d808d3835510e2606b2d9810f0",
+        "target_inducing_commit_hash_pyszz": [
+            "1e4b1fa68a9eea9376f802339e5e83503b6bd3fd"
+        ],
+        "Closest Commit SHA": "2ca8ba880d92da63c5f191996a56bca21a426432",
+        "closest_inducing_commit_hash_pyszz": [
+            "69ec58ab5b6d18afb15280aa87a8844b46edcfe3"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "9ab6d3cbc3515d0125222de294897941e7f4e226",
+            "ba37e3c4a092141ee869bf05cdcc44709bd433e0",
+            "343fb36c7f01d27f507776efab01a085ecb5bf9d",
+            "1e4b1fa68a9eea9376f802339e5e83503b6bd3fd",
+            "2e5f2dd1e1539790ac5a851367ef2cc000d4d5bf",
+            "9d28a104e132f4f8f5af9519336522ead8d00866",
+            "af44ea04408696c526c1781540a122db6eacef7f",
+            "9e529d9d584ae6f6978ac09056b73d9ccdde4a3c"
+        ],
+        "target_matched": [
+            "1e4b1fa68a9eea9376f802339e5e83503b6bd3fd"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "6c313a98712af78ee7b8ec2e47a051dcf17f2abf",
+            "69ec58ab5b6d18afb15280aa87a8844b46edcfe3",
+            "094f24c1b1e0657d48a16b46ed8edc2bcc0bc49e"
+        ],
+        "closest_matched": [
+            "69ec58ab5b6d18afb15280aa87a8844b46edcfe3"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52141",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68741",
+        "Title": "[7.x] Unmute more memory-related tests after the fix in #68542",
+        "Created At": "2021-02-09T12:06:36Z",
+        "Target Commit SHA": "97f6e972b997802dfa1da144202bc55a2a9a7f2f",
+        "target_inducing_commit_hash_pyszz": [
+            "a62052504e2adaa38e6140127f53c5e4a99f0f3d"
+        ],
+        "Closest Commit SHA": "b31190600956ca308c5ad43423288a7fdfc2a874",
+        "closest_inducing_commit_hash_pyszz": [
+            "09f823b1dbd64cb9b94acda7f61005a59e7aa897"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "8e5855e62ebae5fe814367fa85f9bfdc3105213a",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "3bb826aa5cf477d3f0cc2397bda517d501c08b9a",
+            "0588dad80b4463ecf571207f18ca684dfc577041",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f",
+            "a62052504e2adaa38e6140127f53c5e4a99f0f3d"
+        ],
+        "target_matched": [
+            "a62052504e2adaa38e6140127f53c5e4a99f0f3d"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "4ea19995cff603ce8472e985c902dd2f8fadebee",
+            "3d642ab0eb67f0a118c6a1f142e782fe056e841c",
+            "09f823b1dbd64cb9b94acda7f61005a59e7aa897"
+        ],
+        "closest_matched": [
+            "09f823b1dbd64cb9b94acda7f61005a59e7aa897"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52115",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68710",
+        "Title": "[7.x] Enable `BooleanNegation` checkstyle rule always",
+        "Created At": "2021-02-08T20:38:54Z",
+        "Target Commit SHA": "4bc7545e4333ce0ee4500f1b8367b9d79a48fb05",
+        "target_inducing_commit_hash_pyszz": [
+            "de14092ad2e698bf1888d1c7a63602d99edc34a8"
+        ],
+        "Closest Commit SHA": "713cf88a163735a802d20ee56e0fb4d143816666",
+        "closest_inducing_commit_hash_pyszz": [
+            "4ab4862848ba4d07071c70d9d007e952c0e56a4f"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "2049f715b37accb1a38d27292b2e0a51ca3795be",
+            "9c2980a55e11266ef419fec027b20025175f0647",
+            "5a38c930fcc42d93475596c92903123e06613bac",
+            "c32981db6bc4b04383a801ba40c6781d22f262fe",
+            "2acd0afdd5630d375e56ea3b5d9709318b63a636",
+            "54539a1eb0b3e4906f998eee94f5bbcce94b0e25",
+            "647a8308c302ef02d357eb3d352d06f41dc02b6b",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "a9f3619b5a10989ca8bed415a2dbb521b67c3739",
+            "9191b02213f2217ac97b199c82683088daa9f5be",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f",
+            "1ba5f8fb30fa080f5b1c5cd152db98db448a174b",
+            "34bd72e69b4f0ff68b28fda99adcb3971bb94784",
+            "b97546a5a9d9ab0556fc21854a7ed7c48592c7fe",
+            "b08d02e3b73851b8d4d8446b13c521da6e06b4f0",
+            "8145b100f1fa35fea4373dac3083f7e48c5719ae",
+            "ffa5919d7caf829ae7ac9fc0a634c0b50f7e7f59",
+            "dc57eece75334b4fb2875082790eda3cf5e5088d",
+            "20c6c9c542835f1620a495c54f2d84235f338fa7",
+            "1df6b6c65d613b5a499dbb3b947781e760863f44",
+            "4f662bd289e4bc5b97da14773a20875cadbae70c",
+            "cf8a4171e12a7a12e94e7e8638fdf9ed49dff96a",
+            "abe889af754b1308b0c309ba63087d5a6a60124b",
+            "de14092ad2e698bf1888d1c7a63602d99edc34a8",
+            "3189ef49a5d4de87ec906764e7d703445df0c0dc",
+            "e8472908c14b9a924b11663aba461cd0da22f550",
+            "090d42d3e6c2181d12a92e856ee818dbdef0259a",
+            "19fc53296166baf40aba356519bd7501639b8e03",
+            "0ae6e531735042d0e26e3307bfd6f0a8e4d6922a",
+            "ee84038699ce22592df4154f37e2edb7b4c3e8fb",
+            "063ed78c4227ea433af9eefae7f9e88b861e9422",
+            "d41b2e3f38eecb7ba7405e8a028e145419ce8f22",
+            "cdfe0f1f5ab4afae89030459c4b67e9aa1a9c928",
+            "47e5e34f425a4f636944b192b0bd524b958b80e6",
+            "943a016bb20c99bf3a45b1c1804abbb29c45bb53",
+            "6fcbd07420f1f779a58fa5d49b834964896a2ac1",
+            "ae55f506caeea0236787668cb906a5e4baa105ef",
+            "8a4eefdd839d6592294949d782173e578b90ab9e",
+            "9050c7e846b6a34e7a33e05418b29f5789154943",
+            "24e43dfa3425468aa776679a7ffc8fb5180406ca",
+            "0ee16d0115703860e3ed24ff47c5b07ad1206587",
+            "aa6248d4d72c568e88e9cd2bb51bf7d78014872c"
+        ],
+        "target_matched": [
+            "de14092ad2e698bf1888d1c7a63602d99edc34a8"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "9ae6905657b310ede5d968d71f4f3265eb26db5b",
+            "c5aac4705d7e5afff701830f1a9e1e82765db6eb",
+            "4ab4862848ba4d07071c70d9d007e952c0e56a4f",
+            "df7ad9970b42d15e377130966054070574016316",
+            "668d55758b751e848f2b82299e2c5e74af55cd12",
+            "0f76e656dd05eef1dcc8eff7012a90c6070fc402",
+            "510397aecdb95047995930f48dc439614aeafce0",
+            "a5fd4a77098ff533c636f6be779ccd90965967f5",
+            "41039a64310bd42ef81aedf1c93177308fa4d839",
+            "db54e9c2d5d5fc3405cf29a4f92ef56ccc17b4dd",
+            "65039ff21de11804a174c803ab863af177b07540",
+            "75123379226f89c84dc0f2ccb47707a4f01a080b",
+            "234a3794e5e6cb85ef8d43619884209bb93c6399",
+            "80062fbe10b574cd1a9723caf197254a5c54e752",
+            "6861d3571e6ded1b9718aea55d20072bcbf632d2",
+            "dc0d81b8aac03af962e895381406f312565fd358",
+            "610ce078fb3c84c47d6d32aff7d77ba850e28f9d",
+            "7054d24f0d75b9b0c728b8632a1606d9f9bd5a12",
+            "ebd6316db9be1ef69ddc0a929bb225ec6d9b7ed6",
+            "e03c4938c5f1176bd4c6b6d2aa1aa1bd48245ace",
+            "4b8456e9540bfb351c1ed9acdf4c292f4b10931e",
+            "10cdb0ae221a672bbc348140a30454d5aab29554",
+            "4abb5fa297d0598198da67eae7de304e232fc49c",
+            "3b2a0d79597c8769d04e8f8cf7e44e59397bf6b3",
+            "5fcda57b37f1d87de116c98b8234affbc29500d1",
+            "a8eedd0457d8c6341e81e744e1576be65d29c5d8",
+            "54437c1bd3125c1e5cddbd1cad4a26fca03c002b",
+            "7064056d1379d13d49cffdc425eb95fbcfed15bf",
+            "a5a8b4ae1d353751ec300d9ecc5b883c107f3267",
+            "01c62fc06b50b2335f870c8b2e5fe7473868aeb5",
+            "05c5804341adc7447b96ae8bc4965c4713a4a354",
+            "4918924fae600cb7d9c329c55c76c44e8320a3c2",
+            "baa87db5d10aeadd896cfbeaa3d42379a5abb6b5",
+            "8b95c5fab8e00c62649c413489e3acf7bcba2cd6",
+            "fac66a7528d11f50af36f9ac7e01fbb96e7c1a59",
+            "b1735aa93b557f173abf4c2337917cabdfcd30e0",
+            "ab0e3a6db2796e82f065cdc3c052f7fad93b7d3b",
+            "577dcb32374cf2528a5deadf0a57f1ea1d5a9cbd",
+            "c33f85bc37bbfee87158738f538d380c0cc31d13",
+            "ed996c3e850b047d52e36e7e865e3f39ccfd7ab6",
+            "36c3e896de86ced11a239e9b0ce66a896d472a8a",
+            "30b5ca7ab71b74a6f92a49f6dbcf9dfe87abc8a4",
+            "d8808210f14c8f340e79bc3426bb7ed34f65ef10",
+            "7db9e98ee77e50c9e0b8b8f859a00263903a1980",
+            "00f5ca57facdd6089959d5ba56296663313c0064",
+            "c324251fc2b4c12adbed05396fe17a3682e01933",
+            "64d362ab9dafecede99d27f1bc59a4cd848bc9f9",
+            "f5daa165f12a9ef84006ba16d89c8baf1efe4b94",
+            "cb0d7d4735665fa8ca1b59555a06354859c0045a",
+            "574d1b35b35e2eb511cd42ab32d3d945b9852e47",
+            "770d9cd0591cd8b9c96ba7dde6f708c8aeab4746",
+            "30b57be8f4ca45d57254038c8723aa54c4fcb871",
+            "a433c4012c51263d49e33cb9c708920f84b86f99",
+            "f8b5d1f5b07fe015e755ed3ffdf450b11a51ef63",
+            "04e08f5e491477f573b9e3ac19ee4b57cf7886db",
+            "7acdda74f4a448adad22f51c31739bda57b182b9",
+            "d48542a979a69256919019fcf001ac1ccca3fcb4",
+            "15ff3da653c5dd9eae7f7a654a9ee6a931d478b7",
+            "ebc745211d454fcaddde90159d75c44aeecf6f3e",
+            "e8da7e33fd2ecb5ed3f4178e1568254428616bc3",
+            "1588c761ea9a30406046d24fc43512a9fa94175c",
+            "0d9e3adc951ca5b5d7978ba7eb32cdb1d37e5fa3",
+            "1338bcc93650642d53bc33c9ecec487a34ff366a",
+            "8db27cc5bcaf38067c6bd1f6abf93b023bffe78b",
+            "114d10e5a96b071121ac7862e176b1e15112aadb"
+        ],
+        "closest_matched": [
+            "4ab4862848ba4d07071c70d9d007e952c0e56a4f"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52032",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68615",
+        "Title": "Revert \"Remove aggregation's postCollect phase",
+        "Created At": "2021-02-05T22:30:37Z",
+        "Target Commit SHA": "9fb5c811fc04e13e2b4d010ea98656d4af6207a6",
+        "target_inducing_commit_hash_pyszz": [
+            "5c9f79534f4c493f254fc502da804e7da5cf9782"
+        ],
+        "Closest Commit SHA": "0bbc6addd9b5314db9115fa4ac10211e43ba2d66",
+        "closest_inducing_commit_hash_pyszz": [
+            "126ec9edf6cf725e0f221082a8b5e175056e6380"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "fe36861ada3e75259ff601a9f6b0e1cd5fbb8afe",
+            "637cac90614018d6e46c781547ddac2000d71459",
+            "60d4b7e53e44bd6631cd28443fc9ca0759f1b250",
+            "295051ee8c05b66df931a2605ce7d916407b98d6",
+            "1e11b05b58e09f47dfbd155bdfca74399c054ff0",
+            "409050e8de4cacbfac4b68ab12bbb928437a4499",
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174",
+            "5b427d415e5de7bc326caa3df6e317e82a60855a",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "777f4b316087631d9eb08088dc4e667033ce9ee5",
+            "27d663b64b775355bb787355888132837f28db2e",
+            "7d60f6b365067e6c75132725ce772743cdd6c155",
+            "8b0526ec9e3a45890a5ee7d5b26d98ec95324a71",
+            "d029a131ba116927a8b005533cb56f1a24e0d9a8",
+            "c8b5be186d041325414178e4c8b708022454a39e",
+            "1e6a924e7412c1a54119359ddec60336c5c3d5a7",
+            "33a264a408ea6f7fc41ae17350a0ca7626b5a814",
+            "9200e15b74d92593aea0c157741739c12247f6c4",
+            "fd4eb96d1c2ee7091d99b5a5069673de45833801",
+            "4422c0ead9cd0af561b06313c633da25308379db",
+            "eeb964c8869284cfe97543ae9ee5f99c86eb8f1c",
+            "e9bc12eb784a77a7fb558163eab4fcee52fd1bc8",
+            "1c3d9077488016da7407124b56d0eb5fde7bb8a7",
+            "3c94f805d8fbc53863e5b916f04a54c625ab5756",
+            "401800d95840a91fb0c8896251d2b6e7972a707c",
+            "bb130f554e8908be2d8fbb9bb1185cffed9d5255",
+            "8f87bb3211391800ec02dbb2efb6fa4661e3ea6a",
+            "5c9f79534f4c493f254fc502da804e7da5cf9782",
+            "aadbe817675bd68a7b332ed06085f821eb7e97f9",
+            "220aa734ee19fe114376c764e2fbf41eee93e5c7",
+            "5d9c2706085e6d68c98227fbe6df747892af3de6",
+            "45733fd858bef25066f2e3f888f55e3faaa821d6",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "e82c969959da090f2aeb3941a574100af43f07e1",
+            "2d893df7e92a4f163c083d0d8259dfbdd0c44a39",
+            "715f7e9e015401adc7c30769fe954bf35f5e41db"
+        ],
+        "target_matched": [
+            "5c9f79534f4c493f254fc502da804e7da5cf9782"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "126ec9edf6cf725e0f221082a8b5e175056e6380",
+            "049bca0959047a532a145b61e28175aac56bf883",
+            "3af540b50dd526ee035c20d691d8ec32e8b5068a",
+            "491b00c4ec22f9e7130d55b01b16b292c7d2cbc0",
+            "1dea28a87843cb10360fda60cd409208814eb87b",
+            "5821fa042cf0b376ee4743c8d50a8eb79f4f67aa",
+            "82278bb7bceedd6ce3c9804161ac9a737b9479b4"
+        ],
+        "closest_matched": [
+            "126ec9edf6cf725e0f221082a8b5e175056e6380"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51845",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68416",
+        "Title": "Replace NOT operator with explicit `false` check - part 6",
+        "Created At": "2021-02-02T21:03:07Z",
+        "Target Commit SHA": "b59cff44e438c0e61d3c4c8a8aaed114a9cdcae5",
+        "target_inducing_commit_hash_pyszz": [
+            "08ebe036d57f867180016dbedff334fbfbe833e1"
+        ],
+        "Closest Commit SHA": "65501d0f254c8c71f03cd3733cc1a75eefe3a5bd",
+        "closest_inducing_commit_hash_pyszz": [
+            "ce7cb9972fbd828ce151004b881b02f84b7a901e"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "08ebe036d57f867180016dbedff334fbfbe833e1",
+            "7b743a0f4ebf6fd2747e1e347c69fabfd9e7febc",
+            "530caaaf8022b0c150022ac71a6335e054472bd9",
+            "a45429cbac9e269acddba9b9633057d84dff0146"
+        ],
+        "target_matched": [
+            "08ebe036d57f867180016dbedff334fbfbe833e1"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "6acc3f26161a0ee01bb310dec31c29e60764e3a2",
+            "2eb3f02e40c919e586bb2400f83c53a193e28b80",
+            "387c3c7f1d9c5aa6e5c02a71ed3a64ecf6c11872",
+            "855c63dbc79cd11905a2c74a2d4f395e31d494d7",
+            "280732a120a4cda45bd2581e0a21e3badb17dd93",
+            "03b704f79bb9cc4707fef1a32022810b4b622bde",
+            "09fcecc069e6b77a7cf58be744c280d17630b0bd",
+            "2d59c84f3fae81fe46a1518359baae4571059b8b",
+            "3953de4c9885f085874b1e844b3e1c98a5c6a417",
+            "5c77ebe89d2c0246c0c505f8e9466c69490eebe5",
+            "c4038b52ed6ce22a85e7b69b2ccb697fb20c8505",
+            "8e838ea12e37ae10db6f844a8bcf4a1158c89976",
+            "13573d6c6da02558313697e42749590879d1dacd",
+            "c1016f3c3d1307d9dcaae7e820b234e8b4c6a457",
+            "18a2cf23d4c0b08820ba01ccdc19689fd7207c26",
+            "9709036024321ad147b0f6bdc6a102f1644f7d77",
+            "c6cbc99f9c90c75e883393dc6b4691033ab73d72",
+            "ea032cd3a975365aff29484e4d948b329d9c8f98",
+            "c62f6f81770ff5b7ec57fadaedce03a77528a7f1",
+            "7ba3c3594e7f6d990d13ddb2458ac808ed23e052",
+            "95a7eed9aa35f47b228e402508709b5bd6703cf4",
+            "42076f89cedb6232ef5b007971f0e0941835bb70",
+            "910d7c6372de357844bd4ea5c3a92efb910fd465",
+            "96a6de22d9003763202e56b7fe324e2aae70f215",
+            "fe36861ada3e75259ff601a9f6b0e1cd5fbb8afe",
+            "f727e29066b5b8a149367388aef7d3a4ee33deec",
+            "7f24f229e20b199b2d2474ad9ff1856b3bb43dbc",
+            "4cecb7a5be019bd83d3257018a05cb5487320a0e",
+            "a90c1de8745681356a6516f4f22a8c40f71f6b12",
+            "c02aa4055cb590d18d7f246e72230b8ed38d13c0",
+            "5fa36dad0b8503bef3d91173bb342da555445c26",
+            "215410e93f04b26c34b3fd742c8c19af0ac10e4a",
+            "2f2b690025666fdf52d097afd75cc162e70f3da9",
+            "5d095e2173bcbf120f534a6f2a584185a7879b57",
+            "e5d18ad45cc9530ec4a7f8b0328e8bc65dafc344",
+            "ca6808e55de5b9b5d0daa074c1512366fcb57fde",
+            "76ac6476104d8701e8ad37563fcff693521d352c",
+            "21f692c02b7ed56894630102ad23c397da529edd",
+            "5be383288949c8259341d244f79db74afc29ca77",
+            "e06f2afa7e51f0052ba02a78b848669152262edb",
+            "cdfe0f1f5ab4afae89030459c4b67e9aa1a9c928",
+            "b376edf26982f7b7756102664086448cba93e176",
+            "cfb94b66270dc2d15af07acfa93644f9918ca71a",
+            "36d61418851069a63c6c8531b01560115f5377df",
+            "b6e8df6a326f45ae5c93b978c2fc418b40d94392",
+            "5f01f793d5541293e965d0a38a1cab8b2a2db77d",
+            "23123b92193f10dfe3970e7715f1f74168f20b4b",
+            "6a6e44545c038d2aee3460b0045b498871e3e095",
+            "ce81a34467f613139b80c7d8d8c408fe87d5b560",
+            "3fd1c90707fa3f09cf59d70c1a6b8478125e688b",
+            "1bb7651dba5b991da4195019ae285513277c2d7c",
+            "644c0de5ec0e14ca6ab3abc8d4a18b96f95a023b",
+            "06df439db0219c9934382a413ce17c5709858350",
+            "66b4d5e6f82fbd6789874a0338a7c9665ed22545",
+            "4710a7472f728c9e9bcebd1c25001fddbe3866ec",
+            "e294056bbf3ce579c41847d0bbe4a407f9f3f1cd",
+            "7d3c6a778f7a6f83a7de122d58976d301cfa0a57",
+            "7c8bad6b531c8dcc194b3c1927619f05ad808d49",
+            "56d32bc8b2c73417df0d3e41206ef128f09558e5",
+            "6113b86bdbff8cfc920caed6e12f9fee44e95579",
+            "b292051a1349ecd381480243b89aec804e712e43",
+            "220aa734ee19fe114376c764e2fbf41eee93e5c7",
+            "2aafcf40dd58e6ded4dcb6b1884be0a4ec082152",
+            "a6f83083a12339ab13bd1c38755efa28e6a404a4",
+            "18478d63c2c0cde2487ec29fd82eec21690c8c70",
+            "c491e4db167ff2288a32b83d824a4c7c80e10d04",
+            "2a1b3250dbca9b81a6252e3a1c502fb3fbe0094a",
+            "90b2b74e7691fa81489e76b6840e2187debfe29d",
+            "f0a3d326022b92ead0a2b2bf9c5155a77d8ad8c8",
+            "86262d5ca5f4eede2d53b253666b614e9b36f3fe",
+            "4033c93a137502cf3ed5f98a745c840fb81c1412",
+            "b44c0281e6cbb74b3b4f50fbb31b61cc1bfb32d5",
+            "e00bb69982677d244bd7c317e11f2c5c8a56aed2",
+            "e8ffcd748834cd23f457ae516dc3ea57ebe255c6",
+            "8ba6e8b3eba7669f3125b07f4a33737b88b6c9c2",
+            "a632d57803262ad347b1e2726dae9f0f10d42b32",
+            "f41efd6753dc3650a7eabb3e07b02b3b32c5704c",
+            "cd99024599ed01615a06e3fdb756df89a8515fc3",
+            "ce7cb9972fbd828ce151004b881b02f84b7a901e",
+            "f04fb68b43313420ed1f419da80c1c756ee95d7e",
+            "368099dcbd29c82e4873cc935e557af4278670c8",
+            "91434f7721954465e21c52373dcb53f5881d6160",
+            "89b7d085e1fb51af10ca2a3202574bf956c3a5fb",
+            "57b7c7eb8555381aa0a882512bf5ef3563e8e426",
+            "70b5d36098e74bb4224d80d7c9b0f5dd60cc35a1",
+            "0731a98e971affd42a1a7e6bc0c6df48f14cf12b"
+        ],
+        "closest_matched": [
+            "ce7cb9972fbd828ce151004b881b02f84b7a901e"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51660",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68191",
+        "Title": "fixes #33434",
+        "Created At": "2021-01-29T05:20:53Z",
+        "Target Commit SHA": "d12672e141852c95d65fcf6b0212b54ff8a7c6de",
+        "target_inducing_commit_hash_pyszz": [
+            "11fd96d371d859358f54b8fd28d929aedba6b6d2"
+        ],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "25944c4317bc3499ab5659993df3fc18ae9e01da",
+            "98da0ff2ffff3aeb9e9aa0efbb18edf83ff97dd1",
+            "0536635c44b56687f6aeea241b758e2c37363d18",
+            "60e45cd81df1f3a35fa66cb9499e30059a4f8be0",
+            "c82f1be38666b8fcf9c76806a22c61b4687a3e4d",
+            "ac83e45a6b75fa0e9daa96647e5cc6e4dee1d624",
+            "af44ea04408696c526c1781540a122db6eacef7f",
+            "1287c7d91f8610cd4f1b480e4a07f11649f7754a",
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056",
+            "2f7142ccc71d4014aa874a802b54e73ad759ba23",
+            "d4bb3d1ce5e13d73a53e6a379668f2cb246653bd",
+            "27fafa24f569b098eeb524406a89e04627df0935",
+            "3828ec60f5c358cb9f968488ccdbbde697d66514",
+            "dbbdcea128af746d94d4b5a246026929d2b5bca2",
+            "773876caee2e7e123094b9f2d0539e925cf0c13a",
+            "11fd96d371d859358f54b8fd28d929aedba6b6d2",
+            "9e529d9d584ae6f6978ac09056b73d9ccdde4a3c",
+            "2c82b80b8529a1b855c2916a83532c32bf65a313",
+            "c1816354ed01d537c9a4f0608ab67aff2bb2cb9e",
+            "1b97652a4cc1aa2acbe761464745abb35dd8faa0",
+            "ba0c84802768bb37a9fb623377de3143a758a0c5",
+            "6ab4645f4e27dda7f4a86ecc8cdd874a52942f9e",
+            "fe9442b05b453de33f3054e80c5dd043036216ff",
+            "3e4bc027ebdba5dd1a0935a75b5218960f736f76",
+            "af8c23eb40b045f4335b592a8a500fe21e84b191",
+            "2cc611604f16cbedf94fb218da9fe29da7727868",
+            "afcdbd2bc03a9df3b5a45b6f7dfcc2b5e52df404",
+            "a7c3d5842a5d6448fcf71d436ceedf823f58d5c4",
+            "a8faf9768adb1c8a7426ceea59b776c977beaba8",
+            "90fcb38448158d3a5d595307ee9f5c3d64b42e7f",
+            "6a5f3f05f405095ef97c6e40eca4cbebcc4bb82f",
+            "a2dbd83db1f5b3ad32c315b48b8229a6269b0438",
+            "d0fd23669add7e72e0f344337dc66f6c1c43a2f1",
+            "667c613d9efa5929aa8de3fb84069feb5b05b650",
+            "0ae103c40f671d26f43f45564a493ac9057def92",
+            "f3edbe291146d92888087c6458a08d2e4cbb602d",
+            "a21a99da1817e703c7bbf73ea76ceca66a6a6428",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "a0362153e2d6e41d0d944a817bcef099f869e751",
+            "c753ddf7f25e8947023901a4433a8b045d03a585",
+            "023a126b5726a8e2beb951a2d7459e43cab2952d",
+            "aaa8f842d60f45d6303fb04a9f4fca4ca40dc4ca"
+        ],
+        "target_matched": [
+            "11fd96d371d859358f54b8fd28d929aedba6b6d2"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51536",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68048",
+        "Title": "Extend probe handshake timeout if security enabled",
+        "Created At": "2021-01-27T13:16:22Z",
+        "Target Commit SHA": "ba3051a50fe0ba84240626128a462c6670ce5a54",
+        "target_inducing_commit_hash_pyszz": [],
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/51518",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/68023",
+        "Title": "Fix SnapshotStatus Transport Action Doing IO on Transport Thread",
+        "Created At": "2021-01-26T19:40:32Z",
+        "Target Commit SHA": "51ada96fc424b0cf2ff19332c6fdd5095dfc0b11",
+        "target_inducing_commit_hash_pyszz": [
+            "ba37e3c4a092141ee869bf05cdcc44709bd433e0"
+        ],
+        "Closest Commit SHA": "f5c64af0cf49edf659c656584aace13965aa482e",
+        "closest_inducing_commit_hash_pyszz": [
+            "87bb19a348018289e5e0cb226bcfe3d4f03b6de3"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "78e483e8d8de03e4288076a92f4388cbf748129c",
+            "41af46688a48692744e8ebc3d8a9396c1c1f7678",
+            "39915f92bc76ccd8c4f170f9aefce97fe6672c9e",
+            "305bfea9c3c174d35136fddbf2bcd8544b4ea3bd",
+            "c88aea19d8b2e0fdbac0d9ff29416f7b5ede7652",
+            "c662565f291db3c7e95f9cfa75e764999cd1bbfb",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f",
+            "af44ea04408696c526c1781540a122db6eacef7f",
+            "ba37e3c4a092141ee869bf05cdcc44709bd433e0",
+            "1ebee5bf9b6e0a43eb8eebe8215b85a626534ae9",
+            "d44ba28d27f5115159e891ad514bc5345c77aa9f",
+            "2e5f2dd1e1539790ac5a851367ef2cc000d4d5bf",
+            "7d052578969cb3f16200cbec9d8837b795bfaaff",
+            "57de66476c9d7e37f56d0c7ba861134c4485bf1b",
+            "574ec6686ed5edfbc9876356d8e8c53aff107289",
+            "5b57727b34b844294fdc7dcdbcdb5dea8678a5c5",
+            "e21d58541ad91be9e2d621de59de0e0756c72258",
+            "9b3fb66394bf096c8a258e9eae04ad0791ae2b85",
+            "f5e86cabafbca42d0ea9fbbdf3f6ea2602fd2ff4",
+            "7b36046f33d6901963775769bd8d603d3e19abcd",
+            "51c18c0e760c754f0f674f16936080b1ff609a0b",
+            "fe9442b05b453de33f3054e80c5dd043036216ff",
+            "0788188574583c6b3cabb27b374b0ea6f97f5ee7",
+            "1d8b5fc658f2a298ae6b17d10a9741cd351ff5cb",
+            "f3edbe291146d92888087c6458a08d2e4cbb602d",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "b0cc5afe8bf187c003c437627b6644b786fe1f29"
+        ],
+        "target_matched": [
+            "ba37e3c4a092141ee869bf05cdcc44709bd433e0"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "87bb19a348018289e5e0cb226bcfe3d4f03b6de3"
+        ],
+        "closest_matched": [
+            "87bb19a348018289e5e0cb226bcfe3d4f03b6de3"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/52886",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/69632",
+        "Title": "Speed up terms agg when alone (backport #69377)",
+        "Created At": "2021-02-25T19:58:48Z",
+        "Target Commit SHA": "150735c29c80762fa39743db738f52f126fd9a2c",
+        "target_inducing_commit_hash_pyszz": [
+            "de85336ef487a1cb1c43b44f081e43cdbcae5f19"
+        ],
+        "Closest Commit SHA": "c153abb5ab55bac490c34ebb026a6743c356746c",
+        "closest_inducing_commit_hash_pyszz": [
+            "6eedbd16603d4fec281f04c84b6be138425fed4a"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "fe36861ada3e75259ff601a9f6b0e1cd5fbb8afe",
+            "de85336ef487a1cb1c43b44f081e43cdbcae5f19",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "777f4b316087631d9eb08088dc4e667033ce9ee5"
+        ],
+        "target_matched": [
+            "de85336ef487a1cb1c43b44f081e43cdbcae5f19"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "a0b004acb5965508782f5430c240f71580478832",
+            "6eedbd16603d4fec281f04c84b6be138425fed4a",
+            "5de6f10f6614ea354ee73665994cd22ea8b876a7",
+            "4131bcbec745485161edd0f304186dbc649b9e90",
+            "cc41e6e7fe2647dba91711266971d93735c7c00d",
+            "e1679bfe5e1b2be0cf9da24c71d36a059163486b",
+            "a63b9baee47deda217d7f32401f41e02be62f700",
+            "a29d3515a2772050a08a31a4d23944089cb9f67d",
+            "b71b0c9ea58a0fac300055919df96dfdf01ee661",
+            "a49eaffa9cfb70ad162db99974ad721631eca347",
+            "d0130ce81d3dc03a0446a18582d9c765ee95b0c2",
+            "7ca69db83fd9a3677307ceac098f78340ed40825",
+            "b72f27a410fb8e4b21cdedd7485b317add305597",
+            "04d0db7ab6b567a946a9f5c9146c663866c652d8",
+            "2f38aeb5e25bf60897ddf87d54357abd92f14ce8",
+            "690fb2cd3f957c318a3c71c8a422cb7bfc928cdd"
+        ],
+        "closest_matched": [
+            "6eedbd16603d4fec281f04c84b6be138425fed4a"
+        ]
+    }
+]
