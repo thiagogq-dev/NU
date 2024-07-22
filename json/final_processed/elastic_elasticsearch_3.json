@@ -1,0 +1,332 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/59378",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
+        "Created At": "2021-07-12T21:11:59Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "c061964a3a4eb011a387a06165d0c66d3b706396",
+        "closest_inducing_commit_hash_pyszz": [
+            "36f8531bf463788547545b52feca588b76ad49b5"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "3f6472de748d9d7dff66c6ccacea57c08b539b7e",
+            "023b6bbcf16e1e7108ef6feb4918c3691addb051"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/59376",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/75266",
+        "Title": "Fix Default Restore not Restoring Indices when DS are Restored",
+        "Created At": "2021-07-12T21:11:59Z",
+        "Target Commit SHA": "9e1f912cccfbc1aac79352b17902077e0815e68b",
+        "target_inducing_commit_hash_pyszz": [
+            "a28ce1e21c5e23e0efa43ed115be37daa3a94252"
+        ],
+        "Closest Commit SHA": "c061964a3a4eb011a387a06165d0c66d3b706396",
+        "closest_inducing_commit_hash_pyszz": [
+            "36f8531bf463788547545b52feca588b76ad49b5"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "2c6aa90a3bc4a9860e89097d5f88cf8cdd5a03c8",
+            "f68f5130642fd31da49859beab55a0d42801170f",
+            "e73c9c90ee8a77c8b97e6bbcfc540bb7a00b2dae",
+            "18f0d5333b6aef1697505a06306a6fa6aa5c43ea",
+            "7dcfd45ec95cb1d1200dc62d1708e0f4551d707b",
+            "8b0526ec9e3a45890a5ee7d5b26d98ec95324a71",
+            "fe36861ada3e75259ff601a9f6b0e1cd5fbb8afe",
+            "38185e5da05e8b6322ae7f1eed8399e869cafd6b",
+            "a28ce1e21c5e23e0efa43ed115be37daa3a94252",
+            "83cf22a7881a36fa172ccdf812cf9ab40da8c126"
+        ],
+        "target_matched": [
+            "a28ce1e21c5e23e0efa43ed115be37daa3a94252"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "3f6472de748d9d7dff66c6ccacea57c08b539b7e",
+            "023b6bbcf16e1e7108ef6feb4918c3691addb051"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/57050",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/73298",
+        "Title": "Make sure to return total hits when field collapsing",
+        "Created At": "2021-05-20T20:31:19Z",
+        "Target Commit SHA": "afbd8cac63c45f3b13a243dee7e5792cfdfb8270",
+        "target_inducing_commit_hash_pyszz": [
+            "16e9433ead160b27307c99bffd78ff9ac45e3955"
+        ],
+        "Closest Commit SHA": "aa94cd52124065bd686224035c64e80543a1b76f",
+        "closest_inducing_commit_hash_pyszz": [
+            "f85a9dddb92aaf6cad45941ef2768fb86aeaf76a"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "16e9433ead160b27307c99bffd78ff9ac45e3955"
+        ],
+        "target_matched": [
+            "16e9433ead160b27307c99bffd78ff9ac45e3955"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "7ad71f906a9608e1c168358624f4b0a39b240296",
+            "f85a9dddb92aaf6cad45941ef2768fb86aeaf76a"
+        ],
+        "closest_matched": [
+            "f85a9dddb92aaf6cad45941ef2768fb86aeaf76a"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55995",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/55981",
+        "Title": "Fix input snapshotting for test tasks",
+        "Created At": "2021-04-29T20:31:36Z",
+        "Target Commit SHA": "84a2f1adf217c8da2817a7d36d9f5694ae85b4b0",
+        "target_inducing_commit_hash_pyszz": [
+            "d57a047ab76ace23e047c3e4e36419bf4ac61e75"
+        ],
+        "Closest Commit SHA": "3b7ae2d14fa755aa1e868acbd018941fdb8380a8",
+        "closest_inducing_commit_hash_pyszz": [
+            "fb3bae7bd6da12c9fd83bf06b7f83bce77f0a8de"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "da3d7177bef236ccf7cbcd8d547ff7ac8b80fc5c",
+            "7691859baaecb196260d87b0fe8bad88ea254d95",
+            "e41c0b1224001a4dc8014279056fa438f43ab1cc",
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "5b427d415e5de7bc326caa3df6e317e82a60855a",
+            "a68fb27a23882dd1ced249a160e641dc847070c1",
+            "dab504f6ba0b870c8e40752131629bc129996454",
+            "1e6a924e7412c1a54119359ddec60336c5c3d5a7",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "8aa58887e2a15ebe49358b0a33f1f4ec81dd5836",
+            "31c851f5c2a0fed7234cb40febccf12915e06af8",
+            "d57a047ab76ace23e047c3e4e36419bf4ac61e75",
+            "637154cc6e29efdfcdc7cef96f78d7e5fcf53d9d",
+            "c5f191f6afe59a4c805c4a6d0b7b22d566f7b73c",
+            "d08446e221f1957f8b2495afd3d08f8d8891800d"
+        ],
+        "target_matched": [
+            "d57a047ab76ace23e047c3e4e36419bf4ac61e75"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "fb3bae7bd6da12c9fd83bf06b7f83bce77f0a8de"
+        ],
+        "closest_matched": [
+            "fb3bae7bd6da12c9fd83bf06b7f83bce77f0a8de"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55836",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72341",
+        "Title": "Make feature reset API response more informative (#71240)",
+        "Created At": "2021-04-27T21:55:46Z",
+        "Target Commit SHA": "38185e5da05e8b6322ae7f1eed8399e869cafd6b",
+        "target_inducing_commit_hash_pyszz": [
+            "1f392a7d63d74cb65b67c9441be0c45c54ede411"
+        ],
+        "Closest Commit SHA": "3db139433171158ba8f7fdce7d7c1812d69a3877",
+        "closest_inducing_commit_hash_pyszz": [
+            "2657496dc72f900fc901f4650bd52e7eb1f17da9"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "b26fe5d212dd49f5862c9ab20057699aa5b8d5c4",
+            "c344293aed997ab6f844f7ad9dab15ff1b1d9d55",
+            "d7c5d8049afa2edea2cf13c1ec423647bea6cae5",
+            "e356b8cb958cba03050fa698865c465b3bf77267",
+            "7c90801aff398d9b73e4fa24933550d2320a5a4d",
+            "70f9bcc0d1dee3aaadca84bd66a39528bfc10a3a",
+            "1f392a7d63d74cb65b67c9441be0c45c54ede411",
+            "8177e7102d9438c0b6d2fe55a351089a5e5b98a2",
+            "387c3c7f1d9c5aa6e5c02a71ed3a64ecf6c11872",
+            "5e74e82790b1276c60bfb070f777a9531ecf57c0",
+            "e586a218133b6e63c0e6b9c61ea28e97af08bf4e",
+            "a211d24bda99b810868a79215d4d053332600cd4"
+        ],
+        "target_matched": [
+            "1f392a7d63d74cb65b67c9441be0c45c54ede411"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "ec8086a724373c310e73821940d37d45600ef16b",
+            "a42ab493820055410ba6db770cf21b851e16ee10"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55700",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72185",
+        "Title": "Only delegate test events of current test run",
+        "Created At": "2021-04-23T21:47:05Z",
+        "Target Commit SHA": "97c4b64fb16aa6fa1efabddc3e219455b080d16c",
+        "target_inducing_commit_hash_pyszz": [
+            "ac87c100396992a1d96954739be7e8569b40bff5"
+        ],
+        "Closest Commit SHA": "8712cfddb79c49014d6e02ed120ba952a167c87a",
+        "closest_inducing_commit_hash_pyszz": [
+            "a1cd67f1c60fe84b4e110b858685320988bcdcf7"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "273c82d7c9d70f3378c3e2dafcd2fab851c4308f",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "0ee16d0115703860e3ed24ff47c5b07ad1206587",
+            "d48ad6dbd67114e79f0830838d9452312501607b",
+            "ac87c100396992a1d96954739be7e8569b40bff5",
+            "305bfea9c3c174d35136fddbf2bcd8544b4ea3bd",
+            "c88aea19d8b2e0fdbac0d9ff29416f7b5ede7652",
+            "090d42d3e6c2181d12a92e856ee818dbdef0259a",
+            "b8ef830c0ac66d2b8b1180ed37072e3fd5fc1894",
+            "4bc7545e4333ce0ee4500f1b8367b9d79a48fb05",
+            "7ca69db83fd9a3677307ceac098f78340ed40825",
+            "dc57eece75334b4fb2875082790eda3cf5e5088d",
+            "fe9442b05b453de33f3054e80c5dd043036216ff",
+            "e41b53c3441127d202c3dd0ae17a8253c455d841",
+            "66071b2f6e2b161afe89ea5f3b6e3a8d036b78e4",
+            "0cd03d358140193cc84434d385947e84e0b70607",
+            "caa4e0dc183eab6da02e7c10b80c7553c3d8f6d1",
+            "407cc3a9d7271ba5b3ec6227729a922d650fdf06",
+            "0ae6e531735042d0e26e3307bfd6f0a8e4d6922a",
+            "8b6d988cfb8de076f23490cb50b5a817645ac6cd",
+            "fe36861ada3e75259ff601a9f6b0e1cd5fbb8afe",
+            "cde8725e3cab43d27b517315d9d566bdc5d2f43b",
+            "570411c2dcfec8c58df8e592f48c8508cf182770"
+        ],
+        "target_matched": [
+            "ac87c100396992a1d96954739be7e8569b40bff5"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "a1cd67f1c60fe84b4e110b858685320988bcdcf7"
+        ],
+        "closest_matched": [
+            "a1cd67f1c60fe84b4e110b858685320988bcdcf7"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55578",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/72063",
+        "Title": "Fix wildcard intervals when prefixes are indexed.",
+        "Created At": "2021-04-22T06:47:59Z",
+        "Target Commit SHA": "3f08c8d69a9ff69d1a1f55ebc38da38c15635993",
+        "target_inducing_commit_hash_pyszz": [
+            "97ef2951b73bf19cf3ac3110802c041ea633cdc3"
+        ],
+        "Closest Commit SHA": "2b144911aabbb8051d996f215e2ce5ad0253e436",
+        "closest_inducing_commit_hash_pyszz": [
+            "1c1ed530edf64a40d02605579efa9dfe1691c354"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "97ef2951b73bf19cf3ac3110802c041ea633cdc3",
+            "3ea5a6df91ab2e92d00fea9ebf57c89aa6d3a746",
+            "c86e2d5211e5fe8667f8bb716552e727ecc081b0"
+        ],
+        "target_matched": [
+            "97ef2951b73bf19cf3ac3110802c041ea633cdc3"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "76d0edd1a4e009175fd40155f58d094a57f0b1e1",
+            "1c1ed530edf64a40d02605579efa9dfe1691c354"
+        ],
+        "closest_matched": [
+            "1c1ed530edf64a40d02605579efa9dfe1691c354"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55421",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z",
+        "Target Commit SHA": "a10b25e185a5f5918b5bbb460cc27c5baa8ebad7",
+        "target_inducing_commit_hash_pyszz": [
+            "06c5db2220e06158247741dfd2f2572ac0965d91"
+        ],
+        "Closest Commit SHA": "6ad769548a55049b9c9b84bd61bd2a58438fac0b",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "06c5db2220e06158247741dfd2f2572ac0965d91",
+            "d3230c9239927f48693ae9d261a91563b5dc0b7f",
+            "14af0b4ba810f1d938ea3bb8c5da596763f03ae4",
+            "3f9e86b7094d2831852cb3f4a25a60f2e0b4da03"
+        ],
+        "target_matched": [
+            "06c5db2220e06158247741dfd2f2572ac0965d91"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55417",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z",
+        "Target Commit SHA": "66071b2f6e2b161afe89ea5f3b6e3a8d036b78e4",
+        "target_inducing_commit_hash_pyszz": [
+            "c9421594bf36ee69af915f8984e3f9bc82502fb9"
+        ],
+        "Closest Commit SHA": "6ad769548a55049b9c9b84bd61bd2a58438fac0b",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "20c6c9c542835f1620a495c54f2d84235f338fa7",
+            "090d42d3e6c2181d12a92e856ee818dbdef0259a",
+            "273c82d7c9d70f3378c3e2dafcd2fab851c4308f",
+            "f5c4e925585ca911033c6739a36a809f70bf821c",
+            "c9421594bf36ee69af915f8984e3f9bc82502fb9",
+            "c32981db6bc4b04383a801ba40c6781d22f262fe",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "0ee16d0115703860e3ed24ff47c5b07ad1206587",
+            "b8ef830c0ac66d2b8b1180ed37072e3fd5fc1894",
+            "4bc7545e4333ce0ee4500f1b8367b9d79a48fb05",
+            "ae14d1661e1ad03d2bd3944147a4ce85d5365502",
+            "7ca69db83fd9a3677307ceac098f78340ed40825"
+        ],
+        "target_matched": [
+            "c9421594bf36ee69af915f8984e3f9bc82502fb9"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/55366",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/71782",
+        "Title": "Mute testBlobStoreCacheWithPartialCopyInMixed...",
+        "Created At": "2021-04-16T19:26:17Z",
+        "Target Commit SHA": "62719221a5838df31cafc6db3fc69f4e043c73eb",
+        "target_inducing_commit_hash_pyszz": [
+            "354f131449228ba4cfa9a9d31830b08ac20f7ffb"
+        ],
+        "Closest Commit SHA": "6ad769548a55049b9c9b84bd61bd2a58438fac0b",
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "20c6c9c542835f1620a495c54f2d84235f338fa7",
+            "72cf242dc443f0704517f6d59d37d32e1c8a63c9",
+            "9467dbf1208970b7e8e60d3650b53dc0e6151514",
+            "273c82d7c9d70f3378c3e2dafcd2fab851c4308f",
+            "8b0526ec9e3a45890a5ee7d5b26d98ec95324a71",
+            "fd4eb96d1c2ee7091d99b5a5069673de45833801",
+            "7ca5495d86093cd4673f7a96f6752406ac82cfda",
+            "6efa5c5d6b0e2bbed50ed59176d06c91926bbf21",
+            "838e4556a72137bf22c8c70e724fc53137a7828d",
+            "c32981db6bc4b04383a801ba40c6781d22f262fe",
+            "4ab16c67115342e47d1ae9138f90c579140f3b5e",
+            "354f131449228ba4cfa9a9d31830b08ac20f7ffb"
+        ],
+        "target_matched": [
+            "354f131449228ba4cfa9a9d31830b08ac20f7ffb"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
+    }
+]
