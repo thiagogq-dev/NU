@@ -1,9 +1,6 @@
 import os
 import json
 
-import json
-
-# Defina um dicionário de substituições de chave
     # "Closest Commit SHA": "fix_commit_hash",
 chaves_para_substituir = {
     "fix_commit_hash": "Closest Commit SHA",
@@ -19,10 +16,9 @@ def format(file):
             if old_key in entry:
                 entry[new_key] = entry.pop(old_key)
 
-    # Salvar as alterações no arquivo JSON
     with open(file, 'w') as file:
         json.dump(data, file, indent=4)
 
 
-for file in os.listdir("./json/final_processed/"):
-    format("./json/final_processed/" + file)
+for file in os.listdir("./json/processed_data/"):
+    format("./json/processed_data/" + file)

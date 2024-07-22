@@ -1,7 +1,6 @@
 import csv
 import json
 
-# Função para ler o arquivo CSV e converter para JSON
 def csv_to_json(csv_file_path, json_file_path):
     try:
         with open(json_file_path, 'r') as json_file:
@@ -29,7 +28,6 @@ def csv_to_json(csv_file_path, json_file_path):
                 json.dump(data, json_file, indent=4)
                 # json_file.write(json.dumps(dados, indent=4))
 
-file = "NVD-selected-NONSECUR"
+file = "hugo-selected-NONSECUR"
 
-# Exemplo de uso
 csv_to_json(f'{file}.csv', f'{file}.json')

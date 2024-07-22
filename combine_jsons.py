@@ -15,11 +15,7 @@ def combine_json_files(input_directory, output_file):
     with open(output_file, 'w') as outfile:
         json.dump(combined_data, outfile, indent=4)
 
-# Diretório onde os arquivos JSON estão localizados
 input_directory = './json/final_processed/'
-
-# Nome do arquivo JSON de saída
 output_file = './json/hugo-selected-NONSECUR.json'
 
 combine_json_files(input_directory, output_file)
-print(leng(output_file))

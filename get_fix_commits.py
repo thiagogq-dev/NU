@@ -14,9 +14,6 @@ if not os.path.exists("json/with_fix_commits"):
 
 json_file = sys.argv[1]
 
-# for file in os.listdir("json/raw_data"):
-#     print(f"Reading {file}")
-    # full_path = os.path.join("json/raw_data", file)
 with open(json_file) as f:
     data = json.load(f)
 
@@ -55,8 +52,3 @@ with open(json_file) as f:
     print(f"Writing to {output_file}")
     with open(output_file, "w") as f:
         json.dump(commits_data, f, indent=4)
-    # remover arquivos lido
-    # print(f"Removing {json_file}")
-    # os.remove(json_file)
-
-# split_json_file("NVD-selected-NONSECUR-commits.json", "./json/with_fix_commits/NVD-selected-NONSECUR-commits")
