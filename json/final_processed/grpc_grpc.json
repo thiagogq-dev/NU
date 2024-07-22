@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "grpc/grpc",
+        "Target PR": "https://github.com/grpc/grpc/pull/13022",
+        "Closest PR": "https://github.com/grpc/grpc/pull/16889",
+        "Title": "Repro mem corruption bug",
+        "Created At": "2018-10-15T19:15:36Z",
+        "Target Commit SHA": "256333d6b0f452af739f3a72012445174988b793",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "15ef046440ef0f4e2e4a9ca4db7cf17b76377162"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "2fd63f2f8102e4a8259fd7d317afe84fc2182326",
+            "c08eb4fc41c170c549170067e9b520662bc7b687",
+            "0f1afec5a8906ae3f00d58ff2499ad7e7cfb577e",
+            "549460839b9b503c9fed9e2ba4ddd9f4f6fbded0",
+            "2fc9dd15467ba23bbb325d4be30d9509dad0974f",
+            "7e7b4fd1a429b0fb5b9e302baaef7b84a95969a8",
+            "34a7e76359370286a0eb1508172afd59e4d11359",
+            "f1e79853ed3de5fdbbc6a2eb5530074b1c40e5b1",
+            "1c4b138322bbe5f6091092013b318aece2d3a55a"
+        ],
+        "closest_matched": []
+    }
+]
