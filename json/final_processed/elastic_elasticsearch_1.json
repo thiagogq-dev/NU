@@ -1,0 +1,460 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/81318",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/92059",
+        "Title": "Add o.e.a.a.cluster.coordination to exports from server",
+        "Created At": "2022-12-02T10:37:04Z",
+        "Target Commit SHA": "628bc78caf807569782854ecec7f26951f73fa85",
+        "target_inducing_commit_hash_pyszz": [
+            "75d8079c37a69dfb965d3ce73d0c990765c286a0"
+        ],
+        "Closest Commit SHA": "48c1447dd8990d26cb75ab31a79217cb62f83cfa",
+        "closest_inducing_commit_hash_pyszz": [
+            "e1d03efd1e59eea59b72f26cd4c179e49b595a71"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "75d8079c37a69dfb965d3ce73d0c990765c286a0",
+            "e86aa29f671d46788c7610691f900b2547b549ff",
+            "8cba213dfc070156f4ad727bb11521fcc36be43f"
+        ],
+        "target_matched": [
+            "75d8079c37a69dfb965d3ce73d0c990765c286a0"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "d7d9ff29504fd218a7cf2519b0ce1cb4f2f7ef34"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/78297",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90319",
+        "Title": "Preventing serialization errors in the nodes stats API",
+        "Created At": "2022-09-23T20:17:48Z",
+        "Target Commit SHA": "821f36b4d285fc5cf8ff528fdfd17a7e7185549d",
+        "target_inducing_commit_hash_pyszz": [
+            "71023765011407db82b5422ad6f3fd8ada890b82"
+        ],
+        "Closest Commit SHA": "e21be6ece781b4272eeb99d2da55642d7d5a86cf",
+        "closest_inducing_commit_hash_pyszz": [
+            "39de085cb085f116b2ec40961de727deaa4777e8"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "18a2cf23d4c0b08820ba01ccdc19689fd7207c26",
+            "69837cd817eb0367e06ee930b99a5650e292208b",
+            "71023765011407db82b5422ad6f3fd8ada890b82"
+        ],
+        "target_matched": [
+            "71023765011407db82b5422ad6f3fd8ada890b82"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "5a2d91c9b5df7146ad2f641b04f08ab59e5ee8d4",
+            "7c0b99634c875de86afd06eaa9732ca350725665",
+            "d67ea4c98dbc806c0bd23824f71e4363c7b8dbe1",
+            "a0e5772aeeca927c25a56b0c54dcdcaa50c9b3b5",
+            "944b3f3b56caf910ab1730afe1114bd154e59ec6",
+            "a4fdb0ba669cf473a3238faaa28f780d612ff65b",
+            "8fc213f237ccffc12870a7a0d845c91d8ecbab3b",
+            "46ada227dcc65e3058f029029530accedb1962f2",
+            "d8281e5bfd72c65cd7f4aef8706ffe1fd71f134a",
+            "39de085cb085f116b2ec40961de727deaa4777e8",
+            "9d793e05e20da884b209e656da151d4d3bbaab59",
+            "df89c27bc40be0f0d36dc7f2f28b67d2da2cc745",
+            "2c7fd822930b4ecb651d1903d99798e6f0c504b2",
+            "cce3d924754a06634a8e353fa227be3af2eeca62"
+        ],
+        "closest_matched": [
+            "39de085cb085f116b2ec40961de727deaa4777e8"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77949",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110",
+        "Title": "Fix ClusterRebalanceRoutingTests",
+        "Created At": "2022-09-15T14:17:59Z",
+        "Target Commit SHA": "19fe3246f7bcfd2d373cfac716902c0180b8981b",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "b9e7e1550329d746dce734cb772a3bd68c32977e",
+        "closest_inducing_commit_hash_pyszz": [
+            "28090b3d7366044a8cadb0e6d47c324f94c1684a"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "fdbccf28b04b4ba1df2f9f59a63a35354206e26e",
+            "12ad399c488f0cc60e19b5e1b29c6d569cb4351a",
+            "30c6f2fa23c9db62acdbc7d7bfb643e8182c4d67",
+            "77534205403897818e09fa7f52e9ab5a81953e76"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77832",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90110",
+        "Title": "Fix ClusterRebalanceRoutingTests",
+        "Created At": "2022-09-15T14:17:59Z",
+        "Target Commit SHA": "a8c25fd596fa8ff23c9bcb84e778f64e2b2f9db5",
+        "target_inducing_commit_hash_pyszz": [
+            "2cfdadce278bcd77c9d7a3ef90184e139ec3ec35"
+        ],
+        "Closest Commit SHA": "b9e7e1550329d746dce734cb772a3bd68c32977e",
+        "closest_inducing_commit_hash_pyszz": [
+            "28090b3d7366044a8cadb0e6d47c324f94c1684a"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "18a2cf23d4c0b08820ba01ccdc19689fd7207c26",
+            "2cfdadce278bcd77c9d7a3ef90184e139ec3ec35",
+            "22e9d3719d5f927e7e57941d41475b4d3925f69d",
+            "69837cd817eb0367e06ee930b99a5650e292208b"
+        ],
+        "target_matched": [
+            "2cfdadce278bcd77c9d7a3ef90184e139ec3ec35"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "fdbccf28b04b4ba1df2f9f59a63a35354206e26e",
+            "12ad399c488f0cc60e19b5e1b29c6d569cb4351a",
+            "30c6f2fa23c9db62acdbc7d7bfb643e8182c4d67",
+            "77534205403897818e09fa7f52e9ab5a81953e76"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77632",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/90030",
+        "Title": "Fix typo in assertion",
+        "Created At": "2022-09-13T12:40:35Z",
+        "Target Commit SHA": "ad5c782f9cce6577cfc3c6db8b1cd37dd192a4ca",
+        "target_inducing_commit_hash_pyszz": [
+            "8a9ea8565745cb811a45b87fbd4bd14cd6516f87"
+        ],
+        "Closest Commit SHA": "2b8c03bf202e55c770c00147fab5dafc6441ebbe",
+        "closest_inducing_commit_hash_pyszz": [],
+        "target_inducing_commit_hash_pd": [
+            "0a4a81afafef8b2cb8fd6d9b5ea94696a8f50ff9",
+            "fab5e21e7d8ed643781a4825a50801d4cf5ce91c",
+            "e7b3bea8d3e03c253a1019f1080fd8040ef78b8f",
+            "0100e1148ace988b30a80eb0887f941f0425b15e",
+            "aaa8f842d60f45d6303fb04a9f4fca4ca40dc4ca",
+            "e26e9295bda64c5473d7db1318d129deca2d7648",
+            "8a9ea8565745cb811a45b87fbd4bd14cd6516f87",
+            "be849b2a4de0a7c093a563de9786f7cac708861c",
+            "0db220f5a175a9b547f98e4cb2e5676604ce2444",
+            "59df6e868902330412107c6640dc2fdb4c511365",
+            "c0c8bb576419f9d3b5736fee4717afda0c48467e",
+            "1454eac757f026d9652344650b8c2de9dc6db27e",
+            "e737ea7d4ab4bee9cb71d8af92abb8486f4589ed"
+        ],
+        "target_matched": [
+            "8a9ea8565745cb811a45b87fbd4bd14cd6516f87"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "b3337c312765e51cec7bde5883bbc0a08f56fb65"
+        ],
+        "closest_matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77293",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z",
+        "Target Commit SHA": "f1753ee6e97b1e845a518d309ff1cba9863dc315",
+        "target_inducing_commit_hash_pyszz": [
+            "c1a32447a77745bc417f44bfa68386b76f7b04b2"
+        ],
+        "Closest Commit SHA": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9",
+        "closest_inducing_commit_hash_pyszz": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "2e4394c1735c1a449e815ece7a4fbb0ba3087c79",
+            "bf268c59f39e048368d54fbdd7fb8ca7070588a3",
+            "45140ef9efc201ba2d775e8fa0253cf25de3650e",
+            "18835fe4df967b0230665e29cc26cf59990c6635",
+            "ec1afb9f7c292a332403c5458a03ff5f05a3c31e",
+            "d40ab54e452ec92b34ac59586f3add06d77b2e66",
+            "1e6a924e7412c1a54119359ddec60336c5c3d5a7",
+            "60874803681d39f16256be731e59aa5fa298cf08",
+            "7ea79c88ab10126c3828aa3b52fd63109ad63b1f",
+            "295051ee8c05b66df931a2605ce7d916407b98d6",
+            "0a285a9a0c22fd4b4989148880b7f22e7e47fff1",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "d967c75eb06cbc76f43232e5c5e297f9e7903213",
+            "02579c7accc01b06e0e3af51316db984f8b0b26e",
+            "11d2480a42b8b209cdda4a659e8179ecc7c8045f",
+            "f82404986b08d6ca2a08a71266f93f0b6853bdc1",
+            "9fb5c811fc04e13e2b4d010ea98656d4af6207a6",
+            "273c82d7c9d70f3378c3e2dafcd2fab851c4308f",
+            "e73c9c90ee8a77c8b97e6bbcfc540bb7a00b2dae",
+            "8b0526ec9e3a45890a5ee7d5b26d98ec95324a71",
+            "e16fd4ebd6ca95ef7f1eafa02eb576cb295648ba",
+            "8b6d988cfb8de076f23490cb50b5a817645ac6cd",
+            "94b9b332d482f846f1a0a36b93b229ace6526f72",
+            "308ae98988fb9d7c5374a5b16dac810a7bd9715c",
+            "1c3d9077488016da7407124b56d0eb5fde7bb8a7",
+            "702d55f0be066bd0cbf86e76e167ebde28ce15be",
+            "eeb964c8869284cfe97543ae9ee5f99c86eb8f1c",
+            "e4c8851a24a30d774b7cdf469138cef7f16b5d6a",
+            "6d04eacdec969483db761886204f9922fa83c2b0",
+            "83cf22a7881a36fa172ccdf812cf9ab40da8c126",
+            "c202ce1b5605f71ceea7bee961ff964baeec8488",
+            "637154cc6e29efdfcdc7cef96f78d7e5fcf53d9d",
+            "def2f2777bf5c1c357d1aa34dc7ff93000580383",
+            "0bba210fdf9791b02964311821edf41dc633d62e",
+            "27e27e0b62d299c1f0daac42a640d8a311d89d12",
+            "9467dbf1208970b7e8e60d3650b53dc0e6151514",
+            "1f5f3f21f9f92f19ebedec82a6d9e1c46f511b76",
+            "220aa734ee19fe114376c764e2fbf41eee93e5c7",
+            "fe36861ada3e75259ff601a9f6b0e1cd5fbb8afe",
+            "143202aa607574ba62cd6b2e205a7e1532f039ee",
+            "8231e856c2718e9d1fee586f552eb9e34e98d77a",
+            "a28ce1e21c5e23e0efa43ed115be37daa3a94252",
+            "e82c969959da090f2aeb3941a574100af43f07e1",
+            "31c851f5c2a0fed7234cb40febccf12915e06af8",
+            "9e1f912cccfbc1aac79352b17902077e0815e68b",
+            "7dcfd45ec95cb1d1200dc62d1708e0f4551d707b",
+            "5a1273abdc22b7473b092785261d3b9c3a967b26",
+            "71633775fd1a3cdad497233848a83ccd42020602",
+            "df6e3fcfefdeb526e435cc76c5134683c470329d",
+            "c1a32447a77745bc417f44bfa68386b76f7b04b2",
+            "123a06f588cb55f1157a7c4543c4a344a6743c73",
+            "df365dd16e8ff3c71d5861a440d4ad1b301f9020",
+            "7a50ccd3d411e5e5049607693924b6a3e789d82d",
+            "1bb2a1502d705ea966b2a0d3d05025907f0ff28b",
+            "8840042751b0a36196ba752f716946aea3471072",
+            "f68f5130642fd31da49859beab55a0d42801170f",
+            "724438a0b084a9a9d20790ce141bf8ec18265950",
+            "68817d7ca29c264b3ea3f766737d81e2ebb4028c",
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "8d83688328f17c05ad7a7404a6e4319b9428e477",
+            "9c55be153099f171d44ea51cbf69d424b9bce586"
+        ],
+        "target_matched": [
+            "c1a32447a77745bc417f44bfa68386b76f7b04b2"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "c741b8c531b91688df07fc31cae73fa386faac9a",
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353",
+            "18924897d1f4404b715586ae1e21af3a3947f302",
+            "12ad399c488f0cc60e19b5e1b29c6d569cb4351a",
+            "55c0d1aa4b82128e73184ff1f3afcf35ca01ca4e",
+            "cdb302cdf1f0bf70f32e0235b21b754f5d3ce1c8",
+            "54ed2e37d9fc5432c9c76ab05cded8d11a64133e",
+            "0699c9351f1439e246d408fd6538deafde4087b6",
+            "22c129abcced67465e14114f18afacb33e7886ed",
+            "d166317c7f98f097e09c5a03806adca337f03ccb",
+            "62472480aed054e98d64b673febf029003a023b7",
+            "fc93f77d3b68503e4f5cb9085e42daed8da09441",
+            "ffe61fb0972c6e3f501f7ced5488f9e1711f092a",
+            "5811deb580ed1d72e1b412d3d29418deeaac9317",
+            "6339691fe3dd95a880b0457fb230b308119feb11",
+            "504b30c6f0cbba17c7282d1853c0e4f97cdc506f",
+            "b3cc4ef935aeafc3be79d7835c11aded7b1cca44",
+            "d539957e60255e9a805baa1cb892dc86bf6114f3",
+            "70c611ba66bc3b4219664bad439a8dc8ed83694b",
+            "d71544976608bdb53fa4d29521fb328e1033ee2f",
+            "c1c51037567beaf9c165d3c8a61a3e31688e55d6",
+            "53ed3a7a443f39f155b57e92ed6deed7688ff076",
+            "ea2145a797aecbea866f9124ed29e2f1430a53ac",
+            "c8bb627619e340c3e98319644f44c173efbe4924",
+            "7ecb7166223a9c2d568c406dd4228bdd7f575d40",
+            "06da3d7bbc97c2a3159c1f2390a848dd3e3962b7"
+        ],
+        "closest_matched": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77292",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z",
+        "Target Commit SHA": "1399fb67846317c078db2bd016477345e29d6231",
+        "target_inducing_commit_hash_pyszz": [
+            "c5b73fcaf8289da4f00c3cd8dbfff5715b470eef"
+        ],
+        "Closest Commit SHA": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9",
+        "closest_inducing_commit_hash_pyszz": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "57946a97dfb9cc40b21822e97c615280f111f69c",
+            "b0f68efb08999ab28fe5cb01266ac0f2185d434d",
+            "123a06f588cb55f1157a7c4543c4a344a6743c73",
+            "cb37989bd9b075bd51b8e40a3f57e54e087acfab",
+            "eb3c57b8ebf9d151eba884cd61e1c6cb3e037049",
+            "7c7e47aa0f104ab4b0e625e98d75c563d22d3f1e",
+            "b706e8a606f423cdbbdf9ec7a4a1d03f65c55c8c",
+            "5aa4a9422adbb2e155106dd86f7c75f588eec901",
+            "6d99e790b3ee78f99f4810ff79b38488e43a146d",
+            "13c8ee101525503459cca8f136e76e5be5e84995",
+            "c5b73fcaf8289da4f00c3cd8dbfff5715b470eef",
+            "f3edbe291146d92888087c6458a08d2e4cbb602d",
+            "c662565f291db3c7e95f9cfa75e764999cd1bbfb",
+            "76a684ad322ddb8da2f20862e8050aa4ad148a37"
+        ],
+        "target_matched": [
+            "c5b73fcaf8289da4f00c3cd8dbfff5715b470eef"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "c741b8c531b91688df07fc31cae73fa386faac9a",
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353",
+            "18924897d1f4404b715586ae1e21af3a3947f302",
+            "12ad399c488f0cc60e19b5e1b29c6d569cb4351a",
+            "55c0d1aa4b82128e73184ff1f3afcf35ca01ca4e",
+            "cdb302cdf1f0bf70f32e0235b21b754f5d3ce1c8",
+            "54ed2e37d9fc5432c9c76ab05cded8d11a64133e",
+            "0699c9351f1439e246d408fd6538deafde4087b6",
+            "22c129abcced67465e14114f18afacb33e7886ed",
+            "d166317c7f98f097e09c5a03806adca337f03ccb",
+            "62472480aed054e98d64b673febf029003a023b7",
+            "fc93f77d3b68503e4f5cb9085e42daed8da09441",
+            "ffe61fb0972c6e3f501f7ced5488f9e1711f092a",
+            "5811deb580ed1d72e1b412d3d29418deeaac9317",
+            "6339691fe3dd95a880b0457fb230b308119feb11",
+            "504b30c6f0cbba17c7282d1853c0e4f97cdc506f",
+            "b3cc4ef935aeafc3be79d7835c11aded7b1cca44",
+            "d539957e60255e9a805baa1cb892dc86bf6114f3",
+            "70c611ba66bc3b4219664bad439a8dc8ed83694b",
+            "d71544976608bdb53fa4d29521fb328e1033ee2f",
+            "c1c51037567beaf9c165d3c8a61a3e31688e55d6",
+            "53ed3a7a443f39f155b57e92ed6deed7688ff076",
+            "ea2145a797aecbea866f9124ed29e2f1430a53ac",
+            "c8bb627619e340c3e98319644f44c173efbe4924",
+            "7ecb7166223a9c2d568c406dd4228bdd7f575d40",
+            "06da3d7bbc97c2a3159c1f2390a848dd3e3962b7"
+        ],
+        "closest_matched": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77291",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89809",
+        "Title": "[TSDB] Rename rollup public API to downsample ",
+        "Created At": "2022-09-05T19:17:45Z",
+        "Target Commit SHA": "42508530460eb320b934953512dce0510e28c5ee",
+        "target_inducing_commit_hash_pyszz": [
+            "cb37989bd9b075bd51b8e40a3f57e54e087acfab"
+        ],
+        "Closest Commit SHA": "f8d1d2afa67afd1b9769751fde35f86c5ec885d9",
+        "closest_inducing_commit_hash_pyszz": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "d0a01a6307d15c057cb3c56bc4f7b79add267f00",
+            "750c6d8bb1c751774f01fd12778f8bcc0a6f4d57",
+            "5e74e82790b1276c60bfb070f777a9531ecf57c0",
+            "a334ea57fc02c0a3133e78372c22d8ee1f554bd1",
+            "0a683a0e18548d2fd72fba5e67a243e6eec86666",
+            "4c149e8183787dc1dd427eca518ea4a196d65b9b",
+            "fed790e4e4b71db7c02fe05016c236e9ea4cbbab",
+            "b6a369858d589039505028120fe70b7c4456ac8d"
+        ],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "c741b8c531b91688df07fc31cae73fa386faac9a",
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353",
+            "18924897d1f4404b715586ae1e21af3a3947f302",
+            "12ad399c488f0cc60e19b5e1b29c6d569cb4351a",
+            "55c0d1aa4b82128e73184ff1f3afcf35ca01ca4e",
+            "cdb302cdf1f0bf70f32e0235b21b754f5d3ce1c8",
+            "54ed2e37d9fc5432c9c76ab05cded8d11a64133e",
+            "0699c9351f1439e246d408fd6538deafde4087b6",
+            "22c129abcced67465e14114f18afacb33e7886ed",
+            "d166317c7f98f097e09c5a03806adca337f03ccb",
+            "62472480aed054e98d64b673febf029003a023b7",
+            "fc93f77d3b68503e4f5cb9085e42daed8da09441",
+            "ffe61fb0972c6e3f501f7ced5488f9e1711f092a",
+            "5811deb580ed1d72e1b412d3d29418deeaac9317",
+            "6339691fe3dd95a880b0457fb230b308119feb11",
+            "504b30c6f0cbba17c7282d1853c0e4f97cdc506f",
+            "b3cc4ef935aeafc3be79d7835c11aded7b1cca44",
+            "d539957e60255e9a805baa1cb892dc86bf6114f3",
+            "70c611ba66bc3b4219664bad439a8dc8ed83694b",
+            "d71544976608bdb53fa4d29521fb328e1033ee2f",
+            "c1c51037567beaf9c165d3c8a61a3e31688e55d6",
+            "53ed3a7a443f39f155b57e92ed6deed7688ff076",
+            "ea2145a797aecbea866f9124ed29e2f1430a53ac",
+            "c8bb627619e340c3e98319644f44c173efbe4924",
+            "7ecb7166223a9c2d568c406dd4228bdd7f575d40",
+            "06da3d7bbc97c2a3159c1f2390a848dd3e3962b7"
+        ],
+        "closest_matched": [
+            "4b92e1dd6dbfeeceb184bb39bc798b1e3b1ac353"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/77036",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89734",
+        "Title": "Fix partial reduce bug in ip_prefix",
+        "Created At": "2022-08-30T17:30:58Z",
+        "Target Commit SHA": null,
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": "734dae6d365e8eba9179bb5eca9fac1237ee0892",
+        "closest_inducing_commit_hash_pyszz": [
+            "13018e73324d86e916b72f7534d9d6275a99e6d0"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "13018e73324d86e916b72f7534d9d6275a99e6d0",
+            "9de75c2ac589d364ba367474d3ebaceb24363f15"
+        ],
+        "closest_matched": [
+            "13018e73324d86e916b72f7534d9d6275a99e6d0"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "Target PR": "https://github.com/elastic/elasticsearch/pull/76994",
+        "Closest PR": "https://github.com/elastic/elasticsearch/pull/89667",
+        "Title": "Operator/role mapping",
+        "Created At": "2022-08-26T16:17:49Z",
+        "Target Commit SHA": "3f4b6a74b86ce2efe75bdefc6c91e7cbca70430a",
+        "target_inducing_commit_hash_pyszz": [
+            "717d83df30b63381b59a3b0368161c70069b384a"
+        ],
+        "Closest Commit SHA": "2b3dbdebf37176c983fccf7bf4325f467b4d1d6c",
+        "closest_inducing_commit_hash_pyszz": [
+            "f0e498bec2db29340b00b801da3644c97330b9b4"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "717d83df30b63381b59a3b0368161c70069b384a",
+            "8759c85a68dae2cd895771f2a0335cea16c6fbae"
+        ],
+        "target_matched": [
+            "717d83df30b63381b59a3b0368161c70069b384a"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "94d7a3187352881b6c7485bb813aa1852b5ad873",
+            "d7d9ff29504fd218a7cf2519b0ce1cb4f2f7ef34",
+            "29ee20de3365b68a6705bcd017acfc880d7ee989",
+            "7a150ec06d5b846caa89520c1388e9c751a0c8af",
+            "12ad399c488f0cc60e19b5e1b29c6d569cb4351a",
+            "9d774d9404619dd807af1a105465a15286e9e5c8",
+            "409050e8de4cacbfac4b68ab12bbb928437a4499",
+            "f8a8df4fb7554e28b3fb5843d0ae761887537762",
+            "6adf4fd3aff3c92c84ba27e433b665e5c5357259",
+            "49387bf2d743850e257c649432af0b9ef198a34a",
+            "62e8ca9b9043de7b975e26aa3091a1b04ea77bfc",
+            "fc93f77d3b68503e4f5cb9085e42daed8da09441",
+            "f46f9b1a0093dda71f3c6a03fbf719612c24c5d0",
+            "bdc0539aebafa1b9e2480311b5b6e047078ce4a3",
+            "f0e498bec2db29340b00b801da3644c97330b9b4",
+            "c2d1b2262670594ea516f87495bc891290bdce04",
+            "dc672b0e6588b915ca8cc530be38dbd3f5682263"
+        ],
+        "closest_matched": [
+            "f0e498bec2db29340b00b801da3644c97330b9b4"
+        ]
+    }
+]
