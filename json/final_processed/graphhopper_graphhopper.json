@@ -1,0 +1,76 @@
+[
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "Target PR": "https://github.com/graphhopper/graphhopper/pull/2328",
+        "Closest PR": "https://github.com/graphhopper/graphhopper/pull/2567",
+        "Title": "Consistent edge keys",
+        "Created At": "2022-04-27T06:02:00Z",
+        "Target Commit SHA": "d1baa22952d41e0ca25b888f3bf1248648874f47",
+        "target_inducing_commit_hash_pyszz": [
+            "cc294ee05d95685e31fccd4667ef79c5aecc9fd9"
+        ],
+        "Closest Commit SHA": "4a57859ad7a7d45b6b28ac2e0dd8c22d469bbf78",
+        "closest_inducing_commit_hash_pyszz": [
+            "c1db3bc6582e9ca560b5fddd0a81b3d9fa2e2ad4"
+        ],
+        "target_inducing_commit_hash_pd": [
+            "8123f83366ee1cf6c19e48b767c46c4fabf3a3e8",
+            "a750fe5d01892e138af7a16f13e413f025c9f830",
+            "cc294ee05d95685e31fccd4667ef79c5aecc9fd9"
+        ],
+        "target_matched": [
+            "cc294ee05d95685e31fccd4667ef79c5aecc9fd9"
+        ],
+        "closest_inducing_commit_hash_pd": [
+            "c1db3bc6582e9ca560b5fddd0a81b3d9fa2e2ad4",
+            "6b9058e99e17d1dc781ad3af9bae899f1cbe8707",
+            "6da63995a8353273343072c6739a2e082c99a6a3",
+            "6f185b6c021118860e3ea49c268771737b298a78",
+            "63369b7405ccc3da069e54caa90c113dd6be3db7",
+            "fb2a259a6177d78b01c27944c4fdb45baf3412ce",
+            "ea1a8e207d02cb52f2b062712b2c7e9689830c5c",
+            "69ef82b4eaf791884c59436445f4ed5ec711f1d4",
+            "a2a11c8ca1a0ec60d35dfd3fcec4ab0c1c1a2464",
+            "2115c0bb9e7bf33ce253d3154706a13107de12b5",
+            "26a1acff08f3e28a77125171592224e45dcea182",
+            "eac48723c755ad2de121e4b1deaa99132a37c242",
+            "343e0c0453b1f7dc4282e768adf23925e5a6009f",
+            "967f53613f14b28a0087dfaed2c4ab4e03f1a6cb",
+            "edbbd28a0789e4ef206c489bd530866c6e16e15c",
+            "e49fa6d7458bfceee3f5a4167da19e0f1eba0738",
+            "022697da8dfc9ab6e6537fbc7b81efc55ac2e142",
+            "559f7c3cd1fad2bdf4426245880daf6c99d36686",
+            "85467d016abffe3bc5e89770b935b7c459516ebb",
+            "af3307d90c2dfa7773d2697587dde16bbc5e3f80",
+            "1d0d3077d083de0241db47df0dee9de855e75063",
+            "57a4bc674aa033d451054fd8cacb36415ced6efc",
+            "ada840b40ea2db491ec2b480810ea7c023986ebf",
+            "e768b757f765ebe6a8f2906833edb48bb11a0a0b",
+            "b915c6e262983357934263eb0d1b2a425048bd79",
+            "85f8801d6fa15284bf8acde09ac954f7464a8313",
+            "ea8853d6ada89dc739fdfa274424c3bc888e0091",
+            "9950fb694ad679f97c72edc1e0800ab9cc69964f",
+            "05f198d14f5cc46c9e8a6478762450b1802669cd",
+            "e0320fe06eb26a70967f94215a74fbace1d8cd10",
+            "c0105cdd3d367808b49d61314742742143ecde05",
+            "4166557e721ad7641b842f0ff7546531ecbd1d93",
+            "ddc9226975c9fe160bafa5604ab751e702130869",
+            "66ab4cadf687b583f0a663df8b451ea1bbdd79be",
+            "dfdd92cf5e0d7f2c6c2289b98b646dfb6cfd36c1",
+            "1f5419977ed205d48d5507b65fae231592e52c5b",
+            "3855e4acc19deb466dee29041a4d59a430af6f97",
+            "fbcdd6a4d3cc4a7cc9c0a6148e7dfeacd1abf7cc",
+            "bf6f0f420261e63e277747c22a81f2abd6d0a864",
+            "488e207973e6d8a4d9726e7fb4ebdd84d747e647",
+            "028203c533448e4ce737a1d43e351259bc31843a",
+            "6629569cb4e3692ac487757a83472d77badfae94",
+            "bbb15dfb6b67ace6e060c846ba69fae15641eddb",
+            "7db722ae4f7fa467b4194d9b81949be0ebc6c647",
+            "25d27664bd3d6bb77f3fc46ad526c4234e347c15",
+            "6f07e5ce7ed0b72d35e3f38a182cdd1e2ef0788a"
+        ],
+        "closest_matched": [
+            "c1db3bc6582e9ca560b5fddd0a81b3d9fa2e2ad4"
+        ]
+    }
+]
