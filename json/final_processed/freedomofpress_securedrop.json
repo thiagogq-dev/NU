@@ -8,7 +8,11 @@
         "Target Commit SHA": "ee8cad4f5e1c51070be8811fe9c82257e9e7b37d",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "b286ea674e31ab3f33e3f817a891e9676690b484",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "freedomofpress/securedrop",
@@ -19,6 +23,10 @@
         "Target Commit SHA": "eeb6ba3cf5cdd68ce02ff57ebf1907e3a983a348",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "74ae12d1c7e239e88f8034c4729a4c93f630dbc1",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
