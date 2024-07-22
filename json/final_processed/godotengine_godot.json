@@ -8,7 +8,11 @@
         "Target Commit SHA": "8523030e55ade890466db6873b6929711b98e0f8",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "godotengine/godot",
@@ -19,7 +23,11 @@
         "Target Commit SHA": "47944098c2fbebc62fde33d4a86e6a923cb547e9",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "71ada5bc2c506baaed85cb085f6863e893190711",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "godotengine/godot",
@@ -30,6 +38,10 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "add9049ee159842b4ffb6ecfad2af53a05c11886",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
