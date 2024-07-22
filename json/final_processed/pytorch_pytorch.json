@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "pytorch/pytorch",
+        "Target PR": "https://github.com/pytorch/pytorch/pull/65365",
+        "Closest PR": "https://github.com/pytorch/pytorch/pull/85365",
+        "Title": "fixup base",
+        "Created At": "2022-09-20T19:12:23Z",
+        "Target Commit SHA": "de605619121c2ca2a67fa787b114ba906dd145df",
+        "target_inducing_commit_hash_pyszz": "-",
+        "Closest Commit SHA": null,
+        "closest_inducing_commit_hash_pyszz": [
+            "7b9e6430edaac6001af65a420b089c8651c9fc95"
+        ],
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [
+            "2b1b055a96745cf4bca7090efa777dc359538171",
+            "e408d9ca250dc7e808c8f9b396e6eb671dfb5736",
+            "236fbcbdf44ea429b11ac44c1814af56ca243605",
+            "01694eaa56adb343f5d3d15b53d2962615dafe17",
+            "98ffdf930c5bb93f547ff94a5d3af1f194cddbbc",
+            "cfd06bd60cc959622292112ba535a2aadc58f7c7",
+            "96a067b190be82a0029f7bf2fa891eed15f2d5fb",
+            "7b9e6430edaac6001af65a420b089c8651c9fc95"
+        ],
+        "closest_matched": [
+            "7b9e6430edaac6001af65a420b089c8651c9fc95"
+        ]
+    }
+]
