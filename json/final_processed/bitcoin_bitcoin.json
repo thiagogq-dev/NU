@@ -8,7 +8,11 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "1320300ea11f3e9f3c30592eb19ebc47f5ef4abd",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "bitcoin/bitcoin",
@@ -19,7 +23,11 @@
         "Target Commit SHA": "4b5b263ac0ee44fe432a713b444df9880cfce4a2",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "bitcoin/bitcoin",
@@ -30,7 +38,11 @@
         "Target Commit SHA": "14ba286556faad794f288ef38493c540382897cb",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "9a72119e7e277be5fc4ecb2c81f255fe90c36f4c",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "bitcoin/bitcoin",
@@ -41,7 +53,11 @@
         "Target Commit SHA": "195d46690cc5ba9da00832eb42666fac7147cfd5",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "4b5409ab5994bb7b1865605b509507f8aaad2659",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "bitcoin/bitcoin",
@@ -52,7 +68,11 @@
         "Target Commit SHA": "5198f464e1c5b415b45870b8a0210c29366f17ef",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "bitcoin/bitcoin",
@@ -63,7 +83,11 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "5ed8d0b37e27e586d1088d27e35b245ef701988e",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "bitcoin/bitcoin",
@@ -74,6 +98,10 @@
         "Target Commit SHA": null,
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "e25de33e7bfe8c47c7c2ad5fca2b0351c049c3c5",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
