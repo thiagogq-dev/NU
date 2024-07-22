@@ -8,7 +8,11 @@
         "Target Commit SHA": "9786f908aff5ce4bc20c2e21bb237dc799abbae6",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "cf2d085d30d5d2035617fa9b6aa945ee5de4ebe0",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "apache/shiro",
@@ -19,6 +23,10 @@
         "Target Commit SHA": "4aa4e3eca17aa6524171c273c08157a0430ce688",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": null,
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
