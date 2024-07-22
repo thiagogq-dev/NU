@@ -8,7 +8,11 @@
         "Target Commit SHA": "68aeb17eacdceddae0cf0ce420bedbe5ff8a1620",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "c7d88958041ff4af90bfd72fa3867716215fa1f6",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     },
     {
         "repo_name": "mrdoob/three.js",
@@ -19,6 +23,10 @@
         "Target Commit SHA": "e69acab39b439f66b9d97023d72da5dfb95a107b",
         "target_inducing_commit_hash_pyszz": "-",
         "Closest Commit SHA": "da9c3108ebded7b71d2b8c270bd99ffc7566a6d6",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [],
+        "target_matched": [],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
