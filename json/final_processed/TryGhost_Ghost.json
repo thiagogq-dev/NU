@@ -10,6 +10,14 @@
             "d0db527b8d895965ed6c1bfc8efd2116a6ca7f75"
         ],
         "Closest Commit SHA": "b00279885f5a17918e3d3e89c5117c25e14c6933",
-        "closest_inducing_commit_hash_pyszz": "-"
+        "closest_inducing_commit_hash_pyszz": "-",
+        "target_inducing_commit_hash_pd": [
+            "d0db527b8d895965ed6c1bfc8efd2116a6ca7f75"
+        ],
+        "target_matched": [
+            "d0db527b8d895965ed6c1bfc8efd2116a6ca7f75"
+        ],
+        "closest_inducing_commit_hash_pd": [],
+        "closest_matched": []
     }
 ]
