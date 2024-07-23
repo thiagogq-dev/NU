@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "In mjs_json.c in Cesanta MongooseOS mJS 1.26, a maliciously formed JSON string can trigger an off-by-one heap-based buffer overflow in mjs_json_parse, which can potentially lead to redirection of control flow. NOTE: the original reporter disputes the significance of this finding because \"there isn\u00c2\u2019t very much of an opportunity to exploit this reliably for an information leak, so there isn\u00c2\u2019t any real security impact.\"",
         "URL": "https://github.com/418sec/mjs/pull/2",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
