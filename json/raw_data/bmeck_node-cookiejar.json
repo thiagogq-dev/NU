@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "bmeck/node-cookiejar",
+        "CVE_ID": "CVE-2022-25901",
+        "Problem_Type": "CWE-1333",
+        "Description": "Versions of the package cookiejar before 2.1.4 are vulnerable to Regular Expression Denial of Service (ReDoS) via the Cookie.parse function, which uses an insecure regular expression.\n\n",
+        "URL": "https://github.com/bmeck/node-cookiejar/pull/39/commits/eaa00021caf6ae09449dde826108153b578348e5",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "bmeck/node-cookiejar",
+        "CVE_ID": "CVE-2022-25901",
+        "Problem_Type": "CWE-1333",
+        "Description": "Versions of the package cookiejar before 2.1.4 are vulnerable to Regular Expression Denial of Service (ReDoS) via the Cookie.parse function, which uses an insecure regular expression.\n\n",
+        "URL": "https://github.com/bmeck/node-cookiejar/pull/39",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

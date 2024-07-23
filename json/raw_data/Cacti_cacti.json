@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Cacti/cacti",
+        "CVE_ID": "CVE-2020-14424",
+        "Problem_Type": "CWE-79",
+        "Description": "Cacti before 1.2.18 allows remote attackers to trigger XSS via template import for the midwinter theme.",
+        "URL": "https://github.com/Cacti/cacti/pull/4261",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

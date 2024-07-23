@@ -1,3 +1,4 @@
 *.csv
 /raw_data/*
 _pycache_/
+/json/origin/

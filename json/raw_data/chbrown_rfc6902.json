@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "chbrown/rfc6902",
+        "CVE_ID": "CVE-2021-4245",
+        "Problem_Type": "CWE-1321",
+        "Description": "A vulnerability classified as problematic has been found in chbrown rfc6902. This affects an unknown part of the file pointer.ts. The manipulation leads to improperly controlled modification of object prototype attributes ('prototype pollution'). The exploit has been disclosed to the public and may be used. The name of the patch is c006ce9faa43d31edb34924f1df7b79c137096cf. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-215883.",
+        "URL": "https://github.com/chbrown/rfc6902/pull/76",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

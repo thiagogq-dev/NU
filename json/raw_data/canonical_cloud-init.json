@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "canonical/cloud-init",
+        "CVE_ID": "CVE-2020-8631",
+        "Problem_Type": "CWE-330",
+        "Description": "cloud-init through 19.4 relies on Mersenne Twister for a random password, which makes it easier for attackers to predict passwords, because rand_str in cloudinit/util.py calls the random.choice function.",
+        "URL": "https://github.com/canonical/cloud-init/pull/204",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "canonical/cloud-init",
+        "CVE_ID": "CVE-2020-8632",
+        "Problem_Type": "CWE-521",
+        "Description": "In cloud-init through 19.4, rand_user_password in cloudinit/config/cc_set_passwords.py has a small default pwlen value, which makes it easier for attackers to guess passwords.",
+        "URL": "https://github.com/canonical/cloud-init/pull/189",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

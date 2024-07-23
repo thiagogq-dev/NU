@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "AFLplusplus/AFLplusplus",
+        "CVE_ID": "CVE-2023-26266",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "In AFL++ 4.05c, the CmpLog component uses the current working directory to resolve and execute unprefixed fuzzing targets, allowing code execution.",
+        "URL": "https://github.com/AFLplusplus/AFLplusplus/pull/1643",
+        "Tag": "['Exploit', 'Patch']"
+    }
+]

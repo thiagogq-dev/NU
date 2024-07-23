@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "aresch/rencode",
+        "CVE_ID": "CVE-2021-40839",
+        "Problem_Type": "CWE-835",
+        "Description": "The rencode package through 1.0.6 for Python allows an infinite loop in typecode decoding (such as via ;\\x2f\\x7f), enabling a remote attack that consumes CPU and memory.",
+        "URL": "https://github.com/aresch/rencode/pull/29",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Asymmetric-InfoSec/Power-Response",
+        "CVE_ID": "CVE-2019-15519",
+        "Problem_Type": "CWE-22",
+        "Description": "Power-Response before 2019-02-02 allows directory traversal (up to the application's main directory) via a plugin.",
+        "URL": "https://github.com/Asymmetric-InfoSec/Power-Response/pull/156",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "alanxz/rabbitmq-c",
+        "CVE_ID": "CVE-2023-35789",
+        "Problem_Type": "CWE-522",
+        "Description": "An issue was discovered in the C AMQP client library (aka rabbitmq-c) through 0.13.0 for RabbitMQ. Credentials can only be entered on the command line (e.g., for amqp-publish or amqp-consume) and are thus visible to local attackers by listing a process and its arguments.",
+        "URL": "https://github.com/alanxz/rabbitmq-c/pull/781",
+        "Tag": "['Patch']"
+    }
+]
