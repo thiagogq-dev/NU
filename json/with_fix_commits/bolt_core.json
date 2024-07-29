@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Controller/Backend/FileEditController.php and Controller/Backend/FilemanagerController.php in Bolt before 4.1.13 allow Directory Traversal.",
         "URL": "https://github.com/bolt/core/pull/2371",
+        "Commit SHA": "3249a212f2be53db14a3fed57155488c28933641",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
