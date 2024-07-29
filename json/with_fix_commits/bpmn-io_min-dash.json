@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "The package min-dash before 3.8.1 are vulnerable to Prototype Pollution via the set method due to missing enforcement of key types.",
         "URL": "https://github.com/bpmn-io/min-dash/pull/21",
+        "Commit SHA": "2c6689e2aa29f4b66a4874a2f3003431e9db48d1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "The package min-dash before 3.8.1 are vulnerable to Prototype Pollution via the set method due to missing enforcement of key types.",
         "URL": "https://github.com/bpmn-io/min-dash/pull/21/commits/5ab05cbc4fd8d5eafb7db540c491ed0906b9d320",
+        "Commit SHA": "2c6689e2aa29f4b66a4874a2f3003431e9db48d1",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
