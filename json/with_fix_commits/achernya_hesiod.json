@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-264",
         "Description": "The hesiod_init function in lib/hesiod.c in Hesiod 3.2.1 compares EUID with UID to determine whether to use configurations from environment variables, which allows local users to gain privileges via the (1) HESIOD_CONFIG or (2) HES_DOMAIN environment variable and leveraging certain SUID/SGUID binary.",
         "URL": "https://github.com/achernya/hesiod/pull/9",
+        "Commit SHA": "39b21dac9bc6473365de04d94be0da94941c7c73",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-264",
         "Description": "The read_config_file function in lib/hesiod.c in Hesiod 3.2.1 falls back to the \".athena.mit.edu\" default domain when opening the configuration file fails, which allows remote attackers to gain root privileges by poisoning the DNS cache.",
         "URL": "https://github.com/achernya/hesiod/pull/10",
+        "Commit SHA": null,
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
