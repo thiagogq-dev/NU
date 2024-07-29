@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-732",
         "Description": "In Perun before version 3.9.1, VO or group manager can modify configuration of the LDAP extSource to retrieve all from Perun LDAP. Issue is fixed in version 3.9.1 by sanitisation of the input.",
         "URL": "https://github.com/CESNET/perun/pull/2635",
+        "Commit SHA": "ac527bc3225a64208ee5cee59e5918ee360ca039",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
