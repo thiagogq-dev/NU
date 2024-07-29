@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Jansson 2.7 and earlier allows context-dependent attackers to cause a denial of service (deep recursion, stack consumption, and crash) via crafted JSON data.",
         "URL": "https://github.com/akheron/jansson/pull/284",
+        "Commit SHA": "013c3892c3b7c39516507838ababb4e9167cc65c",
         "Tag": "['Patch']"
     }
 ]
