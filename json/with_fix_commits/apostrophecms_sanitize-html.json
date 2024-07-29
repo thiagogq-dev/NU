@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Apostrophe Technologies sanitize-html before 2.3.1 does not properly handle internationalized domain name (IDN) which could allow an attacker to bypass hostname whitelist validation set by the \"allowedIframeHostnames\" option.",
         "URL": "https://github.com/apostrophecms/sanitize-html/pull/458",
+        "Commit SHA": "bdf7836ef8f0e5b21f9a1aab0623ae8fcd09c1da",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Apostrophe Technologies sanitize-html before 2.3.2 does not properly validate the hostnames set by the \"allowedIframeHostnames\" option when the \"allowIframeRelativeUrls\" is set to true, which allows attackers to bypass hostname whitelist for iframe element, related using an src value that starts with \"/\\\\example.com\".",
         "URL": "https://github.com/apostrophecms/sanitize-html/pull/460",
+        "Commit SHA": "6012524e7824a2c8f6782b2bc5f93b1261723403",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "The package sanitize-html before 2.7.1 are vulnerable to Regular Expression Denial of Service (ReDoS) due to insecure global regular expression replacement logic of HTML comment removal.",
         "URL": "https://github.com/apostrophecms/sanitize-html/pull/557",
+        "Commit SHA": "b4682c12fd30e12e82fa2d9b766de91d7d2cd23c",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
