@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "The query API in Casdoor before 1.13.1 has a SQL injection vulnerability related to the field and value parameters, as demonstrated by api/get-organizations.",
         "URL": "https://github.com/casdoor/casdoor/pull/442",
+        "Commit SHA": "5ec0c7a89005819960d8fe07f5ddda13d1371b8c",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
