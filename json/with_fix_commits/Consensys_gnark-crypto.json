@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-502",
         "Description": "Consensys gnark-crypto through 0.11.2 allows Signature Malleability. This occurs because deserialisation of EdDSA and ECDSA signatures does not ensure that the data is in a certain interval.",
         "URL": "https://github.com/Consensys/gnark-crypto/pull/449",
+        "Commit SHA": "81ffe9cbd19c7fa6899c97a5ac7b3ec14b30ac06",
         "Tag": "['Patch']"
     }
 ]
