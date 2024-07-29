@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "btcd before 0.23.2, as used in Lightning Labs lnd before 0.15.2-beta and other Bitcoin-related products, mishandles witness size checking.",
         "URL": "https://github.com/btcsuite/btcd/pull/1896",
+        "Commit SHA": "d0aa7473a6b593c807842888dc9fe781a5984a78",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
