@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Power-Response before 2019-02-02 allows directory traversal (up to the application's main directory) via a plugin.",
         "URL": "https://github.com/Asymmetric-InfoSec/Power-Response/pull/156",
+        "Commit SHA": "fc65f0630fe3935a6cdcdf84ff271893f30a0f2a",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
