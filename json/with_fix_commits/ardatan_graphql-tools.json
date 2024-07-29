@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "This affects the package @graphql-tools/git-loader before 6.2.6. The use of exec and execSync in packages/loaders/git/src/load-git.ts allows arbitrary command injection.",
         "URL": "https://github.com/ardatan/graphql-tools/pull/2470",
+        "Commit SHA": "6a966beee8ca8b2f4adfe93318b96e4a5c501eac",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
