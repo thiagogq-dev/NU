@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-770",
         "Description": "CiphertextHeader.java in Cryptacular 1.2.3, as used in Apereo CAS and other products, allows attackers to trigger excessive memory allocation during a decode operation, because the nonce array length associated with \"new byte\" may depend on untrusted input within the header of encoded data.",
         "URL": "https://github.com/apereo/cas/pull/4685",
+        "Commit SHA": "0def99e37feb0d403b7eb2299c864bbf1ecf8d7c",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
