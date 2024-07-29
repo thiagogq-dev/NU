@@ -3,6 +3,7 @@ import json
 from pydriller import Git, Repository
 import os
 import logging
+import re
 
 API_TOKENS = [
     os.getenv('TOKEN_1'),
@@ -39,9 +40,17 @@ def check_commit_existence(repo_path, commit_hash):
         return False
     return True
 
+def extract_pr_number(url):
+    match = re.search(r'/pull/(\d+)', url)
+    if match:
+        return match.group(1)
+    else:
+        return None
+
 def get_pull_request_data(url, owner, repo, repo_path):
     commit_hash = ""
-    pr_number = url.split('/pull/')[1].split('/')[0]
+    # pr_number = url.split('/pull/')[1].split('/')[0]
+    pr_number = extract_pr_number(url)
 
     if 'commits' in url:
         try:
