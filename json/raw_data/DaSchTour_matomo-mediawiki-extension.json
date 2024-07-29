@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "DaSchTour/matomo-mediawiki-extension",
+        "CVE_ID": "CVE-2017-20175",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability classified as problematic has been found in DaSchTour matomo-mediawiki-extension up to 2.4.2 on MediaWiki. This affects an unknown part of the file Piwik.hooks.php of the component Username Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The complexity of an attack is rather high. The exploitability is told to be difficult. The exploit has been disclosed to the public and may be used. Upgrading to version 2.4.3 is able to address this issue. The patch is named 681324e4f518a8af4bd1f93867074c728eb9923d. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220203.",
+        "URL": "https://github.com/DaSchTour/matomo-mediawiki-extension/pull/17",
+        "Tag": "['Exploit', 'Patch']"
+    }
+]

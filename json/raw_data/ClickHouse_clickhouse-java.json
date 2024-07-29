@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ClickHouse/clickhouse-java",
+        "CVE_ID": "CVE-2024-23689",
+        "Problem_Type": "CWE-209",
+        "Description": "Exposure of sensitive information in exceptions in ClichHouse's clickhouse-r2dbc, com.clickhouse:clickhouse-jdbc, and com.clickhouse:clickhouse-client versions less than 0.4.6 allows unauthorized users to gain access to client certificate passwords via client exception logs. This occurs when 'sslkey' is specified and an exception, such as a ClickHouseException or SQLException, is thrown during database operations; the certificate password is then included in the logged exception message.\n\n",
+        "URL": "https://github.com/ClickHouse/clickhouse-java/pull/1334",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

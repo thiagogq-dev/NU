@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "denosaurs/emoji",
+        "CVE_ID": "CVE-2023-30858",
+        "Problem_Type": "CWE-1333",
+        "Description": "The Denosaurs emoji package provides emojis for dinosaurs. Starting in version 0.1.0 and prior to version 0.3.0, the reTrimSpace regex has 2nd degree polynomial inefficiency, leading to a delayed response given a big payload. The issue has been patched in 0.3.0. As a workaround, avoid using the `replace`, `unemojify`, or `strip` functions.",
+        "URL": "https://github.com/denosaurs/emoji/pull/11",
+        "Tag": "['Patch']"
+    }
+]

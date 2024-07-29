@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "collectiveidea/audited",
+        "CVE_ID": "CVE-2024-22047",
+        "Problem_Type": "CWE-362",
+        "Description": "A race condition exists in Audited 4.0.0 to 5.3.3 that can result in an authenticated user to cause audit log entries to be attributed to another user.\n\n",
+        "URL": "https://github.com/collectiveidea/audited/pull/669",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "collectiveidea/audited",
+        "CVE_ID": "CVE-2024-22047",
+        "Problem_Type": "CWE-362",
+        "Description": "A race condition exists in Audited 4.0.0 to 5.3.3 that can result in an authenticated user to cause audit log entries to be attributed to another user.\n\n",
+        "URL": "https://github.com/collectiveidea/audited/pull/671",
+        "Tag": "['Patch']"
+    }
+]

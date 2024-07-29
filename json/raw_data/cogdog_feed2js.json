@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "cogdog/feed2js",
+        "CVE_ID": "CVE-2014-5009",
+        "Problem_Type": "CWE-77",
+        "Description": "Snoopy allows remote attackers to execute arbitrary commands.  NOTE: this vulnerability exists due to an incomplete fix for CVE-2014-5008.",
+        "URL": "https://github.com/cogdog/feed2js/pull/12#issuecomment-48283706",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

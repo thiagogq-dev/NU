@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "CocoaPods/cocoapods-downloader",
+        "CVE_ID": "CVE-2022-21223",
+        "Problem_Type": "CWE-88",
+        "Description": "The package cocoapods-downloader before 1.6.2 are vulnerable to Command Injection via hg argument injection. When calling the download function (when using hg), the url (and/or revision, tag, branch) is passed to the hg clone command in a way that additional flags can be set. The additional flags can be used to perform a command injection.",
+        "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/127",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "CocoaPods/cocoapods-downloader",
+        "CVE_ID": "CVE-2022-24440",
+        "Problem_Type": "CWE-88",
+        "Description": "The package cocoapods-downloader before 1.6.0, from 1.6.2 and before 1.6.3 are vulnerable to Command Injection via git argument injection. When calling the Pod::Downloader.preprocess_options function and using git, both the git and branch parameters are passed to the git ls-remote subcommand in a way that additional flags can be set. The additional flags can be used to perform a command injection.",
+        "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/128",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "CocoaPods/cocoapods-downloader",
+        "CVE_ID": "CVE-2022-24440",
+        "Problem_Type": "CWE-88",
+        "Description": "The package cocoapods-downloader before 1.6.0, from 1.6.2 and before 1.6.3 are vulnerable to Command Injection via git argument injection. When calling the Pod::Downloader.preprocess_options function and using git, both the git and branch parameters are passed to the git ls-remote subcommand in a way that additional flags can be set. The additional flags can be used to perform a command injection.",
+        "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/124",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

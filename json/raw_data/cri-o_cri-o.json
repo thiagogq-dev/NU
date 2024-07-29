@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "cri-o/cri-o",
+        "CVE_ID": "CVE-2022-2995",
+        "Problem_Type": "CWE-732",
+        "Description": "Incorrect handling of the supplementary groups in the CRI-O container engine might lead to sensitive information disclosure or possible data modification if an attacker has direct access to the affected container where supplementary groups are used to set access permissions and is able to execute a binary code in that container.",
+        "URL": "https://github.com/cri-o/cri-o/pull/6159",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

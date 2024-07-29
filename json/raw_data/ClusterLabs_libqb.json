@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ClusterLabs/libqb",
+        "CVE_ID": "CVE-2023-39976",
+        "Problem_Type": "CWE-120",
+        "Description": "log_blackbox.c in libqb before 2.0.8 allows a buffer overflow via long log messages because the header size is not considered.",
+        "URL": "https://github.com/ClusterLabs/libqb/pull/490",
+        "Tag": "['Patch']"
+    }
+]

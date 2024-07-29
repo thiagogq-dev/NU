@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "cloudwego/hertz",
+        "CVE_ID": "CVE-2022-40082",
+        "Problem_Type": "CWE-22",
+        "Description": "Hertz v0.3.0 ws discovered to contain a path traversal vulnerability via the normalizePath function.",
+        "URL": "https://github.com/cloudwego/hertz/pull/229",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

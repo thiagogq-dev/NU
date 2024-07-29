@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "cloudflare/odoh-rs",
+        "CVE_ID": "CVE-2023-3766",
+        "Problem_Type": "CWE-120",
+        "Description": "A vulnerability was discovered in the odoh-rs rust crate that stems from faulty logic during the parsing of encrypted queries. This issue specifically occurs when processing encrypted query data received from remote clients and enables an attacker\u00c2\u00a0with knowledge of this vulnerability to craft and send specially designed encrypted queries to targeted ODOH servers running with odoh-rs. Upon successful exploitation, the server will crash abruptly, disrupting its normal operation and rendering the service temporarily unavailable.\n\n",
+        "URL": "https://github.com/cloudflare/odoh-rs/pull/28",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]
