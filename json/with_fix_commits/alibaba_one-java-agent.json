@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "All versions of package com.alibaba.oneagent:one-java-agent-plugin are vulnerable to Arbitrary File Write via Archive Extraction (Zip Slip) using a specially crafted archive that holds directory traversal filenames (e.g. ../../evil.exe). The attacker can overwrite executable files and either invoke them remotely or wait for the system or user to call them, thus achieving remote command execution on the victim\u00c2\u2019s machine.",
         "URL": "https://github.com/alibaba/one-java-agent/pull/29",
+        "Commit SHA": "e0149bb36488fede2a12cb1ab3c2095e56dd7571",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]

@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-295",
         "Description": "Allegro Tech BigFlow <1.6 is vulnerable to Missing SSL Certificate Validation.",
         "URL": "https://github.com/allegro/bigflow/pull/357",
+        "Commit SHA": "fab2660b7d5ed98319776dede095d1bf21c88154",
         "Tag": "['Patch']"
     }
 ]

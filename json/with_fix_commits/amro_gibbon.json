@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-918",
         "Description": "Gibbon v3.4.4 and below allows attackers to execute a Server-Side Request Forgery (SSRF) via a crafted URL.",
         "URL": "https://github.com/amro/gibbon/pull/321",
+        "Commit SHA": "6933225393d7d261072e0c708365c3750d799381",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]

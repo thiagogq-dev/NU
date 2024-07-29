@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Stack-based buffer overflow in the gps_tracker function in airodump-ng.c in Aircrack-ng before 1.2 RC 1 allows local users to execute arbitrary code or gain privileges via unspecified vectors.",
         "URL": "https://github.com/aircrack-ng/aircrack-ng/pull/13",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Stack-based buffer overflow in the tcp_test function in aireplay-ng.c in Aircrack-ng before 1.2 RC 1 allows remote attackers to execute arbitrary code via a crafted length parameter value.",
         "URL": "https://github.com/aircrack-ng/aircrack-ng/pull/14",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
