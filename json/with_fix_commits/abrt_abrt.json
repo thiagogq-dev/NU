@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-362",
         "Description": "The crash reporting feature in Abrt allows local users to gain privileges by leveraging an execve by root after a chroot into a user-specified directory in a namedspaced environment.",
         "URL": "https://github.com/abrt/abrt/pull/810",
+        "Commit SHA": "f0ef180ea30d8eac449957a07d9de5ac3bd95e57",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
