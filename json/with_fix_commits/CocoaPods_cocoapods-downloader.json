@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-88",
         "Description": "The package cocoapods-downloader before 1.6.2 are vulnerable to Command Injection via hg argument injection. When calling the download function (when using hg), the url (and/or revision, tag, branch) is passed to the hg clone command in a way that additional flags can be set. The additional flags can be used to perform a command injection.",
         "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/127",
+        "Commit SHA": "d2564c3aa470ffd0856e50d88a0bdf6328e0c0f7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-88",
         "Description": "The package cocoapods-downloader before 1.6.0, from 1.6.2 and before 1.6.3 are vulnerable to Command Injection via git argument injection. When calling the Pod::Downloader.preprocess_options function and using git, both the git and branch parameters are passed to the git ls-remote subcommand in a way that additional flags can be set. The additional flags can be used to perform a command injection.",
         "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/128",
+        "Commit SHA": "52a0d54464932a90ded5a59c71a016e8dec0ca84",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-88",
         "Description": "The package cocoapods-downloader before 1.6.0, from 1.6.2 and before 1.6.3 are vulnerable to Command Injection via git argument injection. When calling the Pod::Downloader.preprocess_options function and using git, both the git and branch parameters are passed to the git ls-remote subcommand in a way that additional flags can be set. The additional flags can be used to perform a command injection.",
         "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/124",
+        "Commit SHA": "b70bc39c75645aa6d4a01a3ca6de40477c84f4b5",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
