@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Editor.js is a block-style editor with clean JSON output. Versions prior to 2.26.0 are vulnerable to Code Injection via pasted input. The processHTML method passes pasted input into wrapper\u00c2\u2019s innerHTML. This issue is patched in version 2.26.0.",
         "URL": "https://github.com/codex-team/editor.js/pull/2100",
+        "Commit SHA": "f659015be6de8e6f0c322c5ff4d1a4532d2f29a2",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
