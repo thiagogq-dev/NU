@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-74",
         "Description": "Improper Neutralization of Equivalent Special Elements in GitHub repository btcpayserver/btcpayserver prior to 1.7.5.\n\n",
         "URL": "https://github.com/btcpayserver/btcpayserver/pull/4545/commits/02070d65836cd24627929b3403efbae8de56039a",
+        "Commit SHA": "a3203e57755ca2e6ff9d049e3e3672cdfff16ea0",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.\n\n",
         "URL": "https://github.com/btcpayserver/btcpayserver/pull/4567/commits/d4e464ad4ef0cbbf61751e70f77865de325dd6cf",
+        "Commit SHA": "3d576cd06b7e1947017ee7a88c4617c10f3b86fe",
         "Tag": "['Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.\n\n",
         "URL": "https://github.com/btcpayserver/btcpayserver/pull/4575/commits/c2cfa17e9619046b43987627b8429541d2834109",
+        "Commit SHA": "f2ced20c420c827f5c2ebf1fb405b35056687914",
         "Tag": "['Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.12.\n\n",
         "URL": "https://github.com/btcpayserver/btcpayserver/pull/4635/commits/f2f3b245c4d8980d8e54e4708c796df82332c3d7",
+        "Commit SHA": "fea27b900c0a9be2b8ae0079b8445499361cad88",
         "Tag": "['Patch']"
     }
 ]
