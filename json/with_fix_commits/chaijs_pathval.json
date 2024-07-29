@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "pathval before version 1.1.1 is vulnerable to prototype pollution.",
         "URL": "https://github.com/chaijs/pathval/pull/58/files",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
