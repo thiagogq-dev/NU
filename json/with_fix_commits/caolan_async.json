@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "In Async before 2.6.4 and 3.x before 3.2.2, a malicious user can obtain privileges via the mapValues() method, aka lib/internal/iterator.js createObjectIterator prototype pollution.",
         "URL": "https://github.com/caolan/async/pull/1828",
+        "Commit SHA": "8f7f90342a6571ba1c197d747ebed30c368096d2",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
