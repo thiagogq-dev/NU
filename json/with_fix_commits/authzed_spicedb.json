@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-913",
         "Description": "SpiceDB is an open source, Google Zanzibar-inspired, database system for creating and managing security-critical application permissions. Any user making a negative authorization decision based on the results of a `LookupResources` request with 1.22.0 is affected. For example, using `LookupResources` to find a list of resources to allow access to be okay: some subjects that should have access to a resource may not. But if using `LookupResources` to find a list of banned resources instead, then some users that shouldn't have access may. Generally, `LookupResources` is not and should not be to gate access in this way - that's what the `Check` API is for. Additionally, version 1.22.0 has included a warning about this bug since its initial release. Users are advised to upgrade to version 1.22.2. Users unable to upgrade should avoid using `LookupResources` for negative authorization decisions.",
         "URL": "https://github.com/authzed/spicedb/pull/1397",
+        "Commit SHA": "666d083225a1f3274112be95a9c6e17cc003be34",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
