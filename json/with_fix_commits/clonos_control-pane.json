@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "The WEB control panel before 2019-04-30 for ClonOS allows SQL injection in clonos.php.",
         "URL": "https://github.com/clonos/control-pane/pull/20",
+        "Commit SHA": "a2d506267cb6179865c263e5f7b76340de95a514",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
