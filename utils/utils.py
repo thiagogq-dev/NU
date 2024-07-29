@@ -2,6 +2,7 @@ import requests
 import json
 from pydriller import Git, Repository
 import os
+import logging
 
 API_TOKENS = [
     os.getenv('TOKEN_1'),
@@ -43,13 +44,19 @@ def get_pull_request_data(url, owner, repo, repo_path):
     pr_number = url.split('/pull/')[1].split('/')[0]
 
     if 'commits' in url:
-        commit_hash = url.split('/commits/')[1]
+        try:
+            commit_hash = url.split('/commits/')[1]
+        except:
+            commit_hash = ""
 
     if commit_hash != "" and check_commit_existence(repo_path, commit_hash):
         return commit_hash
 
     url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}"
     response = requests.get(url, headers=get_headers())
+    if response.status_code == 404:
+        print(f"PR {pr_number} does not exist in {owner}/{repo}.")
+        return None
     data = response.json()
     merge_commit = data["merge_commit_sha"]
 
