@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-295",
         "Description": "HTTP::Tiny before 0.083, a Perl core module since 5.13.9 and available standalone on CPAN, has an insecure default TLS configuration where users must opt in to verify certificates.",
         "URL": "https://github.com/chansen/p5-http-tiny/pull/153",
+        "Commit SHA": "77f557ef84698efeb6eed04e4a9704eaf85b741d",
         "Tag": "['Patch']"
     }
 ]
