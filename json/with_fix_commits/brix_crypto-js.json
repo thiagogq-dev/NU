@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-330",
         "Description": "The crypto-js package before 3.2.1 for Node.js generates random numbers by concatenating the string \"0.\" with an integer, which makes the output more predictable than necessary.",
         "URL": "https://github.com/brix/crypto-js/pull/257/commits/e4ac157d8b75b962d6538fc0b996e5d4d5a9466b",
+        "Commit SHA": "e4ac157d8b75b962d6538fc0b996e5d4d5a9466b",
         "Tag": "['Patch']"
     }
 ]
