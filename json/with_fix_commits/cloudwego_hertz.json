@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Hertz v0.3.0 ws discovered to contain a path traversal vulnerability via the normalizePath function.",
         "URL": "https://github.com/cloudwego/hertz/pull/229",
+        "Commit SHA": "dcb0b5a1861a1e2e4629a8607a3ca9c89009ac55",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
