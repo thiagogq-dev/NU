@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-190",
         "Description": "Clara Genomics Analysis before 0.2.0 has an integer overflow for cudapoa memory management in allocate_block.cpp.",
         "URL": "https://github.com/clara-genomics/ClaraGenomicsAnalysis/pull/70",
+        "Commit SHA": "83e3a0c6e95de446eb51f578f89ad3fd025e263d",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
