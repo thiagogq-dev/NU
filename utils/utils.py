@@ -38,9 +38,17 @@ def check_commit_existence(repo_path, commit_hash):
         return False
     return True
 
-def get_pull_request_data(pr_number, owner, repo, repo_path):
+def get_pull_request_data(url, owner, repo, repo_path):
+    commit_hash = ""
+    pr_number = url.split('/pull/')[1].split('/')[0]
+
+    if 'commits' in url:
+        commit_hash = url.split('/commits/')[1]
+
+    if commit_hash != "" and check_commit_existence(repo_path, commit_hash):
+        return commit_hash
+
     url = f"https://api.github.com/repos/{owner}/{repo}/pulls/{pr_number}"
-    print(url)
     response = requests.get(url, headers=get_headers())
     data = response.json()
     merge_commit = data["merge_commit_sha"]

@@ -27,14 +27,15 @@ with open(json_file) as f:
     for entry in data:
         read += 1
         print(f"Read {read}/{length}")
-        pr_number = entry["URL"].rstrip("/").split("/")[-1]
+        url = entry["URL"]
+        # pr_number = entry["URL"].rstrip("/").split("/")[-1]
         # target_pr_number = entry["Target PR"].rstrip("/").split("/")[-1]
         # closest_pr_number = entry["Closest PR"].rstrip("/").split("/")[-1]
         
         owner, repo = entry["repo_name"].split("/")
         repo_path = f"repos_dir/{owner}/{repo}"
 
-        pr_commit_sha = get_pull_request_data(pr_number, owner, repo, repo_path)
+        pr_commit_sha = get_pull_request_data(url, owner, repo, repo_path)
 
         # target_commit_sha = get_pull_request_data(target_pr_number, owner, repo, repo_path)
         # closest_commit_sha = get_pull_request_data(closest_pr_number, owner, repo, repo_path)
