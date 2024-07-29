@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Concrete CMS before 8.5.13 and 9.x before 9.2.2 allows stored XSS on the Admin page via an uploaded file name.",
         "URL": "https://github.com/concretecms/concretecms/pull/11695",
+        "Commit SHA": "b011865523ef1af5676d48f5c506bbe4b15abe85",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Concrete CMS before 8.5.13 and 9.x before 9.2.2 allows stored XSS on the Admin page via an uploaded file name.",
         "URL": "https://github.com/concretecms/concretecms/pull/11739",
+        "Commit SHA": "e7ba2ba3e14d280d9c992bd744b1cdede176753a",
         "Tag": "['Patch']"
     }
 ]
