@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "The atyfb_ioctl function in drivers/video/fbdev/aty/atyfb_base.c in the Linux kernel through 4.12.10 does not initialize a certain data structure, which allows local users to obtain sensitive information from kernel stack memory by reading locations associated with padding bytes.",
         "URL": "https://github.com/torvalds/linux/pull/441",
+        "Commit SHA": "2f6ccd85021ed0689a754a91ec3390d08e29c5b1",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
