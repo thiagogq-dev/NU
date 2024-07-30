@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Ghost before 5.76.0 allows XSS via a post excerpt in excerpt.js. An XSS payload can be rendered in post summaries.",
         "URL": "https://github.com/TryGhost/Ghost/pull/17190",
+        "Commit SHA": "dc7e2b9261555f4a1a160ea4369e9d9578194358",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
