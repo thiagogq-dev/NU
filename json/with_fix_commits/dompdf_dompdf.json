@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Dompdf 1.2.1 allows remote code execution via a .php file in the src:url field of an @font-face Cascading Style Sheets (CSS) statement (within an HTML input file).",
         "URL": "https://github.com/dompdf/dompdf/pull/2808",
+        "Commit SHA": "4c70e1025bcd9b7694b95dd552499bd83cd6141d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-552",
         "Description": "registerFont in FontMetrics.php in Dompdf before 2.0.1 allows remote file inclusion because a URI validation failure does not halt font registration, as demonstrated by a @font-face rule.",
         "URL": "https://github.com/dompdf/dompdf/pull/2995",
+        "Commit SHA": "66431c58017d5b1bdb9f6f772b9fbbc5e3d38dc2",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
