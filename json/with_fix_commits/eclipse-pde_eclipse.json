@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-611",
         "Description": "In Eclipse IDE versions < 2023-09 (4.29) some files with xml content are parsed vulnerable against all sorts of XXE attacks. The user just needs to open any evil project or update an open project with a vulnerable file (for example for review a foreign repository or patch).\n",
         "URL": "https://github.com/eclipse-pde/eclipse.pde/pull/632/",
+        "Commit SHA": "c8754be8f6e23e9c5aebf6bf11b59515e98d262d",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-611",
         "Description": "In Eclipse IDE versions < 2023-09 (4.29) some files with xml content are parsed vulnerable against all sorts of XXE attacks. The user just needs to open any evil project or update an open project with a vulnerable file (for example for review a foreign repository or patch).\n",
         "URL": "https://github.com/eclipse-pde/eclipse.pde/pull/667/",
+        "Commit SHA": "7d66ed1cf12e84ab689f701d77e5108c190c2083",
         "Tag": "['Patch']"
     }
 ]
