@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A vulnerability, which was classified as problematic, was found in tinymighty WikiSEO 1.2.1 on MediaWiki. This affects the function modifyHTML of the file WikiSEO.body.php of the component Meta Property Tag Handler. The manipulation of the argument content leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 1.2.2 is able to address this issue. The patch is named 089a5797be612b18a820f9f1e6593ad9a91b1dba. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-220215.",
         "URL": "https://github.com/tinymighty/wiki-seo/pull/21",
+        "Commit SHA": "a4d06c71cd7a43772d7e095f60dd4079c8f50370",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
