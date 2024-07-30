@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "The Path Sanity Check script of FreeCAD 0.19 is vulnerable to OS command injection, allowing an attacker to execute arbitrary commands via a crafted FCStd document.",
         "URL": "https://github.com/FreeCAD/FreeCAD/pull/5306",
+        "Commit SHA": "169eb655f30180b95e5923be2eb3bc4de6e02406",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
