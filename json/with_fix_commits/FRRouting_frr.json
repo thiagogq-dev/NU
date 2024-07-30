@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-732",
         "Description": "An issue was discovered in FRRouting FRR (aka Free Range Routing) through 7.3.1. When using the split-config feature, the init script creates an empty config file with world-readable default permissions, leading to a possible information leak via tools/frr.in and tools/frrcommon.sh.in. NOTE: some parties consider this user error, not a vulnerability, because the permissions are under the control of the user before any sensitive information is present in the file",
         "URL": "https://github.com/FRRouting/frr/pull/6383",
+        "Commit SHA": "7734484a378052a513c9e21165c13bf85f78ad48",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-755",
         "Description": "bgpd/bgp_flowspec.c in FRRouting (FRR) before 8.4.3 mishandles an nlri length of zero, aka a \"flowspec overflow.\"",
         "URL": "https://github.com/FRRouting/frr/pull/12884",
+        "Commit SHA": "b1867d42927c6e28a257dbcc52e8e1ad27d415e9",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "bgpd/bgp_label.c in FRRouting (FRR) before 8.5 attempts to read beyond the end of the stream during labeled unicast parsing.",
         "URL": "https://github.com/FRRouting/frr/pull/12956",
+        "Commit SHA": "9f31d576647d5a1650e3fb326a8be6bdbd4fbd45",
         "Tag": "['Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "bgpd/bgp_label.c in FRRouting (FRR) before 8.5 attempts to read beyond the end of the stream during labeled unicast parsing.",
         "URL": "https://github.com/FRRouting/frr/pull/12951",
+        "Commit SHA": "e618cc7b21608c493ec321caf2377771c6c4baba",
         "Tag": "['Patch']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-476",
         "Description": "An issue was discovered in FRRouting FRR through 9.0. bgpd/bgp_packet.c processes NLRIs if the attribute length is zero.",
         "URL": "https://github.com/FRRouting/frr/pull/14260",
+        "Commit SHA": "42016422ce39bb1dd154531ee39f8b14ffed8fe7",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An issue was discovered in FRRouting FRR through 9.0. There is an out-of-bounds read in bgp_attr_aigp_valid in bgpd/bgp_attr.c because there is no check for the availability of two bytes during AIGP validation.",
         "URL": "https://github.com/FRRouting/frr/pull/14232",
+        "Commit SHA": "673a11a54fc6948641fe56e41720d0f900c9353c",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An issue was discovered in FRRouting FRR through 9.0. bgpd/bgp_packet.c can read the initial byte of the ORF header in an ahead-of-stream situation.",
         "URL": "https://github.com/FRRouting/frr/pull/14245",
+        "Commit SHA": "c2b0d6a08f5f3f323e60071387e52b0418540a6a",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-120",
         "Description": "An issue was discovered in FRRouting FRR 9.0. bgpd/bgp_open.c does not check for an overly large length of the rcv software version.",
         "URL": "https://github.com/FRRouting/frr/pull/14241",
+        "Commit SHA": "ff4c767a312dae7583f9f56ceb4054f40aac0bad",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-476",
         "Description": "An issue was discovered in FRRouting FRR through 9.0. bgp_nlri_parse_flowspec in bgpd/bgp_flowspec.c processes malformed requests with no attributes, leading to a NULL pointer dereference.",
         "URL": "https://github.com/FRRouting/frr/pull/13222/commits/cfd04dcb3e689754a72507d086ba3b9709fc5ed8",
+        "Commit SHA": "cfd04dcb3e689754a72507d086ba3b9709fc5ed8",
         "Tag": "['Patch']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "An issue was discovered in FRRouting FRR through 9.0.1. It mishandles malformed MP_REACH_NLRI data, leading to a crash.",
         "URL": "https://github.com/FRRouting/frr/pull/14645/commits/b08afc81c60607a4f736f418f2e3eb06087f1a35",
+        "Commit SHA": "b08afc81c60607a4f736f418f2e3eb06087f1a35",
         "Tag": "['Patch']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "An issue was discovered in FRRouting FRR through 9.0.1. A crash can occur for a crafted BGP UPDATE message without mandatory attributes, e.g., one with only an unknown transit attribute.",
         "URL": "https://github.com/FRRouting/frr/pull/14645/commits/d8482bf011cb2b173e85b65b4bf3d5061250cdb9",
+        "Commit SHA": "d8482bf011cb2b173e85b65b4bf3d5061250cdb9",
         "Tag": "['Patch']"
     },
     {
@@ -93,6 +104,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An issue was discovered in FRRouting FRR through 9.0.1. A crash can occur when processing a crafted BGP UPDATE message with a MP_UNREACH_NLRI attribute and additional NLRI data (that lacks mandatory path attributes).",
         "URL": "https://github.com/FRRouting/frr/pull/14716/commits/c37119df45bbf4ef713bc10475af2ee06e12f3bf",
+        "Commit SHA": "c37119df45bbf4ef713bc10475af2ee06e12f3bf",
         "Tag": "['Patch']"
     },
     {
@@ -101,6 +113,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An issue was discovered in FRRouting FRR through 9.0.1. A crash can occur when a malformed BGP UPDATE message with an EOR is processed, because the presence of EOR does not lead to a treat-as-withdraw outcome.",
         "URL": "https://github.com/FRRouting/frr/pull/14716/commits/6814f2e0138a6ea5e1f83bdd9085d9a77999900b",
+        "Commit SHA": "6814f2e0138a6ea5e1f83bdd9085d9a77999900b",
         "Tag": "['Patch']"
     }
 ]
