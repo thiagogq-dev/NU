@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-352",
         "Description": "The console in Togglz before 2.9.4 allows CSRF.",
         "URL": "https://github.com/togglz/togglz/pull/495",
+        "Commit SHA": "ed66e3f584de954297ebaf98ea4a235286784707",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
