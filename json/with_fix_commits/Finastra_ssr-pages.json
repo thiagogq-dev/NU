@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "ssr-pages is an HTML page builder for the purpose of server-side rendering (SSR). In versions prior to 0.1.5, a cross site scripting (XSS) issue can occur when providing untrusted input to the `redirect.link` property as an argument to the `build(MessagePageOptions)` function. While there is no known workaround at this time, there is a patch in version 0.1.5.",
         "URL": "https://github.com/Finastra/ssr-pages/pull/2/commits/133606ffaec2edd9918d9fba5771ed21da7876a5",
+        "Commit SHA": "133606ffaec2edd9918d9fba5771ed21da7876a5",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "ssr-pages is an HTML page builder for the purpose of server-side rendering (SSR). In versions prior to 0.1.5, a cross site scripting (XSS) issue can occur when providing untrusted input to the `redirect.link` property as an argument to the `build(MessagePageOptions)` function. While there is no known workaround at this time, there is a patch in version 0.1.5.",
         "URL": "https://github.com/Finastra/ssr-pages/pull/2",
+        "Commit SHA": "2a5fccbfc522b201dab3d5c104d5d7ef54d592b3",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-22",
         "Description": "ssr-pages is an HTML page builder for the purpose of server-side rendering (SSR). In versions prior to 0.1.4, a path traversal issue can occur when providing untrusted input to the `svg` property as an argument to the `build(MessagePageOptions)` function. While there is no known workaround at this time, there is a patch in version 0.1.4.",
         "URL": "https://github.com/Finastra/ssr-pages/pull/1",
+        "Commit SHA": "28c9b105be3fddc50ccbcd408d395231b147f438",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-22",
         "Description": "ssr-pages is an HTML page builder for the purpose of server-side rendering (SSR). In versions prior to 0.1.4, a path traversal issue can occur when providing untrusted input to the `svg` property as an argument to the `build(MessagePageOptions)` function. While there is no known workaround at this time, there is a patch in version 0.1.4.",
         "URL": "https://github.com/Finastra/ssr-pages/pull/1/commits/c3e4c563384ae3ba3892f37dd190218577620780",
+        "Commit SHA": "c3e4c563384ae3ba3892f37dd190218577620780",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
