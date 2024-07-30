@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "This affects the package clearance before 2.5.0. The vulnerability can be possible when users are able to set the value of session[:return_to]. If the value used for return_to contains multiple leading slashes (/////example.com) the user ends up being redirected to the external domain that comes after the slashes (http://example.com).",
         "URL": "https://github.com/thoughtbot/clearance/pull/945",
+        "Commit SHA": "5bcab3d83da74884c7853c9bd20d12987a249dd3",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
