@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "This affects the package json before 10.0.0. It is possible to inject arbritary commands using the parseLookup function.",
         "URL": "https://github.com/trentm/json/pull/145",
+        "Commit SHA": "cc4798169f9e0f181f8aa61905b88479badcd483",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
