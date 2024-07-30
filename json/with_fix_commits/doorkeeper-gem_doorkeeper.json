@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-287",
         "Description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape. Prior to version 5.6.6, Doorkeeper automatically processes authorization requests without user consent for public clients that have been previous approved. Public clients are inherently vulnerable to impersonation, their identity cannot be assured. This issue is fixed in version 5.6.6.",
         "URL": "https://github.com/doorkeeper-gem/doorkeeper/pull/1646",
+        "Commit SHA": "313af27391d974d314c1869828ca80dc1ae2678c",
         "Tag": "['Patch']"
     }
 ]
