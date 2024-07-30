@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Uniswap/universal-router",
+        "CVE_ID": "CVE-2022-48216",
+        "Problem_Type": "CWE-667",
+        "Description": "Uniswap Universal Router before 1.1.0 mishandles reentrancy. This would have allowed theft of funds.",
+        "URL": "https://github.com/Uniswap/universal-router/pull/189",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

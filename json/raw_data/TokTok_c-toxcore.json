@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "TokTok/c-toxcore",
+        "CVE_ID": "CVE-2018-25022",
+        "Problem_Type": "CWE-200",
+        "Description": "The Onion module in toxcore before 0.2.2 doesn't restrict which packets can be onion-routed, which allows a remote attacker to discover a target user's IP address (when knowing only their Tox Id) by positioning themselves close to target's Tox Id in the DHT for the target to establish an onion connection with the attacker, guessing the target's DHT public key and creating a DHT node with public key close to it, and finally onion-routing a NAT Ping Request to the target, requesting it to ping the just created DHT node.",
+        "URL": "https://github.com/TokTok/c-toxcore/pull/872",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TokTok/c-toxcore",
+        "CVE_ID": "CVE-2021-44847",
+        "Problem_Type": "CWE-682",
+        "Description": "A stack-based buffer overflow in handle_request function in DHT.c in toxcore 0.1.9 through 0.1.11 and 0.2.0 through 0.2.12 (caused by an improper length calculation during the handling of received network packets) allows remote attackers to crash the process or potentially execute arbitrary code via a network packet.",
+        "URL": "https://github.com/TokTok/c-toxcore/pull/1718",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

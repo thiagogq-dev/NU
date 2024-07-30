@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ultrajson/ultrajson",
+        "CVE_ID": "CVE-2021-45958",
+        "Problem_Type": "CWE-787",
+        "Description": "UltraJSON (aka ujson) through 5.1.0 has a stack-based buffer overflow in Buffer_AppendIndentUnchecked (called from encode). Exploitation can, for example, use a large amount of indentation.",
+        "URL": "https://github.com/ultrajson/ultrajson/pull/504",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

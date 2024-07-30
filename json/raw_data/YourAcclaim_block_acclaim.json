@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "YourAcclaim/block_acclaim",
+        "CVE_ID": "CVE-2019-15536",
+        "Problem_Type": "CWE-89",
+        "Description": "The Acclaim block plugin before 2019-06-26 for Moodle allows SQL Injection via delete_records.",
+        "URL": "https://github.com/YourAcclaim/block_acclaim/pull/18",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

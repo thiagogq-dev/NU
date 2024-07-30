@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "tsingsee/EasyPlayerPro-Win",
+        "CVE_ID": "CVE-2023-33693",
+        "Problem_Type": "CWE-787",
+        "Description": "A buffer overflow in EasyPlayerPro-Win v3.2.19.0106 to v3.6.19.0823 allows attackers to cause a Denial of Service (DoS) via a crafted XML file.",
+        "URL": "https://github.com/tsingsee/EasyPlayerPro-Win/pull/24",
+        "Tag": "['Patch']"
+    }
+]

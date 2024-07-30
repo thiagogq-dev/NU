@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "toumorokoshi/transmute-core",
+        "CVE_ID": "CVE-2023-47204",
+        "Problem_Type": "CWE-502",
+        "Description": "Unsafe YAML deserialization in yaml.Loader in transmute-core before 1.13.5 allows attackers to execute arbitrary Python code.",
+        "URL": "https://github.com/toumorokoshi/transmute-core/pull/58",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

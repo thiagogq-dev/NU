@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "trentm/json",
+        "CVE_ID": "CVE-2020-7712",
+        "Problem_Type": "CWE-78",
+        "Description": "This affects the package json before 10.0.0. It is possible to inject arbritary commands using the parseLookup function.",
+        "URL": "https://github.com/trentm/json/pull/145",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

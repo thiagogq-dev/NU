@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "WebAssembly/binaryen",
+        "CVE_ID": "CVE-2019-15758",
+        "Problem_Type": "CWE-617",
+        "Description": "An issue was discovered in Binaryen 1.38.32. Missing validation rules in asmjs/asmangle.cpp can lead to an Assertion Failure at wasm/wasm.cpp in wasm::asmangle. A crafted input can cause denial-of-service, as demonstrated by wasm2js.",
+        "URL": "https://github.com/WebAssembly/binaryen/pull/2290",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "WebAssembly/binaryen",
+        "CVE_ID": "CVE-2019-15759",
+        "Problem_Type": "CWE-476",
+        "Description": "An issue was discovered in Binaryen 1.38.32. Two visitors in ir/ExpressionManipulator.cpp can lead to a NULL pointer dereference in wasm::LocalSet::finalize in wasm/wasm.cpp. A crafted input can cause segmentation faults, leading to denial-of-service, as demonstrated by wasm2js.",
+        "URL": "https://github.com/WebAssembly/binaryen/pull/2289",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

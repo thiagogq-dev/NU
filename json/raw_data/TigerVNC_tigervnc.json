@@ -1,0 +1,66 @@
+[
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-5581",
+        "Problem_Type": "CWE-119",
+        "Description": "Buffer overflow in the ModifiablePixelBuffer::fillRect function in TigerVNC before 1.7.1 allows remote servers to execute arbitrary code via an RRE message with subrectangle outside framebuffer boundaries.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/399",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-7392",
+        "Problem_Type": "CWE-772",
+        "Description": "In TigerVNC 1.7.1 (SSecurityVeNCrypt.cxx SSecurityVeNCrypt::SSecurityVeNCrypt), an unauthenticated client can cause a small memory leak in the server.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/441",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-7393",
+        "Problem_Type": "CWE-415",
+        "Description": "In TigerVNC 1.7.1 (VNCSConnectionST.cxx VNCSConnectionST::fence), an authenticated client can cause a double free, leading to denial of service or potentially code execution.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/438",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-7394",
+        "Problem_Type": "CWE-20",
+        "Description": "In TigerVNC 1.7.1 (SSecurityPlain.cxx SSecurityPlain::processMsg), unauthenticated users can crash the server by sending long usernames.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/440",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-7395",
+        "Problem_Type": "CWE-190",
+        "Description": "In TigerVNC 1.7.1 (SMsgReader.cxx SMsgReader::readClientCutText), by causing an integer overflow, an authenticated client can crash the server.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/436/commits/bf3bdac082978ca32895a4b6a123016094905689",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-7395",
+        "Problem_Type": "CWE-190",
+        "Description": "In TigerVNC 1.7.1 (SMsgReader.cxx SMsgReader::readClientCutText), by causing an integer overflow, an authenticated client can crash the server.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/436",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-7396",
+        "Problem_Type": "CWE-772",
+        "Description": "In TigerVNC 1.7.1 (CConnection.cxx CConnection::CConnection), an unauthenticated client can cause a small memory leak in the server.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/436/commits/dccb5f7d776e93863ae10bbff56a45c523c6eeb0",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "TigerVNC/tigervnc",
+        "CVE_ID": "CVE-2017-7396",
+        "Problem_Type": "CWE-772",
+        "Description": "In TigerVNC 1.7.1 (CConnection.cxx CConnection::CConnection), an unauthenticated client can cause a small memory leak in the server.",
+        "URL": "https://github.com/TigerVNC/tigervnc/pull/436",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

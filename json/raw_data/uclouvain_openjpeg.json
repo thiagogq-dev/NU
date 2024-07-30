@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "uclouvain/openjpeg",
+        "CVE_ID": "CVE-2016-7163",
+        "Problem_Type": "CWE-190",
+        "Description": "Integer overflow in the opj_pi_create_decode function in pi.c in OpenJPEG allows remote attackers to execute arbitrary code via a crafted JP2 file, which triggers an out-of-bounds read or write.",
+        "URL": "https://github.com/uclouvain/openjpeg/pull/809",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "uclouvain/openjpeg",
+        "CVE_ID": "CVE-2018-20845",
+        "Problem_Type": "CWE-369",
+        "Description": "Division-by-zero vulnerabilities in the functions pi_next_pcrl, pi_next_cprl, and pi_next_rpcl in openmj2/pi.c in OpenJPEG through 2.3.0 allow remote attackers to cause a denial of service (application crash).",
+        "URL": "https://github.com/uclouvain/openjpeg/pull/1168/commits/c5bd64ea146162967c29bd2af0cbb845ba3eaaaf",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "uclouvain/openjpeg",
+        "CVE_ID": "CVE-2018-20846",
+        "Problem_Type": "CWE-20",
+        "Description": "Out-of-bounds accesses in the functions pi_next_lrcp, pi_next_rlcp, pi_next_rpcl, pi_next_pcrl, pi_next_rpcl, and pi_next_cprl in openmj2/pi.c in OpenJPEG through 2.3.0 allow remote attackers to cause a denial of service (application crash).",
+        "URL": "https://github.com/uclouvain/openjpeg/pull/1168/commits/c277159986c80142180fbe5efb256bbf3bdf3edc",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "uclouvain/openjpeg",
+        "CVE_ID": "CVE-2018-20847",
+        "Problem_Type": "CWE-190",
+        "Description": "An improper computation of p_tx0, p_tx1, p_ty0 and p_ty1 in the function opj_get_encoding_parameters in openjp2/pi.c in OpenJPEG through 2.3.0 can lead to an integer overflow.",
+        "URL": "https://github.com/uclouvain/openjpeg/pull/1168/commits/c58df149900df862806d0e892859b41115875845",
+        "Tag": "['Patch']"
+    }
+]

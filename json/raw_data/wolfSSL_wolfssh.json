@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "wolfSSL/wolfssh",
+        "CVE_ID": "CVE-2022-32073",
+        "Problem_Type": "CWE-190",
+        "Description": "WolfSSH v1.4.7 was discovered to contain an integer overflow via the function wolfSSH_SFTP_RecvRMDIR.",
+        "URL": "https://github.com/wolfSSL/wolfssh/pull/360",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

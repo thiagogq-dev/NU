@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "xmidt-org/cjwt",
+        "CVE_ID": "CVE-2019-19324",
+        "Problem_Type": "CWE-670",
+        "Description": "Xmidt cjwt through 1.0.1 before 2019-11-25 maps unsupported algorithms to alg=none, which sometimes leads to untrusted accidental JWT acceptance.",
+        "URL": "https://github.com/xmidt-org/cjwt/pull/29#issuecomment-558356866",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

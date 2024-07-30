@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "yargs/y18n",
+        "CVE_ID": "CVE-2020-7774",
+        "Problem_Type": "CWE-1321",
+        "Description": "The package y18n before 3.2.2, 4.0.1 and 5.0.5, is vulnerable to Prototype Pollution.",
+        "URL": "https://github.com/yargs/y18n/pull/108",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

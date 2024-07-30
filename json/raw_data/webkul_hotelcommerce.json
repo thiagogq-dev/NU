@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "webkul/hotelcommerce",
+        "CVE_ID": "CVE-2023-36235",
+        "Problem_Type": "CWE-639",
+        "Description": "An issue in webkul qloapps before v1.6.0 allows an attacker to obtain sensitive information via the id_order parameter.",
+        "URL": "https://github.com/webkul/hotelcommerce/pull/537",
+        "Tag": "['Patch']"
+    }
+]

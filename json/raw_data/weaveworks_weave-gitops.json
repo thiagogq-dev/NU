@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "weaveworks/weave-gitops",
+        "CVE_ID": "CVE-2022-23508",
+        "Problem_Type": "CWE-552",
+        "Description": "Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.  A vulnerability in GitOps run could allow a local user or process to alter a Kubernetes cluster's resources. GitOps run has a local S3 bucket which it uses for synchronizing files that are later applied against a Kubernetes cluster. Its endpoint had no security controls to block unauthorized access, therefore allowing local users (and processes) on the same machine to see and alter the bucket content. By leveraging this vulnerability, an attacker could pick a workload of their choosing and inject it into the S3 bucket, which resulted in the successful deployment in the target cluster, without the need to provide any credentials to either the S3 bucket nor the target Kubernetes cluster. There are no known workarounds for this issue, please upgrade. This vulnerability has been fixed by commits 75268c4 and 966823b. Users should upgrade to Weave GitOps version >= v0.12.0 released on 08/12/2022.\n\n### Workarounds\nThere is no workaround for this vulnerability.\n\n### References\nDisclosed by Paulo Gomes, Senior Software Engineer, Weaveworks.\n\n### For more information\nIf you have any questions or comments about this advisory:\n\n- Open an issue in [Weave GitOps repository](https://github.com/weaveworks/weave-gitops)\n- Email us at [support@weave.works](mailto:support@weave.works)\n",
+        "URL": "https://github.com/weaveworks/weave-gitops/pull/3114/commits/75268c4d2c8f7e4db22c63d76b451ba6545d117f",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "weaveworks/weave-gitops",
+        "CVE_ID": "CVE-2022-23508",
+        "Problem_Type": "CWE-552",
+        "Description": "Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise.  A vulnerability in GitOps run could allow a local user or process to alter a Kubernetes cluster's resources. GitOps run has a local S3 bucket which it uses for synchronizing files that are later applied against a Kubernetes cluster. Its endpoint had no security controls to block unauthorized access, therefore allowing local users (and processes) on the same machine to see and alter the bucket content. By leveraging this vulnerability, an attacker could pick a workload of their choosing and inject it into the S3 bucket, which resulted in the successful deployment in the target cluster, without the need to provide any credentials to either the S3 bucket nor the target Kubernetes cluster. There are no known workarounds for this issue, please upgrade. This vulnerability has been fixed by commits 75268c4 and 966823b. Users should upgrade to Weave GitOps version >= v0.12.0 released on 08/12/2022.\n\n### Workarounds\nThere is no workaround for this vulnerability.\n\n### References\nDisclosed by Paulo Gomes, Senior Software Engineer, Weaveworks.\n\n### For more information\nIf you have any questions or comments about this advisory:\n\n- Open an issue in [Weave GitOps repository](https://github.com/weaveworks/weave-gitops)\n- Email us at [support@weave.works](mailto:support@weave.works)\n",
+        "URL": "https://github.com/weaveworks/weave-gitops/pull/3102/commits/966823bbda8c539a4661e2a4f8607c9307ba6225",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "weaveworks/weave-gitops",
+        "CVE_ID": "CVE-2022-23509",
+        "Problem_Type": "CWE-319",
+        "Description": "Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise. GitOps run has a local S3 bucket which it uses for synchronizing files that are later applied against a Kubernetes cluster. The communication between GitOps Run and the local S3 bucket is not encrypted. This allows privileged users or process to tap the local traffic to gain information permitting access to the s3 bucket. From that point, it would be possible to alter the bucket content, resulting in changes in the Kubernetes cluster's resources. There are no known workaround(s) for this vulnerability. This vulnerability has been fixed by commits ce2bbff and babd915. Users should upgrade to Weave GitOps version >= v0.12.0 released on 08/12/2022.\n",
+        "URL": "https://github.com/weaveworks/weave-gitops/pull/3098/commits/babd91574b99b310b84aeec9f8f895bd18acb967",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "weaveworks/weave-gitops",
+        "CVE_ID": "CVE-2022-23509",
+        "Problem_Type": "CWE-319",
+        "Description": "Weave GitOps is a simple open source developer platform for people who want cloud native applications, without needing Kubernetes expertise. GitOps run has a local S3 bucket which it uses for synchronizing files that are later applied against a Kubernetes cluster. The communication between GitOps Run and the local S3 bucket is not encrypted. This allows privileged users or process to tap the local traffic to gain information permitting access to the s3 bucket. From that point, it would be possible to alter the bucket content, resulting in changes in the Kubernetes cluster's resources. There are no known workaround(s) for this vulnerability. This vulnerability has been fixed by commits ce2bbff and babd915. Users should upgrade to Weave GitOps version >= v0.12.0 released on 08/12/2022.\n",
+        "URL": "https://github.com/weaveworks/weave-gitops/pull/3106/commits/ce2bbff0a3609c33396050ed544a5a21f8d0797f",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

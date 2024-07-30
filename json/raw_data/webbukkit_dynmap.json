@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "webbukkit/dynmap",
+        "CVE_ID": "CVE-2019-12395",
+        "Problem_Type": "CWE-287",
+        "Description": "In Webbukkit Dynmap 3.0-beta-3 or below, due to a missing login check in servlet/MapStorageHandler.java, an attacker can see a map image without login even if victim enables login-required in setting.",
+        "URL": "https://github.com/webbukkit/dynmap/pull/2475",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

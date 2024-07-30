@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "twbs/bootstrap",
+        "CVE_ID": "CVE-2016-10735",
+        "Problem_Type": "CWE-79",
+        "Description": "In Bootstrap 3.x before 3.4.0 and 4.x-beta before 4.0.0-beta.2, XSS is possible in the data-target attribute, a different vulnerability than CVE-2018-14041.",
+        "URL": "https://github.com/twbs/bootstrap/pull/23687",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "CVE_ID": "CVE-2018-14040",
+        "Problem_Type": "CWE-79",
+        "Description": "In Bootstrap before 4.1.2, XSS is possible in the collapse data-parent attribute.",
+        "URL": "https://github.com/twbs/bootstrap/pull/26630",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "CVE_ID": "CVE-2018-14041",
+        "Problem_Type": "CWE-79",
+        "Description": "In Bootstrap before 4.1.2, XSS is possible in the data-target property of scrollspy.",
+        "URL": "https://github.com/twbs/bootstrap/pull/26630",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "CVE_ID": "CVE-2018-14042",
+        "Problem_Type": "CWE-79",
+        "Description": "In Bootstrap before 4.1.2, XSS is possible in the data-container property of tooltip.",
+        "URL": "https://github.com/twbs/bootstrap/pull/26630",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "CVE_ID": "CVE-2018-20676",
+        "Problem_Type": "CWE-79",
+        "Description": "In Bootstrap before 3.4.0, XSS is possible in the tooltip data-viewport attribute.",
+        "URL": "https://github.com/twbs/bootstrap/pull/27047",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "CVE_ID": "CVE-2018-20677",
+        "Problem_Type": "CWE-79",
+        "Description": "In Bootstrap before 3.4.0, XSS is possible in the affix configuration target property.",
+        "URL": "https://github.com/twbs/bootstrap/pull/27047",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "CVE_ID": "CVE-2019-8331",
+        "Problem_Type": "CWE-79",
+        "Description": "In Bootstrap before 3.4.1 and 4.3.x before 4.3.1, XSS is possible in the tooltip or popover data-template attribute.",
+        "URL": "https://github.com/twbs/bootstrap/pull/28236",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

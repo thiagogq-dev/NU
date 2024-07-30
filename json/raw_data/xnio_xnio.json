@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "xnio/xnio",
+        "CVE_ID": "CVE-2022-0084",
+        "Problem_Type": "CWE-770",
+        "Description": "A flaw was found in XNIO, specifically in the notifyReadClosed method. The issue revealed this method was logging a message to another expected end. This flaw allows an attacker to send flawed requests to a server, possibly causing log contention-related performance concerns or an unwanted disk fill-up.",
+        "URL": "https://github.com/xnio/xnio/pull/291",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

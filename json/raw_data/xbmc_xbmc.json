@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "xbmc/xbmc",
+        "CVE_ID": "CVE-2017-8314",
+        "Problem_Type": "CWE-22",
+        "Description": "Directory Traversal in Zip Extraction built-in function in Kodi 17.1 and earlier allows arbitrary file write on disk via a Zip file as subtitles.",
+        "URL": "https://github.com/xbmc/xbmc/pull/12024",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "xbmc/xbmc",
+        "CVE_ID": "CVE-2021-42917",
+        "Problem_Type": "CWE-120",
+        "Description": "Buffer overflow vulnerability in Kodi xbmc up to 19.0, allows attackers to cause a denial of service due to improper length of values passed to istream.",
+        "URL": "https://github.com/xbmc/xbmc/pull/20306",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "xbmc/xbmc",
+        "CVE_ID": "CVE-2023-23082",
+        "Problem_Type": "CWE-787",
+        "Description": "A heap buffer overflow vulnerability in Kodi Home Theater Software up to 19.5 allows attackers to cause a denial of service due to an improper length of the value passed to the offset argument.",
+        "URL": "https://github.com/xbmc/xbmc/pull/22380",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "xbmc/xbmc",
+        "CVE_ID": "CVE-2023-30207",
+        "Problem_Type": "CWE-369",
+        "Description": "A divide by zero issue discovered in Kodi Home Theater Software 19.5 and earlier allows attackers to cause a denial of service via use of crafted mp3 file.",
+        "URL": "https://github.com/xbmc/xbmc/pull/22391",
+        "Tag": "['Patch']"
+    }
+]

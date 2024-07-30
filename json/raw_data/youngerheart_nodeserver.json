@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "youngerheart/nodeserver",
+        "CVE_ID": "CVE-2020-36651",
+        "Problem_Type": "CWE-22",
+        "Description": "A vulnerability has been found in youngerheart nodeserver and classified as critical. Affected by this vulnerability is an unknown functionality of the file nodeserver.js. The manipulation leads to path traversal. The identifier of the patch is c4c0f0138ab5afbac58e03915d446680421bde28. It is recommended to apply a patch to fix this issue. The identifier VDB-218461 was assigned to this vulnerability.",
+        "URL": "https://github.com/youngerheart/nodeserver/pull/6",
+        "Tag": "['Exploit', 'Patch']"
+    }
+]

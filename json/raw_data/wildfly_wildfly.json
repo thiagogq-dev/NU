@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "wildfly/wildfly",
+        "CVE_ID": "CVE-2021-3503",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "A flaw was found in Wildfly where insufficient RBAC restrictions may lead to expose metrics data. The highest threat from this vulnerability is to the confidentiality.",
+        "URL": "https://github.com/wildfly/wildfly/pull/14136",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "webpack/webpack",
+        "CVE_ID": "CVE-2023-28154",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Webpack 5 before 5.76.0 does not avoid cross-realm object access. ImportParserPlugin.js mishandles the magic comment feature. An attacker who controls a property of an untrusted object can obtain access to the real global object.",
+        "URL": "https://github.com/webpack/webpack/pull/16500",
+        "Tag": "['Patch']"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "uriparser/uriparser",
+        "CVE_ID": "CVE-2021-46141",
+        "Problem_Type": "CWE-416",
+        "Description": "An issue was discovered in uriparser before 0.9.6. It performs invalid free operations in uriFreeUriMembers and uriMakeOwner.",
+        "URL": "https://github.com/uriparser/uriparser/pull/124",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "uriparser/uriparser",
+        "CVE_ID": "CVE-2021-46142",
+        "Problem_Type": "CWE-416",
+        "Description": "An issue was discovered in uriparser before 0.9.6. It performs invalid free operations in uriNormalizeSyntax.",
+        "URL": "https://github.com/uriparser/uriparser/pull/124",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

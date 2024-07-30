@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "TestLinkOpenSourceTRMS/testlink-code",
+        "CVE_ID": "CVE-2023-50110",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "TestLink through 1.9.20 allows type juggling for authentication bypass because === is not used.",
+        "URL": "https://github.com/TestLinkOpenSourceTRMS/testlink-code/pull/357",
+        "Tag": "['Exploit', 'Patch', 'Vendor Advisory']"
+    }
+]

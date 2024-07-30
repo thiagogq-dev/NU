@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "wso2/carbon-apimgt",
+        "CVE_ID": "CVE-2018-20736",
+        "Problem_Type": "CWE-79",
+        "Description": "An issue was discovered in WSO2 API Manager 2.1.0 and 2.6.0. A DOM-based XSS exists in the store part of the product.",
+        "URL": "https://github.com/wso2/carbon-apimgt/pull/5844/files",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

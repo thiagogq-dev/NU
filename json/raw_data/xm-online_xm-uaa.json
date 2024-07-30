@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "xm-online/xm-uaa",
+        "CVE_ID": "CVE-2019-15557",
+        "Problem_Type": "CWE-89",
+        "Description": "XM^online 2 User Account and Authentication server 1.0.0 allows SQL injection via a tenant key.",
+        "URL": "https://github.com/xm-online/xm-uaa/pull/61",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

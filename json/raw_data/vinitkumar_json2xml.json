@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "vinitkumar/json2xml",
+        "CVE_ID": "CVE-2022-25024",
+        "Problem_Type": "CWE-754",
+        "Description": "The json2xml package through 3.12.0 for Python allows an error in typecode decoding enabling a remote attack that can lead to an exception, causing a denial of service.",
+        "URL": "https://github.com/vinitkumar/json2xml/pull/107/files",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "vinitkumar/json2xml",
+        "CVE_ID": "CVE-2022-25024",
+        "Problem_Type": "CWE-754",
+        "Description": "The json2xml package through 3.12.0 for Python allows an error in typecode decoding enabling a remote attack that can lead to an exception, causing a denial of service.",
+        "URL": "https://github.com/vinitkumar/json2xml/pull/107",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

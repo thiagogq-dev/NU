@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "unshiftio/url-parse",
+        "CVE_ID": "CVE-2021-27515",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "url-parse before 1.5.0 mishandles certain uses of backslash such as http:\\/ and interprets the URI as a relative path.",
+        "URL": "https://github.com/unshiftio/url-parse/pull/197",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

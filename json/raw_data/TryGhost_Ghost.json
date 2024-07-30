@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "TryGhost/Ghost",
+        "CVE_ID": "CVE-2024-23725",
+        "Problem_Type": "CWE-79",
+        "Description": "Ghost before 5.76.0 allows XSS via a post excerpt in excerpt.js. An XSS payload can be rendered in post summaries.",
+        "URL": "https://github.com/TryGhost/Ghost/pull/17190",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

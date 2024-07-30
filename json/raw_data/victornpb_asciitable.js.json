@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "victornpb/asciitable.js",
+        "CVE_ID": "CVE-2020-7771",
+        "Problem_Type": "CWE-1321",
+        "Description": "The package asciitable.js before 1.0.3 are vulnerable to Prototype Pollution via the main function.",
+        "URL": "https://github.com/victornpb/asciitable.js/pull/1",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

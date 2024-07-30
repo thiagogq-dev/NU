@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "vanilla/safecurl",
+        "CVE_ID": "CVE-2020-36474",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "SafeCurl before 0.9.2 has a DNS rebinding vulnerability.",
+        "URL": "https://github.com/vanilla/safecurl/pull/2",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

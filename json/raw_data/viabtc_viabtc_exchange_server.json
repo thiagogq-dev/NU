@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "viabtc/viabtc_exchange_server",
+        "CVE_ID": "CVE-2018-17568",
+        "Problem_Type": "CWE-190",
+        "Description": "utils/ut_rpc.c in ViaBTC Exchange Server before 2018-08-21 has an integer overflow leading to memory corruption.",
+        "URL": "https://github.com/viabtc/viabtc_exchange_server/pull/131",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

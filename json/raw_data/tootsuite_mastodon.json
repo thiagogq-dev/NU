@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "tootsuite/mastodon",
+        "CVE_ID": "CVE-2018-21018",
+        "Problem_Type": "CWE-613",
+        "Description": "Mastodon before 2.6.3 mishandles timeouts of incompletely established sessions.",
+        "URL": "https://github.com/tootsuite/mastodon/pull/9329",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "tootsuite/mastodon",
+        "CVE_ID": "CVE-2018-21018",
+        "Problem_Type": "CWE-613",
+        "Description": "Mastodon before 2.6.3 mishandles timeouts of incompletely established sessions.",
+        "URL": "https://github.com/tootsuite/mastodon/pull/9381",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

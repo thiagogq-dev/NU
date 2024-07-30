@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "vim/vim",
+        "CVE_ID": "CVE-2023-3896",
+        "Problem_Type": "CWE-369",
+        "Description": "Divide By Zero in vim/vim from\u00c2\u00a09.0.1367-1 to\u00c2\u00a09.0.1367-3\n",
+        "URL": "https://github.com/vim/vim/pull/12540",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "vim/vim",
+        "CVE_ID": "CVE-2023-48706",
+        "Problem_Type": "CWE-416",
+        "Description": "Vim is a UNIX editor that, prior to version 9.0.2121, has a heap-use-after-free vulnerability. When executing a `:s` command for the very first time and using a sub-replace-special atom inside the substitution part, it is possible that the recursive `:s` call causes free-ing of memory which may later then be accessed by the initial `:s` command. The user must intentionally execute the payload and the whole process is a bit tricky to do since it seems to work only reliably for the very first :s command. It may also cause a crash of Vim. Version 9.0.2121 contains a fix for this issue.",
+        "URL": "https://github.com/vim/vim/pull/13552",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2021-41121",
+        "Problem_Type": "CWE-119",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the EVM. In affected versions when performing a function call inside a literal struct, there is a memory corruption issue that occurs because of an incorrect pointer to the the top of the stack. This issue has been resolved in version 0.3.0.",
+        "URL": "https://github.com/vyperlang/vyper/pull/2447",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-39363",
+        "Problem_Type": "CWE-863",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine (EVM). In versions 0.2.15, 0.2.16 and 0.3.0, named re-entrancy locks are allocated incorrectly. Each function using a named re-entrancy lock gets a unique lock regardless of the key, allowing cross-function re-entrancy in contracts compiled with the susceptible versions. A specific set of conditions is required to result in misbehavior of affected contracts, specifically: a `.vy` contract compiled with `vyper` versions `0.2.15`, `0.2.16`, or `0.3.0`; a primary function that utilizes the `@nonreentrant` decorator with a specific `key` and does not strictly follow the check-effects-interaction pattern (i.e. contains an external call to an untrusted party before storage updates); and a secondary function that utilizes the same `key` and would be affected by the improper state caused by the primary function. Version 0.3.1 contains a fix for this issue.",
+        "URL": "https://github.com/vyperlang/vyper/pull/2514",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-39363",
+        "Problem_Type": "CWE-863",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine (EVM). In versions 0.2.15, 0.2.16 and 0.3.0, named re-entrancy locks are allocated incorrectly. Each function using a named re-entrancy lock gets a unique lock regardless of the key, allowing cross-function re-entrancy in contracts compiled with the susceptible versions. A specific set of conditions is required to result in misbehavior of affected contracts, specifically: a `.vy` contract compiled with `vyper` versions `0.2.15`, `0.2.16`, or `0.3.0`; a primary function that utilizes the `@nonreentrant` decorator with a specific `key` and does not strictly follow the check-effects-interaction pattern (i.e. contains an external call to an untrusted party before storage updates); and a secondary function that utilizes the same `key` and would be affected by the improper state caused by the primary function. Version 0.3.1 contains a fix for this issue.",
+        "URL": "https://github.com/vyperlang/vyper/pull/2439",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-41052",
+        "Problem_Type": "CWE-670",
+        "Description": "Vyper is a Pythonic Smart Contract Language. In affected versions the order of evaluation of the arguments of the builtin functions `uint256_addmod`, `uint256_mulmod`, `ecadd` and `ecmul` does not follow source order. This behaviour is problematic when the evaluation of one of the arguments produces side effects that other arguments depend on. A patch is currently being developed on pull request #3583. When using builtins from the list above, users should make sure that the arguments of the expression do not produce side effects or, if one does, that no other argument is dependent on those side effects.",
+        "URL": "https://github.com/vyperlang/vyper/pull/3583",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-42441",
+        "Problem_Type": "CWE-667",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine (EVM). Starting in version 0.2.9 and prior to version 0.3.10, locks of the type `@nonreentrant(\"\")` or `@nonreentrant('')` do not produce reentrancy checks at runtime. This issue is fixed in version 0.3.10. As a workaround, ensure the lock name is a non-empty string.",
+        "URL": "https://github.com/vyperlang/vyper/pull/3605",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-42460",
+        "Problem_Type": "CWE-682",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the EVM. The `_abi_decode()` function does not validate input when it is nested in an expression. Uses of `_abi_decode()` can be constructed which allow for bounds checking to be bypassed resulting in incorrect results. This issue has not yet been fixed, but a fix is expected in release `0.3.10`. Users are advised to reference pull request #3626.",
+        "URL": "https://github.com/vyperlang/vyper/pull/3626",
+        "Tag": "['Patch']"
+    }
+]

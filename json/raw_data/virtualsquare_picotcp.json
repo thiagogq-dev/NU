@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "virtualsquare/picotcp",
+        "CVE_ID": "CVE-2023-35848",
+        "Problem_Type": "CWE-682",
+        "Description": "VirtualSquare picoTCP (aka PicoTCP-NG) through 2.1 lacks certain size calculations before attempting to set a value of an mss structure member.",
+        "URL": "https://github.com/virtualsquare/picotcp/pull/15/files",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

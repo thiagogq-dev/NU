@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "theforeman/smart-proxy",
+        "CVE_ID": "CVE-2014-3691",
+        "Problem_Type": "CWE-310",
+        "Description": "Smart Proxy (aka Smart-Proxy and foreman-proxy) in Foreman before 1.5.4 and 1.6.x before 1.6.2 does not validate SSL certificates, which allows remote attackers to bypass intended authentication and execute arbitrary API requests via a request without a certificate.",
+        "URL": "https://github.com/theforeman/smart-proxy/pull/217",
+        "Tag": "['Patch', 'Issue Tracking']"
+    }
+]

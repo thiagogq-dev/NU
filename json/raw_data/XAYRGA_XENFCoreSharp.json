@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "XAYRGA/XENFCoreSharp",
+        "CVE_ID": "CVE-2019-15533",
+        "Problem_Type": "CWE-89",
+        "Description": "XENFCoreSharp before 2019-07-16 allows SQL injection in web/verify.php.",
+        "URL": "https://github.com/XAYRGA/XENFCoreSharp/pull/1",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

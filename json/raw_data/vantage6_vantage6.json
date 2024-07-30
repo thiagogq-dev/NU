@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "vantage6/vantage6",
+        "CVE_ID": "CVE-2022-39228",
+        "Problem_Type": "CWE-203",
+        "Description": "vantage6 is a privacy preserving federated learning infrastructure for secure insight exchange. vantage6 does not inform the user of wrong username/password combination if the username actually exists. This is an attempt to prevent bots from obtaining usernames. However, if a wrong password is entered a number of times, the user account is blocked temporarily. This issue has been fixed in version 3.8.0.\n",
+        "URL": "https://github.com/vantage6/vantage6/pull/281",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "CVE_ID": "CVE-2023-28635",
+        "Problem_Type": "CWE-863",
+        "Description": "vantage6 is privacy preserving federated learning infrastructure. Prior to version 4.0.0, malicious users may try to get access to resources they are not allowed to see, by creating resources with integers as names. One example where this is a risk, is when users define which users are allowed to run algorithms on their node. This may be defined by username or user id. Now, for example, if user id 13 is allowed to run tasks, and an attacker creates a username with username '13', they would be wrongly allowed to run an algorithm. There may also be other places in the code where such a mixup of resource ID or name leads to issues. Version 4.0.0 contains a patch for this issue. The best solution is to check when resources are created or modified, that the resource name always starts with a character.",
+        "URL": "https://github.com/vantage6/vantage6/pull/744",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "CVE_ID": "CVE-2023-41881",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "vantage6 is privacy preserving federated learning infrastructure. When a collaboration is deleted, the linked resources (such as tasks from that collaboration) should be deleted. This is partly to manage data properly, but also to prevent a potential (but unlikely) side-effect that affects versions prior to 4.0.0, where if a collaboration with id=10 is deleted, and subsequently a new collaboration is created with id=10, the authenticated users in that collaboration could potentially see results of the deleted collaboration in some cases. Version 4.0.0 contains a patch for this issue. There are no known workarounds.",
+        "URL": "https://github.com/vantage6/vantage6/pull/748",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "vantage6/vantage6",
+        "CVE_ID": "CVE-2023-41882",
+        "Problem_Type": "CWE-284",
+        "Description": "vantage6 is privacy preserving federated learning infrastructure. The endpoint /api/collaboration/{id}/task is used to collect all tasks from a certain collaboration. To get such tasks, a user should have permission to view the collaboration and to view the tasks in it. However, prior to version 4.0.0, it is only checked if the user has permission to view the collaboration. Version 4.0.0 contains a patch. There are no known workarounds.",
+        "URL": "https://github.com/vantage6/vantage6/pull/711",
+        "Tag": "['Patch']"
+    }
+]

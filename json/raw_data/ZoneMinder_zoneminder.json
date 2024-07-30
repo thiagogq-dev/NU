@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ZoneMinder/zoneminder",
+        "CVE_ID": "CVE-2019-6991",
+        "Problem_Type": "CWE-787",
+        "Description": "A classic Stack-based buffer overflow exists in the zmLoadUser() function in zm_user.cpp of the zmu binary in ZoneMinder through 1.32.3, allowing an unauthenticated attacker to execute code via a long username.",
+        "URL": "https://github.com/ZoneMinder/zoneminder/pull/2482",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

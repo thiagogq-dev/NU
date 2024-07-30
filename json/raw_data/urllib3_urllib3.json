@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "urllib3/urllib3",
+        "CVE_ID": "CVE-2020-26137",
+        "Problem_Type": "CWE-74",
+        "Description": "urllib3 before 1.25.9 allows CRLF injection if the attacker controls the HTTP request method, as demonstrated by inserting CR and LF control characters in the first argument of putrequest(). NOTE: this is similar to CVE-2020-26116.",
+        "URL": "https://github.com/urllib3/urllib3/pull/1800",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

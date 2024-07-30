@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "webtorrent/webtorrent",
+        "CVE_ID": "CVE-2019-15782",
+        "Problem_Type": "CWE-79",
+        "Description": "WebTorrent before 0.107.6 allows XSS in the HTTP server via a title or file name.",
+        "URL": "https://github.com/webtorrent/webtorrent/pull/1714",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

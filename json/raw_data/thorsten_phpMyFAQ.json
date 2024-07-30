@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "thorsten/phpMyFAQ",
+        "CVE_ID": "CVE-2024-24574",
+        "Problem_Type": "CWE-79",
+        "Description": "phpMyFAQ is an open source FAQ web application for PHP 8.1+ and MySQL, PostgreSQL and other databases. Unsafe echo of filename in phpMyFAQ\\phpmyfaq\\admin\\attachments.php leads to allowed execution of JavaScript code in client side (XSS). This vulnerability has been patched in version 3.2.5.",
+        "URL": "https://github.com/thorsten/phpMyFAQ/pull/2827",
+        "Tag": "['Patch']"
+    }
+]

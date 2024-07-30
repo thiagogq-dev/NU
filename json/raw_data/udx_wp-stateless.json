@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "udx/wp-stateless",
+        "CVE_ID": "CVE-2022-4905",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability was found in UDX Stateless Media Plugin 3.1.1 on WordPress. It has been declared as problematic. This vulnerability affects the function setup_wizard_interface of the file lib/classes/class-settings.php. The manipulation of the argument settings leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 3.2.0 is able to address this issue. The patch is identified as 6aee7ae0b0beeb2232ce6e1c82aa7e2041ae151a. It is recommended to upgrade the affected component. VDB-220750 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/udx/wp-stateless/pull/630",
+        "Tag": "['Patch']"
+    }
+]

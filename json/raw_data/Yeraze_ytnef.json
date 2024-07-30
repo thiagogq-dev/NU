@@ -1,0 +1,74 @@
+[
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6298",
+        "Problem_Type": "CWE-476",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"1 of 9. Null Pointer Deref / calloc return value not checked.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6299",
+        "Problem_Type": "CWE-835",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"2 of 9. Infinite Loop / DoS in the TNEFFillMapi function in lib/ytnef.c.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6300",
+        "Problem_Type": "CWE-119",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"3 of 9. Buffer Overflow in version field in lib/tnef-types.h.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6301",
+        "Problem_Type": "CWE-125",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"4 of 9. Out of Bounds Reads.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6302",
+        "Problem_Type": "CWE-190",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"5 of 9. Integer Overflow.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6303",
+        "Problem_Type": "CWE-190",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"6 of 9. Invalid Write and Integer Overflow.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6304",
+        "Problem_Type": "CWE-125",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"7 of 9. Out of Bounds read.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6305",
+        "Problem_Type": "CWE-125",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"8 of 9. Out of Bounds read and write.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "Yeraze/ytnef",
+        "CVE_ID": "CVE-2017-6306",
+        "Problem_Type": "CWE-22",
+        "Description": "An issue was discovered in ytnef before 1.9.1. This is related to a patch described as \"9 of 9. Directory Traversal using the filename; SanitizeFilename function in settings.c.\"",
+        "URL": "https://github.com/Yeraze/ytnef/pull/27",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "timonwong/vscode-shellcheck",
+        "CVE_ID": "CVE-2021-28794",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The unofficial ShellCheck extension before 0.13.4 for Visual Studio Code mishandles shellcheck.executablePath.",
+        "URL": "https://github.com/timonwong/vscode-shellcheck/pull/181",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

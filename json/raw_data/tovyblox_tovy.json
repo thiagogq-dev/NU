@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "tovyblox/tovy",
+        "CVE_ID": "CVE-2022-31164",
+        "Problem_Type": "CWE-287",
+        "Description": "Tovy is a a staff management system for Roblox groups. A vulnerability in versions prior to 0.7.51 allows users to log in as other users, including privileged users such as the other of the instance. The problem has been patched in version 0.7.51.",
+        "URL": "https://github.com/tovyblox/tovy/pull/63",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]
