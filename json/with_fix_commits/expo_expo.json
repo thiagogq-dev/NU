@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "secure-store in Expo through 2.16.1 on iOS provides the insecure kSecAttrAccessibleAlwaysThisDeviceOnly policy when WHEN_UNLOCKED_THIS_DEVICE_ONLY is used.",
         "URL": "https://github.com/expo/expo/pull/9264",
+        "Commit SHA": "1d82bf07fae2c96273e9189997e521359cffc1a9",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
