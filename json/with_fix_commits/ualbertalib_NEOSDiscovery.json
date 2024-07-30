@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "A vulnerability was found in ualbertalib NEOSDiscovery 1.0.70 and classified as problematic. This issue affects some unknown processing of the file app/views/bookmarks/_refworks.html.erb. The manipulation leads to use of web link to untrusted target with window.opener access. The attack may be initiated remotely. Upgrading to version 1.0.71 is able to address this issue. The patch is named abe9f57123e0c278ae190cd7402a623d66c51375. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-222287.",
         "URL": "https://github.com/ualbertalib/NEOSDiscovery/pull/547",
+        "Commit SHA": "0d5b4558f3330988a0bfed5a35c69098dac97363",
         "Tag": "['Patch', 'Release Notes']"
     }
 ]
