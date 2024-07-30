@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-120",
         "Description": "Buffer Overflow vulnerability in fcitx5 5.0.8 allows attackers to cause a denial of service via crafted message to the application's listening port.",
         "URL": "https://github.com/fcitx/fcitx5/pull/308",
+        "Commit SHA": null,
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
