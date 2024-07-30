@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Escape sequence injection vulnerability in Fluentd versions 0.12.29 through 0.12.40 may allow an attacker to change the terminal UI or execute arbitrary commands on the device via unspecified vectors.",
         "URL": "https://github.com/fluent/fluentd/pull/1733",
+        "Commit SHA": "3be7587426c6f5481cda4e8ee5cce53a336eaab3",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
