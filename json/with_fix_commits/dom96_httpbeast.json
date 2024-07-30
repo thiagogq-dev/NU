@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An issue in dom96 HTTPbeast v.0.4.1 and before allows a remote attacker to send a malicious crafted request due to insufficient parsing in the parser.nim component.",
         "URL": "https://github.com/dom96/httpbeast/pull/96",
+        "Commit SHA": null,
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
