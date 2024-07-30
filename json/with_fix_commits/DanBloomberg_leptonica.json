@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-670",
         "Description": "Leptonica before 1.80.0 allows a denial of service (application crash) via an incorrect left shift in pixConvert2To8 in pixconv.c.",
         "URL": "https://github.com/DanBloomberg/leptonica/pull/499",
+        "Commit SHA": "076971f4de3f71cb6c255328833d7df2ac8acf04",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
