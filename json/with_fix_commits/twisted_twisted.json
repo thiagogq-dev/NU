@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-295",
         "Description": "In words.protocols.jabber.xmlstream in Twisted through 19.2.1, XMPP support did not verify certificates when used with TLS, allowing an attacker to MITM connections.",
         "URL": "https://github.com/twisted/twisted/pull/1147",
+        "Commit SHA": "cf8ed69824502cb39b3a077ec596fe01c03b93da",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
