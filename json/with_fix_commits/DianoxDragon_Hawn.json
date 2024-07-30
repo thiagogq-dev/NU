@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "DianoxDragon Hawn before 2019-07-10 allows SQL injection.",
         "URL": "https://github.com/DianoxDragon/Hawn/pull/6",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
