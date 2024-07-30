@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "A buffer overflow in the component nfc_device_load_mifare_ul_data of Flipper Devices Inc., Flipper Zero before v0.65.2 allows attackers to cause a Denial of Service (DoS) via a crafted NFC file.",
         "URL": "https://github.com/flipperdevices/flipperzero-firmware/pull/1697",
+        "Commit SHA": "8d8481b17fdcd0b2f4303b2e88742a94e980c989",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
