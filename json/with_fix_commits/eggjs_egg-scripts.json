@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "A command injection vulnerability in egg-scripts <v2.8.1 allows arbitrary shell command execution through a maliciously crafted command line argument.",
         "URL": "https://github.com/eggjs/egg-scripts/pull/26",
+        "Commit SHA": "b98fd03d1e3aaed68004b881f0b3d42fe47341dd",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
