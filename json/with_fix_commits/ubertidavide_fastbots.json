@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-94",
         "Description": "fastbots is a library for fast bot and scraper development using selenium and the Page Object Model (POM) design. Prior to version 0.1.5, an attacker could modify the locators.ini locator file with python code that without proper validation it's executed and it could lead to rce. The vulnerability is in the function `def __locator__(self, locator_name: str)` in `page.py`. In order to mitigate this issue, upgrade to fastbots version 0.1.5 or above.",
         "URL": "https://github.com/ubertidavide/fastbots/pull/3#issue-2003080806",
+        "Commit SHA": "73eb03bd75365e112b39877e26ef52853f5e9f57",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
