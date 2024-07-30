@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "A vulnerability was found in TicklishHoneyBee nodau. It has been rated as critical. Affected by this issue is some unknown functionality of the file src/db.c. The manipulation of the argument value/name leads to sql injection. The name of the patch is 7a7d737a3929f335b9717ddbd31db91151b69ad2. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-215252.",
         "URL": "https://github.com/TicklishHoneyBee/nodau/pull/26",
+        "Commit SHA": "248190479f555c75e9a8411c2681b99954ab2787",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
