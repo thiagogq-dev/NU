@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-613",
         "Description": "Mastodon before 2.6.3 mishandles timeouts of incompletely established sessions.",
         "URL": "https://github.com/tootsuite/mastodon/pull/9329",
+        "Commit SHA": "fd8145d2322d8b13b6aaa9cd2a61331ff660c9dd",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-613",
         "Description": "Mastodon before 2.6.3 mishandles timeouts of incompletely established sessions.",
         "URL": "https://github.com/tootsuite/mastodon/pull/9381",
+        "Commit SHA": "c39d7e7b2b80a23f8d4e1410bb1c2d6033f30af0",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
