@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "facebook/proxygen",
+        "CVE_ID": "CVE-2023-44487",
+        "Problem_Type": "CWE-400",
+        "Description": "The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
+        "URL": "https://github.com/facebook/proxygen/pull/466",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

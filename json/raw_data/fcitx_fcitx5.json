@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "fcitx/fcitx5",
+        "CVE_ID": "CVE-2021-37311",
+        "Problem_Type": "CWE-120",
+        "Description": "Buffer Overflow vulnerability in fcitx5 5.0.8 allows attackers to cause a denial of service via crafted message to the application's listening port.",
+        "URL": "https://github.com/fcitx/fcitx5/pull/308",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "eggjs/extend2",
+        "CVE_ID": "CVE-2021-23568",
+        "Problem_Type": "CWE-1321",
+        "Description": "The package extend2 before 1.0.1 are vulnerable to Prototype Pollution via the extend function due to unsafe recursive merge.",
+        "URL": "https://github.com/eggjs/extend2/pull/2",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]
