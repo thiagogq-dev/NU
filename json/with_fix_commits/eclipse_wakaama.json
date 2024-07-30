@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-125",
         "Description": "In Eclipse Wakaama, ever since its inception until 2021-01-14, the CoAP parsing code does not properly sanitize network-received data.",
         "URL": "https://github.com/eclipse/wakaama/pull/640",
+        "Commit SHA": "b5bbe367919d6906e1a1a78b2c4b82f1b5e60fc1",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
