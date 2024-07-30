@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "The package extend2 before 1.0.1 are vulnerable to Prototype Pollution via the extend function due to unsafe recursive merge.",
         "URL": "https://github.com/eggjs/extend2/pull/2",
+        "Commit SHA": "aa332a59116c8398976434b57ea477c6823054f8",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
