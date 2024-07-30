@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Versions of the package follow-redirects before 1.15.4 are vulnerable to Improper Input Validation due to the improper handling of URLs by the url.parse() function. When new URL() throws an error, it can be manipulated to misinterpret the hostname. An attacker could exploit this weakness to redirect traffic to a malicious site, potentially leading to information disclosure, phishing attacks, or other security breaches.",
         "URL": "https://github.com/follow-redirects/follow-redirects/pull/236",
+        "Commit SHA": "7a6567e16dfa9ad18a70bfe91784c28653fbf19d",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
