@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-347",
         "Description": "The tough library (Rust/crates.io) prior to version 0.7.1 does not properly verify the threshold of cryptographic signatures. It allows an attacker to duplicate a valid signature in order to circumvent TUF requiring a minimum threshold of unique signatures before the metadata is considered valid. A fix is available in version 0.7.1. CVE-2020-6174 is assigned to the same vulnerability in the TUF reference implementation.",
         "URL": "https://github.com/theupdateframework/tuf/pull/974",
+        "Commit SHA": "2977188139d065ff3356c3cb4aec60c582b57e0e",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-345",
         "Description": "Python TUF (The Update Framework) reference implementation before version 0.12 it will incorrectly trust a previously downloaded root metadata file which failed verification at download time. This allows an attacker who is able to serve multiple new versions of root metadata (i.e. by a person-in-the-middle attack) culminating in a version which has not been correctly signed to control the trust chain for future updates. This is fixed in version 0.12 and newer.",
         "URL": "https://github.com/theupdateframework/tuf/pull/885",
+        "Commit SHA": "7dbb30ae1006d0b5f506bba19d4b53398c44f139",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-347",
         "Description": "TUF (aka The Update Framework) through 0.12.1 has Improper Verification of a Cryptographic Signature.",
         "URL": "https://github.com/theupdateframework/tuf/pull/974",
+        "Commit SHA": "2977188139d065ff3356c3cb4aec60c582b57e0e",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
