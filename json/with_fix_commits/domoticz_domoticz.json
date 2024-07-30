@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Domoticz 4.10717 has XSS via item.Name.",
         "URL": "https://github.com/domoticz/domoticz/pull/3368",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
