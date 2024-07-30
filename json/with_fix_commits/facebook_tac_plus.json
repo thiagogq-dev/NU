@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "A lack of input validation exists in tac_plus prior to commit 4fdf178 which, when pre or post auth commands are enabled, allows an attacker who can control the username, rem-addr, or NAC address sent to tac_plus to inject shell commands and gain remote code execution on the tac_plus server.",
         "URL": "https://github.com/facebook/tac_plus/pull/41",
+        "Commit SHA": "4fdf17890ef777a91b4558ae39adf5ed830050a0",
         "Tag": "['Exploit', 'Patch']"
     }
 ]
