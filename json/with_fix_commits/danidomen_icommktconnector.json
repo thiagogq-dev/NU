@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "The ICOMMKT connector before 1.0.7 for PrestaShop allows SQL injection in icommktconnector.php.",
         "URL": "https://github.com/danidomen/icommktconnector/pull/1",
+        "Commit SHA": "776971feda36547e9d70a7eb0995a14b102e70f9",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
