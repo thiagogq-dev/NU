@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-502",
         "Description": "Unsafe YAML deserialization in yaml.Loader in transmute-core before 1.13.5 allows attackers to execute arbitrary Python code.",
         "URL": "https://github.com/toumorokoshi/transmute-core/pull/58",
+        "Commit SHA": "b368618da1909c4e9e58c53a71319effb2a2cc0d",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
