@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Optimism before @eth-optimism/l2geth@0.5.11 allows economic griefing because a balance is duplicated upon contract self-destruction.",
         "URL": "https://github.com/ethereum-optimism/optimism/pull/2146",
+        "Commit SHA": "98cb7ee6940c005d29771996454d2b3b4951350a",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
