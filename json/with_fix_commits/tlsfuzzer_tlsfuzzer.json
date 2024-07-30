@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-203",
         "Description": "A timing side-channel in the handling of RSA ClientKeyExchange messages was discovered in GnuTLS. This side-channel can be sufficient to recover the key encrypted in the RSA ciphertext across a network in a Bleichenbacher style attack. To achieve a successful decryption the attacker would need to send a large amount of specially crafted messages to the vulnerable server. By recovering the secret from the ClientKeyExchange message, the attacker would be able to decrypt the application data exchanged over that connection.",
         "URL": "https://github.com/tlsfuzzer/tlsfuzzer/pull/679",
+        "Commit SHA": "4b990ab73c4041dd2f6a6b8dd2b6b214e144841f",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
