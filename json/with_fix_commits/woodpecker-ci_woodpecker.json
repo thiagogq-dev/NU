@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Woodpecker before 0.15.1 allows XSS via build logs because web/src/components/repo/build/BuildLog.vue lacks escaping.",
         "URL": "https://github.com/woodpecker-ci/woodpecker/pull/879",
+        "Commit SHA": "3064975afdbc29034e00b917a135593c51ee31fe",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
