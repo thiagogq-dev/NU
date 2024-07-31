@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "An issue was discovered in WSO2 API Manager 2.1.0 and 2.6.0. A DOM-based XSS exists in the store part of the product.",
         "URL": "https://github.com/wso2/carbon-apimgt/pull/5844/files",
+        "Commit SHA": "c56a6d7070e1bcda6db0b5e50af0751c34274b9c",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
