@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "This affects all versions of package github.com/u-root/u-root/pkg/uzip. It is vulnerable to both leading and non-leading relative path traversal attacks in zip file extraction.",
         "URL": "https://github.com/u-root/u-root/pull/1817",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-22",
         "Description": "This affects all versions of package github.com/u-root/u-root/pkg/cpio. It is vulnerable to leading, non-leading relative path traversal attacks and symlink based (relative and absolute) path traversal attacks in cpio file extraction.",
         "URL": "https://github.com/u-root/u-root/pull/1817",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-22",
         "Description": "This affects all versions of package github.com/u-root/u-root/pkg/tarutil. It is vulnerable to both leading and non-leading relative path traversal attacks in tar file extraction.",
         "URL": "https://github.com/u-root/u-root/pull/1817",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
