@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "qDecoder before 12.1.0 does not ensure that the percent character is followed by two hex digits for URL decoding.",
         "URL": "https://github.com/wolkykim/qdecoder/pull/29/commits/ce7c8a7ac450a823a11b06508ef1eb7441241f81#diff-1c4e2f5adfa1ad30618e78ff459b2c0758ecf34278459ad0a8d58db4fec622ea",
+        "Commit SHA": "40d87189e2e33431a515d9327819f5410d7eb5dd",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "qDecoder before 12.1.0 does not ensure that the percent character is followed by two hex digits for URL decoding.",
         "URL": "https://github.com/wolkykim/qdecoder/pull/29",
+        "Commit SHA": "40d87189e2e33431a515d9327819f5410d7eb5dd",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
