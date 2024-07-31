@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-295",
         "Description": "An issue was discovered in Pidgin before 2.14.9. A remote attacker who can spoof DNS responses can redirect a client connection to a malicious server. The client will perform TLS certificate verification of the malicious domain name instead of the original XMPP service domain, allowing the attacker to take over control over the XMPP connection and to obtain user credentials and all communication content. This is similar to CVE-2022-24968.",
         "URL": "https://github.com/xsf/xeps/pull/1158",
+        "Commit SHA": "0bb46763d1887066e1db65eee45462b18d1f539e",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
