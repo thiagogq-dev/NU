@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "The package asciitable.js before 1.0.3 are vulnerable to Prototype Pollution via the main function.",
         "URL": "https://github.com/victornpb/asciitable.js/pull/1",
+        "Commit SHA": "8db8fc5ffa7a2a6e8596709d99b200afb53f40ab",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
