@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "A vulnerability classified as critical has been found in YunoHost-Apps transmission_ynh. Affected is an unknown function of the file conf/nginx.conf. The manipulation leads to path traversal. The patch is identified as f136dfd44eda128129e5fd2d850a3a3c600e6a4a. It is recommended to apply a patch to fix this issue. VDB-217638 is the identifier assigned to this vulnerability.",
         "URL": "https://github.com/YunoHost-Apps/transmission_ynh/pull/75",
+        "Commit SHA": "bad858edaf59182a282dc2a25e213395eb58b4c3",
         "Tag": "['Patch']"
     }
 ]
