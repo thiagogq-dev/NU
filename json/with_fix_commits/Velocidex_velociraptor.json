@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Rapid7 Velociraptor 0.5.9 and prior is vulnerable to a post-authentication persistent cross-site scripting (XSS) issue, where an authenticated user could abuse MIME filetype sniffing to embed executable code on a malicious upload. This issue was fixed in version 0.6.0. Note that login rights to Velociraptor is nearly always reserved for trusted and verified users with IT security backgrounds.",
         "URL": "https://github.com/Velocidex/velociraptor/pull/1118",
+        "Commit SHA": "03d83c60be8e92065b33d213671b0c587e198701",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
