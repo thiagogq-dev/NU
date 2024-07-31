@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "www/getfile.php in WPO WebPageTest 19.04 on Windows allows Directory Traversal (for reading arbitrary files) because of an unanchored regular expression, as demonstrated by the a.jpg\\.. substring.",
         "URL": "https://github.com/WPO-Foundation/webpagetest/pull/1299",
+        "Commit SHA": "89712ab2d50b9bad3930239c220edee9c78d371b",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
