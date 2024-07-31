@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "FlashLingo before 2019-06-12 allows SQL injection, related to flashlingo.js and db.js.",
         "URL": "https://github.com/vpoliakov/FlashLingo/pull/3",
+        "Commit SHA": "fe260adb102f8d199fc88caac271080849fefac3",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
