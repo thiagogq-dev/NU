@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "A flaw was found in wildfly-core in all versions. If a vault expression is in the form of a single attribute that contains multiple expressions, a user who was granted access to the management interface can potentially access a vault expression they should not be able to access and possibly retrieve the item which was stored in the vault. The highest threat from this vulnerability is data confidentiality and integrity.",
         "URL": "https://github.com/wildfly/wildfly-core/pull/4668",
+        "Commit SHA": "6d8db43cd43b5994b7a14003db978064e086090b",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
