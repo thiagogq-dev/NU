@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-400",
         "Description": "Unsafe validation RegEx in EmailField component in com.vaadin:vaadin-text-field-flow versions 2.0.4 through 2.3.2 (Vaadin 14.0.6 through 14.4.3), and 3.0.0 through 4.0.2 (Vaadin 15.0.0 through 17.0.10) allows attackers to cause uncontrolled resource consumption by submitting malicious email addresses.",
         "URL": "https://github.com/vaadin/flow-components/pull/442",
+        "Commit SHA": "0eb84df737b66ed8502ac4ab6431b38b3d2290c3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-754",
         "Description": "Improper check in CheckboxGroup in com.vaadin:vaadin-checkbox-flow versions 1.2.0 prior to 2.0.0 (Vaadin 12.0.0 prior to 14.0.0), 2.0.0 prior to 3.0.0 (Vaadin 14.0.0 prior to 14.5.0), 3.0.0 through 4.0.1 (Vaadin 15.0.0 through 17.0.11), 14.5.0 through 14.6.7 (Vaadin 14.5.0 through 14.6.7), and 18.0.0 through 20.0.5 (Vaadin 18.0.0 through 20.0.5) allows attackers to modify the value of a disabled Checkbox inside enabled CheckboxGroup component via unspecified vectors.",
         "URL": "https://github.com/vaadin/flow-components/pull/1903",
+        "Commit SHA": "eaf6e7afac5d9744e2a8b6797d3386858c95a4a0",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-200",
         "Description": "The default configuration of a TreeGrid component uses Object::toString as a key on the client-side and server communication in Vaadin 14.8.5 through 14.8.9, 22.0.6 through 22.0.14, 23.0.0.beta2 through 23.0.8 and 23.1.0.alpha1 through 23.1.0.alpha4, resulting in potential information disclosure of values that should not be available on the client-side.",
         "URL": "https://github.com/vaadin/flow-components/pull/3046",
+        "Commit SHA": "8fe08611e304779df01ecd6306d478a9c0edced0",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
