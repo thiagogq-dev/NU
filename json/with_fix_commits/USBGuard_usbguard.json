@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-863",
         "Description": "An issue was discovered in USBGuard before 1.1.0. On systems with the usbguard-dbus daemon running, an unprivileged user could make USBGuard allow all USB devices to be connected in the future.",
         "URL": "https://github.com/USBGuard/usbguard/pull/531",
+        "Commit SHA": "2c8c1ae10a6330736bf2a2d7d8682674b1db47dc",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
