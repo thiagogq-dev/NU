@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A vulnerability was found in WSO2 carbon-registry up to 4.8.11. It has been rated as problematic. Affected by this issue is some unknown functionality of the file components/registry/org.wso2.carbon.registry.search.ui/src/main/resources/web/search/advancedSearchForm-ajaxprocessor.jsp of the component Advanced Search. The manipulation of the argument mediaType/rightOp/leftOp/rightPropertyValue/leftPropertyValue leads to cross site scripting. The attack may be launched remotely. Upgrading to version 4.8.12 is able to address this issue. The name of the patch is 0c827cc1b14b82d8eb86117ab2e43c34bb91ddb4. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-215900.",
         "URL": "https://github.com/wso2/carbon-registry/pull/404",
+        "Commit SHA": "0c827cc1b14b82d8eb86117ab2e43c34bb91ddb4",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A vulnerability classified as problematic has been found in WSO2 carbon-registry up to 4.8.6. This affects an unknown part of the component Request Parameter Handler. The manipulation of the argument parentPath/path/username/path/profile_menu leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 4.8.7 is able to address this issue. The name of the patch is 9f967abfde9317bee2cda469dbc09b57d539f2cc. It is recommended to upgrade the affected component. The identifier VDB-215901 was assigned to this vulnerability.",
         "URL": "https://github.com/wso2/carbon-registry/pull/399",
+        "Commit SHA": "9f967abfde9317bee2cda469dbc09b57d539f2cc",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
