@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-203",
         "Description": "A vulnerability, which was classified as problematic, was found in viafintech Barzahlen Payment Module PHP SDK up to 2.0.0. Affected is the function verify of the file src/Webhook.php. The manipulation leads to observable timing discrepancy. The complexity of an attack is rather high. The exploitability is told to be difficult. Upgrading to version 2.0.1 is able to address this issue. The patch is identified as 3e7d29dc0ca6c054a6d6e211f32dae89078594c1. It is recommended to upgrade the affected component. VDB-217650 is the identifier assigned to this vulnerability.",
         "URL": "https://github.com/viafintech/Barzahlen-PHP/pull/8",
+        "Commit SHA": "0509556a7f52ab140713459ea4101219bb3db6a7",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
