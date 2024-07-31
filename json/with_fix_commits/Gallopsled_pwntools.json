@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-74",
         "Description": "This affects the package pwntools before 4.3.1. The shellcraft generator for affected versions of this module are vulnerable to Server-Side Template Injection (SSTI), which can lead to remote code execution.",
         "URL": "https://github.com/Gallopsled/pwntools/pull/1732",
+        "Commit SHA": "2efb5a0a734def9556fe162a57244e6bf30c9514",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
