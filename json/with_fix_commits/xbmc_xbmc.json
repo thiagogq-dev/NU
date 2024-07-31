@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Directory Traversal in Zip Extraction built-in function in Kodi 17.1 and earlier allows arbitrary file write on disk via a Zip file as subtitles.",
         "URL": "https://github.com/xbmc/xbmc/pull/12024",
+        "Commit SHA": "089bed625a9c8b2a6323a98f925da8369f9fbb64",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-120",
         "Description": "Buffer overflow vulnerability in Kodi xbmc up to 19.0, allows attackers to cause a denial of service due to improper length of values passed to istream.",
         "URL": "https://github.com/xbmc/xbmc/pull/20306",
+        "Commit SHA": "48730b64494798705d46dfccc4029bd36d072df3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-787",
         "Description": "A heap buffer overflow vulnerability in Kodi Home Theater Software up to 19.5 allows attackers to cause a denial of service due to an improper length of the value passed to the offset argument.",
         "URL": "https://github.com/xbmc/xbmc/pull/22380",
+        "Commit SHA": "8c2aafb6d4987833803e037c923aaf83f9ff41e1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-369",
         "Description": "A divide by zero issue discovered in Kodi Home Theater Software 19.5 and earlier allows attackers to cause a denial of service via use of crafted mp3 file.",
         "URL": "https://github.com/xbmc/xbmc/pull/22391",
+        "Commit SHA": "10f29c9fd4fe391641f91f2503a3a60f9101730b",
         "Tag": "['Patch']"
     }
 ]
