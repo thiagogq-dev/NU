@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "A vulnerability has been found in what3words Autosuggest Plugin up to 4.0.0 on WordPress and classified as problematic. Affected by this vulnerability is the function enqueue_scripts of the file w3w-autosuggest/public/class-w3w-autosuggest-public.php of the component Setting Handler. The manipulation leads to information disclosure. The attack can be launched remotely. Upgrading to version 4.0.1 is able to address this issue. The patch is named dd59cbac5f86057d6a73b87007c08b8bfa0c32ac. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-234247.",
         "URL": "https://github.com/what3words/wordpress-autosuggest-plugin/pull/20",
+        "Commit SHA": "dd59cbac5f86057d6a73b87007c08b8bfa0c32ac",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
