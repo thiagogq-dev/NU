@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "The package y18n before 3.2.2, 4.0.1 and 5.0.5, is vulnerable to Prototype Pollution.",
         "URL": "https://github.com/yargs/y18n/pull/108",
+        "Commit SHA": "a9ac604abf756dec9687be3843e2c93bfe581f25",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
