@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-682",
         "Description": "VirtualSquare picoTCP (aka PicoTCP-NG) through 2.1 lacks certain size calculations before attempting to set a value of an mss structure member.",
         "URL": "https://github.com/virtualsquare/picotcp/pull/15/files",
+        "Commit SHA": "41b43cbbc7f2c5c7bd8849911ccceaa1df6586e6",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
