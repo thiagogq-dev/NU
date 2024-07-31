@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "The Acclaim block plugin before 2019-06-26 for Moodle allows SQL Injection via delete_records.",
         "URL": "https://github.com/YourAcclaim/block_acclaim/pull/18",
+        "Commit SHA": "703318ab3ddae7690903284875ff12e907b4fea2",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
