@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1236",
         "Description": "CSV-Safe gem < 3.0.0 doesn't filter out special characters which could trigger CSV Injection.",
         "URL": "https://github.com/zvory/csv-safe/pull/8",
+        "Commit SHA": "b50b22c9abb903a80fbd3dc06076c7c22d62b6b2",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
