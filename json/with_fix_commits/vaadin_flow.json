@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-754",
         "Description": "Missing check in UIDL request handler in com.vaadin:flow-server versions 1.0.0 through 1.0.5 (Vaadin 10.0.0 through 10.0.7, and 11.0.0 through 11.0.2) allows attacker to update element property values via crafted synchronization message.",
         "URL": "https://github.com/vaadin/flow/pull/4774",
+        "Commit SHA": "d58da92fb10d94217b720ec17b8dd0858ef726e7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Missing output sanitization in default RouteNotFoundError view in com.vaadin:flow-server versions 1.0.0 through 1.0.10 (Vaadin 10.0.0 through 10.0.13), and 1.1.0 through 1.4.2 (Vaadin 11.0.0 through 13.0.5) allows attacker to execute malicious JavaScript via crafted URL",
         "URL": "https://github.com/vaadin/flow/pull/5498",
+        "Commit SHA": "f56eb4302d8a26e050145fadd3dc2648378ac8b9",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-668",
         "Description": "Insecure configuration of default ObjectMapper in com.vaadin:flow-server versions 3.0.0 through 3.0.5 (Vaadin 15.0.0 through 15.0.4) may expose sensitive data if the application also uses e.g. @RestController",
         "URL": "https://github.com/vaadin/flow/pull/8051",
+        "Commit SHA": "e9e27c3a249d6b2d78dc7a7c16ea2b76f17fd51e",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-668",
         "Description": "Insecure configuration of default ObjectMapper in com.vaadin:flow-server versions 3.0.0 through 3.0.5 (Vaadin 15.0.0 through 15.0.4) may expose sensitive data if the application also uses e.g. @RestController",
         "URL": "https://github.com/vaadin/flow/pull/8016",
+        "Commit SHA": "7222c96b1c5da51e56061cc5ae6d32f9a5876bc3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Improper URL validation in development mode handler in com.vaadin:flow-server versions 2.0.0 through 2.4.1 (Vaadin 14.0.0 through 14.4.2), and 3.0 prior to 5.0 (Vaadin 15 prior to 18) allows attacker to request arbitrary files stored outside of intended frontend resources folder.",
         "URL": "https://github.com/vaadin/flow/pull/9392",
+        "Commit SHA": "19fe3864f9d1567c5ac7a211189986ac093e781f",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-203",
         "Description": "Non-constant-time comparison of CSRF tokens in UIDL request handler in com.vaadin:flow-server versions 1.0.0 through 1.0.13 (Vaadin 10.0.0 through 10.0.16), 1.1.0 prior to 2.0.0 (Vaadin 11 prior to 14), 2.0.0 through 2.4.6 (Vaadin 14.0.0 through 14.4.6), 3.0.0 prior to 5.0.0 (Vaadin 15 prior to 18), and 5.0.0 through 5.0.2 (Vaadin 18.0.0 through 18.0.5) allows attacker to guess a security token via timing attack.",
         "URL": "https://github.com/vaadin/flow/pull/9875",
+        "Commit SHA": "292b3a0b1d68b34d9b824e5afe62deb7b32e1ebb",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-203",
         "Description": "Non-constant-time comparison of CSRF tokens in endpoint request handler in com.vaadin:flow-server versions 3.0.0 through 5.0.3 (Vaadin 15.0.0 through 18.0.6), and com.vaadin:fusion-endpoint version 6.0.0 (Vaadin 19.0.0) allows attacker to guess a security token for Fusion endpoints via timing attack.",
         "URL": "https://github.com/vaadin/flow/pull/10157",
+        "Commit SHA": "11a6ad2ddf9b9bf91dd28515784d26c9ff5c6274",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-668",
         "Description": "Vulnerability in OSGi integration in com.vaadin:flow-server versions 1.2.0 through 2.4.7 (Vaadin 12.0.0 through 14.4.9), and 6.0.0 through 6.0.1 (Vaadin 19.0.0) allows attacker to access application classes and resources on the server via crafted HTTP request.",
         "URL": "https://github.com/vaadin/flow/pull/10269",
+        "Commit SHA": "37e5a0ff0bb7365aa4485f2550fa6aa99f78974c",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-668",
         "Description": "Vulnerability in OSGi integration in com.vaadin:flow-server versions 1.2.0 through 2.4.7 (Vaadin 12.0.0 through 14.4.9), and 6.0.0 through 6.0.1 (Vaadin 19.0.0) allows attacker to access application classes and resources on the server via crafted HTTP request.",
         "URL": "https://github.com/vaadin/flow/pull/10229",
+        "Commit SHA": "168a9f895a85c6239dae7a704ac61c55328b32d1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-613",
         "Description": "Authentication.logout() helper in com.vaadin:flow-client versions 5.0.0 prior to 6.0.0 (Vaadin 18), and 6.0.0 through 6.0.4 (Vaadin 19.0.0 through 19.0.3) uses incorrect HTTP method, which, in combination with Spring Security CSRF protection, allows local attackers to access Fusion endpoints after the user attempted to log out.",
         "URL": "https://github.com/vaadin/flow/pull/10577",
+        "Commit SHA": "6bd42f61b57573243d5223207a9bc6949bbe7a35",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "Insecure temporary directory usage in frontend build functionality of com.vaadin:flow-server versions 2.0.9 through 2.5.2 (Vaadin 14.0.3 through Vaadin 14.5.2), 3.0 prior to 6.0 (Vaadin 15 prior to 19), and 6.0.0 through 6.0.5 (Vaadin 19.0.0 through 19.0.4) allows local users to inject malicious code into frontend resources during application rebuilds.",
         "URL": "https://github.com/vaadin/flow/pull/10640",
+        "Commit SHA": "dde115adfbcc9484e60a34d603251edf94fae529",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -93,6 +104,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Improper sanitization of path in default RouteNotFoundError view in com.vaadin:flow-server versions 1.0.0 through 1.0.14 (Vaadin 10.0.0 through 10.0.18), 1.1.0 prior to 2.0.0 (Vaadin 11 prior to 14), 2.0.0 through 2.6.1 (Vaadin 14.0.0 through 14.6.1), and 3.0.0 through 6.0.9 (Vaadin 15.0.0 through 19.0.8) allows network attacker to enumerate all available routes via crafted HTTP request when application is running in production mode and no custom handler for NotFoundException is provided.",
         "URL": "https://github.com/vaadin/flow/pull/11107",
+        "Commit SHA": "16a5f20a80a3c271270d522198779046fd27f201",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -101,6 +113,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "URL encoding error in development mode handler in com.vaadin:flow-server versions 2.0.0 through 2.6.1 (Vaadin 14.0.0 through 14.6.1), 3.0.0 through 6.0.9 (Vaadin 15.0.0 through 19.0.8) allows local user to execute arbitrary JavaScript code by opening crafted URL in browser.",
         "URL": "https://github.com/vaadin/flow/pull/11099",
+        "Commit SHA": "f18ea9a4e4f9d2347d24e7e98fdefe84a3cfbed1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -109,6 +122,7 @@
         "Problem_Type": "CWE-200",
         "Description": "When adding non-visible components to the UI in server side, content is sent to the browser in Vaadin 10.0.0 through 10.0.22, 11.0.0 through 14.10.0, 15.0.0 through 22.0.28, 23.0.0 through 23.3.12, 24.0.0 through 24.0.5 and 24.1.0.alpha1 to 24.1.0.beta1, resulting in potential information disclosure.\n\n",
         "URL": "https://github.com/vaadin/flow/pull/15885",
+        "Commit SHA": "eab4f09bf64db9cdc8277464560af3c4c8e188b1",
         "Tag": "['Patch']"
     },
     {
@@ -117,6 +131,7 @@
         "Problem_Type": "CWE-200",
         "Description": "Possible information disclosure in Vaadin 10.0.0 to 10.0.23, 11.0.0 to 14.10.1, 15.0.0 to 22.0.28, 23.0.0 to 23.3.13, 24.0.0 to 24.0.6, 24.1.0.alpha1 to 24.1.0.rc2, resulting in potential information disclosure of class and method names in RPC responses by sending modified requests.",
         "URL": "https://github.com/vaadin/flow/pull/16935",
+        "Commit SHA": "43241d420f2641da1b7f1d2630ca3f4fbdf679ac",
         "Tag": "['Patch']"
     }
 ]
