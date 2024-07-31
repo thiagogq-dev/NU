@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-287",
         "Description": "An authentication bypass vulnerability exists in the Authentication functionality of Weston Embedded uC-FTPs v 1.98.00. A specially crafted set of network packets can lead to authentication bypass and denial of service. An attacker can send a sequence of unauthenticated packets to trigger this vulnerability.",
         "URL": "https://github.com/weston-embedded/uC-FTPs/pull/1",
+        "Commit SHA": "057203387144fbf97903f4e4705d4cbbdfba641b",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An out-of-bounds read vulnerability exists in the PORT command parameter extraction functionality of Weston Embedded uC-FTPs v 1.98.00. A specially-crafted set of network packets can lead to denial of service. An attacker can send packets to trigger this vulnerability.This vulnerability occurs when no IP address argument is provided to the `PORT` command.",
         "URL": "https://github.com/weston-embedded/uC-FTPs/pull/2",
+        "Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
         "Tag": "['Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An out-of-bounds read vulnerability exists in the PORT command parameter extraction functionality of Weston Embedded uC-FTPs v 1.98.00. A specially-crafted set of network packets can lead to denial of service. An attacker can send packets to trigger this vulnerability.This vulnerability occurs when no port argument is provided to the `PORT` command.",
         "URL": "https://github.com/weston-embedded/uC-FTPs/pull/2",
+        "Commit SHA": "0f54674769456a31ba693a44029bd8baa9f73e0f",
         "Tag": "['Patch']"
     }
 ]
