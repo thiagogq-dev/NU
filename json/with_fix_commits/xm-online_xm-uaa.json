@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "XM^online 2 User Account and Authentication server 1.0.0 allows SQL injection via a tenant key.",
         "URL": "https://github.com/xm-online/xm-uaa/pull/61",
+        "Commit SHA": "32a27e5876ef871938679f3a958f1c777e20d838",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
