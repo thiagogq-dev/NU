@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "An issue was discovered in WSO2 API Manager 2.1.0 and 2.6.0. Reflected XSS exists in the carbon part of the product.",
         "URL": "https://github.com/wso2-extensions/identity-inbound-auth-oauth/pull/978/files",
+        "Commit SHA": "c04ed012ae5fb78ea402da7be1cc70fa7ff35611",
         "Tag": "['Third Party Advisory', 'Patch']"
     }
 ]
