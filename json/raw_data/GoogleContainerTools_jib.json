@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "GoogleContainerTools/jib",
+        "CVE_ID": "CVE-2022-25914",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The package com.google.cloud.tools:jib-core before 0.22.0 are vulnerable to Remote Code Execution (RCE) via the isDockerInstalled function, due to attempting to execute input.",
+        "URL": "https://github.com/GoogleContainerTools/jib/pull/3744",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

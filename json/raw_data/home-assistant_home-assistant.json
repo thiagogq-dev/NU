@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "home-assistant/home-assistant",
+        "CVE_ID": "CVE-2018-21019",
+        "Problem_Type": "CWE-200",
+        "Description": "Home Assistant before 0.67.0 was vulnerable to an information disclosure that allowed an unauthenticated attacker to read the application's error log via components/api.py.",
+        "URL": "https://github.com/home-assistant/home-assistant/pull/13836",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

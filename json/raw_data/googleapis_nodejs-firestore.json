@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "googleapis/nodejs-firestore",
+        "CVE_ID": "CVE-2023-6460",
+        "Problem_Type": "CWE-532",
+        "Description": "A potential logging of the firestore key via logging within nodejs-firestore exists - Developers who were logging objects through this._settings would be logging the firestore key as well potentially exposing it to anyone with logs read access. We recommend upgrading to version 6.1.0 to avoid this issue",
+        "URL": "https://github.com/googleapis/nodejs-firestore/pull/1742",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

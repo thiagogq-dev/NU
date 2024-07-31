@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "ImageMagick/ImageMagick",
+        "CVE_ID": "CVE-2015-8898",
+        "Problem_Type": "CWE-476",
+        "Description": "The WriteImages function in magick/constitute.c in ImageMagick before 6.9.2-4 allows remote attackers to cause a denial of service (NULL pointer dereference) via a crafted image file.",
+        "URL": "https://github.com/ImageMagick/ImageMagick/pull/34",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "ImageMagick/ImageMagick",
+        "CVE_ID": "CVE-2016-7540",
+        "Problem_Type": "CWE-19",
+        "Description": "coders/rgf.c in ImageMagick before 6.9.4-10 allows remote attackers to cause a denial of service (assertion failure) by converting an image to rgf format.",
+        "URL": "https://github.com/ImageMagick/ImageMagick/pull/223",
+        "Tag": "['Issue Tracking', 'Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "ImageMagick/ImageMagick",
+        "CVE_ID": "CVE-2017-6498",
+        "Problem_Type": "CWE-20",
+        "Description": "An issue was discovered in ImageMagick 6.9.7. Incorrect TGA files could trigger assertion failures, thus leading to DoS.",
+        "URL": "https://github.com/ImageMagick/ImageMagick/pull/359",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "ImageMagick/ImageMagick",
+        "CVE_ID": "CVE-2021-20224",
+        "Problem_Type": "CWE-190",
+        "Description": "An integer overflow issue was discovered in ImageMagick's ExportIndexQuantum() function in MagickCore/quantum-export.c. Function calls to GetPixelIndex() could result in values outside the range of representable for the 'unsigned char'. When ImageMagick processes a crafted pdf file, this could lead to an undefined behaviour or a crash.",
+        "URL": "https://github.com/ImageMagick/ImageMagick/pull/3083",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "ImageMagick/ImageMagick",
+        "CVE_ID": "CVE-2021-20241",
+        "Problem_Type": "CWE-369",
+        "Description": "A flaw was found in ImageMagick in coders/jp2.c. An attacker who submits a crafted file that is processed by ImageMagick could trigger undefined behavior in the form of math division by zero. The highest threat from this vulnerability is to system availability.",
+        "URL": "https://github.com/ImageMagick/ImageMagick/pull/3177",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "ImageMagick/ImageMagick",
+        "CVE_ID": "CVE-2021-20243",
+        "Problem_Type": "CWE-369",
+        "Description": "A flaw was found in ImageMagick in MagickCore/resize.c. An attacker who submits a crafted file that is processed by ImageMagick could trigger undefined behavior in the form of math division by zero. The highest threat from this vulnerability is to system availability.",
+        "URL": "https://github.com/ImageMagick/ImageMagick/pull/3193",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "ImageMagick/ImageMagick",
+        "CVE_ID": "CVE-2021-20244",
+        "Problem_Type": "CWE-369",
+        "Description": "A flaw was found in ImageMagick in MagickCore/visual-effects.c. An attacker who submits a crafted file that is processed by ImageMagick could trigger undefined behavior in the form of math division by zero. The highest threat from this vulnerability is to system availability.",
+        "URL": "https://github.com/ImageMagick/ImageMagick/pull/3194",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

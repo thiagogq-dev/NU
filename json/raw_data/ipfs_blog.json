@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ipfs/blog",
+        "CVE_ID": "CVE-2020-12821",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Gossipsub 1.0 does not properly resist invalid message spam, such as an eclipse attack or a sybil attack.",
+        "URL": "https://github.com/ipfs/blog/pull/450",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

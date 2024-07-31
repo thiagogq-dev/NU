@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "icplayer/icplayer",
+        "CVE_ID": "CVE-2022-4928",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability was found in icplayer up to 0.819. It has been declared as problematic. Affected by this vulnerability is the function AddonText_Selection_create of the file addons/Text_Selection/src/presenter.js. The manipulation leads to cross site scripting. The attack can be launched remotely. Upgrading to version 0.820 is able to address this issue. The identifier of the patch is 2223628e6db1df73f6d633d2c0422d995990f0a3. It is recommended to upgrade the affected component. The identifier VDB-222289 was assigned to this vulnerability.",
+        "URL": "https://github.com/icplayer/icplayer/pull/881",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "icplayer/icplayer",
+        "CVE_ID": "CVE-2022-4929",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability was found in icplayer up to 0.818. It has been rated as problematic. Affected by this issue is some unknown functionality of the file addons/Commons/src/tts-utils.js. The manipulation leads to cross site scripting. The attack may be launched remotely. Upgrading to version 0.819 is able to address this issue. The patch is identified as fa785969f213c76384f1fe67d47b17d57fcc60c8. It is recommended to upgrade the affected component. VDB-222290 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/icplayer/icplayer/pull/885",
+        "Tag": "['Patch']"
+    }
+]

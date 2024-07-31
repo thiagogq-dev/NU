@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "google/gson",
+        "CVE_ID": "CVE-2022-25647",
+        "Problem_Type": "CWE-502",
+        "Description": "The package com.google.code.gson:gson before 2.8.9 are vulnerable to Deserialization of Untrusted Data via the writeReplace() method in internal classes, which may lead to DoS attacks.",
+        "URL": "https://github.com/google/gson/pull/1991",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "google/gson",
+        "CVE_ID": "CVE-2022-25647",
+        "Problem_Type": "CWE-502",
+        "Description": "The package com.google.code.gson:gson before 2.8.9 are vulnerable to Deserialization of Untrusted Data via the writeReplace() method in internal classes, which may lead to DoS attacks.",
+        "URL": "https://github.com/google/gson/pull/1991/commits",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

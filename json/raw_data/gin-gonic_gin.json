@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "gin-gonic/gin",
+        "CVE_ID": "CVE-2020-36567",
+        "Problem_Type": "CWE-116",
+        "Description": "Unsanitized input in the default logger in github.com/gin-gonic/gin before v1.6.0 allows remote attackers to inject arbitrary log lines.",
+        "URL": "https://github.com/gin-gonic/gin/pull/2237",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "gin-gonic/gin",
+        "CVE_ID": "CVE-2023-26125",
+        "Problem_Type": "CWE-20",
+        "Description": "Versions of the package github.com/gin-gonic/gin before 1.9.0 are vulnerable to Improper Input Validation by allowing an attacker to use a specially crafted request via the X-Forwarded-Prefix header, potentially leading to cache poisoning.\n\n**Note:** Although this issue does not pose a significant threat on its own it can serve as an input vector for other more impactful vulnerabilities. However, successful exploitation may depend on the server configuration and whether the header is used in the application logic.",
+        "URL": "https://github.com/gin-gonic/gin/pull/3500",
+        "Tag": "['Exploit', 'Patch']"
+    },
+    {
+        "repo_name": "gin-gonic/gin",
+        "CVE_ID": "CVE-2023-26125",
+        "Problem_Type": "CWE-20",
+        "Description": "Versions of the package github.com/gin-gonic/gin before 1.9.0 are vulnerable to Improper Input Validation by allowing an attacker to use a specially crafted request via the X-Forwarded-Prefix header, potentially leading to cache poisoning.\n\n**Note:** Although this issue does not pose a significant threat on its own it can serve as an input vector for other more impactful vulnerabilities. However, successful exploitation may depend on the server configuration and whether the header is used in the application logic.",
+        "URL": "https://github.com/gin-gonic/gin/pull/3503",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "gin-gonic/gin",
+        "CVE_ID": "CVE-2023-29401",
+        "Problem_Type": "CWE-494",
+        "Description": "The filename parameter of the Context.FileAttachment function is not properly sanitized. A maliciously crafted filename can cause the Content-Disposition header to be sent with an unexpected filename value or otherwise modify the Content-Disposition header. For example, a filename of \"setup.bat&quot;;x=.txt\" will be sent as a file named \"setup.bat\". If the FileAttachment function is called with names provided by an untrusted source, this may permit an attacker to cause a file to be served with a name different than provided. Maliciously crafted attachment file name can modify the Content-Disposition header.",
+        "URL": "https://github.com/gin-gonic/gin/pull/3556",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

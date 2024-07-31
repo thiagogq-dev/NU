@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "jc21/nginx-proxy-manager",
+        "CVE_ID": "CVE-2019-15517",
+        "Problem_Type": "CWE-22",
+        "Description": "jc21 Nginx Proxy Manager before 2.0.13 allows %2e%2e%2f directory traversal.",
+        "URL": "https://github.com/jc21/nginx-proxy-manager/pull/114",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]
