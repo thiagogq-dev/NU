@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "WASM3 v0.5.0 was discovered to contain a heap overflow via the component /wabt/bin/poc.wasm.",
         "URL": "https://github.com/wasm3/wasm3/pull/324",
+        "Commit SHA": "8441c82c4a98f554b12971450220b580c3c2b6df",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
