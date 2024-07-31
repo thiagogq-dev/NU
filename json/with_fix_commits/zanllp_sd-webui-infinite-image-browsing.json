@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "The zanllp sd-webui-infinite-image-browsing (aka Infinite Image Browsing) extension before 977815a for stable-diffusion-webui (aka Stable Diffusion web UI), if Gradio authentication is enabled without secret key configuration, allows remote attackers to read any local file via /file?path= in the URL, as demonstrated by reading /proc/self/environ to discover credentials.",
         "URL": "https://github.com/zanllp/sd-webui-infinite-image-browsing/pull/368/commits/977815a2b28ad953c10ef0114c365f698c4b8f19",
+        "Commit SHA": "977815a2b28ad953c10ef0114c365f698c4b8f19",
         "Tag": "['Patch']"
     }
 ]
