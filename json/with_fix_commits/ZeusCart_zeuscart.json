@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "Multiple SQL injection vulnerabilities in ZeusCart 4.x.",
         "URL": "https://github.com/ZeusCart/zeuscart/pull/23",
+        "Commit SHA": "b488c7e2b82ce07fd75d18f167bb48f4f84a425f",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
