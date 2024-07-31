@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-77",
         "Description": "SPARQL Injection in VIVO Vitro v1.10.0 allows a remote attacker to execute arbitrary SPARQL via the uri parameter, leading to a regular expression denial of service (ReDoS), as demonstrated by crafted use of FILTER%20regex in a /individual?uri= request.",
         "URL": "https://github.com/vivo-project/Vitro/pull/111",
+        "Commit SHA": "dd04f3def86fddee6acd5ceb8c41277f7919d6b4",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
