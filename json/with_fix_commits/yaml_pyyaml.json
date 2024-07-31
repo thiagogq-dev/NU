@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-502",
         "Description": "In PyYAML before 5.1, the yaml.load() API could execute arbitrary code if used with untrusted data. The load() function has been deprecated in version 5.1 and the 'UnsafeLoader' has been introduced for backward compatibility with the function.",
         "URL": "https://github.com/yaml/pyyaml/pull/74",
+        "Commit SHA": "bbcf95fa051fdba9bbf879332e2f7999b195cf95",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-20",
         "Description": "A vulnerability was discovered in the PyYAML library in versions before 5.3.1, where it is susceptible to arbitrary code execution when it processes untrusted YAML files through the full_load method or with the FullLoader loader. Applications that use the library to process untrusted input may be vulnerable to this flaw. An attacker could use this flaw to execute arbitrary code on the system by abusing the python/object/new constructor.",
         "URL": "https://github.com/yaml/pyyaml/pull/386",
+        "Commit SHA": "5080ba513377b6355a0502104846ee804656f1e0",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
