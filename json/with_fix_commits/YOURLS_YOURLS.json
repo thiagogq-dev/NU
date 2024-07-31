@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-843",
         "Description": "YOURLS through 1.7.3 is affected by a type juggling vulnerability in the api component that can result in login bypass.",
         "URL": "https://github.com/YOURLS/YOURLS/pull/2542",
+        "Commit SHA": "9e36c67b01b932a41f0834d7896c7ba8383e9f07",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
