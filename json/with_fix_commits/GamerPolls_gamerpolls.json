@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-798",
         "Description": "An issue was discovered in GamerPolls 0.4.6, related to config/environments/all.js and config/initializers/02_passport.js. An attacker can edit the Passport.js contents of the session cookie to contain the ID number of the account they wish to take over, and re-sign it using the hard coded secret.",
         "URL": "https://github.com/GamerPolls/gamerpolls.com/pull/56",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
