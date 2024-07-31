@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "An XSS vulnerability exists in framework/views/errorHandler/exception.php in Yii Framework 2.0.12 affecting the exception screen when debug mode is enabled, because $exception->errorInfo is mishandled.",
         "URL": "https://github.com/yiisoft/yii2/pull/14492/files/feb4067de8a58f391a66e395192b0d83a8109b95",
+        "Commit SHA": "acf29e000183e9cbf05705e2915190efbce15728",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "An XSS vulnerability exists in framework/views/errorHandler/exception.php in Yii Framework 2.0.12 affecting the exception screen when debug mode is enabled, because $exception->errorInfo is mishandled.",
         "URL": "https://github.com/yiisoft/yii2/pull/14492",
+        "Commit SHA": "acf29e000183e9cbf05705e2915190efbce15728",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
