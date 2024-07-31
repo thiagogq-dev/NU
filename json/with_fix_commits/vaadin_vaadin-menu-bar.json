@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Missing output sanitization in test sources in org.webjars.bowergithub.vaadin:vaadin-menu-bar versions 1.0.0 through 1.2.0 (Vaadin 14.0.0 through 14.4.4) allows remote attackers to execute malicious JavaScript in browser by opening crafted URL",
         "URL": "https://github.com/vaadin/vaadin-menu-bar/pull/126",
+        "Commit SHA": "62334c8d30ba8b11809542deee81025c7e0c4f44",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
