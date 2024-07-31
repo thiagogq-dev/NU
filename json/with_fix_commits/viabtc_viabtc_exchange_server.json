@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-190",
         "Description": "utils/ut_rpc.c in ViaBTC Exchange Server before 2018-08-21 has an integer overflow leading to memory corruption.",
         "URL": "https://github.com/viabtc/viabtc_exchange_server/pull/131",
+        "Commit SHA": "4a7c27bfe98f409623d4d857894d017ff0672cc9",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
