@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Project Wonder WebObjects 1.0 through 5.4.3 is vulnerable to Arbitrary HTTP Header injection and URL- or Header-based XSS reflection in all web-server adaptor interfaces.",
         "URL": "https://github.com/wocommunity/wonder/pull/992",
+        "Commit SHA": "b0d2d74f13203268ea254b02552600850f28014b",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
