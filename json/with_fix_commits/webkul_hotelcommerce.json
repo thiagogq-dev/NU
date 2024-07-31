@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-639",
         "Description": "An issue in webkul qloapps before v1.6.0 allows an attacker to obtain sensitive information via the id_order parameter.",
         "URL": "https://github.com/webkul/hotelcommerce/pull/537",
+        "Commit SHA": "843867b19cb68b85ac8c236aabccbed3bf4b0901",
         "Tag": "['Patch']"
     }
 ]
