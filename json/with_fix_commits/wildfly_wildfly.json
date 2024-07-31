@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "A flaw was found in Wildfly where insufficient RBAC restrictions may lead to expose metrics data. The highest threat from this vulnerability is to the confidentiality.",
         "URL": "https://github.com/wildfly/wildfly/pull/14136",
+        "Commit SHA": "30751edda3cdb09f988553aa64833914baeb8a75",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
