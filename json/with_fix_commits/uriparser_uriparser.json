@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-416",
         "Description": "An issue was discovered in uriparser before 0.9.6. It performs invalid free operations in uriFreeUriMembers and uriMakeOwner.",
         "URL": "https://github.com/uriparser/uriparser/pull/124",
+        "Commit SHA": "cd6070c92f3bab157139c35ff4841054afaa67ef",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-416",
         "Description": "An issue was discovered in uriparser before 0.9.6. It performs invalid free operations in uriNormalizeSyntax.",
         "URL": "https://github.com/uriparser/uriparser/pull/124",
+        "Commit SHA": "cd6070c92f3bab157139c35ff4841054afaa67ef",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
