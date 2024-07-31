@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "A flaw was found in mod_auth_openidc before version 2.4.0.1. An open redirect issue exists in URLs with trailing slashes similar to CVE-2019-3877 in mod_auth_mellon.",
         "URL": "https://github.com/zmartzone/mod_auth_openidc/pull/451",
+        "Commit SHA": "6c9a42e88e1f821c309c12bf73171469b529af3a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-601",
         "Description": "A flaw was found in mod_auth_openidc before version 2.4.1. An open redirect issue exists in URLs with a slash and backslash at the beginning.",
         "URL": "https://github.com/zmartzone/mod_auth_openidc/pull/453",
+        "Commit SHA": "02431c0adfa30f478cf2eb20ed6ea51fdf446be7",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
