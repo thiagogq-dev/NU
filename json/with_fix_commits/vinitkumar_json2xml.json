@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-754",
         "Description": "The json2xml package through 3.12.0 for Python allows an error in typecode decoding enabling a remote attack that can lead to an exception, causing a denial of service.",
         "URL": "https://github.com/vinitkumar/json2xml/pull/107/files",
+        "Commit SHA": "dc8f15f505d9884364f633469e4086df95ac40fb",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-754",
         "Description": "The json2xml package through 3.12.0 for Python allows an error in typecode decoding enabling a remote attack that can lead to an exception, causing a denial of service.",
         "URL": "https://github.com/vinitkumar/json2xml/pull/107",
+        "Commit SHA": "dc8f15f505d9884364f633469e4086df95ac40fb",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
