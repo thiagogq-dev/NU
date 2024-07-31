@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Open redirect vulnerability in Athenz v1.8.24 and earlier allows remote attackers to redirect users to arbitrary web sites and conduct phishing attacks via a specially crafted page.",
         "URL": "https://github.com/yahoo/athenz/pull/700",
+        "Commit SHA": "c4dc89b31fda501af45c20b33db620a077079744",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
