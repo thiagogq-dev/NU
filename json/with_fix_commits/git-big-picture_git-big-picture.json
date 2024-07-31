@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-20",
         "Description": "git-big-picture before 1.0.0 mishandles ' characters in a branch name, leading to code execution.",
         "URL": "https://github.com/git-big-picture/git-big-picture/pull/62",
+        "Commit SHA": "e840dfb69ae6ec3a3f81c36af431857118a3c139",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-20",
         "Description": "git-big-picture before 1.0.0 mishandles ' characters in a branch name, leading to code execution.",
         "URL": "https://github.com/git-big-picture/git-big-picture/pull/27",
+        "Commit SHA": "e840dfb69ae6ec3a3f81c36af431857118a3c139",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
