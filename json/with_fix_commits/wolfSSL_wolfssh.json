@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-190",
         "Description": "WolfSSH v1.4.7 was discovered to contain an integer overflow via the function wolfSSH_SFTP_RecvRMDIR.",
         "URL": "https://github.com/wolfSSL/wolfssh/pull/360",
+        "Commit SHA": "4fd2b36eb05348b399efde93070fe4be81f144a3",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
