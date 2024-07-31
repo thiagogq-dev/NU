@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-264",
         "Description": "lshell 0.9.16 allows remote authenticated users to break out of a limited shell and execute arbitrary commands.",
         "URL": "https://github.com/ghantoos/lshell/pull/153/commits/a686f71732a3d0f16df52ef46ab8a49ee0083c68",
+        "Commit SHA": "a686f71732a3d0f16df52ef46ab8a49ee0083c68",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
