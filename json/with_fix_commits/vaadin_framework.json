@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Missing variable sanitization in Grid component in com.vaadin:vaadin-server versions 7.4.0 through 7.7.19 (Vaadin 7.4.0 through 7.7.19), and 8.0.0 through 8.8.4 (Vaadin 8.0.0 through 8.8.4) allows attacker to inject malicious JavaScript via unspecified vector",
         "URL": "https://github.com/vaadin/framework/pull/11645",
+        "Commit SHA": "ca3af82272105fc7585124b9eb1ab76a84cd1df5",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Missing variable sanitization in Grid component in com.vaadin:vaadin-server versions 7.4.0 through 7.7.19 (Vaadin 7.4.0 through 7.7.19), and 8.0.0 through 8.8.4 (Vaadin 8.0.0 through 8.8.4) allows attacker to inject malicious JavaScript via unspecified vector",
         "URL": "https://github.com/vaadin/framework/pull/11644",
+        "Commit SHA": "2584e9ad44fa9135daa405df8cbc9ae7d4a3ee33",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-400",
         "Description": "Unsafe validation RegEx in EmailValidator class in com.vaadin:vaadin-server versions 7.0.0 through 7.7.21 (Vaadin 7.0.0 through 7.7.21) allows attackers to cause uncontrolled resource consumption by submitting malicious email addresses.",
         "URL": "https://github.com/vaadin/framework/pull/12104",
+        "Commit SHA": "17f5c1b6693892e00a4c2379d621043ef077f24e",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-203",
         "Description": "Non-constant-time comparison of CSRF tokens in UIDL request handler in com.vaadin:vaadin-server versions 7.0.0 through 7.7.23 (Vaadin 7.0.0 through 7.7.23), and 8.0.0 through 8.12.2 (Vaadin 8.0.0 through 8.12.2) allows attacker to guess a security token via timing attack",
         "URL": "https://github.com/vaadin/framework/pull/12188",
+        "Commit SHA": "7cb91b3b9995c92bfd2bfb694669f02d7fa44618",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-203",
         "Description": "Non-constant-time comparison of CSRF tokens in UIDL request handler in com.vaadin:vaadin-server versions 7.0.0 through 7.7.23 (Vaadin 7.0.0 through 7.7.23), and 8.0.0 through 8.12.2 (Vaadin 8.0.0 through 8.12.2) allows attacker to guess a security token via timing attack",
         "URL": "https://github.com/vaadin/framework/pull/12190",
+        "Commit SHA": "a26eb8d4c63816eae9579c661712e47fa6fa0e18",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-400",
         "Description": "Unsafe validation RegEx in EmailValidator component in com.vaadin:vaadin-compatibility-server versions 8.0.0 through 8.12.4 (Vaadin versions 8.0.0 through 8.12.4) allows attackers to cause uncontrolled resource consumption by submitting malicious email addresses.",
         "URL": "https://github.com/vaadin/framework/pull/12241",
+        "Commit SHA": "754ca011d79af3dd4fa9046ff0ade5367f5e6246",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Missing check in DataCommunicator class in com.vaadin:vaadin-server versions 8.0.0 through 8.14.0 (Vaadin 8.0.0 through 8.14.0) allows authenticated network attacker to cause heap exhaustion by requesting too many rows of data.",
         "URL": "https://github.com/vaadin/framework/pull/12415",
+        "Commit SHA": "2fc98eaf9c0e2cd42cf4a66fb6d2cd2e9f0a08a9",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
