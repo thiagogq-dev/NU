@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-401",
         "Description": "A memory leak flaw was found in WildFly OpenSSL in versions prior to 1.1.3.Final, where it removes an HTTP session. It may allow the attacker to cause OOM leading to a denial of service. The highest threat from this vulnerability is to system availability.",
         "URL": "https://github.com/wildfly-security/wildfly-openssl-natives/pull/4/files",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
