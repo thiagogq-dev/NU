@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "Gitea version prior to version 1.5.1 contains a CWE-200 vulnerability that can result in Exposure of users private email addresses. This attack appear to be exploitable via Watch a repository to receive email notifications. Emails received contain the other recipients even if they have the email set as private. This vulnerability appears to have been fixed in 1.5.1.",
         "URL": "https://github.com/go-gitea/gitea/pull/4664/files#diff-146e0c2b5bb1ea96c9fb73d509456e57",
+        "Commit SHA": "194a11eb110cd98fc2ba52861abf7770db6885a3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-200",
         "Description": "Gitea version prior to version 1.5.1 contains a CWE-200 vulnerability that can result in Exposure of users private email addresses. This attack appear to be exploitable via Watch a repository to receive email notifications. Emails received contain the other recipients even if they have the email set as private. This vulnerability appears to have been fixed in 1.5.1.",
         "URL": "https://github.com/go-gitea/gitea/pull/4664",
+        "Commit SHA": "194a11eb110cd98fc2ba52861abf7770db6885a3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Gitea version 1.6.2 and earlier contains a Incorrect Access Control vulnerability in Delete/Edit file functionallity that can result in the attacker deleting files outside the repository he/she has access to. This attack appears to be exploitable via the attacker must get write access to \"any\" repository including self-created ones.. This vulnerability appears to have been fixed in 1.6.3, 1.7.0-rc2.",
         "URL": "https://github.com/go-gitea/gitea/pull/5631",
+        "Commit SHA": "fd1e8563f8713265df2e402e9387e0964efc42e2",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Gitea 1.7.0 and earlier is affected by: Cross Site Scripting (XSS). The impact is: Attacker is able to have victim execute arbitrary JS in browser. The component is: go-get URL generation - PR to fix: https://github.com/go-gitea/gitea/pull/5905. The attack vector is: victim must open a specifically crafted URL. The fixed version is: 1.7.1 and later.",
         "URL": "https://github.com/go-gitea/gitea/pull/5905",
+        "Commit SHA": "80098bd7526fed84cfb4fa48272be71541b37205",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-287",
         "Description": "Gitea before 1.8.0 allows 1FA for user accounts that have completed 2FA enrollment. If a user's credentials are known, then an attacker could send them to the API without requiring the 2FA one-time password.",
         "URL": "https://github.com/go-gitea/gitea/pull/6674",
+        "Commit SHA": "19ec2606e91610421a3e9cd87c94748ef07ca468",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-667",
         "Description": "An issue was discovered in Gitea through 1.11.5. An attacker can trigger a deadlock by initiating a transfer of a repository's ownership from one organization to another.",
         "URL": "https://github.com/go-gitea/gitea/pull/11438",
+        "Commit SHA": "c3d9a5f8464e0921fc4063d903ecf2063fa152fa",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Gitea 0.9.99 through 1.12.x before 1.12.6 does not prevent a git protocol path that specifies a TCP port number and also contains newlines (with URL encoding) in ParseRemoteAddr in modules/auth/repo_form.go.",
         "URL": "https://github.com/go-gitea/gitea/pull/13525",
+        "Commit SHA": "480efbdb96e4092493ec1e3683b2ab688ac95096",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Gitea 1.12.x and 1.13.x before 1.13.4 allows XSS via certain issue data in some situations.",
         "URL": "https://github.com/go-gitea/gitea/pull/14898",
+        "Commit SHA": "f1da46622e2d43870f939c46f43518728baecfd3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-22",
         "Description": "The avatar middleware in Gitea before 1.13.6 allows Directory Traversal via a crafted URL.",
         "URL": "https://github.com/go-gitea/gitea/pull/15125/files",
+        "Commit SHA": "151bedab524a0844758d48bcab5b44a099976c23",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-918",
         "Description": "Server Side Request Forgery (SSRF) vulneraility exists in Gitea before 1.7.0 using the OpenID URL.",
         "URL": "https://github.com/go-gitea/gitea/pull/5705",
+        "Commit SHA": "2b36bdd4902aa7ee93e15eee961d6a8a4a26e81c",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "CWE-352",
         "Description": "Cross Site Request Forgery (CSRF) vulnerability exists in Gitea before 1.5.2 via API routes.This can be dangerous especially with state altering POST requests.",
         "URL": "https://github.com/go-gitea/gitea/pull/4840",
+        "Commit SHA": "e47df0b301510a49b49fc43266f436b7d58a02b1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -93,6 +104,7 @@
         "Problem_Type": "CWE-436",
         "Description": "Gitea before 1.11.2 is affected by Trusting HTTP Permission Methods on the Server Side when referencing the vulnerable admin or user API. which could let a remote malisious user execute arbitrary code.",
         "URL": "https://github.com/go-gitea/gitea/pull/10465",
+        "Commit SHA": "e5944a9521102c4917399a6550a0756919527944",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -101,6 +113,7 @@
         "Problem_Type": "CWE-436",
         "Description": "Gitea before 1.11.2 is affected by Trusting HTTP Permission Methods on the Server Side when referencing the vulnerable admin or user API. which could let a remote malisious user execute arbitrary code.",
         "URL": "https://github.com/go-gitea/gitea/pull/10582",
+        "Commit SHA": "0e2217bd2d8833f0bff84767f676fc93c84d4b9a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -109,6 +122,7 @@
         "Problem_Type": "CWE-436",
         "Description": "Gitea before 1.11.2 is affected by Trusting HTTP Permission Methods on the Server Side when referencing the vulnerable admin or user API. which could let a remote malisious user execute arbitrary code.",
         "URL": "https://github.com/go-gitea/gitea/pull/10462",
+        "Commit SHA": "c161bb013e091c0bcc524f07d50c028d9daf8cce",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -117,6 +131,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross Site Scripting (XSS) vulnerability exists in Gitea before 1.5.1 via the repository settings inside the external wiki/issue tracker URL field.",
         "URL": "https://github.com/go-gitea/gitea/pull/4710",
+        "Commit SHA": "92466129ec242536c71b66a8987d9b37e6bc0bce",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -125,6 +140,7 @@
         "Problem_Type": "CWE-287",
         "Description": "An Authentication Bypass vulnerability exists in Gitea before 1.5.0, which could let a malicious user gain privileges. If captured, the TOTP code for the 2FA can be submitted correctly more than once.",
         "URL": "https://github.com/go-gitea/gitea/pull/3878",
+        "Commit SHA": "1e1ece8f3dce8ed9958f3bd5823c135d1c19eb49",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -133,6 +149,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An arbitrary file deletion vulnerability in Gitea v1.16.3 allows attackers to cause a Denial of Service (DoS) via deleting the configuration file.",
         "URL": "https://github.com/go-gitea/gitea/pull/19072",
+        "Commit SHA": "49db87a035a28cd8eaa4abdd5832f952ca6449d9",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -141,6 +158,7 @@
         "Problem_Type": "CWE-116",
         "Description": "Gitea before 1.16.7 does not escape git fetch remote.",
         "URL": "https://github.com/go-gitea/gitea/pull/19487",
+        "Commit SHA": "fe274c148bc516b63aa89ab1904d124e60903421",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -149,6 +167,7 @@
         "Problem_Type": "CWE-116",
         "Description": "Gitea before 1.16.7 does not escape git fetch remote.",
         "URL": "https://github.com/go-gitea/gitea/pull/19490",
+        "Commit SHA": "242f7f1a528af0b85ad0dd6fa88ed2d889b92385",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -157,6 +176,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "In Gitea through 1.17.1, repo cloning can occur in the migration function.",
         "URL": "https://github.com/go-gitea/gitea/pull/20892",
+        "Commit SHA": "9e8b1c663041e8b503d57df64dfbbf0b51a720f4",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -165,6 +185,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "In Gitea through 1.17.1, repo cloning can occur in the migration function.",
         "URL": "https://github.com/go-gitea/gitea/pull/20869",
+        "Commit SHA": "6d3181406d87503dbd15e4a7c764c8963f13977f",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -173,6 +194,7 @@
         "Problem_Type": "CWE-88",
         "Description": "Gitea before 1.17.3 does not sanitize and escape refs in the git backend. Arguments to git commands are mishandled.",
         "URL": "https://github.com/go-gitea/gitea/pull/21463",
+        "Commit SHA": "cd48a007bb85ba071ed175a6376b9e392e2c49b6",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
