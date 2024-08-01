@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-20",
         "Description": "GitHub Git LFS before 2.1.1 allows remote attackers to execute arbitrary commands via an ssh URL with an initial dash character in the hostname, located on a \"url =\" line in a .lfsconfig file within a repository.",
         "URL": "https://github.com/git-lfs/git-lfs/pull/2242",
+        "Commit SHA": "319ae903ffba7533789054aac007e690b47feca7",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
