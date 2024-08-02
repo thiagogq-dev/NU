@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "DotNetZip.Semvered before 1.11.0 is vulnerable to directory traversal, allowing attackers to write to arbitrary files via a ../ (dot dot slash) in a Zip archive entry that is mishandled during extraction. This vulnerability is also known as 'Zip-Slip'.",
         "URL": "https://github.com/haf/DotNetZip.Semverd/pull/121",
+        "Commit SHA": "55d2c13c0cc64654e18fcdd0038fdb3d7458e366",
         "Tag": "['Patch']"
     }
 ]
