@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana before 5.2.0-beta1 has XSS vulnerabilities in dashboard links.",
         "URL": "https://github.com/grafana/grafana/pull/11813",
+        "Commit SHA": "00454b32f5db19f9dee4fa05b5cff5e24941548d",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana 5.3.1 has XSS via a link on the \"Dashboard > All Panels > General\" screen. NOTE: this issue exists because of an incomplete fix for CVE-2018-12099.",
         "URL": "https://github.com/grafana/grafana/pull/11813",
+        "Commit SHA": "00454b32f5db19f9dee4fa05b5cff5e24941548d",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana before 6.7.3 allows table-panel XSS via column.title or cellLinkTooltip.",
         "URL": "https://github.com/grafana/grafana/pull/23816",
+        "Commit SHA": "0284747c88eb9435899006d26ffaf65f89dec88e",
         "Tag": "['Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana before 7.0.0 allows tag value XSS via the OpenTSDB datasource.",
         "URL": "https://github.com/grafana/grafana/pull/24539",
+        "Commit SHA": "125ba95686df79989626ac1e8aa48e582c0efd98",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana before 7.1.0-beta 1 allows XSS via a query alias for the ElasticSearch datasource.",
         "URL": "https://github.com/grafana/grafana/pull/25401",
+        "Commit SHA": "c53435f7a76f79a07bac2fe1a66827624e217a1c",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-352",
         "Description": "Grafana is an open-source platform for monitoring and observability. Affected versions are subject to a cross site request forgery vulnerability which allows attackers to elevate their privileges by mounting cross-origin attacks against authenticated high-privilege Grafana users (for example, Editors or Admins). An attacker can exploit this vulnerability for privilege escalation by tricking an authenticated user into inviting the attacker as a new user with high privileges. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.",
         "URL": "https://github.com/grafana/grafana/pull/45083",
+        "Commit SHA": "605d056136b3dce5545bdbd7868acd8778eed9b1",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-639",
         "Description": "Grafana is an open-source platform for monitoring and observability. Affected versions of Grafana expose multiple API endpoints which do not properly handle user authorization. `/teams/:teamId` will allow an authenticated attacker to view unintended data by querying for the specific team ID, `/teams/:search` will allow an authenticated attacker to search for teams and see the total number of available teams, including for those teams that the user does not have access to, and `/teams/:teamId/members` when editors_can_admin flag is enabled, an authenticated attacker can see unintended data by querying for the specific team ID. Users are advised to upgrade as soon as possible. There are no known workarounds for this issue.",
         "URL": "https://github.com/grafana/grafana/pull/45083",
+        "Commit SHA": "605d056136b3dce5545bdbd7868acd8778eed9b1",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana is an open-source platform for monitoring and observability. Starting with the 8.1 branch and prior to versions 8.5.16, 9.2.10, and 9.3.4, Grafana had a stored XSS vulnerability affecting the core plugin GeoMap. The stored XSS vulnerability was possible because SVG files weren't properly sanitized and allowed arbitrary JavaScript to be executed in the context of the currently authorized user of the Grafana instance. \n\nAn attacker needs to have the Editor role in order to change a panel to include either an external URL to a SVG-file containing JavaScript, or use the `data:` scheme to load an inline SVG-file containing JavaScript. This means that vertical privilege escalation is possible, where a user with Editor role can change to a known password for a user having Admin role if the user with Admin role executes malicious JavaScript viewing a dashboard.   \n\nUsers may upgrade to version 8.5.16, 9.2.10, or 9.3.4 to receive a fix.",
         "URL": "https://github.com/grafana/grafana/pull/62143",
+        "Commit SHA": "8b574e22b53aa4c5a35032a58844fd4aaaa12f5f",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Grafana is an open-source platform for monitoring and observability. In Grafana Enterprise, the Request security feature allows list allows to configure Grafana in a way so that the instance doesn\u00c2\u2019t call or only calls specific hosts. The vulnerability present starting with version 7.4.0-beta1 and prior to versions 7.5.16 and 8.5.3 allows someone to bypass these security configurations if a malicious datasource (running on an allowed host) returns an HTTP redirect to a forbidden host. The vulnerability only impacts Grafana Enterprise when the Request security allow list is used and there is a possibility to add a custom datasource to Grafana which returns HTTP redirects. In this scenario, Grafana would blindly follow the redirects and potentially give secure information to the clients. Grafana Cloud is not impacted by this vulnerability. Versions 7.5.16 and 8.5.3 contain a patch for this issue. There are currently no known workarounds.",
         "URL": "https://github.com/grafana/grafana/pull/49240",
+        "Commit SHA": "aad29833506bac717ff28781bdb3c1b32416eb92",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana is an open-source platform for monitoring and observability. Prior to versions 8.5.16 and 9.2.8, malicious user can create a snapshot and arbitrarily choose the `originalUrl` parameter by editing the query, thanks to a web proxy. When another user opens the URL of the snapshot, they will be presented with the regular web interface delivered by the trusted Grafana server. The `Open original dashboard` button no longer points to the to the real original dashboard but to the attacker\u00c2\u2019s injected URL. This issue is fixed in versions 8.5.16 and 9.2.8.",
         "URL": "https://github.com/grafana/grafana/pull/60232",
+        "Commit SHA": "239888f22983010576bb3a9135a7294e88c0c74a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Grafana is an open-source platform for monitoring and observability. Prior to versions 8.5.16 and 9.2.8, malicious user can create a snapshot and arbitrarily choose the `originalUrl` parameter by editing the query, thanks to a web proxy. When another user opens the URL of the snapshot, they will be presented with the regular web interface delivered by the trusted Grafana server. The `Open original dashboard` button no longer points to the to the real original dashboard but to the attacker\u00c2\u2019s injected URL. This issue is fixed in versions 8.5.16 and 9.2.8.",
         "URL": "https://github.com/grafana/grafana/pull/60256",
+        "Commit SHA": "d7dcea71ea763780dc286792a0afd560bff2985c",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
