@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "graphql-java before19.0 is vulnerable to Denial of Service. An attacker can send a malicious GraphQL query that consumes CPU resources. The fixed versions are 19.0 and later, 18.3, and 17.4, and 0.0.0-2022-07-26T05-45-04-226aabd9.",
         "URL": "https://github.com/graphql-java/graphql-java/pull/2892",
+        "Commit SHA": "226aabd9ffa863387085483e6b73799507b90b2c",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-770",
         "Description": "In GraphQL Java (aka graphql-java) before 20.1, an attacker can send a crafted GraphQL query that causes stack consumption. The fixed versions are 20.1, 19.4, 18.4, 17.5, and 0.0.0-2023-03-20T01-49-44-80e3135.",
         "URL": "https://github.com/graphql-java/graphql-java/pull/3112",
+        "Commit SHA": "80e313597d0d9b03f9d28f4de4dbfa118705360f",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
