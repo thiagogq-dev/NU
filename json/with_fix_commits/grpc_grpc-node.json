@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "The package grpc before 1.24.4; the package @grpc/grpc-js before 1.1.8 are vulnerable to Prototype Pollution via loadPackageDefinition.",
         "URL": "https://github.com/grpc/grpc-node/pull/1606",
+        "Commit SHA": "23b3795a4d54a16ac3dd40a7d3c65f3ba33943ef",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "The package grpc before 1.24.4; the package @grpc/grpc-js before 1.1.8 are vulnerable to Prototype Pollution via loadPackageDefinition.",
         "URL": "https://github.com/grpc/grpc-node/pull/1605",
+        "Commit SHA": "afe4c3e0825d0b0256a0f994c7087115d508c580",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
