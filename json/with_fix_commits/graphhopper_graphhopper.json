@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1321",
         "Description": "This affects the package com.graphhopper:graphhopper-web-bundle before 3.2, from 4.0-pre1 and before 4.0. The URL parser could be tricked into adding or modifying properties of Object.prototype using a constructor or __proto__ payload.",
         "URL": "https://github.com/graphhopper/graphhopper/pull/2370",
+        "Commit SHA": "6e98cf8119314c9f28134c492b12eb878ef7754c",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-400",
         "Description": "GraphHopper is an open-source Java routing engine. In GrassHopper from version 2.0 and before version 2.4, there is a regular expression injection vulnerability that may lead to Denial of Service. This has been patched in 2.4 and 3.0 See this pull request for the fix: https://github.com/graphhopper/graphhopper/pull/2304",
         "URL": "https://github.com/graphhopper/graphhopper/pull/2304",
+        "Commit SHA": "eb189be1fa7443ebf4ae881e737a18f818c95f41",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
