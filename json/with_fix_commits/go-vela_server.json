@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-862",
         "Description": "Vela is a Pipeline Automation (CI/CD) framework built on Linux container technology written in Golang. An authentication mechanism added in version 0.7.0 enables some malicious user to obtain secrets utilizing the injected credentials within the `~/.netrc` file. Refer to the referenced GitHub Security Advisory for complete details. This is fixed in version 0.7.5.",
         "URL": "https://github.com/go-vela/server/pull/337",
+        "Commit SHA": "cb4352918b8ecace9fe969b90404d337b0744d46",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
