@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "SLO generator allows for loading of YAML files that if crafted in a specific format can allow for code execution within the context of the SLO Generator. We recommend upgrading SLO Generator past https://github.com/google/slo-generator/pull/173",
         "URL": "https://github.com/google/slo-generator/pull/173",
+        "Commit SHA": "36318beab1b85d14bb860e45bea186b184690d5d",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
