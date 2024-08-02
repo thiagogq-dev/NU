@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-532",
         "Description": "The Hashicorp go-getter library before 1.5.11 does not redact an SSH key from a URL query parameter.",
         "URL": "https://github.com/hashicorp/go-getter/pull/348",
+        "Commit SHA": "f5cbbb458c1482e08133d07ebd70a3810e6e4d92",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
