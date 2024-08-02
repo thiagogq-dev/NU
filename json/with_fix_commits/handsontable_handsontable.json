@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "The package handsontable before 10.0.0; the package handsontable from 0 and before 10.0.0 are vulnerable to Regular Expression Denial of Service (ReDoS) in Handsontable.helper.isNumeric function.",
         "URL": "https://github.com/handsontable/handsontable/pull/8742",
+        "Commit SHA": "7323f3d08b4c85e6d92f8511c849d2b1821aadcc",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
