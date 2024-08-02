@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Google gRPC before 2017-02-22 has an out-of-bounds write caused by a heap-based buffer overflow related to the parse_unix function in core/ext/client_channel/parse_address.c.",
         "URL": "https://github.com/grpc/grpc/pull/9833",
+        "Commit SHA": "5f13f4898612c136cff1f2d04a91c25b6d4b694a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Google gRPC before 2017-02-22 has an out-of-bounds write related to the gpr_free function in core/lib/support/alloc.c.",
         "URL": "https://github.com/grpc/grpc/pull/9833",
+        "Commit SHA": "5f13f4898612c136cff1f2d04a91c25b6d4b694a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Google gRPC before 2017-03-29 has an out-of-bounds write caused by a heap-based use-after-free related to the grpc_call_destroy function in core/lib/surface/call.c.",
         "URL": "https://github.com/grpc/grpc/pull/10353",
+        "Commit SHA": "6544a2d5d9ecdb64214da1d228886a7d15bbf5c7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Google gRPC before 2017-04-05 has an out-of-bounds write caused by a heap-based buffer overflow related to core/lib/iomgr/error.c.",
         "URL": "https://github.com/grpc/grpc/pull/10492",
+        "Commit SHA": "55a61e43b9abe9c95a6e401239bdd02a48deb587",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "When gRPC HTTP2 stack raised a header size exceeded error, it skipped parsing the rest of the HPACK frame. This caused any HPACK table mutations to also be skipped, resulting in a desynchronization of HPACK tables between sender and receiver. If leveraged, say, between a proxy and a backend, this could lead to requests from the proxy being interpreted as containing headers from different proxy clients - leading to an information leak that can be used for privilege escalation or data exfiltration. We recommend upgrading beyond the commit contained in\u00c2\u00a0 https://github.com/grpc/grpc/pull/33005 https://github.com/grpc/grpc/pull/33005 \n",
         "URL": "https://github.com/grpc/grpc/pull/32309",
+        "Commit SHA": "29d8beee0ac2555773b2a2dda5601c74a95d6c10",
         "Tag": "['Patch']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "When gRPC HTTP2 stack raised a header size exceeded error, it skipped parsing the rest of the HPACK frame. This caused any HPACK table mutations to also be skipped, resulting in a desynchronization of HPACK tables between sender and receiver. If leveraged, say, between a proxy and a backend, this could lead to requests from the proxy being interpreted as containing headers from different proxy clients - leading to an information leak that can be used for privilege escalation or data exfiltration. We recommend upgrading beyond the commit contained in\u00c2\u00a0 https://github.com/grpc/grpc/pull/33005 https://github.com/grpc/grpc/pull/33005 \n",
         "URL": "https://github.com/grpc/grpc/pull/33005",
+        "Commit SHA": "65a2a895afaf1d2072447b9baf246374b182a946",
         "Tag": "['Patch']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "gRPC contains a vulnerability whereby a client can cause a termination of connection between a HTTP2 proxy and a gRPC server: a base64 encoding error for `-bin` suffixed headers will result in a disconnection by the gRPC server, but is typically allowed by HTTP2 proxies. We recommend upgrading beyond the commit in\u00c2\u00a0 https://github.com/grpc/grpc/pull/32309 https://www.google.com/url \n",
         "URL": "https://github.com/grpc/grpc/pull/32309",
+        "Commit SHA": "29d8beee0ac2555773b2a2dda5601c74a95d6c10",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Lack of error handling in the TCP server in Google's gRPC starting version 1.23 on posix-compatible platforms (ex. Linux) allows an attacker to cause a denial of service by initiating a significant number of connections with the server. Note that gRPC C++ Python, and Ruby are affected, but gRPC Java, and Go are NOT affected.\u00c2\u00a0",
         "URL": "https://github.com/grpc/grpc/pull/33656",
+        "Commit SHA": "2788b56867bb36aebdfe567ef1efdbce1799424e",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
