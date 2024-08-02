@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-400",
         "Description": "This affects the package glob-parent before 5.1.2. The enclosure regex used to check for strings ending in enclosure containing path separator.",
         "URL": "https://github.com/gulpjs/glob-parent/pull/36",
+        "Commit SHA": "f9231168b0041fea3f8f954b3cceb56269fc6366",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "The glob-parent package before 6.0.1 for Node.js allows ReDoS (regular expression denial of service) attacks against the enclosure regular expression.",
         "URL": "https://github.com/gulpjs/glob-parent/pull/49",
+        "Commit SHA": "3e9f04a3b4349db7e1962d87c9a7398cda51f339",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
