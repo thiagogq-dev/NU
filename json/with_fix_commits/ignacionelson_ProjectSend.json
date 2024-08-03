@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross-site scripting (XSS) vulnerability in ProjectSend (formerly cFTP) before commit 6c3710430be26feb5371cb0377e5355d6f9a27ca allows remote attackers to inject arbitrary web script or HTML via the Description field in a Site name updated.",
         "URL": "https://github.com/ignacionelson/ProjectSend/pull/448/commits/6c3710430be26feb5371cb0377e5355d6f9a27ca",
+        "Commit SHA": "6c3710430be26feb5371cb0377e5355d6f9a27ca",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross-site scripting (XSS) vulnerability in ProjectSend (formerly cFTP) before commit 6c3710430be26feb5371cb0377e5355d6f9a27ca allows remote attackers to inject arbitrary web script or HTML via the Description field in My account Name updated, related to home.php and actions-log.php.",
         "URL": "https://github.com/ignacionelson/ProjectSend/pull/448/commits/6c3710430be26feb5371cb0377e5355d6f9a27ca",
+        "Commit SHA": "6c3710430be26feb5371cb0377e5355d6f9a27ca",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
