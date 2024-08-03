@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "Home Assistant before 0.67.0 was vulnerable to an information disclosure that allowed an unauthenticated attacker to read the application's error log via components/api.py.",
         "URL": "https://github.com/home-assistant/home-assistant/pull/13836",
+        "Commit SHA": "20ababec3e28ced91fc3d3e79b229612a3d9c99d",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
