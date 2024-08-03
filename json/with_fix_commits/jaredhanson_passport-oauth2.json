@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "The passport-oauth2 package before 1.6.1 for Node.js mishandles the error condition of failure to obtain an access token. This is exploitable in certain use cases where an OAuth identity provider uses an HTTP 200 status code for authentication-failure error reports, and an application grants authorization upon simply receiving the access token (i.e., does not try to use the token). NOTE: the passport-oauth2 vendor does not consider this a passport-oauth2 vulnerability",
         "URL": "https://github.com/jaredhanson/passport-oauth2/pull/144",
+        "Commit SHA": "4f8f86cbed25414902405e16391857a2c8a5e4ea",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
