@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.",
         "URL": "https://github.com/hedgedoc/hedgedoc/pull/1369",
+        "Commit SHA": "1d082ae827512103abe6d36cbc2f69c51acecd68",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.",
         "URL": "https://github.com/hedgedoc/hedgedoc/pull/1513",
+        "Commit SHA": "fc1aec6cb4bf5d0078e50c006f5c7caea796384d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-79",
         "Description": "HedgeDoc is a platform to write and share markdown. In versions prior to 1.9.0, an unauthenticated attacker can inject arbitrary JavaScript into the speaker-notes of the slide-mode feature by embedding an iframe hosting the malicious code into the slides or by embedding the HedgeDoc instance into another page. The problem is patched in version 1.9.0. There are no known workarounds aside from upgrading.",
         "URL": "https://github.com/hedgedoc/hedgedoc/pull/1375",
+        "Commit SHA": "960f5c1b22233b0829f8b313e5592ebd59cd2593",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-289",
         "Description": "HedgeDoc is software for creating real-time collaborative markdown notes. Prior to version 1.9.9, the API of HedgeDoc 1 can be used to create notes with an alias matching the ID of existing notes. The affected existing note can then not be accessed anymore and is effectively hidden by the new one.\n\nWhen the freeURL feature is enabled (by setting the `allowFreeURL` config option or the `CMD_ALLOW_FREEURL` environment variable to `true`), any user with the appropriate permissions can create a note by making a POST request to the `/new/<ALIAS>` API endpoint. The `<ALIAS>` parameter can be set to the ID of an existing note. HedgeDoc did not verify whether the provided `<ALIAS>` value corresponds to a valid ID of an existing note and always allowed creation of the new note. When a visitor tried to access the existing note, HedgeDoc will first search for a note with a matching alias before it searches using the ID, therefore only the new note can be accessed.\n\nDepending on the permission settings of the HedgeDoc instance, the issue can be exploited only by logged-in users or by all (including non-logged-in) users. The exploit requires knowledge of the ID of the target note. Attackers could use this issue to present a manipulated copy of the original note to the user, e.g. by replacing the links with malicious ones. Attackers can also use this issue to prevent access to the original note, causing a denial of service. No data is lost, as the original content of the affected notes is still present in the database.\n\nThis issue was fixed in version 1.9.9. As a workaround, disabling freeURL mode prevents the exploitation of this issue. The impact can be limited by restricting freeURL note creation to trusted, logged-in users by enabling `requireFreeURLAuthentication`/`CMD_REQUIRE_FREEURL_AUTHENTICATION`.",
         "URL": "https://github.com/hedgedoc/hedgedoc/pull/4476/commits/781263ab84255885e1fe60c7e92e2f8d611664d2",
+        "Commit SHA": "cd26aaa86ec58b6480c8a5efb017622fdc945b52",
         "Tag": "['Patch']"
     }
 ]
