@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "jquery/jquery",
+        "CVE_ID": "CVE-2015-9251",
+        "Problem_Type": "CWE-79",
+        "Description": "jQuery before 3.0.0 is vulnerable to Cross-site Scripting (XSS) attacks when a cross-domain Ajax request is performed without the dataType option, causing text/javascript responses to be executed.",
+        "URL": "https://github.com/jquery/jquery/pull/2588/commits/c254d308a7d3f1eac4d0b42837804cfffcba4bb2",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "jquery/jquery",
+        "CVE_ID": "CVE-2015-9251",
+        "Problem_Type": "CWE-79",
+        "Description": "jQuery before 3.0.0 is vulnerable to Cross-site Scripting (XSS) attacks when a cross-domain Ajax request is performed without the dataType option, causing text/javascript responses to be executed.",
+        "URL": "https://github.com/jquery/jquery/pull/2588",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "jquery/jquery",
+        "CVE_ID": "CVE-2016-10707",
+        "Problem_Type": "CWE-674",
+        "Description": "jQuery 3.0.0-rc.1 is vulnerable to Denial of Service (DoS) due to removing a logic that lowercased attribute names. Any attribute getter using a mixed-cased name for boolean attributes goes into an infinite recursion, exceeding the stack call limit.",
+        "URL": "https://github.com/jquery/jquery/pull/3134",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "jquery/jquery",
+        "CVE_ID": "CVE-2019-11358",
+        "Problem_Type": "CWE-1321",
+        "Description": "jQuery before 3.4.0, as used in Drupal, Backdrop CMS, and other products, mishandles jQuery.extend(true, {}, ...) because of Object.prototype pollution. If an unsanitized source object contained an enumerable __proto__ property, it could extend the native Object.prototype.",
+        "URL": "https://github.com/jquery/jquery/pull/4333",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

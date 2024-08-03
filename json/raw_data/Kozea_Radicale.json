@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "Kozea/Radicale",
+        "CVE_ID": "CVE-2015-8747",
+        "Problem_Type": "CWE-20",
+        "Description": "The multifilesystem storage backend in Radicale before 1.1 allows remote attackers to read or write to arbitrary files via a crafted component name.",
+        "URL": "https://github.com/Kozea/Radicale/pull/343",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "Kozea/Radicale",
+        "CVE_ID": "CVE-2015-8748",
+        "Problem_Type": "CWE-264",
+        "Description": "Radicale before 1.1 allows remote authenticated users to bypass owner_write and owner_only limitations via regex metacharacters in the user name, as demonstrated by \".*\".",
+        "URL": "https://github.com/Kozea/Radicale/pull/341",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "Kozea/Radicale",
+        "CVE_ID": "CVE-2016-1505",
+        "Problem_Type": "CWE-21",
+        "Description": "The filesystem storage backend in Radicale before 1.1 on Windows allows remote attackers to read or write to arbitrary files via a crafted path, as demonstrated by /c:/file/ignore.",
+        "URL": "https://github.com/Kozea/Radicale/pull/343",
+        "Tag": "['Patch']"
+    }
+]

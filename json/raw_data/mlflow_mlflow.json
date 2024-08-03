@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "mlflow/mlflow",
+        "CVE_ID": "CVE-2023-1177",
+        "Problem_Type": "CWE-29",
+        "Description": "Path Traversal: '\\..\\filename' in GitHub repository mlflow/mlflow prior to 2.2.1.\n\n",
+        "URL": "https://github.com/mlflow/mlflow/pull/7891/commits/7162a50c654792c21f3e4a160eb1a0e6a34f6e6e",
+        "Tag": "['Patch']"
+    }
+]

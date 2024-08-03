@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "mafintosh/json-markup",
+        "CVE_ID": "CVE-2023-36656",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting (XSS) vulnerability in Jaegertracing Jaeger UI before v.1.31.0 allows a remote attacker to execute arbitrary code via the KeyValuesTable component.",
+        "URL": "https://github.com/mafintosh/json-markup/pull/15",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

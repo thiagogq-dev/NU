@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Laracommerce/laracom",
+        "CVE_ID": "CVE-2019-15489",
+        "Problem_Type": "CWE-79",
+        "Description": "laracom (aka Laravel FREE E-Commerce Software) 1.4.11 has search?q= XSS.",
+        "URL": "https://github.com/Laracommerce/laracom/pull/211",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

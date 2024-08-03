@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "mscdex/dicer",
+        "CVE_ID": "CVE-2022-24434",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "This affects all versions of package dicer. A malicious attacker can send a modified form to server, and crash the nodejs service. An attacker could sent the payload again and again so that the service continuously crashes.",
+        "URL": "https://github.com/mscdex/dicer/pull/22/commits/b7fca2e93e8e9d4439d8acc5c02f5e54a0112dac",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "mscdex/dicer",
+        "CVE_ID": "CVE-2022-24434",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "This affects all versions of package dicer. A malicious attacker can send a modified form to server, and crash the nodejs service. An attacker could sent the payload again and again so that the service continuously crashes.",
+        "URL": "https://github.com/mscdex/dicer/pull/22",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

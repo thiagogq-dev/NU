@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "mozilla-mobile/mozilla-vpn-client",
+        "CVE_ID": "CVE-2021-29978",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Multiple low security issues were discovered and fixed in a security audit of Mozilla VPN 2.x branch as part of a 3rd party security audit. This vulnerability affects Mozilla VPN < 2.3.",
+        "URL": "https://github.com/mozilla-mobile/mozilla-vpn-client/pull/816",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "mozilla-mobile/mozilla-vpn-client",
+        "CVE_ID": "CVE-2023-4104",
+        "Problem_Type": "CWE-862",
+        "Description": "An invalid Polkit Authentication check and missing authentication requirements for D-Bus methods allowed any local user to configure arbitrary VPN setups.\n*This bug only affects Mozilla VPN on Linux. Other operating systems are unaffected.* This vulnerability affects Mozilla VPN client for Linux < v2.16.1.",
+        "URL": "https://github.com/mozilla-mobile/mozilla-vpn-client/pull/7055",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "mozilla-mobile/mozilla-vpn-client",
+        "CVE_ID": "CVE-2023-4104",
+        "Problem_Type": "CWE-862",
+        "Description": "An invalid Polkit Authentication check and missing authentication requirements for D-Bus methods allowed any local user to configure arbitrary VPN setups.\n*This bug only affects Mozilla VPN on Linux. Other operating systems are unaffected.* This vulnerability affects Mozilla VPN client for Linux < v2.16.1.",
+        "URL": "https://github.com/mozilla-mobile/mozilla-vpn-client/pull/7110",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

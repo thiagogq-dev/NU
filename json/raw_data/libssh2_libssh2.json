@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "libssh2/libssh2",
+        "CVE_ID": "CVE-2020-22218",
+        "Problem_Type": "CWE-787",
+        "Description": "An issue was discovered in function _libssh2_packet_add in libssh2 1.10.0 allows attackers to access out of bounds memory.",
+        "URL": "https://github.com/libssh2/libssh2/pull/476",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

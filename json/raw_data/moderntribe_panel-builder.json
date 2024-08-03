@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "moderntribe/panel-builder",
+        "CVE_ID": "CVE-2020-36626",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability classified as critical has been found in Modern Tribe Panel Builder Plugin. Affected is the function add_post_content_filtered_to_search_sql of the file ModularContent/SearchFilter.php. The manipulation leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The name of the patch is 4528d4f855dbbf24e9fc12a162fda84ce3bedc2f. It is recommended to apply a patch to fix this issue. VDB-216738 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/moderntribe/panel-builder/pull/173",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

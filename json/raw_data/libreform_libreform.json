@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "libreform/libreform",
+        "CVE_ID": "CVE-2022-34867",
+        "Problem_Type": "CWE-668",
+        "Description": "Unauthenticated Sensitive Information Disclosure vulnerability in WP Libre Form 2 plugin <= 2.0.8 at WordPress allows attackers to list and delete submissions. Affects only versions from 2.0.0 to 2.0.8.",
+        "URL": "https://github.com/libreform/libreform/pull/54/files",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

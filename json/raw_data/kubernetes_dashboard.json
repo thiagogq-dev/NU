@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "kubernetes/dashboard",
+        "CVE_ID": "CVE-2018-18264",
+        "Problem_Type": "CWE-306",
+        "Description": "Kubernetes Dashboard before 1.10.1 allows attackers to bypass authentication and use Dashboard's Service Account for reading secrets within the cluster.",
+        "URL": "https://github.com/kubernetes/dashboard/pull/3400",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "kubernetes/dashboard",
+        "CVE_ID": "CVE-2018-18264",
+        "Problem_Type": "CWE-306",
+        "Description": "Kubernetes Dashboard before 1.10.1 allows attackers to bypass authentication and use Dashboard's Service Account for reading secrets within the cluster.",
+        "URL": "https://github.com/kubernetes/dashboard/pull/3289",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

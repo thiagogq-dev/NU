@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Kareadita/Kavita",
+        "CVE_ID": "CVE-2023-0919",
+        "Problem_Type": "CWE-306",
+        "Description": "Missing Authentication for Critical Function in GitHub repository kareadita/kavita prior to 0.7.0.\n\n",
+        "URL": "https://github.com/Kareadita/Kavita/pull/1748/commits/6648b79e1b2f92449d5816d0722b7a3d72f259d5",
+        "Tag": "['Patch']"
+    }
+]

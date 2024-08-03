@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "lh3/bwa",
+        "CVE_ID": "CVE-2019-10269",
+        "Problem_Type": "CWE-787",
+        "Description": "BWA (aka Burrow-Wheeler Aligner) before 2019-01-23 has a stack-based buffer overflow in the bns_restore function in bntseq.c via a long sequence name in a .alt file.",
+        "URL": "https://github.com/lh3/bwa/pull/232",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]
