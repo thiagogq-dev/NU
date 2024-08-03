@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "The package smoothie from 1.31.0 and before 1.36.1 are vulnerable to Cross-site Scripting (XSS) due to improper user input sanitization in strokeStyle and tooltipLabel properties. Exploiting this vulnerability is possible when the user can control these properties.",
         "URL": "https://github.com/joewalnes/smoothie/pull/147",
+        "Commit SHA": "8e0920d50da82f4b6e605d56f41b69fbb9606a98",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
