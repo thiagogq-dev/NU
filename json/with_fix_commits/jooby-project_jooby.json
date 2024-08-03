@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Jooby before 1.6.4 has XSS via the default error handler.",
         "URL": "https://github.com/jooby-project/jooby/pull/1368",
+        "Commit SHA": "27b4af283de1a2c2a6b0530039b46eef75ddf655",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
