@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-74",
         "Description": "In LangChain through 0.0.131, the LLMMathChain chain allows prompt injection attacks that can execute arbitrary code via the Python exec method.",
         "URL": "https://github.com/hwchase17/langchain/pull/1119",
+        "Commit SHA": null,
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-74",
         "Description": "An issue in langchain v.0.0.64 allows a remote attacker to execute arbitrary code via the PALChain parameter in the Python exec method.",
         "URL": "https://github.com/hwchase17/langchain/pull/6003",
+        "Commit SHA": "2988514f978f43701014244e675357d0e547af96",
         "Tag": "['Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in langchain before v0.0.247 allows a remote attacker to obtain sensitive information via the SQLDatabaseChain component.",
         "URL": "https://github.com/hwchase17/langchain/pull/6051",
+        "Commit SHA": null,
         "Tag": "['Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-74",
         "Description": "An issue in Harrison Chase langchain v.0.0.194 and before allows a remote attacker to execute arbitrary code via the from_math_prompt and from_colored_object_prompt functions.",
         "URL": "https://github.com/hwchase17/langchain/pull/6003",
+        "Commit SHA": "2988514f978f43701014244e675357d0e547af96",
         "Tag": "['Patch']"
     }
 ]
