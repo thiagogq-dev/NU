@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "json-c through 0.14 has an integer overflow and out-of-bounds write via a large JSON file, as demonstrated by printbuf_memappend.",
         "URL": "https://github.com/json-c/json-c/pull/592",
+        "Commit SHA": "31243e4d1204ef78be34b0fcae73221eee6b83be",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
