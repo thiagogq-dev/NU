@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-310",
         "Description": "HashiCorp Consul 0.5.1 through 1.4.0 can use cleartext agent-to-agent RPC communication because the verify_outgoing setting is improperly documented. NOTE: the vendor has provided reconfiguration steps that do not require a software upgrade.",
         "URL": "https://github.com/hashicorp/consul/pull/5069",
+        "Commit SHA": "b64e8b262f80397eab4f39c6ae7e14683cb9f55c",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-404",
         "Description": "HashiCorp Consul and Consul Enterprise could crash when configured with an abnormally-formed service-router entry. Introduced in 1.6.0, fixed in 1.6.6 and 1.7.4.",
         "URL": "https://github.com/hashicorp/consul/pull/7783",
+        "Commit SHA": "69b44fb9424cfdc05f1b7243876ab10d236ef1fc",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "HashiCorp Consul and Consul Enterprise failed to enforce changes to legacy ACL token rules due to non-propagation to secondary data centers. Introduced in 1.4.0, fixed in 1.6.6 and 1.7.4.",
         "URL": "https://github.com/hashicorp/consul/pull/8047",
+        "Commit SHA": "98eea08d3ba1b220a14cf6eedf3b6b07ae2795d7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-20",
         "Description": "HashiCorp Consul and Consul Enterprise did not appropriately enforce scope for local tokens issued by a primary data center, where replication to a secondary data center was not enabled. Introduced in 1.4.0, fixed in 1.6.6 and 1.7.4.",
         "URL": "https://github.com/hashicorp/consul/pull/8068",
+        "Commit SHA": "242994a016a181d6c62a5bb83189716ad13d4216",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-770",
         "Description": "HashiCorp Consul and Consul Enterprise include an HTTP API (introduced in 1.2.0) and DNS (introduced in 1.4.3) caching feature that was vulnerable to denial of service. Fixed in 1.6.6 and 1.7.4.",
         "URL": "https://github.com/hashicorp/consul/pull/8023",
+        "Commit SHA": "72f92ae7ca4cabc1dc3069362a9b64ef46941432",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
