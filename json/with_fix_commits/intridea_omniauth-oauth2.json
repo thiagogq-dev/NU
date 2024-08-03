@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-352",
         "Description": "Cross-site request forgery (CSRF) vulnerability in the omniauth-oauth2 gem 1.1.1 and earlier for Ruby allows remote attackers to hijack the authentication of users for requests that modify session state.",
         "URL": "https://github.com/intridea/omniauth-oauth2/pull/25",
+        "Commit SHA": "64f006a93a0673c781be9b0d72fb48c68fcc95a6",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
