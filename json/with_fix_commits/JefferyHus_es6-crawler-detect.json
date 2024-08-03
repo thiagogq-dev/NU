@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "This affects the package es6-crawler-detect before 3.1.3. No limitation of user agent string length supplied to regex operators.",
         "URL": "https://github.com/JefferyHus/es6-crawler-detect/pull/27",
+        "Commit SHA": "33acc7d201ef42a053edba43c49de6a85a7cba4c",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
