@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "In Jellyfin before 10.8, the /users endpoint has incorrect access control for admin functionality.",
         "URL": "https://github.com/jellyfin/jellyfin/pull/7569/files",
+        "Commit SHA": "a7abdca47a1d749aac9cb5315fda6fbcab8c6e3b",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "In Jellyfin before 10.8, stored XSS allows theft of an admin access token.",
         "URL": "https://github.com/jellyfin/jellyfin/pull/7569/files",
+        "Commit SHA": "a7abdca47a1d749aac9cb5315fda6fbcab8c6e3b",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Jellyfin is a free-software media system. Versions starting with 10.8.0 and prior to 10.8.10 and prior have a directory traversal vulnerability inside the `ClientLogController`, specifically `/ClientLog/Document`. When combined with a cross-site scripting vulnerability (CVE-2023-30627), this can result in file write and arbitrary code execution. Version 10.8.10 has a patch for this issue. There are no known workarounds.",
         "URL": "https://github.com/jellyfin/jellyfin/pull/5918",
+        "Commit SHA": "0ee43f897b4c06c23cb741e85908527a46687769",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
