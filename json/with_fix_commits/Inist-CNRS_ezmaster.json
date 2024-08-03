@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "The admin sys mode is now conditional and dedicated for the special case. By default, since ezmaster@5.2.11 no instance (container) is launched with advanced capabilities (not launched as root)",
         "URL": "https://github.com/Inist-CNRS/ezmaster/pull/51",
+        "Commit SHA": "d329624ccdcf02d1c7cb3799f0397300f27c9160",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
