@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-862",
         "Description": "HumHub is an open-source social network kit written in PHP. Prior to HumHub version 1.10.3 or 1.9.3, it could be possible for registered users to become unauthorized members of private Spaces. Versions 1.10.3 and 1.9.3 contain a patch for this issue.",
         "URL": "https://github.com/humhub/humhub/pull/5473",
+        "Commit SHA": "46004a8670b5cbe1a6988d016a6f90b621422f7b",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
