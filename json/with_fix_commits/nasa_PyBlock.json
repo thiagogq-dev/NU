@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-502",
         "Description": "NASA Pyblock version v1.0 - v1.3 contains a CWE-502 vulnerability in Radar data parsing library that can result in remote code execution. This attack appear to be exploitable via Victim opening a specially crafted radar data file. This vulnerability appears to have been fixed in v1.4.",
         "URL": "https://github.com/nasa/PyBlock/pull/5",
+        "Commit SHA": "f53094b3c2ab81daa642424fe3d636960a9ed93e",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
