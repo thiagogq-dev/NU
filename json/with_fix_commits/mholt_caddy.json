@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "Caddy through 0.11.0 sends incorrect certificates for certain invalid requests, making it easier for attackers to enumerate hostnames. Specifically, when unable to match a Host header with a vhost in its configuration, it serves the X.509 certificate for a randomly selected vhost in its configuration. Repeated requests (with a nonexistent hostname in the Host header) permit full enumeration of all certificates on the server. This generally permits an attacker to easily and accurately discover the existence of and relationships among hostnames that weren't meant to be public, though this information could likely have been discovered via other methods with additional effort.",
         "URL": "https://github.com/mholt/caddy/pull/2015",
+        "Commit SHA": "986d4ffe3de32dcb81d334d603a2f0f1d460eb2f",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
