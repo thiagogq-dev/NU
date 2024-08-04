@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "getchar.c in Vim before 8.1.1365 and Neovim before 0.3.6 allows remote attackers to execute arbitrary OS commands via the :source! command in a modeline, as demonstrated by execute in Vim, and assert_fails or nvim_input in Neovim.",
         "URL": "https://github.com/neovim/neovim/pull/10082",
+        "Commit SHA": "4553fc5e6cb6c8c43f57c173d01b31a61e51d13f",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
