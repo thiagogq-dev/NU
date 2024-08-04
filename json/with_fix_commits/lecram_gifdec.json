@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-125",
         "Description": "Gifdec commit 1dcbae19363597314f6623010cc80abad4e47f7c was discovered to contain an out-of-bounds read in the function read_image_data. This vulnerability is triggered when parsing a crafted Gif file.",
         "URL": "https://github.com/lecram/gifdec/pull/23",
+        "Commit SHA": null,
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
