@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "moment is a JavaScript date library for parsing, validating, manipulating, and formatting dates. Affected versions of moment were found to use an inefficient parsing algorithm. Specifically using string-to-date parsing in moment (more specifically rfc2822 parsing, which is tried by default) has quadratic (N^2) complexity on specific inputs. Users may notice a noticeable slowdown is observed with inputs above 10k characters. Users who pass user-provided strings without sanity length checks to moment constructor are vulnerable to (Re)DoS attacks. The problem is patched in 2.29.4, the patch can be applied to all affected versions with minimal tweaking. Users are advised to upgrade. Users unable to upgrade should consider limiting date lengths accepted from user input.",
         "URL": "https://github.com/moment/moment/pull/6015#issuecomment-1152961973",
+        "Commit SHA": "7aebb1617fc9bced87ab6bc4c317644019b23ce7",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "Luxon is a library for working with dates and times in JavaScript. On the 1.x branch prior to 1.38.1, the 2.x branch prior to 2.5.2, and the 3.x branch on 3.2.1, Luxon's `DateTime.fromRFC2822() has quadratic (N^2) complexity on some specific inputs. This causes a noticeable slowdown for inputs with lengths above 10k characters. Users providing untrusted data to this method are therefore vulnerable to (Re)DoS attacks. This issue also appears in Moment as CVE-2022-31129. Versions 1.38.1, 2.5.2, and 3.2.1 contain patches for this issue. As a workaround, limit the length of the input.",
         "URL": "https://github.com/moment/moment/pull/6015#issuecomment-1152961973",
+        "Commit SHA": "7aebb1617fc9bced87ab6bc4c317644019b23ce7",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
