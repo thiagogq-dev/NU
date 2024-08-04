@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "In Moonlight iOS/tvOS before 4.0.1, the pairing process is vulnerable to a man-in-the-middle attack. The bug has been fixed in Moonlight v4.0.1 for iOS and tvOS.",
         "URL": "https://github.com/moonlight-stream/moonlight-ios/pull/405",
+        "Commit SHA": "b0149b2fe9125a77ee11fe133382673694b6e8cc",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
