@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-119",
         "Description": "An issue was discovered in the safe-transmute crate before 0.10.1 for Rust. A constructor's arguments are in the wrong order, causing heap memory corruption.",
         "URL": "https://github.com/nabijaczleweli/safe-transmute-rs/pull/36",
+        "Commit SHA": "a134e06d740f9d7c287f74c0af2cd06206774364",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
