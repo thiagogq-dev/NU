@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "orangehrm/orangehrm",
+        "CVE_ID": "CVE-2019-12839",
+        "Problem_Type": "CWE-78",
+        "Description": "In OrangeHRM 4.3.1 and before, there is an input validation error within admin/listMailConfiguration (txtSendmailPath parameter) that allows authenticated attackers to achieve arbitrary command execution.",
+        "URL": "https://github.com/orangehrm/orangehrm/pull/528",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "orangehrm/orangehrm",
+        "CVE_ID": "CVE-2020-29437",
+        "Problem_Type": "CWE-89",
+        "Description": "SQL injection in the Buzz module of OrangeHRM through 4.6 allows remote authenticated attackers to execute arbitrary SQL commands via the orangehrmBuzzPlugin/lib/dao/BuzzDao.php loadMorePostsForm[profileUserId] parameter to the buzz/loadMoreProfile endpoint.",
+        "URL": "https://github.com/orangehrm/orangehrm/pull/699",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "NixOS/patchelf",
+        "CVE_ID": "CVE-2022-44940",
+        "Problem_Type": "CWE-125",
+        "Description": "Patchelf v0.9 was discovered to contain an out-of-bounds read via the function modifyRPath at src/patchelf.cc.",
+        "URL": "https://github.com/NixOS/patchelf/pull/419",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

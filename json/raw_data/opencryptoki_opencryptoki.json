@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "opencryptoki/opencryptoki",
+        "CVE_ID": "CVE-2021-3798",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "A flaw was found in openCryptoki. The openCryptoki Soft token does not check if an EC key is valid when an EC key is created via C_CreateObject, nor when C_DeriveKey is used with ECDH public data. This may allow a malicious user to extract the private key by performing an invalid curve attack.",
+        "URL": "https://github.com/opencryptoki/opencryptoki/pull/402",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

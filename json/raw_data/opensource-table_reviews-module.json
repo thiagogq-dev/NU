@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "opensource-table/reviews-module",
+        "CVE_ID": "CVE-2019-15560",
+        "Problem_Type": "CWE-89",
+        "Description": "The Reviews Module before 2019-06-14 for OpenSource Table allows SQL injection in database/index.js.",
+        "URL": "https://github.com/opensource-table/reviews-module/pull/6",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

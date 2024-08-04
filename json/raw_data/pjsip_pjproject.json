@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "pjsip/pjproject",
+        "CVE_ID": "CVE-2020-15260",
+        "Problem_Type": "CWE-295",
+        "Description": "PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In version 2.10 and earlier, PJSIP transport can be reused if they have the same IP address + port + protocol. However, this is insufficient for secure transport since it lacks remote hostname authentication. Suppose we have created a TLS connection to `sip.foo.com`, which has an IP address `100.1.1.1`. If we want to create a TLS connection to another hostname, say `sip.bar.com`, which has the same IP address, then it will reuse that existing connection, even though `100.1.1.1` does not have certificate to authenticate as `sip.bar.com`. The vulnerability allows for an insecure interaction without user awareness. It affects users who need access to connections to different destinations that translate to the same address, and allows man-in-the-middle attack if attacker can route a connection to another destination such as in the case of DNS spoofing.",
+        "URL": "https://github.com/pjsip/pjproject/pull/2663",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "pjsip/pjproject",
+        "CVE_ID": "CVE-2021-32686",
+        "Problem_Type": "CWE-362",
+        "Description": "PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In PJSIP before version 2.11.1, there are a couple of issues found in the SSL socket. First, a race condition between callback and destroy, due to the accepted socket having no group lock. Second, the SSL socket parent/listener may get destroyed during handshake. Both issues were reported to happen intermittently in heavy load TLS connections. They cause a crash, resulting in a denial of service. These are fixed in version 2.11.1.",
+        "URL": "https://github.com/pjsip/pjproject/pull/2716",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "pjsip/pjproject",
+        "CVE_ID": "CVE-2021-43845",
+        "Problem_Type": "CWE-125",
+        "Description": "PJSIP is a free and open source multimedia communication library. In version 2.11.1 and prior, if incoming RTCP XR message contain block, the data field is not checked against the received packet size, potentially resulting in an out-of-bound read access. This affects all users that use PJMEDIA and RTCP XR. A malicious actor can send a RTCP XR message with an invalid packet size.",
+        "URL": "https://github.com/pjsip/pjproject/pull/2924",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

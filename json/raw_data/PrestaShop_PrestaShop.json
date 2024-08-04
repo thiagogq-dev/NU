@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "CVE_ID": "CVE-2018-19124",
+        "Problem_Type": "CWE-22",
+        "Description": "PrestaShop 1.6.x before 1.6.1.23 and 1.7.x before 1.7.4.4 on Windows allows remote attackers to write to arbitrary image files.",
+        "URL": "https://github.com/PrestaShop/PrestaShop/pull/11286",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "CVE_ID": "CVE-2018-19124",
+        "Problem_Type": "CWE-22",
+        "Description": "PrestaShop 1.6.x before 1.6.1.23 and 1.7.x before 1.7.4.4 on Windows allows remote attackers to write to arbitrary image files.",
+        "URL": "https://github.com/PrestaShop/PrestaShop/pull/11285",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "CVE_ID": "CVE-2018-19125",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "PrestaShop 1.6.x before 1.6.1.23 and 1.7.x before 1.7.4.4 allows remote attackers to delete an image directory.",
+        "URL": "https://github.com/PrestaShop/PrestaShop/pull/11286",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "CVE_ID": "CVE-2018-19125",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "PrestaShop 1.6.x before 1.6.1.23 and 1.7.x before 1.7.4.4 allows remote attackers to delete an image directory.",
+        "URL": "https://github.com/PrestaShop/PrestaShop/pull/11285",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "CVE_ID": "CVE-2018-19126",
+        "Problem_Type": "CWE-434",
+        "Description": "PrestaShop 1.6.x before 1.6.1.23 and 1.7.x before 1.7.4.4 allows remote attackers to execute arbitrary code via a file upload.",
+        "URL": "https://github.com/PrestaShop/PrestaShop/pull/11286",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "CVE_ID": "CVE-2018-19126",
+        "Problem_Type": "CWE-434",
+        "Description": "PrestaShop 1.6.x before 1.6.1.23 and 1.7.x before 1.7.4.4 allows remote attackers to execute arbitrary code via a file upload.",
+        "URL": "https://github.com/PrestaShop/PrestaShop/pull/11285",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "PrestaShop/PrestaShop",
+        "CVE_ID": "CVE-2020-6632",
+        "Problem_Type": "CWE-79",
+        "Description": "In PrestaShop 1.7.6.2, XSS can occur during addition or removal of a QuickAccess link. This is related to AdminQuickAccessesController.php, themes/default/template/header.tpl, and themes/new-theme/js/header.js.",
+        "URL": "https://github.com/PrestaShop/PrestaShop/pull/17050/commits",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

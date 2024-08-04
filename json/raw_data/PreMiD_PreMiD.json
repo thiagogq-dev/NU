@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "PreMiD/PreMiD",
+        "CVE_ID": "CVE-2020-24928",
+        "Problem_Type": "CWE-862",
+        "Description": "managers/socketManager.ts in PreMiD through 2.1.3 has a locally hosted socketio web server (port 3020) open to all origins, which allows attackers to obtain sensitive Discord user information.",
+        "URL": "https://github.com/PreMiD/PreMiD/pull/501",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "PreMiD/PreMiD",
+        "CVE_ID": "CVE-2021-46701",
+        "Problem_Type": "CWE-346",
+        "Description": "PreMiD 2.2.0 allows unintended access via the websocket transport. An attacker can receive events from a socket and emit events to a socket, potentially interfering with a victim's \"now playing\" status on Discord.",
+        "URL": "https://github.com/PreMiD/PreMiD/pull/791",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

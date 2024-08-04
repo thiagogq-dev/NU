@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "nextcloud/talk-android",
+        "CVE_ID": "CVE-2021-41181",
+        "Problem_Type": "CWE-287",
+        "Description": "Nextcloud talk is a self hosting messaging service. In versions prior to 12.3.0 the Nextcloud Android Talk application did not properly detect the lockscreen state when a call was incoming. If an attacker got physical access to the locked phone, and the victim received a phone call the attacker could gain access to the chat messages and files of the user. It is recommended that the Nextcloud Android Talk App is upgraded to 12.3.0. There are no known workarounds.",
+        "URL": "https://github.com/nextcloud/talk-android/pull/1585",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nextcloud/talk-android",
+        "CVE_ID": "CVE-2022-41926",
+        "Problem_Type": "CWE-200",
+        "Description": "Nextcould talk android is the android OS implementation of the nextcloud talk chat system. In affected versions the receiver is not protected by broadcastPermission allowing malicious apps to monitor communication. It is recommended that the Nextcloud Talk Android is upgraded to 14.1.0. There are no known workarounds for this issue.",
+        "URL": "https://github.com/nextcloud/talk-android/pull/2148",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nextcloud/talk-android",
+        "CVE_ID": "CVE-2023-22473",
+        "Problem_Type": "CWE-284",
+        "Description": "Talk-Android enables users to have video & audio calls through Nextcloud on Android. Due to passcode bypass, an attacker is able to access the user's Nextcloud files and view conversations. To exploit this the attacker needs to have physical access to the target's device. There are currently no known workarounds available. It is recommended that the Nextcloud Talk Android app is upgraded to 15.0.2. \n",
+        "URL": "https://github.com/nextcloud/talk-android/pull/2598",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nextcloud/talk-android",
+        "CVE_ID": "CVE-2023-39957",
+        "Problem_Type": "CWE-22",
+        "Description": "Nextcloud Talk Android allows users to place video and audio calls through Nextcloud on Android. Prior to version 17.0.0, an unprotected intend allowed malicious third party apps to trick the Talk Android app into writing files outside of its intended cache directory. Nextcloud Talk Android version 17.0.0 has a patch for this issue. No known workarounds are available.",
+        "URL": "https://github.com/nextcloud/talk-android/pull/3064",
+        "Tag": "['Patch']"
+    }
+]

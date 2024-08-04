@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "phpseclib/phpseclib",
+        "CVE_ID": "CVE-2021-30130",
+        "Problem_Type": "CWE-347",
+        "Description": "phpseclib before 2.0.31 and 3.x before 3.0.7 mishandles RSA PKCS#1 v1.5 signature verification.",
+        "URL": "https://github.com/phpseclib/phpseclib/pull/1635",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "nedap/mysql-binuuid-rails",
+        "CVE_ID": "CVE-2018-18476",
+        "Problem_Type": "CWE-89",
+        "Description": "mysql-binuuid-rails 1.1.0 and earlier allows SQL Injection because it removes default string escaping for affected database columns.",
+        "URL": "https://github.com/nedap/mysql-binuuid-rails/pull/18",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

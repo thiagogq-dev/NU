@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "OHDSI/WebAPI",
+        "CVE_ID": "CVE-2019-15563",
+        "Problem_Type": "CWE-89",
+        "Description": "Observational Health Data Sciences and Informatics (OHDSI) WebAPI before 2.7.2 allows SQL injection in FeatureExtractionService.java.",
+        "URL": "https://github.com/OHDSI/WebAPI/pull/1101",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

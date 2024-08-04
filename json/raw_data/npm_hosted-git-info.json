@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "npm/hosted-git-info",
+        "CVE_ID": "CVE-2021-29063",
+        "Problem_Type": "CWE-770",
+        "Description": "A Regular Expression Denial of Service (ReDOS) vulnerability was discovered in Mpmath v1.0.0 through v1.2.1 when the mpmathify function is called.",
+        "URL": "https://github.com/npm/hosted-git-info/pull/76",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

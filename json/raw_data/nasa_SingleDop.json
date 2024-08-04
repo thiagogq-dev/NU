@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "nasa/SingleDop",
+        "CVE_ID": "CVE-2018-1000045",
+        "Problem_Type": "CWE-502",
+        "Description": "NASA Singledop version v1.0 contains a CWE-502 vulnerability in NASA Singledop library (Weather data) that can result in remote code execution. This attack appear to be exploitable via Victim opening a specially crafted radar data file. This vulnerability appears to have been fixed in v1.1.",
+        "URL": "https://github.com/nasa/SingleDop/pull/19",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

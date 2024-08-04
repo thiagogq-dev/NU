@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "OSGeo/gdal",
+        "CVE_ID": "CVE-2021-45943",
+        "Problem_Type": "CWE-787",
+        "Description": "GDAL 3.3.0 through 3.4.0 has a heap-based buffer overflow in PCIDSK::CPCIDSKFile::ReadFromFile (called from PCIDSK::CPCIDSKSegment::ReadFromFile and PCIDSK::CPCIDSKBinarySegment::CPCIDSKBinarySegment).",
+        "URL": "https://github.com/OSGeo/gdal/pull/4944",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

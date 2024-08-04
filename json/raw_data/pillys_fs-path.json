@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "pillys/fs-path",
+        "CVE_ID": "CVE-2020-8298",
+        "Problem_Type": "CWE-77",
+        "Description": "fs-path node module before 0.0.25 is vulnerable to command injection by way of user-supplied inputs via the `copy`, `copySync`, `remove`, and `removeSync` methods.",
+        "URL": "https://github.com/pillys/fs-path/pull/6",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

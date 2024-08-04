@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "petl-developers/petl",
+        "CVE_ID": "CVE-2020-29128",
+        "Problem_Type": "CWE-91",
+        "Description": "petl before 1.68, in some configurations, allows resolution of entities in an XML document.",
+        "URL": "https://github.com/petl-developers/petl/pull/527",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "petl-developers/petl",
+        "CVE_ID": "CVE-2020-29128",
+        "Problem_Type": "CWE-91",
+        "Description": "petl before 1.68, in some configurations, allows resolution of entities in an XML document.",
+        "URL": "https://github.com/petl-developers/petl/pull/527/commits/1b0a09f08c3cdfe2e69647bd02f97c1367a5b5f8",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

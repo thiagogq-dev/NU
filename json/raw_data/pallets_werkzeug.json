@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "pallets/werkzeug",
+        "CVE_ID": "CVE-2020-28724",
+        "Problem_Type": "CWE-601",
+        "Description": "Open redirect vulnerability in werkzeug before 0.11.6 via a double slash in the URL.",
+        "URL": "https://github.com/pallets/werkzeug/pull/890/files",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

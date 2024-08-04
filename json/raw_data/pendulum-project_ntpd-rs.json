@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "pendulum-project/ntpd-rs",
+        "CVE_ID": "CVE-2023-33192",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "ntpd-rs is an NTP implementation written in Rust. ntpd-rs does not validate the length of NTS cookies in received NTP packets to the server. An attacker can crash the server by sending a specially crafted NTP packet containing a cookie shorter than what the server expects. The server also crashes when it is not configured to handle NTS packets. The issue was caused by improper slice indexing. The indexing operations were replaced by safer alternatives that do not crash the ntpd-rs server process but instead properly handle the error condition. A patch was released in version 0.3.3.",
+        "URL": "https://github.com/pendulum-project/ntpd-rs/pull/752",
+        "Tag": "['Patch']"
+    }
+]

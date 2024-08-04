@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "osmlab/show-me-the-way",
+        "CVE_ID": "CVE-2018-25064",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability was found in OSM Lab show-me-the-way. It has been rated as problematic. This issue affects some unknown processing of the file js/site.js. The manipulation leads to cross site scripting. The attack may be initiated remotely. The patch is named 4bed3b34dcc01fe6661f39c0e5d2285b340f7cac. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-217439.",
+        "URL": "https://github.com/osmlab/show-me-the-way/pull/57",
+        "Tag": "['Patch']"
+    }
+]

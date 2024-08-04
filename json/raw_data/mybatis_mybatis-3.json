@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "mybatis/mybatis-3",
+        "CVE_ID": "CVE-2020-26945",
+        "Problem_Type": "CWE-502",
+        "Description": "MyBatis before 3.5.6 mishandles deserialization of object streams.",
+        "URL": "https://github.com/mybatis/mybatis-3/pull/2079",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

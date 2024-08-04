@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "nextcloud/text",
+        "CVE_ID": "CVE-2021-32733",
+        "Problem_Type": "CWE-79",
+        "Description": "Nextcloud Text is a collaborative document editing application that uses Markdown. A cross-site scripting vulnerability is present in versions prior to 19.0.13, 20.0.11, and 21.0.3. The Nextcloud Text application shipped with Nextcloud server used a `text/html` Content-Type when serving files to users. Due the strict Content-Security-Policy shipped with Nextcloud, this issue is not exploitable on modern browsers supporting Content-Security-Policy. The issue was fixed in versions 19.0.13, 20.0.11, and 21.0.3. As a workaround, use a browser that has support for Content-Security-Policy.",
+        "URL": "https://github.com/nextcloud/text/pull/1689",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nextcloud/text",
+        "CVE_ID": "CVE-2021-32734",
+        "Problem_Type": "CWE-209",
+        "Description": "Nextcloud Server is a Nextcloud package that handles data storage. In versions prior to 19.0.13, 20.011, and 21.0.3, the Nextcloud Text application shipped with Nextcloud Server returned verbatim exception messages to the user. This could result in a full path disclosure on shared files. The issue was fixed in versions 19.0.13, 20.0.11, and 21.0.3. As a workaround, one may disable the Nextcloud Text application in Nextcloud Server app settings.",
+        "URL": "https://github.com/nextcloud/text/pull/1695",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nextcloud/text",
+        "CVE_ID": "CVE-2021-32766",
+        "Problem_Type": "CWE-209",
+        "Description": "Nextcloud Text is an open source plaintext editing application which ships with the nextcloud server. In affected versions the Nextcloud Text application returned different error messages depending on whether a folder existed in a public link share. This is problematic in case the public link share has been created with \"Upload Only\" privileges. (aka \"File Drop\"). A link share recipient is not expected to see which folders or files exist in a \"File Drop\" share. Using this vulnerability an attacker is able to enumerate folders in such a share. Exploitation requires that the attacker has access to a valid affected \"File Drop\" link share. It is recommended that the Nextcloud Server is upgraded to 20.0.12, 21.0.4 or 22.0.1. Users who are unable to upgrade are advised to disable the Nextcloud Text application in the app settings.",
+        "URL": "https://github.com/nextcloud/text/pull/1716",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nextcloud/text",
+        "CVE_ID": "CVE-2021-41233",
+        "Problem_Type": "CWE-863",
+        "Description": "Nextcloud text is a collaborative document editing using Markdown built for the nextcloud server. Due to an issue with the Nextcloud Text application, which is by default shipped with Nextcloud Server, an attacker is able to access the folder names of \"File Drop\". For successful exploitation an attacker requires knowledge of the sharing link. It is recommended that users upgrade their Nextcloud Server to 20.0.14, 21.0.6 or 22.2.1. Users unable to upgrade should disable the Nextcloud Text application in the application settings.",
+        "URL": "https://github.com/nextcloud/text/pull/1884",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nextcloud/text",
+        "CVE_ID": "CVE-2023-32318",
+        "Problem_Type": "CWE-613",
+        "Description": "Nextcloud server provides a home for data. A regression in the session handling between Nextcloud Server and the Nextcloud Text app prevented a correct destruction of the session on logout if cookies were not cleared manually. After successfully authenticating with any other account the previous session would be continued and the attacker would be authenticated as the previously logged in user. It is recommended that the Nextcloud Server is upgraded to 25.0.6 or 26.0.1.",
+        "URL": "https://github.com/nextcloud/text/pull/3946",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "nextcloud/text",
+        "CVE_ID": "CVE-2023-39961",
+        "Problem_Type": "CWE-284",
+        "Description": "Nextcloud Server provides data storage for Nextcloud, an open source cloud platform. Starting in version 24.0.4 and prior to versions 25.0.9, 26.0.4, and 27.0.1, when a folder with images or an image was shared without download permissions, the user could add the image inline into a text file and download it. Nextcloud Server versions 25.0.9, 26.0.4, and 27.0.1 and Nextcloud Enterprise Server versions 24.0.12.5, 25.0.9, 26.0.4, and 27.0.1 contain a patch for this issue. No known workarounds are available.",
+        "URL": "https://github.com/nextcloud/text/pull/4481",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "nextcloud/text",
+        "CVE_ID": "CVE-2023-48302",
+        "Problem_Type": "CWE-79",
+        "Description": "Nextcloud Server provides data storage for Nextcloud, an open source cloud platform. Starting in version 25.0.0 and prior to versions 25.0.13, 26.0.8, and 27.1.3 of Nextcloud Server and Nextcloud Enterprise Server, when a user is tricked into copy pasting HTML code without markup (Ctrl+Shift+V) the markup will actually render. Nextcloud Server and Nextcloud Enterprise Server versions 25.0.13, 26.0.8, and 27.1.3 contain a fix for this issue. As a workaround, disable app text.",
+        "URL": "https://github.com/nextcloud/text/pull/4877",
+        "Tag": "['Patch']"
+    }
+]

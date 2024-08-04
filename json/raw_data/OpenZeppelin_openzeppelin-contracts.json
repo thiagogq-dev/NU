@@ -1,0 +1,82 @@
+[
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2022-31170",
+        "Problem_Type": "CWE-252",
+        "Description": "OpenZeppelin Contracts is a library for smart contract development. Versions 4.0.0 until 4.7.1 are vulnerable to ERC165Checker reverting instead of returning `false`. `ERC165Checker.supportsInterface` is designed to always successfully return a boolean, and under no circumstance revert. However, an incorrect assumption about Solidity 0.8's `abi.decode` allows some cases to revert, given a target contract that doesn't implement EIP-165 as expected, specifically if it returns a value other than 0 or 1. The contracts that may be affected are those that use `ERC165Checker` to check for support for an interface and then handle the lack of support in a way other than reverting. The issue was patched in version 4.7.1.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3552",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2022-31172",
+        "Problem_Type": "CWE-347",
+        "Description": "OpenZeppelin Contracts is a library for smart contract development. Versions 4.1.0 until 4.7.1 are vulnerable to the SignatureChecker reverting. `SignatureChecker.isValidSignatureNow` is not expected to revert. However, an incorrect assumption about Solidity 0.8's `abi.decode` allows some cases to revert, given a target contract that doesn't implement EIP-1271 as expected. The contracts that may be affected are those that use `SignatureChecker` to check the validity of a signature and handle invalid signatures in a way other than reverting. The issue was patched in version 4.7.1.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3552",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2022-31198",
+        "Problem_Type": "CWE-682",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. This issue concerns instances of Governor that use the module `GovernorVotesQuorumFraction`, a mechanism that determines quorum requirements as a percentage of the voting token's total supply. In affected instances, when a proposal is passed to lower the quorum requirements, past proposals may become executable if they had been defeated only due to lack of quorum, and the number of votes it received meets the new quorum requirement. Analysis of instances on chain found only one proposal that met this condition, and we are actively monitoring for new occurrences of this particular issue. This issue has been patched in v4.7.2. Users are advised to upgrade. Users unable to upgrade should consider avoiding lowering quorum requirements if a past proposal was defeated for lack of quorum.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3561",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2022-35915",
+        "Problem_Type": "CWE-770",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. The target contract of an EIP-165 `supportsInterface` query can cause unbounded gas consumption by returning a lot of data, while it is generally assumed that this operation has a bounded cost. The issue has been fixed in v4.7.2. Users are advised to upgrade. There are no known workarounds for this issue.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3587",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2022-35916",
+        "Problem_Type": "CWE-669",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. Contracts using the cross chain utilities for Arbitrum L2, `CrossChainEnabledArbitrumL2` or `LibArbitrumL2`, will classify direct interactions of externally owned accounts (EOAs) as cross chain calls, even though they are not started on L1. This issue has been patched in v4.7.2. Users are advised to upgrade. There are no known workarounds for this issue.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3578",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2022-35961",
+        "Problem_Type": "CWE-354",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. The functions `ECDSA.recover` and `ECDSA.tryRecover` are vulnerable to a kind of signature malleability due to accepting EIP-2098 compact signatures in addition to the traditional 65 byte signature format. This is only an issue for the functions that take a single `bytes` argument, and not the functions that take `r, v, s` or `r, vs` as separate arguments. The potentially affected contracts are those that implement signature reuse or replay protection by marking the signature itself as used rather than the signed message or a nonce included in it. A user may take a signature that has already been submitted, submit it again in a different form, and bypass this protection. The issue has been patched in 4.7.3.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3610",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2022-39384",
+        "Problem_Type": "CWE-665",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. Before version 4.4.1 but after 3.2.0, initializer functions that are invoked separate from contract creation (the most prominent example being minimal proxies) may be reentered if they make an untrusted non-view external call. Once an initializer has finished running it can never be re-executed. However, an exception put in place to support multiple inheritance made reentrancy possible in the scenario described above, breaking the expectation that there is a single execution. Note that upgradeable proxies are commonly initialized together with contract creation, where reentrancy is not feasible, so the impact of this issue is believed to be minor. This issue has been patched, please upgrade to version 4.4.1. As a workaround, avoid untrusted external calls during initialization.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/3006",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2023-30541",
+        "Problem_Type": "CWE-436",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. A function in the implementation contract may be inaccessible if its selector clashes with one of the proxy's own selectors. Specifically, if the clashing function has a different signature with incompatible ABI encoding, the proxy could revert while attempting to decode the arguments from calldata. The probability of an accidental clash is negligible, but one could be caused deliberately and could cause a reduction in availability. The issue has been fixed in version 4.8.3. As a workaround if a function appears to be inaccessible for this reason, it may be possible to craft the calldata such that ABI decoding does not fail at the proxy and the function is properly proxied through.",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/4154",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2023-40014",
+        "Problem_Type": "CWE-116",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. Starting in version 4.0.0 and prior to version 4.9.3, contracts using `ERC2771Context` along with a custom trusted forwarder may see `_msgSender` return `address(0)` in calls that originate from the forwarder with calldata shorter than 20 bytes. This combination of circumstances does not appear to be common, in particular it is not the case for `MinimalForwarder` from OpenZeppelin Contracts, or any deployed forwarder the team is aware of, given that the signer address is appended to all calls that originate from these forwarders. The problem has been patched in v4.9.3.\n",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/4484",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "OpenZeppelin/openzeppelin-contracts",
+        "CVE_ID": "CVE-2023-40014",
+        "Problem_Type": "CWE-116",
+        "Description": "OpenZeppelin Contracts is a library for secure smart contract development. Starting in version 4.0.0 and prior to version 4.9.3, contracts using `ERC2771Context` along with a custom trusted forwarder may see `_msgSender` return `address(0)` in calls that originate from the forwarder with calldata shorter than 20 bytes. This combination of circumstances does not appear to be common, in particular it is not the case for `MinimalForwarder` from OpenZeppelin Contracts, or any deployed forwarder the team is aware of, given that the signer address is appended to all calls that originate from these forwarders. The problem has been patched in v4.9.3.\n",
+        "URL": "https://github.com/OpenZeppelin/openzeppelin-contracts/pull/4481",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

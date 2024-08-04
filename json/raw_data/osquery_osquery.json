@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "osquery/osquery",
+        "CVE_ID": "CVE-2020-11081",
+        "Problem_Type": "CWE-114",
+        "Description": "osquery before version 4.4.0 enables a privilege escalation vulnerability. If a Window system is configured with a PATH that contains a user-writable directory then a local user may write a zlib1.dll DLL, which osquery will attempt to load. Since osquery runs with elevated privileges this enables local escalation. This is fixed in version 4.4.0.",
+        "URL": "https://github.com/osquery/osquery/pull/6433",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "osquery/osquery",
+        "CVE_ID": "CVE-2020-1887",
+        "Problem_Type": "CWE-295",
+        "Description": "Incorrect validation of the TLS SNI hostname in osquery versions after 2.9.0 and before 4.2.0 could allow an attacker to MITM osquery traffic in the absence of a configured root chain of trust.",
+        "URL": "https://github.com/osquery/osquery/pull/6197",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

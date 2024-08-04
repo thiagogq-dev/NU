@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "netty/netty",
+        "CVE_ID": "CVE-2016-4970",
+        "Problem_Type": "CWE-835",
+        "Description": "handler/ssl/OpenSslEngine.java in Netty 4.0.x before 4.0.37.Final and 4.1.x before 4.1.1.Final allows remote attackers to cause a denial of service (infinite loop).",
+        "URL": "https://github.com/netty/netty/pull/5364",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "netty/netty",
+        "CVE_ID": "CVE-2020-11612",
+        "Problem_Type": "CWE-770",
+        "Description": "The ZlibDecoders in Netty 4.1.x before 4.1.46 allow for unbounded memory allocation while decoding a ZlibEncoded byte stream. An attacker could send a large ZlibEncoded byte stream to the Netty server, forcing the server to allocate all of its free memory to a single decoder.",
+        "URL": "https://github.com/netty/netty/pull/9924",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "netty/netty",
+        "CVE_ID": "CVE-2022-41915",
+        "Problem_Type": "CWE-113",
+        "Description": "Netty project is an event-driven asynchronous network application framework. Starting in version 4.1.83.Final and prior to 4.1.86.Final, when calling `DefaultHttpHeadesr.set` with an _iterator_ of values, header value validation was not performed, allowing malicious header values in the iterator to perform HTTP Response Splitting. This issue has been patched in version 4.1.86.Final. Integrators can work around the issue by changing the `DefaultHttpHeaders.set(CharSequence, Iterator<?>)` call, into a `remove()` call, and call `add()` in a loop over the iterator of values.",
+        "URL": "https://github.com/netty/netty/pull/12760",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

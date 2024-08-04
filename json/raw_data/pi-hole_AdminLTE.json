@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "pi-hole/AdminLTE",
+        "CVE_ID": "CVE-2020-35659",
+        "Problem_Type": "CWE-79",
+        "Description": "The DNS query log in Pi-hole before 5.2.2 is vulnerable to stored XSS. An attacker with the ability to directly or indirectly query DNS with a malicious hostname can cause arbitrary JavaScript to execute when the Pi-hole administrator visits the Query Log or Long-term data Query Log page.",
+        "URL": "https://github.com/pi-hole/AdminLTE/pull/1665",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "pi-hole/AdminLTE",
+        "CVE_ID": "CVE-2020-8816",
+        "Problem_Type": "CWE-78",
+        "Description": "Pi-hole Web v4.3.2 (aka AdminLTE) allows Remote Code Execution by privileged dashboard users via a crafted DHCP static lease.",
+        "URL": "https://github.com/pi-hole/AdminLTE/pull/1165",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

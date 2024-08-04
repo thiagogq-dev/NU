@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "OISF/libhtp",
+        "CVE_ID": "CVE-2019-17420",
+        "Problem_Type": "CWE-459",
+        "Description": "In OISF LibHTP before 0.5.31, as used in Suricata 4.1.4 and other products, an HTTP protocol parsing error causes the http_header signature to not alert on a response with a single \\r\\n ending.",
+        "URL": "https://github.com/OISF/libhtp/pull/213",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "OpenTSDB/opentsdb",
+        "CVE_ID": "CVE-2023-25826",
+        "Problem_Type": "CWE-78",
+        "Description": "\nDue to insufficient validation of parameters passed to the legacy HTTP query API, it is possible to inject crafted OS commands into multiple parameters and execute malicious code on the OpenTSDB host system. This exploit exists due to an incomplete fix that was made when this vulnerability was previously disclosed as CVE-2020-35476. Regex validation that was implemented to restrict allowed input to the query API does not work as intended, allowing crafted commands to bypass validation.\n\n",
+        "URL": "https://github.com/OpenTSDB/opentsdb/pull/2275",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "OpenTSDB/opentsdb",
+        "CVE_ID": "CVE-2023-25827",
+        "Problem_Type": "CWE-79",
+        "Description": "\nDue to insufficient validation of parameters reflected in error messages by the legacy HTTP query API and the logging endpoint, it is possible to inject and execute malicious JavaScript within the browser of a targeted OpenTSDB user. This issue shares the same root cause as CVE-2018-13003, a reflected XSS vulnerability with the suggestion endpoint.\n\n",
+        "URL": "https://github.com/OpenTSDB/opentsdb/pull/2274",
+        "Tag": "['Patch']"
+    }
+]

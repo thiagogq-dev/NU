@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Orckestra/C1-CMS-Foundation",
+        "CVE_ID": "CVE-2022-39256",
+        "Problem_Type": "CWE-502",
+        "Description": "Orckestra C1 CMS is a .NET based Web Content Management System. A vulnerability in versions prior to 6.13 allows remote attackers to execute arbitrary code on affected installations of Orckestra C1 CMS. Authentication is required to exploit this vulnerability. The authenticated user may perform the actions unknowingly by visiting a specially crafted site. This issue is patched in C1 CMS v6.13. There are no known workarounds.",
+        "URL": "https://github.com/Orckestra/C1-CMS-Foundation/pull/814",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

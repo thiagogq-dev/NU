@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "perl5-dbi/DBD-mysql",
+        "CVE_ID": "CVE-2015-8949",
+        "Problem_Type": "CWE-416",
+        "Description": "Use-after-free vulnerability in the my_login function in DBD::mysql before 4.033_01 allows attackers to have unspecified impact by leveraging a call to mysql_errno after a failure of my_login.",
+        "URL": "https://github.com/perl5-dbi/DBD-mysql/pull/45",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

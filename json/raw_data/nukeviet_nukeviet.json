@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "nukeviet/nukeviet",
+        "CVE_ID": "CVE-2019-7725",
+        "Problem_Type": "CWE-502",
+        "Description": "includes/core/is_user.php in NukeViet before 4.3.04 deserializes the untrusted nvloginhash cookie (i.e., the code relies on PHP's serialization format when JSON can be used to eliminate the risk).",
+        "URL": "https://github.com/nukeviet/nukeviet/pull/2740/commits/05dfb9b4531f12944fe39556f58449b9a56241be",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "nukeviet/nukeviet",
+        "CVE_ID": "CVE-2019-7726",
+        "Problem_Type": "CWE-89",
+        "Description": "modules/banners/funcs/click.php in NukeViet before 4.3.04 has a SQL INSERT statement with raw header data from an HTTP request (e.g., Referer and User-Agent).",
+        "URL": "https://github.com/nukeviet/nukeviet/pull/2740/commits/05dfb9b4531f12944fe39556f58449b9a56241be",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

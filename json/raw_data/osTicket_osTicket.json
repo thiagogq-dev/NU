@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "osTicket/osTicket",
+        "CVE_ID": "CVE-2020-16193",
+        "Problem_Type": "CWE-79",
+        "Description": "osTicket before 1.14.3 allows XSS because include/staff/banrule.inc.php has an unvalidated echo $info['notes'] call.",
+        "URL": "https://github.com/osTicket/osTicket/pull/5616/commits/fb570820ef1138776f929a179906e1d8089179d9",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

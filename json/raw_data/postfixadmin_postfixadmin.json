@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "postfixadmin/postfixadmin",
+        "CVE_ID": "CVE-2017-5930",
+        "Problem_Type": "CWE-862",
+        "Description": "The AliasHandler component in PostfixAdmin before 3.0.2 allows remote authenticated domain admins to delete protected aliases via the delete parameter to delete.php, involving a missing permission check.",
+        "URL": "https://github.com/postfixadmin/postfixadmin/pull/23",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

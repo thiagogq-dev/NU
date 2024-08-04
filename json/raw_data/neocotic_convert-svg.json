@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "neocotic/convert-svg",
+        "CVE_ID": "CVE-2022-24278",
+        "Problem_Type": "CWE-22",
+        "Description": "The package convert-svg-core before 0.6.4 are vulnerable to Directory Traversal due to improper sanitization of SVG tags. Exploiting this vulnerability is possible by using a specially crafted SVG file.",
+        "URL": "https://github.com/neocotic/convert-svg/pull/87",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "neocotic/convert-svg",
+        "CVE_ID": "CVE-2022-25759",
+        "Problem_Type": "CWE-94",
+        "Description": "The package convert-svg-core before 0.6.2 are vulnerable to Remote Code Injection via sending an SVG file containing the payload.",
+        "URL": "https://github.com/neocotic/convert-svg/pull/82",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

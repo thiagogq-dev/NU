@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "pluginsGLPI/news",
+        "CVE_ID": "CVE-2019-12724",
+        "Problem_Type": "CWE-79",
+        "Description": "An issue was discovered in the Teclib News plugin through 1.5.2 for GLPI. It allows a stored XSS attack via the $_POST['name'] parameter.",
+        "URL": "https://github.com/pluginsGLPI/news/pull/69",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

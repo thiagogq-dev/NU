@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "pf4j/pf4j",
+        "CVE_ID": "CVE-2023-40827",
+        "Problem_Type": "CWE-22",
+        "Description": "An issue in pf4j pf4j v.3.9.0 and before allows a remote attacker to obtain sensitive information and execute arbitrary code via the loadpluginPath parameter.",
+        "URL": "https://github.com/pf4j/pf4j/pull/537",
+        "Tag": "['Exploit', 'Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "CVE_ID": "CVE-2023-40827",
+        "Problem_Type": "CWE-22",
+        "Description": "An issue in pf4j pf4j v.3.9.0 and before allows a remote attacker to obtain sensitive information and execute arbitrary code via the loadpluginPath parameter.",
+        "URL": "https://github.com/pf4j/pf4j/pull/537/commits/ed9392069fe14c6c30d9f876710e5ad40f7ea8c1",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "CVE_ID": "CVE-2023-40828",
+        "Problem_Type": "CWE-22",
+        "Description": "An issue in pf4j pf4j v.3.9.0 and before allows a remote attacker to obtain sensitive information and execute arbitrary code via the expandIfZip method in the extract function.",
+        "URL": "https://github.com/pf4j/pf4j/pull/537",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "pf4j/pf4j",
+        "CVE_ID": "CVE-2023-40828",
+        "Problem_Type": "CWE-22",
+        "Description": "An issue in pf4j pf4j v.3.9.0 and before allows a remote attacker to obtain sensitive information and execute arbitrary code via the expandIfZip method in the extract function.",
+        "URL": "https://github.com/pf4j/pf4j/pull/538",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

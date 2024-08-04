@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "openforis/arena",
+        "CVE_ID": "CVE-2019-15567",
+        "Problem_Type": "CWE-89",
+        "Description": "OpenForis Arena before 2019-05-07 allows SQL injection in the sorting feature.",
+        "URL": "https://github.com/openforis/arena/pull/170",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

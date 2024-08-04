@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "openkm/document-management-system",
+        "CVE_ID": "CVE-2021-33950",
+        "Problem_Type": "CWE-611",
+        "Description": "An issue discovered in OpenKM v6.3.10 allows attackers to obtain sensitive information via the XMLTextExtractor function.",
+        "URL": "https://github.com/openkm/document-management-system/pull/288",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "openkm/document-management-system",
+        "CVE_ID": "CVE-2022-3969",
+        "Problem_Type": "CWE-377",
+        "Description": "A vulnerability was found in OpenKM up to 6.3.11 and classified as problematic. Affected by this issue is the function getFileExtension of the file src/main/java/com/openkm/util/FileUtils.java. The manipulation leads to insecure temporary file. Upgrading to version 6.3.12 is able to address this issue. The name of the patch is c069e4d73ab8864345c25119d8459495f45453e1. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-213548.",
+        "URL": "https://github.com/openkm/document-management-system/pull/332",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "openkm/document-management-system",
+        "CVE_ID": "CVE-2022-40317",
+        "Problem_Type": "CWE-79",
+        "Description": "OpenKM 6.3.11 allows stored XSS related to the javascript&colon; substring in an A element.",
+        "URL": "https://github.com/openkm/document-management-system/pull/336",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "piastry/cifs-utils",
+        "CVE_ID": "CVE-2022-27239",
+        "Problem_Type": "CWE-787",
+        "Description": "In cifs-utils through 6.14, a stack-based buffer overflow when parsing the mount.cifs ip= command-line argument could lead to local attackers gaining root privileges.",
+        "URL": "https://github.com/piastry/cifs-utils/pull/7",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "piastry/cifs-utils",
+        "CVE_ID": "CVE-2022-27239",
+        "Problem_Type": "CWE-787",
+        "Description": "In cifs-utils through 6.14, a stack-based buffer overflow when parsing the mount.cifs ip= command-line argument could lead to local attackers gaining root privileges.",
+        "URL": "https://github.com/piastry/cifs-utils/pull/7/commits/955fb147e97a6a74e1aaa65766de91e2c1479765",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "piastry/cifs-utils",
+        "CVE_ID": "CVE-2022-29869",
+        "Problem_Type": "CWE-532",
+        "Description": "cifs-utils through 6.14, with verbose logging, can cause an information leak when a file contains = (equal sign) characters but is not a valid credentials file.",
+        "URL": "https://github.com/piastry/cifs-utils/pull/7",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]
