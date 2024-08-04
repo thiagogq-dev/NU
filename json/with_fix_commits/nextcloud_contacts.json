@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Contacts app for Nextcloud easily syncs contacts from various devices with your Nextcloud and allows editing. The unsanitized SVG is converted to a JavaScript blob (in memory data) that the Avatar can't render. Due to this constellation the missing sanitization does not seem to be exploitable. It is recommended that the Contacts app is upgraded to 5.0.3 or 4.2.4\n\n",
         "URL": "https://github.com/nextcloud/contacts/pull/3199",
+        "Commit SHA": "9fea0a9c9790e124f5ebe0bba1d156b6024b3d27",
         "Tag": "['Patch']"
     }
 ]
