@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "mysql-binuuid-rails 1.1.0 and earlier allows SQL Injection because it removes default string escaping for affected database columns.",
         "URL": "https://github.com/nedap/mysql-binuuid-rails/pull/18",
+        "Commit SHA": "9ae920951b46ff0163b16c55d744e89acb1036d4",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
