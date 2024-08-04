@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross Site Scripting (XSS) vulnerability in Jaegertracing Jaeger UI before v.1.31.0 allows a remote attacker to execute arbitrary code via the KeyValuesTable component.",
         "URL": "https://github.com/mafintosh/json-markup/pull/15",
+        "Commit SHA": "e7fb4df7de6a7d57f2249f0527dda8b5498ad36b",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
