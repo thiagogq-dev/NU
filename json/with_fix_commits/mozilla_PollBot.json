@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Pollbot is open source software which \"frees its human masters from the toilsome task of polling for the state of things during the Firefox release process.\" In Pollbot before version 1.4.4 there is an open redirection vulnerability in the path of \"https://pollbot.services.mozilla.com/\". An attacker can redirect anyone to malicious sites. To Reproduce type in this URL: \"https://pollbot.services.mozilla.com//evil.com/\". Affected versions will redirect to that website when you inject a payload like \"//evil.com/\". This is fixed in version 1.4.4.",
         "URL": "https://github.com/mozilla/PollBot/pull/333",
+        "Commit SHA": "90a9e9a80eb402a65f560eb0e2412b3efdebf87d",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
