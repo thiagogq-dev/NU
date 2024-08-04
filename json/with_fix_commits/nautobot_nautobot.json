@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-312",
         "Description": "Nautobot is a Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. In Nautobot 2.0.x, certain REST API endpoints, in combination with the `?depth=<N>` query parameter, can expose hashed user passwords as stored in the database to any authenticated user with access to these endpoints. The passwords are not exposed in plaintext. This vulnerability has been patched in version 2.0.3.\n\n",
         "URL": "https://github.com/nautobot/nautobot/pull/4692",
+        "Commit SHA": "1ce8e5c658a075c29554d517cd453675e5d40d71",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application All users of Nautobot versions earlier than 1.6.6 or 2.0.5 are potentially affected by a cross-site scripting vulnerability. Due to incorrect usage of Django's `mark_safe()` API when rendering certain types of user-authored content; including custom links, job buttons, and computed fields; it is possible that users with permission to create or edit these types of content could craft a malicious payload (such as JavaScript code) that would be executed when rendering pages containing this content. The maintainers have fixed the incorrect uses of `mark_safe()` (generally by replacing them with appropriate use of `format_html()` instead) to prevent such malicious data from being executed. Users on Nautobot 1.6.x LTM should upgrade to v1.6.6 and users on Nautobot 2.0.x should upgrade to v2.0.5. Appropriate object permissions can and should be applied to restrict which users are permitted to create or edit the aforementioned types of user-authored content. Other than that, there is no direct workaround available.",
         "URL": "https://github.com/nautobot/nautobot/pull/4832",
+        "Commit SHA": "54abe23331b6c3d0d82bf1b028c679b1d200920d",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application All users of Nautobot versions earlier than 1.6.6 or 2.0.5 are potentially affected by a cross-site scripting vulnerability. Due to incorrect usage of Django's `mark_safe()` API when rendering certain types of user-authored content; including custom links, job buttons, and computed fields; it is possible that users with permission to create or edit these types of content could craft a malicious payload (such as JavaScript code) that would be executed when rendering pages containing this content. The maintainers have fixed the incorrect uses of `mark_safe()` (generally by replacing them with appropriate use of `format_html()` instead) to prevent such malicious data from being executed. Users on Nautobot 1.6.x LTM should upgrade to v1.6.6 and users on Nautobot 2.0.x should upgrade to v2.0.5. Appropriate object permissions can and should be applied to restrict which users are permitted to create or edit the aforementioned types of user-authored content. Other than that, there is no direct workaround available.",
         "URL": "https://github.com/nautobot/nautobot/pull/4833",
+        "Commit SHA": "362850f5a94689a4c75e3188bf6de826c3b012b2",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-306",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. In Nautobot 1.x and 2.0.x prior to 1.6.7 and 2.0.6, the URLs `/files/get/?name=...` and `/files/download/?name=...` are used to provide admin access to files that have been uploaded as part of a run request for a Job that has FileVar inputs. Under normal operation these files are ephemeral and are deleted once the Job in question runs. \n\nIn the default implementation used in Nautobot, as provided by `django-db-file-storage`, these URLs do not by default require any user authentication to access; they should instead be restricted to only users who have permissions to view Nautobot's `FileProxy` model instances.\n\nNote that no URL mechanism is provided for listing or traversal of the available file `name` values, so in practice an unauthenticated user would have to guess names to discover arbitrary files for download, but if a user knows the file name/path value, they can access it without authenticating, so we are considering this a vulnerability.\n\nFixes are included in Nautobot 1.6.7 and Nautobot 2.0.6. No known workarounds are available other than applying the patches included in those versions.",
         "URL": "https://github.com/nautobot/nautobot/pull/4959",
+        "Commit SHA": "458280c359a4833a20da294eaf4b8d55edc91cee",
         "Tag": "['Patch']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-306",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. In Nautobot 1.x and 2.0.x prior to 1.6.7 and 2.0.6, the URLs `/files/get/?name=...` and `/files/download/?name=...` are used to provide admin access to files that have been uploaded as part of a run request for a Job that has FileVar inputs. Under normal operation these files are ephemeral and are deleted once the Job in question runs. \n\nIn the default implementation used in Nautobot, as provided by `django-db-file-storage`, these URLs do not by default require any user authentication to access; they should instead be restricted to only users who have permissions to view Nautobot's `FileProxy` model instances.\n\nNote that no URL mechanism is provided for listing or traversal of the available file `name` values, so in practice an unauthenticated user would have to guess names to discover arbitrary files for download, but if a user knows the file name/path value, they can access it without authenticating, so we are considering this a vulnerability.\n\nFixes are included in Nautobot 1.6.7 and Nautobot 2.0.6. No known workarounds are available other than applying the patches included in those versions.",
         "URL": "https://github.com/nautobot/nautobot/pull/4964",
+        "Commit SHA": "7c4cf3137f45f1541f09f2f6a7f8850cd3a2eaee",
         "Tag": "['Patch']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-863",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. When submitting a Job to run via a Job Button, only the model-level `extras.run_job` permission is checked (i.e., does the user have permission to run Jobs in general). Object-level permissions (i.e., does the user have permission to run this specific Job?) are not enforced by the URL/view used in this case. A user with permissions to run even a single Job can actually run all configured JobButton Jobs. Fix will be available in Nautobot 1.6.8 and 2.1.0 ",
         "URL": "https://github.com/nautobot/nautobot/pull/4993",
+        "Commit SHA": "3d964f996f4926126c1d7853ca87b2ff475997a2",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-863",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. When submitting a Job to run via a Job Button, only the model-level `extras.run_job` permission is checked (i.e., does the user have permission to run Jobs in general). Object-level permissions (i.e., does the user have permission to run this specific Job?) are not enforced by the URL/view used in this case. A user with permissions to run even a single Job can actually run all configured JobButton Jobs. Fix will be available in Nautobot 1.6.8 and 2.1.0 ",
         "URL": "https://github.com/nautobot/nautobot/pull/4995",
+        "Commit SHA": "d33d0c15a36948c45244e5b5e10bc79b8e62de7f",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application.  All users of Nautobot versions earlier than 1.6.10 or 2.1.2 are potentially impacted by a cross-site scripting vulnerability. Due to inadequate input sanitization, any user-editable fields that support Markdown rendering, including are potentially susceptible to cross-site scripting (XSS) attacks via maliciously crafted data. This issue is fixed in Nautobot versions 1.6.10 and 2.1.2.",
         "URL": "https://github.com/nautobot/nautobot/pull/5133",
+        "Commit SHA": "17effcbe84a72150c82b138565c311bbee357e80",
         "Tag": "['Patch']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application.  All users of Nautobot versions earlier than 1.6.10 or 2.1.2 are potentially impacted by a cross-site scripting vulnerability. Due to inadequate input sanitization, any user-editable fields that support Markdown rendering, including are potentially susceptible to cross-site scripting (XSS) attacks via maliciously crafted data. This issue is fixed in Nautobot versions 1.6.10 and 2.1.2.",
         "URL": "https://github.com/nautobot/nautobot/pull/5134",
+        "Commit SHA": "64312a4297b5ca49b6cdedf477e41e8e4fd61cce",
         "Tag": "['Patch']"
     }
 ]
