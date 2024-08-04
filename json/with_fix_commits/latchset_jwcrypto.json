@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "The _Rsa15 class in the RSA 1.5 algorithm implementation in jwa.py in jwcrypto before 0.3.2 lacks the Random Filling protection mechanism, which makes it easier for remote attackers to obtain cleartext data via a Million Message Attack (MMA).",
         "URL": "https://github.com/latchset/jwcrypto/pull/66",
+        "Commit SHA": null,
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
