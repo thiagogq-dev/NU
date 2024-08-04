@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-255",
         "Description": "An issue was discovered in xrdp before 0.9.1. When successfully logging in using RDP into an xrdp session, the file ~/.vnc/sesman_${username}_passwd is created. Its content is the equivalent of the user's cleartext password, DES encrypted with a known key.",
         "URL": "https://github.com/neutrinolabs/xrdp/pull/497",
+        "Commit SHA": null,
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-119",
         "Description": "The scp_v0s_accept function in sesman/libscp/libscp_v0.c in the session manager in xrdp through 0.9.4 uses an untrusted integer as a write length, which allows local users to cause a denial of service (buffer overflow and application crash) or possibly have unspecified other impact via a crafted input stream.",
         "URL": "https://github.com/neutrinolabs/xrdp/pull/958",
+        "Commit SHA": "d958d1f0186968200da32bafc3d9be4a4aa7212d",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
