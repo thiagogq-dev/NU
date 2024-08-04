@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-119",
         "Description": "Lute-Tab before 2019-08-23 has a buffer overflow in pdf_print.cc.",
         "URL": "https://github.com/mandovinnie/Lute-Tab/pull/2",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
