@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-306",
         "Description": "Kubernetes Dashboard before 1.10.1 allows attackers to bypass authentication and use Dashboard's Service Account for reading secrets within the cluster.",
         "URL": "https://github.com/kubernetes/dashboard/pull/3400",
+        "Commit SHA": "5abb13a970076ebd46e316af45fffb697084a420",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-306",
         "Description": "Kubernetes Dashboard before 1.10.1 allows attackers to bypass authentication and use Dashboard's Service Account for reading secrets within the cluster.",
         "URL": "https://github.com/kubernetes/dashboard/pull/3289",
+        "Commit SHA": "01b840c3f361ccb36dee9a1170957ad03a4b4ab2",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
