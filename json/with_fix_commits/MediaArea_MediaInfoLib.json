@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An out-of-bounds read in MediaInfoLib::File__Tags_Helper::Synched_Test in Tag/File__Tags.cpp in MediaInfoLib in MediaArea MediaInfo 18.12 leads to a crash.",
         "URL": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
+        "Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An out-of-bounds read in File__Analyze::Get_L8 in File__Analyze_Buffer.cpp in MediaInfoLib in MediaArea MediaInfo 18.12 leads to a crash.",
         "URL": "https://github.com/MediaArea/MediaInfoLib/pull/1111",
+        "Commit SHA": "5ddd15004c2cf9efce77c772402cc591c652ff77",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
