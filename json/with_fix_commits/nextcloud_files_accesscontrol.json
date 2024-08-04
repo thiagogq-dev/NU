@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-269",
         "Description": "Nextcloud files access control is a nextcloud app to manage access control for files. Users with limited access can see file names in certain cases where they do not have privilege to do so. This issue has been addressed and it is recommended that the Nextcloud Files Access Control app is upgraded to 1.12.2, 1.13.1 or 1.14.1. There are no known workarounds for this issue",
         "URL": "https://github.com/nextcloud/files_accesscontrol/pull/248",
+        "Commit SHA": "e09f3c8487749c3ed29591bbe3bdb2d41ddf39d2",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
