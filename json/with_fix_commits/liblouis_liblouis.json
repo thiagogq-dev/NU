@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-120",
         "Description": "Buffer Overflow vulnerability found in Liblouis v.3.24.0 allows a remote attacker to cause a denial of service via the lou_logFile function at logginc.c endpoint.",
         "URL": "https://github.com/liblouis/liblouis/pull/1297",
+        "Commit SHA": "517f6f1f35fc5c57ac2f045caa168191bdeaadde",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-120",
         "Description": "Buffer Overflow vulnerability found in Liblouis v.3.24.0 allows a remote attacker to cause a denial of service via the compileTranslationTable.c and lou_setDataPath functions.",
         "URL": "https://github.com/liblouis/liblouis/pull/1302",
+        "Commit SHA": "21a2ee76d5de1ab3ce789ef18106343c8e65a175",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-120",
         "Description": "Buffer Overflow vulnerability found in Liblouis Lou_Trace v.3.24.0 allows a remote attacker to cause a denial of service via the resolveSubtable function at compileTranslationTabel.c.",
         "URL": "https://github.com/liblouis/liblouis/pull/1300",
+        "Commit SHA": "b2e2995d1600e1d3b2131d4a2c5a57927d795608",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
