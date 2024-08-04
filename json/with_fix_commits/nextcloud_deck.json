@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-639",
         "Description": "Nextcloud Deck before 1.0.2 suffers from an insecure direct object reference (IDOR) vulnerability that permits users with a duplicate user identifier to access deck data of a previous deleted user.",
         "URL": "https://github.com/nextcloud/deck/pull/1976",
+        "Commit SHA": "9849ad09c897357cad6c7f94d09f4e8d601ca5d9",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-639",
         "Description": "Deck is an open source kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. In affected versions the Deck application didn't properly check membership of users in a Circle. This allowed other users in the instance to gain access to boards that have been shared with a Circle, even if the user was not a member of the circle. It is recommended that Nextcloud Deck is upgraded to 1.5.1, 1.4.4 or 1.2.9. If you are unable to update it is advised to disable the Deck plugin.",
         "URL": "https://github.com/nextcloud/deck/pull/3217",
+        "Commit SHA": "f2052702b51b8dcdfe0e69b4a0ed09b336b1d988",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-862",
         "Description": "Nextcloud is an open-source, self-hosted productivity platform. A missing permission check in Nextcloud Deck before 1.2.9, 1.4.5 and 1.5.3 allows another authenticated users to access Deck cards of another user. It is recommended that the Nextcloud Deck App is upgraded to 1.2.9, 1.4.5 or 1.5.3. There are no known workarounds aside from upgrading.",
         "URL": "https://github.com/nextcloud/deck/pull/3316",
+        "Commit SHA": "0783fde14b594dda4b1512469ec2c27651d7de01",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-209",
         "Description": "Nextcloud Deck is a Kanban-style project & personal management tool for Nextcloud, similar to Trello. The full path of the application is exposed to unauthorized users. It is recommended that the Nextcloud Deck app is upgraded to 1.2.11, 1.4.6, or 1.5.4. There is no workaround available.",
         "URL": "https://github.com/nextcloud/deck/pull/3384",
+        "Commit SHA": "0ce431e7a634af60937ab71bdbb8c264d4738679",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-639",
         "Description": "Nextcloud Deck is a Kanban-style project & personal management tool for Nextcloud. In versions prior to 1.4.8, 1.5.6, and 1.6.1, an authenticated user can move stacks with cards from their own board to a board of another user. The Nextcloud Deck app contains a patch for this issue in versions 1.4.8, 1.5.6, and 1.6.1. There are no known currently-known workarounds available.",
         "URL": "https://github.com/nextcloud/deck/pull/3541",
+        "Commit SHA": "b00c8a119670e2f8cfc167605afc9e3d262e3294",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-922",
         "Description": "Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. When getting the reference preview for Deck cards the user has no access to, unauthorized user could eventually get the cached data of a user that has access. There are currently no known workarounds. It is recommended that the Nextcloud app Deck is upgraded to 1.8.2.\n",
         "URL": "https://github.com/nextcloud/deck/pull/4196",
+        "Commit SHA": "071cfca2413597c577d8652b572f71a1f7964d26",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Nextcloud Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. A database error can be generated potentially causing a DoS when performed multiple times. There are currently no known workarounds. It is recommended that the Nextcloud Server is upgraded to 1.6.5 or 1.7.3 or 1.8.2.",
         "URL": "https://github.com/nextcloud/deck/pull/4059",
+        "Commit SHA": "a2310610433ce73cafee8ba3866764e08da2d48f",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-639",
         "Description": "Deck is a kanban style organization tool aimed at personal planning and project organization for teams integrated with Nextcloud. Broken access control allows a user to delete attachments of other users. There are currently no known workarounds. It is recommended that the Nextcloud Deck app is upgraded to 1.6.5 or 1.7.3 or 1.8.2.",
         "URL": "https://github.com/nextcloud/deck/pull/4173",
+        "Commit SHA": "805f185191a6f98dd9de6764073c63fa7a07b018",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
