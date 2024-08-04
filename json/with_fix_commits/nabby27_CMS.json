@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "Administrator/index.php in Ivan Cordoba Generic Content Management System (CMS) through 2018-04-28 allows SQL injection for authentication bypass.",
         "URL": "https://github.com/nabby27/CMS/pull/2",
+        "Commit SHA": "bdc57ab56433446692ad003844f69152be0302f8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Ivan Cordoba Generic Content Management System (CMS) through 2018-04-28 has XSS via the Administrator/add_pictures.php article ID.",
         "URL": "https://github.com/nabby27/CMS/pull/3",
+        "Commit SHA": "e530aae4ae5feae8bff332a5733c791e8cc80c90",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Ivan Cordoba Generic Content Management System (CMS) through 2018-04-28 has XSS via the Administrator/users.php user ID.",
         "URL": "https://github.com/nabby27/CMS/pull/3",
+        "Commit SHA": "e530aae4ae5feae8bff332a5733c791e8cc80c90",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
