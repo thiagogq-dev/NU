@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Due to improper sanitization of user input on Windows, the static file handler allows for directory traversal, allowing an attacker to read files outside of the target directory that the server has permission to read.",
         "URL": "https://github.com/labstack/echo/pull/1718",
+        "Commit SHA": "4422e3b66b9fd498ed1ae1d0242d660d0ed3faaa",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
