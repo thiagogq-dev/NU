@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "It was found that while parsing the SAML messages the StaxParserUtil class of keycloak before 2.5.1 replaces special strings for obtaining attribute values with system property. This could allow an attacker to determine values of system properties at the attacked system by formatting the SAML request ID field to be the chosen system property which could be obtained in the \"InResponseTo\" field in the response.",
         "URL": "https://github.com/keycloak/keycloak/pull/3715/commits/0cb5ba0f6e83162d221681f47b470c3042eef237",
+        "Commit SHA": "0cb5ba0f6e83162d221681f47b470c3042eef237",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-20",
         "Description": "A flaw was found in Keycloak before version 11.0.0, where the code base contains usages of ObjectInputStream without type checks. This flaw allows an attacker to inject arbitrarily serialized Java Objects, which would then get deserialized in a privileged context and potentially lead to remote code execution.",
         "URL": "https://github.com/keycloak/keycloak/pull/7053",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-287",
         "Description": "A flaw was found in Keycloak. This vulnerability allows anyone to register a new security device or key when there is not a device already registered for any user by using the WebAuthn password-less login flow.",
         "URL": "https://github.com/keycloak/keycloak/pull/8203",
+        "Commit SHA": "65480cb5a11630909c086f79d396004499fbd1e4",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-22",
         "Description": "ClassLoaderTheme and ClasspathThemeResourceProviderFactory allows reading any file available as a resource to the classloader. By sending requests for theme resources with a relative path from an external HTTP client, the client will receive the content of random files if available.",
         "URL": "https://github.com/keycloak/keycloak/pull/8588",
+        "Commit SHA": "73f0474008e1bebd0733e62a22aceda9e5de6743",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
