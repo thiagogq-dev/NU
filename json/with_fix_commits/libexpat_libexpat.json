@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-611",
         "Description": "In libexpat in Expat before 2.2.7, XML input including XML names that contain a large number of colons could make the XML parser consume a high amount of RAM and CPU resources while processing (enough to be usable for denial-of-service attacks).",
         "URL": "https://github.com/libexpat/libexpat/pull/262",
+        "Commit SHA": "11f8838bf99ea0a6f0b76f9760c43704d00c4ff6",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-611",
         "Description": "In libexpat in Expat before 2.2.7, XML input including XML names that contain a large number of colons could make the XML parser consume a high amount of RAM and CPU resources while processing (enough to be usable for denial-of-service attacks).",
         "URL": "https://github.com/libexpat/libexpat/pull/262/commits/11f8838bf99ea0a6f0b76f9760c43704d00c4ff6",
+        "Commit SHA": "11f8838bf99ea0a6f0b76f9760c43704d00c4ff6",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-125",
         "Description": "In libexpat before 2.2.8, crafted XML input could fool the parser into changing from DTD parsing to document parsing too early; a consecutive call to XML_GetCurrentLineNumber (or XML_GetCurrentColumnNumber) then resulted in a heap-based buffer over-read.",
         "URL": "https://github.com/libexpat/libexpat/pull/318",
+        "Commit SHA": "6da1f19625592bfb928253620cac568d9a9b9c65",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-682",
         "Description": "In Expat (aka libexpat) before 2.4.3, a left shift by 29 (or more) places in the storeAtts function in xmlparse.c can lead to realloc misbehavior (e.g., allocating too few bytes, or only freeing memory).",
         "URL": "https://github.com/libexpat/libexpat/pull/534",
+        "Commit SHA": "9dc50735f737eaf6890ad3fd4903db62b03a9ac4",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-190",
         "Description": "In doProlog in xmlparse.c in Expat (aka libexpat) before 2.4.3, an integer overflow exists for m_groupSize.",
         "URL": "https://github.com/libexpat/libexpat/pull/538",
+        "Commit SHA": "82c11af9d3dafc1b086a15efecd6ec07b6e13613",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-190",
         "Description": "addBinding in xmlparse.c in Expat (aka libexpat) before 2.4.3 has an integer overflow.",
         "URL": "https://github.com/libexpat/libexpat/pull/539",
+        "Commit SHA": "919a2bec5e12e6285031308e6da86f250b21d166",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-190",
         "Description": "defineAttribute in xmlparse.c in Expat (aka libexpat) before 2.4.3 has an integer overflow.",
         "URL": "https://github.com/libexpat/libexpat/pull/539",
+        "Commit SHA": "919a2bec5e12e6285031308e6da86f250b21d166",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-190",
         "Description": "Expat (aka libexpat) before 2.4.4 has a signed integer overflow in XML_GetBuffer, for configurations with a nonzero XML_CONTEXT_BYTES.",
         "URL": "https://github.com/libexpat/libexpat/pull/550",
+        "Commit SHA": "178d26f50af21ec23d6e43814b9b602590b5865c",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-190",
         "Description": "Expat (aka libexpat) before 2.4.4 has an integer overflow in the doProlog function.",
         "URL": "https://github.com/libexpat/libexpat/pull/551",
+        "Commit SHA": "5c168279c5ad4668e5e48fe13374fe7a7de4b573",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-116",
         "Description": "xmltok_impl.c in Expat (aka libexpat) before 2.4.5 lacks certain validation of encoding, such as checks for whether a UTF-8 character is valid in a certain context.",
         "URL": "https://github.com/libexpat/libexpat/pull/562",
+        "Commit SHA": "306b72134f157bbfd1637b20a22cabf4acfa136a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "CWE-668",
         "Description": "xmlparse.c in Expat (aka libexpat) before 2.4.5 allows attackers to insert namespace-separator characters into namespace URIs.",
         "URL": "https://github.com/libexpat/libexpat/pull/561",
+        "Commit SHA": "2cc97e875ef84da4bcf55156c83599116f7523b4",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -93,6 +104,7 @@
         "Problem_Type": "CWE-416",
         "Description": "libexpat before 2.4.9 has a use-after-free in the doContent function in xmlparse.c.",
         "URL": "https://github.com/libexpat/libexpat/pull/629",
+        "Commit SHA": "dde178b976934e16526a3277d31d9fa3fab7a6c1",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -101,6 +113,7 @@
         "Problem_Type": "CWE-416",
         "Description": "libexpat before 2.4.9 has a use-after-free in the doContent function in xmlparse.c.",
         "URL": "https://github.com/libexpat/libexpat/pull/640",
+        "Commit SHA": "a976e32abd257728a51dc55cf3d4ebee5b853459",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -109,6 +122,7 @@
         "Problem_Type": "CWE-416",
         "Description": "In libexpat through 2.4.9, there is a use-after free caused by overeager destruction of a shared DTD in XML_ExternalEntityParserCreate in out-of-memory situations.",
         "URL": "https://github.com/libexpat/libexpat/pull/650",
+        "Commit SHA": "56967f83d68d5fc750f9e66a9a76756c94c7c173",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -117,6 +131,7 @@
         "Problem_Type": "CWE-416",
         "Description": "In libexpat through 2.4.9, there is a use-after free caused by overeager destruction of a shared DTD in XML_ExternalEntityParserCreate in out-of-memory situations.",
         "URL": "https://github.com/libexpat/libexpat/pull/616",
+        "Commit SHA": null,
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
