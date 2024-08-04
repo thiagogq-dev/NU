@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Buffer Overflow vulnerability in authfile.c memcached 1.6.9 allows attackers to cause a denial of service via crafted authenticattion file.",
         "URL": "https://github.com/memcached/memcached/pull/806/commits/264722ae4e248b453be00e97197dadc685b60fd0",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
