@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-667",
         "Description": "An issue was discovered in Janus through 0.9.1. janus_audiobridge.c has a double mutex unlock when listing private rooms in AudioBridge.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/1988",
+        "Commit SHA": "797c156250e7e82c759d97c99af3152dbd3f4aef",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-706",
         "Description": "An issue was discovered in Janus through 0.9.1. janus.c tries to use a string that doesn't actually exist during a \"query_logger\" Admin API request, because of a typo in the JSON validation.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/1989",
+        "Commit SHA": "41d07de5d755d1c5820b62a3972761dff8c85161",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-362",
         "Description": "An issue was discovered in Janus through 0.9.1. plugins/janus_videocall.c in the VideoCall plugin mishandles session management because a race condition causes some references to be freed too early or too many times.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/1994",
+        "Commit SHA": "d5e786eedf5bc5f200dfafa98177e793350e4e32",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-362",
         "Description": "An issue was discovered in Janus through 0.9.1. plugins/janus_voicemail.c in the VoiceMail plugin has a race condition that could cause a server crash.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/1993",
+        "Commit SHA": "c78edb95e42f9e0fd3e7bf63a346b5748d25c562",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-362",
         "Description": "An issue was discovered in Janus through 0.9.1. janus.c has multiple concurrent threads that misuse the source property of a session, leading to a race condition when claiming sessions.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/1990",
+        "Commit SHA": "d26869dfe864b72027fde9a9c0eb664fa3df7001",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-476",
         "Description": "An issue was discovered in janus-gateway (aka Janus WebRTC Server) through 0.10.0. janus_sdp_process in sdp.c has a NULL pointer dereference.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/2214",
+        "Commit SHA": "5b15ded4c3542ccef097da5088d01d977652fe9d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-908",
         "Description": "An issue was discovered in janus-gateway (aka Janus WebRTC Server) through 0.10.0. janus_process_incoming_request in janus.c discloses information from uninitialized stack memory.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/2214",
+        "Commit SHA": "5b15ded4c3542ccef097da5088d01d977652fe9d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-476",
         "Description": "An issue was discovered in janus-gateway (aka Janus WebRTC Server) through 0.10.0. janus_sdp_preparse in sdp.c has a NULL pointer dereference.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/2214",
+        "Commit SHA": "5b15ded4c3542ccef097da5088d01d977652fe9d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-787",
         "Description": "An issue was discovered in janus-gateway (aka Janus WebRTC Server) through 0.10.0. janus_sdp_merge in sdp.c has a stack-based buffer overflow.",
         "URL": "https://github.com/meetecho/janus-gateway/pull/2214",
+        "Commit SHA": "5b15ded4c3542ccef097da5088d01d977652fe9d",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
