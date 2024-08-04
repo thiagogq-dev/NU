@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-476",
         "Description": "An issue was discovered in Mooltipass Moolticute through v0.42.1 and v0.42.x-testing through v0.42.5-testing. There is a NULL pointer dereference in MPDevice_win.cpp.",
         "URL": "https://github.com/mooltipass/moolticute/pull/483",
+        "Commit SHA": "b31478f8729f6c923f95b0b017d51b7d664dce96",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
