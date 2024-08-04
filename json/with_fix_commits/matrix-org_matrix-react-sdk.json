@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-345",
         "Description": "matrix-react-sdk is an npm package which is a Matrix SDK for React Javascript. In matrix-react-sdk before version 3.15.0, the user content sandbox can be abused to trick users into opening unexpected documents. The content is opened with a `blob` origin that cannot access Matrix user data, so messages and secrets are not at risk. This has been fixed in version 3.15.0.",
         "URL": "https://github.com/matrix-org/matrix-react-sdk/pull/5657",
+        "Commit SHA": "b386f0c73b95ecbb6ea7f8f79c6ff5171a8dedd1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-434",
         "Description": "Matrix-React-SDK is a react-based SDK for inserting a Matrix chat/voip client into a web page. Before version 3.21.0, when uploading a file, the local file preview can lead to execution of scripts embedded in the uploaded file. This can only occur after several user interactions to open the preview in a separate tab. This only impacts the local user while in the process of uploading. It cannot be exploited remotely or by other users. This vulnerability is patched in version 3.21.0.",
         "URL": "https://github.com/matrix-org/matrix-react-sdk/pull/5981",
+        "Commit SHA": "45acf70b00cb0c51740455d09164b1c3c033b5f3",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
