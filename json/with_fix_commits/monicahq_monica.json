@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross Site Scripting (XSS) in Monica before 2.19.1 via the journal page.",
         "URL": "https://github.com/monicahq/monica/pull/4451",
+        "Commit SHA": "dfea6a48dd2ae4145f86ee4f2439c4a4fd836bcb",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
