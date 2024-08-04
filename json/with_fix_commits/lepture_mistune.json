@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "mistune.py in Mistune 0.7.4 allows XSS via an unexpected newline (such as in java\\nscript:) or a crafted email address, related to the escape and autolink functions.",
         "URL": "https://github.com/lepture/mistune/pull/140",
+        "Commit SHA": "ab8f7de8bc78c2a88f9e01522b8a3a0aa8cd9416",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
