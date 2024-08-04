@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-295",
         "Description": "Nimble is a package manager for the Nim programming language. In Nim release versions before versions 1.2.10 and 1.4.4, \"nimble refresh\" fetches a list of Nimble packages over HTTPS without full verification of the SSL/TLS certificate due to the default setting of httpClient. An attacker able to perform MitM can deliver a modified package list containing malicious software packages. If the packages are installed and used the attack escalates to untrusted code execution.",
         "URL": "https://github.com/nim-lang/Nim/pull/16940",
+        "Commit SHA": "abac35e7437dd1ac2b3687dfa51de7f9d4b6e853",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "An issue was discovered in Nim before 1.6.2. The RST module of the Nim language stdlib, as used in NimForum and other products, permits the javascript: URI scheme and thus can lead to XSS in some applications. (Nim versions 1.6.2 and later are fixed; there may be backports of the fix to some earlier versions. NimForum 2.2.0 is fixed.)",
         "URL": "https://github.com/nim-lang/Nim/pull/19134",
+        "Commit SHA": "9338aa24977e84a33b9a7802eaff0777fcf4d9c3",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
