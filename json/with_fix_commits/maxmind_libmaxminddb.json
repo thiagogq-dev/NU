@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-125",
         "Description": "libmaxminddb before 1.4.3 has a heap-based buffer over-read in dump_entry_data_list in maxminddb.c.",
         "URL": "https://github.com/maxmind/libmaxminddb/pull/237",
+        "Commit SHA": "5dda63adc643c6c76f3d8c265ea4edccdbb1a880",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
