@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-287",
         "Description": "\nAuthentication bypass in vector-admin allows a user to register to a vector-admin server while \u00c2\u201cdomain restriction\u00c2\u201d is active, even when not owning an authorized email address.\n\n\n",
         "URL": "https://github.com/Mintplex-Labs/vector-admin/pull/128/commits/a581b8177dd6be719a5ef6d3ce4b1e939636bb41",
+        "Commit SHA": "a581b8177dd6be719a5ef6d3ce4b1e939636bb41",
         "Tag": "['Patch']"
     }
 ]
