@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Directory traversal in /connectors/index.php in MODX Revolution before 2.5.2-pl allows remote attackers to perform local file inclusion/traversal/manipulation via a crafted id (aka dir) parameter, related to browser/directory/getlist.",
         "URL": "https://github.com/modxcms/revolution/pull/13177",
+        "Commit SHA": "d3df889703f712e71eb0cdca4f9b316731f51143",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Directory traversal in /connectors/index.php in MODX Revolution before 2.5.2-pl allows remote attackers to perform local file inclusion/traversal/manipulation via a crafted dir parameter, related to browser/directory/remove.",
         "URL": "https://github.com/modxcms/revolution/pull/13177",
+        "Commit SHA": "d3df889703f712e71eb0cdca4f9b316731f51143",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Directory traversal in /connectors/index.php in MODX Revolution before 2.5.2-pl allows remote attackers to perform local file inclusion/traversal/manipulation via a crafted dir parameter, related to browser/directory/getfiles.",
         "URL": "https://github.com/modxcms/revolution/pull/13177",
+        "Commit SHA": "d3df889703f712e71eb0cdca4f9b316731f51143",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-434",
         "Description": "In MODX Revolution before 2.5.7, a user with file upload permissions is able to execute arbitrary code by uploading a file with the name .htaccess.",
         "URL": "https://github.com/modxcms/revolution/pull/13423",
+        "Commit SHA": "cd0955802ba49a16c206d02c9864c410f27e589d",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-79",
         "Description": "In MODX Revolution before 2.5.7, a user with resource edit permissions can inject an XSS payload into the title of any post via the pagetitle parameter to connectors/index.php.",
         "URL": "https://github.com/modxcms/revolution/pull/13415",
+        "Commit SHA": "a490f43f4a537ce054e8cf37cee9841bcc8d688b",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-79",
         "Description": "In MODX Revolution before 2.5.7, an attacker might be able to trigger XSS by injecting a payload into the HTTP Host header of a request. This is exploitable only in conjunction with other issues such as Cache Poisoning.",
         "URL": "https://github.com/modxcms/revolution/pull/13426",
+        "Commit SHA": "47b54677437b675decc8be7a8e090be5daca5d7f",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-79",
         "Description": "MODX Revolution 2.6.3 has XSS.",
         "URL": "https://github.com/modxcms/revolution/pull/13887/commits/3241473d8213e9551cef4ed0e8ac4645cfbd10c4",
+        "Commit SHA": "3241473d8213e9551cef4ed0e8ac4645cfbd10c4",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
