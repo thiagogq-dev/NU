@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "laracom (aka Laravel FREE E-Commerce Software) 1.4.11 has search?q= XSS.",
         "URL": "https://github.com/Laracommerce/laracom/pull/211",
+        "Commit SHA": "36ff6a5c4a7878c719304e9d9a5f1fc74a5af474",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
