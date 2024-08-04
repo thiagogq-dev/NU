@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "Lodash versions prior to 4.17.21 are vulnerable to Regular Expression Denial of Service (ReDoS) via the toNumber, trim and trimEnd functions.",
         "URL": "https://github.com/lodash/lodash/pull/5065",
+        "Commit SHA": "c4847ebe7d14540bb28a8b932a9ce1b9ecbfee1a",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
