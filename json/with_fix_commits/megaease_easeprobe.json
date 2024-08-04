@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "EaseProbe is a tool that can do health/status checking. An SQL injection issue was discovered in EaseProbe before 2.1.0 when using MySQL/PostgreSQL data checking. This problem has been fixed in v2.1.0.",
         "URL": "https://github.com/megaease/easeprobe/pull/330",
+        "Commit SHA": "caaf5860df2aaa76acd29bc40ec9a578d0b1d6e1",
         "Tag": "['Patch']"
     }
 ]
