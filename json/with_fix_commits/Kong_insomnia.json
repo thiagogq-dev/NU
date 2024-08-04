@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Kong Insomnia 2023.4.0 on macOS allows attackers to execute code and access restricted files, or make requests for TCC permissions, by using the DYLD_INSERT_LIBRARIES environment variable.",
         "URL": "https://github.com/Kong/insomnia/pull/6217/commits",
+        "Commit SHA": "0f0d41f9438e461441a13595c2514411771ab1a4",
         "Tag": "['Patch']"
     }
 ]
