@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-502",
         "Description": "MyBatis before 3.5.6 mishandles deserialization of object streams.",
         "URL": "https://github.com/mybatis/mybatis-3/pull/2079",
+        "Commit SHA": "d89b30095f4687ae96119d70ef4622128efdd73f",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
