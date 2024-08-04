@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "Gesior-AAC before 2019-05-01 allows ServiceCategoryID SQL injection in shop.php.",
         "URL": "https://github.com/marcomoa/gesior-aac/pull/8",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-89",
         "Description": "Gesior-AAC before 2019-05-01 allows SQL injection in tankyou.php.",
         "URL": "https://github.com/marcomoa/gesior-aac/pull/9",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-89",
         "Description": "Gesior-AAC before 2019-05-01 allows serviceID SQL injection in accountmanagement.php.",
         "URL": "https://github.com/marcomoa/gesior-aac/pull/11",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
