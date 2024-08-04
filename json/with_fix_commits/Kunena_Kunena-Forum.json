@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-434",
         "Description": "Kunena before 5.0.4 does not restrict avatar file extensions to gif, jpeg, jpg, and png. This can lead to XSS and remote code execution.",
         "URL": "https://github.com/Kunena/Kunena-Forum/pull/5028",
+        "Commit SHA": "62050c625a0798f86a6e51ea9e46164751ee3d19",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
