@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-125",
         "Description": "A vulnerbiility was found in Openscad, where a .scad file with no trailing newline could cause an out-of-bounds read during parsing of annotations.",
         "URL": "https://github.com/openscad/openscad/pull/4044",
+        "Commit SHA": "78a82cf31767bda6969d8ea2eb851dc24c12b4b0",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
