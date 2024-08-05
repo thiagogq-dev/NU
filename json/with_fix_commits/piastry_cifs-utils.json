@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "In cifs-utils through 6.14, a stack-based buffer overflow when parsing the mount.cifs ip= command-line argument could lead to local attackers gaining root privileges.",
         "URL": "https://github.com/piastry/cifs-utils/pull/7",
+        "Commit SHA": "8acc963a2e7e9d63fe1f2e7f73f5a03f83d9c379",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-787",
         "Description": "In cifs-utils through 6.14, a stack-based buffer overflow when parsing the mount.cifs ip= command-line argument could lead to local attackers gaining root privileges.",
         "URL": "https://github.com/piastry/cifs-utils/pull/7/commits/955fb147e97a6a74e1aaa65766de91e2c1479765",
+        "Commit SHA": "8acc963a2e7e9d63fe1f2e7f73f5a03f83d9c379",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-532",
         "Description": "cifs-utils through 6.14, with verbose logging, can cause an information leak when a file contains = (equal sign) characters but is not a valid credentials file.",
         "URL": "https://github.com/piastry/cifs-utils/pull/7",
+        "Commit SHA": "8acc963a2e7e9d63fe1f2e7f73f5a03f83d9c379",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
