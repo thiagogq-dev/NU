@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-311",
         "Description": "In Openshift Origin 3 the cookies being set in console have no 'secure', 'HttpOnly' attributes.",
         "URL": "https://github.com/openshift/origin/pull/2261",
+        "Commit SHA": "adfdfcd8d266976c1e364b7862a6debf66de27f7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-264",
         "Description": "Red Hat OpenShift Enterprise 3.2 and OpenShift Origin allow remote authenticated users to execute commands with root privileges by changing the root password in an sti builder image.",
         "URL": "https://github.com/openshift/origin/pull/7864",
+        "Commit SHA": "2d0350c84150d88be4d1ac181694366832a55709",
         "Tag": "['Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-200",
         "Description": "HAproxy in Red Hat OpenShift Enterprise 3.2 and OpenShift Origin allows local users to obtain the internal IP address of a pod by reading the \"OPENSHIFT_[namespace]_SERVERID\" cookie.",
         "URL": "https://github.com/openshift/origin/pull/8334",
+        "Commit SHA": "2d4cec7abefee8af1bfefa886541b370618d817c",
         "Tag": "['Patch']"
     }
 ]
