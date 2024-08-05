@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "This affects the package vis-timeline before 7.4.4. An attacker with the ability to control the items of a Timeline element can inject additional script code into the generated application.",
         "URL": "https://github.com/visjs/vis-timeline/pull/840",
+        "Commit SHA": "a7ca349c7b3b6080efd05776ac77bb27176d4d3f",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
