@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-91",
         "Description": "petl before 1.68, in some configurations, allows resolution of entities in an XML document.",
         "URL": "https://github.com/petl-developers/petl/pull/527",
+        "Commit SHA": "52447c0a2ff87f2c7bdd0017a5f3b6874ad262c6",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-91",
         "Description": "petl before 1.68, in some configurations, allows resolution of entities in an XML document.",
         "URL": "https://github.com/petl-developers/petl/pull/527/commits/1b0a09f08c3cdfe2e69647bd02f97c1367a5b5f8",
+        "Commit SHA": "52447c0a2ff87f2c7bdd0017a5f3b6874ad262c6",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
