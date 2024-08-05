@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-306",
         "Description": "A request-validation issue was discovered in Open5GS 2.1.3 through 2.2.x before 2.2.1. The WebUI component allows an unauthenticated user to use a crafted HTTP API request to create, read, update, or delete entries in the subscriber database. For example, new administrative users can be added. The issue occurs because Express is not set up to require authentication.",
         "URL": "https://github.com/open5gs/open5gs/pull/838",
+        "Commit SHA": "7848b6c9665523db74a7c914cf24972e3273008c",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
