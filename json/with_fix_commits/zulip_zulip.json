@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Zulip is an open-source team collaboration tool with unique topic-based threading that combines the best of email and chat to make remote work productive and delightful. The main development branch of Zulip Server from May 2, 2023 and later, including beta versions 7.0-beta1 and 7.0-beta2, is vulnerable to a cross-site scripting vulnerability in tooltips on the message feed. An attacker who can send messages could maliciously craft a topic for the message, such that a victim who hovers the tooltip for that topic in their message feed triggers execution of JavaScript code controlled by the attacker.",
         "URL": "https://github.com/zulip/zulip/pull/25370",
+        "Commit SHA": "3d3d30166dd634b4317dd5091d1ea20f7f48b0a0",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
