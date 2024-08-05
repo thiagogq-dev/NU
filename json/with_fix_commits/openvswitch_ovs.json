@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An out-of-bounds read in Organization Specific TLV was found in various versions of OpenvSwitch.",
         "URL": "https://github.com/openvswitch/ovs/pull/405",
+        "Commit SHA": "c76804cf5f5951c326b11f71a1ba362a5b3ac481",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-125",
         "Description": "An integer underflow in Organization Specific TLV was found in various versions of OpenvSwitch.",
         "URL": "https://github.com/openvswitch/ovs/pull/405",
+        "Commit SHA": "c76804cf5f5951c326b11f71a1ba362a5b3ac481",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
