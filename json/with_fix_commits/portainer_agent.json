@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "In Portainer Agent before 2.11.1, an API server can continue running even if not associated with a Portainer instance in the past few days.",
         "URL": "https://github.com/portainer/agent/pull/225/commits/a66977c76043fcff4a8f69c4b65988272d27c01f",
+        "Commit SHA": "e39fe0173fc4e63da02c56d10ca11f9967ed2e07",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
