@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An issue was discovered in Plataformatec Devise before 4.7.1. It confirms accounts upon receiving a request with a blank confirmation_token, if a database record has a blank value in the confirmation_token column. (However, there is no scenario within Devise itself in which such database records would exist.)",
         "URL": "https://github.com/plataformatec/devise/pull/5132",
+        "Commit SHA": "fee43f3c11e176c53c5c3bfda7fd2e97c4c912be",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-307",
         "Description": "Plataformatec Devise version 4.5.0 and earlier, using the lockable module contains a CWE-367 vulnerability in The `Devise::Models::Lockable` class, more specifically at the `#increment_failed_attempts` method. File location: lib/devise/models/lockable.rb that can result in Multiple concurrent requests can prevent an attacker from being blocked on brute force attacks. This attack appear to be exploitable via Network connectivity - brute force attacks. This vulnerability appears to have been fixed in 4.6.0 and later.",
         "URL": "https://github.com/plataformatec/devise/pull/4996",
+        "Commit SHA": "62703943bef75aba09ec3e346aba4c9159300ecd",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
