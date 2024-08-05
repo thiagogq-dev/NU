@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "In pgjdbc before 42.3.3, an attacker (who controls the jdbc URL or properties) can call java.util.logging.FileHandler to write to arbitrary files through the loggerFile and loggerLevel connection properties. An example situation is that an attacker could create an executable JSP file under a Tomcat web root. NOTE: the vendor's position is that there is no pgjdbc vulnerability; instead, it is a vulnerability for any application to use the pgjdbc driver with untrusted connection properties",
         "URL": "https://github.com/pgjdbc/pgjdbc/pull/2454/commits/017b929977b4f85795f9ad2fa5de6e80978b8ccc",
+        "Commit SHA": "12c7fb40f761d69d64ced158684af2ccef279b48",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
