@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Pimcore Perspective Editor provides an editor for Pimcore that allows users to add/remove/edit custom views and perspectives. This vulnerability has the potential to steal a user's cookie and gain unauthorized access to that user's account through the stolen cookie or redirect users to other malicious sites. Version 1.5.1 has a patch. As a workaround, one may apply the patch manually.",
         "URL": "https://github.com/pimcore/perspective-editor/pull/121.patch",
+        "Commit SHA": "16979055c684ff3321cf0945d11a1b0ee1e4b8d2",
         "Tag": "['Mailing List', 'Patch']"
     }
 ]
