@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "The Reviews Module before 2019-06-14 for OpenSource Table allows SQL injection in database/index.js.",
         "URL": "https://github.com/opensource-table/reviews-module/pull/6",
+        "Commit SHA": "ad97c50967a7adba799a37655dae44a1013e7b39",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
