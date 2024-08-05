@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-20",
         "Description": "The Pallets Project flask version Before 0.12.3 contains a CWE-20: Improper Input Validation vulnerability in flask that can result in Large amount of memory usage possibly leading to denial of service. This attack appear to be exploitable via Attacker provides JSON data in incorrect encoding. This vulnerability appears to have been fixed in 0.12.3. NOTE: this may overlap CVE-2019-1010083.",
         "URL": "https://github.com/pallets/flask/pull/2691",
+        "Commit SHA": "465b48ed4e4af52493df1febe4687f53032a5e0a",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
