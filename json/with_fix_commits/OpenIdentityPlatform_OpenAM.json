@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "The NT auth module in OpenAM before 14.6.6 allows a \"replace Samba username attack.\"",
         "URL": "https://github.com/OpenIdentityPlatform/OpenAM/pull/514",
+        "Commit SHA": "c0c28b23668a45a38598016a73a59f6393c8eb74",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-287",
         "Description": "Open Access Management (OpenAM) is an access management solution that includes Authentication, SSO, Authorization, Federation, Entitlements and Web Services Security. OpenAM up to version 14.7.2 does not properly validate the signature of SAML responses received as part of the SAMLv1.x Single Sign-On process. Attackers can use this fact to impersonate any OpenAM user, including the administrator, by sending a specially crafted SAML response to the SAMLPOSTProfileServlet servlet. This problem has been patched in  OpenAM 14.7.3-SNAPSHOT and later. User unable to upgrade should comment servlet `SAMLPOSTProfileServlet` from their pom file. See the linked GHSA for details.",
         "URL": "https://github.com/OpenIdentityPlatform/OpenAM/pull/624",
+        "Commit SHA": "7c18543d126e8a567b83bb4535631825aaa9d742",
         "Tag": "['Patch']"
     }
 ]
