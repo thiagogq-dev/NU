@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-120",
         "Description": "A buffer overflow vulnerability exists in the razermouse driver of OpenRazer up to version v3.3.0 allows attackers to cause a Denial of Service (DoS) and possibly escalate their privileges via a crafted buffer sent to the matrix_custom_frame device.",
         "URL": "https://github.com/openrazer/openrazer/pull/1790",
+        "Commit SHA": "7e8a04feb378a679f1bcdcae079a5100cc45663b",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
