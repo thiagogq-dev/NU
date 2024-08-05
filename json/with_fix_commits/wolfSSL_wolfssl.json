@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-203",
         "Description": "wolfSSL prior to version 3.12.2 provides a weak Bleichenbacher oracle when any TLS cipher suite using RSA key exchange is negotiated. An attacker can recover the private key from a vulnerable wolfSSL application. This vulnerability is referred to as \"ROBOT.\"",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/1229",
+        "Commit SHA": "098edc2845d52893b6fcfc1924af49946edfc4cf",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-310",
         "Description": "It was found that wolfssl before 3.15.7 is vulnerable to a new variant of the Bleichenbacher attack to perform downgrade attacks against TLS. This may lead to leakage of sensible data.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/1950",
+        "Commit SHA": "d6ebd2d83244374025d48d03ebd9a8b2258725bf",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-203",
         "Description": "wolfSSL 4.3.0 has mulmod code in wc_ecc_mulmod_ex in ecc.c that does not properly resist timing side-channel attacks.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/2894/",
+        "Commit SHA": "3cb0c600ba849e482ac52c3bf9f39c2c822c2f61",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-835",
         "Description": "An issue was discovered in wolfSSL before 4.5.0. It mishandles the change_cipher_spec (CCS) message processing logic for TLS 1.3. If an attacker sends ChangeCipherSpec messages in a crafted way involving more than one in a row, the server becomes stuck in the ProcessReply() loop, i.e., a denial of service.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/2927",
+        "Commit SHA": "a585e4115eded0ddcc0195b5b7b09de85bda8900",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-787",
         "Description": "RsaPad_PSS in wolfcrypt/src/rsa.c in wolfSSL before 4.6.0 has an out-of-bounds write for certain relationships between key size and digest size.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/3426",
+        "Commit SHA": "63bf5dc56ccbfc12a73b06327361687091a4c6f7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-295",
         "Description": "DoTls13CertificateVerify in tls13.c in wolfSSL before 4.7.0 does not cease processing for certain anomalous peer behavior (sending an ED22519, ED448, ECC, or RSA signature without the corresponding certificate). The client side is affected because man-in-the-middle attackers can impersonate TLS 1.3 servers.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/3676",
+        "Commit SHA": "58f9b6ec01f0caf89e9e4d37a8816b310005aaf1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "wolfSSL 4.6.x through 4.7.x before 4.8.0 does not produce a failure outcome when the serial number in an OCSP request differs from the serial number in the OCSP response.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/3990",
+        "Commit SHA": "385e0bedaac935a1fc86766fbb2fcc47c9b82386",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-295",
         "Description": "In wolfSSL before 5.2.0, certificate validation may be bypassed during attempted authentication by a TLS 1.3 client to a TLS 1.3 server. This occurs when the sig_algo field differs between the certificate_verify message and the certificate message.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/4813",
+        "Commit SHA": "f6d79ff598f5a007f2455d1c3f9e22c9e0875b5c",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-295",
         "Description": "In wolfSSL before 5.2.0, a TLS 1.3 server cannot properly enforce a requirement for mutual authentication. A client can simply omit the certificate_verify message from the handshake, and never present a certificate.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/4831",
+        "Commit SHA": "67b2a1be4027bc1d09baff6e93562c61a44998ab",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-754",
         "Description": "An issue was discovered in wolfSSL before 5.5.0. When a TLS 1.3 client connects to a wolfSSL server and SSL_clear is called on its session, the server crashes with a segmentation fault. This occurs in the second session, which is created through TLS session resumption and reuses the initial struct WOLFSSL. If the server reuses the previous session structure (struct WOLFSSL) by calling wolfSSL_clear(WOLFSSL* ssl) on it, the next received Client Hello (that resumes the previous session) crashes the server. Note that this bug is only triggered when resuming sessions using TLS session resumption. Only servers that use wolfSSL_clear instead of the recommended SSL_free; SSL_new sequence are affected. Furthermore, wolfSSL_clear is part of wolfSSL's compatibility layer and is not enabled by default. It is not part of wolfSSL's native API.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/5468",
+        "Commit SHA": "91a49da4b8e27be92c57aa9b3c8c3dfc7c5bf6db",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "CWE-770",
         "Description": "An issue was discovered in wolfSSL before 5.5.0 (when --enable-session-ticket is used); however, only version 5.3.0 is exploitable. Man-in-the-middle attackers or a malicious server can crash TLS 1.2 clients during a handshake. If an attacker injects a large ticket (more than 256 bytes) into a NewSessionTicket message in a TLS 1.2 handshake, and the client has a non-empty session cache, the session cache frees a pointer that points to unallocated memory, causing the client to crash with a \"free(): invalid pointer\" message. NOTE: It is likely that this is also exploitable during TLS 1.3 handshakes between a client and a malicious server. With TLS 1.3, it is not possible to exploit this as a man-in-the-middle.",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/5476",
+        "Commit SHA": "b9d9dc02bb64993e0bd53e2ce66ce3c8d280b787",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -93,6 +104,7 @@
         "Problem_Type": "CWE-295",
         "Description": "If a TLS 1.3 client gets neither a PSK (pre shared key) extension nor a KSE (key share extension) when connecting to a malicious server, a default predictable buffer gets used for the IKM (Input Keying Material) value when generating the session master secret. Using a potentially known IKM value when generating the session master secret key compromises the key generated, allowing an eavesdropper to reconstruct it and potentially allowing access to or meddling with message contents in the session. This issue does not affect client validation of connected servers, nor expose private key information, but could result in an insecure TLS 1.3 session when not controlling both sides of the connection. wolfSSL recommends that TLS 1.3 client side users update the version of wolfSSL used.\u00c2\u00a0\n\n\n",
         "URL": "https://github.com/wolfSSL/wolfssl/pull/6412",
+        "Commit SHA": "5f1ce09dce32366b4475c4d44f51e9dccbb41115",
         "Tag": "['Patch']"
     }
 ]
