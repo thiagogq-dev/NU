@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-862",
         "Description": "The AliasHandler component in PostfixAdmin before 3.0.2 allows remote authenticated domain admins to delete protected aliases via the delete parameter to delete.php, involving a missing permission check.",
         "URL": "https://github.com/postfixadmin/postfixadmin/pull/23",
+        "Commit SHA": "bf9ec09829dbaa4973eff662d5ca44089c9479f4",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
