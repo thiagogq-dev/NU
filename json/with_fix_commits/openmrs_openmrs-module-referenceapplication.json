@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A vulnerability was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. It has been rated as problematic. This issue affects some unknown processing of the file omod/src/main/webapp/pages/userApp.gsp. The manipulation leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 2.12.0 is able to address this issue. The name of the patch is 35f81901a4cb925747a9615b8706f5079d2196a1. It is recommended to upgrade the affected component. The identifier VDB-216881 was assigned to this vulnerability.",
         "URL": "https://github.com/openmrs/openmrs-module-referenceapplication/pull/92",
+        "Commit SHA": "35f81901a4cb925747a9615b8706f5079d2196a1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A vulnerability classified as problematic was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. Affected by this vulnerability is the function post of the file omod/src/main/java/org/openmrs/module/referenceapplication/page/controller/UserAppPageController.java of the component User App Page. The manipulation of the argument AppId leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.12.0 is able to address this issue. The name of the patch is 0410c091d46eed3c132fe0fcafe5964182659f74. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216883.",
         "URL": "https://github.com/openmrs/openmrs-module-referenceapplication/pull/89",
+        "Commit SHA": "0410c091d46eed3c132fe0fcafe5964182659f74",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
