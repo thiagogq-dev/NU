@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "In PQUIC before 5bde5bb, retention of unused initial encryption keys allows attackers to disrupt a connection with a PSK configuration by sending a CONNECTION_CLOSE frame that is encrypted via the initial key computed. Network traffic sniffing is needed as part of exploitation.",
         "URL": "https://github.com/p-quic/pquic/pull/39",
+        "Commit SHA": "5bde5bb5534ae3fc233547b2db88f418fceff170",
         "Tag": "['Patch']"
     }
 ]
