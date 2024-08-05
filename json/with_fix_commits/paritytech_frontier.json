@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1284",
         "Description": "Frontier is Substrate's Ethereum compatibility layer. Prior to commit number 0b962f218f0cdd796dadfe26c3f09e68f7861b26, a bug in `pallet-ethereum` can cause invalid transactions to be included in the Ethereum block state in `pallet-ethereum` due to not validating the input data size. Any invalid transactions included this way have no possibility to alter the internal Ethereum or Substrate state. The transaction will appear to have be included, but is of no effect as it is rejected by the EVM engine. The impact is further limited by Substrate extrinsic size constraints. A patch is available in commit number 0b962f218f0cdd796dadfe26c3f09e68f7861b26. There are no workarounds aside from applying the patch.",
         "URL": "https://github.com/paritytech/frontier/pull/465/commits/8a2b890a2fb477d5fedd0e4335b00623832849ae",
+        "Commit SHA": "0b962f218f0cdd796dadfe26c3f09e68f7861b26",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-1284",
         "Description": "Frontier is Substrate's Ethereum compatibility layer. Prior to commit number 0b962f218f0cdd796dadfe26c3f09e68f7861b26, a bug in `pallet-ethereum` can cause invalid transactions to be included in the Ethereum block state in `pallet-ethereum` due to not validating the input data size. Any invalid transactions included this way have no possibility to alter the internal Ethereum or Substrate state. The transaction will appear to have be included, but is of no effect as it is rejected by the EVM engine. The impact is further limited by Substrate extrinsic size constraints. A patch is available in commit number 0b962f218f0cdd796dadfe26c3f09e68f7861b26. There are no workarounds aside from applying the patch.",
         "URL": "https://github.com/paritytech/frontier/pull/465",
+        "Commit SHA": "0b962f218f0cdd796dadfe26c3f09e68f7861b26",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Frontier is Substrate's Ethereum compatibility layer. In the newly introduced signed Frontier-specific extrinsic for `pallet-ethereum`, a large part of transaction validation logic was only called in transaction pool validation, but not in block execution. Malicious validators can take advantage of this to put invalid transactions into a block. The attack is limited in that the signature is always validated, and the majority of the validation is done again in the subsequent `pallet-evm` execution logic. However, do note that a chain ID replay attack was possible. In addition, spamming attacks are of main concerns, while they are limited by Substrate block size limits and other factors. The issue is patched in commit `146bb48849e5393004be5c88beefe76fdf009aba`.",
         "URL": "https://github.com/paritytech/frontier/pull/497",
+        "Commit SHA": "334409cff422258d0c35d1ee50d0d78c2a627ae6",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-191",
         "Description": "Frontier is Substrate's Ethereum compatibility layer. Prior to commit number `8a93fdc6c9f4eb1d2f2a11b7ff1d12d70bf5a664`, a bug in Frontier's MODEXP precompile implementation can cause an integer underflow in certain conditions. This will cause a node crash for debug builds. For release builds (and production WebAssembly binaries), the impact is limited as it can only cause a normal EVM out-of-gas. Users who do not use MODEXP precompile in their runtime are not impacted. A patch is available in pull request #549.",
         "URL": "https://github.com/paritytech/frontier/pull/549",
+        "Commit SHA": "8a93fdc6c9f4eb1d2f2a11b7ff1d12d70bf5a664",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-670",
         "Description": "Frontier is Substrate's Ethereum compatibility layer. In affected versions the truncation done when converting between EVM balance type and Substrate balance type was incorrectly implemented. This leads to possible discrepancy between appeared EVM transfer value and actual Substrate value transferred. It is recommended that an emergency upgrade to be planned and EVM execution temporarily paused in the mean time. The issue is patched in Frontier master branch commit fed5e0a9577c10bea021721e8c2c5c378e16bf66 and polkadot-v0.9.22 branch commit e3e427fa2e5d1200a784679f8015d4774cedc934. This vulnerability affects only EVM internal states, but not Substrate balance states or node. You can temporarily pause EVM execution (by setting up a Substrate `CallFilter` that disables `pallet-evm` and `pallet-ethereum` calls before the patch can be applied.",
         "URL": "https://github.com/paritytech/frontier/pull/753",
+        "Commit SHA": "fed5e0a9577c10bea021721e8c2c5c378e16bf66",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-190",
         "Description": "Frontier is Substrate's Ethereum compatibility layer. A security issue was discovered affecting parsing of the RPC result of the exit reason in case of EVM reversion. In release build, this would cause the exit reason being incorrectly parsed and returned by RPC. In debug build, this would cause an overflow panic. No action is needed unless you have a bridge node that needs to distinguish different reversion exit reasons and you used RPC for this. There are currently no known workarounds.",
         "URL": "https://github.com/paritytech/frontier/pull/820",
+        "Commit SHA": "fff8cc43b7756ce3979a38fc473f38e6e24ac451",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-682",
         "Description": "Frontier is an Ethereum compatibility layer for Substrate. Prior to commit d3beddc6911a559a3ecc9b3f08e153dbe37a8658, the worst case weight was always accounted as the block weight for all cases. In case of large EVM gas refunds, this can lead to block spamming attacks -- the adversary can construct blocks with transactions that have large amount of refunds or unused gases with reverts, and as a result inflate up the chain gas prices. The impact of this issue is limited in that the spamming attack would still be costly for any adversary, and it has no ability to alter any chain state. This issue has been patched in commit d3beddc6911a559a3ecc9b3f08e153dbe37a8658. There are no known workarounds.",
         "URL": "https://github.com/paritytech/frontier/pull/851",
+        "Commit SHA": "d3beddc6911a559a3ecc9b3f08e153dbe37a8658",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-682",
         "Description": "Frontier is an Ethereum compatibility layer for Substrate. Frontier's `modexp` precompile uses `num-bigint` crate under the hood. In the implementation prior to pull request 1017, the cases for modulus being even and modulus being odd are treated separately. Odd modulus uses the fast Montgomery multiplication, and even modulus uses the slow plain power algorithm. This gas cost discrepancy was not accounted for in the `modexp` precompile, leading to possible denial of service attacks.\n\nNo fixes for `num-bigint` are currently available, and thus this issue is fixed in the short term by raising the gas costs for even modulus, and in the long term fixing it in `num-bigint` or switching to another modexp implementation. The short-term fix for Frontier is deployed at pull request 1017. There are no known workarounds aside from applying the fix.",
         "URL": "https://github.com/paritytech/frontier/pull/1017",
+        "Commit SHA": "5af12e94d7dfc8a0208a290643a800f55de7b219",
         "Tag": "['Patch']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-770",
         "Description": "Frontier is Substrate's Ethereum compatibility layer. Prior to commit aea528198b3b226e0d20cce878551fd4c0e3d5d0, at the end of a contract execution, when opcode SUICIDE marks a contract to be deleted, the software uses `storage::remove_prefix` (now renamed to `storage::clear_prefix`) to remove all storages associated with it. This is a single IO primitive call passing the WebAssembly boundary. For large contracts, the call (without providing a `limit` parameter) can be slow. In addition, for parachains, all storages to be deleted will be part of the PoV, which easily exceed relay chain PoV size limit. On the other hand, Frontier's maintainers only charge a fixed cost for opcode SUICIDE. The maintainers consider the severity of this issue high, because an attacker can craft a contract with a lot of storage values on a parachain, and then call opcode SUICIDE on the contract. If the transaction makes into a parachain block, the parachain will then stall because the PoV size will exceed relay chain's limit. This is especially an issue for XCM transactions, because they can't be skipped. Commit aea528198b3b226e0d20cce878551fd4c0e3d5d0 contains a patch for this issue. For parachains, it's recommended to issue an emergency runtime upgrade as soon as possible. For standalone chains, the impact is less severe because the issue mainly affects PoV sizes. It's recommended to issue a normal runtime upgrade as soon as possible. There are no known workarounds.",
         "URL": "https://github.com/paritytech/frontier/pull/1212",
+        "Commit SHA": "aea528198b3b226e0d20cce878551fd4c0e3d5d0",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
