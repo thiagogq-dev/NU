@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "The orchest/orchest repository before 2022.05.0 on GitHub allows absolute path traversal because the Flask send_file function is used unsafely.",
         "URL": "https://github.com/orchest/orchest/pull/913",
+        "Commit SHA": "a5401b6ae4368f10aec43269e1904fb6b92780a2",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-352",
         "Description": "### Impact In a CSRF attack, an innocent end user is tricked by an attacker into submitting a web request that they did not intend. This may cause actions to be performed on the website that can include inadvertent client or server data leakage, change of session state, or manipulation of an end user's account. ### Patch Upgrade to v2022.09.10 to patch this vulnerability. ### Workarounds Rebuild and redeploy the Orchest `auth-server` with this commit: https://github.com/orchest/orchest/commit/c2587a963cca742c4a2503bce4cfb4161bf64c2d ### References https://en.wikipedia.org/wiki/Cross-site_request_forgery https://cwe.mitre.org/data/definitions/352.html ### For more information If you have any questions or comments about this advisory: * Open an issue in https://github.com/orchest/orchest * Email us at rick@orchest.io",
         "URL": "https://github.com/orchest/orchest/pull/1324",
+        "Commit SHA": "3692eadcf0de10fbaae04ae31aa28bb16b1df386",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
