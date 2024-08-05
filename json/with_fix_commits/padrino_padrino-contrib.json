@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "The breadcrumbs contributed module through 0.2.0 for Padrino Framework allows XSS via a caption.",
         "URL": "https://github.com/padrino/padrino-contrib/pull/35",
+        "Commit SHA": "662616162265a74da5a35b55c10f85d8168fc635",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
