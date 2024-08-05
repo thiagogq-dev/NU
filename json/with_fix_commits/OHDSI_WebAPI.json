@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "Observational Health Data Sciences and Informatics (OHDSI) WebAPI before 2.7.2 allows SQL injection in FeatureExtractionService.java.",
         "URL": "https://github.com/OHDSI/WebAPI/pull/1101",
+        "Commit SHA": "d7b12b2f5234e425e5bc76545e75de0d6eb3f8fd",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
