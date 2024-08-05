@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL Injection vulnerability in function getTableCreationQuery in CreateAddField.php in phpMyAdmin 5.x before 5.2.0 via the tbl_storage_engine or tbl_collation parameters to tbl_create.php.",
         "URL": "https://github.com/phpmyadmin/phpmyadmin/pull/16004",
+        "Commit SHA": "e1f5dfcd167488a3a72706cb3ebb792a62452e38",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
