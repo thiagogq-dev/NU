@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-754",
         "Description": "ink! is an embedded domain specific language to write smart contracts in Rust for blockchains built on the Substrate framework. Starting in version 4.0.0 and prior to version 4.2.1, the return value when using delegate call mechanics, either through `CallBuilder::delegate` or `ink_env::invoke_contract_delegate`, is decoded incorrectly. This bug was related to the mechanics around decoding a call's return buffer, which was changed as part of pull request 1450. Since this feature was only released in ink! 4.0.0, no previous versions are affected. Users who have an ink! 4.x series contract should upgrade to 4.2.1 to receive a patch.",
         "URL": "https://github.com/paritytech/ink/pull/1450",
+        "Commit SHA": "6c6e51a88802e1a7ed578f159caeca1c01ec0dea",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
