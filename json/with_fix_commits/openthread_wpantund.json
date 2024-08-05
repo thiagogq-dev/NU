@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-401",
         "Description": "A memory leak in Openthread's wpantund versions up to commit 0e5d1601febb869f583e944785e5685c6c747be7, when used in an environment where wpanctl is directly interfacing with the control driver (eg: debug environments) can allow an attacker to crash the service (DoS). We recommend updating, or to restrict access in your debug environments.",
         "URL": "https://github.com/openthread/wpantund/pull/468/commits/0e5d1601febb869f583e944785e5685c6c747be7",
+        "Commit SHA": "3f108441e23e033b936e85be5b6877dd0a1fbf1c",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
