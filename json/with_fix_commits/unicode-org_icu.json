@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "An issue was discovered in International Components for Unicode (ICU) for C/C++ through 66.1. An integer overflow, leading to a heap-based buffer overflow, exists in the UnicodeString::doAppend() function in common/unistr.cpp.",
         "URL": "https://github.com/unicode-org/icu/pull/971",
+        "Commit SHA": "b7d08bc04a4296982fcef8b6b8a354a9e4e7afca",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-416",
         "Description": "International Components for Unicode (ICU-20850) v66.1 was discovered to contain a use after free bug in the pkg_createWithAssemblyCode function in the file tools/pkgdata/pkgdata.cpp.",
         "URL": "https://github.com/unicode-org/icu/pull/886",
+        "Commit SHA": "727505bddab0bfd527f1db6697cb4d4f7febe4a9",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
