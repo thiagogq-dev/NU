@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-119",
         "Description": "A buffer overflow has been found in the Zephyr Project's getaddrinfo() implementation in 1.9.0 and 1.10.0.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/6158",
+        "Commit SHA": "ede25c12a31597a9ddd18fef30ec32a207a2bd13",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-416",
         "Description": "Use After Free vulnerability in the Zephyr shell allows a serial or telnet connected user to cause denial of service, and possibly remote code execution. This issue affects: Zephyr shell versions prior to 1.14.0 on all.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/13260",
+        "Commit SHA": "cd59e3f32a999221de35a47458db40bc44a29874",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-119",
         "Description": "Improper Restriction of Operations within the Bounds of a Memory Buffer vulnerability in the shell component of Zephyr allows a serial or telnet connected user to cause a crash, possibly with arbitrary code execution. This issue affects: Zephyr shell versions prior to 1.14.0 on all.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/13048",
+        "Commit SHA": "1e968a197673ba9d3b55af31b29502f010d92155",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-120",
         "Description": "USB DFU has a potential buffer overflow where the requested length (wLength) is not checked against the buffer size. This could be used by a malicious USB host to exploit the buffer overflow. See NCC-ZEP-002 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23190",
+        "Commit SHA": "105849cf38bf8e1ac9e2bcdca559f5da1b4c0034",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-120",
         "Description": "USB DFU has a potential buffer overflow where the requested length (wLength) is not checked against the buffer size. This could be used by a malicious USB host to exploit the buffer overflow. See NCC-ZEP-002 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23457",
+        "Commit SHA": "8289dc75dda522b459418ec93f8a91012fdeddb9",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-120",
         "Description": "USB DFU has a potential buffer overflow where the requested length (wLength) is not checked against the buffer size. This could be used by a malicious USB host to exploit the buffer overflow. See NCC-ZEP-002 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23460",
+        "Commit SHA": "afb307d3ff994714b929542cfdc4836dc51f49ff",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Out-of-bounds Write in the USB Mass Storage memoryWrite handler with unaligned Sizes See NCC-ZEP-024, NCC-ZEP-025, NCC-ZEP-026 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23455",
+        "Commit SHA": "dae2e71c581b89dfd783e998bcdc64553bc2aa39",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Out-of-bounds Write in the USB Mass Storage memoryWrite handler with unaligned Sizes See NCC-ZEP-024, NCC-ZEP-025, NCC-ZEP-026 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23456",
+        "Commit SHA": "d59ad8170884c0cedfc3555d9551aa8d2a7d2ac8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Out-of-bounds Write in the USB Mass Storage memoryWrite handler with unaligned Sizes See NCC-ZEP-024, NCC-ZEP-025, NCC-ZEP-026 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23240",
+        "Commit SHA": "23ace0e55681c02a81fb6b891f832aa356c85aab",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-120",
         "Description": "A malformed JSON payload that is received from an UpdateHub server may trigger memory corruption in the Zephyr OS. This could result in a denial of service in the best case, or code execution in the worst case. See NCC-NCC-016 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions. version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24065",
+        "Commit SHA": "4c5eabfa921a55193e890f89dcb74d2db4d8e22a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "CWE-120",
         "Description": "A malformed JSON payload that is received from an UpdateHub server may trigger memory corruption in the Zephyr OS. This could result in a denial of service in the best case, or code execution in the worst case. See NCC-NCC-016 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions. version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24154",
+        "Commit SHA": "894dcbbf1559e14d009ab62f585876c69ed94549",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -93,6 +104,7 @@
         "Problem_Type": "CWE-120",
         "Description": "A malformed JSON payload that is received from an UpdateHub server may trigger memory corruption in the Zephyr OS. This could result in a denial of service in the best case, or code execution in the worst case. See NCC-NCC-016 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions. version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24066",
+        "Commit SHA": "341681f31291571f24b9f08d5b374f85d115903f",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -101,6 +113,7 @@
         "Problem_Type": "CWE-120",
         "Description": "The shell subsystem contains a buffer overflow, whereby an adversary with physical access to the device is able to cause a memory corruption, resulting in denial of service or possibly code execution within the Zephyr kernel. See NCC-NCC-019 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23646",
+        "Commit SHA": "13fd2d343bfb8403b39569d1f5c44121a303a95d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -109,6 +122,7 @@
         "Problem_Type": "CWE-120",
         "Description": "The shell subsystem contains a buffer overflow, whereby an adversary with physical access to the device is able to cause a memory corruption, resulting in denial of service or possibly code execution within the Zephyr kernel. See NCC-NCC-019 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23304",
+        "Commit SHA": "a2872c3a008dd73f9a0dd1834da7f5bb2a51d3dd",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -117,6 +131,7 @@
         "Problem_Type": "CWE-120",
         "Description": "The shell subsystem contains a buffer overflow, whereby an adversary with physical access to the device is able to cause a memory corruption, resulting in denial of service or possibly code execution within the Zephyr kernel. See NCC-NCC-019 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23649",
+        "Commit SHA": "9d3186c43a8ffbfd5e8b25955c10c61b15a50409",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -125,6 +140,7 @@
         "Problem_Type": "CWE-697",
         "Description": "The arm platform-specific code uses a signed integer comparison when validating system call numbers. An attacker who has obtained code execution within a user thread is able to elevate privileges to that of the kernel. See NCC-ZEP-001 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23323",
+        "Commit SHA": "61fc061fc43bbe9a113974bc5beaf63ab8093310",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -133,6 +149,7 @@
         "Problem_Type": "CWE-697",
         "Description": "The arm platform-specific code uses a signed integer comparison when validating system call numbers. An attacker who has obtained code execution within a user thread is able to elevate privileges to that of the kernel. See NCC-ZEP-001 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23498",
+        "Commit SHA": "d4f1e731307fda42d8bf7f79ab001abd94dee52b",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -141,6 +158,7 @@
         "Problem_Type": "CWE-697",
         "Description": "The arm platform-specific code uses a signed integer comparison when validating system call numbers. An attacker who has obtained code execution within a user thread is able to elevate privileges to that of the kernel. See NCC-ZEP-001 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23535",
+        "Commit SHA": "6da1361c71a1bf1d1b7108ec56b91163f4e259d8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -149,6 +167,7 @@
         "Problem_Type": "CWE-697",
         "Description": "An attacker who has obtained code execution within a user thread is able to elevate privileges to that of the kernel. See NCC-ZEP-001 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23500",
+        "Commit SHA": "de09c936e927092fa0ae92bc2e668b3c95c5bafd",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -157,6 +176,7 @@
         "Problem_Type": "CWE-697",
         "Description": "An attacker who has obtained code execution within a user thread is able to elevate privileges to that of the kernel. See NCC-ZEP-001 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23499",
+        "Commit SHA": "8fa136d9a9b905a5d3984469101888f475446f85",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -165,6 +185,7 @@
         "Problem_Type": "CWE-697",
         "Description": "An attacker who has obtained code execution within a user thread is able to elevate privileges to that of the kernel. See NCC-ZEP-001 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23328",
+        "Commit SHA": "5f0650b596c54691df35b92d027383396eef457d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -173,6 +194,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Multiple syscalls with insufficient argument validation See NCC-ZEP-006 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23733",
+        "Commit SHA": "8c49afac8d5efa5a5519d1e102c92c120441b8a5",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -181,6 +203,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Multiple syscalls with insufficient argument validation See NCC-ZEP-006 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23308",
+        "Commit SHA": "d6d42bef9770a218985700fd430ce5fac6cea36e",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -189,6 +212,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Multiple syscalls with insufficient argument validation See NCC-ZEP-006 This issue affects: zephyrproject-rtos zephyr version 1.14.0 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23737",
+        "Commit SHA": "7722736184fc4d96e11f656d59eac82e6f71f5da",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -197,6 +221,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Multiple syscalls in the Kscan subsystem perform insufficient argument validation, allowing code executing in userspace to potentially gain elevated privileges. See NCC-ZEP-006 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23308",
+        "Commit SHA": "d6d42bef9770a218985700fd430ce5fac6cea36e",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -205,6 +230,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Multiple syscalls in the Kscan subsystem perform insufficient argument validation, allowing code executing in userspace to potentially gain elevated privileges. See NCC-ZEP-006 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23748",
+        "Commit SHA": "41df1c9380e8db1bec1c48e2646b0df7038ec127",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -213,6 +239,7 @@
         "Problem_Type": "CWE-295",
         "Description": "The UpdateHub module disables DTLS peer checking, which allows for a man in the middle attack. This is mitigated by firmware images requiring valid signatures. However, there is no benefit to using DTLS without the peer checking. See NCC-ZEP-018 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24997",
+        "Commit SHA": "9a3aa3c9c3bb3076c35610e15391697706877cdc",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -221,6 +248,7 @@
         "Problem_Type": "CWE-295",
         "Description": "The UpdateHub module disables DTLS peer checking, which allows for a man in the middle attack. This is mitigated by firmware images requiring valid signatures. However, there is no benefit to using DTLS without the peer checking. See NCC-ZEP-018 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24954",
+        "Commit SHA": "69e8a7b657c6160801a73f4dd40ec29432e2d348",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -229,6 +257,7 @@
         "Problem_Type": "CWE-295",
         "Description": "The UpdateHub module disables DTLS peer checking, which allows for a man in the middle attack. This is mitigated by firmware images requiring valid signatures. However, there is no benefit to using DTLS without the peer checking. See NCC-ZEP-018 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24999",
+        "Commit SHA": "4635cd23bb8675bf3370340400e11adfcb6cdf76",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -237,6 +266,7 @@
         "Problem_Type": "CWE-824",
         "Description": "In updatehub_probe, right after JSON parsing is complete, objects\\[1] is accessed from the output structure in two different places. If the JSON contained less than two elements, this access would reference unitialized stack memory. This could result in a crash, denial of service, or possibly an information leak. Provided the fix in CVE-2020-10059 is applied, the attack requires compromise of the server. See NCC-ZEP-030 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions. version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/27889",
+        "Commit SHA": "aa9248f5b7912c1c934365b890ed5fbb8c84ebe3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -245,6 +275,7 @@
         "Problem_Type": "CWE-824",
         "Description": "In updatehub_probe, right after JSON parsing is complete, objects\\[1] is accessed from the output structure in two different places. If the JSON contained less than two elements, this access would reference unitialized stack memory. This could result in a crash, denial of service, or possibly an information leak. Provided the fix in CVE-2020-10059 is applied, the attack requires compromise of the server. See NCC-ZEP-030 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions. version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/27865",
+        "Commit SHA": "9974a2a76afe765c5c9652e58b76580a75f1dacd",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -253,6 +284,7 @@
         "Problem_Type": "CWE-824",
         "Description": "In updatehub_probe, right after JSON parsing is complete, objects\\[1] is accessed from the output structure in two different places. If the JSON contained less than two elements, this access would reference unitialized stack memory. This could result in a crash, denial of service, or possibly an information leak. Provided the fix in CVE-2020-10059 is applied, the attack requires compromise of the server. See NCC-ZEP-030 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions. version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/27893",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -261,6 +293,7 @@
         "Problem_Type": "CWE-824",
         "Description": "In updatehub_probe, right after JSON parsing is complete, objects\\[1] is accessed from the output structure in two different places. If the JSON contained less than two elements, this access would reference unitialized stack memory. This could result in a crash, denial of service, or possibly an information leak. Provided the fix in CVE-2020-10059 is applied, the attack requires compromise of the server. See NCC-ZEP-030 This issue affects: zephyrproject-rtos zephyr version 2.1.0 and later versions. version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/27891",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -269,6 +302,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Improper handling of the full-buffer case in the Zephyr Bluetooth implementation can result in memory corruption. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23547",
+        "Commit SHA": "37c46e3cf5ecd0812d215f960aa1414f65bc7867",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -277,6 +311,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Improper handling of the full-buffer case in the Zephyr Bluetooth implementation can result in memory corruption. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23091",
+        "Commit SHA": "17e2618f2f75bc9358ae3f694a5fc62949f5702d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -285,6 +320,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Improper handling of the full-buffer case in the Zephyr Bluetooth implementation can result in memory corruption. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23516",
+        "Commit SHA": "5474dbb5443be96a3f6a7736bbd72b3ae7622a8d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -293,6 +329,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Improper handling of the full-buffer case in the Zephyr Bluetooth implementation can result in memory corruption. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23517",
+        "Commit SHA": "6a37dc5a68e31ce104a5566392b9c0885598c554",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -301,6 +338,7 @@
         "Problem_Type": "CWE-193",
         "Description": "An off-by-one error in the Zephyr project MQTT packet length decoder can result in memory corruption and possible remote code execution. NCC-ZEP-031 This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23821/commits/11b7a37d9a0b438270421b224221d91929843de4",
+        "Commit SHA": "b173c177db7fd69bf658aeceaa9f2b7e0d4b7895",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -309,6 +347,7 @@
         "Problem_Type": "CWE-190",
         "Description": "A remote adversary with the ability to send arbitrary CoAP packets to be parsed by Zephyr is able to cause a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24435",
+        "Commit SHA": "e6204a982ec793baa1fe154f47475d6db3f36fdf",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -317,6 +356,7 @@
         "Problem_Type": "CWE-190",
         "Description": "A remote adversary with the ability to send arbitrary CoAP packets to be parsed by Zephyr is able to cause a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24535",
+        "Commit SHA": "bdb1bc8977f9c28737e35a4b15495926f50e08a8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -325,6 +365,7 @@
         "Problem_Type": "CWE-190",
         "Description": "A remote adversary with the ability to send arbitrary CoAP packets to be parsed by Zephyr is able to cause a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24530",
+        "Commit SHA": "3b80046e3417f355b12e585280159daf0acf7889",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -333,6 +374,7 @@
         "Problem_Type": "CWE-190",
         "Description": "A remote adversary with the ability to send arbitrary CoAP packets to be parsed by Zephyr is able to cause a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/24531",
+        "Commit SHA": "385f88242e56ed35228d9a08c7c62d4a5e71834a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -341,6 +383,7 @@
         "Problem_Type": "CWE-190",
         "Description": "A malicious userspace application can cause a integer overflow and bypass security checks performed by system call handlers. The impact would depend on the underlying system call and can range from denial of service to information leak to memory corruption resulting in code execution within the kernel. See NCC-ZEP-005 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23654",
+        "Commit SHA": "2649e4c0bef3582ad4146109d315088b838d092f",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -349,6 +392,7 @@
         "Problem_Type": "CWE-190",
         "Description": "A malicious userspace application can cause a integer overflow and bypass security checks performed by system call handlers. The impact would depend on the underlying system call and can range from denial of service to information leak to memory corruption resulting in code execution within the kernel. See NCC-ZEP-005 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23239",
+        "Commit SHA": "4b2fc256cfe46f831da3bb8176a849645713dcee",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -357,6 +401,7 @@
         "Problem_Type": "CWE-190",
         "Description": "A malicious userspace application can cause a integer overflow and bypass security checks performed by system call handlers. The impact would depend on the underlying system call and can range from denial of service to information leak to memory corruption resulting in code execution within the kernel. See NCC-ZEP-005 This issue affects: zephyrproject-rtos zephyr version 1.14.1 and later versions. version 2.1.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23653",
+        "Commit SHA": "f032de6cc8969922d504176a7bd35ce30c95f996",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -365,6 +410,7 @@
         "Problem_Type": "CWE-20",
         "Description": "In the Zephyr project Bluetooth subsystem, certain duplicate and back-to-back packets can cause incorrect behavior, resulting in a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23964",
+        "Commit SHA": "eee10e9aff2e3eb9e9cf75293e3e533126f0792a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -373,6 +419,7 @@
         "Problem_Type": "CWE-20",
         "Description": "In the Zephyr project Bluetooth subsystem, certain duplicate and back-to-back packets can cause incorrect behavior, resulting in a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23091",
+        "Commit SHA": "17e2618f2f75bc9358ae3f694a5fc62949f5702d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -381,6 +428,7 @@
         "Problem_Type": "CWE-20",
         "Description": "In the Zephyr project Bluetooth subsystem, certain duplicate and back-to-back packets can cause incorrect behavior, resulting in a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23707",
+        "Commit SHA": "45500f3dc979b4b827925693de08f90653b4b35d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -389,6 +437,7 @@
         "Problem_Type": "CWE-20",
         "Description": "In the Zephyr project Bluetooth subsystem, certain duplicate and back-to-back packets can cause incorrect behavior, resulting in a denial of service. This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions, and version 1.14.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23708",
+        "Commit SHA": "79942b47cc69074e0b06c29f6e9d291e1298a848",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -397,6 +446,7 @@
         "Problem_Type": "CWE-120",
         "Description": "In the Zephyr Project MQTT code, improper bounds checking can result in memory corruption and possibly remote code execution. NCC-ZEP-031 This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23821/commits/0b39cbf3c01d7feec9d0dd7cc7e0e374b6113542",
+        "Commit SHA": "b173c177db7fd69bf658aeceaa9f2b7e0d4b7895",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -405,6 +455,7 @@
         "Problem_Type": "CWE-120",
         "Description": "The Zephyr MQTT parsing code performs insufficient checking of the length field on publish messages, allowing a buffer overflow and potentially remote code execution. NCC-ZEP-031 This issue affects: zephyrproject-rtos zephyr version 2.2.0 and later versions.",
         "URL": "https://github.com/zephyrproject-rtos/zephyr/pull/23821/commits/989c4713ba429aa5105fe476b4d629718f3e6082",
+        "Commit SHA": "b173c177db7fd69bf658aeceaa9f2b7e0d4b7895",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
