@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-532",
         "Description": "A flaw was found in the OpenShift API Server, where it failed to sufficiently protect OAuthTokens by leaking them into the logs when an API Server panic occurred. This flaw allows an attacker with the ability to cause an API Server error to read the logs, and use the leaked OAuthToken to log into the API Server with the leaked token.",
         "URL": "https://github.com/openshift/enhancements/pull/323",
+        "Commit SHA": "e33b4ea8856179eb8dd047682f75df10dd66ddb8",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
