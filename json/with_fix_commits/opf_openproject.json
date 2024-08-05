@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "OpenProject is open-source, web-based project management software. In versions prior to 11.3.3, the `MessagesController` class of OpenProject has a `quote` method that implements the logic behind the Quote button in the discussion forums, and it uses a regex to strip `<pre>` tags from the message being quoted. The `(.|\\s)` part can match a space character in two ways, so an unterminated `<pre>` tag containing `n` spaces causes Ruby's regex engine to backtrack to try 2<sup>n</sup> states in the NFA. This will result in a Regular Expression Denial of Service. The issue is fixed in OpenProject 11.3.3. As a workaround, one may install the patch manually.",
         "URL": "https://github.com/opf/openproject/pull/9447.patch",
+        "Commit SHA": "8365f575cb5626153aabbd73e55358987e353d52",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-89",
         "Description": "OpenProject is a web-based project management software. OpenProject versions >= 12.0.0 are vulnerable to a SQL injection in the budgets module. For authenticated users with the \"Edit budgets\" permission, the request to reassign work packages to another budget unsufficiently sanitizes user input in the `reassign_to_id` parameter. The vulnerability has been fixed in version 12.0.4. Versions prior to 12.0.0 are not affected. If you're upgrading from an older version, ensure you are upgrading to at least version 12.0.4. If you are unable to upgrade in a timely fashion, the following patch can be applied: https://github.com/opf/openproject/pull/9983.patch",
         "URL": "https://github.com/opf/openproject/pull/9983",
+        "Commit SHA": "8fe86234263465c31ee40ed55f9e78d6034cf8c8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-89",
         "Description": "OpenProject is a web-based project management software. OpenProject versions >= 12.0.0 are vulnerable to a SQL injection in the budgets module. For authenticated users with the \"Edit budgets\" permission, the request to reassign work packages to another budget unsufficiently sanitizes user input in the `reassign_to_id` parameter. The vulnerability has been fixed in version 12.0.4. Versions prior to 12.0.0 are not affected. If you're upgrading from an older version, ensure you are upgrading to at least version 12.0.4. If you are unable to upgrade in a timely fashion, the following patch can be applied: https://github.com/opf/openproject/pull/9983.patch",
         "URL": "https://github.com/opf/openproject/pull/9983.patch",
+        "Commit SHA": "8fe86234263465c31ee40ed55f9e78d6034cf8c8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-613",
         "Description": "OpenProject is open source project management software. Starting with version 7.4.0 and prior to version 12.5.4, when a user registers and confirms their first two-factor authentication (2FA) device for an account, existing logged in sessions for that user account are not terminated. Likewise, if an administrators creates a mobile phone 2FA device on behalf of a user, their existing sessions are not terminated. The issue has been resolved in OpenProject version 12.5.4 by actively terminating sessions of user accounts having registered and confirmed a 2FA device. As a workaround, users who register the first 2FA device on their account can manually log out to terminate all other active sessions. This is the default behavior of OpenProject but might be disabled through a configuration option. Double check that this option is not overridden if one plans to employ the workaround.",
         "URL": "https://github.com/opf/openproject/pull/12508",
+        "Commit SHA": "39f2781374c885a3c0723eae39fd62fa3c8b8a28",
         "Tag": "['Patch']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-319",
         "Description": "OpenProject is web-based project management software. For any OpenProject installation, a `robots.txt` file is generated through the server to denote which routes shall or shall not be accessed by crawlers. These routes contain project identifiers of all public projects in the instance. Prior to version 12.5.6, even if the entire instance is marked as `Login required` and prevents all truly anonymous access, the `/robots.txt` route remains publicly available.\n\nVersion 12.5.6 has a fix for this issue. Alternatively, users can download a patchfile to apply the patch to any OpenProject version greater than 10.0 As a workaround, one may mark any public project as non-public and give anyone in need of access to the project a membership.",
         "URL": "https://github.com/opf/openproject/pull/12708",
+        "Commit SHA": "1b649bcd4a6c1abfe6363aa9f0947f13b4a10f99",
         "Tag": "['Patch']"
     }
 ]
