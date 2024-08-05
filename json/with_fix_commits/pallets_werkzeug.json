@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Open redirect vulnerability in werkzeug before 0.11.6 via a double slash in the URL.",
         "URL": "https://github.com/pallets/werkzeug/pull/890/files",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
