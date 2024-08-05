@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-347",
         "Description": "phpseclib before 2.0.31 and 3.x before 3.0.7 mishandles RSA PKCS#1 v1.5 signature verification.",
         "URL": "https://github.com/phpseclib/phpseclib/pull/1635",
+        "Commit SHA": "05550b9c490bf342bce66de75d127d2f75c48bdd",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
