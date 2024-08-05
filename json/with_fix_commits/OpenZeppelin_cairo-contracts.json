@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-863",
         "Description": "OpenZeppelin Contracts for Cairo is a library for contract development written in Cairo for StarkNet, a decentralized ZK Rollup. Version 0.2.0 is vulnerable to an error that renders account contracts unusable on live networks. This issue affects all accounts (vanilla and ethereum flavors) in the v0.2.0 release of OpenZeppelin Contracts for Cairo, which are not whitelisted on StarkNet mainnet. Only goerli deployments of v0.2.0 accounts are affected. This faulty behavior is not observed in StarkNet's testing framework. This bug has been patched in v0.2.1.",
         "URL": "https://github.com/OpenZeppelin/cairo-contracts/pull/387",
+        "Commit SHA": "c2007df15001a411740376efb1b2b78df98e59d8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-347",
         "Description": "OpenZeppelin Contracts for Cairo is a library for secure smart contract development written in Cairo for StarkNet, a decentralized ZK Rollup. `is_valid_eth_signature` is missing a call to `finalize_keccak` after calling `verify_eth_signature`. As a result, any contract using `is_valid_eth_signature` from the account library (such as the `EthAccount` preset) is vulnerable to a malicious sequencer. Specifically, the malicious sequencer would be able to bypass signature validation to impersonate an instance of these accounts. The issue has been patched in 0.6.1.\n",
         "URL": "https://github.com/OpenZeppelin/cairo-contracts/pull/542/commits/6d4cb750478fca2fd916f73297632f899aca9299",
+        "Commit SHA": "8d5c0b4199a178f1d26d46c8d34de5edd97a5940",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
