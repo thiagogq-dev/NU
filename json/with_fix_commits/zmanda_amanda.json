@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-77",
         "Description": "Amanda 3.5.1 allows privilege escalation from the regular user backup to root. The SUID binary located at /lib/amanda/rundump will execute /usr/sbin/dump as root with controlled arguments from the attacker which may lead to escalation of privileges, denial of service, and information disclosure.",
         "URL": "https://github.com/zmanda/amanda/pull/197",
+        "Commit SHA": "ee766efdd77acd2e08f646bf2f9028944cdb9d06",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-77",
         "Description": "Amanda 3.5.1 allows privilege escalation from the regular user backup to root. The SUID binary located at /lib/amanda/rundump will execute /usr/sbin/dump as root with controlled arguments from the attacker which may lead to escalation of privileges, denial of service, and information disclosure.",
         "URL": "https://github.com/zmanda/amanda/pull/205",
+        "Commit SHA": "f069e2c190146c5ed4d5ef8df390ee5024d4a3c8",
         "Tag": "['Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-88",
         "Description": "A privilege escalation flaw was found in Amanda 3.5.1 in which the backup user can acquire root privileges. The vulnerable component is the runtar SUID program, which is a wrapper to run /usr/bin/tar with specific arguments that are controllable by the attacker. This program mishandles the arguments passed to tar binary (it expects that the argument name and value are separated with a space; however, separating them with an equals sign is also supported),",
         "URL": "https://github.com/zmanda/amanda/pull/194",
+        "Commit SHA": null,
         "Tag": "['Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-88",
         "Description": "A privilege escalation flaw was found in Amanda 3.5.1 in which the backup user can acquire root privileges. The vulnerable component is the runtar SUID program, which is a wrapper to run /usr/bin/tar with specific arguments that are controllable by the attacker. This program mishandles the arguments passed to tar binary (it expects that the argument name and value are separated with a space; however, separating them with an equals sign is also supported),",
         "URL": "https://github.com/zmanda/amanda/pull/196",
+        "Commit SHA": "497410c7555376795f324e5bd2cbed7742219099",
         "Tag": "['Patch']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-88",
         "Description": "A privilege escalation flaw was found in Amanda 3.5.1 in which the backup user can acquire root privileges. The vulnerable component is the runtar SUID program, which is a wrapper to run /usr/bin/tar with specific arguments that are controllable by the attacker. This program mishandles the arguments passed to tar binary (it expects that the argument name and value are separated with a space; however, separating them with an equals sign is also supported),",
         "URL": "https://github.com/zmanda/amanda/pull/204",
+        "Commit SHA": "448a8b663523bfaf4739aa43337c19fd305be027",
         "Tag": "['Patch']"
     }
 ]
