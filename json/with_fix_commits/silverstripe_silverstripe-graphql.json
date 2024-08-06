@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-770",
         "Description": "`silverstripe/graphql` serves Silverstripe data as GraphQL representations. In versions 4.2.2 and 4.1.1, an attacker could use a specially crafted graphql query to execute a denial of service attack against a website which has a publicly exposed graphql endpoint. This mostly affects websites with particularly large/complex graphql schemas. Users should upgrade to `silverstripe/graphql` 4.2.3 or 4.1.2 to remedy the vulnerability.",
         "URL": "https://github.com/silverstripe/silverstripe-graphql/pull/526",
+        "Commit SHA": "1d360f246a74884efdbd1f08bb45c583bdf61a2a",
         "Tag": "['Patch']"
     }
 ]
