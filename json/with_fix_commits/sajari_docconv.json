@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "A vulnerability was found in docconv up to 1.2.0. It has been declared as critical. This vulnerability affects the function ConvertPDFImages of the file pdf_ocr.go. The manipulation of the argument path leads to os command injection. The attack can be initiated remotely. Upgrading to version 1.2.1 is able to address this issue. The name of the patch is b19021ade3d0b71c89d35cb00eb9e589a121faa5. It is recommended to upgrade the affected component. VDB-216502 is the identifier assigned to this vulnerability.",
         "URL": "https://github.com/sajari/docconv/pull/110",
+        "Commit SHA": "b19021ade3d0b71c89d35cb00eb9e589a121faa5",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-789",
         "Description": "A vulnerability was found in docconv up to 1.2.0 and classified as problematic. This issue affects the function ConvertDocx/ConvertODT/ConvertPages/ConvertXML/XMLToText. The manipulation leads to uncontrolled memory allocation. The attack may be initiated remotely. Upgrading to version 1.2.1 is able to address this issue. The name of the patch is 42bcff666855ab978e67a9041d0cdea552f20301. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216779.",
         "URL": "https://github.com/sajari/docconv/pull/111",
+        "Commit SHA": "42bcff666855ab978e67a9041d0cdea552f20301",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
