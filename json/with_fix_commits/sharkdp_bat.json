@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-427",
         "Description": "sharkdp BAT before 0.18.2 executes less.exe from the current working directory.",
         "URL": "https://github.com/sharkdp/bat/pull/1724",
+        "Commit SHA": "3fa09dbe2e1755740eda1de0900853c4a6ee5f3a",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
