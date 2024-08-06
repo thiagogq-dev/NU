@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-89",
         "Description": "Shoppingfeed PrestaShop is an add-on to the PrestaShop ecommerce platform to synchronize data. The module Shoppingfeed for PrestaShop is vulnerable to SQL injection between version 1.4.0 and 1.8.2 due to a lack of input sanitization. This issue has been addressed in version 1.8.3. Users are advised to upgrade. There are no known workarounds for this issue.",
         "URL": "https://github.com/shoppingflux/module-prestashop/pull/209",
+        "Commit SHA": "a0a12f3084e0bcb593078b67c51be8d752dfd192",
         "Tag": "['Patch']"
     }
 ]
