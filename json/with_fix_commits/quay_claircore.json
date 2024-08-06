@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "A directory traversal vulnerability was found in the ClairCore engine of Clair. An attacker can exploit this by supplying a crafted container image which, when scanned by Clair, allows for arbitrary file write on the filesystem, potentially allowing for remote code execution.",
         "URL": "https://github.com/quay/claircore/pull/478",
+        "Commit SHA": "691f2023a1720a0579e688b69a2f4bfe1f4b7821",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
