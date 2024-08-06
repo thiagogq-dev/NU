@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Babel.Locale in Babel before 2.9.1 allows attackers to load arbitrary locale .dat files (containing serialized Python objects) via directory traversal, leading to code execution.",
         "URL": "https://github.com/python-babel/babel/pull/782",
+        "Commit SHA": "412015ef642bfcc0d8ba8f4d05cdbb6aac98d9b3",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
