@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-352",
         "Description": "An XSS combined with CSRF vulnerability discovered in SalesAgility SuiteCRM 7.x before 7.8.24 and 7.10.x before 7.10.11 leads to cookie stealing, aka session hijacking. This issue affects the \"add dashboard pages\" feature where users can receive a malicious attack through a phished URL, with script executed.",
         "URL": "https://github.com/salesagility/SuiteDocs/pull/198/files",
+        "Commit SHA": "5f03b4c17760fb8c8fad933d74735d1cbdff9ce6",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
