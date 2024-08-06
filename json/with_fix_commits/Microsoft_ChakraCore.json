@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-119",
         "Description": "A remote code execution vulnerability exists in Microsoft Chakra Core in the way JavaScript engines render when handling objects in memory. aka \"Scripting Engine Memory Corruption Vulnerability\". This vulnerability is unique from CVE-2017-0252.",
         "URL": "https://github.com/Microsoft/ChakraCore/pull/2959",
+        "Commit SHA": "b3aeb3048200c581ff2c7a578714146669e4cd8e",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-119",
         "Description": "A remote code execution vulnerability exists in Microsoft Chakra Core in the way JavaScript engines render when handling objects in memory. aka \"Scripting Engine Memory Corruption Vulnerability\". This vulnerability is unique from CVE-2017-0223.",
         "URL": "https://github.com/Microsoft/ChakraCore/pull/2959",
+        "Commit SHA": "b3aeb3048200c581ff2c7a578714146669e4cd8e",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
