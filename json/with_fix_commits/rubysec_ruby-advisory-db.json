@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Hash#slice in lib/i18n/core_ext/hash.rb in the i18n gem before 0.8.0 for Ruby allows remote attackers to cause a denial of service (application crash) via a call in a situation where :some_key is present in keep_keys but not present in the hash.",
         "URL": "https://github.com/rubysec/ruby-advisory-db/pull/182/files",
+        "Commit SHA": "76dc29f77ed744ddfb2a28bd499fc31a62df8b85",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-862",
         "Description": "Doorkeeper version 5.0.0 and later contains an information disclosure vulnerability that allows an attacker to retrieve the client secret only intended for the OAuth application owner. After authorizing the application and allowing access, the attacker simply needs to request the list of their authorized applications in a JSON format (usually GET /oauth/authorized_applications.json). An application is vulnerable if the authorized applications controller is enabled.",
         "URL": "https://github.com/rubysec/ruby-advisory-db/pull/446",
+        "Commit SHA": "a3968b68f8f59d9eac8dc269e22321366c312a47",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-770",
         "Description": "In api.rb in Sidekiq before 5.2.10 and 6.4.0, there is no limit on the number of days when requesting stats for the graph. This overloads the system, affecting the Web UI, and makes it unavailable to users.",
         "URL": "https://github.com/rubysec/ruby-advisory-db/pull/495",
+        "Commit SHA": "b4cfdf5edaee4f083ba3aa4d08a7fb1bb92e8f51",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
