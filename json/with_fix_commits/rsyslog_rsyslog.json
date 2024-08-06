@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-134",
         "Description": "The zmq3 input and output modules in rsyslog before 8.28.0 interpreted description fields as format strings, possibly allowing a format string attack with unspecified impact.",
         "URL": "https://github.com/rsyslog/rsyslog/pull/1565",
+        "Commit SHA": "062d0c671a29f7c6f7dff4a2f1f35df375bbb30b",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-125",
         "Description": "contrib/pmdb2diag/pmdb2diag.c in Rsyslog v8.1908.0 allows out-of-bounds access because the level length is mishandled.",
         "URL": "https://github.com/rsyslog/rsyslog/pull/3875",
+        "Commit SHA": "03efebf299436b3bb334e7048be9b4bad4ad834b",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-787",
         "Description": "An issue was discovered in Rsyslog v8.1908.0. contrib/pmaixforwardedfrom/pmaixforwardedfrom.c has a heap overflow in the parser for AIX log messages. The parser tries to locate a log message delimiter (in this case, a space or a colon) but fails to account for strings that do not satisfy this constraint. If the string does not match, then the variable lenMsg will reach the value zero and will skip the sanity check that detects invalid log messages. The message will then be considered valid, and the parser will eat up the nonexistent colon delimiter. In doing so, it will decrement lenMsg, a signed integer, whose value was zero and now becomes minus one. The following step in the parser is to shift left the contents of the message. To do this, it will call memmove with the right pointers to the target and destination strings, but the lenMsg will now be interpreted as a huge value, causing a heap overflow.",
         "URL": "https://github.com/rsyslog/rsyslog/pull/3884",
+        "Commit SHA": "c64dc4e0df91c0ff9aab2ddde891feff315124a7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-20",
         "Description": "An issue was discovered in Rsyslog v8.1908.0. contrib/pmcisconames/pmcisconames.c has a heap overflow in the parser for Cisco log messages. The parser tries to locate a log message delimiter (in this case, a space or a colon), but fails to account for strings that do not satisfy this constraint. If the string does not match, then the variable lenMsg will reach the value zero and will skip the sanity check that detects invalid log messages. The message will then be considered valid, and the parser will eat up the nonexistent colon delimiter. In doing so, it will decrement lenMsg, a signed integer, whose value was zero and now becomes minus one. The following step in the parser is to shift left the contents of the message. To do this, it will call memmove with the right pointers to the target and destination strings, but the lenMsg will now be interpreted as a huge value, causing a heap overflow.",
         "URL": "https://github.com/rsyslog/rsyslog/pull/3883",
+        "Commit SHA": "7092b225f17774325a891cb2e74fa12034e92104",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
