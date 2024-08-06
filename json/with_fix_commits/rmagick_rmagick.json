@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-401",
         "Description": "A memory leak flaw was found in ruby-magick, an interface between Ruby and ImageMagick. This issue can lead to a denial of service (DOS) by memory exhaustion.",
         "URL": "https://github.com/rmagick/rmagick/pull/1406",
+        "Commit SHA": "fec7a7e639ae565386f7615155dbcf49b957b64a",
         "Tag": "['Patch']"
     }
 ]
