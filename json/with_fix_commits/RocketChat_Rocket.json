@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "The Rocket.Chat desktop application 2.17.11 opens external links without user interaction.",
         "URL": "https://github.com/RocketChat/Rocket.Chat.Electron/pull/1710",
+        "Commit SHA": "c43a8a31289290e61eacd0e30dba5f14619ee911",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
