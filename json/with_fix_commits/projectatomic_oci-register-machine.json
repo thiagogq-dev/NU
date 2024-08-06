@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-200",
         "Description": "The machinectl command in oci-register-machine allows local users to list running containers and possibly obtain sensitive information by running that command.",
         "URL": "https://github.com/projectatomic/oci-register-machine/pull/22",
+        "Commit SHA": "40e9650bf1baa92a6f2513a43cd9440e5aba78e2",
         "Tag": "['Patch']"
     }
 ]
