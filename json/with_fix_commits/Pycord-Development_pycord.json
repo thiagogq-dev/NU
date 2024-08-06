@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-284",
         "Description": "py-cord is a an API wrapper for Discord written in Python. Bots creating using py-cord version 2.0.0 are vulnerable to remote shutdown if they are added to the server with the `application.commands` scope without the `bot` scope. Currently, it appears that all public bots that use slash commands are affected. This issue has been patched in version 2.0.1. There are currently no recommended workarounds - please upgrade to a patched version.",
         "URL": "https://github.com/Pycord-Development/pycord/pull/1568",
+        "Commit SHA": "2c3f794318aa7fcd5704654465ebcb76f0af4d3d",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
