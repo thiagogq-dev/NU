@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-306",
         "Description": "Metabase is an open source business analytics engine. To edit SQL Snippets, Metabase should have required people to be in at least one group with native query editing permissions to a database\u00c2\u2013but affected versions of Metabase didn't enforce that requirement. This lack of enforcement meant that: Anyone\u00c2\u2013including people in sandboxed groups\u00c2\u2013could edit SQL snippets. They could edit snippets via the API or, in the application UI, when editing the metadata for a model based on a SQL question, and people in sandboxed groups could edit a SQL snippet used in a query that creates their sandbox. If the snippet contained logic that restricted which data that person could see, they could potentially edit that snippet and change their level of data access. The permissions model for SQL snippets has been fixed in Metabase versions 0.46.3, 0.45.4, 0.44.7, 1.46.3, 1.45.4, and 1.44.7. Users are advised to upgrade. Users unable to upgrade should ensure that SQL queries used to create sandboxes exclude SQL snippets.",
         "URL": "https://github.com/metabase/metabase/pull/30852",
+        "Commit SHA": "8d74de2ed3a76c96995b335e20fa1434473962e2",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-306",
         "Description": "Metabase is an open source business analytics engine. To edit SQL Snippets, Metabase should have required people to be in at least one group with native query editing permissions to a database\u00c2\u2013but affected versions of Metabase didn't enforce that requirement. This lack of enforcement meant that: Anyone\u00c2\u2013including people in sandboxed groups\u00c2\u2013could edit SQL snippets. They could edit snippets via the API or, in the application UI, when editing the metadata for a model based on a SQL question, and people in sandboxed groups could edit a SQL snippet used in a query that creates their sandbox. If the snippet contained logic that restricted which data that person could see, they could potentially edit that snippet and change their level of data access. The permissions model for SQL snippets has been fixed in Metabase versions 0.46.3, 0.45.4, 0.44.7, 1.46.3, 1.45.4, and 1.44.7. Users are advised to upgrade. Users unable to upgrade should ensure that SQL queries used to create sandboxes exclude SQL snippets.",
         "URL": "https://github.com/metabase/metabase/pull/30853",
+        "Commit SHA": "0d55594e09077b5de54e54d39ecb6f5139c0359e",
         "Tag": "['Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-306",
         "Description": "Metabase is an open source business analytics engine. To edit SQL Snippets, Metabase should have required people to be in at least one group with native query editing permissions to a database\u00c2\u2013but affected versions of Metabase didn't enforce that requirement. This lack of enforcement meant that: Anyone\u00c2\u2013including people in sandboxed groups\u00c2\u2013could edit SQL snippets. They could edit snippets via the API or, in the application UI, when editing the metadata for a model based on a SQL question, and people in sandboxed groups could edit a SQL snippet used in a query that creates their sandbox. If the snippet contained logic that restricted which data that person could see, they could potentially edit that snippet and change their level of data access. The permissions model for SQL snippets has been fixed in Metabase versions 0.46.3, 0.45.4, 0.44.7, 1.46.3, 1.45.4, and 1.44.7. Users are advised to upgrade. Users unable to upgrade should ensure that SQL queries used to create sandboxes exclude SQL snippets.",
         "URL": "https://github.com/metabase/metabase/pull/30854",
+        "Commit SHA": "da9213758912b8033c1e2d9fb8334ff58edc49ca",
         "Tag": "['Patch']"
     }
 ]
