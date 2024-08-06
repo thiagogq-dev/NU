@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A stored, DOM based, cross-site scripting (XSS) flaw was found in Prometheus before version 2.7.1. An attacker could exploit this by convincing an authenticated user to visit a crafted URL on a Prometheus server, allowing for the execution and persistent storage of arbitrary scripts.",
         "URL": "https://github.com/prometheus/prometheus/pull/5163",
+        "Commit SHA": "b03d6f6eff8283bd7cb063edc21041d3fb6c9878",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
