@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-668",
         "Description": "In RestEasy Reactive implementation of Quarkus the insecure File.createTempFile() is used in the FileBodyHandler class which creates temp files with insecure permissions that could be read by a local user.",
         "URL": "https://github.com/quarkusio/quarkus/pull/30694",
+        "Commit SHA": "4646c1557e85372315155c5d78a1456da4ab383a",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
