@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-522",
         "Description": "Redpanda before 22.3.12 discloses cleartext AWS credentials. The import functionality in the rpk binary logs an AWS Access Key ID and Secret in cleartext to standard output, allowing a local user to view the key in the console, or in Kubernetes logs if stdout output is collected. The fixed versions are 22.3.12, 22.2.10, and 22.1.12.",
         "URL": "https://github.com/redpanda-data/redpanda/pull/8339",
+        "Commit SHA": "2279fc759990da31a52cde9493b1ec7f5acba096",
         "Tag": "['Exploit', 'Patch', 'Vendor Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "rpk in Redpanda before 23.1.2 mishandles the redpanda.rpc_server_tls field, leading to (for example) situations in which there is a data type mismatch that cannot be automatically fixed by rpk, and instead a user must reconfigure (while a cluster is turned off) in order to have TLS on broker RPC ports. NOTE: the fix was also backported to the 22.2 and 22.3 branches.",
         "URL": "https://github.com/redpanda-data/redpanda/pull/7719",
+        "Commit SHA": "6a69c280a05721178946835130b5f2b20002e33d",
         "Tag": "['Patch']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-862",
         "Description": "Redpanda before 23.1.21 and 23.2.x before 23.2.18 has missing authorization checks in the Transactions API.",
         "URL": "https://github.com/redpanda-data/redpanda/pull/14969",
+        "Commit SHA": "892c79d46e18a0ac35780c343909a143b0faf4a3",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-862",
         "Description": "Redpanda before 23.1.21 and 23.2.x before 23.2.18 has missing authorization checks in the Transactions API.",
         "URL": "https://github.com/redpanda-data/redpanda/pull/15060",
+        "Commit SHA": "ea7e1b2f03a4affb4e711aa39a79090d399e1bda",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
