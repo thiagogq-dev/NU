@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-754",
         "Description": "An issue was discovered in psd-tools before 1.9.4. The Cython implementation of RLE decoding did not check for malicious data.",
         "URL": "https://github.com/psd-tools/psd-tools/pull/198",
+        "Commit SHA": "fd51f8b4a52bc9c1c06d1035dfdf2cd920e87074",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
