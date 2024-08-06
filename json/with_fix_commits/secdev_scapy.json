@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-835",
         "Description": "scapy 2.4.0 is affected by: Denial of Service. The impact is: infinite loop, resource consumption and program unresponsive. The component is: _RADIUSAttrPacketListField.getfield(self..). The attack vector is: over the network or in a pcap. both work.",
         "URL": "https://github.com/secdev/scapy/pull/1409/files#diff-441eff981e466959968111fc6314fe93L1058",
+        "Commit SHA": "905c80d6ed435477224c53de8850f763b04d495d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-835",
         "Description": "scapy 2.4.0 is affected by: Denial of Service. The impact is: infinite loop, resource consumption and program unresponsive. The component is: _RADIUSAttrPacketListField.getfield(self..). The attack vector is: over the network or in a pcap. both work.",
         "URL": "https://github.com/secdev/scapy/pull/1409",
+        "Commit SHA": "905c80d6ed435477224c53de8850f763b04d495d",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
