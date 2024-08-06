@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "This affects the package @scullyio/scully before 1.0.9. The transfer state is serialised with the JSON.stringify() function and then written into the HTML page.",
         "URL": "https://github.com/scullyio/scully/pull/1182",
+        "Commit SHA": "64581f147698aa6ec8437a79a23815f0cdf9fff3",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
