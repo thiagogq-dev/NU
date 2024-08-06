@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-120",
         "Description": "Python Software Foundation CPython version From 3.2 until 3.6.4 on Windows contains a Buffer Overflow vulnerability in os.symlink() function on Windows that can result in Arbitrary code execution, likely escalation of privilege. This attack appears to be exploitable via a python script that creates a symlink with an attacker controlled name or location. This vulnerability appears to have been fixed in 3.7.0 and 3.6.5.",
         "URL": "https://github.com/python/cpython/pull/5989",
+        "Commit SHA": "6921e73e33edc3c61bc2d78ed558eaa22a89a564",
         "Tag": "['Issue Tracking', 'Patch', 'Vendor Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-77",
         "Description": "Python Software Foundation Python (CPython) version 2.7 contains a CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in shutil module (make_archive function) that can result in Denial of service, Information gain via injection of arbitrary files on the system or entire drive. This attack appear to be exploitable via Passage of unfiltered user input to the function. This vulnerability appears to have been fixed in after commit add531a1e55b0a739b0f42582f1c9747e5649ace.",
         "URL": "https://github.com/python/cpython/pull/8985/commits/add531a1e55b0a739b0f42582f1c9747e5649ace",
+        "Commit SHA": "d8b103b8b3ef9644805341216963a64098642435",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-77",
         "Description": "Python Software Foundation Python (CPython) version 2.7 contains a CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in shutil module (make_archive function) that can result in Denial of service, Information gain via injection of arbitrary files on the system or entire drive. This attack appear to be exploitable via Passage of unfiltered user input to the function. This vulnerability appears to have been fixed in after commit add531a1e55b0a739b0f42582f1c9747e5649ace.",
         "URL": "https://github.com/python/cpython/pull/8985",
+        "Commit SHA": "d8b103b8b3ef9644805341216963a64098642435",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-835",
         "Description": "In Lib/tarfile.py in Python through 3.8.3, an attacker is able to craft a TAR archive leading to an infinite loop when opened by tarfile.open, because _proc_pax lacks header validation.",
         "URL": "https://github.com/python/cpython/pull/21454",
+        "Commit SHA": "5a8d121a1f3ef5ad7c105ee378cc79a3eac0c7d4",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Python 2.7.x through 2.7.16 and 3.x through 3.7.2 is affected by: Improper Handling of Unicode Encoding (with an incorrect netloc) during NFKC normalization. The impact is: Information disclosure (credentials, cookies, etc. that are cached against a given hostname). The components are: urllib.parse.urlsplit, urllib.parse.urlparse. The attack vector is: A specially crafted URL could be incorrectly parsed to locate cookies or authentication data and send that information to a different host than when parsed correctly. This is fixed in: v2.7.17, v2.7.17rc1, v2.7.18, v2.7.18rc1; v3.5.10, v3.5.10rc1, v3.5.7, v3.5.8, v3.5.8rc1, v3.5.8rc2, v3.5.9; v3.6.10, v3.6.10rc1, v3.6.11, v3.6.11rc1, v3.6.12, v3.6.9, v3.6.9rc1; v3.7.3, v3.7.3rc1, v3.7.4, v3.7.4rc1, v3.7.4rc2, v3.7.5, v3.7.5rc1, v3.7.6, v3.7.6rc1, v3.7.7, v3.7.7rc1, v3.7.8, v3.7.8rc1, v3.7.9.",
         "URL": "https://github.com/python/cpython/pull/12201",
+        "Commit SHA": "16e6f7dee7f02bb81aa6b385b982dcdda5b99286",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-22",
         "Description": "urllib in Python 2.x through 2.7.16 supports the local_file: scheme, which makes it easier for remote attackers to bypass protection mechanisms that blacklist file: URIs, as demonstrated by triggering a urllib.urlopen('local_file:///etc/passwd') call.",
         "URL": "https://github.com/python/cpython/pull/11842",
+        "Commit SHA": "b15bde8058e821b383d81fcae68b335a752083ca",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-427",
         "Description": "In Python 3.6 through 3.6.10, 3.7 through 3.7.8, 3.8 through 3.8.4rc1, and 3.9 through 3.9.0b4 on Windows, a Trojan horse python3.dll might be used in cases where CPython is embedded in a native application. This occurs because python3X.dll may use an invalid search path for python3.dll loading (after Py_SetPath has been used). NOTE: this issue CANNOT occur when using python.exe from a standard (non-embedded) Python installation on Windows.",
         "URL": "https://github.com/python/cpython/pull/21297",
+        "Commit SHA": "dcbaa1b49cd9062fb9ba2b9d49555ac6cd8c60b5",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-426",
         "Description": "In Python 3.8.4, sys.path restrictions specified in a python38._pth file are ignored, allowing code to be loaded from arbitrary locations. The <executable-name>._pth file (e.g., the python._pth file) is not affected.",
         "URL": "https://github.com/python/cpython/pull/21495",
+        "Commit SHA": "936a66094591dc0e67d4a60c170148bb700ec016",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-400",
         "Description": "Python 2.7 through 2.7.17, 3.5 through 3.5.9, 3.6 through 3.6.10, 3.7 through 3.7.6, and 3.8 through 3.8.1 allows an HTTP server to conduct Regular Expression Denial of Service (ReDoS) attacks against a client because of urllib.request.AbstractBasicAuthHandler catastrophic backtracking.",
         "URL": "https://github.com/python/cpython/pull/18284",
+        "Commit SHA": "0b297d4ff1c0e4480ad33acae793fbaf4bf015b4",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-444",
         "Description": "The package python/cpython from 0 and before 3.6.13, from 3.7.0 and before 3.7.10, from 3.8.0 and before 3.8.8, from 3.9.0 and before 3.9.2 are vulnerable to Web Cache Poisoning via urllib.parse.parse_qsl and urllib.parse.parse_qs by using a vector called parameter cloaking. When the attacker can separate query parameters using a semicolon (;), they can cause a difference in the interpretation of the request between the proxy (running with default configuration) and the server. This can result in malicious requests being cached as completely safe ones, as the proxy would usually not see the semicolon as a separator, and therefore would not include it in a cache key of an unkeyed parameter.",
         "URL": "https://github.com/python/cpython/pull/24297",
+        "Commit SHA": "fcbe0cb04d35189401c0c880ebfb4311e952d776",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -85,6 +95,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Python 3.x through 3.10 has an open redirection vulnerability in lib/http/server.py due to no protection against multiple (/) at the beginning of URI path which may leads to information disclosure. NOTE: this is disputed by a third party because the http.server.html documentation page states \"Warning: http.server is not recommended for production. It only implements basic security checks.\"",
         "URL": "https://github.com/python/cpython/pull/93879",
+        "Commit SHA": "4abab6b603dd38bec1168e9a37c40a48ec89508e",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -93,6 +104,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Python 3.x through 3.10 has an open redirection vulnerability in lib/http/server.py due to no protection against multiple (/) at the beginning of URI path which may leads to information disclosure. NOTE: this is disputed by a third party because the http.server.html documentation page states \"Warning: http.server is not recommended for production. It only implements basic security checks.\"",
         "URL": "https://github.com/python/cpython/pull/24848",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -101,6 +113,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "In Python before 3,9,5, the ipaddress library mishandles leading zero characters in the octets of an IP address string. This (in some situations) allows attackers to bypass access control that is based on IP addresses.",
         "URL": "https://github.com/python/cpython/pull/25099",
+        "Commit SHA": "60ce8f0be6354ad565393ab449d8de5d713f35bc",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -109,6 +122,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "In Python before 3,9,5, the ipaddress library mishandles leading zero characters in the octets of an IP address string. This (in some situations) allows attackers to bypass access control that is based on IP addresses.",
         "URL": "https://github.com/python/cpython/pull/12577",
+        "Commit SHA": "e653d4d8e820a7a004ad399530af0135b45db27a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -117,6 +131,7 @@
         "Problem_Type": "CWE-120",
         "Description": "Python 3.x through 3.9.1 has a buffer overflow in PyCArg_repr in _ctypes/callproc.c, which may lead to remote code execution in certain Python applications that accept floating-point numbers as untrusted input, as demonstrated by a 1e300 argument to c_double.from_param. This occurs because sprintf is used unsafely.",
         "URL": "https://github.com/python/cpython/pull/24239",
+        "Commit SHA": "916610ef90a0d0761f08747f7b0905541f0977c7",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -125,6 +140,7 @@
         "Problem_Type": "CWE-400",
         "Description": "There's a flaw in urllib's AbstractBasicAuthHandler class. An attacker who controls a malicious HTTP server that an HTTP client (such as web browser) connects to, could trigger a Regular Expression Denial of Service (ReDOS) during an authentication request with a specially crafted payload that is sent by the server to the client. The greatest threat that this flaw poses is to application availability.",
         "URL": "https://github.com/python/cpython/pull/24391",
+        "Commit SHA": "7215d1ae25525c92b026166f9d5cac85fb1defe1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -133,6 +149,7 @@
         "Problem_Type": "CWE-400",
         "Description": "A flaw was found in python. An improperly handled HTTP response in the HTTP client code of python may allow a remote attacker, who controls the HTTP server, to make the client script enter an infinite loop, consuming CPU time. The highest threat from this vulnerability is to system availability.",
         "URL": "https://github.com/python/cpython/pull/25916",
+        "Commit SHA": "47895e31b6f626bc6ce47d175fe9d43c1098909d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -141,6 +158,7 @@
         "Problem_Type": "CWE-400",
         "Description": "A flaw was found in python. An improperly handled HTTP response in the HTTP client code of python may allow a remote attacker, who controls the HTTP server, to make the client script enter an infinite loop, consuming CPU time. The highest threat from this vulnerability is to system availability.",
         "URL": "https://github.com/python/cpython/pull/26503",
+        "Commit SHA": "e60ab843cbb016fb6ff8b4f418641ac05a9b2fcc",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -149,6 +167,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An issue discovered in Python Charmers Future 0.18.2 and earlier allows remote attackers to cause a denial of service via crafted Set-Cookie header from malicious web server.",
         "URL": "https://github.com/python/cpython/pull/17157",
+        "Commit SHA": "1b779bfb8593739b11cbb988ef82a883ec9d077e",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -157,6 +176,7 @@
         "Problem_Type": "CWE-20",
         "Description": "An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters.",
         "URL": "https://github.com/python/cpython/pull/99421",
+        "Commit SHA": "439b9cfaf43080e91c4ad69f312f21fa098befc7",
         "Tag": "['Patch']"
     },
     {
@@ -165,6 +185,7 @@
         "Problem_Type": "CWE-416",
         "Description": "CPython v3.12.0 alpha 7 was discovered to contain a heap use-after-free via the function ascii_decode at /Objects/unicodeobject.c.",
         "URL": "https://github.com/python/cpython/pull/103993/commits/c120bc2d354ca3d27d0c7a53bf65574ddaabaf3a",
+        "Commit SHA": "d5a97074d24cd14cb2a35a2b1ad3074863cde264",
         "Tag": "['Patch']"
     },
     {
@@ -173,6 +194,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Pyramid is an open source Python web framework. A path traversal vulnerability in Pyramid versions 2.0.0 and 2.0.1 impacts users of Python 3.11 that are using a Pyramid static view with a full filesystem path and have a `index.html` file that is located exactly one directory above the location of the static view's file system path. No further path traversal exists, and the only file that could be disclosed accidentally is `index.html`. Pyramid version 2.0.2 rejects any path that contains a null-byte out of caution. While valid in directory/file names, we would strongly consider it a mistake to use null-bytes in naming files/directories. Secondly, Python 3.11, and 3.12 has fixed the underlying issue in `os.path.normpath` to no longer truncate on the first `0x00` found, returning the behavior to pre-3.11 Python, un an as of yet unreleased version. Fixes will be available in:Python 3.12.0rc2 and 3.11.5. Some workarounds are available. Use a version of Python 3 that is not affected, downgrade to Python 3.10 series temporarily, or wait until Python 3.11.5 is released and upgrade to the latest version of Python 3.11 series.",
         "URL": "https://github.com/python/cpython/pull/106816",
+        "Commit SHA": "09322724319d4c23195300b222a1c0ea720af56b",
         "Tag": "['Patch']"
     },
     {
@@ -181,6 +203,7 @@
         "Problem_Type": "CWE-426",
         "Description": "An issue was discovered in Python 3.11 through 3.11.4. If a path containing '\\0' bytes is passed to os.path.normpath(), the path will be truncated unexpectedly at the first '\\0' byte. There are plausible cases in which an application would have rejected a filename for security reasons in Python 3.10.x or earlier, but that filename is no longer rejected in Python 3.11.x.",
         "URL": "https://github.com/python/cpython/pull/107982",
+        "Commit SHA": "ccf81e1088c25a9f4464e478dc3b5c03ed7ee63b",
         "Tag": "['Patch']"
     },
     {
@@ -189,6 +212,7 @@
         "Problem_Type": "CWE-426",
         "Description": "An issue was discovered in Python 3.11 through 3.11.4. If a path containing '\\0' bytes is passed to os.path.normpath(), the path will be truncated unexpectedly at the first '\\0' byte. There are plausible cases in which an application would have rejected a filename for security reasons in Python 3.10.x or earlier, but that filename is no longer rejected in Python 3.11.x.",
         "URL": "https://github.com/python/cpython/pull/107983",
+        "Commit SHA": "34e1917912f05e3ab5c9b1e39f678bd36388499e",
         "Tag": "['Patch']"
     },
     {
@@ -197,6 +221,7 @@
         "Problem_Type": "CWE-426",
         "Description": "An issue was discovered in Python 3.11 through 3.11.4. If a path containing '\\0' bytes is passed to os.path.normpath(), the path will be truncated unexpectedly at the first '\\0' byte. There are plausible cases in which an application would have rejected a filename for security reasons in Python 3.10.x or earlier, but that filename is no longer rejected in Python 3.11.x.",
         "URL": "https://github.com/python/cpython/pull/107981",
+        "Commit SHA": "ede98958810b76694cf756d305b564cd6adc1a48",
         "Tag": "['Patch']"
     },
     {
@@ -205,6 +230,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An issue was found in CPython 3.12.0 `subprocess` module on POSIX platforms. The issue was fixed in CPython 3.12.1 and does not affect other stable releases.\n\nWhen using the `extra_groups=` parameter with an empty list as a value (ie `extra_groups=[]`) the logic regressed to not call `setgroups(0, NULL)` before calling `exec()`, thus not dropping the original processes' groups before starting the new process. There is no issue when the parameter isn't used or when any value is used besides an empty list.\n\nThis issue only impacts CPython processes run with sufficient privilege to make the `setgroups` system call (typically `root`).\n\n",
         "URL": "https://github.com/python/cpython/pull/112617",
+        "Commit SHA": "9fe7655c6ce0b8e9adc229daf681b6d30e6b1610",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
