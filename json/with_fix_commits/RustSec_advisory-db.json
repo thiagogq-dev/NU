@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "An issue was discovered in the fruity crate through 0.2.0 for Rust. Security-relevant validation of filename extensions is plausibly affected. Methods of NSString for conversion to a string may return a partial result. Because they call CStr::from_ptr on a pointer to the string buffer, the string is terminated at the first '\\0' byte, which might not be the end of the string.",
         "URL": "https://github.com/rustsec/advisory-db/pull/1102",
+        "Commit SHA": "d5184e35e368262496dccfba2e5ddfcd56f3c1d8",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "please (aka pleaser) through 0.5.4 allows privilege escalation through the TIOCSTI and/or TIOCLINUX ioctl. (If both TIOCSTI and TIOCLINUX are disabled, this cannot be exploited.)",
         "URL": "https://github.com/rustsec/advisory-db/pull/1798",
+        "Commit SHA": "59c41cbaa6afedde2671c46fc88e57aac8b6d336",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
