@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-346",
         "Description": "Rootless containers run with Podman, receive all traffic with a source IP address of 127.0.0.1 (including from remote hosts). This impacts containerized applications that trust localhost (127.0.01) connections by default and do not require authentication. This issue affects Podman 1.8.0 onwards.",
         "URL": "https://github.com/rootless-containers/rootlesskit/pull/206",
+        "Commit SHA": "7d41416ded8a2122e810d9c69c501df18d0c68e8",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
