@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-77",
         "Description": "Command injection vulnerability in RaspAP raspap-webgui 2.8.8 and earlier allows remote attackers to run arbitrary commands via crafted POST request to hostapd settings form.",
         "URL": "https://github.com/RaspAP/raspap-webgui/pull/1322",
+        "Commit SHA": "238e1670fcef8b18ec4628ee74fc345607536a16",
         "Tag": "['Patch']"
     }
 ]
