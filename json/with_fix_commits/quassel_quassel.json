@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-319",
         "Description": "Quassel through 0.13.1, when --require-ssl is enabled, launches without SSL or TLS support if a usable X.509 certificate is not found on the local system.",
         "URL": "https://github.com/quassel/quassel/pull/581",
+        "Commit SHA": "0674fae039bbc79bfe3f7e42b12ec9015b9b879b",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
