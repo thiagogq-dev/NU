@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-400",
         "Description": "The SdpContents::Session::Medium::parse function in resip/stack/SdpContents.cxx in reSIProcate 1.10.2 allows remote attackers to cause a denial of service (memory consumption) by triggering many media connections.",
         "URL": "https://github.com/resiprocate/resiprocate/pull/88",
+        "Commit SHA": "881cb0c80e23193ea2bdaf720de9b3310f52a0a6",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
