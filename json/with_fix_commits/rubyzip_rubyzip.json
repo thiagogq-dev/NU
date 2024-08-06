@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "In Rubyzip before 1.3.0, a crafted ZIP file can bypass application checks on ZIP entry sizes because data about the uncompressed size can be spoofed. This allows attackers to cause a denial of service (disk consumption).",
         "URL": "https://github.com/rubyzip/rubyzip/pull/403",
+        "Commit SHA": "d65fe7bd283ec94f9d6dc7605f61a6b0dd00f55e",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
