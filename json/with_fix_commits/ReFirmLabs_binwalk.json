@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-59",
         "Description": "A vulnerability, which was classified as problematic, was found in ReFirm Labs binwalk up to 2.3.2. Affected is an unknown function of the file src/binwalk/modules/extractor.py of the component Archive Extraction Handler. The manipulation leads to symlink following. It is possible to launch the attack remotely. Upgrading to version 2.3.3 is able to address this issue. The name of the patch is fa0c0bd59b8588814756942fe4cb5452e76c1dcd. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216876.",
         "URL": "https://github.com/ReFirmLabs/binwalk/pull/556",
+        "Commit SHA": "fa0c0bd59b8588814756942fe4cb5452e76c1dcd",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-22",
         "Description": "\nA path traversal vulnerability was identified in ReFirm Labs binwalk from version 2.1.2b through 2.3.3 included. By crafting a malicious PFS filesystem file, an attacker can get binwalk's PFS extractor to extract files at arbitrary locations when binwalk is run in extraction mode (-e option). Remote code execution can be achieved by building a PFS filesystem that, upon extraction,\u00c2\u00a0would extract a malicious binwalk module into the folder .config/binwalk/plugins.\n This vulnerability is associated with program files src/binwalk/plugins/unpfs.py.\n\nThis issue affects binwalk from 2.1.2b through 2.3.3 included.\n\n",
         "URL": "https://github.com/ReFirmLabs/binwalk/pull/617",
+        "Commit SHA": "cddfede795971045d99422bd7a9676c8803ec5ee",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
