@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-20",
         "Description": "pip before 1.3 uses HTTP to retrieve packages from the PyPI repository, and does not perform integrity checks on package contents, which allows man-in-the-middle attackers to execute arbitrary code via a crafted response to a \"pip install\" operation.",
         "URL": "https://github.com/pypa/pip/pull/791/files",
+        "Commit SHA": "beb9dead6bc58ee29fdf4316b05feb0be3a46832",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-59",
         "Description": "pip before 1.3 allows local users to overwrite arbitrary files via a symlink attack on a file in the /tmp/pip-build temporary directory.",
         "URL": "https://github.com/pypa/pip/pull/734/files",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-59",
         "Description": "pip before 1.3 allows local users to overwrite arbitrary files via a symlink attack on a file in the /tmp/pip-build temporary directory.",
         "URL": "https://github.com/pypa/pip/pull/780/files",
+        "Commit SHA": "6961e33fd4f9bc28f3e6f9e42f62db599ccb3d27",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "pip 1.3 through 1.5.6 allows local users to cause a denial of service (prevention of package installation) by creating a /tmp/pip-build-* file for another user.",
         "URL": "https://github.com/pypa/pip/pull/2122",
+        "Commit SHA": "043fe9f5700315d97f83609c1f59deece8f1b901",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-77",
         "Description": "When installing a package from a Mercurial VCS URL  (ie \"pip install \nhg+...\") with pip prior to v23.3, the specified Mercurial revision could\n be used to inject arbitrary configuration options to the \"hg clone\" \ncall (ie \"--config\"). Controlling the Mercurial configuration can modify\n how and which repository is installed. This vulnerability does not \naffect users who aren't installing from Mercurial.\n",
         "URL": "https://github.com/pypa/pip/pull/12306",
+        "Commit SHA": "1082eb12622b20d101d2864111dd9a591dd6c2f5",
         "Tag": "['Patch']"
     }
 ]
