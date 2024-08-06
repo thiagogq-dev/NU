@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "An issue discovered in Python Charmers Future 0.18.2 and earlier allows remote attackers to cause a denial of service via crafted Set-Cookie header from malicious web server.",
         "URL": "https://github.com/PythonCharmers/python-future/pull/610",
+        "Commit SHA": "02f7a8143d5b68f50a1cca44d8f5a58c1925a515",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
