@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "strukturag/libheif",
+        "CVE_ID": "CVE-2023-0996",
+        "Problem_Type": "CWE-120",
+        "Description": "\nThere is a vulnerability in the strided image data parsing code in the emscripten wrapper for libheif. An attacker could exploit this through a crafted image file to cause a buffer overflow in linear memory during a memcpy call.\n\n\n\n\n",
+        "URL": "https://github.com/strukturag/libheif/pull/759",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

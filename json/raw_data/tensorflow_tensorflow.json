@@ -1,0 +1,42 @@
+[
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "CVE_ID": "CVE-2020-15266",
+        "Problem_Type": "CWE-119",
+        "Description": "In Tensorflow before version 2.4.0, when the `boxes` argument of `tf.image.crop_and_resize` has a very large value, the CPU kernel implementation receives it as a C++ `nan` floating point value. Attempting to operate on this is undefined behavior which later produces a segmentation fault. The issue is patched in eccb7ec454e6617738554a255d77f08e60ee0808 and TensorFlow 2.4.0 will be released containing the patch. TensorFlow nightly packages after this commit will also have the issue resolved.",
+        "URL": "https://github.com/tensorflow/tensorflow/pull/42143/commits/3ade2efec2e90c6237de32a19680caaa3ebc2845",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "CVE_ID": "CVE-2021-37692",
+        "Problem_Type": "CWE-20",
+        "Description": "TensorFlow is an end-to-end open source platform for machine learning. In affected versions under certain conditions, Go code can trigger a segfault in string deallocation. For string tensors, `C.TF_TString_Dealloc` is called during garbage collection within a finalizer function. However, tensor structure isn't checked until encoding to avoid a performance penalty. The current method for dealloc assumes that encoding succeeded, but segfaults when a string tensor is garbage collected whose encoding failed (e.g., due to mismatched dimensions). To fix this, the call to set the finalizer function is deferred until `NewTensor` returns and, if encoding failed for a string tensor, deallocs are determined based on bytes written. We have patched the issue in GitHub commit 8721ba96e5760c229217b594f6d2ba332beedf22. The fix will be included in TensorFlow 2.6.0. We will also cherrypick this commit on TensorFlow 2.5.1, which is the other affected version.",
+        "URL": "https://github.com/tensorflow/tensorflow/pull/50508",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "CVE_ID": "CVE-2021-41195",
+        "Problem_Type": "CWE-190",
+        "Description": "TensorFlow is an open source platform for machine learning. In affected versions the implementation of `tf.math.segment_*` operations results in a `CHECK`-fail related abort (and denial of service) if a segment id in `segment_ids` is large. This is similar to CVE-2021-29584 (and similar other reported vulnerabilities in TensorFlow, localized to specific APIs): the implementation (both on CPU and GPU) computes the output shape using `AddDim`. However, if the number of elements in the tensor overflows an `int64_t` value, `AddDim` results in a `CHECK` failure which provokes a `std::abort`. Instead, code should use `AddDimWithStatus`. The fix will be included in TensorFlow 2.7.0. We will also cherrypick this commit on TensorFlow 2.6.1, TensorFlow 2.5.2, and TensorFlow 2.4.4, as these are also affected and still in supported range.",
+        "URL": "https://github.com/tensorflow/tensorflow/pull/51733",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "CVE_ID": "CVE-2022-29209",
+        "Problem_Type": "CWE-843",
+        "Description": "TensorFlow is an open source platform for machine learning. Prior to versions 2.9.0, 2.8.1, 2.7.2, and 2.6.4, the macros that TensorFlow uses for writing assertions (e.g., `CHECK_LT`, `CHECK_GT`, etc.) have an incorrect logic when comparing `size_t` and `int` values. Due to type conversion rules, several of the macros would trigger incorrectly. Versions 2.9.0, 2.8.1, 2.7.2, and 2.6.4 contain a patch for this issue.",
+        "URL": "https://github.com/tensorflow/tensorflow/pull/55730",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "CVE_ID": "CVE-2022-29213",
+        "Problem_Type": "CWE-617",
+        "Description": "TensorFlow is an open source platform for machine learning. Prior to versions 2.9.0, 2.8.1, 2.7.2, and 2.6.4, the `tf.compat.v1.signal.rfft2d` and `tf.compat.v1.signal.rfft3d` lack input validation and under certain condition can result in crashes (due to `CHECK`-failures). Versions 2.9.0, 2.8.1, 2.7.2, and 2.6.4 contain a patch for this issue.",
+        "URL": "https://github.com/tensorflow/tensorflow/pull/55274",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

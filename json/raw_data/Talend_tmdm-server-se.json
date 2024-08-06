@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Talend/tmdm-server-se",
+        "CVE_ID": "CVE-2021-4311",
+        "Problem_Type": "CWE-611",
+        "Description": "A vulnerability classified as problematic was found in Talend Open Studio for MDM. This vulnerability affects unknown code of the component XML Handler. The manipulation leads to xml external entity reference. The patch is identified as 31d442b9fb1d518128fd18f6e4d54e06c3d67793. It is recommended to apply a patch to fix this issue. VDB-217666 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/Talend/tmdm-server-se/pull/1420",
+        "Tag": "['Patch']"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "Submitty/Submitty",
+        "CVE_ID": "CVE-2023-43193",
+        "Problem_Type": "CWE-79",
+        "Description": "Submitty before v22.06.00 is vulnerable to Cross Site Scripting (XSS). An attacker can create a malicious link in the forum that leads to XSS.",
+        "URL": "https://github.com/Submitty/Submitty/pull/8032",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "Submitty/Submitty",
+        "CVE_ID": "CVE-2023-43194",
+        "Problem_Type": "CWE-862",
+        "Description": "Submitty before v22.06.00 is vulnerable to Incorrect Access Control. An attacker can delete any post in the forum by modifying request parameter.",
+        "URL": "https://github.com/Submitty/Submitty/pull/8032",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

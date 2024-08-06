@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "taglib/taglib",
+        "CVE_ID": "CVE-2017-12678",
+        "Problem_Type": "CWE-434",
+        "Description": "In TagLib 1.11.1, the rebuildAggregateFrames function in id3v2framefactory.cpp has a pointer to cast vulnerability, which allows remote attackers to cause a denial of service or possibly have unspecified other impact via a crafted audio file.",
+        "URL": "https://github.com/taglib/taglib/pull/831",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

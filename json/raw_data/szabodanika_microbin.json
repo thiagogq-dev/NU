@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "szabodanika/microbin",
+        "CVE_ID": "CVE-2023-27075",
+        "Problem_Type": "CWE-79",
+        "Description": "A cross-site scripting vulnerability (XSS) in the component microbin/src/pasta.rs of Microbin v1.2.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.",
+        "URL": "https://github.com/szabodanika/microbin/pull/143",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

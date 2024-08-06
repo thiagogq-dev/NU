@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "swoole/swoole-src",
+        "CVE_ID": "CVE-2019-15518",
+        "Problem_Type": "CWE-22",
+        "Description": "Swoole before 4.2.13 allows directory traversal in swPort_http_static_handler.",
+        "URL": "https://github.com/swoole/swoole-src/pull/2323",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "swoole/swoole-src",
+        "CVE_ID": "CVE-2020-24275",
+        "Problem_Type": "CWE-74",
+        "Description": "A HTTP response header injection vulnerability in Swoole v4.5.2 allows attackers to execute arbitrary code via supplying a crafted URL.",
+        "URL": "https://github.com/swoole/swoole-src/pull/3539",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "swoole/swoole-src",
+        "CVE_ID": "CVE-2020-24275",
+        "Problem_Type": "CWE-74",
+        "Description": "A HTTP response header injection vulnerability in Swoole v4.5.2 allows attackers to execute arbitrary code via supplying a crafted URL.",
+        "URL": "https://github.com/swoole/swoole-src/pull/3545",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

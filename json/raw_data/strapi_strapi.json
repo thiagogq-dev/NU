@@ -1,0 +1,42 @@
+[
+    {
+        "repo_name": "strapi/strapi",
+        "CVE_ID": "CVE-2019-19609",
+        "Problem_Type": "CWE-78",
+        "Description": "The Strapi framework before 3.0.0-beta.17.8 is vulnerable to Remote Code Execution in the Install and Uninstall Plugin components of the Admin panel, because it does not sanitize the plugin name, and attackers can inject arbitrary shell commands to be executed by the execa function.",
+        "URL": "https://github.com/strapi/strapi/pull/4636",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "strapi/strapi",
+        "CVE_ID": "CVE-2020-27664",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "admin/src/containers/InputModalStepperProvider/index.js in Strapi before 3.2.5 has unwanted /proxy?url= functionality.",
+        "URL": "https://github.com/strapi/strapi/pull/8442",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "strapi/strapi",
+        "CVE_ID": "CVE-2020-27665",
+        "Problem_Type": "CWE-276",
+        "Description": "In Strapi before 3.2.5, there is no admin::hasPermissions restriction for CTB (aka content-type-builder) routes.",
+        "URL": "https://github.com/strapi/strapi/pull/8439",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "strapi/strapi",
+        "CVE_ID": "CVE-2020-27666",
+        "Problem_Type": "CWE-79",
+        "Description": "Strapi before 3.2.5 has stored XSS in the wysiwyg editor's preview feature.",
+        "URL": "https://github.com/strapi/strapi/pull/8440",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "strapi/strapi",
+        "CVE_ID": "CVE-2021-46440",
+        "Problem_Type": "CWE-522",
+        "Description": "Storing passwords in a recoverable format in the DOCUMENTATION plugin component of Strapi before 3.6.9 and 4.x before 4.1.5 allows an attacker to access a victim's HTTP request, get the victim's cookie, perform a base64 decode on the victim's cookie, and obtain a cleartext password, leading to getting API documentation for further API attacks.",
+        "URL": "https://github.com/strapi/strapi/pull/12246",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

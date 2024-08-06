@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "stepmania/stepmania",
+        "CVE_ID": "CVE-2022-25010",
+        "Problem_Type": "CWE-732",
+        "Description": "The component /rootfs in RageFile of Stepmania v5.1b2 and below allows attackers access to the entire file system.",
+        "URL": "https://github.com/stepmania/stepmania/pull/2184",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

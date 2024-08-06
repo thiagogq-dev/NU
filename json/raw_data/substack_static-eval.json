@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "substack/static-eval",
+        "CVE_ID": "CVE-2017-16226",
+        "Problem_Type": "CWE-20",
+        "Description": "The static-eval module is intended to evaluate statically-analyzable expressions. In affected versions, untrusted user input is able to access the global function constructor, effectively allowing arbitrary code execution.",
+        "URL": "https://github.com/substack/static-eval/pull/18",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

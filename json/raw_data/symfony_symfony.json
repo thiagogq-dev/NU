@@ -1,0 +1,42 @@
+[
+    {
+        "repo_name": "symfony/symfony",
+        "CVE_ID": "CVE-2016-1902",
+        "Problem_Type": "CWE-310",
+        "Description": "The nextBytes function in the SecureRandom class in Symfony before 2.3.37, 2.6.x before 2.6.13, and 2.7.x before 2.7.9 does not properly generate random numbers when used with PHP 5.x without the paragonie/random_compat library and the openssl_random_pseudo_bytes function fails, which makes it easier for attackers to defeat cryptographic protection mechanisms via unspecified vectors.",
+        "URL": "https://github.com/symfony/symfony/pull/17359",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "symfony/symfony",
+        "CVE_ID": "CVE-2017-11365",
+        "Problem_Type": "CWE-284",
+        "Description": "Certain Symfony products are affected by: Incorrect Access Control. This affects Symfony 2.7.30 and Symfony 2.8.23 and Symfony 3.2.10 and Symfony 3.3.3. The type of exploitation is: remote. The component is: Password validator.",
+        "URL": "https://github.com/symfony/symfony/pull/23507",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "symfony/symfony",
+        "CVE_ID": "CVE-2021-41267",
+        "Problem_Type": "CWE-444",
+        "Description": "Symfony/Http-Kernel is the HTTP kernel component for Symfony, a PHP framework for web and console applications and a set of reusable PHP components. Headers that are not part of the \"trusted_headers\" allowed list are ignored and protect users from \"Cache poisoning\" attacks. In Symfony 5.2, maintainers added support for the `X-Forwarded-Prefix` headers, but this header was accessible in SubRequest, even if it was not part of the \"trusted_headers\" allowed list. An attacker could leverage this opportunity to forge requests containing a `X-Forwarded-Prefix` header, leading to a web cache poisoning issue. Versions 5.3.12 and later have a patch to ensure that the `X-Forwarded-Prefix` header is not forwarded to subrequests when it is not trusted.",
+        "URL": "https://github.com/symfony/symfony/pull/44243",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "symfony/symfony",
+        "CVE_ID": "CVE-2021-41268",
+        "Problem_Type": "CWE-384",
+        "Description": "Symfony/SecurityBundle is the security system for Symfony, a PHP framework for web and console applications and a set of reusable PHP components. Since the rework of the Remember me cookie in version 5.3.0, the cookie is not invalidated when the user changes their password. Attackers can therefore maintain their access to the account even if the password is changed as long as they have had the chance to login once and get a valid remember me cookie. Starting with version 5.3.12, Symfony makes the password part of the signature by default. In that way, when the password changes, then the cookie is not valid anymore.",
+        "URL": "https://github.com/symfony/symfony/pull/44243",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "symfony/symfony",
+        "CVE_ID": "CVE-2021-41270",
+        "Problem_Type": "CWE-1236",
+        "Description": "Symfony/Serializer handles serializing and deserializing data structures for Symfony, a PHP framework for web and console applications and a set of reusable PHP components. Symfony versions 4.1.0 before 4.4.35 and versions 5.0.0 before 5.3.12 are vulnerable to CSV injection, also known as formula injection. In Symfony 4.1, maintainers added the opt-in `csv_escape_formulas` option in the `CsvEncoder`, to prefix all cells starting with `=`, `+`, `-` or `@` with a tab `\\t`. Since then, OWASP added 2 chars in that list: Tab (0x09) and Carriage return (0x0D). This makes the previous prefix char (Tab `\\t`) part of the vulnerable characters, and OWASP suggests using the single quote `'` for prefixing the value. Starting with versions 4.4.34 and 5.3.12, Symfony now follows the OWASP recommendations and uses the single quote `'` to prefix formulas and add the prefix to cells starting by `\\t`, `\\r` as well as `=`, `+`, `-` and `@`.",
+        "URL": "https://github.com/symfony/symfony/pull/44243",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

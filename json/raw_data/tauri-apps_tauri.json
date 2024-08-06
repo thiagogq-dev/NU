@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "tauri-apps/tauri",
+        "CVE_ID": "CVE-2022-39215",
+        "Problem_Type": "CWE-59",
+        "Description": "Tauri is a framework for building binaries for all major desktop platforms. Due to missing canonicalization when `readDir` is called recursively, it was possible to display directory listings outside of the defined `fs` scope. This required a crafted symbolic link or junction folder inside an allowed path of the `fs` scope. No arbitrary file content could be leaked. The issue has been resolved in version 1.0.6 and the implementation now properly checks if the requested (sub) directory is a symbolic link outside of the defined `scope`. Users are advised to upgrade. Users unable to upgrade should disable the `readDir` endpoint in the `allowlist` inside the `tauri.conf.json`.",
+        "URL": "https://github.com/tauri-apps/tauri/pull/5123",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "tauri-apps/tauri",
+        "CVE_ID": "CVE-2022-39215",
+        "Problem_Type": "CWE-59",
+        "Description": "Tauri is a framework for building binaries for all major desktop platforms. Due to missing canonicalization when `readDir` is called recursively, it was possible to display directory listings outside of the defined `fs` scope. This required a crafted symbolic link or junction folder inside an allowed path of the `fs` scope. No arbitrary file content could be leaked. The issue has been resolved in version 1.0.6 and the implementation now properly checks if the requested (sub) directory is a symbolic link outside of the defined `scope`. Users are advised to upgrade. Users unable to upgrade should disable the `readDir` endpoint in the `allowlist` inside the `tauri.conf.json`.",
+        "URL": "https://github.com/tauri-apps/tauri/pull/5123/commits/1f9b9e8d26a2c915390323e161020bcb36d44678",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "tauri-apps/tauri",
+        "CVE_ID": "CVE-2023-34460",
+        "Problem_Type": "CWE-285",
+        "Description": "Tauri is a framework for building binaries for all major desktop platforms. The 1.4.0 release includes a regression on the Filesystem scope check for dotfiles on Unix. Previously dotfiles were not implicitly allowed by the glob wildcard scopes (eg. `$HOME/*`), but a regression was introduced when a configuration option for this behavior was implemented. Only Tauri applications using wildcard scopes in the `fs` endpoint are affected. The regression has been patched on version 1.4.1.\n\n",
+        "URL": "https://github.com/tauri-apps/tauri/pull/6969#discussion_r1232018347",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "tauri-apps/tauri",
+        "CVE_ID": "CVE-2023-34460",
+        "Problem_Type": "CWE-285",
+        "Description": "Tauri is a framework for building binaries for all major desktop platforms. The 1.4.0 release includes a regression on the Filesystem scope check for dotfiles on Unix. Previously dotfiles were not implicitly allowed by the glob wildcard scopes (eg. `$HOME/*`), but a regression was introduced when a configuration option for this behavior was implemented. Only Tauri applications using wildcard scopes in the `fs` endpoint are affected. The regression has been patched on version 1.4.1.\n\n",
+        "URL": "https://github.com/tauri-apps/tauri/pull/7227",
+        "Tag": "['Patch']"
+    }
+]

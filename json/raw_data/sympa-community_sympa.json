@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sympa-community/sympa",
+        "CVE_ID": "CVE-2020-29668",
+        "Problem_Type": "CWE-287",
+        "Description": "Sympa before 6.2.59b.2 allows remote attackers to obtain full SOAP API access by sending any arbitrary string (except one from an expired cookie) as the cookie value to authenticateAndRun.",
+        "URL": "https://github.com/sympa-community/sympa/pull/1044",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

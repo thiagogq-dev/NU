@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "TasmoAdmin/TasmoAdmin",
+        "CVE_ID": "CVE-2023-6552",
+        "Problem_Type": "CWE-601",
+        "Description": "Lack of \"current\" GET parameter validation during the action of changing a language leads to an open redirect vulnerability.\n",
+        "URL": "https://github.com/TasmoAdmin/TasmoAdmin/pull/1039",
+        "Tag": "['Patch']"
+    }
+]
