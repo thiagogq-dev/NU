@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Mermaid before 8.11.0 allows XSS when the antiscript feature is used.",
         "URL": "https://github.com/mermaid-js/mermaid/pull/2123",
+        "Commit SHA": "890512ccbb3b9174825a2fcf31282c305898501f",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
