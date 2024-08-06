@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-400",
         "Description": "The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
         "URL": "https://github.com/projectcontour/contour/pull/5826",
+        "Commit SHA": "c0226fe8ce7f7f662224b062f99e5d213c0fdafd",
         "Tag": "['Issue Tracking', 'Patch', 'Vendor Advisory']"
     }
 ]
