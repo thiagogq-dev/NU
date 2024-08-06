@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "A heap buffer overflow vulnerability in the r_asm_swf_disass function of Radare2-extras before commit e74a93c allows attackers to execute arbitrary code or carry out denial of service (DOS) attacks.",
         "URL": "https://github.com/radareorg/radare2-extras/pull/255",
+        "Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-787",
         "Description": "A heap buffer overflow vulnerability in the r_asm_swf_disass function of Radare2-extras before commit e74a93c allows attackers to execute arbitrary code or carry out denial of service (DOS) attacks.",
         "URL": "https://github.com/radareorg/radare2-extras/pull/255/commits/4a8b24475549ff10bdf6d07fd4b5f6c1cc6246ea",
+        "Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-787",
         "Description": "A heap buffer overflow vulnerability in the r_asm_swf_disass function of Radare2-extras before commit e74a93c allows attackers to execute arbitrary code or carry out denial of service (DOS) attacks.",
         "URL": "https://github.com/radareorg/radare2-extras/pull/255/commits/9f6a221433964d9b14f3ed78bc9fb059395b893b",
+        "Commit SHA": "e74a93c4add46ab5ed046825ebb22c3b120a4668",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
