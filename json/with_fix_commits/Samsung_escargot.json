@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "Improper input validation vulnerability in Samsung Open Source Escargot allows stack overflow and segmentation fault.\u00c2\u00a0This issue affects Escargot: from 3.0.0 through 4.0.0.\n\n",
         "URL": "https://github.com/Samsung/escargot/pull/1260",
+        "Commit SHA": "97e698db347454bd11b7d58bae2d966f967739f1",
         "Tag": "['Patch']"
     }
 ]
