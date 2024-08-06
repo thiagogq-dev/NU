@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Prototype pollution vulnerability in 'flattenizer' versions 0.0.5 through 1.0.5 allows an attacker to cause a denial of service and may lead to remote code execution.",
         "URL": "https://github.com/sahellebusch/flattenizer/pull/13",
+        "Commit SHA": "3c6a6353df7c8879e931973b81a49a47f6c2b399",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
