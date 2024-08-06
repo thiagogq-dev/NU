@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-326",
         "Description": "xbcrypt in Percona XtraBackup before 2.3.6 and 2.4.x before 2.4.5 does not properly set the initialization vector (IV) for encryption, which makes it easier for context-dependent attackers to obtain sensitive information from encrypted backup files via a Chosen-Plaintext attack. NOTE: this vulnerability exists because of an incomplete fix for CVE-2013-6394.",
         "URL": "https://github.com/percona/percona-xtrabackup/pull/267",
+        "Commit SHA": "83efde4398a6fe355d34a945ad82897716282b55",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-326",
         "Description": "xbcrypt in Percona XtraBackup before 2.3.6 and 2.4.x before 2.4.5 does not properly set the initialization vector (IV) for encryption, which makes it easier for context-dependent attackers to obtain sensitive information from encrypted backup files via a Chosen-Plaintext attack. NOTE: this vulnerability exists because of an incomplete fix for CVE-2013-6394.",
         "URL": "https://github.com/percona/percona-xtrabackup/pull/266",
+        "Commit SHA": "04936ee6eaacf1ff35e7cf386f381da3d91c618d",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
