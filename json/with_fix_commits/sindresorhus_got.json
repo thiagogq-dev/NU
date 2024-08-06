@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "The got package before 12.1.0 (also fixed in 11.8.5) for Node.js allows a redirect to a UNIX socket.",
         "URL": "https://github.com/sindresorhus/got/pull/2047",
+        "Commit SHA": "861ccd9ac2237df762a9e2beed7edd88c60782dc",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
