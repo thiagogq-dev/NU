@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-400",
         "Description": "A ReDoS (regular expression denial of service) flaw was found in the @progfay/scrapbox-parser package before 6.0.3 for Node.js.",
         "URL": "https://github.com/progfay/scrapbox-parser/pull/540",
+        "Commit SHA": "95a7deb299ff12b0501ee72c7772f82fcf1511df",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-400",
         "Description": "A ReDoS (regular expression denial of service) flaw was found in the @progfay/scrapbox-parser package before 6.0.3 for Node.js.",
         "URL": "https://github.com/progfay/scrapbox-parser/pull/539",
+        "Commit SHA": "a1142341b06b1840de4e1760baf7f9b13b207bbb",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-400",
         "Description": "A ReDoS (regular expression denial of service) flaw was found in the @progfay/scrapbox-parser package before 6.0.3 for Node.js.",
         "URL": "https://github.com/progfay/scrapbox-parser/pull/519",
+        "Commit SHA": "47e170661732eb8207b192494aeccaca0cf5f1d7",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
