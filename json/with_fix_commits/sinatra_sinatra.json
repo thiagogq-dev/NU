@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Sinatra before 2.2.0 does not validate that the expanded path matches public_dir when serving static files.",
         "URL": "https://github.com/sinatra/sinatra/pull/1683/commits/462c3ca1db53ed3cfc394cf5948e9c948ad1c10e",
+        "Commit SHA": "462c3ca1db53ed3cfc394cf5948e9c948ad1c10e",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
