@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross Site Scripting (XSS) vulnerability in Craft CMS Audit Plugin before version 3.0.2 allows attackers to execute arbitrary code during user creation.",
         "URL": "https://github.com/sjelfull/craft-audit/pull/73",
+        "Commit SHA": "c2888aa48457f24696ac0a2ba4f54f39e5c672ed",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
