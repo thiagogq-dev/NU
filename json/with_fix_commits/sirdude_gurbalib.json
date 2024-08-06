@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Gurbalib through 2020-04-30 allows lib/cmds/player/help.c directory traversal for reading administrative paths.",
         "URL": "https://github.com/sirdude/gurbalib/pull/38",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
