@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-611",
         "Description": "PySAML2 allows remote attackers to conduct XML external entity (XXE) attacks via a crafted SAML XML request or response.",
         "URL": "https://github.com/rohe/pysaml2/pull/379",
+        "Commit SHA": "8c2b0529efce45b94209da938c89ebdf0a79748d",
         "Tag": "['Issue Tracking', 'Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-611",
         "Description": "XML External Entity (XXE) vulnerability in PySAML2 4.4.0 and earlier allows remote attackers to read arbitrary files via a crafted SAML XML request or response.",
         "URL": "https://github.com/rohe/pysaml2/pull/379",
+        "Commit SHA": "8c2b0529efce45b94209da938c89ebdf0a79748d",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
