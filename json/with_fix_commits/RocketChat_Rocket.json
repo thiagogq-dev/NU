@@ -1,11 +1,38 @@
 [
     {
-        "repo_name": "RocketChat/Rocket.Chat.Electron",
-        "CVE_ID": "CVE-2020-26763",
-        "Problem_Type": "NVD-CWE-noinfo",
-        "Description": "The Rocket.Chat desktop application 2.17.11 opens external links without user interaction.",
-        "URL": "https://github.com/RocketChat/Rocket.Chat.Electron/pull/1710",
-        "Commit SHA": "c43a8a31289290e61eacd0e30dba5f14619ee911",
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2017-1000493",
+        "Problem_Type": "CWE-74",
+        "Description": "Rocket.Chat Server version 0.59 and prior is vulnerable to a NoSQL injection leading to administrator account takeover",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/8408",
+        "Commit SHA": "10f89856eb974d083a29fe01496f8d79b8958365",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2020-15926",
+        "Problem_Type": "CWE-79",
+        "Description": "Rocket.Chat through 3.4.2 allows XSS where an attacker can send a specially crafted message to a channel or in a direct message to the client which results in remote code execution on the client side.",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/18356",
+        "Commit SHA": "59ca315ce3fdcede132cc4f133b7e8b116dcc49b",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2020-8291",
+        "Problem_Type": "CWE-79",
+        "Description": "A link preview rendering issue in Rocket.Chat versions before 3.9 could lead to potential XSS attacks.",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/19854",
+        "Commit SHA": "43fe12d775b2329e780a1369a1b2c25070cdcab9",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2021-22886",
+        "Problem_Type": "CWE-79",
+        "Description": "Rocket.Chat before 3.11, 3.10.5, 3.9.7, 3.8.8 is vulnerable to persistent cross-site scripting (XSS) using nested markdown tags allowing a remote attacker to inject arbitrary JavaScript in a message. This flaw leads to arbitrary file read and RCE on Rocket.Chat desktop app.",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/20430",
+        "Commit SHA": "ac9d7612a8fd6eae8074bd06e5449da843065be6",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
