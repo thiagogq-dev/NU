@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "In Botan before 2.17.3, constant-time computations are not used for certain decoding and encoding operations (base32, base58, base64, and hex).",
         "URL": "https://github.com/randombit/botan/pull/2549",
+        "Commit SHA": "456d3dc005b872dd9773874e40e252a9a187e7f3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-327",
         "Description": "The ElGamal implementation in Botan through 2.18.1, as used in Thunderbird and other products, allows plaintext recovery because, during interaction between two cryptographic libraries, a certain dangerous combination of the prime defined by the receiver's public key, the generator defined by the receiver's public key, and the sender's ephemeral exponents can lead to a cross-configuration attack against OpenPGP.",
         "URL": "https://github.com/randombit/botan/pull/2790",
+        "Commit SHA": "1df7edc8676e7e219cf3edb324aaeee7904ab22b",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
