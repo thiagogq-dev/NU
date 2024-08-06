@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Unmarshal can panic on some inputs, possibly allowing for denial of service attacks.",
         "URL": "https://github.com/shamaton/msgpack/pull/32",
+        "Commit SHA": "01ee57d9d63a659e59a6257f8dc4cf94ae27b6cf",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
