@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-295",
         "Description": "The Net::LDAP (aka net-ldap) gem before 0.16.0 for Ruby has Missing SSL Certificate Validation.",
         "URL": "https://github.com/ruby-ldap/ruby-net-ldap/pull/279",
+        "Commit SHA": "e4c46a223a19feda78393a793711353aa1febdcd",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
