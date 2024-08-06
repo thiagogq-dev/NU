@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "RabbitMQ is a multi-protocol messaging broker. In rabbitmq-server prior to version 3.8.17, a new user being added via management UI could lead to the user's bane being rendered in a confirmation message without proper `<script>` tag sanitization, potentially allowing for JavaScript code execution in the context of the page. In order for this to occur, the user must be signed in and have elevated permissions (other user management). The vulnerability is patched in RabbitMQ 3.8.17. As a workaround, disable `rabbitmq_management` plugin and use CLI tools for management operations and Prometheus and Grafana for metrics and monitoring.",
         "URL": "https://github.com/rabbitmq/rabbitmq-server/pull/3028",
+        "Commit SHA": "a8dffdf7de9793a76fc4685c89b968d8eddca4ca",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "RabbitMQ is a multi-protocol messaging broker. In rabbitmq-server prior to version 3.8.18, when a federation link was displayed in the RabbitMQ management UI via the `rabbitmq_federation_management` plugin, its consumer tag was rendered without proper <script> tag sanitization. This potentially allows for JavaScript code execution in the context of the page. The user must be signed in and have elevated permissions (manage federation upstreams and policies) for this to occur. The vulnerability is patched in RabbitMQ 3.8.18. As a workaround, disable the `rabbitmq_federation_management` plugin and use [CLI tools](https://www.rabbitmq.com/cli.html) instead.",
         "URL": "https://github.com/rabbitmq/rabbitmq-server/pull/3122",
+        "Commit SHA": "f01f0f2d840b98128cdb7ff966d8234b06ef7c75",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-335",
         "Description": "RabbitMQ is a multi-protocol messaging and streaming broker. In affected versions the shovel and federation plugins perform URI obfuscation in their worker (link) state. The encryption key used to encrypt the URI was seeded with a predictable secret. This means that in case of certain exceptions related to Shovel and Federation plugins, reasonably easily deobfuscatable data could appear in the node log. Patched versions correctly use a cluster-wide secret for that purpose. This issue has been addressed and Patched versions: `3.10.2`, `3.9.18`, `3.8.32` are available. Users unable to upgrade should disable the Shovel and Federation plugins.",
         "URL": "https://github.com/rabbitmq/rabbitmq-server/pull/4841",
+        "Commit SHA": "c22e1cb20e656d211e025c417d1fc75a9067b717",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
