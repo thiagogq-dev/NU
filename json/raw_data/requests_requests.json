@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "requests/requests",
+        "CVE_ID": "CVE-2018-18074",
+        "Problem_Type": "CWE-522",
+        "Description": "The Requests package before 2.20.0 for Python sends an HTTP Authorization header to an http URI upon receiving a same-hostname https-to-http redirect, which makes it easier for remote attackers to discover credentials by sniffing the network.",
+        "URL": "https://github.com/requests/requests/pull/4718",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "PythonCharmers/python-future",
+        "CVE_ID": "CVE-2022-40899",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "An issue discovered in Python Charmers Future 0.18.2 and earlier allows remote attackers to cause a denial of service via crafted Set-Cookie header from malicious web server.",
+        "URL": "https://github.com/PythonCharmers/python-future/pull/610",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "PX4/PX4-Autopilot",
+        "CVE_ID": "CVE-2021-34125",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "An issue discovered in Yuneec Mantis Q and PX4-Autopilot v 1.11.3 and below allow attacker to gain access to sensitive information via various nuttx commands.",
+        "URL": "https://github.com/PX4/PX4-Autopilot/pull/17264/commits/555f900cf52c0057e4c429ff3699c91911a21cab",
+        "Tag": "['Patch']"
+    }
+]

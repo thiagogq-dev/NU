@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "rl-institut/NESP2",
+        "CVE_ID": "CVE-2020-36768",
+        "Problem_Type": "CWE-89",
+        "Description": "A vulnerability was found in rl-institut NESP2 Initial Release/1.0. It has been classified as critical. Affected is an unknown function of the file app/database.py. The manipulation leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. The patch is identified as 07c0cdf36cf6a4345086d07b54423723a496af5e. It is recommended to apply a patch to fix this issue. VDB-246642 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/rl-institut/NESP2/pull/333",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

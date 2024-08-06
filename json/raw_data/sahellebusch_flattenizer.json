@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sahellebusch/flattenizer",
+        "CVE_ID": "CVE-2020-28279",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Prototype pollution vulnerability in 'flattenizer' versions 0.0.5 through 1.0.5 allows an attacker to cause a denial of service and may lead to remote code execution.",
+        "URL": "https://github.com/sahellebusch/flattenizer/pull/13",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

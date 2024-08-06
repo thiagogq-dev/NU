@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "ros/ros_comm",
+        "CVE_ID": "CVE-2019-13445",
+        "Problem_Type": "CWE-190",
+        "Description": "An issue was discovered in the ROS communications-related packages (aka ros_comm or ros-melodic-ros-comm) through 1.14.3. parseOptions() in tools/rosbag/src/record.cpp has an integer overflow when a crafted split option can be entered on the command line.",
+        "URL": "https://github.com/ros/ros_comm/pull/1741",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "ros/ros_comm",
+        "CVE_ID": "CVE-2019-13566",
+        "Problem_Type": "CWE-120",
+        "Description": "An issue was discovered in the ROS communications-related packages (aka ros_comm or ros-melodic-ros-comm) through 1.14.3. A buffer overflow allows attackers to cause a denial of service and possibly execute arbitrary code via an IP address with a long hostname.",
+        "URL": "https://github.com/ros/ros_comm/pull/1771",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "ros/ros_comm",
+        "CVE_ID": "CVE-2020-16124",
+        "Problem_Type": "CWE-190",
+        "Description": "Integer Overflow or Wraparound vulnerability in the XML RPC library of OpenRobotics ros_comm communications packages allows unauthenticated network traffic to cause unexpected behavior. This issue affects: OpenRobotics ros_comm communications packages Noetic and prior versions. Fixed in https://github.com/ros/ros_comm/pull/2065.",
+        "URL": "https://github.com/ros/ros_comm/pull/2065",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

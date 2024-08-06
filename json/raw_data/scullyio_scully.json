@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "scullyio/scully",
+        "CVE_ID": "CVE-2020-28470",
+        "Problem_Type": "CWE-79",
+        "Description": "This affects the package @scullyio/scully before 1.0.9. The transfer state is serialised with the JSON.stringify() function and then written into the HTML page.",
+        "URL": "https://github.com/scullyio/scully/pull/1182",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "projectatomic/oci-register-machine",
+        "CVE_ID": "CVE-2016-6349",
+        "Problem_Type": "CWE-200",
+        "Description": "The machinectl command in oci-register-machine allows local users to list running containers and possibly obtain sensitive information by running that command.",
+        "URL": "https://github.com/projectatomic/oci-register-machine/pull/22",
+        "Tag": "['Patch']"
+    }
+]

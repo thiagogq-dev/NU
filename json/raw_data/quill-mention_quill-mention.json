@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "quill-mention/quill-mention",
+        "CVE_ID": "CVE-2023-26149",
+        "Problem_Type": "CWE-79",
+        "Description": "Versions of the package quill-mention before 4.0.0 are vulnerable to Cross-site Scripting (XSS) due to improper user-input sanitization, via the renderList function. \n\n**Note:**\n\nIf the mentions list is sourced from unsafe (user-sourced) data, this might allow an injection attack when a Quill user hits @.",
+        "URL": "https://github.com/quill-mention/quill-mention/pull/341",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Silverpeas/Silverpeas-Core",
+        "CVE_ID": "CVE-2023-47324",
+        "Problem_Type": "CWE-79",
+        "Description": "Silverpeas Core 6.3.1 is vulnerable to Cross Site Scripting (XSS) via the message/notification feature.",
+        "URL": "https://github.com/Silverpeas/Silverpeas-Core/pull/1298/commits",
+        "Tag": "['Patch']"
+    }
+]

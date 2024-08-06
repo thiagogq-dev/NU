@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "roundcube/roundcubemail",
+        "CVE_ID": "CVE-2020-12626",
+        "Problem_Type": "CWE-352",
+        "Description": "An issue was discovered in Roundcube Webmail before 1.4.4. A CSRF attack can cause an authenticated user to be logged out because POST was not considered.",
+        "URL": "https://github.com/roundcube/roundcubemail/pull/7302",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

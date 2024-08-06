@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "redis/redis-py",
+        "CVE_ID": "CVE-2023-28858",
+        "Problem_Type": "CWE-193",
+        "Description": "redis-py before 4.5.3 leaves a connection open after canceling an async Redis command at an inopportune time, and can send response data to the client of an unrelated request in an off-by-one manner. NOTE: this CVE Record was initially created in response to reports about ChatGPT, and 4.3.6, 4.4.3, and 4.5.3 were released (changing the behavior for pipeline operations); however, please see CVE-2023-28859 about addressing data leakage across AsyncIO connections in general.",
+        "URL": "https://github.com/redis/redis-py/pull/2641",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "redis/redis-py",
+        "CVE_ID": "CVE-2023-28859",
+        "Problem_Type": "CWE-459",
+        "Description": "redis-py before 4.4.4 and 4.5.x before 4.5.4 leaves a connection open after canceling an async Redis command at an inopportune time, and can send response data to the client of an unrelated request. (This could, for example, happen for a non-pipeline operation.) NOTE: the solutions for CVE-2023-28859 address data leakage across AsyncIO connections in general.",
+        "URL": "https://github.com/redis/redis-py/pull/2641",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "progfay/scrapbox-parser",
+        "CVE_ID": "CVE-2021-27405",
+        "Problem_Type": "CWE-400",
+        "Description": "A ReDoS (regular expression denial of service) flaw was found in the @progfay/scrapbox-parser package before 6.0.3 for Node.js.",
+        "URL": "https://github.com/progfay/scrapbox-parser/pull/540",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "progfay/scrapbox-parser",
+        "CVE_ID": "CVE-2021-27405",
+        "Problem_Type": "CWE-400",
+        "Description": "A ReDoS (regular expression denial of service) flaw was found in the @progfay/scrapbox-parser package before 6.0.3 for Node.js.",
+        "URL": "https://github.com/progfay/scrapbox-parser/pull/539",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "progfay/scrapbox-parser",
+        "CVE_ID": "CVE-2021-27405",
+        "Problem_Type": "CWE-400",
+        "Description": "A ReDoS (regular expression denial of service) flaw was found in the @progfay/scrapbox-parser package before 6.0.3 for Node.js.",
+        "URL": "https://github.com/progfay/scrapbox-parser/pull/519",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

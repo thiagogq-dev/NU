@@ -1,0 +1,130 @@
+[
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2016-4009",
+        "Problem_Type": "CWE-119",
+        "Description": "Integer overflow in the ImagingResampleHorizontal function in libImaging/Resample.c in Pillow before 3.1.1 allows remote attackers to have unspecified impact via negative values of the new size, which triggers a heap-based buffer overflow.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/1714",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2016-9189",
+        "Problem_Type": "CWE-190",
+        "Description": "Pillow before 3.3.2 allows context-dependent attackers to obtain sensitive information by using the \"crafted image file\" approach, related to an \"Integer Overflow\" issue affecting the Image.core.map_buffer in map.c component.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/2146/commits/c50ebe6459a131a1ea8ca531f10da616d3ceaa0f",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2016-9190",
+        "Problem_Type": "CWE-284",
+        "Description": "Pillow before 3.3.2 allows context-dependent attackers to execute arbitrary code by using the \"crafted image file\" approach, related to an \"Insecure Sign Extension\" issue affecting the ImagingNew in Storage.c component.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/2146/commits/5d8a0be45aad78c5a22c8d099118ee26ef8144af",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-10177",
+        "Problem_Type": "CWE-125",
+        "Description": "Pillow before 7.1.0 has multiple out-of-bounds reads in libImaging/FliDecode.c.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4503",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-10177",
+        "Problem_Type": "CWE-125",
+        "Description": "Pillow before 7.1.0 has multiple out-of-bounds reads in libImaging/FliDecode.c.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4538",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-10378",
+        "Problem_Type": "CWE-125",
+        "Description": "In libImaging/PcxDecode.c in Pillow before 7.1.0, an out-of-bounds read can occur when reading PCX files where state->shuffle is instructed to read beyond state->buffer.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4538",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-10379",
+        "Problem_Type": "CWE-120",
+        "Description": "In Pillow before 7.1.0, there are two Buffer Overflows in libImaging/TiffDecode.c.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4538",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-10994",
+        "Problem_Type": "CWE-125",
+        "Description": "In libImaging/Jpeg2KDecode.c in Pillow before 7.1.0, there are multiple out-of-bounds reads via a crafted JP2 file.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4538",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-10994",
+        "Problem_Type": "CWE-125",
+        "Description": "In libImaging/Jpeg2KDecode.c in Pillow before 7.1.0, there are multiple out-of-bounds reads via a crafted JP2 file.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4505",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-11538",
+        "Problem_Type": "CWE-125",
+        "Description": "In libImaging/SgiRleDecode.c in Pillow through 7.0.0, a number of out-of-bounds reads exist in the parsing of SGI image files, a different issue than CVE-2020-5311.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4538",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2020-11538",
+        "Problem_Type": "CWE-125",
+        "Description": "In libImaging/SgiRleDecode.c in Pillow through 7.0.0, a number of out-of-bounds reads exist in the parsing of SGI image files, a different issue than CVE-2020-5311.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/4504",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2021-28677",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "An issue was discovered in Pillow before 8.2.0. For EPS data, the readline implementation used in EPSImageFile has to deal with any combination of \\r and \\n as line endings. It used an accidentally quadratic method of accumulating lines while looking for a line ending. A malicious EPS file could use this to perform a DoS of Pillow in the open phase, before an image was accepted for opening.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/5377",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2021-28678",
+        "Problem_Type": "CWE-345",
+        "Description": "An issue was discovered in Pillow before 8.2.0. For BLP data, BlpImagePlugin did not properly check that reads (after jumping to file offsets) returned data. This could lead to a DoS where the decoder could be run a large number of times on empty data.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/5377",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2022-45198",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Pillow before 9.2.0 performs Improper Handling of Highly Compressed GIF Data (Data Amplification).",
+        "URL": "https://github.com/python-pillow/Pillow/pull/6402",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2022-45199",
+        "Problem_Type": "CWE-400",
+        "Description": "Pillow before 9.3.0 allows denial of service via SAMPLESPERPIXEL.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/6700",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "python-pillow/Pillow",
+        "CVE_ID": "CVE-2023-44271",
+        "Problem_Type": "CWE-770",
+        "Description": "An issue was discovered in Pillow before 10.0.0. It is a Denial of Service that uncontrollably allocates memory to process a given task, potentially causing a service to crash by having it run out of memory. This occurs for truetype in ImageFont when textlength in an ImageDraw instance operates on a long text argument.",
+        "URL": "https://github.com/python-pillow/Pillow/pull/7244",
+        "Tag": "['Patch']"
+    }
+]

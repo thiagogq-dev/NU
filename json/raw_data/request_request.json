@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "request/request",
+        "CVE_ID": "CVE-2023-28155",
+        "Problem_Type": "CWE-918",
+        "Description": "The Request package through 2.88.1 for Node.js allows a bypass of SSRF mitigations via an attacker-controller server that does a cross-protocol redirect (HTTP to HTTPS, or HTTPS to HTTP). NOTE: This vulnerability only affects products that are no longer supported by the maintainer.",
+        "URL": "https://github.com/request/request/pull/3444",
+        "Tag": "['Patch']"
+    }
+]

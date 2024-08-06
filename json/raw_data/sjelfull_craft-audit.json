@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sjelfull/craft-audit",
+        "CVE_ID": "CVE-2023-36259",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting (XSS) vulnerability in Craft CMS Audit Plugin before version 3.0.2 allows attackers to execute arbitrary code during user creation.",
+        "URL": "https://github.com/sjelfull/craft-audit/pull/73",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

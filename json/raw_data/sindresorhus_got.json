@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sindresorhus/got",
+        "CVE_ID": "CVE-2022-33987",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The got package before 12.1.0 (also fixed in 11.8.5) for Node.js allows a redirect to a UNIX socket.",
+        "URL": "https://github.com/sindresorhus/got/pull/2047",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2013-2028",
+        "Problem_Type": "CWE-787",
+        "Description": "The ngx_http_parse_chunked function in http/ngx_http_parse.c in nginx 1.3.9 through 1.4.0 allows remote attackers to cause a denial of service (crash) and execute arbitrary code via a chunked Transfer-Encoding request with a large chunk size, which triggers an integer signedness error and a stack-based buffer overflow.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/1834",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2019-12799",
+        "Problem_Type": "CWE-502",
+        "Description": "In createInstanceFromNamedArguments in Shopware through 5.6.x, a crafted web request can trigger a PHP object instantiation vulnerability, which can result in an arbitrary deserialization if the right class is instantiated. An attacker can leverage this deserialization to achieve remote code execution. NOTE: this issue is a bypass for a CVE-2017-18357 whitelist patch.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/11828",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2019-5624",
+        "Problem_Type": "CWE-22",
+        "Description": "Rapid7 Metasploit Framework suffers from an instance of CWE-22, Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') in the Zip import function of Metasploit. Exploiting this vulnerability can allow an attacker to execute arbitrary code in Metasploit at the privilege level of the user running Metasploit. This issue affects: Rapid7 Metasploit Framework version 4.14.0 and prior versions.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/11716",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2019-5645",
+        "Problem_Type": "CWE-400",
+        "Description": "By sending a specially crafted HTTP GET request to a listening Rapid7 Metasploit HTTP handler, an attacker can register an arbitrary regular expression. When evaluated, this malicious handler can either prevent new HTTP handler sessions from being established, or cause a resource exhaustion on the Metasploit server.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/12433",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-10808",
+        "Problem_Type": "CWE-78",
+        "Description": "Vesta Control Panel (VestaCP) through 0.9.8-26 allows Command Injection via the schedule/backup Backup Listing Endpoint. The attacker must be able to create a crafted filename on the server, as demonstrated by an FTP session that renames .bash_logout to a .bash_logout' substring followed by shell metacharacters.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/13094",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-27386",
+        "Problem_Type": "CWE-434",
+        "Description": "An unrestricted file upload issue in FlexDotnetCMS before v1.5.9 allows an authenticated remote attacker to upload and execute arbitrary files by using the FileManager to upload malicious code (e.g., ASP code) in the form of a safe file type (e.g., a TXT file), and then using the FileEditor (in v1.5.8 and prior) or the FileManager's rename function (in v1.5.7 and prior) to rename the file to an executable extension (e.g., ASP), and finally executing the file via an HTTP GET request to /<path_to_file>.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/14339",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-28347",
+        "Problem_Type": "CWE-78",
+        "Description": "tdpServer on TP-Link Archer A7 AC1750 devices before 201029 allows remote attackers to execute arbitrary code via the slave_mac parameter. NOTE: this issue exists because of an incomplete fix for CVE-2020-10882 in which shell quotes are mishandled.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/14365",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7351",
+        "Problem_Type": "CWE-78",
+        "Description": "An OS Command Injection vulnerability in the endpoint_devicemap.php component of Fonality Trixbox Community Edition allows an attacker to execute commands on the underlying operating system as the \"asterisk\" user. Note that Trixbox Community Edition has been unsupported by the vendor since 2012. This issue affects: Fonality Trixbox Community Edition, versions 1.2.0 through 2.8.0.4. Versions 1.0 and 1.1 are unaffected.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/13353",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7352",
+        "Problem_Type": "CWE-798",
+        "Description": "The GalaxyClientService component of GOG Galaxy runs with elevated SYSTEM privileges in a Windows environment. Due to the software shipping with embedded, static RSA private key, an attacker with this key material and local user permissions can effectively send any operating system command to the service for execution in this elevated context. The service listens for such commands on a locally-bound network port, localhost:9978. A Metasploit module has been published which exploits this vulnerability. This issue affects the 2.0.x branch of the software (2.0.12 and earlier) as well as the 1.2.x branch (1.2.64 and earlier). A fix was issued for the 2.0.x branch of the affected software.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/13444",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7356",
+        "Problem_Type": "CWE-89",
+        "Description": "CAYIN xPost suffers from an unauthenticated SQL Injection vulnerability. Input passed via the GET parameter 'wayfinder_seqid' in wayfinder_meeting_input.jsp is not properly sanitized before being returned to the user or used in SQL queries. This can be exploited to manipulate SQL queries by injecting arbitrary SQL code and execute SYSTEM commands.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/13607",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7357",
+        "Problem_Type": "CWE-78",
+        "Description": "Cayin CMS suffers from an authenticated OS semi-blind command injection vulnerability using default credentials. This can be exploited to inject and execute arbitrary shell commands as the root user through the 'NTP_Server_IP' HTTP POST parameter in system.cgi page. This issue affects several branches and versions of the CMS application, including CME-SE, CMS-60, CMS-40, CMS-20, and CMS version 8.2, 8.0, and 7.5.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/13607",
+        "Tag": "['Exploit', 'Patch']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7373",
+        "Problem_Type": "CWE-94",
+        "Description": "vBulletin 5.5.4 through 5.6.2 allows remote command execution via crafted subWidgets data in an ajax/render/widget_tabbedcontainer_tab_panel request. NOTE: this issue exists because of an incomplete fix for CVE-2019-16759. ALSO NOTE: CVE-2020-7373 is a duplicate of CVE-2020-17496. CVE-2020-17496 is the preferred CVE ID to track this vulnerability.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/13970",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7374",
+        "Problem_Type": "CWE-120",
+        "Description": "Documalis Free PDF Editor version 5.7.2.26 and Documalis Free PDF Scanner version 5.7.2.122 do not appropriately validate the contents of JPEG images contained within a PDF. Attackers can exploit this vulnerability to trigger a buffer overflow on the stack and gain remote code execution as the user running the Documalis Free PDF Editor or Documalis Free PDF Scanner software.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/13517",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7384",
+        "Problem_Type": "CWE-77",
+        "Description": "Rapid7's Metasploit msfvenom framework handles APK files in a way that allows for a malicious user to craft and publish a file that would execute arbitrary commands on a victim's machine.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/14288",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7385",
+        "Problem_Type": "CWE-502",
+        "Description": "By launching the drb_remote_codeexec exploit, a Metasploit Framework user will inadvertently expose Metasploit to the same deserialization issue that is exploited by that module, due to the reliance on the vulnerable Distributed Ruby class functions. Since Metasploit Framework typically runs with elevated privileges, this can lead to a system compromise on the Metasploit workstation. Note that an attacker would have to lie in wait and entice the Metasploit user to run the affected module against a malicious endpoint in a \"hack-back\" type of attack. Metasploit is only vulnerable when the drb_remote_codeexec module is running. In most cases, this cannot happen automatically.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/14335",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2020-7385",
+        "Problem_Type": "CWE-502",
+        "Description": "By launching the drb_remote_codeexec exploit, a Metasploit Framework user will inadvertently expose Metasploit to the same deserialization issue that is exploited by that module, due to the reliance on the vulnerable Distributed Ruby class functions. Since Metasploit Framework typically runs with elevated privileges, this can lead to a system compromise on the Metasploit workstation. Note that an attacker would have to lie in wait and entice the Metasploit user to run the affected module against a malicious endpoint in a \"hack-back\" type of attack. Metasploit is only vulnerable when the drb_remote_codeexec module is running. In most cases, this cannot happen automatically.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/14300",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2021-29133",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Lack of verification in haserl, a component of Alpine Linux Configuration Framework, before 0.9.36 allows local users to read the contents of any file on the filesystem.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/14833/commits/5bf6b2d094deb22fa8183ce161b90cbe4fd40a70",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2021-29133",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Lack of verification in haserl, a component of Alpine Linux Configuration Framework, before 0.9.36 allows local users to read the contents of any file on the filesystem.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/14833",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2021-43258",
+        "Problem_Type": "CWE-434",
+        "Description": "CartView.php in ChurchInfo 1.3.0 allows attackers to achieve remote code execution through insecure uploads. This requires authenticated access tot he ChurchInfo application. Once authenticated, a user can add names to their cart, and compose an email. Uploading an attachment for the email stores the attachment on the site in the /tmp_attach/ folder where it can be accessed with a GET request. There are no limitations on files that can be attached, allowing for malicious PHP code to be uploaded and interpreted by the server.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/17257",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-28810",
+        "Problem_Type": "CWE-78",
+        "Description": "Zoho ManageEngine ADSelfService Plus before build 6122 allows a remote authenticated administrator to execute arbitrary operating OS commands as SYSTEM via the policy custom script feature. Due to the use of a default administrator password, attackers may be able to abuse this functionality with minimal effort. Additionally, a remote and partially authenticated attacker may be able to inject arbitrary commands into the custom script due to an unsanitized password field.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/16475",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-3218",
+        "Problem_Type": "CWE-287",
+        "Description": "Due to a reliance on client-side authentication, the WiFi Mouse (Mouse Server) from Necta LLC's authentication mechanism is trivially bypassed, which can result in remote code execution.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/16985",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-3229",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Because the web management interface for Unified Intents' Unified Remote solution does not itself require authentication, a remote, unauthenticated attacker can change or disable authentication requirements for the Unified Remote protocol, and leverage this now-unauthenticated access to run code of the attacker's choosing.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/16989",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-34876",
+        "Problem_Type": "CWE-89",
+        "Description": "SQL Injection vulnerability in admin interface (/vicidial/admin.php) of VICIdial via modify_email_accounts, access_recordings, and agentcall_email parameters allows attacker to spoof identity, tamper with existing data, allow the complete disclosure of all data on the system, destroy the data or make it otherwise unavailable, and become administrators of the database server. This issue affects: VICIdial 2.14b0.5 versions prior to 3555.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/16732",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-34877",
+        "Problem_Type": "CWE-89",
+        "Description": "SQL Injection vulnerability in AST Agent Time Sheet interface ((/vicidial/AST_agent_time_sheet.php) of VICIdial via the agent parameter allows attacker to spoof identity, tamper with existing data, allow the complete disclosure of all data on the system, destroy the data or make it otherwise unavailable, and become administrators of the database server. This issue affects: VICIdial 2.14b0.5 versions prior to 3555.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/16732",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-34878",
+        "Problem_Type": "CWE-89",
+        "Description": "SQL Injection vulnerability in User Stats interface (/vicidial/user_stats.php) of VICIdial via the file_download parameter allows attacker to spoof identity, tamper with existing data, allow the complete disclosure of all data on the system, destroy the data or make it otherwise unavailable, and become administrators of the database server.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/16732",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-3569",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Due to an issue with incorrect sudo permissions, Zimbra Collaboration Suite (ZCS) suffers from a local privilege escalation issue in versions 9.0.0 and prior, where the 'zimbra' user can effectively coerce postfix into running arbitrary commands as 'root'.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/17141",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2022-37393",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Zimbra's sudo configuration permits the zimbra user to execute the zmslapd binary as root with arbitrary parameters. As part of its intended functionality, zmslapd can load a user-defined configuration file, which includes plugins in the form of .so files, which also execute as root.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/16807",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rapid7/metasploit-framework",
+        "CVE_ID": "CVE-2023-0669",
+        "Problem_Type": "CWE-502",
+        "Description": "Fortra (formerly, HelpSystems) GoAnywhere MFT suffers from a pre-authentication command injection vulnerability in the License Response Servlet due to deserializing an arbitrary attacker-controlled object. This issue was patched in version 7.1.2.",
+        "URL": "https://github.com/rapid7/metasploit-framework/pull/17607",
+        "Tag": "['Patch']"
+    }
+]

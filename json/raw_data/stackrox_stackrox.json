@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "stackrox/stackrox",
+        "CVE_ID": "CVE-2022-1902",
+        "Problem_Type": "CWE-497",
+        "Description": "A flaw was found in the Red Hat Advanced Cluster Security for Kubernetes. Notifier secrets were not properly sanitized in the GraphQL API. This flaw allows authenticated ACS users to retrieve Notifiers from the GraphQL API, revealing secrets that can escalate their privileges.",
+        "URL": "https://github.com/stackrox/stackrox/pull/1803",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

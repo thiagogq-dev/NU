@@ -1,0 +1,50 @@
+[
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2020-28346",
+        "Problem_Type": "CWE-476",
+        "Description": "ACRN through 2.2 has a devicemodel/hw/pci/virtio/virtio.c NULL Pointer Dereference.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/5453",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2020-28346",
+        "Problem_Type": "CWE-476",
+        "Description": "ACRN through 2.2 has a devicemodel/hw/pci/virtio/virtio.c NULL Pointer Dereference.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/5453/commits/ae0ab82434509d6e75f4a2f1e1a0dd2ee3dc3681",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36144",
+        "Problem_Type": "CWE-416",
+        "Description": "The polling timer handler in ACRN before 2.5 has a use-after-free for a freed virtio device, related to devicemodel/hw/pci/virtio/*.c.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6268/commits/dd88504804e186029f845a166dc5c31695e2cca2",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36145",
+        "Problem_Type": "CWE-416",
+        "Description": "The Device Model in ACRN through 2.5 has a devicemodel/core/mem.c use-after-free for a freed rb_entry.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6058/commits/f880086ffe5423e67d968c8f8f665954786582ce",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36146",
+        "Problem_Type": "CWE-476",
+        "Description": "ACRN before 2.5 has a devicemodel/hw/pci/xhci.c NULL Pointer Dereference for a trb pointer.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6173/commits/330359921e2e4c2f3f3a10b5bab86942d63c4428",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36147",
+        "Problem_Type": "CWE-476",
+        "Description": "An issue was discovered in ACRN before 2.5. It allows a devicemodel/hw/pci/virtio/virtio_net.c virtio_net_ping_rxq NULL pointer dereference for vq->used.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6121/commits/131116b15b0e35a62085d23686b43ed1c12c1331",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

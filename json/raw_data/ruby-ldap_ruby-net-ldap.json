@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ruby-ldap/ruby-net-ldap",
+        "CVE_ID": "CVE-2017-17718",
+        "Problem_Type": "CWE-295",
+        "Description": "The Net::LDAP (aka net-ldap) gem before 0.16.0 for Ruby has Missing SSL Certificate Validation.",
+        "URL": "https://github.com/ruby-ldap/ruby-net-ldap/pull/279",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "shamaton/msgpack",
+        "CVE_ID": "CVE-2022-41719",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Unmarshal can panic on some inputs, possibly allowing for denial of service attacks.",
+        "URL": "https://github.com/shamaton/msgpack/pull/32",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2017-8289",
+        "Problem_Type": "CWE-119",
+        "Description": "Stack-based buffer overflow in the ipv6_addr_from_str function in sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c in RIOT prior to 2017-04-25 allows local attackers, and potentially remote attackers, to cause a denial of service or possibly have unspecified other impact via a malformed IPv6 address.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/6962",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2017-8289",
+        "Problem_Type": "CWE-119",
+        "Description": "Stack-based buffer overflow in the ipv6_addr_from_str function in sys/net/network_layer/ipv6/addr/ipv6_addr_from_str.c in RIOT prior to 2017-04-25 allows local attackers, and potentially remote attackers, to cause a denial of service or possibly have unspecified other impact via a malformed IPv6 address.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/6961",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2019-15134",
+        "Problem_Type": "CWE-401",
+        "Description": "RIOT through 2019.07 contains a memory leak in the TCP implementation (gnrc_tcp), allowing an attacker to consume all memory available for network packets and thus effectively stopping all network threads from working. This is related to _receive in sys/net/gnrc/transport_layer/tcp/gnrc_tcp_eventloop.c upon receiving an ACK before a SYN.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/12001",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2019-16754",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT 2019.07 contains a NULL pointer dereference in the MQTT-SN implementation (asymcute), potentially allowing an attacker to crash a network node running RIOT. This requires spoofing an MQTT server response. To do so, the attacker needs to know the MQTT MsgID of a pending MQTT protocol message and the ephemeral port used by RIOT's MQTT implementation. Additionally, the server IP address is required for spoofing the packet.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/12293",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2019-17389",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "In RIOT 2019.07, the MQTT-SN implementation (asymcute) mishandles errors occurring during a read operation on a UDP socket. The receive loop ends. This allows an attacker (via a large packet) to prevent a RIOT MQTT-SN client from working until the device is restarted.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/12382",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2020-15350",
+        "Problem_Type": "CWE-119",
+        "Description": "RIOT 2020.04 has a buffer overflow in the base64 decoder. The decoding function base64_decode() uses an output buffer estimation function to compute the required buffer capacity and validate against the provided buffer size. The base64_estimate_decode_size() function calculates the expected decoded size with an arithmetic round-off error and does not take into account possible padding bytes. Due to this underestimation, it may be possible to craft base64 input that causes a buffer overflow.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/14400",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24818",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference. During forwarding of a fragment an uninitialized entry in the reassembly buffer is used. The NULL pointer dereference triggers a hard fault exception resulting in denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/0bec3e245ed3815ad6c8cae54673f0021777768b",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24818",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference. During forwarding of a fragment an uninitialized entry in the reassembly buffer is used. The NULL pointer dereference triggers a hard fault exception resulting in denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/f4fb746d1acaacc962daeed3aa71aadfe307d20e",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24818",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference. During forwarding of a fragment an uninitialized entry in the reassembly buffer is used. The NULL pointer dereference triggers a hard fault exception resulting in denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/17c70f7ee0b1445f2941f516f264ed4a096e82b7",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24818",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference. During forwarding of a fragment an uninitialized entry in the reassembly buffer is used. The NULL pointer dereference triggers a hard fault exception resulting in denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/aa27ed71fa3e5d48dee1748dcf27b6323ec98a33",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24818",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference. During forwarding of a fragment an uninitialized entry in the reassembly buffer is used. The NULL pointer dereference triggers a hard fault exception resulting in denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/4b23d93868a28edd8ebf2ff4ebe94540f2475008",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24818",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference. During forwarding of a fragment an uninitialized entry in the reassembly buffer is used. The NULL pointer dereference triggers a hard fault exception resulting in denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/f4df5b4c4f841ccb460930894cf68ab10b55b971",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24819",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in an out of bounds write in the packet buffer. The overflow can be used to corrupt other packets and the allocator metadata. Corrupting a pointer will easily lead to denial of service. While carefully manipulating the allocator metadata gives an attacker the possibility to write data to arbitrary locations and thus execute arbitrary code. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/da63e45ee94c03a2e08625b04ea618653eab4a9f",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24819",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in an out of bounds write in the packet buffer. The overflow can be used to corrupt other packets and the allocator metadata. Corrupting a pointer will easily lead to denial of service. While carefully manipulating the allocator metadata gives an attacker the possibility to write data to arbitrary locations and thus execute arbitrary code. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/73615161c01fcfbbc7216cf502cabb12c1598ee4",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24820",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. An attacker can send a crafted frame to the device resulting in a large out of bounds write beyond the packet buffer. The write will create a hard fault exception after reaching the last page of RAM. The hard fault is not handled and the system will be stuck until reset. Thus the impact is denial of service. Version 2022.10 fixes this issue. As a workaround, apply the patch manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/d052e2ee166e55bbdfe4c455e65dbd7e3479ebe3",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24820",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. An attacker can send a crafted frame to the device resulting in a large out of bounds write beyond the packet buffer. The write will create a hard fault exception after reaching the last page of RAM. The hard fault is not handled and the system will be stuck until reset. Thus the impact is denial of service. Version 2022.10 fixes this issue. As a workaround, apply the patch manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/2709fbd827b688fe62df2c77c316914f4a3a6d4a",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24821",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a large out of bounds write beyond the packet buffer. The write will create a hard fault exception after reaching the last page of RAM. The hard fault is not handled and the system will be stuck until reset, thus the impact is denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/bd31010231f5340e21410595dd95afc86bbfd341",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24821",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a large out of bounds write beyond the packet buffer. The write will create a hard fault exception after reaching the last page of RAM. The hard fault is not handled and the system will be stuck until reset, thus the impact is denial of service. Version 2022.10 fixes this issue. As a workaround, disable support for fragmented IP datagrams or apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/9728f727e75d7d78dbfb5918e0de1b938b7b6d2c",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24822",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference while encoding a 6LoWPAN IPHC header. The NULL pointer dereference causes a hard fault exception, leading to denial of service. Version 2022.10 fixes this issue. As a workaround, apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/7253e261556f252816f4a3b7c4f96fc10d642485",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24822",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a NULL pointer dereference while encoding a 6LoWPAN IPHC header. The NULL pointer dereference causes a hard fault exception, leading to denial of service. Version 2022.10 fixes this issue. As a workaround, apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/639c04325de4ceb9d444955f4927bfae95843a39",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24823",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a type confusion between IPv6 extension headers and a UDP header. This occurs while encoding a 6LoWPAN IPHC header. The type confusion manifests in an out of bounds write in the packet buffer. The overflow can be used to corrupt other packets and the allocator metadata. Corrupting a pointer will easily lead to denial of service. While carefully manipulating the allocator metadata gives an attacker the possibility to write data to arbitrary locations and thus execute arbitrary code. Version 2022.10 fixes this issue. As a workaround, apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18820/commits/dafc397fdc3655aeb5c7b9963a43f1604c6a2062",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-24823",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system that supports Internet of Things devices, contains a network stack with the ability to process 6LoWPAN frames. Prior to version 2022.10, an attacker can send a crafted frame to the device resulting in a type confusion between IPv6 extension headers and a UDP header. This occurs while encoding a 6LoWPAN IPHC header. The type confusion manifests in an out of bounds write in the packet buffer. The overflow can be used to corrupt other packets and the allocator metadata. Corrupting a pointer will easily lead to denial of service. While carefully manipulating the allocator metadata gives an attacker the possibility to write data to arbitrary locations and thus execute arbitrary code. Version 2022.10 fixes this issue. As a workaround, apply the patches manually.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/18817/commits/4a081f86616cb5c9dd0b5d7b286da03285d1652a",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-33973",
+        "Problem_Type": "CWE-476",
+        "Description": "RIOT-OS, an operating system for Internet of Things (IoT) devices, contains a network stack with the ability to process 6LoWPAN frames. In versions 2023.01 and prior, an attacker can send a crafted frame which is forwarded by the device. During encoding of the packet a NULL pointer dereference occurs. This crashes the device leading to denial of service. A patch is available at pull request 19678. There are no known workarounds.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/19678",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-33974",
+        "Problem_Type": "CWE-362",
+        "Description": "RIOT-OS, an operating system for Internet of Things (IoT) devices, contains a network stack with the ability to process 6LoWPAN frames. In versions 2023.01 and prior, an attacker can send multiple crafted frames to the device to trigger a race condition. The race condition invalidates assumptions about the program state and leads to an invalid memory access resulting in denial of service. This issue is patched in pull request 19679. There are no known workarounds.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/19679",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "RIOT-OS/RIOT",
+        "CVE_ID": "CVE-2023-33975",
+        "Problem_Type": "CWE-787",
+        "Description": "RIOT-OS, an operating system for Internet of Things (IoT) devices, contains a network stack with the ability to process 6LoWPAN frames. In version 2023.01 and prior, an attacker can send a crafted frame to the device resulting in an out of bounds write in the packet buffer. The overflow can be used to corrupt other packets and the allocator metadata. Corrupting a pointer will easily lead to denial of service. While carefully manipulating the allocator metadata gives an attacker the possibility to write data to arbitrary locations and thus execute arbitrary code. This issue is fixed in pull request 19680. As a workaround, disable support for fragmented IP datagrams.",
+        "URL": "https://github.com/RIOT-OS/RIOT/pull/19680",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

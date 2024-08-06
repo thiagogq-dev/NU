@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "RobotsAndPencils/go-saml",
+        "CVE_ID": "CVE-2020-36563",
+        "Problem_Type": "CWE-347",
+        "Description": "XML Digital Signatures generated and validated using this package use SHA-1, which may allow an attacker to craft inputs which cause hash collisions depending on their control over the input.",
+        "URL": "https://github.com/RobotsAndPencils/go-saml/pull/38",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

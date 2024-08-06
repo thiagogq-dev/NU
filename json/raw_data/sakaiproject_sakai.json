@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sakaiproject/sakai",
+        "CVE_ID": "CVE-2019-16148",
+        "Problem_Type": "CWE-79",
+        "Description": "Sakai through 12.6 allows XSS via a chat user name.",
+        "URL": "https://github.com/sakaiproject/sakai/pull/6971",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

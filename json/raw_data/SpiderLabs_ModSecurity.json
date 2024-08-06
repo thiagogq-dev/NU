@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "SpiderLabs/ModSecurity",
+        "CVE_ID": "CVE-2022-48279",
+        "Problem_Type": "CWE-436",
+        "Description": "In ModSecurity before 2.9.6 and 3.x before 3.0.8, HTTP multipart requests were incorrectly parsed and could bypass the Web Application Firewall. NOTE: this is related to CVE-2022-39956 but can be considered independent changes to the ModSecurity (C language) codebase.",
+        "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2797",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "SpiderLabs/ModSecurity",
+        "CVE_ID": "CVE-2022-48279",
+        "Problem_Type": "CWE-436",
+        "Description": "In ModSecurity before 2.9.6 and 3.x before 3.0.8, HTTP multipart requests were incorrectly parsed and could bypass the Web Application Firewall. NOTE: this is related to CVE-2022-39956 but can be considered independent changes to the ModSecurity (C language) codebase.",
+        "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2795",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "SpiderLabs/ModSecurity",
+        "CVE_ID": "CVE-2023-24021",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Incorrect handling of '\\0' bytes in file uploads in ModSecurity before 2.9.7 may allow for Web Application Firewall bypasses and buffer over-reads on the Web Application Firewall when executing rules that read the FILES_TMP_CONTENT collection.",
+        "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2857/commits/4324f0ac59f8225aa44bc5034df60dbeccd1d334",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "SpiderLabs/ModSecurity",
+        "CVE_ID": "CVE-2023-24021",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Incorrect handling of '\\0' bytes in file uploads in ModSecurity before 2.9.7 may allow for Web Application Firewall bypasses and buffer over-reads on the Web Application Firewall when executing rules that read the FILES_TMP_CONTENT collection.",
+        "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2857",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

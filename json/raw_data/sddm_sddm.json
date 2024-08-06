@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "sddm/sddm",
+        "CVE_ID": "CVE-2014-7271",
+        "Problem_Type": "CWE-306",
+        "Description": "Simple Desktop Display Manager (SDDM) before 0.10.0 allows local users to log in as user \"sddm\" without authentication.",
+        "URL": "https://github.com/sddm/sddm/pull/279/files",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "sddm/sddm",
+        "CVE_ID": "CVE-2014-7272",
+        "Problem_Type": "CWE-264",
+        "Description": "Simple Desktop Display Manager (SDDM) before 0.10.0 allows local users to gain root privileges because code running as root performs write operations within a user home directory, and this user may have created links in advance (exploitation requires the user to win a race condition in the ~/.Xauthority chown case, but not other cases).",
+        "URL": "https://github.com/sddm/sddm/pull/280",
+        "Tag": "['Patch']"
+    }
+]

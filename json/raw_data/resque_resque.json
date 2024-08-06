@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "resque/resque",
+        "CVE_ID": "CVE-2023-50724",
+        "Problem_Type": "CWE-79",
+        "Description": "Resque (pronounced like \"rescue\") is a Redis-backed library for creating background jobs, placing those jobs on multiple queues, and processing them later. resque-web in resque versions before 2.1.0 are vulnerable to reflected XSS through the current_queue parameter in the path of the queues endpoint. This issue has been patched in version 2.1.0.\n",
+        "URL": "https://github.com/resque/resque/pull/1687",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "resque/resque",
+        "CVE_ID": "CVE-2023-50725",
+        "Problem_Type": "CWE-79",
+        "Description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later. The following paths in resque-web have been found to be vulnerable to reflected XSS: \"/failed/?class=<script>alert(document.cookie)</script>\" and \"/queues/><img src=a onerror=alert(document.cookie)>\". This issue has been patched in version 2.2.1.",
+        "URL": "https://github.com/resque/resque/pull/1790",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "resque/resque",
+        "CVE_ID": "CVE-2023-50727",
+        "Problem_Type": "CWE-79",
+        "Description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later. Reflected XSS issue occurs when /queues is appended with /\"><svg%20onload=alert(domain)>. This issue has been patched in version 2.6.0.",
+        "URL": "https://github.com/resque/resque/pull/1865",
+        "Tag": "['Patch']"
+    }
+]

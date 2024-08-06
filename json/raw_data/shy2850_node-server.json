@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "shy2850/node-server",
+        "CVE_ID": "CVE-2017-16038",
+        "Problem_Type": "CWE-22",
+        "Description": "`f2e-server` 1.12.11 and earlier is vulnerable to a directory traversal issue, giving an attacker access to the filesystem by placing \"../\" in the url. This is compounded by `f2e-server` requiring elevated privileges to run.",
+        "URL": "https://github.com/shy2850/node-server/pull/12/files",
+        "Tag": "['Patch']"
+    }
+]

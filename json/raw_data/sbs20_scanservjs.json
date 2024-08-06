@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "sbs20/scanservjs",
+        "CVE_ID": "CVE-2023-1647",
+        "Problem_Type": "CWE-284",
+        "Description": "Improper Access Control in GitHub repository calcom/cal.com prior to 2.7.\n\n",
+        "URL": "https://github.com/sbs20/scanservjs/pull/606/commits/d51fd52c1569813990b8f74e64ae6979c665dca1",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "sbs20/scanservjs",
+        "CVE_ID": "CVE-2023-2564",
+        "Problem_Type": "CWE-78",
+        "Description": "OS Command Injection in GitHub repository sbs20/scanservjs prior to v2.27.0.\n\n",
+        "URL": "https://github.com/sbs20/scanservjs/pull/606/commits/d51fd52c1569813990b8f74e64ae6979c665dca1",
+        "Tag": "['Patch']"
+    }
+]

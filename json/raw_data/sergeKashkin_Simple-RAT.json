@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sergeKashkin/Simple-RAT",
+        "CVE_ID": "CVE-2022-31510",
+        "Problem_Type": "CWE-22",
+        "Description": "The sergeKashkin/Simple-RAT repository before 2022-05-03 on GitHub allows absolute path traversal because the Flask send_file function is used unsafely.",
+        "URL": "https://github.com/sergeKashkin/Simple-RAT/pull/11",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

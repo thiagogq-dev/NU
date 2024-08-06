@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "quinn-rs/quinn",
+        "CVE_ID": "CVE-2023-42805",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "quinn-proto is a state machine for the QUIC transport protocol. Prior to versions 0.9.5 and 0.10.5, receiving unknown QUIC frames in a QUIC packet could result in a panic. The problem has been fixed in 0.9.5 and 0.10.5 maintenance releases.",
+        "URL": "https://github.com/quinn-rs/quinn/pull/1668",
+        "Tag": "['Issue Tracking', 'Patch']"
+    },
+    {
+        "repo_name": "quinn-rs/quinn",
+        "CVE_ID": "CVE-2023-42805",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "quinn-proto is a state machine for the QUIC transport protocol. Prior to versions 0.9.5 and 0.10.5, receiving unknown QUIC frames in a QUIC packet could result in a panic. The problem has been fixed in 0.9.5 and 0.10.5 maintenance releases.",
+        "URL": "https://github.com/quinn-rs/quinn/pull/1667",
+        "Tag": "['Issue Tracking', 'Patch']"
+    }
+]

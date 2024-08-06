@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "rodnaph/sockso",
+        "CVE_ID": "CVE-2012-4267",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site scripting (XSS) vulnerability in user/register in Sockso 1.5 and earlier allows remote attackers to inject arbitrary web script or HTML via the name parameter.",
+        "URL": "https://github.com/rodnaph/sockso/pull/99/files",
+        "Tag": "['Exploit', 'Patch']"
+    }
+]

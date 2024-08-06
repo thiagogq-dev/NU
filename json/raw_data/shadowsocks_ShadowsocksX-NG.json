@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "shadowsocks/ShadowsocksX-NG",
+        "CVE_ID": "CVE-2023-27574",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "ShadowsocksX-NG 1.10.0 signs with com.apple.security.get-task-allow entitlements because of CODE_SIGNING_INJECT_BASE_ENTITLEMENTS.",
+        "URL": "https://github.com/shadowsocks/ShadowsocksX-NG/pull/1456",
+        "Tag": "['Patch']"
+    }
+]

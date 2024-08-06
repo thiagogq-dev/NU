@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "psd-tools/psd-tools",
+        "CVE_ID": "CVE-2020-10571",
+        "Problem_Type": "CWE-754",
+        "Description": "An issue was discovered in psd-tools before 1.9.4. The Cython implementation of RLE decoding did not check for malicious data.",
+        "URL": "https://github.com/psd-tools/psd-tools/pull/198",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

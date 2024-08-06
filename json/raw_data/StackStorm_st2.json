@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "StackStorm/st2",
+        "CVE_ID": "CVE-2021-44657",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "In StackStorm versions prior to 3.6.0, the jinja interpreter was not run in sandbox mode and thus allows execution of unsafe system commands. Jinja does not enable sandboxed mode by default due to backwards compatibility. Stackstorm now sets sandboxed mode for jinja by default.",
+        "URL": "https://github.com/StackStorm/st2/pull/5359",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

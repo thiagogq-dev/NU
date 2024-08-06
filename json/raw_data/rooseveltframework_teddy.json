@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "rooseveltframework/teddy",
+        "CVE_ID": "CVE-2021-23447",
+        "Problem_Type": "CWE-843",
+        "Description": "This affects the package teddy before 0.5.9. A type confusion vulnerability can be used to bypass input sanitization when the model content is an array (instead of a string).",
+        "URL": "https://github.com/rooseveltframework/teddy/pull/518",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

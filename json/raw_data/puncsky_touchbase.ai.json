@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "puncsky/touchbase.ai",
+        "CVE_ID": "CVE-2020-26220",
+        "Problem_Type": "CWE-200",
+        "Description": "toucbase.ai before version 2.0 leaks information by not stripping exif data from images. Anyone with access to the uploaded image of other users could obtain its geolocation, device, and software version data etc (if present. The issue is fixed in version 2.0.",
+        "URL": "https://github.com/puncsky/touchbase.ai/pull/400/commits/69de77b163f6debaeb3f8d1a85367310a40d196f",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

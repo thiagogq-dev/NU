@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sonicdoe/detect-character-encoding",
+        "CVE_ID": "CVE-2021-39176",
+        "Problem_Type": "CWE-401",
+        "Description": "detect-character-encoding is a package for detecting character encoding using ICU. In detect-character-encoding v0.3.0 and earlier, allocated memory is not released. The problem has been patched in detect-character-encoding v0.3.1.",
+        "URL": "https://github.com/sonicdoe/detect-character-encoding/pull/6",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

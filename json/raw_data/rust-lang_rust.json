@@ -1,0 +1,178 @@
+[
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2015-20001",
+        "Problem_Type": "CWE-119",
+        "Description": "In the standard library in Rust before 1.2.0, BinaryHeap is not panic-safe. The binary heap is left in an inconsistent state when the comparison of generic elements inside sift_up or sift_down_range panics. This bug leads to a drop of zeroed memory as an arbitrary type, which can result in a memory safety violation.",
+        "URL": "https://github.com/rust-lang/rust/pull/25856",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2017-20004",
+        "Problem_Type": "CWE-362",
+        "Description": "In the standard library in Rust before 1.19.0, there is a synchronization problem in the MutexGuard object. MutexGuards can be used across threads with any types, allowing for memory safety issues through race conditions.",
+        "URL": "https://github.com/rust-lang/rust/pull/41624",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2018-25008",
+        "Problem_Type": "CWE-662",
+        "Description": "In the standard library in Rust before 1.29.0, there is weak synchronization in the Arc::get_mut method. This synchronization issue can be lead to memory safety issues through race conditions.",
+        "URL": "https://github.com/rust-lang/rust/pull/52031",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2019-1010299",
+        "Problem_Type": "CWE-908",
+        "Description": "The Rust Programming Language Standard Library 1.18.0 and later is affected by: CWE-200: Information Exposure. The impact is: Contents of uninitialized memory could be printed to string or to log file. The component is: Debug trait implementation for std::collections::vec_deque::Iter. The attack vector is: The program needs to invoke debug printing for iterator over an empty VecDeque. The fixed version is: 1.30.0, nightly versions after commit b85e4cc8fadaabd41da5b9645c08c68b8f89908d.",
+        "URL": "https://github.com/rust-lang/rust/pull/53571/commits/b85e4cc8fadaabd41da5b9645c08c68b8f89908d",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2020-36317",
+        "Problem_Type": "CWE-787",
+        "Description": "In the standard library in Rust before 1.49.0, String::retain() function has a panic safety problem. It allows creation of a non-UTF-8 Rust string when the provided closure panics. This bug could result in a memory safety violation when other string APIs assume that UTF-8 encoding is used on the same string.",
+        "URL": "https://github.com/rust-lang/rust/pull/78499",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2020-36318",
+        "Problem_Type": "CWE-415",
+        "Description": "In the standard library in Rust before 1.49.0, VecDeque::make_contiguous has a bug that pops the same element more than once under certain condition. This bug could result in a use-after-free or double free.",
+        "URL": "https://github.com/rust-lang/rust/pull/79814",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2020-36323",
+        "Problem_Type": "CWE-134",
+        "Description": "In the standard library in Rust before 1.52.0, there is an optimization for joining strings that can cause uninitialized bytes to be exposed (or the program to crash) if the borrowed string changes after its length is checked.",
+        "URL": "https://github.com/rust-lang/rust/pull/81728",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2020-36323",
+        "Problem_Type": "CWE-134",
+        "Description": "In the standard library in Rust before 1.52.0, there is an optimization for joining strings that can cause uninitialized bytes to be exposed (or the program to crash) if the borrowed string changes after its length is checked.",
+        "URL": "https://github.com/rust-lang/rust/pull/81728#issuecomment-821549174",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2020-36323",
+        "Problem_Type": "CWE-134",
+        "Description": "In the standard library in Rust before 1.52.0, there is an optimization for joining strings that can cause uninitialized bytes to be exposed (or the program to crash) if the borrowed string changes after its length is checked.",
+        "URL": "https://github.com/rust-lang/rust/pull/81728#issuecomment-824904190",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-28875",
+        "Problem_Type": "CWE-252",
+        "Description": "In the standard library in Rust before 1.50.0, read_to_end() does not validate the return value from Read in an unsafe context. This bug could lead to a buffer overflow.",
+        "URL": "https://github.com/rust-lang/rust/pull/80895",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-28876",
+        "Problem_Type": "CWE-755",
+        "Description": "In the standard library in Rust before 1.52.0, the Zip implementation has a panic safety issue. It calls __iterator_get_unchecked() more than once for the same index when the underlying iterator panics (in certain conditions). This bug could lead to a memory safety violation due to an unmet safety requirement for the TrustedRandomAccess trait.",
+        "URL": "https://github.com/rust-lang/rust/pull/81741",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-28877",
+        "Problem_Type": "CWE-119",
+        "Description": "In the standard library in Rust before 1.51.0, the Zip implementation calls __iterator_get_unchecked() for the same index more than once when nested. This bug can lead to a memory safety violation due to an unmet safety requirement for the TrustedRandomAccess trait.",
+        "URL": "https://github.com/rust-lang/rust/pull/80670",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-28878",
+        "Problem_Type": "CWE-119",
+        "Description": "In the standard library in Rust before 1.52.0, the Zip implementation calls __iterator_get_unchecked() more than once for the same index (under certain conditions) when next_back() and next() are used together. This bug could lead to a memory safety violation due to an unmet safety requirement for the TrustedRandomAccess trait.",
+        "URL": "https://github.com/rust-lang/rust/pull/82292",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-28879",
+        "Problem_Type": "CWE-190",
+        "Description": "In the standard library in Rust before 1.52.0, the Zip implementation can report an incorrect size due to an integer overflow. This bug can lead to a buffer overflow when a consumed Zip iterator is used again.",
+        "URL": "https://github.com/rust-lang/rust/pull/82289",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-29922",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "library/std/src/net/parser.rs in Rust before 1.53.0 does not properly consider extraneous zero characters at the beginning of an IP address string, which (in some situations) allows attackers to bypass access control that is based on IP addresses, because of unexpected octal interpretation.",
+        "URL": "https://github.com/rust-lang/rust/pull/83652",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-31162",
+        "Problem_Type": "CWE-415",
+        "Description": "In the standard library in Rust before 1.52.0, a double free can occur in the Vec::from_iter function if freeing the element panics.",
+        "URL": "https://github.com/rust-lang/rust/pull/83629",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-31162",
+        "Problem_Type": "CWE-415",
+        "Description": "In the standard library in Rust before 1.52.0, a double free can occur in the Vec::from_iter function if freeing the element panics.",
+        "URL": "https://github.com/rust-lang/rust/pull/84603",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2021-32715",
+        "Problem_Type": "CWE-444",
+        "Description": "hyper is an HTTP library for rust. hyper's HTTP/1 server code had a flaw that incorrectly parses and accepts requests with a `Content-Length` header with a prefixed plus sign, when it should have been rejected as illegal. This combined with an upstream HTTP proxy that doesn't parse such `Content-Length` headers, but forwards them, can result in \"request smuggling\" or \"desync attacks\". The flaw exists in all prior versions of hyper prior to 0.14.10, if built with `rustc` v1.5.0 or newer. The vulnerability is patched in hyper version 0.14.10. Two workarounds exist: One may reject requests manually that contain a plus sign prefix in the `Content-Length` header or ensure any upstream proxy handles `Content-Length` headers with a plus sign prefix.",
+        "URL": "https://github.com/rust-lang/rust/pull/28826/commits/123a83326fb95366e94a3be1a74775df4db97739",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2022-21658",
+        "Problem_Type": "CWE-363",
+        "Description": "Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency. The Rust Security Response WG was notified that the `std::fs::remove_dir_all` standard library function is vulnerable a race condition enabling symlink following (CWE-363). An attacker could use this security issue to trick a privileged program into deleting files and directories the attacker couldn't otherwise access or delete. Rust 1.0.0 through Rust 1.58.0 is affected by this vulnerability with 1.58.1 containing a patch. Note that the following build targets don't have usable APIs to properly mitigate the attack, and are thus still vulnerable even with a patched toolchain: macOS before version 10.10 (Yosemite) and REDOX. We recommend everyone to update to Rust 1.58.1 as soon as possible, especially people developing programs expected to run in privileged contexts (including system daemons and setuid binaries), as those have the highest risk of being affected by this. Note that adding checks in your codebase before calling remove_dir_all will not mitigate the vulnerability, as they would also be vulnerable to race conditions like remove_dir_all itself. The existing mitigation is working as intended outside of race conditions.",
+        "URL": "https://github.com/rust-lang/rust/pull/93110",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2022-21658",
+        "Problem_Type": "CWE-363",
+        "Description": "Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency. The Rust Security Response WG was notified that the `std::fs::remove_dir_all` standard library function is vulnerable a race condition enabling symlink following (CWE-363). An attacker could use this security issue to trick a privileged program into deleting files and directories the attacker couldn't otherwise access or delete. Rust 1.0.0 through Rust 1.58.0 is affected by this vulnerability with 1.58.1 containing a patch. Note that the following build targets don't have usable APIs to properly mitigate the attack, and are thus still vulnerable even with a patched toolchain: macOS before version 10.10 (Yosemite) and REDOX. We recommend everyone to update to Rust 1.58.1 as soon as possible, especially people developing programs expected to run in privileged contexts (including system daemons and setuid binaries), as those have the highest risk of being affected by this. Note that adding checks in your codebase before calling remove_dir_all will not mitigate the vulnerability, as they would also be vulnerable to race conditions like remove_dir_all itself. The existing mitigation is working as intended outside of race conditions.",
+        "URL": "https://github.com/rust-lang/rust/pull/93110/commits/32ed6e599bb4722efefd78bbc9cd7ec4613cb946",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2022-21658",
+        "Problem_Type": "CWE-363",
+        "Description": "Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency. The Rust Security Response WG was notified that the `std::fs::remove_dir_all` standard library function is vulnerable a race condition enabling symlink following (CWE-363). An attacker could use this security issue to trick a privileged program into deleting files and directories the attacker couldn't otherwise access or delete. Rust 1.0.0 through Rust 1.58.0 is affected by this vulnerability with 1.58.1 containing a patch. Note that the following build targets don't have usable APIs to properly mitigate the attack, and are thus still vulnerable even with a patched toolchain: macOS before version 10.10 (Yosemite) and REDOX. We recommend everyone to update to Rust 1.58.1 as soon as possible, especially people developing programs expected to run in privileged contexts (including system daemons and setuid binaries), as those have the highest risk of being affected by this. Note that adding checks in your codebase before calling remove_dir_all will not mitigate the vulnerability, as they would also be vulnerable to race conditions like remove_dir_all itself. The existing mitigation is working as intended outside of race conditions.",
+        "URL": "https://github.com/rust-lang/rust/pull/93110/commits/406cc071d6cfdfdb678bf3d83d766851de95abaf",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "rust-lang/rust",
+        "CVE_ID": "CVE-2022-21658",
+        "Problem_Type": "CWE-363",
+        "Description": "Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency. The Rust Security Response WG was notified that the `std::fs::remove_dir_all` standard library function is vulnerable a race condition enabling symlink following (CWE-363). An attacker could use this security issue to trick a privileged program into deleting files and directories the attacker couldn't otherwise access or delete. Rust 1.0.0 through Rust 1.58.0 is affected by this vulnerability with 1.58.1 containing a patch. Note that the following build targets don't have usable APIs to properly mitigate the attack, and are thus still vulnerable even with a patched toolchain: macOS before version 10.10 (Yosemite) and REDOX. We recommend everyone to update to Rust 1.58.1 as soon as possible, especially people developing programs expected to run in privileged contexts (including system daemons and setuid binaries), as those have the highest risk of being affected by this. Note that adding checks in your codebase before calling remove_dir_all will not mitigate the vulnerability, as they would also be vulnerable to race conditions like remove_dir_all itself. The existing mitigation is working as intended outside of race conditions.",
+        "URL": "https://github.com/rust-lang/rust/pull/93110/commits/4f0ad1c92ca08da6e8dc17838070975762f59714",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

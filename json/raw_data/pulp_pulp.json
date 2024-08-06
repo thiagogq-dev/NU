@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "pulp/pulp",
+        "CVE_ID": "CVE-2013-7450",
+        "Problem_Type": "CWE-295",
+        "Description": "Pulp before 2.3.0 uses the same the same certificate authority key and certificate for all installations.",
+        "URL": "https://github.com/pulp/pulp/pull/627",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "pulp/pulp",
+        "CVE_ID": "CVE-2016-3095",
+        "Problem_Type": "CWE-200",
+        "Description": "server/bin/pulp-gen-ca-certificate in Pulp before 2.8.2 allows local users to read the generated private key.",
+        "URL": "https://github.com/pulp/pulp/pull/2503/commits/9f969b94c4b4f310865455d36db207de6cffebca",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "pulp/pulp",
+        "CVE_ID": "CVE-2016-3108",
+        "Problem_Type": "CWE-59",
+        "Description": "The pulp-gen-nodes-certificate script in Pulp before 2.8.3 allows local users to leak the keys or write to arbitrary files via a symlink attack.",
+        "URL": "https://github.com/pulp/pulp/pull/2528",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

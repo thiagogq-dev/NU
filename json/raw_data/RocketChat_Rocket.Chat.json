@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2017-1000493",
+        "Problem_Type": "CWE-74",
+        "Description": "Rocket.Chat Server version 0.59 and prior is vulnerable to a NoSQL injection leading to administrator account takeover",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/8408",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2020-15926",
+        "Problem_Type": "CWE-79",
+        "Description": "Rocket.Chat through 3.4.2 allows XSS where an attacker can send a specially crafted message to a channel or in a direct message to the client which results in remote code execution on the client side.",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/18356",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2020-8291",
+        "Problem_Type": "CWE-79",
+        "Description": "A link preview rendering issue in Rocket.Chat versions before 3.9 could lead to potential XSS attacks.",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/19854",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "RocketChat/Rocket.Chat",
+        "CVE_ID": "CVE-2021-22886",
+        "Problem_Type": "CWE-79",
+        "Description": "Rocket.Chat before 3.11, 3.10.5, 3.9.7, 3.8.8 is vulnerable to persistent cross-site scripting (XSS) using nested markdown tags allowing a remote attacker to inject arbitrary JavaScript in a message. This flaw leads to arbitrary file read and RCE on Rocket.Chat desktop app.",
+        "URL": "https://github.com/RocketChat/Rocket.Chat/pull/20430",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

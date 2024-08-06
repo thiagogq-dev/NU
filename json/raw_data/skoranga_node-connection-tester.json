@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "skoranga/node-connection-tester",
+        "CVE_ID": "CVE-2020-7781",
+        "Problem_Type": "CWE-78",
+        "Description": "This affects the package connection-tester before 0.2.1. The injection point is located in line 15 in index.js. The following PoC demonstrates the vulnerability:",
+        "URL": "https://github.com/skoranga/node-connection-tester/pull/10",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

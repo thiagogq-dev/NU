@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Sama34/OUGC-Feedback",
+        "CVE_ID": "CVE-2021-28115",
+        "Problem_Type": "CWE-79",
+        "Description": "The OUGC Feedback plugin before 1.8.23 for MyBB allows XSS via the comment field of feedback during an edit operation.",
+        "URL": "https://github.com/Sama34/OUGC-Feedback/pull/31/commits/ceef7c06359e5dcbaffe90a40884265c5754068c",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

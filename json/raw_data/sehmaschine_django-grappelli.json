@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sehmaschine/django-grappelli",
+        "CVE_ID": "CVE-2021-46898",
+        "Problem_Type": "CWE-601",
+        "Description": "views/switch.py in django-grappelli (aka Django Grappelli) before 2.15.2 attempts to prevent external redirection with startswith(\"/\") but this does not consider a protocol-relative URL (e.g., //example.com) attack.",
+        "URL": "https://github.com/sehmaschine/django-grappelli/pull/976",
+        "Tag": "['Patch']"
+    }
+]

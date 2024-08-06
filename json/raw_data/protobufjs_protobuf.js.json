@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "protobufjs/protobuf.js",
+        "CVE_ID": "CVE-2022-25878",
+        "Problem_Type": "CWE-1321",
+        "Description": "The package protobufjs before 6.11.3 are vulnerable to Prototype Pollution which can allow an attacker to add/modify properties of the Object.prototype. This vulnerability can occur in multiple ways: 1. by providing untrusted user input to util.setProperty or to ReflectionObject.setParsedOption functions 2. by parsing/loading .proto files",
+        "URL": "https://github.com/protobufjs/protobuf.js/pull/1731",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "protobufjs/protobuf.js",
+        "CVE_ID": "CVE-2023-36665",
+        "Problem_Type": "CWE-1321",
+        "Description": "\"protobuf.js (aka protobufjs) 6.10.0 through 7.x before 7.2.5 allows Prototype Pollution, a different vulnerability than CVE-2022-25878. A user-controlled protobuf message can be used by an attacker to pollute the prototype of Object.prototype by adding and overwriting its data and functions. Exploitation can involve: (1) using the function parse to parse protobuf messages on the fly, (2) loading .proto files by using load/loadSync functions, or (3) providing untrusted input to the functions ReflectionObject.setParsedOption and util.setProperty.",
+        "URL": "https://github.com/protobufjs/protobuf.js/pull/1899",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    }
+]

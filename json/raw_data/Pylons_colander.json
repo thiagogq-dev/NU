@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Pylons/colander",
+        "CVE_ID": "CVE-2017-18361",
+        "Problem_Type": "CWE-835",
+        "Description": "In Pylons Colander through 1.6, the URL validator allows an attacker to potentially cause an infinite loop thereby causing a denial of service via an unclosed parenthesis.",
+        "URL": "https://github.com/Pylons/colander/pull/323",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

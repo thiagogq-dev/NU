@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "protobuf-c/protobuf-c",
+        "CVE_ID": "CVE-2022-33070",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Protobuf-c v1.4.0 was discovered to contain an invalid arithmetic shift via the function parse_tag_and_wiretype in protobuf-c/protobuf-c.c. This vulnerability allows attackers to cause a Denial of Service (DoS) via unspecified vectors.",
+        "URL": "https://github.com/protobuf-c/protobuf-c/pull/508",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "protobuf-c/protobuf-c",
+        "CVE_ID": "CVE-2022-48468",
+        "Problem_Type": "CWE-190",
+        "Description": "protobuf-c before 1.4.1 has an unsigned integer overflow in parse_required_member.",
+        "URL": "https://github.com/protobuf-c/protobuf-c/pull/513",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

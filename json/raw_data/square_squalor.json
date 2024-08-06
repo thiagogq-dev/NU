@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "square/squalor",
+        "CVE_ID": "CVE-2020-36645",
+        "Problem_Type": "CWE-89",
+        "Description": "A vulnerability, which was classified as critical, was found in square squalor. This affects an unknown part. The manipulation leads to sql injection. Upgrading to version v0.0.0 is able to address this issue. The patch is named f6f0a47cc344711042eb0970cb423e6950ba3f93. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217623.",
+        "URL": "https://github.com/square/squalor/pull/76",
+        "Tag": "['Patch']"
+    }
+]

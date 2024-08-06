@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "sequelize/sequelize",
+        "CVE_ID": "CVE-2016-10550",
+        "Problem_Type": "CWE-89",
+        "Description": "sequelize is an Object-relational mapping, or a middleman to convert things from Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server into usable data for NodeJS If user input goes into the `limit` or `order` parameters, a malicious user can put in their own SQL statements. This affects sequelize 3.16.0 and earlier.",
+        "URL": "https://github.com/sequelize/sequelize/pull/5167/commits/f282d85e60e3df5e57ecdb82adccb4eaef404f03",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "sequelize/sequelize",
+        "CVE_ID": "CVE-2019-11069",
+        "Problem_Type": "CWE-20",
+        "Description": "Sequelize version 5 before 5.3.0 does not properly ensure that standard conforming strings are used.",
+        "URL": "https://github.com/sequelize/sequelize/pull/10746/files",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "python-babel/babel",
+        "CVE_ID": "CVE-2021-42771",
+        "Problem_Type": "CWE-22",
+        "Description": "Babel.Locale in Babel before 2.9.1 allows attackers to load arbitrary locale .dat files (containing serialized Python objects) via directory traversal, leading to code execution.",
+        "URL": "https://github.com/python-babel/babel/pull/782",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "sosreport/sos",
+        "CVE_ID": "CVE-2022-2806",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "It was found that the ovirt-log-collector/sosreport collects the RHV admin password unfiltered. Fixed in: sos-4.2-20.el8_6, ovirt-log-collector-4.4.7-2.el8ev",
+        "URL": "https://github.com/sosreport/sos/pull/2947",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

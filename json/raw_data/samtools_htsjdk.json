@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "samtools/htsjdk",
+        "CVE_ID": "CVE-2022-21126",
+        "Problem_Type": "CWE-668",
+        "Description": "The package com.github.samtools:htsjdk before 3.0.1 are vulnerable to Creation of Temporary File in Directory with Insecure Permissions due to the createTempDir() function in util/IOUtil.java not checking for the existence of the temporary directory before attempting to create it.",
+        "URL": "https://github.com/samtools/htsjdk/pull/1617",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]
