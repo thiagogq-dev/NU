@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "views/switch.py in django-grappelli (aka Django Grappelli) before 2.15.2 attempts to prevent external redirection with startswith(\"/\") but this does not consider a protocol-relative URL (e.g., //example.com) attack.",
         "URL": "https://github.com/sehmaschine/django-grappelli/pull/976",
+        "Commit SHA": "ac35b747b927899c5c3a0f8ed042caa4eaaff1d9",
         "Tag": "['Patch']"
     }
 ]
