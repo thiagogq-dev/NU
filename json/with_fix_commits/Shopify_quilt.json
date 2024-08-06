@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A cross-site scripting vulnerability exists in koa-shopify-auth v3.1.61-v3.1.62 that allows an attacker to inject JS payloads into the `shop` parameter on the `/shopify/auth/enable_cookies` endpoint.",
         "URL": "https://github.com/Shopify/quilt/pull/1455",
+        "Commit SHA": "dec36405a80ebc686138c3504c372fb9578b2b93",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
