@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-319",
         "Description": "Using ktlint to download and execute custom rulesets can result in arbitrary code execution as the served jars can be compromised by a MITM. This attack is exploitable via Man in the Middle of the HTTP connection to the artifact servers. This vulnerability appears to have been fixed in 0.30.0 and later; after commit 5e547b287d6c260d328a2cb658dbe6b7a7ff2261.",
         "URL": "https://github.com/shyiko/ktlint/pull/332",
+        "Commit SHA": "5e547b287d6c260d328a2cb658dbe6b7a7ff2261",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
