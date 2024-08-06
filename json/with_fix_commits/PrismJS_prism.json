@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Prism is vulnerable to Cross-Site Scripting. The easing preview of the Previewers plugin has an XSS vulnerability that allows attackers to execute arbitrary code in Safari and Internet Explorer. This impacts all Safari and Internet Explorer users of Prism >=v1.1.0 that use the _Previewers_ plugin (>=v1.10.0) or the _Previewer: Easing_ plugin (v1.1.0 to v1.9.0). This problem is fixed in version 1.21.0. To workaround the issue without upgrading, disable the easing preview on all impacted code blocks. You need Prism v1.10.0 or newer to apply this workaround.",
         "URL": "https://github.com/PrismJS/prism/pull/2506/commits/7bd7de05edf71112a3a77f87901a2409c9c5c20c",
+        "Commit SHA": "8bba4880202ef6bd7a1e379fe9aebe69dd75f7be",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "The package prismjs before 1.23.0 are vulnerable to Regular Expression Denial of Service (ReDoS) via the prism-asciidoc, prism-rest, prism-tap and prism-eiffel components.",
         "URL": "https://github.com/PrismJS/prism/pull/2584",
+        "Commit SHA": "c2f6a64426f44497a675cb32dccb079b3eff1609",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-400",
         "Description": "Prism is a syntax highlighting library. Some languages before 1.24.0 are vulnerable to Regular Expression Denial of Service (ReDoS). When Prism is used to highlight untrusted (user-given) text, an attacker can craft a string that will take a very very long time to highlight. This problem has been fixed in Prism v1.24. As a workaround, do not use ASCIIDoc or ERB to highlight untrusted text. Other languages are not affected and can be used to highlight untrusted text.",
         "URL": "https://github.com/PrismJS/prism/pull/2688",
+        "Commit SHA": "531514048a1dbfabe9ae983dab49bb4239589469",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-400",
         "Description": "Prism is a syntax highlighting library. Some languages before 1.24.0 are vulnerable to Regular Expression Denial of Service (ReDoS). When Prism is used to highlight untrusted (user-given) text, an attacker can craft a string that will take a very very long time to highlight. This problem has been fixed in Prism v1.24. As a workaround, do not use ASCIIDoc or ERB to highlight untrusted text. Other languages are not affected and can be used to highlight untrusted text.",
         "URL": "https://github.com/PrismJS/prism/pull/2774",
+        "Commit SHA": "d85e30da6755fdbe7f8559f8e75d122297167018",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Prism is a syntax highlighting library. Starting with version 1.14.0 and prior to version 1.27.0, Prism's command line plugin can be used by attackers to achieve a cross-site scripting attack. The command line plugin did not properly escape its output, leading to the input text being inserted into the DOM as HTML code. Server-side usage of Prism is not impacted. Websites that do not use the Command Line plugin are also not impacted. This bug has been fixed in v1.27.0. As a workaround, do not use the command line plugin on untrusted inputs, or sanitize all code blocks (remove all HTML code text) from all code blocks that use the command line plugin.",
         "URL": "https://github.com/PrismJS/prism/pull/3341",
+        "Commit SHA": "e002e78c343154e1c0ddf9d6a0bb85689e1a5c7c",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
