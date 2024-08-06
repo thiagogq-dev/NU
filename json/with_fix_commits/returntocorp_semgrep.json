@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "giturlparse (aka git-url-parse) through 1.2.2, as used in Semgrep 1.5.2 through 1.24.1, is vulnerable to ReDoS (Regular Expression Denial of Service) if parsing untrusted URLs. This might be relevant if Semgrep is analyzing an untrusted package (for example, to check whether it accesses any Git repository at an http:// URL), and that package's author placed a ReDoS attack payload in a URL used by the package.",
         "URL": "https://github.com/returntocorp/semgrep/pull/7611",
+        "Commit SHA": "52d6328f1e42aad840804282e090d5f26ccb6335",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
