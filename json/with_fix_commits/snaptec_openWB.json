@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-78",
         "Description": "Command Injection vulnerability in OpenWB 1.6 and 1.7 allows remote attackers to run arbitrary commands via crafted GET request.",
         "URL": "https://github.com/snaptec/openWB/pull/2673",
+        "Commit SHA": "859aa6e8dbc0aacbebc58e4cecc9c5596a33c0e9",
         "Tag": "['Patch']"
     }
 ]
