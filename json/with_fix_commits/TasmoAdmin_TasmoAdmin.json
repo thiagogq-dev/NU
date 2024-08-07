@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Lack of \"current\" GET parameter validation during the action of changing a language leads to an open redirect vulnerability.\n",
         "URL": "https://github.com/TasmoAdmin/TasmoAdmin/pull/1039",
+        "Commit SHA": "e49453f199cd8b0d3f22ca79ff05d34619458f37",
         "Tag": "['Patch']"
     }
 ]
