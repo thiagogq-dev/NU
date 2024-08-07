@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-732",
         "Description": "The component /rootfs in RageFile of Stepmania v5.1b2 and below allows attackers access to the entire file system.",
         "URL": "https://github.com/stepmania/stepmania/pull/2184",
+        "Commit SHA": "2de42736259460b640188ab9aa92e5261fb64676",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
