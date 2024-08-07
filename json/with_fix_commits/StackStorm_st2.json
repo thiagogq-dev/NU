@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "In StackStorm versions prior to 3.6.0, the jinja interpreter was not run in sandbox mode and thus allows execution of unsafe system commands. Jinja does not enable sandboxed mode by default due to backwards compatibility. Stackstorm now sets sandboxed mode for jinja by default.",
         "URL": "https://github.com/StackStorm/st2/pull/5359",
+        "Commit SHA": "e97659c5c1d39863d870a081787a176eb8e260c4",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
