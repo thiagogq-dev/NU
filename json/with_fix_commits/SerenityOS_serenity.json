@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "SerenityOS before commit 3844e8569689dd476064a0759d704bc64fb3ca2c contains a directory traversal vulnerability in tar/unzip that may lead to command execution or privilege escalation.",
         "URL": "https://github.com/SerenityOS/serenity/pull/5713/commits/3844e8569689dd476064a0759d704bc64fb3ca2c",
+        "Commit SHA": null,
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
