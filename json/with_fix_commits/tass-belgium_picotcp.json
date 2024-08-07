@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-119",
         "Description": "picoTCP (versions 1.7.0 - 1.5.0) is vulnerable to stack buffer overflow resulting in code execution or denial of service attack",
         "URL": "https://github.com/tass-belgium/picotcp/pull/473",
+        "Commit SHA": "faf924ec1a059e98d1f50b1eb5f798b89338df8b",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
