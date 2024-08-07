@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-436",
         "Description": "In ModSecurity before 2.9.6 and 3.x before 3.0.8, HTTP multipart requests were incorrectly parsed and could bypass the Web Application Firewall. NOTE: this is related to CVE-2022-39956 but can be considered independent changes to the ModSecurity (C language) codebase.",
         "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2797",
+        "Commit SHA": "51a30d7b406af95c4143560d9753cf0b6d2151f5",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-436",
         "Description": "In ModSecurity before 2.9.6 and 3.x before 3.0.8, HTTP multipart requests were incorrectly parsed and could bypass the Web Application Firewall. NOTE: this is related to CVE-2022-39956 but can be considered independent changes to the ModSecurity (C language) codebase.",
         "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2795",
+        "Commit SHA": "d6c10885e08779e99e76efcd5ad65802104cda14",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "Incorrect handling of '\\0' bytes in file uploads in ModSecurity before 2.9.7 may allow for Web Application Firewall bypasses and buffer over-reads on the Web Application Firewall when executing rules that read the FILES_TMP_CONTENT collection.",
         "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2857/commits/4324f0ac59f8225aa44bc5034df60dbeccd1d334",
+        "Commit SHA": "4324f0ac59f8225aa44bc5034df60dbeccd1d334",
         "Tag": "['Patch']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "Incorrect handling of '\\0' bytes in file uploads in ModSecurity before 2.9.7 may allow for Web Application Firewall bypasses and buffer over-reads on the Web Application Firewall when executing rules that read the FILES_TMP_CONTENT collection.",
         "URL": "https://github.com/SpiderLabs/ModSecurity/pull/2857",
+        "Commit SHA": "9640b5408ab5dbc2e95900b248b6a1ddcc9db00c",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
