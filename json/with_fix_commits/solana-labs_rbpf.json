@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-190",
         "Description": "From version 0.2.14 to 0.2.16 for Solana rBPF, function \"relocate\" in the file src/elf.rs has an integer overflow bug because the sym.st_value is read directly from ELF file without checking. If the sym.st_value is rather large, an integer overflow is triggered while calculating the variable \"addr\" via \"addr = (sym.st_value + refd_pa) as u64\";",
         "URL": "https://github.com/solana-labs/rbpf/pull/236",
+        "Commit SHA": "849c7c21d20628d1c76204fe33363bd6ca58c80b",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-190",
         "Description": "From version 0.2.14 to 0.2.16 for Solana rBPF, function \"relocate\" in the file src/elf.rs has an integer overflow bug because the sym.st_value is read directly from ELF file without checking. If the sym.st_value is rather large, an integer overflow is triggered while calculating the variable \"addr\" via \"addr = (sym.st_value + refd_pa) as u64\";",
         "URL": "https://github.com/solana-labs/rbpf/pull/200",
+        "Commit SHA": "2e9f65efa462ec761bb7e3c007f83dd8346589db",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
