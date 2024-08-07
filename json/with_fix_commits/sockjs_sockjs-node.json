@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-755",
         "Description": "Incorrect handling of Upgrade header with the value websocket leads in crashing of containers hosting sockjs apps. This affects the package sockjs before 0.3.20.",
         "URL": "https://github.com/sockjs/sockjs-node/pull/265",
+        "Commit SHA": "86ba45a9be79bbe1a3c47858628d0a3d7871f6dc",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
