@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "SageMath FlintQS 1.0 relies on pathnames under TMPDIR (typically world-writable), which (for example) allows a local user to overwrite files with the privileges of a different user (who is running FlintQS).",
         "URL": "https://github.com/sagemath/sage/pull/35419",
+        "Commit SHA": "820909d7c55599836a881a8dd1ed385a4cc1b2a0",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
