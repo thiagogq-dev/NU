@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-601",
         "Description": "Sourcegraph before 3.15.1 has a vulnerable authentication workflow because of improper validation in the SafeRedirectURL method in cmd/frontend/auth/redirect.go, such as for the //foo//example.com substring.",
         "URL": "https://github.com/sourcegraph/sourcegraph/pull/10167",
+        "Commit SHA": "bde46f4ae891ca5bccaab042cab8fa72f6c2b165",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-862",
         "Description": "Sourcegraph is a code search and navigation engine. Sourcegraph prior to version 3.37 is vulnerable to remote code execution in the `gitserver` service. The service acts as a git exec proxy, and fails to properly restrict calling `git config`. This allows an attacker to set the git `core.sshCommand` option, which sets git to use the specified command instead of ssh when they need to connect to a remote system. Exploitation of this vulnerability depends on how Sourcegraph is deployed. An attacker able to make HTTP requests to internal services like gitserver is able to exploit it. This issue is patched in Sourcegraph version 3.37. As a workaround, ensure that requests to gitserver are properly protected.",
         "URL": "https://github.com/sourcegraph/sourcegraph/pull/30833",
+        "Commit SHA": "7b581dea70b420cf912e615eae70ac3bd92fe7b3",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-203",
         "Description": "Sourcegraph is a code search and navigation engine. Sourcegraph versions 3.35 and 3.36 reintroduced a previously fixed side-channel vulnerabilitity in the Code Monitoring feature where strings in private source code could be guessed by an authenticated but unauthorized actor. This issue affects only the Code Monitoring feature, whereas CVE-2021-43823 also affected saved searches. A successful attack would require an authenticated bad actor to create many Code Monitors to receive confirmation that a specific string exists. This could allow an attacker to guess formatted tokens in source code, such as API keys. This issue was patched in versions 3.35.2 and 3.36.3 of Sourcegraph. Those who are unable to upgrade may disable the Code Monitor feature in their installation.",
         "URL": "https://github.com/sourcegraph/sourcegraph/pull/30547",
+        "Commit SHA": "dbc5723990672d130981e1496103c0cea3a6acfd",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-863",
         "Description": "Sourcegraph is an opensource code search and navigation engine. It is possible for an authenticated Sourcegraph user to edit the Code Monitors owned by any other Sourcegraph user. This includes being able to edit both the trigger and the action of the monitor in question. An attacker is not able to read contents of existing code monitors, only override the data. The issue is fixed in Sourcegraph 3.42. There are no workaround for the issue and patching is highly recommended.",
         "URL": "https://github.com/sourcegraph/sourcegraph/pull/37526",
+        "Commit SHA": "d8c1e483cf391bd714c62e179565a61b3e61bec0",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-20",
         "Description": "Sourcegraph is a code intelligence platform. In versions prior to 4.1.0 a command Injection vulnerability existed in the gitserver service, present in all Sourcegraph deployments. This vulnerability was caused by a lack of input validation on the host parameter of the `/list-gitolite` endpoint. It was possible to send a crafted request to gitserver that would execute commands inside the container. Successful exploitation requires the ability to send local requests to gitserver. The issue is patched in version 4.1.0.",
         "URL": "https://github.com/sourcegraph/sourcegraph/pull/42553",
+        "Commit SHA": "5f37217c601ba9d4b01bba7dff2edf41052973f1",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-276",
         "Description": "sourcegraph is a code intelligence platform. As a site admin it was possible to execute arbitrary commands on Gitserver when the experimental `customGitFetch` feature was enabled. This experimental feature has now been disabled by default. This issue has been patched in version 4.1.0.",
         "URL": "https://github.com/sourcegraph/sourcegraph/pull/42704",
+        "Commit SHA": "e92afd553d1e89974108af12cda5961cbd3f623e",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
