@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "In Select2 through 4.0.5, as used in Snipe-IT and other products, rich selectlists allow XSS. This affects use cases with Ajax remote data loading when HTML templates are used to display listbox data.",
         "URL": "https://github.com/snipe/snipe-it/pull/6831/commits/5848d9a10c7d62c73ff6a3858edfae96a429402a",
+        "Commit SHA": "dee92cfc6c016986b341c57ed06f3d65e9d18d43",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "In Select2 through 4.0.5, as used in Snipe-IT and other products, rich selectlists allow XSS. This affects use cases with Ajax remote data loading when HTML templates are used to display listbox data.",
         "URL": "https://github.com/snipe/snipe-it/pull/6831",
+        "Commit SHA": "dee92cfc6c016986b341c57ed06f3d65e9d18d43",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Snipe-IT before 4.6.14 has XSS, as demonstrated by log_meta values and the user's last name in the API.",
         "URL": "https://github.com/snipe/snipe-it/pull/6831",
+        "Commit SHA": "dee92cfc6c016986b341c57ed06f3d65e9d18d43",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
