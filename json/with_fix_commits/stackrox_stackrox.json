@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-497",
         "Description": "A flaw was found in the Red Hat Advanced Cluster Security for Kubernetes. Notifier secrets were not properly sanitized in the GraphQL API. This flaw allows authenticated ACS users to retrieve Notifiers from the GraphQL API, revealing secrets that can escalate their privileges.",
         "URL": "https://github.com/stackrox/stackrox/pull/1803",
+        "Commit SHA": "c08f23ffb4c8db10cc962597c98cc7599950715b",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
