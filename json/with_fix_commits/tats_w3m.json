@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-787",
         "Description": "An out-of-bounds write issue has been discovered in the backspace handling of the checkType() function in etc.c within the W3M application. This vulnerability is triggered by supplying a specially crafted HTML file to the w3m binary. Exploitation of this flaw could lead to application crashes, resulting in a denial of service condition.",
         "URL": "https://github.com/tats/w3m/pull/273",
+        "Commit SHA": "25fb402cea405b263466c627f32513d186a38ade",
         "Tag": "['Issue Tracking', 'Patch']"
     }
 ]
