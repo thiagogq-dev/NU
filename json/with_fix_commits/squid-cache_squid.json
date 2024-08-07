@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-772",
         "Description": "Squid before 4.4, when SNMP is enabled, allows a denial of service (Memory Leak) via an SNMP packet.",
         "URL": "https://github.com/squid-cache/squid/pull/313",
+        "Commit SHA": "644131ff1e00c1895d77561f561d29c104ba6b11",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "The cachemgr.cgi web module of Squid through 4.7 has XSS via the user_name or auth parameter.",
         "URL": "https://github.com/squid-cache/squid/pull/429",
+        "Commit SHA": "5730c2b5cb56e7639dc423dd62651c8736a54e35",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-787",
         "Description": "An issue was discovered in Squid 3.x and 4.x through 4.8. Due to incorrect input validation, there is a heap-based buffer overflow that can result in Denial of Service to all clients using the proxy. Severity is high due to this vulnerability occurring before normal security checks; any remote client that can reach the proxy port can trivially perform the attack via a crafted URI scheme.",
         "URL": "https://github.com/squid-cache/squid/pull/275",
+        "Commit SHA": "fbbdf75efd7a5cc244b4886a9d42ea458c5a3a73",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-352",
         "Description": "An issue was discovered in Squid 3.x and 4.x through 4.8 when the append_domain setting is used (because the appended characters do not properly interact with hostname length restrictions). Due to incorrect message processing, it can inappropriately redirect traffic to origins it should not be delivered to.",
         "URL": "https://github.com/squid-cache/squid/pull/427",
+        "Commit SHA": "e5f1813a674848dde570f7920873e1071f96e0b4",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-444",
         "Description": "An issue was discovered in Squid 3.x and 4.x through 4.8. It allows attackers to smuggle HTTP requests through frontend software to a Squid instance that splits the HTTP Request pipeline differently. The resulting Response messages corrupt caches (between a client and Squid) with attacker-controlled content at arbitrary URLs. Effects are isolated to software between the attacker client and Squid. There are no effects on Squid itself, nor on any upstream servers. The issue is related to a request header containing whitespace between a header name and a colon.",
         "URL": "https://github.com/squid-cache/squid/pull/445",
+        "Commit SHA": "671ba97abe929156dc4c717ee52ad22fba0f7443",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-200",
         "Description": "An issue was discovered in Squid 2.x, 3.x, and 4.x through 4.8. Due to incorrect data management, it is vulnerable to information disclosure when processing HTTP Digest Authentication. Nonce tokens contain the raw byte value of a pointer that sits within heap memory allocation. This information reduces ASLR protections and may aid attackers isolating memory areas to target for remote code execution attacks.",
         "URL": "https://github.com/squid-cache/squid/pull/491",
+        "Commit SHA": "8c1b0acc83b38fef177363e6b1acbbc3cb7db21a",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-74",
         "Description": "Squid before 4.9, when certain web browsers are used, mishandles HTML in the host (aka hostname) parameter to cachemgr.cgi.",
         "URL": "https://github.com/squid-cache/squid/pull/505",
+        "Commit SHA": "47f1e147afb24c3e69b2a9de3fb60df043229b5d",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-74",
         "Description": "Squid before 4.9, when certain web browsers are used, mishandles HTML in the host (aka hostname) parameter to cachemgr.cgi.",
         "URL": "https://github.com/squid-cache/squid/pull/504",
+        "Commit SHA": "5a90b4ce64c346ba7f317a278ba601091d9de076",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-190",
         "Description": "An issue was discovered in Squid before 5.0.2. A remote attacker can replay a sniffed Digest Authentication nonce to gain access to resources that are otherwise forbidden. This occurs because the attacker can overflow the nonce reference counter (a short integer). Remote code execution may occur if the pooled token credentials are freed (instead of replayed as valid credentials).",
         "URL": "https://github.com/squid-cache/squid/pull/585",
+        "Commit SHA": "eeebf0f37a72a2de08348e85ae34b02c34e9a811",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
