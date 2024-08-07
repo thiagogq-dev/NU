@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "It was found that the ovirt-log-collector/sosreport collects the RHV admin password unfiltered. Fixed in: sos-4.2-20.el8_6, ovirt-log-collector-4.4.7-2.el8ev",
         "URL": "https://github.com/sosreport/sos/pull/2947",
+        "Commit SHA": "5fd872c64c53af37015f366295e0c2418c969757",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
