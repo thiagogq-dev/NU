@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Directory traversal vulnerability in minion id validation in SaltStack Salt before 2016.11.7 and 2017.7.x before 2017.7.1 allows remote minions with incorrect credentials to authenticate to a master via a crafted minion ID.",
         "URL": "https://github.com/saltstack/salt/pull/42944",
+        "Commit SHA": "6366e05d0d70bd709cc4233c3faf32a759d0173a",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-200",
         "Description": "The salt-ssh minion code in SaltStack Salt 2016.11 before 2016.11.4 copied over configuration from the Salt Master without adjusting permissions, which might leak credentials to local attackers on configured minions (clients).",
         "URL": "https://github.com/saltstack/salt/pull/40609/commits/6e34c2b5e5e849302af7ccd00509929c3809c658",
+        "Commit SHA": "6e34c2b5e5e849302af7ccd00509929c3809c658",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-200",
         "Description": "The salt-ssh minion code in SaltStack Salt 2016.11 before 2016.11.4 copied over configuration from the Salt Master without adjusting permissions, which might leak credentials to local attackers on configured minions (clients).",
         "URL": "https://github.com/saltstack/salt/pull/40609",
+        "Commit SHA": "8492cef7a5c8871a3978ffc2f6e48b3b960e0151",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-89",
         "Description": "SaltStack Salt 2018.3, 2019.2 is affected by: SQL Injection. The impact is: An attacker could escalate privileges on MySQL server deployed by cloud provider. It leads to RCE. The component is: The mysql.user_chpass function from the MySQL module for Salt. The attack vector is: specially crafted password string. The fixed version is: 2018.3.4.",
         "URL": "https://github.com/saltstack/salt/pull/51462",
+        "Commit SHA": "a05305dce35f22ba89dbd96acf4deee95a96a4c3",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
