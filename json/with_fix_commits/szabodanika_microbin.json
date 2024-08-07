@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "A cross-site scripting vulnerability (XSS) in the component microbin/src/pasta.rs of Microbin v1.2.0 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.",
         "URL": "https://github.com/szabodanika/microbin/pull/143",
+        "Commit SHA": "ded125c89bcefc6a8f9465877bb85d9eccfe95c6",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
