@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-20",
         "Description": "The static-eval module is intended to evaluate statically-analyzable expressions. In affected versions, untrusted user input is able to access the global function constructor, effectively allowing arbitrary code execution.",
         "URL": "https://github.com/substack/static-eval/pull/18",
+        "Commit SHA": "fca62272ab1be9cbedd45839edac943c1e30ca24",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
