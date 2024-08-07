@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-835",
         "Description": "In systemd 223 through 235, a remote DNS server can respond with a custom crafted DNS NSEC resource record to trigger an infinite loop in the dns_packet_read_type_window() function of the 'systemd-resolved' service and cause a DoS of the affected service.",
         "URL": "https://github.com/systemd/systemd/pull/7184",
+        "Commit SHA": "8aeadf3052a2130b88d5bccf5439890e1034f28d",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-476",
         "Description": "systemd-resolved through 233 allows remote attackers to cause a denial of service (daemon crash) via a crafted DNS response with an empty question section.",
         "URL": "https://github.com/systemd/systemd/pull/5998",
+        "Commit SHA": null,
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-502",
         "Description": "A vulnerability in unit_deserialize of systemd allows an attacker to supply arbitrary state across systemd re-execution via NotifyAccess. This can be used to improperly influence systemd execution and possibly lead to root privilege escalation. Affected releases are systemd versions up to and including 239.",
         "URL": "https://github.com/systemd/systemd/pull/10519",
+        "Commit SHA": "9f1c81d80a435d15ca1bd536a6d043c18c81c047",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-362",
         "Description": "A race condition in chown_one() of systemd allows an attacker to cause systemd to set arbitrary permissions on arbitrary files. Affected releases are systemd versions up to and including 239.",
         "URL": "https://github.com/systemd/systemd/pull/10517/commits",
+        "Commit SHA": "dc81f52c4d07de0c24f16edf889120780d9ae734",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -37,6 +41,7 @@
         "Problem_Type": "CWE-120",
         "Description": "A buffer overflow vulnerability in the dhcp6 client of systemd allows a malicious dhcp6 server to overwrite heap memory in systemd-networkd. Affected releases are systemd: versions up to and including 239.",
         "URL": "https://github.com/systemd/systemd/pull/10518",
+        "Commit SHA": "5ec1fca41e5c5f31c7f6bfb42b113f0fb7dc1a87",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -45,6 +50,7 @@
         "Problem_Type": "CWE-295",
         "Description": "systemd 239 through 245 accepts any certificate signed by a trusted certificate authority for DNS Over TLS. Server Name Indication (SNI) is not sent, and there is no hostname validation with the GnuTLS backend. NOTE: This has been disputed by the developer as not a vulnerability since hostname validation does not have anything to do with this issue (i.e. there is no hostname to be sent)",
         "URL": "https://github.com/systemd/systemd/pull/13870",
+        "Commit SHA": "b7a4129ca946ed49e161a03283faf5bbab96d110",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -53,6 +59,7 @@
         "Problem_Type": "CWE-770",
         "Description": "basic/unit-name.c in systemd prior to 246.15, 247.8, 248.5, and 249.1 has a Memory Allocation with an Excessive Size Value (involving strdupa and alloca for a pathname controlled by a local attacker) that results in an operating system crash.",
         "URL": "https://github.com/systemd/systemd/pull/20256/commits/441e0115646d54f080e5c3bb0ba477c892861ab9",
+        "Commit SHA": "441e0115646d54f080e5c3bb0ba477c892861ab9",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -61,6 +68,7 @@
         "Problem_Type": "CWE-193",
         "Description": "An off-by-one Error issue was discovered in Systemd in format_timespan() function of time-util.c. An attacker could supply specific values for time and accuracy that leads to buffer overrun in format_timespan(), leading to a Denial of Service.",
         "URL": "https://github.com/systemd/systemd/pull/23933",
+        "Commit SHA": "9102c625a673a3246d7e73d8737f3494446bad4e",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -69,6 +77,7 @@
         "Problem_Type": "CWE-400",
         "Description": "systemd 250 and 251 allows local users to achieve a systemd-coredump deadlock by triggering a crash that has a long backtrace. This occurs in parse_elf_object in shared/elf-util.c. The exploitation methodology is to crash a binary calling the same function recursively, and put it in a deeply nested directory to make its backtrace large enough to cause the deadlock. This must be done 16 times when MaxConnections=16 is set for the systemd/units/systemd-coredump.socket file.",
         "URL": "https://github.com/systemd/systemd/pull/25055#issuecomment-1313733553",
+        "Commit SHA": "875c0bd07eac652c584d858f0a7811ca83b6c6ed",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     },
     {
@@ -77,6 +86,7 @@
         "Problem_Type": "CWE-400",
         "Description": "systemd 250 and 251 allows local users to achieve a systemd-coredump deadlock by triggering a crash that has a long backtrace. This occurs in parse_elf_object in shared/elf-util.c. The exploitation methodology is to crash a binary calling the same function recursively, and put it in a deeply nested directory to make its backtrace large enough to cause the deadlock. This must be done 16 times when MaxConnections=16 is set for the systemd/units/systemd-coredump.socket file.",
         "URL": "https://github.com/systemd/systemd/pull/24853#issuecomment-1326561497",
+        "Commit SHA": "697f082697c8db466fe263ea307fbf3f12f965be",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
     }
 ]
