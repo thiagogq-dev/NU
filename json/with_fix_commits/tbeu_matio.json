@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-190",
         "Description": "Multiple integer overflows exist in MATIO before 1.5.16, related to mat.c, mat4.c, mat5.c, mat73.c, and matvar_struct.c",
         "URL": "https://github.com/tbeu/matio/pull/118",
+        "Commit SHA": "3aa96c28af1d2280656639d0dbb0630c3788ed96",
         "Tag": "['Patch']"
     }
 ]
