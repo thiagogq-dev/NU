@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Sakai through 12.6 allows XSS via a chat user name.",
         "URL": "https://github.com/sakaiproject/sakai/pull/6971",
+        "Commit SHA": "57dc8c9ec8f09c374e48c06a1690fb7639a00c90",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
