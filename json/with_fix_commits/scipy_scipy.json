@@ -5,6 +5,7 @@
         "Problem_Type": "NVD-CWE-Other",
         "Description": "A refcounting issue which leads to potential memory leak was discovered in scipy commit 8627df31ab in Py_FindObjects() function.",
         "URL": "https://github.com/scipy/scipy/pull/16397",
+        "Commit SHA": "9a992782abc3123e139901c8751c076ceca0cf72",
         "Tag": "['Patch']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-416",
         "Description": "A use-after-free issue was discovered in Py_FindObjects() function in SciPy versions prior to 1.8.0. NOTE: the vendor and discoverer indicate that this is not a security issue.",
         "URL": "https://github.com/scipy/scipy/pull/15013",
+        "Commit SHA": "e32fc2329d3dd23298725153c5b2cc7fcd0f14f1",
         "Tag": "['Patch']"
     }
 ]
