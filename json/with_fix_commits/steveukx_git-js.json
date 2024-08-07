@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-88",
         "Description": "The package simple-git before 3.3.0 are vulnerable to Command Injection via argument injection. When calling the .fetch(remote, branch, handlerFn) function, both the remote and branch parameters are passed to the git fetch subcommand. By injecting some git options it was possible to get arbitrary command execution.",
         "URL": "https://github.com/steveukx/git-js/pull/767",
+        "Commit SHA": "372efa0f5efacb49cfb60703b6adb8b2e58ed9f8",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "NVD-CWE-noinfo",
         "Description": "Versions of the package simple-git before 3.16.0 are vulnerable to Remote Code Execution (RCE) via the clone(), pull(), push() and listRemote() methods, due to improper input sanitization.\nThis vulnerability exists due to an incomplete fix of [CVE-2022-25912](https://security.snyk.io/vuln/SNYK-JS-SIMPLEGIT-3112221).\n\n",
         "URL": "https://github.com/steveukx/git-js/pull/881/commits/95459310e5b8f96e20bb77ef1a6559036b779e13",
+        "Commit SHA": "0a623e53fd4b7617ca9c4d1d51bc53d105f52b2b",
         "Tag": "['Patch', 'Third Party Advisory']"
     }
 ]
