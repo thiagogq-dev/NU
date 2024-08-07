@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-203",
         "Description": "Statamic is a Laravel and Git powered CMS. Before versions 3.2.39 and 3.3.2, it is possible to confirm a single character of a user's password hash using a specially crafted regular expression filter in the users endpoint of the REST API. Multiple such requests can eventually uncover the entire hash. The hash is not present in the response, however the presence or absence of a result confirms if the character is in the right position. The API has throttling enabled by default, making this a time intensive task. Both the REST API and the users endpoint need to be enabled, as they are disabled by default. The issue has been fixed in versions 3.2.39 and above, and 3.3.2 and above.",
         "URL": "https://github.com/statamic/cms/pull/5568",
+        "Commit SHA": "d0296715ca370a07a5874a7816d8aa438c894d16",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Statamic is a flat-first, Laravel and Git powered content management system. Prior to version 4.10.0, the SVG tag does not sanitize malicious SVG. Therefore, an attacker can exploit this vulnerability to perform cross-site scripting attacks using SVG, even when using the `sanitize` function. Version 4.10.0 contains a patch for this issue.",
         "URL": "https://github.com/statamic/cms/pull/8408",
+        "Commit SHA": "c714893ad92de6e5ede17b501003441af505b30d",
         "Tag": "['Patch']"
     }
 ]
