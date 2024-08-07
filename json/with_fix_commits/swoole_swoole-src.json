@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-22",
         "Description": "Swoole before 4.2.13 allows directory traversal in swPort_http_static_handler.",
         "URL": "https://github.com/swoole/swoole-src/pull/2323",
+        "Commit SHA": "5d6b446aced52b8112e7e3a49ffd6de5eb71f629",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-74",
         "Description": "A HTTP response header injection vulnerability in Swoole v4.5.2 allows attackers to execute arbitrary code via supplying a crafted URL.",
         "URL": "https://github.com/swoole/swoole-src/pull/3539",
+        "Commit SHA": "19ae389d3c2093d37cbc03163a3dbb91f01f1876",
         "Tag": "['Patch', 'Vendor Advisory']"
     },
     {
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-74",
         "Description": "A HTTP response header injection vulnerability in Swoole v4.5.2 allows attackers to execute arbitrary code via supplying a crafted URL.",
         "URL": "https://github.com/swoole/swoole-src/pull/3545",
+        "Commit SHA": "4bab1a2403adcbf97104ea81a521987f77d32790",
         "Tag": "['Patch', 'Vendor Advisory']"
     }
 ]
