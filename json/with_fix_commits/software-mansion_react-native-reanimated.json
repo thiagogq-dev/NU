@@ -5,6 +5,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "The package react-native-reanimated before 3.0.0-rc.1 are vulnerable to Regular Expression Denial of Service (ReDoS) due to improper usage of regular expression in the parser of Colors.js.",
         "URL": "https://github.com/software-mansion/react-native-reanimated/pull/3382/commits/7adf06d0c59382d884a04be86a96eede3d0432fa",
+        "Commit SHA": "6025581335f38e8117d321d6f2e0f73a8e6aa902",
         "Tag": "['Patch', 'Third Party Advisory']"
     },
     {
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-1333",
         "Description": "The package react-native-reanimated before 3.0.0-rc.1 are vulnerable to Regular Expression Denial of Service (ReDoS) due to improper usage of regular expression in the parser of Colors.js.",
         "URL": "https://github.com/software-mansion/react-native-reanimated/pull/3382",
+        "Commit SHA": "6025581335f38e8117d321d6f2e0f73a8e6aa902",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
     }
 ]
