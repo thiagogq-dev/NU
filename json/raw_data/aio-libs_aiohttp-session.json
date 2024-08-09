@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "aio-libs/aiohttp-session",
+        "CVE_ID": "CVE-2018-1000814",
+        "Problem_Type": "CWE-613",
+        "Description": "aio-libs aiohttp-session version 2.6.0 and earlier contains a Other/Unknown vulnerability in EncryptedCookieStorage and NaClCookieStorage that can result in Non-expiring sessions / Infinite lifespan. This attack appear to be exploitable via Recreation of a cookie post-expiry with the same value.",
+        "URL": "https://github.com/aio-libs/aiohttp-session/pull/331",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1b356f01bbab57d041c9a75bacd72fbbf8524728"
+    }
+]

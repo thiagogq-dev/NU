@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "apple/swift-nio",
+        "CVE_ID": "CVE-2023-31136",
+        "Problem_Type": "CWE-522",
+        "Description": "PostgresNIO is a Swift client for PostgreSQL. Any user of PostgresNIO prior to version 1.14.2 connecting to servers with TLS enabled is vulnerable to a man-in-the-middle attacker injecting false responses to the client's first few queries, despite the use of TLS certificate verification and encryption. The vulnerability is addressed in PostgresNIO versions starting from 1.14.2. There are no known workarounds for unpatched users.",
+        "URL": "https://github.com/apple/swift-nio/pull/2419",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "546eaa261ec5028b9cc5c7fa883fba9dd5881a3b"
+    }
+]

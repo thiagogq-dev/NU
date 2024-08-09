@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "adamghill/django-unicorn",
+        "CVE_ID": "CVE-2021-42053",
+        "Problem_Type": "CWE-79",
+        "Description": "The Unicorn framework through 0.35.3 for Django allows XSS via component.name.",
+        "URL": "https://github.com/adamghill/django-unicorn/pull/288/files",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "aa5b9835d946bd9893ef02e556859e3ea62cc5e2"
+    }
+]

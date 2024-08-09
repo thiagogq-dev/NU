@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "autotrace/autotrace",
+        "CVE_ID": "CVE-2019-19004",
+        "Problem_Type": "CWE-190",
+        "Description": "A biWidth*biBitCnt integer overflow in input-bmp.c in autotrace 0.31.1 allows attackers to provide an unexpected input value to malloc via a malformed bitmap image.",
+        "URL": "https://github.com/autotrace/autotrace/pull/40",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d272675dec8304f918b3700634dce9355a7d7e42"
+    },
+    {
+        "repo_name": "autotrace/autotrace",
+        "CVE_ID": "CVE-2019-19005",
+        "Problem_Type": "CWE-415",
+        "Description": "A bitmap double free in main.c in autotrace 0.31.1 allows attackers to cause an unspecified impact via a malformed bitmap image. This may occur after the use-after-free in CVE-2017-9182.",
+        "URL": "https://github.com/autotrace/autotrace/pull/40",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d272675dec8304f918b3700634dce9355a7d7e42"
+    }
+]

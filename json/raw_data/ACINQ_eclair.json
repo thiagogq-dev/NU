@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "ACINQ/eclair",
+        "CVE_ID": "CVE-2021-41591",
+        "Problem_Type": "CWE-770",
+        "Description": "ACINQ Eclair before 0.6.3 allows loss of funds because of dust HTLC exposure.",
+        "URL": "https://github.com/ACINQ/eclair/pull/1985",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "75eafd0e4d4d93ac51e40a56c85e9df87a47d391"
+    }
+]

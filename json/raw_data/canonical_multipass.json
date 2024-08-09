@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "canonical/multipass",
+        "CVE_ID": "CVE-2021-3626",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The Windows version of Multipass before 1.7.0 allowed any local process to connect to the localhost TCP control socket to perform mounts from the operating system to a guest, allowing for privilege escalation.",
+        "URL": "https://github.com/canonical/multipass/pull/2150",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "010fa9b2d100ca5fe1136c336280a91143c05f47"
+    }
+]

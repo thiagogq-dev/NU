@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "antirez/redis",
+        "CVE_ID": "CVE-2013-7458",
+        "Problem_Type": "CWE-200",
+        "Description": "linenoise, as used in Redis before 3.2.3, uses world-readable permissions for .rediscli_history, which allows local users to obtain sensitive information by reading the file.",
+        "URL": "https://github.com/antirez/redis/pull/3322",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "53cc8d7ce66b971d540341d279aa7b8843bcf482"
+    },
+    {
+        "repo_name": "antirez/redis",
+        "CVE_ID": "CVE-2013-7458",
+        "Problem_Type": "CWE-200",
+        "Description": "linenoise, as used in Redis before 3.2.3, uses world-readable permissions for .rediscli_history, which allows local users to obtain sensitive information by reading the file.",
+        "URL": "https://github.com/antirez/redis/pull/1418",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "53cc8d7ce66b971d540341d279aa7b8843bcf482"
+    },
+    {
+        "repo_name": "antirez/redis",
+        "CVE_ID": "CVE-2020-14147",
+        "Problem_Type": "CWE-787",
+        "Description": "An integer overflow in the getnum function in lua_struct.c in Redis before 6.0.3 allows context-dependent attackers with permission to run Lua code in a Redis session to cause a denial of service (memory corruption and application crash) or possibly bypass intended sandbox restrictions via a large number, which triggers a stack-based buffer overflow. NOTE: this issue exists because of a CVE-2015-8080 regression.",
+        "URL": "https://github.com/antirez/redis/pull/6875",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "256ec6c52f5bd41437ea703801f67426af370918"
+    }
+]

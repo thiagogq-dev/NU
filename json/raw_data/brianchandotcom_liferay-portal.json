@@ -5,7 +5,8 @@
         "Problem_Type": "CWE-79",
         "Description": "XSS exists in Liferay Portal before 7.0 CE GA4 via a login name, password, or e-mail address.",
         "URL": "https://github.com/brianchandotcom/liferay-portal/pull/49833",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5549148045125f000d968132235db5b1c2c18b60"
     },
     {
         "repo_name": "brianchandotcom/liferay-portal",
@@ -13,7 +14,8 @@
         "Problem_Type": "CWE-79",
         "Description": "XSS exists in Liferay Portal before 7.0 CE GA4 via a Knowledge Base article title.",
         "URL": "https://github.com/brianchandotcom/liferay-portal/pull/48901",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "brianchandotcom/liferay-portal",
@@ -21,7 +23,8 @@
         "Problem_Type": "CWE-79",
         "Description": "XSS exists in Liferay Portal before 7.0 CE GA4 via a bookmark URL.",
         "URL": "https://github.com/brianchandotcom/liferay-portal/pull/47888",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "brianchandotcom/liferay-portal",
@@ -29,6 +32,7 @@
         "Problem_Type": "CWE-79",
         "Description": "XSS exists in Liferay Portal before 7.0 CE GA4 via a crafted title or summary that is mishandled in the Web Content Display.",
         "URL": "https://github.com/brianchandotcom/liferay-portal/pull/47579",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
     }
 ]

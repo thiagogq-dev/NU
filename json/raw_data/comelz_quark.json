@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "comelz/quark",
+        "CVE_ID": "CVE-2019-15520",
+        "Problem_Type": "CWE-22",
+        "Description": "comelz Quark before 2019-03-26 allows directory traversal to locations outside of the project directory.",
+        "URL": "https://github.com/comelz/quark/pull/18",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "3311efee0074f8bf677aa76a5502086d462b3451"
+    }
+]

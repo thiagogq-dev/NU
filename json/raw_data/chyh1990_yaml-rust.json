@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "chyh1990/yaml-rust",
+        "CVE_ID": "CVE-2019-1010182",
+        "Problem_Type": "CWE-674",
+        "Description": "yaml-rust 0.4.0 and earlier is affected by: Uncontrolled Recursion. The impact is: Denial of service by impossible to catch abort. The component is: YamlLoader::load_from_str function. The attack vector is: Parsing of a malicious YAML document. The fixed version is: 0.4.1 and later.",
+        "URL": "https://github.com/chyh1990/yaml-rust/pull/109",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7eb6b6afa9b1e3122f4a1ca06ec8390496eb3d57"
+    }
+]
