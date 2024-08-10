@@ -7,6 +7,10 @@
         "URL": "https://github.com/Cacti/cacti/pull/4261",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "d12800ab479ad95a091bc577f28fd99ec95eb64c",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "6896a1ecdda6a8b247942f40947ac8029a55396f"
+        ],
+        "matched": []
     }
 ]
