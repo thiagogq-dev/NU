@@ -7,7 +7,9 @@
         "URL": "https://github.com/ansible/ansible-runner/pull/742/commits",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "dcdb62daf668a31754fc6fbf73374e7d14d5f52c",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ansible/ansible-runner",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/ansible/ansible-runner/pull/742/commits",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "dcdb62daf668a31754fc6fbf73374e7d14d5f52c",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
