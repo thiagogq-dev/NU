@@ -7,6 +7,8 @@
         "URL": "https://github.com/10up/safe-svg/pull/28",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "00cb9a86d1bff2214714557d1901ec3896564e50",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
