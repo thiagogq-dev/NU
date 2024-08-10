@@ -7,6 +7,10 @@
         "URL": "https://github.com/aws-amplify/aws-sdk-android/pull/3100",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "c3e6d69422e1f0c80fe53f2d757b8df97619af2b",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "1d353ec1e168347942a456849623ecae5799ae5d"
+        ],
+        "matched": []
     }
 ]
