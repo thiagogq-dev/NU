@@ -7,6 +7,8 @@
         "URL": "https://github.com/AFLplusplus/AFLplusplus/pull/1643",
         "Tag": "['Exploit', 'Patch']",
         "fix_commit_hash": "bac8d25bc2779f06813065a1b5c54eeba8718e2b",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
