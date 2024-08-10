@@ -9,7 +9,12 @@
         "fix_commit_hash": "b3645b4c6718cef6de7003f41aafe7bfcc0395d1",
         "inducing_commit_hash_pyszz": [
             "a4bcfdfc3952a6f2ea1a78638e349243678d1f70"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "40a9dc37e21889bfd54af4785f48d50fa9e5880e",
+            "26484e06f552ebf9b1f87413a747e2c038f2cc4d"
+        ],
+        "matched": []
     },
     {
         "repo_name": "Codiad/Codiad",
@@ -19,6 +24,8 @@
         "URL": "https://github.com/Codiad/Codiad/pull/974",
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "8ff257e508b06097af979d9250b94aa0757bc517",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
