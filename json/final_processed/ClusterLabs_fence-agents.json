@@ -7,7 +7,9 @@
         "URL": "https://github.com/ClusterLabs/fence-agents/pull/255",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "68dee49024b799be9e9efedf6b29ab1d57471f1b",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ClusterLabs/fence-agents",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/ClusterLabs/fence-agents/pull/272",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "e462fa591f488d9a8d789121538476ed9d6d3fea",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
