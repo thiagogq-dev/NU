@@ -7,7 +7,9 @@
         "URL": "https://github.com/accel-ppp/accel-ppp/pull/35",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "0b4ef9862c65bffd7c2e5798cb35948548ac724d",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "accel-ppp/accel-ppp",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/accel-ppp/accel-ppp/pull/35",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "0b4ef9862c65bffd7c2e5798cb35948548ac724d",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
