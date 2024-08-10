@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "allegro/bigflow",
+        "CVE_ID": "CVE-2023-25392",
+        "Problem_Type": "CWE-295",
+        "Description": "Allegro Tech BigFlow <1.6 is vulnerable to Missing SSL Certificate Validation.",
+        "URL": "https://github.com/allegro/bigflow/pull/357",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "fab2660b7d5ed98319776dede095d1bf21c88154",
+        "inducing_commit_hash_pyszz": [
+            "3f26b1e44125edd38b8beb8f1ca877458d36cb41"
+        ],
+        "inducing_commit_hash_pd": [
+            "d390f0aa6bafcb22a924606558400b7bd2ac774d",
+            "997a2417cdc3b16d6761de909b87adfb0d3898a1",
+            "2710eed8bafcb469fdea7fa3b81f6eb51df77a20",
+            "ffb3d61fae88b033a0d7b6fc03b6bbd6705114cf",
+            "cb2cf6d794e53bce34022b1e6225b749a7878bb3",
+            "3a3cdee3aa864573a1e9d828bfda3c9fa1a667ad",
+            "2b359400252e41bf479605d61f34fedc906bd4e6",
+            "461532eb29ea613caf9d4ca6ffd53bf300cc249e",
+            "74a43eeb175bcd6ac346fa5a5801fdbe406f3c6a",
+            "07973c357c10c3cb663ae477c1f285dcb6027f1b",
+            "2c8460a5c6c57e95ac681a76c7c67416a0280ced",
+            "3f26b1e44125edd38b8beb8f1ca877458d36cb41",
+            "0e42834e411cefd34f55015113e011b9245f6488",
+            "a3671657ac030b8ccd025284a5314abf5e0197b4",
+            "8b762f81f5c390e317650a9e2dcda5eaf64c9866",
+            "19d11e71c342f91feeecff3366c007b42f05e42c",
+            "ef573884aad2834664b79d3d0816f9cf7cc51d4c",
+            "7766d39fe36c0ac1c7168e6ddc5431d7d3f3e1f4",
+            "3448ba0e3c093107bd4c4bef9b651d3df549c7b8"
+        ],
+        "matched": [
+            "3f26b1e44125edd38b8beb8f1ca877458d36cb41"
+        ]
+    }
+]
