@@ -7,7 +7,9 @@
         "URL": "https://github.com/autotrace/autotrace/pull/40",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "d272675dec8304f918b3700634dce9355a7d7e42",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "autotrace/autotrace",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/autotrace/autotrace/pull/40",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "d272675dec8304f918b3700634dce9355a7d7e42",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
