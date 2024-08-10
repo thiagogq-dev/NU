@@ -9,7 +9,11 @@
         "fix_commit_hash": "6fc402e40ba998b2b5d94e09df7c693407d54a3e",
         "inducing_commit_hash_pyszz": [
             "8b2c47253659cf348b04840cea67857978af64cb"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "01b8dbbd0e344e3df4a3ff4ff87ca467a8377634"
+        ],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/greenlight",
@@ -20,6 +24,12 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "7c57f4b93ab9bdcc01b2bc41646f3aea0f2ef4c7",
         "inducing_commit_hash_pyszz": [
+            "005c738e4d774e71b5692926663bd5ab893e4749"
+        ],
+        "inducing_commit_hash_pd": [
+            "005c738e4d774e71b5692926663bd5ab893e4749"
+        ],
+        "matched": [
             "005c738e4d774e71b5692926663bd5ab893e4749"
         ]
     },
@@ -33,6 +43,10 @@
         "fix_commit_hash": "cbc407111efe1ea7c0adf6f7b5e03044af5b115c",
         "inducing_commit_hash_pyszz": [
             "09de6b6739dbc3e5fd7190d556a1c2f1bf5c3809"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "60cf5f7440f3a5c21adc6fede3aab59a73428ec3"
+        ],
+        "matched": []
     }
 ]
