@@ -7,6 +7,8 @@
         "URL": "https://github.com/bblfsh/bblfshd/pull/341",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "4265465b9b6fb5663c30ee43806126012066aad4",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
