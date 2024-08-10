@@ -7,7 +7,9 @@
         "URL": "https://github.com/bareos/bareos/pull/1121",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "5f1f0d26eb333d129d5f5bc083b3aa55033cbc27",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bareos/bareos",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/bareos/bareos/pull/1119",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "6c6f32a0418930e0d411e4a67939c5a1c04dd48f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bareos/bareos",
@@ -27,7 +31,9 @@
         "URL": "https://github.com/bareos/bareos/pull/1115",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "4be8081d3f866eb2c4328e1a5cfd0bd5eb52e861",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bareos/bareos",
@@ -37,7 +43,9 @@
         "URL": "https://github.com/bareos/bareos/pull/1121",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "5f1f0d26eb333d129d5f5bc083b3aa55033cbc27",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bareos/bareos",
@@ -47,7 +55,9 @@
         "URL": "https://github.com/bareos/bareos/pull/1119",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "6c6f32a0418930e0d411e4a67939c5a1c04dd48f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bareos/bareos",
@@ -57,6 +67,8 @@
         "URL": "https://github.com/bareos/bareos/pull/1115",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "4be8081d3f866eb2c4328e1a5cfd0bd5eb52e861",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
