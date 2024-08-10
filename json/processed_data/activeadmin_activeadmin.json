@@ -1,1 +1,26 @@
-[{"repo_name": "activeadmin/activeadmin", "CVE_ID": "CVE-2023-50448", "Problem_Type": "CWE-1236", "Description": "In ActiveAdmin (aka Active Admin) before 2.12.0, a concurrency issue allows a malicious actor to access potentially private data (that belongs to another user) by making CSV export requests at certain specific times.", "URL": "https://github.com/activeadmin/activeadmin/pull/7336", "Tag": "['Issue Tracking', 'Patch']", "fix_commit_hash": "43d3a4a1a61713683fde7ce84e8ee9534f6c96ed", "inducing_commit_hash_pyszz": ["f495d16f3f400e549da6119f4b8213d62bb80c65"]}, {"repo_name": "activeadmin/activeadmin", "CVE_ID": "CVE-2023-51763", "Problem_Type": "CWE-1236", "Description": "csv_builder.rb in ActiveAdmin (aka Active Admin) before 3.2.0 allows CSV injection.", "URL": "https://github.com/activeadmin/activeadmin/pull/8161", "Tag": "['Patch']", "fix_commit_hash": "697be2b183491beadc8f0b7d8b5bfb44f2387909", "inducing_commit_hash_pyszz": ["f495d16f3f400e549da6119f4b8213d62bb80c65"]}]
+[
+    {
+        "repo_name": "activeadmin/activeadmin",
+        "CVE_ID": "CVE-2023-50448",
+        "Problem_Type": "CWE-1236",
+        "Description": "In ActiveAdmin (aka Active Admin) before 2.12.0, a concurrency issue allows a malicious actor to access potentially private data (that belongs to another user) by making CSV export requests at certain specific times.",
+        "URL": "https://github.com/activeadmin/activeadmin/pull/7336",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "43d3a4a1a61713683fde7ce84e8ee9534f6c96ed",
+        "inducing_commit_hash_pyszz": [
+            "f495d16f3f400e549da6119f4b8213d62bb80c65"
+        ]
+    },
+    {
+        "repo_name": "activeadmin/activeadmin",
+        "CVE_ID": "CVE-2023-51763",
+        "Problem_Type": "CWE-1236",
+        "Description": "csv_builder.rb in ActiveAdmin (aka Active Admin) before 3.2.0 allows CSV injection.",
+        "URL": "https://github.com/activeadmin/activeadmin/pull/8161",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "697be2b183491beadc8f0b7d8b5bfb44f2387909",
+        "inducing_commit_hash_pyszz": [
+            "f495d16f3f400e549da6119f4b8213d62bb80c65"
+        ]
+    }
+]

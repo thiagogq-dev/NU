@@ -35,14 +35,14 @@ if __name__ == "__main__":
             repo_path = f"pyszz_v2/repos_dir/{d['repo_name']}"
 
             # Find the buggy commits for TARGET
-            bics = pd_finder(d["Target Commit SHA"], repo_path)
-            d["target_inducing_commit_hash_pd"] = bics
-            d["target_matched"] = match_bics(d["target_inducing_commit_hash_pyszz"], bics)
+            bics = pd_finder(d["fix_commit_hash"], repo_path)
+            d["inducing_commit_hash_pd"] = bics
+            d["matched"] = match_bics(d["inducing_commit_hash_pyszz"], bics)
 
-            # Find the buggy commits for CLOSEST
-            bics = pd_finder(d["Closest Commit SHA"], repo_path)
-            d["closest_inducing_commit_hash_pd"] = bics
-            d["closest_matched"] = match_bics(d["closest_inducing_commit_hash_pyszz"], bics)
+            # # Find the buggy commits for CLOSEST
+            # bics = pd_finder(d["Closest Commit SHA"], repo_path)
+            # d["closest_inducing_commit_hash_pd"] = bics
+            # d["closest_matched"] = match_bics(d["closest_inducing_commit_hash_pyszz"], bics)
 
 
     file_to_save = json_file.split("/")[-1]

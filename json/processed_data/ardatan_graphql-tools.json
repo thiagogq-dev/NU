@@ -1,1 +1,14 @@
-[{"repo_name": "ardatan/graphql-tools", "CVE_ID": "CVE-2021-23326", "Problem_Type": "CWE-78", "Description": "This affects the package @graphql-tools/git-loader before 6.2.6. The use of exec and execSync in packages/loaders/git/src/load-git.ts allows arbitrary command injection.", "URL": "https://github.com/ardatan/graphql-tools/pull/2470", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "6a966beee8ca8b2f4adfe93318b96e4a5c501eac", "inducing_commit_hash_pyszz": ["df6e0aed3294b76e3774f0f290870904cf8695f5"]}]
+[
+    {
+        "repo_name": "ardatan/graphql-tools",
+        "CVE_ID": "CVE-2021-23326",
+        "Problem_Type": "CWE-78",
+        "Description": "This affects the package @graphql-tools/git-loader before 6.2.6. The use of exec and execSync in packages/loaders/git/src/load-git.ts allows arbitrary command injection.",
+        "URL": "https://github.com/ardatan/graphql-tools/pull/2470",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "6a966beee8ca8b2f4adfe93318b96e4a5c501eac",
+        "inducing_commit_hash_pyszz": [
+            "df6e0aed3294b76e3774f0f290870904cf8695f5"
+        ]
+    }
+]

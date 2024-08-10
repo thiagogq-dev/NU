@@ -1,1 +1,12 @@
-[{"repo_name": "anuraghazra/github-readme-stats", "CVE_ID": "CVE-2020-23986", "Problem_Type": "CWE-79", "Description": "Github Read Me Stats commit 3c7220e4f7144f6cb068fd433c774f6db47ccb95 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the function renderError.", "URL": "https://github.com/anuraghazra/github-readme-stats/pull/255", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "34b5dcb181cc96a38ff62bc31643e667be0daea9", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "anuraghazra/github-readme-stats",
+        "CVE_ID": "CVE-2020-23986",
+        "Problem_Type": "CWE-79",
+        "Description": "Github Read Me Stats commit 3c7220e4f7144f6cb068fd433c774f6db47ccb95 was discovered to contain a reflected cross-site scripting (XSS) vulnerability via the function renderError.",
+        "URL": "https://github.com/anuraghazra/github-readme-stats/pull/255",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "34b5dcb181cc96a38ff62bc31643e667be0daea9",
+        "inducing_commit_hash_pyszz": []
+    }
+]

@@ -1,1 +1,14 @@
-[{"repo_name": "chanzuckerberg/idseq-web", "CVE_ID": "CVE-2019-15568", "Problem_Type": "CWE-89", "Description": "idseq-web before 2019-07-01 in Infectious Disease Sequencing Platform IDseq allows SQL injection via tax_levels.", "URL": "https://github.com/chanzuckerberg/idseq-web/pull/2372", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "5e0901a9bd161312cf8bb57004830ac32921f976", "inducing_commit_hash_pyszz": ["55b54e586a82c83e7ce2a0b500e017aea8583390"]}]
+[
+    {
+        "repo_name": "chanzuckerberg/idseq-web",
+        "CVE_ID": "CVE-2019-15568",
+        "Problem_Type": "CWE-89",
+        "Description": "idseq-web before 2019-07-01 in Infectious Disease Sequencing Platform IDseq allows SQL injection via tax_levels.",
+        "URL": "https://github.com/chanzuckerberg/idseq-web/pull/2372",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5e0901a9bd161312cf8bb57004830ac32921f976",
+        "inducing_commit_hash_pyszz": [
+            "55b54e586a82c83e7ce2a0b500e017aea8583390"
+        ]
+    }
+]

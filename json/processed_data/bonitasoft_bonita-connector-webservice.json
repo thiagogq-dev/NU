@@ -1,1 +1,14 @@
-[{"repo_name": "bonitasoft/bonita-connector-webservice", "CVE_ID": "CVE-2020-36640", "Problem_Type": "CWE-611", "Description": "A vulnerability, which was classified as problematic, was found in bonitasoft bonita-connector-webservice up to 1.3.0. This affects the function TransformerConfigurationException of the file src/main/java/org/bonitasoft/connectors/ws/SecureWSConnector.java. The manipulation leads to xml external entity reference. Upgrading to version 1.3.1 is able to address this issue. The patch is named a12ad691c05af19e9061d7949b6b828ce48815d5. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217443.", "URL": "https://github.com/bonitasoft/bonita-connector-webservice/pull/17", "Tag": "['Patch']", "fix_commit_hash": "a12ad691c05af19e9061d7949b6b828ce48815d5", "inducing_commit_hash_pyszz": ["7dc59b935d7341dd5014737e454d1f60fabc4f47"]}]
+[
+    {
+        "repo_name": "bonitasoft/bonita-connector-webservice",
+        "CVE_ID": "CVE-2020-36640",
+        "Problem_Type": "CWE-611",
+        "Description": "A vulnerability, which was classified as problematic, was found in bonitasoft bonita-connector-webservice up to 1.3.0. This affects the function TransformerConfigurationException of the file src/main/java/org/bonitasoft/connectors/ws/SecureWSConnector.java. The manipulation leads to xml external entity reference. Upgrading to version 1.3.1 is able to address this issue. The patch is named a12ad691c05af19e9061d7949b6b828ce48815d5. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217443.",
+        "URL": "https://github.com/bonitasoft/bonita-connector-webservice/pull/17",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "a12ad691c05af19e9061d7949b6b828ce48815d5",
+        "inducing_commit_hash_pyszz": [
+            "7dc59b935d7341dd5014737e454d1f60fabc4f47"
+        ]
+    }
+]

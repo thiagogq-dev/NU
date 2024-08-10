@@ -1,1 +1,14 @@
-[{"repo_name": "418sec/mjs", "CVE_ID": "CVE-2021-31875", "Problem_Type": "CWE-787", "Description": "In mjs_json.c in Cesanta MongooseOS mJS 1.26, a maliciously formed JSON string can trigger an off-by-one heap-based buffer overflow in mjs_json_parse, which can potentially lead to redirection of control flow. NOTE: the original reporter disputes the significance of this finding because \"there isn\u00c2\u2019t very much of an opportunity to exploit this reliably for an information leak, so there isn\u00c2\u2019t any real security impact.\"", "URL": "https://github.com/418sec/mjs/pull/2", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["cb397363aabfeb0f752649371a49c7d16cb0fa73"]}]
+[
+    {
+        "repo_name": "418sec/mjs",
+        "CVE_ID": "CVE-2021-31875",
+        "Problem_Type": "CWE-787",
+        "Description": "In mjs_json.c in Cesanta MongooseOS mJS 1.26, a maliciously formed JSON string can trigger an off-by-one heap-based buffer overflow in mjs_json_parse, which can potentially lead to redirection of control flow. NOTE: the original reporter disputes the significance of this finding because \"there isn\u00c2\u2019t very much of an opportunity to exploit this reliably for an information leak, so there isn\u00c2\u2019t any real security impact.\"",
+        "URL": "https://github.com/418sec/mjs/pull/2",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "cb397363aabfeb0f752649371a49c7d16cb0fa73"
+        ]
+    }
+]

@@ -1,1 +1,14 @@
-[{"repo_name": "caolan/forms", "CVE_ID": "CVE-2021-23388", "Problem_Type": "NVD-CWE-noinfo", "Description": "The package forms before 1.2.1, from 1.3.0 and before 1.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via email validation.", "URL": "https://github.com/caolan/forms/pull/214/commits/d4bd5b5febfe49c1f585f162e04ec810f8dc47a0", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "d4bd5b5febfe49c1f585f162e04ec810f8dc47a0", "inducing_commit_hash_pyszz": ["eff0c5597c27ae4bc5675d07e78485b18a3b8b88"]}]
+[
+    {
+        "repo_name": "caolan/forms",
+        "CVE_ID": "CVE-2021-23388",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The package forms before 1.2.1, from 1.3.0 and before 1.3.2 are vulnerable to Regular Expression Denial of Service (ReDoS) via email validation.",
+        "URL": "https://github.com/caolan/forms/pull/214/commits/d4bd5b5febfe49c1f585f162e04ec810f8dc47a0",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d4bd5b5febfe49c1f585f162e04ec810f8dc47a0",
+        "inducing_commit_hash_pyszz": [
+            "eff0c5597c27ae4bc5675d07e78485b18a3b8b88"
+        ]
+    }
+]

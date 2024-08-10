@@ -1,1 +1,12 @@
-[{"repo_name": "btcsuite/btcd", "CVE_ID": "CVE-2022-44797", "Problem_Type": "NVD-CWE-noinfo", "Description": "btcd before 0.23.2, as used in Lightning Labs lnd before 0.15.2-beta and other Bitcoin-related products, mishandles witness size checking.", "URL": "https://github.com/btcsuite/btcd/pull/1896", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "d0aa7473a6b593c807842888dc9fe781a5984a78", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "btcsuite/btcd",
+        "CVE_ID": "CVE-2022-44797",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "btcd before 0.23.2, as used in Lightning Labs lnd before 0.15.2-beta and other Bitcoin-related products, mishandles witness size checking.",
+        "URL": "https://github.com/btcsuite/btcd/pull/1896",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d0aa7473a6b593c807842888dc9fe781a5984a78",
+        "inducing_commit_hash_pyszz": []
+    }
+]

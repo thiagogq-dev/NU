@@ -1,1 +1,14 @@
-[{"repo_name": "containerbuildsystem/osbs-client", "CVE_ID": "CVE-2019-10135", "Problem_Type": "CWE-502", "Description": "A flaw was found in the yaml.load() function in the osbs-client versions since 0.46 before 0.56.1. Insecure use of the yaml.load() function allowed the user to load any suspicious object for code execution via the parsing of malicious YAML files.", "URL": "https://github.com/containerbuildsystem/osbs-client/pull/865", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "dee8ff1ea3a17bc93ead059b9567ae0ff965592c", "inducing_commit_hash_pyszz": ["43fcd4c62d3b5a6db1c8b6f9efd179ee30227970"]}]
+[
+    {
+        "repo_name": "containerbuildsystem/osbs-client",
+        "CVE_ID": "CVE-2019-10135",
+        "Problem_Type": "CWE-502",
+        "Description": "A flaw was found in the yaml.load() function in the osbs-client versions since 0.46 before 0.56.1. Insecure use of the yaml.load() function allowed the user to load any suspicious object for code execution via the parsing of malicious YAML files.",
+        "URL": "https://github.com/containerbuildsystem/osbs-client/pull/865",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "dee8ff1ea3a17bc93ead059b9567ae0ff965592c",
+        "inducing_commit_hash_pyszz": [
+            "43fcd4c62d3b5a6db1c8b6f9efd179ee30227970"
+        ]
+    }
+]

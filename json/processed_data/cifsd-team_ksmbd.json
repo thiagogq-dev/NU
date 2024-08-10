@@ -1,1 +1,14 @@
-[{"repo_name": "cifsd-team/ksmbd", "CVE_ID": "CVE-2021-45100", "Problem_Type": "CWE-319", "Description": "The ksmbd server through 3.4.2, as used in the Linux kernel through 5.15.8, sometimes communicates in cleartext even though encryption has been enabled. This occurs because it sets the SMB2_GLOBAL_CAP_ENCRYPTION flag when using the SMB 3.1.1 protocol, which is a violation of the SMB protocol specification. When Windows 10 detects this protocol violation, it disables encryption.", "URL": "https://github.com/cifsd-team/ksmbd/pull/551", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["43b80c50acc17a66ecf2896d612b2e73983d2f72"]}]
+[
+    {
+        "repo_name": "cifsd-team/ksmbd",
+        "CVE_ID": "CVE-2021-45100",
+        "Problem_Type": "CWE-319",
+        "Description": "The ksmbd server through 3.4.2, as used in the Linux kernel through 5.15.8, sometimes communicates in cleartext even though encryption has been enabled. This occurs because it sets the SMB2_GLOBAL_CAP_ENCRYPTION flag when using the SMB 3.1.1 protocol, which is a violation of the SMB protocol specification. When Windows 10 detects this protocol violation, it disables encryption.",
+        "URL": "https://github.com/cifsd-team/ksmbd/pull/551",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "43b80c50acc17a66ecf2896d612b2e73983d2f72"
+        ]
+    }
+]

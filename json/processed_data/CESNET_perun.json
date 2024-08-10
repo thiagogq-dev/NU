@@ -1,1 +1,12 @@
-[{"repo_name": "CESNET/perun", "CVE_ID": "CVE-2020-5281", "Problem_Type": "CWE-732", "Description": "In Perun before version 3.9.1, VO or group manager can modify configuration of the LDAP extSource to retrieve all from Perun LDAP. Issue is fixed in version 3.9.1 by sanitisation of the input.", "URL": "https://github.com/CESNET/perun/pull/2635", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "ac527bc3225a64208ee5cee59e5918ee360ca039", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "CESNET/perun",
+        "CVE_ID": "CVE-2020-5281",
+        "Problem_Type": "CWE-732",
+        "Description": "In Perun before version 3.9.1, VO or group manager can modify configuration of the LDAP extSource to retrieve all from Perun LDAP. Issue is fixed in version 3.9.1 by sanitisation of the input.",
+        "URL": "https://github.com/CESNET/perun/pull/2635",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ac527bc3225a64208ee5cee59e5918ee360ca039",
+        "inducing_commit_hash_pyszz": []
+    }
+]

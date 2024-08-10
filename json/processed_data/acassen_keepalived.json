@@ -1,1 +1,22 @@
-[{"repo_name": "acassen/keepalived", "CVE_ID": "CVE-2018-19115", "Problem_Type": "CWE-787", "Description": "keepalived before 2.0.7 has a heap-based buffer overflow when parsing HTTP status codes resulting in DoS or possibly unspecified other impact, because extract_status_code in lib/html.c has no validation of the status code and instead writes an unlimited amount of data to the heap.", "URL": "https://github.com/acassen/keepalived/pull/961/commits/f28015671a4b04785859d1b4b1327b367b6a10e9", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "f28015671a4b04785859d1b4b1327b367b6a10e9", "inducing_commit_hash_pyszz": []}, {"repo_name": "acassen/keepalived", "CVE_ID": "CVE-2018-19115", "Problem_Type": "CWE-787", "Description": "keepalived before 2.0.7 has a heap-based buffer overflow when parsing HTTP status codes resulting in DoS or possibly unspecified other impact, because extract_status_code in lib/html.c has no validation of the status code and instead writes an unlimited amount of data to the heap.", "URL": "https://github.com/acassen/keepalived/pull/961", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "271d286703ad782196cdedac1352308dac1a410f", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "acassen/keepalived",
+        "CVE_ID": "CVE-2018-19115",
+        "Problem_Type": "CWE-787",
+        "Description": "keepalived before 2.0.7 has a heap-based buffer overflow when parsing HTTP status codes resulting in DoS or possibly unspecified other impact, because extract_status_code in lib/html.c has no validation of the status code and instead writes an unlimited amount of data to the heap.",
+        "URL": "https://github.com/acassen/keepalived/pull/961/commits/f28015671a4b04785859d1b4b1327b367b6a10e9",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f28015671a4b04785859d1b4b1327b367b6a10e9",
+        "inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "acassen/keepalived",
+        "CVE_ID": "CVE-2018-19115",
+        "Problem_Type": "CWE-787",
+        "Description": "keepalived before 2.0.7 has a heap-based buffer overflow when parsing HTTP status codes resulting in DoS or possibly unspecified other impact, because extract_status_code in lib/html.c has no validation of the status code and instead writes an unlimited amount of data to the heap.",
+        "URL": "https://github.com/acassen/keepalived/pull/961",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "271d286703ad782196cdedac1352308dac1a410f",
+        "inducing_commit_hash_pyszz": []
+    }
+]

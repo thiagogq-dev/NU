@@ -1,1 +1,14 @@
-[{"repo_name": "CompassionCH/compassion-switzerland", "CVE_ID": "CVE-2019-15564", "Problem_Type": "CWE-89", "Description": "The Compassion Switzerland addons 10.01.4 for Odoo allow SQL injection in models/partner_compassion.py.", "URL": "https://github.com/CompassionCH/compassion-switzerland/pull/897", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "668d7b9f7b5946fee4add6e2abce2b40e652ef7a", "inducing_commit_hash_pyszz": ["0307c40a306a5f934f29f6bfeaac88abc24c56a4"]}]
+[
+    {
+        "repo_name": "CompassionCH/compassion-switzerland",
+        "CVE_ID": "CVE-2019-15564",
+        "Problem_Type": "CWE-89",
+        "Description": "The Compassion Switzerland addons 10.01.4 for Odoo allow SQL injection in models/partner_compassion.py.",
+        "URL": "https://github.com/CompassionCH/compassion-switzerland/pull/897",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "668d7b9f7b5946fee4add6e2abce2b40e652ef7a",
+        "inducing_commit_hash_pyszz": [
+            "0307c40a306a5f934f29f6bfeaac88abc24c56a4"
+        ]
+    }
+]

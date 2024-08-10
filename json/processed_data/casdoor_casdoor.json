@@ -1,1 +1,14 @@
-[{"repo_name": "casdoor/casdoor", "CVE_ID": "CVE-2022-24124", "Problem_Type": "CWE-89", "Description": "The query API in Casdoor before 1.13.1 has a SQL injection vulnerability related to the field and value parameters, as demonstrated by api/get-organizations.", "URL": "https://github.com/casdoor/casdoor/pull/442", "Tag": "['Exploit', 'Patch', 'Third Party Advisory']", "fix_commit_hash": "5ec0c7a89005819960d8fe07f5ddda13d1371b8c", "inducing_commit_hash_pyszz": ["9b6131890c2b7e4e65449c7a7f75a1221b14d0b9"]}]
+[
+    {
+        "repo_name": "casdoor/casdoor",
+        "CVE_ID": "CVE-2022-24124",
+        "Problem_Type": "CWE-89",
+        "Description": "The query API in Casdoor before 1.13.1 has a SQL injection vulnerability related to the field and value parameters, as demonstrated by api/get-organizations.",
+        "URL": "https://github.com/casdoor/casdoor/pull/442",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5ec0c7a89005819960d8fe07f5ddda13d1371b8c",
+        "inducing_commit_hash_pyszz": [
+            "9b6131890c2b7e4e65449c7a7f75a1221b14d0b9"
+        ]
+    }
+]

@@ -1,1 +1,14 @@
-[{"repo_name": "bagisto/bagisto", "CVE_ID": "CVE-2023-36236", "Problem_Type": "CWE-79", "Description": "Cross Site Scripting vulnerability in webkil Bagisto v.1.5.0 and before allows an attacker to execute arbitrary code via a crafted SVG file uplad.", "URL": "https://github.com/bagisto/bagisto/pull/4764/commits/7bbf0c4bb565fc2601f031f9bbcdfa06e24dbd45", "Tag": "['Patch']", "fix_commit_hash": "7bbf0c4bb565fc2601f031f9bbcdfa06e24dbd45", "inducing_commit_hash_pyszz": ["b37fe3d7a174d4429c73bfb1d5bc9864af9aaf80"]}]
+[
+    {
+        "repo_name": "bagisto/bagisto",
+        "CVE_ID": "CVE-2023-36236",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting vulnerability in webkil Bagisto v.1.5.0 and before allows an attacker to execute arbitrary code via a crafted SVG file uplad.",
+        "URL": "https://github.com/bagisto/bagisto/pull/4764/commits/7bbf0c4bb565fc2601f031f9bbcdfa06e24dbd45",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "7bbf0c4bb565fc2601f031f9bbcdfa06e24dbd45",
+        "inducing_commit_hash_pyszz": [
+            "b37fe3d7a174d4429c73bfb1d5bc9864af9aaf80"
+        ]
+    }
+]

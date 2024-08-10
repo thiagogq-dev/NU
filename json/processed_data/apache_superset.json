@@ -1,1 +1,14 @@
-[{"repo_name": "apache/superset", "CVE_ID": "CVE-2023-36387", "Problem_Type": "CWE-863", "Description": "An improper default REST API permission for Gamma users in Apache Superset up to and including 2.1.0 allows for an authenticated Gamma user to test database connections.\n", "URL": "https://github.com/apache/superset/pull/24185", "Tag": "['Patch']", "fix_commit_hash": "8fab3dbff419165dbd55b197c6e9ed04fe227296", "inducing_commit_hash_pyszz": ["790ac5ef870815978f56ce81b806d43c18421940"]}]
+[
+    {
+        "repo_name": "apache/superset",
+        "CVE_ID": "CVE-2023-36387",
+        "Problem_Type": "CWE-863",
+        "Description": "An improper default REST API permission for Gamma users in Apache Superset up to and including 2.1.0 allows for an authenticated Gamma user to test database connections.\n",
+        "URL": "https://github.com/apache/superset/pull/24185",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "8fab3dbff419165dbd55b197c6e9ed04fe227296",
+        "inducing_commit_hash_pyszz": [
+            "790ac5ef870815978f56ce81b806d43c18421940"
+        ]
+    }
+]

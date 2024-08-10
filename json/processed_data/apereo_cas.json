@@ -1,1 +1,14 @@
-[{"repo_name": "apereo/cas", "CVE_ID": "CVE-2020-7226", "Problem_Type": "CWE-770", "Description": "CiphertextHeader.java in Cryptacular 1.2.3, as used in Apereo CAS and other products, allows attackers to trigger excessive memory allocation during a decode operation, because the nonce array length associated with \"new byte\" may depend on untrusted input within the header of encoded data.", "URL": "https://github.com/apereo/cas/pull/4685", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "0def99e37feb0d403b7eb2299c864bbf1ecf8d7c", "inducing_commit_hash_pyszz": ["70a074905ad24e6cca5f048f23a11a6b4dd905e0"]}]
+[
+    {
+        "repo_name": "apereo/cas",
+        "CVE_ID": "CVE-2020-7226",
+        "Problem_Type": "CWE-770",
+        "Description": "CiphertextHeader.java in Cryptacular 1.2.3, as used in Apereo CAS and other products, allows attackers to trigger excessive memory allocation during a decode operation, because the nonce array length associated with \"new byte\" may depend on untrusted input within the header of encoded data.",
+        "URL": "https://github.com/apereo/cas/pull/4685",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0def99e37feb0d403b7eb2299c864bbf1ecf8d7c",
+        "inducing_commit_hash_pyszz": [
+            "70a074905ad24e6cca5f048f23a11a6b4dd905e0"
+        ]
+    }
+]

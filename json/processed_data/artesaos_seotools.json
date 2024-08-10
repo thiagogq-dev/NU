@@ -1,1 +1,32 @@
-[{"repo_name": "artesaos/seotools", "CVE_ID": "CVE-2020-36663", "Problem_Type": "CWE-601", "Description": "A vulnerability, which was classified as problematic, was found in Artes\u00c3\u00a3os SEOTools up to 0.17.1. This affects the function makeTag of the file OpenGraph.php. The manipulation of the argument value leads to open redirect. Upgrading to version 0.17.2 is able to address this issue. The patch is named ca27cd0edf917e0bc805227013859b8b5a1f01fb. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-222231.", "URL": "https://github.com/artesaos/seotools/pull/201", "Tag": "['Exploit', 'Patch']", "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb", "inducing_commit_hash_pyszz": []}, {"repo_name": "artesaos/seotools", "CVE_ID": "CVE-2020-36664", "Problem_Type": "CWE-601", "Description": "A vulnerability has been found in Artes\u00c3\u00a3os SEOTools up to 0.17.1 and classified as problematic. This vulnerability affects the function setTitle of the file SEOMeta.php. The manipulation of the argument title leads to open redirect. Upgrading to version 0.17.2 is able to address this issue. The name of the patch is ca27cd0edf917e0bc805227013859b8b5a1f01fb. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-222232.", "URL": "https://github.com/artesaos/seotools/pull/201", "Tag": "['Exploit', 'Patch']", "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb", "inducing_commit_hash_pyszz": []}, {"repo_name": "artesaos/seotools", "CVE_ID": "CVE-2020-36665", "Problem_Type": "CWE-601", "Description": "A vulnerability was found in Artes\u00c3\u00a3os SEOTools up to 0.17.1 and classified as critical. This issue affects the function eachValue of the file TwitterCards.php. The manipulation of the argument value leads to open redirect. Upgrading to version 0.17.2 is able to address this issue. The identifier of the patch is ca27cd0edf917e0bc805227013859b8b5a1f01fb. It is recommended to upgrade the affected component. The identifier VDB-222233 was assigned to this vulnerability.", "URL": "https://github.com/artesaos/seotools/pull/201", "Tag": "['Exploit', 'Patch']", "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "artesaos/seotools",
+        "CVE_ID": "CVE-2020-36663",
+        "Problem_Type": "CWE-601",
+        "Description": "A vulnerability, which was classified as problematic, was found in Artes\u00c3\u00a3os SEOTools up to 0.17.1. This affects the function makeTag of the file OpenGraph.php. The manipulation of the argument value leads to open redirect. Upgrading to version 0.17.2 is able to address this issue. The patch is named ca27cd0edf917e0bc805227013859b8b5a1f01fb. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-222231.",
+        "URL": "https://github.com/artesaos/seotools/pull/201",
+        "Tag": "['Exploit', 'Patch']",
+        "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
+        "inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "artesaos/seotools",
+        "CVE_ID": "CVE-2020-36664",
+        "Problem_Type": "CWE-601",
+        "Description": "A vulnerability has been found in Artes\u00c3\u00a3os SEOTools up to 0.17.1 and classified as problematic. This vulnerability affects the function setTitle of the file SEOMeta.php. The manipulation of the argument title leads to open redirect. Upgrading to version 0.17.2 is able to address this issue. The name of the patch is ca27cd0edf917e0bc805227013859b8b5a1f01fb. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-222232.",
+        "URL": "https://github.com/artesaos/seotools/pull/201",
+        "Tag": "['Exploit', 'Patch']",
+        "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
+        "inducing_commit_hash_pyszz": []
+    },
+    {
+        "repo_name": "artesaos/seotools",
+        "CVE_ID": "CVE-2020-36665",
+        "Problem_Type": "CWE-601",
+        "Description": "A vulnerability was found in Artes\u00c3\u00a3os SEOTools up to 0.17.1 and classified as critical. This issue affects the function eachValue of the file TwitterCards.php. The manipulation of the argument value leads to open redirect. Upgrading to version 0.17.2 is able to address this issue. The identifier of the patch is ca27cd0edf917e0bc805227013859b8b5a1f01fb. It is recommended to upgrade the affected component. The identifier VDB-222233 was assigned to this vulnerability.",
+        "URL": "https://github.com/artesaos/seotools/pull/201",
+        "Tag": "['Exploit', 'Patch']",
+        "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
+        "inducing_commit_hash_pyszz": []
+    }
+]

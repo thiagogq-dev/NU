@@ -1,1 +1,12 @@
-[{"repo_name": "aws/aws-sdk-js", "CVE_ID": "CVE-2020-28472", "Problem_Type": "NVD-CWE-noinfo", "Description": "This affects the package @aws-sdk/shared-ini-file-loader before 1.0.0-rc.9; the package aws-sdk before 2.814.0. If an attacker submits a malicious INI file to an application that parses it with loadSharedConfigFiles , they will pollute the prototype on the application. This can be exploited further depending on the context.", "URL": "https://github.com/aws/aws-sdk-js/pull/3585/commits/7d72aff2a941173733fcb6741b104cd83d3bc611", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "dd83d672170e8cc0c52a20df29a43e7663e5336a", "inducing_commit_hash_pyszz": []}]
+[
+    {
+        "repo_name": "aws/aws-sdk-js",
+        "CVE_ID": "CVE-2020-28472",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "This affects the package @aws-sdk/shared-ini-file-loader before 1.0.0-rc.9; the package aws-sdk before 2.814.0. If an attacker submits a malicious INI file to an application that parses it with loadSharedConfigFiles , they will pollute the prototype on the application. This can be exploited further depending on the context.",
+        "URL": "https://github.com/aws/aws-sdk-js/pull/3585/commits/7d72aff2a941173733fcb6741b104cd83d3bc611",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "dd83d672170e8cc0c52a20df29a43e7663e5336a",
+        "inducing_commit_hash_pyszz": []
+    }
+]
