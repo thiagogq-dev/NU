@@ -7,7 +7,9 @@
         "URL": "https://github.com/ClickHouse/ClickHouse/pull/7526/files",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "0da5b93c169baa24e1314828883fb244116cf152",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ClickHouse/ClickHouse",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/ClickHouse/ClickHouse/pull/56795",
         "Tag": "['Patch']",
         "fix_commit_hash": "9401b904173d7b4a3deb5fce173e87a33ecc64e8",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ClickHouse/ClickHouse",
@@ -27,6 +31,8 @@
         "URL": "https://github.com/ClickHouse/ClickHouse/pull/57107",
         "Tag": "['Patch']",
         "fix_commit_hash": "87fc2a13483321c480698c049cdab8b6f3cf957f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
