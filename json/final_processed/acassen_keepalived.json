@@ -7,7 +7,12 @@
         "URL": "https://github.com/acassen/keepalived/pull/961/commits/f28015671a4b04785859d1b4b1327b367b6a10e9",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "f28015671a4b04785859d1b4b1327b367b6a10e9",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "33a4dd3613a3ad7717a5faa8f0840817f2070914",
+            "e023f42b44e50c5768d09100136cb9a3a8d9bc21"
+        ],
+        "matched": []
     },
     {
         "repo_name": "acassen/keepalived",
@@ -17,6 +22,8 @@
         "URL": "https://github.com/acassen/keepalived/pull/961",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "271d286703ad782196cdedac1352308dac1a410f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
