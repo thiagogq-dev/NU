@@ -9,7 +9,19 @@
         "fix_commit_hash": "8c1f701e6e9df29fe991f98265e2dd76acca4b8c",
         "inducing_commit_hash_pyszz": [
             "2af36412f9a5bb5ad0085cbfe34b71626b197555"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "8bf1c53b21ee30d426d9cfe1e87461ddc040670a",
+            "e972287c359654d65294fa89002a1f900a3a870e",
+            "e7d8ebf08038c672a6f9397cc9b9a66465af5547",
+            "6373f2b0455ad023aef0f567d9c6469c12ba7f85",
+            "b004a6373a743c950bf8afc9fc4625451a7eeb9e",
+            "e87cf4a3cc2d74695b226e6ff073da342f72abf2",
+            "f0134079e3aaff3a6c8d31ff55cd3d01c82f2bc8",
+            "0ee46cb0df007dc2e417666de244afd54d619ed3",
+            "36ad934156bd55adb337fc885b68bd661a92f5fa"
+        ],
+        "matched": []
     },
     {
         "repo_name": "ansible/ansible",
@@ -20,6 +32,14 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "ba4c2ebeac9ee801bfedff05f504c71da0dd2bc2",
         "inducing_commit_hash_pyszz": [
+            "673c55f2efce52c155872c80b0bff160e4a7b7b7"
+        ],
+        "inducing_commit_hash_pd": [
+            "673c55f2efce52c155872c80b0bff160e4a7b7b7",
+            "1fe67f9f436595003f7951dd88159731e6d82498",
+            "9f0be5a5569495a705b4cca94b48a6a8c7437896"
+        ],
+        "matched": [
             "673c55f2efce52c155872c80b0bff160e4a7b7b7"
         ]
     },
@@ -33,6 +53,19 @@
         "fix_commit_hash": "b9b0b230150eceb442c34c917d9e852d5e8b7371",
         "inducing_commit_hash_pyszz": [
             "c54d79bc131c96e039a8981a7ad4e061cd83d744"
+        ],
+        "inducing_commit_hash_pd": [
+            "62d79568be16084718bda2d890b2b4e1d10cc41d",
+            "50f2313b47eed5eb338dc28afcb0ef9cdb34e339",
+            "b3e85b76d7f5c109ca932942abd1e3ccbb8ebe8c",
+            "ad91793428736f7bb1b9e3e89f82de944cdab2fb",
+            "039706a23904fb86bbd770357e6033ccf5dd6f1d",
+            "dc48d27dd2c49e95a719d7f7596f0b68e0ddef7f",
+            "c54d79bc131c96e039a8981a7ad4e061cd83d744",
+            "dd46f953f6c88bc159c532b17e9b5c7e34f216bc"
+        ],
+        "matched": [
+            "c54d79bc131c96e039a8981a7ad4e061cd83d744"
         ]
     },
     {
@@ -45,6 +78,12 @@
         "fix_commit_hash": "cb0f535a8b254a2daf69cd067e842fabb2993034",
         "inducing_commit_hash_pyszz": [
             "0089eb81027b325551d5efef900cde841c3c093e"
+        ],
+        "inducing_commit_hash_pd": [
+            "0089eb81027b325551d5efef900cde841c3c093e"
+        ],
+        "matched": [
+            "0089eb81027b325551d5efef900cde841c3c093e"
         ]
     },
     {
@@ -55,7 +94,9 @@
         "URL": "https://github.com/ansible/ansible/pull/63527",
         "Tag": "['Patch', 'Vendor Advisory']",
         "fix_commit_hash": "c76e074e4c71c7621a1ca8159261c1959b5287af",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ansible/ansible",
@@ -65,7 +106,9 @@
         "URL": "https://github.com/ansible/ansible/pull/65686",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "7d2ae7e3226cdc8e37aea83c202aeb0e7e5a1aec",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ansible/ansible",
@@ -77,7 +120,11 @@
         "fix_commit_hash": "b34d141eede8731e63cbb0312efce31559c44022",
         "inducing_commit_hash_pyszz": [
             "3518a05db6ea2616888dba02863f51b395616647"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "5766689dd5f0760c5f96173eacb2bce169f17b81"
+        ],
+        "matched": []
     },
     {
         "repo_name": "ansible/ansible",
@@ -89,6 +136,13 @@
         "fix_commit_hash": "6452a82452f3a721233b50f62419598206442fd9",
         "inducing_commit_hash_pyszz": [
             "f787be359773cb57f0c3b40bc4e2c0256d06f32c"
+        ],
+        "inducing_commit_hash_pd": [
+            "cdf6e3e4bf44fdab62c2e4ccd3f5fd67ea554548",
+            "f787be359773cb57f0c3b40bc4e2c0256d06f32c"
+        ],
+        "matched": [
+            "f787be359773cb57f0c3b40bc4e2c0256d06f32c"
         ]
     },
     {
@@ -99,7 +153,12 @@
         "URL": "https://github.com/ansible/ansible/pull/68596",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "a20a52701402a12f91396549df04ac55809f68e9",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "b6791e6ae3891951fc38518fdb52d53219987498",
+            "97f011cf94853fa41e7b1540db1526048c7f71eb"
+        ],
+        "matched": []
     },
     {
         "repo_name": "ansible/ansible",
@@ -110,6 +169,12 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "991714b9d1e878a4c2fda67ffd829724fa7ac67e",
         "inducing_commit_hash_pyszz": [
+            "80940a6b1c7b24cc4641625a007bd70921ecb584"
+        ],
+        "inducing_commit_hash_pd": [
+            "80940a6b1c7b24cc4641625a007bd70921ecb584"
+        ],
+        "matched": [
             "80940a6b1c7b24cc4641625a007bd70921ecb584"
         ]
     },
@@ -123,7 +188,11 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [
             "885e3766a8d637c00254d25ea91e77733cc904b8"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "d3deb24ead59d5fdbecad3c946848537f95772ad"
+        ],
+        "matched": []
     },
     {
         "repo_name": "ansible/ansible",
@@ -134,6 +203,16 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "0cdc410dce6658e93c06fa27e0100ddbb11e7015",
         "inducing_commit_hash_pyszz": [
+            "3b0e9ded91b6e2cabd77e13e0469b55d7b8de642"
+        ],
+        "inducing_commit_hash_pd": [
+            "305c88700de7fc17de80b2f58fb6d44180573e61",
+            "d34a26e30729c39c83dba4a46203c5c100a3eaeb",
+            "3b0e9ded91b6e2cabd77e13e0469b55d7b8de642",
+            "6e5055e7868414ce1aeab48756177350c4dd6ba0",
+            "97a34cf008501088ae012f24e4712e2bc6dd6d4c"
+        ],
+        "matched": [
             "3b0e9ded91b6e2cabd77e13e0469b55d7b8de642"
         ]
     },
@@ -147,6 +226,11 @@
         "fix_commit_hash": "6935c8e303440addd3871ecf8e04bde61080b032",
         "inducing_commit_hash_pyszz": [
             "df1001577f68a319a2594de0bb993ec4e91c2068"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "43153c58310d02223f2cb0964f4255ba1ac4ed53",
+            "37a918438b2363a66c5d7a7bb1320b68fd4460c7"
+        ],
+        "matched": []
     }
 ]
