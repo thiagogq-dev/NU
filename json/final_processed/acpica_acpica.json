@@ -7,7 +7,9 @@
         "URL": "https://github.com/acpica/acpica/pull/295/commits/987a3b5cf7175916e2a4b6ea5b8e70f830dfe732",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "acpica/acpica",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/acpica/acpica/pull/278/commits/4a0243ecb4c94e2d73510d096c5ea4d0711fc6c0",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "acpica/acpica",
@@ -27,6 +31,8 @@
         "URL": "https://github.com/acpica/acpica/pull/296/commits/37f2c716f2c6ab14c3ba557a539c3ee3224931b5",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "37f2c716f2c6ab14c3ba557a539c3ee3224931b5",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
