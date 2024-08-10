@@ -9,6 +9,14 @@
         "fix_commit_hash": "6a9f8af6e89547bcd370ae3cec2b12849eee0b54",
         "inducing_commit_hash_pyszz": [
             "f580a0ba13dbead561e25dd89e9ce46df941b834"
+        ],
+        "inducing_commit_hash_pd": [
+            "f580a0ba13dbead561e25dd89e9ce46df941b834",
+            "6cf09aea90c21f95c651ba91bc617ea351bacfad",
+            "9f011ae9ce9b1ca03521ff76e7659d34ee830344"
+        ],
+        "matched": [
+            "f580a0ba13dbead561e25dd89e9ce46df941b834"
         ]
     },
     {
@@ -20,6 +28,12 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "85fd638ae0d5fa132434f4cbf32590261c1dba97",
         "inducing_commit_hash_pyszz": [
+            "e08946ade358313859a03fa367f647ef223a192c"
+        ],
+        "inducing_commit_hash_pd": [
+            "e08946ade358313859a03fa367f647ef223a192c"
+        ],
+        "matched": [
             "e08946ade358313859a03fa367f647ef223a192c"
         ]
     },
@@ -33,6 +47,12 @@
         "fix_commit_hash": "ed560b8a932c78d5e8e5990ce36fe7808b35d9f0",
         "inducing_commit_hash_pyszz": [
             "801272c9bf8b84a66c62f1e8a4490ece81da6a56"
+        ],
+        "inducing_commit_hash_pd": [
+            "801272c9bf8b84a66c62f1e8a4490ece81da6a56"
+        ],
+        "matched": [
+            "801272c9bf8b84a66c62f1e8a4490ece81da6a56"
         ]
     },
     {
@@ -44,6 +64,13 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "5b6886cbd972ebe4be8f10e8a0dd50ddffc71c23",
         "inducing_commit_hash_pyszz": [
+            "d80f11f4f55100d007ae80a162bf257ec291612c"
+        ],
+        "inducing_commit_hash_pd": [
+            "d80f11f4f55100d007ae80a162bf257ec291612c",
+            "9f011ae9ce9b1ca03521ff76e7659d34ee830344"
+        ],
+        "matched": [
             "d80f11f4f55100d007ae80a162bf257ec291612c"
         ]
     },
@@ -57,6 +84,13 @@
         "fix_commit_hash": "31472b638bb2bd7020a3465d6e6ddffd564ae0ea",
         "inducing_commit_hash_pyszz": [
             "50e9b31cc1069a787458b368b64e6452f7541da1"
+        ],
+        "inducing_commit_hash_pd": [
+            "50e9b31cc1069a787458b368b64e6452f7541da1",
+            "5788a07609d3a24df80afa9d6e95d9c541da70e6"
+        ],
+        "matched": [
+            "50e9b31cc1069a787458b368b64e6452f7541da1"
         ]
     },
     {
@@ -69,6 +103,15 @@
         "fix_commit_hash": "51a92d67f53c08230734e74564c807043cbfe41e",
         "inducing_commit_hash_pyszz": [
             "88246d991e0318c043e6f584f7493da08a31f9f8"
+        ],
+        "inducing_commit_hash_pd": [
+            "6e37ef8aed4e20ea834f570845533b65a97a3bc4",
+            "7f0c9e256f34cac5a31e9d9cce00ccc898f49f3b",
+            "88246d991e0318c043e6f584f7493da08a31f9f8",
+            "51845c1e857549d95c6bc27aa1aff37eebe244ed"
+        ],
+        "matched": [
+            "88246d991e0318c043e6f584f7493da08a31f9f8"
         ]
     },
     {
@@ -79,6 +122,8 @@
         "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/1209",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "11cad77da87c4fa2aab7d58dd5339e254db7937e",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
