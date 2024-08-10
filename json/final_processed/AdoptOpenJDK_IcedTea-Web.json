@@ -7,7 +7,9 @@
         "URL": "https://github.com/AdoptOpenJDK/IcedTea-Web/pull/344",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1054d590fba29775f48b0805e3db99ae7efb35aa",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "AdoptOpenJDK/IcedTea-Web",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/AdoptOpenJDK/IcedTea-Web/pull/344",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1054d590fba29775f48b0805e3db99ae7efb35aa",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "AdoptOpenJDK/IcedTea-Web",
@@ -27,6 +31,8 @@
         "URL": "https://github.com/AdoptOpenJDK/IcedTea-Web/pull/344",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1054d590fba29775f48b0805e3db99ae7efb35aa",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
