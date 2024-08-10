@@ -9,6 +9,12 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [
             "cb397363aabfeb0f752649371a49c7d16cb0fa73"
+        ],
+        "inducing_commit_hash_pd": [
+            "cb397363aabfeb0f752649371a49c7d16cb0fa73"
+        ],
+        "matched": [
+            "cb397363aabfeb0f752649371a49c7d16cb0fa73"
         ]
     }
 ]
