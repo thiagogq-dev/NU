@@ -7,7 +7,9 @@
         "URL": "https://github.com/ahmyi/rivettracker/pull/1",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "65b1447a919ebecc2bec84146a05a6de490d8f03",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ahmyi/rivettracker",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/ahmyi/rivettracker/pull/1",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "65b1447a919ebecc2bec84146a05a6de490d8f03",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
