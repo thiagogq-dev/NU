@@ -9,6 +9,13 @@
         "fix_commit_hash": "6b830a1640ca20528032c89a4fdd8291a4d2d8b2",
         "inducing_commit_hash_pyszz": [
             "0f594b0948dc1216bfe29fec58b0a8e54f21890b"
+        ],
+        "inducing_commit_hash_pd": [
+            "68f67b1a3a4d319543692afb5bd5b191ec984287",
+            "0f594b0948dc1216bfe29fec58b0a8e54f21890b"
+        ],
+        "matched": [
+            "0f594b0948dc1216bfe29fec58b0a8e54f21890b"
         ]
     },
     {
@@ -21,6 +28,13 @@
         "fix_commit_hash": "6b830a1640ca20528032c89a4fdd8291a4d2d8b2",
         "inducing_commit_hash_pyszz": [
             "0f594b0948dc1216bfe29fec58b0a8e54f21890b"
+        ],
+        "inducing_commit_hash_pd": [
+            "68f67b1a3a4d319543692afb5bd5b191ec984287",
+            "0f594b0948dc1216bfe29fec58b0a8e54f21890b"
+        ],
+        "matched": [
+            "0f594b0948dc1216bfe29fec58b0a8e54f21890b"
         ]
     },
     {
@@ -31,7 +45,9 @@
         "URL": "https://github.com/appneta/tcpreplay/pull/720",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "appneta/tcpreplay",
@@ -41,7 +57,9 @@
         "URL": "https://github.com/appneta/tcpreplay/pull/781",
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "7aca59e4fc96fc1d0e43a3d64b2f9fc9a46b6ca8",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "appneta/tcpreplay",
@@ -51,7 +69,9 @@
         "URL": "https://github.com/appneta/tcpreplay/pull/783",
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "342d29d9e42898b1e097a9f9a31fe0ad15d2f43b",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "appneta/tcpreplay",
@@ -61,6 +81,8 @@
         "URL": "https://github.com/appneta/tcpreplay/pull/783",
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "342d29d9e42898b1e097a9f9a31fe0ad15d2f43b",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
