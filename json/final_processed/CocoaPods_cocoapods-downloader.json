@@ -7,7 +7,9 @@
         "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/127",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "d2564c3aa470ffd0856e50d88a0bdf6328e0c0f7",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "CocoaPods/cocoapods-downloader",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/128",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "52a0d54464932a90ded5a59c71a016e8dec0ca84",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "CocoaPods/cocoapods-downloader",
@@ -27,6 +31,8 @@
         "URL": "https://github.com/CocoaPods/cocoapods-downloader/pull/124",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "b70bc39c75645aa6d4a01a3ca6de40477c84f4b5",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
