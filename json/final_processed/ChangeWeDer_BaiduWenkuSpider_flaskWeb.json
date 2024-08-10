@@ -7,6 +7,8 @@
         "URL": "https://github.com/ChangeWeDer/BaiduWenkuSpider_flaskWeb/pull/3",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "fe9a39ef774d297fbcd2eae191eb17a08049ab16",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
