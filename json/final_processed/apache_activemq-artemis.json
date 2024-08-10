@@ -7,6 +7,11 @@
         "URL": "https://github.com/apache/activemq-artemis/pull/3871/commits",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "72a4fff1673477d78a85c415d48a2c74afda81fa",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "8ecd255f981e5d806173cf86f6fac9c4c7c25167",
+            "bac96047f5752647fb0ebf01bacbcfb36f715e06"
+        ],
+        "matched": []
     }
 ]
