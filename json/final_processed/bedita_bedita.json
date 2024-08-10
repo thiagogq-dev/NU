@@ -7,6 +7,8 @@
         "URL": "https://github.com/bedita/bedita/pull/1608",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "0ddcd46d645c773e69369f3ed82c865a4d098454",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
