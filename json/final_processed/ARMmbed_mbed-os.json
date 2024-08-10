@@ -7,7 +7,9 @@
         "URL": "https://github.com/ARMmbed/mbed-os/pull/14408",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "52eedfd86ec5147443dc4c9b0f0d75498a85c148",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ARMmbed/mbed-os",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/ARMmbed/mbed-os/pull/14408",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "52eedfd86ec5147443dc4c9b0f0d75498a85c148",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
