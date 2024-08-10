@@ -7,7 +7,9 @@
         "URL": "https://github.com/argoproj/argo-cd/pull/3088",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "916d4aed5775fead4ab75f47c1d352cd0e73b815",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -18,6 +20,49 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "3c2be618276369c0a9e60a49d9b8151f0136fde7",
         "inducing_commit_hash_pyszz": [
+            "fdf7566bb7488fed194858f383a3424a8a770c51"
+        ],
+        "inducing_commit_hash_pd": [
+            "fa4b76161211727b63b1abda66a587aa5fd048ba",
+            "cbf9585d8451b550bf4359c71072aa01b2b9b87f",
+            "0f2a88102dcd3212161454f8d431445e1cdee538",
+            "20adad76ef811773c06231b0dd38a733d956cb34",
+            "19906ded5b6cb1ac3144156c1a37bf7c82958ca2",
+            "dc8a2f5d6228b6b6cd139bdcd7c99ef5fdc98adf",
+            "7b6b945cbf46af11cef182a92d7fe72fcb1354d3",
+            "abf6888dd505a1a79444155b316cf53169b6f343",
+            "5cedfb8ead830e4cdea73e83b9d17e0f618c9529",
+            "dc662da3d605bd7189ce6c06b0dbc1661d4bf2fb",
+            "b2b5eea3431b076bc185a5c8af4683c6f2c3838a",
+            "173ecd9397a6a91c85931675874b0a9550be1346",
+            "fdf7566bb7488fed194858f383a3424a8a770c51",
+            "00134d2faf736927c010c691862a5cd5601f490b",
+            "0479fcdf82b1719fd97767ea74509063e9308b0a",
+            "4f6b686ed7a49103e2bdd08b2baefd7811887ba2",
+            "66b4f3a685782f423b3b09456c13d85a58cbc879",
+            "0ea0404044f69c7f70ff3c7e61ea0eef0f611df5",
+            "48ef2e919e52ccf1f13a5816a0bd09246d542f45",
+            "212ca9e37ee93366a6f95c54593fe572b5413c8b",
+            "416969730235593181ab88dc0d6efb80ff0e7902",
+            "d715ac9e53dfaa7dbe6377bcc65cb77481158b00",
+            "134469c5f0c7d08d68c3bbe1d4a5d03f7244d4d1",
+            "eb7f942acbad6ae2b88130e42215e9359f352353",
+            "456ae3ab841ffb48e5f45c1a25ee36f15e45c02d",
+            "7d86b51246503f9a082359efffb5649bf8b046f3",
+            "4296a87e6b5f498a55a47e1af4d0fed7f3c2493b",
+            "60fedf09850060c4337ecfdd2d21ab148ffbd3f2",
+            "09067585faf419e51a549a9c4c38192b41c598c3",
+            "6bc98f91b146ab56cd9cbdd66d756cb281730c59",
+            "7fd326eb21d4c1de01dfb38b2565688d0abe4a90",
+            "ac938fe8a3af46f7aac07d607bfdd0a375e74103",
+            "062b13e92a2ae38408a5b2a007accb46ab84ca8d",
+            "670921df902855b209094b59f32ce3e051a847fd",
+            "f8a4d662f2f86db193092addbda1ab3972a0194b",
+            "5be6db4689856aa5e5d9d7aecaf1c9c1594d3651",
+            "5953080c96b3de29844039faa0cc61ec25b28907",
+            "66f64fbf151fa450a7023958b967231d30899cb3"
+        ],
+        "matched": [
             "fdf7566bb7488fed194858f383a3424a8a770c51"
         ]
     },
@@ -31,7 +76,11 @@
         "fix_commit_hash": "e896c0e4b46974288f61f612701c34d171e05456",
         "inducing_commit_hash_pyszz": [
             "dc662da3d605bd7189ce6c06b0dbc1661d4bf2fb"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "5c7a3329f390e61f63b2f0565c364cdfa7d48d41"
+        ],
+        "matched": []
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -43,7 +92,11 @@
         "fix_commit_hash": "17167fc2e7e28a5b25151c8a269ea17477038aba",
         "inducing_commit_hash_pyszz": [
             "5515b8ce9ddd2133c4b49c01d771122e5738ee39"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "c6fa942e945977afe2ae78c86670d5bb667b609e"
+        ],
+        "matched": []
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -55,6 +108,15 @@
         "fix_commit_hash": "7122b83fc346ec2729227405a2f9c2aa84b0bf80",
         "inducing_commit_hash_pyszz": [
             "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "58ac345f2bd4054a12b4991a8909c56a035867d9",
+            "10d05cdb60fe65770809e58eee400b5d92764228",
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa",
+            "12ec99ad01a945e045225e5c239f8ee203e8139a"
+        ],
+        "matched": [
+            "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
         ]
     },
     {
@@ -65,6 +127,8 @@
         "URL": "https://github.com/argoproj/argo-cd/pull/16860",
         "Tag": "['Patch']",
         "fix_commit_hash": "7ec9999b01b26e760ff8f96ce7fac20c02fab6c8",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
