@@ -9,6 +9,13 @@
         "fix_commit_hash": "0967b516b69a6e9438a19f8f6953cf1d7d2d9aa6",
         "inducing_commit_hash_pyszz": [
             "d7411be855570e5dcae2e1d47b9571f0b81b8c05"
+        ],
+        "inducing_commit_hash_pd": [
+            "71a8936e107baa5f8030359381cb31fd047363ed",
+            "d7411be855570e5dcae2e1d47b9571f0b81b8c05"
+        ],
+        "matched": [
+            "d7411be855570e5dcae2e1d47b9571f0b81b8c05"
         ]
     },
     {
@@ -20,6 +27,24 @@
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "c1dbca67796f635711ff84ea9f8b4365039efa39",
         "inducing_commit_hash_pyszz": [
+            "5c1ad6403e12a97a3c6ad8945bd02bd48445b88d"
+        ],
+        "inducing_commit_hash_pd": [
+            "828339605657c978388415c011e21295ab19a503",
+            "e6b77a129961251a6a19a03f6d4e1a73027c4614",
+            "91e308665bb28fcf34e931a11fba7713db832e87",
+            "52bfd258248c8c8b3ab9597a2d5eb0d5291551e7",
+            "5c1ad6403e12a97a3c6ad8945bd02bd48445b88d",
+            "6df4dafead811b3a9484fe8fbd152cd1c642d00b",
+            "217e36aaa992ed5599d177a28161673e1cc496fa",
+            "eeaa26a7ccb907dc7814dfb3aee9135b467c5f9a",
+            "fa1a0549fffa0577389548ef4d3c979492caa8ce",
+            "0bb99dd087d100cf51643f32f31f39ce3ae06e29",
+            "a00c144e85d51af9e5b1c5e691fcd28bf5b967a0",
+            "470f2fafcdfd7502910e32a02fd67db85a0cf136",
+            "247e5d7ea4ad40f49c880a740414d19aa65588e0"
+        ],
+        "matched": [
             "5c1ad6403e12a97a3c6ad8945bd02bd48445b88d"
         ]
     }
