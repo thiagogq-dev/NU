@@ -7,6 +7,8 @@
         "URL": "https://github.com/ClickHouse/clickhouse-java/pull/1334",
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "23bd399378e0d968c5766460e86d68624c6d04a8",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
