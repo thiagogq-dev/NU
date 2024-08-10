@@ -7,7 +7,9 @@
         "URL": "https://github.com/artesaos/seotools/pull/201",
         "Tag": "['Exploit', 'Patch']",
         "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "artesaos/seotools",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/artesaos/seotools/pull/201",
         "Tag": "['Exploit', 'Patch']",
         "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "artesaos/seotools",
@@ -27,6 +31,8 @@
         "URL": "https://github.com/artesaos/seotools/pull/201",
         "Tag": "['Exploit', 'Patch']",
         "fix_commit_hash": "ca27cd0edf917e0bc805227013859b8b5a1f01fb",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
