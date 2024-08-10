@@ -7,7 +7,9 @@
         "URL": "https://github.com/ClusterLabs/pacemaker/pull/1749",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "bab7de5fd26ac367f5d51d0f19c9734ab4ff6697",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ClusterLabs/pacemaker",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/ClusterLabs/pacemaker/pull/1749",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "bab7de5fd26ac367f5d51d0f19c9734ab4ff6697",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ClusterLabs/pacemaker",
@@ -27,6 +31,8 @@
         "URL": "https://github.com/ClusterLabs/pacemaker/pull/1749",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "bab7de5fd26ac367f5d51d0f19c9734ab4ff6697",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
