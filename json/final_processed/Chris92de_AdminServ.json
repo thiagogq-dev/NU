@@ -7,7 +7,9 @@
         "URL": "https://github.com/Chris92de/AdminServ/pull/7",
         "Tag": "['Patch']",
         "fix_commit_hash": "3ed17dab3b4d6e8bf1c82ddfbf882314365e9cd7",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "Chris92de/AdminServ",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/Chris92de/AdminServ/pull/6",
         "Tag": "['Patch']",
         "fix_commit_hash": "9a45087814295de6fb3a3fe38f96293665234da1",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
