@@ -7,6 +7,8 @@
         "URL": "https://github.com/Azure/ipam/pull/218",
         "Tag": "['Patch']",
         "fix_commit_hash": "64ef2d07edf16ffa50f29c7e0e25d32d974b367f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
