@@ -7,6 +7,8 @@
         "URL": "https://github.com/23andMe/Yamale/pull/165",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "60173004bc645ea1f27a7b871272a06695154516",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
