@@ -9,6 +9,13 @@
         "fix_commit_hash": "7c3999a92a1cd856ff9bc8913a93ff1aee8bffc3",
         "inducing_commit_hash_pyszz": [
             "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
+        ],
+        "inducing_commit_hash_pd": [
+            "4446e4642ec652eaa4169c3fa10771d1c778a8f9",
+            "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
+        ],
+        "matched": [
+            "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
         ]
     },
     {
@@ -20,6 +27,13 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "7c3999a92a1cd856ff9bc8913a93ff1aee8bffc3",
         "inducing_commit_hash_pyszz": [
+            "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
+        ],
+        "inducing_commit_hash_pd": [
+            "4446e4642ec652eaa4169c3fa10771d1c778a8f9",
+            "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
+        ],
+        "matched": [
             "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
         ]
     }
