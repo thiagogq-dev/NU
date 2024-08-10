@@ -7,6 +7,8 @@
         "URL": "https://github.com/Arno0x/TwoFactorAuth/pull/3",
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "43535441857d8219606d101badca510691e4e8be",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
