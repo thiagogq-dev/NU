@@ -9,6 +9,14 @@
         "fix_commit_hash": "2cc0be6ae1cee1f2bcd2b19886380a15004eae47",
         "inducing_commit_hash_pyszz": [
             "9734deeefc1639b28fe71f5109bc0464f06ea759"
+        ],
+        "inducing_commit_hash_pd": [
+            "952ee8a3c126877fa46c0267fdabf14d28d281dc",
+            "9734deeefc1639b28fe71f5109bc0464f06ea759",
+            "1fb1f5f3e37e2b4fafd4ac572b5d3b6d106aada1"
+        ],
+        "matched": [
+            "9734deeefc1639b28fe71f5109bc0464f06ea759"
         ]
     },
     {
@@ -19,6 +27,8 @@
         "URL": "https://github.com/alibaba/nacos/pull/4517",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1bc350b99a7d61c394f73fbf8844bda8fc49e0a7",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
