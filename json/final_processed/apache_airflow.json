@@ -9,7 +9,13 @@
         "fix_commit_hash": "ce8ea6691820140a0e2d9a5dad5254bc05a5a270",
         "inducing_commit_hash_pyszz": [
             "deb953d9b3c1cf450aee9dfe92f81e9ffa768f06"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "ccbaf578aee5fd04580eb07d27fbbd688a2f3080",
+            "944dcfbb918050274fd3a1cc51d8fdf460ea2429",
+            "866a601b76e219b3c043e1dbbc8fb22300866351"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -21,7 +27,12 @@
         "fix_commit_hash": "1d4fd5c6eacab0b88f8660f9d780174434393f1a",
         "inducing_commit_hash_pyszz": [
             "813cd431204b71f4e7c27f2bee9fafcc910da4d0"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "0481b9a95786a62de4776a735ae80e746583ef2b",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -33,7 +44,11 @@
         "fix_commit_hash": "372e699c2d1e11f7087b5340454d0a0a6a56fbf5",
         "inducing_commit_hash_pyszz": [
             "28b3056192f55251d88856d20a2439b86800bc77"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "b63b42429ffea52ec9c9a0ead7dbc258ea4c2900"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -44,6 +59,17 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "be8a62e596a0dc0f935114a9d585007b497312a2",
         "inducing_commit_hash_pyszz": [
+            "3e7e42f028279a628d9e15d1ae4b6005593f8afb"
+        ],
+        "inducing_commit_hash_pd": [
+            "2037303eef93fd36ab13746b045d1c1fee6aa143",
+            "3e7e42f028279a628d9e15d1ae4b6005593f8afb",
+            "0481b9a95786a62de4776a735ae80e746583ef2b",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "4bde99f1323d72f6c84c1548079d5e98fc0a2a9a"
+        ],
+        "matched": [
             "3e7e42f028279a628d9e15d1ae4b6005593f8afb"
         ]
     },
@@ -57,6 +83,13 @@
         "fix_commit_hash": "18386026c28939fa6d91d198c5489c295a05dcd2",
         "inducing_commit_hash_pyszz": [
             "9b3ed1f652fcdf6eaf672e5d15646a0512b852f4"
+        ],
+        "inducing_commit_hash_pd": [
+            "9b3ed1f652fcdf6eaf672e5d15646a0512b852f4",
+            "4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68"
+        ],
+        "matched": [
+            "9b3ed1f652fcdf6eaf672e5d15646a0512b852f4"
         ]
     },
     {
@@ -68,6 +101,12 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "56e7555c42f013f789a4b718676ff09b4a9d5135",
         "inducing_commit_hash_pyszz": [
+            "df31902533e94b428e1fa19e5014047f0bae6fcc"
+        ],
+        "inducing_commit_hash_pd": [
+            "df31902533e94b428e1fa19e5014047f0bae6fcc"
+        ],
+        "matched": [
             "df31902533e94b428e1fa19e5014047f0bae6fcc"
         ]
     },
@@ -81,6 +120,23 @@
         "fix_commit_hash": "93589288156d56aff4b1f822b77695e3c58e4568",
         "inducing_commit_hash_pyszz": [
             "f5ad26dcdd7bcb724992528dce71056965b94d26"
+        ],
+        "inducing_commit_hash_pd": [
+            "64100d2a2e0b9dafbd2f0b355d414781d98f41c9",
+            "d06ab68f2c83ad5dce3cae1c5aa9a9a9f32cf934",
+            "399ddb139652fee1bcefe2be09831e71bf5fa832",
+            "b113432e7253811f55b373ab73c98079c724ead9",
+            "39d90579843ac2627cd3d46f784304adacf372ed",
+            "0481b9a95786a62de4776a735ae80e746583ef2b",
+            "3e6babe8ed8f8f281b67aa3f4e03bf3cfc1bcbaa",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "f5ad26dcdd7bcb724992528dce71056965b94d26",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "1f1b46dc011d2988edb66cf9aeaec9dd30c1b0e8",
+            "fdd9b6f65b608c516b8a062b058972d9a45ec9e3"
+        ],
+        "matched": [
+            "f5ad26dcdd7bcb724992528dce71056965b94d26"
         ]
     },
     {
@@ -91,7 +147,9 @@
         "URL": "https://github.com/apache/airflow/pull/27647",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "150dd927c3297daccab507bc5a5f2c3a32f24d5f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -102,6 +160,13 @@
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "59707cdf7eacb698ca375b5220af30a39ca1018c",
         "inducing_commit_hash_pyszz": [
+            "1edef28b315809c8367b29f3f1a83984dc6566c4"
+        ],
+        "inducing_commit_hash_pd": [
+            "1edef28b315809c8367b29f3f1a83984dc6566c4",
+            "23628534640b8cba4e37a008aec8c6eec6e086b1"
+        ],
+        "matched": [
             "1edef28b315809c8367b29f3f1a83984dc6566c4"
         ]
     },
@@ -115,6 +180,16 @@
         "fix_commit_hash": "68cb2daa410a72bcfb548587747afc9c5b946d11",
         "inducing_commit_hash_pyszz": [
             "65297673a318660fba76797e50d0c06804dfcafc"
+        ],
+        "inducing_commit_hash_pd": [
+            "5c2bb7b0b0e717b11f093910b443243330ad93ca",
+            "65297673a318660fba76797e50d0c06804dfcafc",
+            "deb953d9b3c1cf450aee9dfe92f81e9ffa768f06",
+            "178dee9a5ed0cde3d7a7d4a47daeae85408fcd67",
+            "a3dfd04ce4224e80c7b32351a744980e72bc10aa"
+        ],
+        "matched": [
+            "65297673a318660fba76797e50d0c06804dfcafc"
         ]
     },
     {
@@ -125,7 +200,9 @@
         "URL": "https://github.com/apache/airflow/pull/27576",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "b33d22c2243c552f4d1372bbe6b75e5fb097f567",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -136,6 +213,14 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "5f8481c799ea6bd742a5ccc194b2ff8dbe01eab5",
         "inducing_commit_hash_pyszz": [
+            "9953a047c4b0471ceb6effc669dce8d03c2f935b"
+        ],
+        "inducing_commit_hash_pd": [
+            "9953a047c4b0471ceb6effc669dce8d03c2f935b",
+            "0481b9a95786a62de4776a735ae80e746583ef2b",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b"
+        ],
+        "matched": [
             "9953a047c4b0471ceb6effc669dce8d03c2f935b"
         ]
     },
@@ -149,6 +234,13 @@
         "fix_commit_hash": "d01248382fe45a5f5a7fdeed4082a80c5f814ad8",
         "inducing_commit_hash_pyszz": [
             "208fba009980f66ccda3b238929c6cc90214eda4"
+        ],
+        "inducing_commit_hash_pd": [
+            "208fba009980f66ccda3b238929c6cc90214eda4",
+            "1dfae80412377eef0a38637535d6a1d3393cc4fe"
+        ],
+        "matched": [
+            "208fba009980f66ccda3b238929c6cc90214eda4"
         ]
     },
     {
@@ -160,6 +252,18 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "45dd0c484e16ff56800cc9c047f56b4a909d2d0d",
         "inducing_commit_hash_pyszz": [
+            "b39468d2878554ba60863656364b4a95eda30685"
+        ],
+        "inducing_commit_hash_pd": [
+            "55ab5db82c4c4bd55b992b43a0f2d1d3febfb715",
+            "4b031d39e12110f337151cda6693e2541bf71c2c",
+            "057f3ae3a4afedf6d462ecf58b01dd6304d3e135",
+            "b39468d2878554ba60863656364b4a95eda30685",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "059eda05f82fefce4410f44f761f945a27d83daf"
+        ],
+        "matched": [
             "b39468d2878554ba60863656364b4a95eda30685"
         ]
     },
@@ -173,6 +277,19 @@
         "fix_commit_hash": "05bd90f563649f2e9c8f0c85cf5838315a665a02",
         "inducing_commit_hash_pyszz": [
             "1189fb43e97cb39ff771ffabd17d60cf440a9bb7"
+        ],
+        "inducing_commit_hash_pd": [
+            "451c7cbc42a83a180c4362693508ed33dd1d1dab",
+            "6970b233964ee254bbb343ed8bdc906c2f7bd974",
+            "311140616daafe496310d642e4164bc53fbd2ad2",
+            "71c64de96248694017897fdb3d9d241e7c980825",
+            "1a854465b5b67e29082bb4c3e3e198cfbd67c845",
+            "1189fb43e97cb39ff771ffabd17d60cf440a9bb7",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b",
+            "1a1f352479d6dbff21d73d3c51b1e5d5188e00e3"
+        ],
+        "matched": [
+            "1189fb43e97cb39ff771ffabd17d60cf440a9bb7"
         ]
     },
     {
@@ -184,6 +301,19 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "05bd90f563649f2e9c8f0c85cf5838315a665a02",
         "inducing_commit_hash_pyszz": [
+            "1189fb43e97cb39ff771ffabd17d60cf440a9bb7"
+        ],
+        "inducing_commit_hash_pd": [
+            "451c7cbc42a83a180c4362693508ed33dd1d1dab",
+            "6970b233964ee254bbb343ed8bdc906c2f7bd974",
+            "311140616daafe496310d642e4164bc53fbd2ad2",
+            "71c64de96248694017897fdb3d9d241e7c980825",
+            "1a854465b5b67e29082bb4c3e3e198cfbd67c845",
+            "1189fb43e97cb39ff771ffabd17d60cf440a9bb7",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b",
+            "1a1f352479d6dbff21d73d3c51b1e5d5188e00e3"
+        ],
+        "matched": [
             "1189fb43e97cb39ff771ffabd17d60cf440a9bb7"
         ]
     },
@@ -197,6 +327,18 @@
         "fix_commit_hash": "5e6f8eb4d5fdcaa713022ee46b1ca9bd2e3ab44e",
         "inducing_commit_hash_pyszz": [
             "1f3260354988b304cf31d5e1d945ce91798bed48"
+        ],
+        "inducing_commit_hash_pd": [
+            "828d1cba4d9b85a166debdd8a8dfe363935c22cd",
+            "1f3260354988b304cf31d5e1d945ce91798bed48",
+            "373c6aa4a208284b5ff72987e4bd8f4e2ada1a1b",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "dfecb609c4a9d168390b259d2ff2a0ea3ac9d982",
+            "fc440dc3c84ec7c5d3f39038090b214496f95c6a",
+            "fdd9b6f65b608c516b8a062b058972d9a45ec9e3"
+        ],
+        "matched": [
+            "1f3260354988b304cf31d5e1d945ce91798bed48"
         ]
     },
     {
@@ -209,7 +351,13 @@
         "fix_commit_hash": "32c571e5926983903ac8b9017c36f14137a797a5",
         "inducing_commit_hash_pyszz": [
             "5d4abbd58c33e7dfa8505e307d43420459d3df55"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "dfecb609c4a9d168390b259d2ff2a0ea3ac9d982",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "fdd9b6f65b608c516b8a062b058972d9a45ec9e3"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -221,7 +369,13 @@
         "fix_commit_hash": "655ffb835eb4c5343c3f2b4d37b352248f2768ef",
         "inducing_commit_hash_pyszz": [
             "1d531555ecd594ee7ec2c5d3fc87f8d4bcc2c27e"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "a9ac2b040b64de1aa5d9c2b9def33334e36a8d22",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -232,6 +386,13 @@
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "cf814550275bd04326f095cc28f93663daf3404b",
         "inducing_commit_hash_pyszz": [
+            "eb5fea7b647e0f4b2338f86eeff6a90e1d6043bc"
+        ],
+        "inducing_commit_hash_pd": [
+            "eb5fea7b647e0f4b2338f86eeff6a90e1d6043bc",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b"
+        ],
+        "matched": [
             "eb5fea7b647e0f4b2338f86eeff6a90e1d6043bc"
         ]
     },
@@ -245,6 +406,12 @@
         "fix_commit_hash": "1cb127b9fd22a7dc8e0b82cab8acb7cd4c317c9c",
         "inducing_commit_hash_pyszz": [
             "10796cb7ce52c8ac2f68024e531fdda779547bdf"
+        ],
+        "inducing_commit_hash_pd": [
+            "10796cb7ce52c8ac2f68024e531fdda779547bdf"
+        ],
+        "matched": [
+            "10796cb7ce52c8ac2f68024e531fdda779547bdf"
         ]
     },
     {
@@ -256,6 +423,15 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "18347d36e67894604436f3ef47d273532683b473",
         "inducing_commit_hash_pyszz": [
+            "fe46a934fc298ec3ac74e6c40ca7e1872d2482f9"
+        ],
+        "inducing_commit_hash_pd": [
+            "bda39188bd127d0dd933cdff6c7e8d11ec6bf41b",
+            "6c6b77a87891ee81ed384124e309dff72a85c02f",
+            "b0669b532a7be9aa34a4390951deaa25897c62e6",
+            "fe46a934fc298ec3ac74e6c40ca7e1872d2482f9"
+        ],
+        "matched": [
             "fe46a934fc298ec3ac74e6c40ca7e1872d2482f9"
         ]
     },
@@ -269,7 +445,11 @@
         "fix_commit_hash": "46d45e09cb5607ae583929f3eba1923a64631f48",
         "inducing_commit_hash_pyszz": [
             "9ad6d1202d0466d67b920ce8b316fd0e7b68ed88"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "432977be0cd1e95f623fa5edda2a227798fa2939"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -281,6 +461,20 @@
         "fix_commit_hash": "59f5f58e2bfcc8c12b0b44d6c6ce5cfed60b8867",
         "inducing_commit_hash_pyszz": [
             "ddcd30e7c7f5daeab5f74fb3224a4d5e33cec95d"
+        ],
+        "inducing_commit_hash_pd": [
+            "ddcd30e7c7f5daeab5f74fb3224a4d5e33cec95d",
+            "655ffb835eb4c5343c3f2b4d37b352248f2768ef",
+            "06acf40a4337759797f666d5bb27a5a393b74fed",
+            "0481b9a95786a62de4776a735ae80e746583ef2b",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "82eb20e9f525c09b7d8b4eea896dedcfb6b04f28",
+            "1d531555ecd594ee7ec2c5d3fc87f8d4bcc2c27e",
+            "fdd9b6f65b608c516b8a062b058972d9a45ec9e3"
+        ],
+        "matched": [
+            "ddcd30e7c7f5daeab5f74fb3224a4d5e33cec95d"
         ]
     },
     {
@@ -291,7 +485,11 @@
         "URL": "https://github.com/apache/airflow/pull/30215",
         "Tag": "['Patch', 'Vendor Advisory']",
         "fix_commit_hash": "63d9b24aad0b4b9397682ddac1ea5824354789b3",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "8808b641942e1b81c21db054fd6d36e2031cfab8"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -303,7 +501,12 @@
         "fix_commit_hash": "9c936208f46735269bec98a2038bd065e5581591",
         "inducing_commit_hash_pyszz": [
             "56a03710a607376a01cb201ec81eb9d87d7418fe"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "c920b1bd5c880e1dcb2ed7b6c0e2aa14fbd6b71b",
+            "0db38ad1a2cf403eb546f027f2e5673610626f47"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -314,6 +517,13 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "46c85ec11d224c133da6c45c1186c9aa498a7e75",
         "inducing_commit_hash_pyszz": [
+            "324aca410bbbddb22336746338ea8a60ad0b3989"
+        ],
+        "inducing_commit_hash_pd": [
+            "dd386c81f50fe2a93cf0bff0c3da2c66f2dc6e6a",
+            "324aca410bbbddb22336746338ea8a60ad0b3989"
+        ],
+        "matched": [
             "324aca410bbbddb22336746338ea8a60ad0b3989"
         ]
     },
@@ -327,6 +537,15 @@
         "fix_commit_hash": "2844dad1c762f5c7dd1271866d3661bf66657300",
         "inducing_commit_hash_pyszz": [
             "2a819b11fb8dfba7b3c9b500d07467b455724506"
+        ],
+        "inducing_commit_hash_pd": [
+            "9276310a43d17a9e9e38c2cb83686a15656896b2",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "2a819b11fb8dfba7b3c9b500d07467b455724506"
+        ],
+        "matched": [
+            "2a819b11fb8dfba7b3c9b500d07467b455724506"
         ]
     },
     {
@@ -337,7 +556,9 @@
         "URL": "https://github.com/apache/airflow/pull/31788",
         "Tag": "['Patch']",
         "fix_commit_hash": "8062756fa9e01eeeee1f2c6df74f376c0a526bd5",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -347,7 +568,9 @@
         "URL": "https://github.com/apache/airflow/pull/31983",
         "Tag": "['Patch']",
         "fix_commit_hash": "6724eeb6210d5965937eaf9dae3e476eb30f8268",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -358,6 +581,15 @@
         "Tag": "['Patch', 'Vendor Advisory']",
         "fix_commit_hash": "b6836986846058e9e5fa271fb7b22ae721020787",
         "inducing_commit_hash_pyszz": [
+            "df5a54d21d6991d6cae05c38e1562da2196e76aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "df5a54d21d6991d6cae05c38e1562da2196e76aa",
+            "2a819b11fb8dfba7b3c9b500d07467b455724506",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "fdd9b6f65b608c516b8a062b058972d9a45ec9e3"
+        ],
+        "matched": [
             "df5a54d21d6991d6cae05c38e1562da2196e76aa"
         ]
     },
@@ -371,7 +603,11 @@
         "fix_commit_hash": "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db",
         "inducing_commit_hash_pyszz": [
             "dd623016aececfa7e0644e7da901902a7a629f44"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "e2f19505bf3622935480e80bee55bf5b6d80097b"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -382,6 +618,14 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "116e607ddcb32480e57c342f48226545ac6fc315",
         "inducing_commit_hash_pyszz": [
+            "1dccaad46b901189c1928cef8419f1ea1160d550"
+        ],
+        "inducing_commit_hash_pd": [
+            "1dccaad46b901189c1928cef8419f1ea1160d550",
+            "6970b233964ee254bbb343ed8bdc906c2f7bd974",
+            "d67ac5932dabbf06ae733fc57b48491a8029b8c2"
+        ],
+        "matched": [
             "1dccaad46b901189c1928cef8419f1ea1160d550"
         ]
     },
@@ -395,6 +639,13 @@
         "fix_commit_hash": "e4c3ecf8ceaefa17525b495e4bcb5b2f41309603",
         "inducing_commit_hash_pyszz": [
             "d2e5b097e6251e31fb4c9bb5bf16dc9c77b56f75"
+        ],
+        "inducing_commit_hash_pd": [
+            "ecbb366e63f893d6adcedb1942ca02981c6ec536",
+            "d2e5b097e6251e31fb4c9bb5bf16dc9c77b56f75"
+        ],
+        "matched": [
+            "d2e5b097e6251e31fb4c9bb5bf16dc9c77b56f75"
         ]
     },
     {
@@ -405,7 +656,11 @@
         "URL": "https://github.com/apache/airflow/pull/33075",
         "Tag": "['Patch']",
         "fix_commit_hash": "e20325db38fdfdd9db423a345b13d18aab6fe578",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "3fac5c35409ccfde771ce08ea8daeaac056b2c10"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -417,7 +672,15 @@
         "fix_commit_hash": "52ca7bfc988f4c9b608f544bc3e9524fd6564639",
         "inducing_commit_hash_pyszz": [
             "032cf7cdbce34ceb0e9380f86e07a6c077470396"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "44c43363f326d7c04411ad796ce58d30bce64fd7",
+            "25a5f553c306549d3d1f0f71f3eee53c72447e41",
+            "06acf40a4337759797f666d5bb27a5a393b74fed",
+            "2a34dc9e8470285b0ed2db71109ef4265e29688b",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -428,6 +691,13 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "120efc186556b1e9498f90ad436c74e5f4e138e9",
         "inducing_commit_hash_pyszz": [
+            "88aa174047e673d0dbe2742b24210731d6a5378f"
+        ],
+        "inducing_commit_hash_pd": [
+            "51e38173f9e50957ebe0879bcafe39eb00bc5ead",
+            "88aa174047e673d0dbe2742b24210731d6a5378f"
+        ],
+        "matched": [
             "88aa174047e673d0dbe2742b24210731d6a5378f"
         ]
     },
@@ -441,6 +711,53 @@
         "fix_commit_hash": "101d59c4b88ab979d305b8d96f612c27c8a44aa8",
         "inducing_commit_hash_pyszz": [
             "7dd19731f232d99d2947128c29e393b8ce013741"
+        ],
+        "inducing_commit_hash_pd": [
+            "9c592cbe4300f64be5698d0fc7a79e067b5b6832",
+            "1edef28b315809c8367b29f3f1a83984dc6566c4",
+            "9510043546d1ac8ac56b67bafa537e4b940d68a4",
+            "4c1fcee6ba1559fcb53836ac7fcccd68b1891d93",
+            "1e8ac47589967f2a7284faeab0f65b01bfd8202d",
+            "aeabef7ba4b4a7f2ca30b72da25aa32c8a86bc8b",
+            "49431c9587ef13ff3ff2ff2b8e74d4d2952afe78",
+            "51d61a9ec2ee66a7f1b45901a2bb732786341cf4",
+            "f74d0ab38e00b83b49e20d410736e2a8c42de095",
+            "bfcae349b88fd959e32bfacd027a5be976fe2132",
+            "476d0f6e3d2059f56532cda36cdc51aa86bafb37",
+            "24d0ecf4ee6dbfd2339847443d4b12033efe9c0f",
+            "2bb26a38070a4b949bfb210ef1d5644e016e373a",
+            "b333b24a04a752fd25ec48f76dce04a4bb5ed566",
+            "4d0fd8ef6adc35f683c7561f05688a65fd7451f4",
+            "22b49d334ef0008be7bd3d8481b55b8ab5d71c80",
+            "a36cfe049a2c5948b24fde7a878fe19cabede5f7",
+            "c6b27e309cbc29c73604969c88c8e8b437af583f",
+            "944dcfbb918050274fd3a1cc51d8fdf460ea2429",
+            "e29d33b89f7deea6eafb03006c37b60692781e61",
+            "411c686800fd5cc5175fdb27a94a20f08a56c001",
+            "ffa33e44affdfc9e8a53119a9a6461626d431546",
+            "26175ee5d931b8454d61ccbbd5dd585f7288c97b",
+            "3d3cc41678297ac113287760ed5fe9968a96f1d9",
+            "c030729dcbe35a2a4869e46b57a761c8376ede8d",
+            "9b63df8946308ccd7bf7e7ca02766bf09316cf93",
+            "b4e9c678d7375401bb548302a2074a215aec5dc0",
+            "4cb06219dc6b2c9fb888446165605e63aa16bdaa",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b",
+            "3182ba2f402656bfc7d7777f1678161ec5a9cf79",
+            "67e8bdd691ded0e88760b3d59b9c58ba43fa9453",
+            "88292837ba219c99f94bf3e03c5befda470c83b4",
+            "10c9cb5318fd8a9e41a7b4338e5052c8feece7ae",
+            "d12dc188d97f83d29bb8bba8b7b10c452f4c159a",
+            "4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68",
+            "f360414774f1ecb2e0f4e53ebdd623c7435f9a78",
+            "2400de2c5ece644cadb870baeea28907fa4dcf58",
+            "dbed51e702bf8177800183d2c4f595073aa2339d",
+            "72679bef3abee141dd20f75d6ff977bd3978ecc8",
+            "1047940ca4363b04044c4963b9c88f7632746407",
+            "7dd19731f232d99d2947128c29e393b8ce013741",
+            "8d31ca21a74a918a934912ecd47287b7a51193e2"
+        ],
+        "matched": [
+            "7dd19731f232d99d2947128c29e393b8ce013741"
         ]
     },
     {
@@ -453,6 +770,14 @@
         "fix_commit_hash": "394a727ac2c18d58978bf186a7a92923460ec110",
         "inducing_commit_hash_pyszz": [
             "63d9b24aad0b4b9397682ddac1ea5824354789b3"
+        ],
+        "inducing_commit_hash_pd": [
+            "63d9b24aad0b4b9397682ddac1ea5824354789b3",
+            "8808b641942e1b81c21db054fd6d36e2031cfab8",
+            "433e0296ad1a5ff1c545aa477fe08000089a6e1e"
+        ],
+        "matched": [
+            "63d9b24aad0b4b9397682ddac1ea5824354789b3"
         ]
     },
     {
@@ -463,7 +788,9 @@
         "URL": "https://github.com/apache/airflow/pull/33233",
         "Tag": "['Patch']",
         "fix_commit_hash": "6850b5c777fa515e110ad1daa85242209a8ec6c0",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -474,6 +801,16 @@
         "Tag": "['Patch', 'Vendor Advisory']",
         "fix_commit_hash": "b7a46c970d638028a4a7643ad000dcee951fb9ef",
         "inducing_commit_hash_pyszz": [
+            "5cb8ef80a0bd84651fb660c552563766d8ec0ea1"
+        ],
+        "inducing_commit_hash_pd": [
+            "866a601b76e219b3c043e1dbbc8fb22300866351",
+            "5cb8ef80a0bd84651fb660c552563766d8ec0ea1",
+            "ac92b17964e698726f687986ded462144a50b831",
+            "75d8ff96b4e7736b177c3bb8e949653d6a501736",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b"
+        ],
+        "matched": [
             "5cb8ef80a0bd84651fb660c552563766d8ec0ea1"
         ]
     },
@@ -487,6 +824,13 @@
         "fix_commit_hash": "dfa70b942348ba51be7594499ff54030375e4d89",
         "inducing_commit_hash_pyszz": [
             "9a8c2044bd0dab209c1e4cbf11d59297664dab08"
+        ],
+        "inducing_commit_hash_pd": [
+            "9a8c2044bd0dab209c1e4cbf11d59297664dab08",
+            "8c37b74a208a808d905c1b86d081d69d7a1aa900"
+        ],
+        "matched": [
+            "9a8c2044bd0dab209c1e4cbf11d59297664dab08"
         ]
     },
     {
@@ -498,6 +842,13 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "3df1af4c45705d67598753a96debf5619bbfee04",
         "inducing_commit_hash_pyszz": [
+            "5772d4d150518e2986df986f07b0394a0f4458e2"
+        ],
+        "inducing_commit_hash_pd": [
+            "4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68",
+            "5772d4d150518e2986df986f07b0394a0f4458e2"
+        ],
+        "matched": [
             "5772d4d150518e2986df986f07b0394a0f4458e2"
         ]
     },
@@ -511,6 +862,12 @@
         "fix_commit_hash": "3570bbfbea69e2965f91b9964ce28bc268c68129",
         "inducing_commit_hash_pyszz": [
             "e35ffaa457eee569d4bc81be16d0db26e0f3e1b3"
+        ],
+        "inducing_commit_hash_pd": [
+            "e35ffaa457eee569d4bc81be16d0db26e0f3e1b3"
+        ],
+        "matched": [
+            "e35ffaa457eee569d4bc81be16d0db26e0f3e1b3"
         ]
     },
     {
@@ -521,7 +878,11 @@
         "URL": "https://github.com/apache/airflow/pull/34939",
         "Tag": "['Patch']",
         "fix_commit_hash": "33ec72948f74f56f2adb5e2d388e60e88e8a3fa3",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2f19505bf3622935480e80bee55bf5b6d80097b"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -532,6 +893,14 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "4f1b500c47813c54349b7d3e48df0a444fb4826c",
         "inducing_commit_hash_pyszz": [
+            "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db"
+        ],
+        "inducing_commit_hash_pd": [
+            "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db",
+            "e2f19505bf3622935480e80bee55bf5b6d80097b",
+            "dd623016aececfa7e0644e7da901902a7a629f44"
+        ],
+        "matched": [
             "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db"
         ]
     },
@@ -545,6 +914,13 @@
         "fix_commit_hash": "f044589b685855a8fce8f5376bea2564c5a001f7",
         "inducing_commit_hash_pyszz": [
             "4a525e85e31b26d413c986c86d181114bb37bd06"
+        ],
+        "inducing_commit_hash_pd": [
+            "cab342ee010bfd048006ca458c760b37470b6ea5",
+            "4a525e85e31b26d413c986c86d181114bb37bd06"
+        ],
+        "matched": [
+            "4a525e85e31b26d413c986c86d181114bb37bd06"
         ]
     },
     {
@@ -557,7 +933,12 @@
         "fix_commit_hash": "dd59e3e63e0db349f40f8d1c91e7f6ef252caa4b",
         "inducing_commit_hash_pyszz": [
             "471fdacd853a5bcb190e1ffc017a4e650097ed69"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "ee38382efa54565c4b389eaeb536f0d45e12d498",
+            "4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -568,6 +949,13 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "4a525e85e31b26d413c986c86d181114bb37bd06",
         "inducing_commit_hash_pyszz": [
+            "ab74d1ba98f0f1d601206164d2b9529681bed4b3"
+        ],
+        "inducing_commit_hash_pd": [
+            "0fdc03b76499dab8a58aeaebcba3dcda0df94a5a",
+            "ab74d1ba98f0f1d601206164d2b9529681bed4b3"
+        ],
+        "matched": [
             "ab74d1ba98f0f1d601206164d2b9529681bed4b3"
         ]
     },
@@ -581,6 +969,16 @@
         "fix_commit_hash": "b7a46c970d638028a4a7643ad000dcee951fb9ef",
         "inducing_commit_hash_pyszz": [
             "5cb8ef80a0bd84651fb660c552563766d8ec0ea1"
+        ],
+        "inducing_commit_hash_pd": [
+            "866a601b76e219b3c043e1dbbc8fb22300866351",
+            "5cb8ef80a0bd84651fb660c552563766d8ec0ea1",
+            "ac92b17964e698726f687986ded462144a50b831",
+            "75d8ff96b4e7736b177c3bb8e949653d6a501736",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b"
+        ],
+        "matched": [
+            "5cb8ef80a0bd84651fb660c552563766d8ec0ea1"
         ]
     },
     {
@@ -592,6 +990,20 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "0b995602e6e5894ee31625a4dd0e6aa255d2a651",
         "inducing_commit_hash_pyszz": [
+            "2e52d65639f3a07f57d33aad6cce072dc6548a96"
+        ],
+        "inducing_commit_hash_pd": [
+            "8069b500e8487675df0472b4a5df9081dcfa9d6c",
+            "da6931561f59a64f6489c56a5675c2cc6e6a2bca",
+            "e2455d870056391eed13e32e2d0ed571cc7089b4",
+            "9c6f83bb6f3e3b57ae0abbe9eb0582fcde265702",
+            "deb953d9b3c1cf450aee9dfe92f81e9ffa768f06",
+            "88363b543f6f963247c332e9d7830bc782ed6e2d",
+            "5e470c1fc422a05815a595cdf2544ebc586405cc",
+            "2e52d65639f3a07f57d33aad6cce072dc6548a96",
+            "01a819a42daa7990c30ab9776208b3dcb9f3a28b"
+        ],
+        "matched": [
             "2e52d65639f3a07f57d33aad6cce072dc6548a96"
         ]
     },
@@ -605,6 +1017,14 @@
         "fix_commit_hash": "4f1b500c47813c54349b7d3e48df0a444fb4826c",
         "inducing_commit_hash_pyszz": [
             "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db"
+        ],
+        "inducing_commit_hash_pd": [
+            "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db",
+            "e2f19505bf3622935480e80bee55bf5b6d80097b",
+            "dd623016aececfa7e0644e7da901902a7a629f44"
+        ],
+        "matched": [
+            "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db"
         ]
     },
     {
@@ -616,6 +1036,14 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "f5d802791fa5f6b13b635f06a1ea2eccc22a9ba7",
         "inducing_commit_hash_pyszz": [
+            "c0362923fd8250328eab6e60f0cf7e855bfd352e"
+        ],
+        "inducing_commit_hash_pd": [
+            "c0362923fd8250328eab6e60f0cf7e855bfd352e",
+            "3bcaf3dd7e71993e1a89cf9367bf7c540cc88e75",
+            "05bd90f563649f2e9c8f0c85cf5838315a665a02"
+        ],
+        "matched": [
             "c0362923fd8250328eab6e60f0cf7e855bfd352e"
         ]
     },
@@ -629,6 +1057,15 @@
         "fix_commit_hash": "0e1c106d7cd0703125528a691088e42e17c99929",
         "inducing_commit_hash_pyszz": [
             "1b4c6bed94580eab656cc476e99a4980813b11ca"
+        ],
+        "inducing_commit_hash_pd": [
+            "c030729dcbe35a2a4869e46b57a761c8376ede8d",
+            "4a344f13d26ecbb627bb9968895b290bfd86e4da",
+            "1b4c6bed94580eab656cc476e99a4980813b11ca",
+            "d2cbf92290ac6b43930acdc58999f5a48640de49"
+        ],
+        "matched": [
+            "1b4c6bed94580eab656cc476e99a4980813b11ca"
         ]
     },
     {
@@ -641,6 +1078,14 @@
         "fix_commit_hash": "b5296b74361bfe2449033eca5f732c4a4377f6bb",
         "inducing_commit_hash_pyszz": [
             "3d2c96e3f5d238955bccba190726d0fba860eb7a"
+        ],
+        "inducing_commit_hash_pd": [
+            "971039454a3684d0ea7261dfe91f34ac4b62af72",
+            "3d2c96e3f5d238955bccba190726d0fba860eb7a",
+            "246d778e6b8042850ef8510bd25c52b1198030f1"
+        ],
+        "matched": [
+            "3d2c96e3f5d238955bccba190726d0fba860eb7a"
         ]
     },
     {
@@ -651,7 +1096,11 @@
         "URL": "https://github.com/apache/airflow/pull/30110",
         "Tag": "['Patch']",
         "fix_commit_hash": "274d9c3508179ae8b0f705d9787e8200be7718e1",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "ec5b4feb59816e4a13f779ad83d51206bf5ee0d9"
+        ],
+        "matched": []
     },
     {
         "repo_name": "apache/airflow",
@@ -662,6 +1111,16 @@
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "8fb55f2127be379bf25ed5fd6d2933417e8da439",
         "inducing_commit_hash_pyszz": [
+            "5da4afe908df22d3bb812d531ac437066dd5b816"
+        ],
+        "inducing_commit_hash_pd": [
+            "a1b99fe5364977739b7d8f22a880eeb9d781958b",
+            "ec5b4feb59816e4a13f779ad83d51206bf5ee0d9",
+            "5da4afe908df22d3bb812d531ac437066dd5b816",
+            "fc0e5a4d42ee882ca5bc20ea65be38b2c739644d",
+            "f9e9d23457cba5d3e18b5bdb7b65ecc63735b65b"
+        ],
+        "matched": [
             "5da4afe908df22d3bb812d531ac437066dd5b816"
         ]
     }
