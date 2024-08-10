@@ -7,7 +7,9 @@
         "URL": "https://github.com/antirez/redis/pull/3322",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "53cc8d7ce66b971d540341d279aa7b8843bcf482",
-        "inducing_commit_hash_pyszz": "-"
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "antirez/redis",
@@ -17,7 +19,9 @@
         "URL": "https://github.com/antirez/redis/pull/1418",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "53cc8d7ce66b971d540341d279aa7b8843bcf482",
-        "inducing_commit_hash_pyszz": "-"
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "antirez/redis",
@@ -27,6 +31,8 @@
         "URL": "https://github.com/antirez/redis/pull/6875",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "256ec6c52f5bd41437ea703801f67426af370918",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
