@@ -7,6 +7,10 @@
         "URL": "https://github.com/ant-design/ant-design-pro/pull/5461",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "840034ca90a66ebe7835934cffcb85654e86f593",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "ad5db1c268100735b5d99624aa75a5cd1be56e2c"
+        ],
+        "matched": []
     }
 ]
