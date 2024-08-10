@@ -7,6 +7,8 @@
         "URL": "https://github.com/asrashley/dash-live/pull/7",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "f526338366c5a450732ee52c6b8b0a2196da5d2f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
