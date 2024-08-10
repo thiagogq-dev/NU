@@ -9,7 +9,11 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [
             "318927ed6356d10c73fe775790b7765ea17480d4"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "500822ae6ceb19e935692f0a896cb72da66d49a2"
+        ],
+        "matched": []
     },
     {
         "repo_name": "argoproj/argo-workflows",
@@ -20,6 +24,13 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "87470e1c2bf703a9110e97bb755614ce8757fdcc",
         "inducing_commit_hash_pyszz": [
+            "3d892d9b481c5eefeb309b462b3f166a31335bc4"
+        ],
+        "inducing_commit_hash_pd": [
+            "284adfe16aeb11536a1c98f1956fdeb76dac4f1c",
+            "3d892d9b481c5eefeb309b462b3f166a31335bc4"
+        ],
+        "matched": [
             "3d892d9b481c5eefeb309b462b3f166a31335bc4"
         ]
     }
