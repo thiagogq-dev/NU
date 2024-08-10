@@ -7,6 +7,8 @@
         "URL": "https://github.com/barronwaffles/dwc_network_server_emulator/pull/538",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "f70eb21394f75019886fbc2fb536de36161ba422",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
