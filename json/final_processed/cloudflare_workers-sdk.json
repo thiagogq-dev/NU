@@ -9,6 +9,16 @@
         "fix_commit_hash": "311ffbd5064f8301ac6f0311bbe5630897923b93",
         "inducing_commit_hash_pyszz": [
             "7fbe1937b311f36077c92814207bbb15ef3878d6"
+        ],
+        "inducing_commit_hash_pd": [
+            "d282e9c6de4042ce39a6f34230b8759c07684c91",
+            "a3ce6fc2aa24976932a694e79b436b5f7a428c02",
+            "3ac91e839d59166be081a3ec4cb32d7422373fb0",
+            "7fbe1937b311f36077c92814207bbb15ef3878d6",
+            "9e632cddeace54aa8fbc9695621002889c3daa03"
+        ],
+        "matched": [
+            "7fbe1937b311f36077c92814207bbb15ef3878d6"
         ]
     },
     {
@@ -20,6 +30,16 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "311ffbd5064f8301ac6f0311bbe5630897923b93",
         "inducing_commit_hash_pyszz": [
+            "7fbe1937b311f36077c92814207bbb15ef3878d6"
+        ],
+        "inducing_commit_hash_pd": [
+            "d282e9c6de4042ce39a6f34230b8759c07684c91",
+            "a3ce6fc2aa24976932a694e79b436b5f7a428c02",
+            "3ac91e839d59166be081a3ec4cb32d7422373fb0",
+            "7fbe1937b311f36077c92814207bbb15ef3878d6",
+            "9e632cddeace54aa8fbc9695621002889c3daa03"
+        ],
+        "matched": [
             "7fbe1937b311f36077c92814207bbb15ef3878d6"
         ]
     },
@@ -33,7 +53,12 @@
         "fix_commit_hash": "29df8e17545bf3926b6d61678b596be809d40c6d",
         "inducing_commit_hash_pyszz": [
             "d99087433814e4f1fb98cd61b03b6e2f606b1a15"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "eebad0d9e593237b4db61047c94e2ec5b47a7b3c",
+            "310281a48a1de2997b1c055711f4ad47f3aa29e1"
+        ],
+        "matched": []
     },
     {
         "repo_name": "cloudflare/workers-sdk",
@@ -44,6 +69,16 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "05b1bbd2f5b8e60268e30c276067c3a3ae1239cf",
         "inducing_commit_hash_pyszz": [
+            "6ccc4fa672204ec671a1c99db04b4acbd52d5f20"
+        ],
+        "inducing_commit_hash_pd": [
+            "eebad0d9e593237b4db61047c94e2ec5b47a7b3c",
+            "6ccc4fa672204ec671a1c99db04b4acbd52d5f20",
+            "ebc1aa579a4e884cf2b1889a5245b5ad86716144",
+            "88f15f61cad2a69c07e26203cc84ddb2da42deb3",
+            "5fd080c88ee7991cde107f8723f06ea2fd2c651d"
+        ],
+        "matched": [
             "6ccc4fa672204ec671a1c99db04b4acbd52d5f20"
         ]
     },
@@ -57,7 +92,12 @@
         "fix_commit_hash": "29df8e17545bf3926b6d61678b596be809d40c6d",
         "inducing_commit_hash_pyszz": [
             "d99087433814e4f1fb98cd61b03b6e2f606b1a15"
-        ]
+        ],
+        "inducing_commit_hash_pd": [
+            "eebad0d9e593237b4db61047c94e2ec5b47a7b3c",
+            "310281a48a1de2997b1c055711f4ad47f3aa29e1"
+        ],
+        "matched": []
     },
     {
         "repo_name": "cloudflare/workers-sdk",
@@ -68,6 +108,14 @@
         "Tag": "['Patch']",
         "fix_commit_hash": "63708a94fb7a055bf15fa963f2d598b47b11d3c0",
         "inducing_commit_hash_pyszz": [
+            "311ffbd5064f8301ac6f0311bbe5630897923b93"
+        ],
+        "inducing_commit_hash_pd": [
+            "9a1c65c820a08974bfbc167e0d7511b2b15f4fa9",
+            "29df8e17545bf3926b6d61678b596be809d40c6d",
+            "311ffbd5064f8301ac6f0311bbe5630897923b93"
+        ],
+        "matched": [
             "311ffbd5064f8301ac6f0311bbe5630897923b93"
         ]
     }
