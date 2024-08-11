@@ -7,6 +7,8 @@
         "URL": "https://github.com/chyh1990/yaml-rust/pull/109",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "7eb6b6afa9b1e3122f4a1ca06ec8390496eb3d57",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
