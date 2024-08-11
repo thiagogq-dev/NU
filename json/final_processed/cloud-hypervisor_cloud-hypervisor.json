@@ -7,7 +7,9 @@
         "URL": "https://github.com/cloud-hypervisor/cloud-hypervisor/pull/5350",
         "Tag": "['Patch']",
         "fix_commit_hash": "df2a7c1764fe91bd71c52460164e777bf369e6b7",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "cloud-hypervisor/cloud-hypervisor",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/cloud-hypervisor/cloud-hypervisor/pull/5373",
         "Tag": "['Patch']",
         "fix_commit_hash": "04d111ee153c80c214331cae4fc25c35e29ce991",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
