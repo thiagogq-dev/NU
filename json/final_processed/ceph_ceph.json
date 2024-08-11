@@ -7,7 +7,9 @@
         "URL": "https://github.com/ceph/ceph/pull/6057",
         "Tag": "['Patch', 'Vendor Advisory']",
         "fix_commit_hash": "97bf0bcf02917fd772fbef73bb68e155feb84c1b",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "ceph/ceph",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/ceph/ceph/pull/44765",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "2bd3dd512ab42f6e5d5d0dd5f5428b783681802e",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
