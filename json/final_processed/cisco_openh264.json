@@ -7,7 +7,9 @@
         "URL": "https://github.com/cisco/openh264/pull/1088/files",
         "Tag": "['Patch']",
         "fix_commit_hash": "0ad30516c537bf6d4359e43bbe0185db6abcf809",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "cisco/openh264",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/cisco/openh264/pull/1096/files",
         "Tag": "['Patch']",
         "fix_commit_hash": "6489e7b38ad852a20f87214571fac382150dee62",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
