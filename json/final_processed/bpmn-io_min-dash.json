@@ -7,7 +7,9 @@
         "URL": "https://github.com/bpmn-io/min-dash/pull/21",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "2c6689e2aa29f4b66a4874a2f3003431e9db48d1",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bpmn-io/min-dash",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/bpmn-io/min-dash/pull/21/commits/5ab05cbc4fd8d5eafb7db540c491ed0906b9d320",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "2c6689e2aa29f4b66a4874a2f3003431e9db48d1",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
