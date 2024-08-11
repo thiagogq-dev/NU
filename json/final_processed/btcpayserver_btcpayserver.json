@@ -1,0 +1,98 @@
+[
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0493",
+        "Problem_Type": "CWE-74",
+        "Description": "Improper Neutralization of Equivalent Special Elements in GitHub repository btcpayserver/btcpayserver prior to 1.7.5.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4545/commits/02070d65836cd24627929b3403efbae8de56039a",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "a3203e57755ca2e6ff9d049e3e3672cdfff16ea0",
+        "inducing_commit_hash_pyszz": [
+            "a9ad0fde9e49166d9f8db0c622dc4d5af9316998"
+        ],
+        "inducing_commit_hash_pd": [
+            "3f6212e799798f84480f888b7dee903b3a39230c",
+            "fc8a5ff95f5087a6b4d1232f861eaa143c1bc242",
+            "51c486c15a58279f38134ddeb42db2167e8e8eb8",
+            "cadcb586a795743abb4fe66561c498a6181f4c51",
+            "273bc78db337c82dd46ea56a754f6d4d8e760c79",
+            "f8e6b51e9d1b1391a64ce95d73868faf0280bec2",
+            "a8adac9c5a231aa65c823e303744bfd3e8e29f3c",
+            "c46a69e1bd1ba84599967f0cb1fd34b9ee28b8ef",
+            "defb9120fd5be75323c98d6a8c714b09e5e68f90",
+            "e8291eb00e87aa2d1b8bd5de37b0b85969c796b1",
+            "b7b2f16925abffdac7d64dac99067b7953e1c6ac",
+            "022cd666ebbd3d47d9e083ac8c4650cd0b527499",
+            "c3f73c0de3821d0abfb455e0e2197eb48543013a",
+            "a9ad0fde9e49166d9f8db0c622dc4d5af9316998",
+            "8e5a9251d6beebef06f9f54c1e91f48540a5cccc",
+            "48ac996d77a2ef5df167752afc21ef52c212b9f0",
+            "2d4aa52fa59775795968610f75e2412d538fea3d",
+            "c71e671311b2cacaf1c99f177dbfc84d02e41e34",
+            "7a787fc94536d22bbbde9271201f8b65d6e79732",
+            "a9e08dd5877036dc12fad9ca62a613d83dd81c8e",
+            "06db29dd437e84bc07f996bffa18fafbe5323863",
+            "2abc35058bee8b7c22866e3547bcf7bb09eabce6"
+        ],
+        "matched": [
+            "a9ad0fde9e49166d9f8db0c622dc4d5af9316998"
+        ]
+    },
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0747",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4567/commits/d4e464ad4ef0cbbf61751e70f77865de325dd6cf",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "3d576cd06b7e1947017ee7a88c4617c10f3b86fe",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0748",
+        "Problem_Type": "CWE-601",
+        "Description": "Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4575/commits/c2cfa17e9619046b43987627b8429541d2834109",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "f2ced20c420c827f5c2ebf1fb405b35056687914",
+        "inducing_commit_hash_pyszz": [
+            "5c8ca15ee2fe27764a0a75fac7bba50c1610d016"
+        ],
+        "inducing_commit_hash_pd": [
+            "f1a222fbb3e68fe25c8c614b7722ccb2bacf0bc6",
+            "b9fdd5453892a6af044ec9882efa74f28ae11801",
+            "a3203e57755ca2e6ff9d049e3e3672cdfff16ea0",
+            "2e6246e385fccf606ecd3171644f8410b3ec61e2",
+            "300d84c5d8de24f841b46a3bd6c0029ccd058fda",
+            "181d4d5ea438adde018db7a07e402439a6675d69",
+            "39beacf88448b7bb8f527337ffebf8d7dab886b1"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0879",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.12.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4635/commits/f2f3b245c4d8980d8e54e4708c796df82332c3d7",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "fea27b900c0a9be2b8ae0079b8445499361cad88",
+        "inducing_commit_hash_pyszz": [
+            "4df2f1f756dcb1013a469bacad7c6550823792b7"
+        ],
+        "inducing_commit_hash_pd": [
+            "f9f1a22e3b790308fd60da780603cb41cba4904e",
+            "6972e8a3dbd854b14f134a2c6bb6918063182e42",
+            "5faa756f1c0bb19bf31dff801ce68f4b13d3fd0e",
+            "17f3b4125b108828cfc882fa079f2b3060c0fd76",
+            "4df2f1f756dcb1013a469bacad7c6550823792b7",
+            "a4ee1e98055b54af11355facf309739ec00c8f81"
+        ],
+        "matched": [
+            "4df2f1f756dcb1013a469bacad7c6550823792b7"
+        ]
+    }
+]
