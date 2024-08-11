@@ -7,7 +7,9 @@
         "URL": "https://github.com/bitly/oauth2_proxy/pull/360",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "4464655276877f1951fddf238cdfeca3cbca83ef",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bitly/oauth2_proxy",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/bitly/oauth2_proxy/pull/359",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "86d083266b747825a05f639560141e542019cf26",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
