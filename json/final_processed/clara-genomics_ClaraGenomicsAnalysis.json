@@ -7,6 +7,8 @@
         "URL": "https://github.com/clara-genomics/ClaraGenomicsAnalysis/pull/70",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "83e3a0c6e95de446eb51f578f89ad3fd025e263d",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
