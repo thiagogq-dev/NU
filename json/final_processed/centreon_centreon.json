@@ -7,7 +7,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6260",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -17,7 +21,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6259",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -27,7 +35,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6257",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -37,7 +49,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6256",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -47,7 +63,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6255",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -57,7 +77,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6251",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -67,7 +91,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6250",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -77,7 +105,11 @@
         "URL": "https://github.com/centreon/centreon/pull/6626",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -87,7 +119,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7086",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -97,7 +133,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7087",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -107,7 +147,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7271",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -117,7 +161,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7083",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -127,7 +175,11 @@
         "URL": "https://github.com/centreon/centreon/pull/8072",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -137,7 +189,11 @@
         "URL": "https://github.com/centreon/centreon/pull/8008",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -147,7 +203,11 @@
         "URL": "https://github.com/centreon/centreon/pull/8009",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -157,7 +217,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7862",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -167,7 +231,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7877",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -177,7 +245,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7876",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -187,7 +259,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7864",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -197,7 +273,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7884",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -207,7 +287,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7100",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -217,7 +301,11 @@
         "URL": "https://github.com/centreon/centreon/pull/7099",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -227,7 +315,11 @@
         "URL": "https://github.com/centreon/centreon/pull/8021",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -237,7 +329,11 @@
         "URL": "https://github.com/centreon/centreon/pull/8467",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -247,7 +343,11 @@
         "URL": "https://github.com/centreon/centreon/pull/8467#event-3163627607",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -257,7 +357,11 @@
         "URL": "https://github.com/centreon/centreon/pull/9587",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -267,7 +371,11 @@
         "URL": "https://github.com/centreon/centreon/pull/9612",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -277,7 +385,11 @@
         "URL": "https://github.com/centreon/centreon/pull/9781",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -287,7 +399,11 @@
         "URL": "https://github.com/centreon/centreon/pull/9787",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -297,7 +413,11 @@
         "URL": "https://github.com/centreon/centreon/pull/9796",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     },
     {
         "repo_name": "centreon/centreon",
@@ -307,6 +427,10 @@
         "URL": "https://github.com/centreon/centreon/pull/11869",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "e2b40793fbce7d6cb124782b2ba0cd06d822cff5"
+        ],
+        "matched": []
     }
 ]
