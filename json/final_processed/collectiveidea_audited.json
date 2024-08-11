@@ -7,7 +7,9 @@
         "URL": "https://github.com/collectiveidea/audited/pull/669",
         "Tag": "['Patch']",
         "fix_commit_hash": "342734c9396d8f96d3165f1d8531c626139fa4c6",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "collectiveidea/audited",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/collectiveidea/audited/pull/671",
         "Tag": "['Patch']",
         "fix_commit_hash": "379aeed7c22a530da0effa2b6b790ad806c5b7a1",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
