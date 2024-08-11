@@ -7,6 +7,8 @@
         "URL": "https://github.com/chbrown/rfc6902/pull/76",
         "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "2b3fa8360e1d1751a23015b2b37622ede16c6d43",
-        "inducing_commit_hash_pyszz": "-"
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
