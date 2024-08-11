@@ -9,6 +9,12 @@
         "fix_commit_hash": "8f7371cebfbd4283d96f94f3256c4fc772eb1c7b",
         "inducing_commit_hash_pyszz": [
             "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
+        ],
+        "inducing_commit_hash_pd": [
+            "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
+        ],
+        "matched": [
+            "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
         ]
     },
     {
@@ -20,6 +26,12 @@
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "e5afda45d9833682b705f73fc2c1265d34832183",
         "inducing_commit_hash_pyszz": [
+            "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
+        ],
+        "inducing_commit_hash_pd": [
+            "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
+        ],
+        "matched": [
             "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
         ]
     }
