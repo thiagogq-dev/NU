@@ -7,6 +7,8 @@
         "URL": "https://github.com/containernetworking/plugins/pull/269#issuecomment-477683272",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "a62711a5da7a2dc2eb93eac47e103738ad923fd6",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
