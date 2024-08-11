@@ -7,6 +7,8 @@
         "URL": "https://github.com/canonical/multipass/pull/2150",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "010fa9b2d100ca5fe1136c336280a91143c05f47",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
