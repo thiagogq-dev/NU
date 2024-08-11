@@ -7,6 +7,8 @@
         "URL": "https://github.com/cesanta/mjs/pull/255",
         "Tag": "['Patch']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
