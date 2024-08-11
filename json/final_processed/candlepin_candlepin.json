@@ -7,7 +7,9 @@
         "URL": "https://github.com/candlepin/candlepin/pull/3199",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "candlepin/candlepin",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/candlepin/candlepin/pull/3197",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "fed4cd6305c55632733ca1fe75ce719cde2fe121",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
