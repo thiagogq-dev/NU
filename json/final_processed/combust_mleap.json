@@ -7,6 +7,10 @@
         "URL": "https://github.com/combust/mleap/pull/866#issuecomment-1738032225",
         "Tag": "['Issue Tracking', 'Patch']",
         "fix_commit_hash": "35bf420cf3db3a23e287c342b6b310172610f8a9",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "9f18e651a5a2ca9a3ecd000375d7e37a13e68f2a"
+        ],
+        "matched": []
     }
 ]
