@@ -7,6 +7,8 @@
         "URL": "https://github.com/codeigniter4/CodeIgniter4/pull/6544",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "5a0f1e38c515d0e7ab640f5cfb54c61f1d131275",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
