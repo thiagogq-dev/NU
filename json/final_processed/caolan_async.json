@@ -7,6 +7,8 @@
         "URL": "https://github.com/caolan/async/pull/1828",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "8f7f90342a6571ba1c197d747ebed30c368096d2",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
