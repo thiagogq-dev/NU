@@ -9,6 +9,13 @@
         "fix_commit_hash": "dc2fe0ac6790d5e7c3eff5da984ecc9722fb2e4d",
         "inducing_commit_hash_pyszz": [
             "e3eb098c99a08285e9ead0a86c9d5877625a5dba"
+        ],
+        "inducing_commit_hash_pd": [
+            "e3eb098c99a08285e9ead0a86c9d5877625a5dba",
+            "f50d905152954335a1e351aec3fc309b0ab1e4d5"
+        ],
+        "matched": [
+            "e3eb098c99a08285e9ead0a86c9d5877625a5dba"
         ]
     },
     {
@@ -21,6 +28,16 @@
         "fix_commit_hash": "8bb07523e22df1ab3cbd265c77e836bf84186eb7",
         "inducing_commit_hash_pyszz": [
             "24f145cd1e27a346b64f3d66db63a582435bcd5f"
+        ],
+        "inducing_commit_hash_pd": [
+            "7bd96c8e2f148b33e61feed0320a98c4deec0426",
+            "a0318f36f0289bcb76175035f5d5e781bd6ce80e",
+            "ead8a835c4ea27c0e7d30deb88c83a853b3b0f03",
+            "f87c61176acd0ca977261423b4663ef456b2e720",
+            "24f145cd1e27a346b64f3d66db63a582435bcd5f"
+        ],
+        "matched": [
+            "24f145cd1e27a346b64f3d66db63a582435bcd5f"
         ]
     },
     {
@@ -32,6 +49,23 @@
         "Tag": "['Patch', 'Product']",
         "fix_commit_hash": "fe99d461f7fece31d0149b61398c05c08413787c",
         "inducing_commit_hash_pyszz": [
+            "c65de1f1b1a59155abbb9cbbe5aaa5abacd8e794"
+        ],
+        "inducing_commit_hash_pd": [
+            "cae3b26623e98044c4cc96a18ef2bd50edf01da4",
+            "3bfbb3226e35c09f50ea936f7d603397a1bb5f86",
+            "c65de1f1b1a59155abbb9cbbe5aaa5abacd8e794",
+            "f04decc4a13c2bd119ee4cd0248eb6dbcc7e6261",
+            "7454f1f3af05ff27bbe3c1392a0957ac1d4e0fab",
+            "b077854b57b3aa25295e37ad55a21300e7768c7c",
+            "e8881b2cc0cfaf960ab7e1094aaddeb02a73a702",
+            "795b0aaf9ac5b9005c6f2d41ee76f71f1caad853",
+            "c26a65a854733735207f641bb7ff23ba574a1f6f",
+            "a0318f36f0289bcb76175035f5d5e781bd6ce80e",
+            "87b63174b113094b862f4beb52f3d9d3a444f355",
+            "dc86e7a6dcf95358ccc90e443c7dd2c3d751f76b"
+        ],
+        "matched": [
             "c65de1f1b1a59155abbb9cbbe5aaa5abacd8e794"
         ]
     }
