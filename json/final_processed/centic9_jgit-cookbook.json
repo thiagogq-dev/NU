@@ -7,6 +7,8 @@
         "URL": "https://github.com/centic9/jgit-cookbook/pull/86",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "b8cb29b43dc704708d598c60ac1881db7cf8e9c3",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
