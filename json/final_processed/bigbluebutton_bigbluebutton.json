@@ -7,7 +7,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/9017",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "14b05708591705a2781373239db182e0fe4b0188",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -19,6 +21,14 @@
         "fix_commit_hash": "b21ca8355a57286a1e6df96984b3a4c57679a463",
         "inducing_commit_hash_pyszz": [
             "dbd86eb096c8436d6e3dce162e3472a5b8414d6b"
+        ],
+        "inducing_commit_hash_pd": [
+            "dbd86eb096c8436d6e3dce162e3472a5b8414d6b",
+            "cb152bf864ec6d491b38608ad311a12f40502c08",
+            "b6e31375961ef2a6a1dcce184eceb648912e322e"
+        ],
+        "matched": [
+            "dbd86eb096c8436d6e3dce162e3472a5b8414d6b"
         ]
     },
     {
@@ -29,7 +39,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/14896",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "d43ea3f94c9814b9cdfca4581aa26008e15572c6",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -39,7 +51,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/14886",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "f7b9b189c638c7ced67f3994f25f32935077aa76",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -49,7 +63,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/12861",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "6b61492e2604f3d9b16235421a0443512930add5",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -59,7 +75,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/14265",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1298550d795c8c664ff222ad5c5a9421fa8650d4",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -69,7 +87,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/13117",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1c5cc2a3c2ebdaea173e3e75131b7e90682c40e5",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -79,7 +99,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/13850",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "b41f895ab80e7be8a54a41990c95e4c343b773f3",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -89,7 +111,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/14265",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1298550d795c8c664ff222ad5c5a9421fa8650d4",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -99,7 +123,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/14265",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1298550d795c8c664ff222ad5c5a9421fa8650d4",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -109,7 +135,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/13788",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "5667ee01576b12e505a5f945eccf155cb255134b",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -119,7 +147,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/14265",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "1298550d795c8c664ff222ad5c5a9421fa8650d4",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -129,7 +159,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/13803",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "dce14adf50c2acd3a95bc5f2bc56b945304f0974",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -139,7 +171,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/15067",
         "Tag": "['Patch', 'Release Notes', 'Third Party Advisory']",
         "fix_commit_hash": "4e96fc5bd4736fc72d61f7dd672c40996ef1bf48",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -149,7 +183,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/15090",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "b7f3fa23add03fc6a900c370e568a0b36a9b9dab",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -159,7 +195,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/15087",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "69bebe5875eda91e496f52947de244e66e21f21f",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -169,7 +207,9 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/15090",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "b7f3fa23add03fc6a900c370e568a0b36a9b9dab",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "bigbluebutton/bigbluebutton",
@@ -179,6 +219,8 @@
         "URL": "https://github.com/bigbluebutton/bigbluebutton/pull/18045",
         "Tag": "['Patch']",
         "fix_commit_hash": "b18aff32e65a47f1eb2c800e86dcfc7a8fb05e71",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
