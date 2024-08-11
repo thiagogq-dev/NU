@@ -7,6 +7,8 @@
         "URL": "https://github.com/cloudflare/odoh-rs/pull/28",
         "Tag": "['Patch', 'Vendor Advisory']",
         "fix_commit_hash": "c1bc4ed71dcc9842b7dc1ea26f278f105074bbaa",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
