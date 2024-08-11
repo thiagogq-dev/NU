@@ -7,7 +7,9 @@
         "URL": "https://github.com/cesanta/mongoose/pull/2274",
         "Tag": "['Patch']",
         "fix_commit_hash": "d56e5bea626fd7d1baad52af0aa7cfc4f399382c",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "cesanta/mongoose",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/cesanta/mongoose/pull/2197",
         "Tag": "['Patch']",
         "fix_commit_hash": "926959ab47e78302837bec864863d94dcb78a210",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
