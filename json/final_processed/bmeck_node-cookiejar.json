@@ -9,6 +9,12 @@
         "fix_commit_hash": "eaa00021caf6ae09449dde826108153b578348e5",
         "inducing_commit_hash_pyszz": [
             "a9a320c3c49d65df491f5721969cfbf9e128d9af"
+        ],
+        "inducing_commit_hash_pd": [
+            "a9a320c3c49d65df491f5721969cfbf9e128d9af"
+        ],
+        "matched": [
+            "a9a320c3c49d65df491f5721969cfbf9e128d9af"
         ]
     },
     {
@@ -19,6 +25,8 @@
         "URL": "https://github.com/bmeck/node-cookiejar/pull/39",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "bd4b2095200b19c425658657d988a17f00a9c55c",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
