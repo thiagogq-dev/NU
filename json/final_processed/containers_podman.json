@@ -7,7 +7,9 @@
         "URL": "https://github.com/containers/podman/pull/9052",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "f02aba659447ea9198851231d7f11a8bfdfe69ba",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     },
     {
         "repo_name": "containers/podman",
@@ -17,6 +19,8 @@
         "URL": "https://github.com/containers/podman/pull/16315",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "c8eeab21cf0a4f670be0cd399dd06fd5d4e06dfe",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
