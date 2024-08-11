@@ -7,6 +7,8 @@
         "URL": "https://github.com/comelz/quark/pull/18",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "3311efee0074f8bf677aa76a5502086d462b3451",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
