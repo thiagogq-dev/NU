@@ -7,6 +7,8 @@
         "URL": "https://github.com/bigpresh/Dancer-Plugin-SimpleCRUD/pull/109",
         "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "806dceb83ce15d1413615a6e76ded257afc5e632",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
