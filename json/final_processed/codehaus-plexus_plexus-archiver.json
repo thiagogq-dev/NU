@@ -7,6 +7,8 @@
         "URL": "https://github.com/codehaus-plexus/plexus-archiver/pull/87",
         "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']",
         "fix_commit_hash": "f8f4233508193b70df33759ae9dc6154d69c2ea8",
-        "inducing_commit_hash_pyszz": []
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
