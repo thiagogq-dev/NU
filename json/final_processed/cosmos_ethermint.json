@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "cosmos/ethermint",
+        "CVE_ID": "CVE-2021-25835",
+        "Problem_Type": "CWE-294",
+        "Description": "Cosmos Network Ethermint <= v0.4.0 is affected by a cross-chain transaction replay vulnerability in the EVM module. Since ethermint uses the same chainIDEpoch and signature schemes with ethereum for compatibility, a verified signature in ethereum is still valid in ethermint with the same msg content and chainIDEpoch, which enables \"cross-chain transaction replay\" attack.",
+        "URL": "https://github.com/cosmos/ethermint/pull/692",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d7bdbd7488644f0aaeee5cdcdc119c863f199f72",
+        "inducing_commit_hash_pyszz": [
+            "cb96bc4ea337f153245d744725fc44a9207677b4"
+        ],
+        "inducing_commit_hash_pd": [
+            "7f648d2c55a3420c47df9722f57dd9d4c238bdac",
+            "4501bbccdc8c99532372698d4f48bc66f7de2843",
+            "cb96bc4ea337f153245d744725fc44a9207677b4"
+        ],
+        "matched": [
+            "cb96bc4ea337f153245d744725fc44a9207677b4"
+        ]
+    }
+]
