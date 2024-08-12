@@ -1,0 +1,39 @@
+[
+    {
+        "repo_name": "DianoxDragon/Hawn",
+        "CVE_ID": "CVE-2019-15559",
+        "Problem_Type": "CWE-89",
+        "Description": "DianoxDragon Hawn before 2019-07-10 allows SQL injection.",
+        "URL": "https://github.com/DianoxDragon/Hawn/pull/6",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "6b3ffb1884aa8a1a6da7ade12ba165c805b93d8a"
+        ],
+        "inducing_commit_hash_pd": [
+            "0a56d70eb47d13f80b205196592d3fd9a3a7753b",
+            "6b3ffb1884aa8a1a6da7ade12ba165c805b93d8a",
+            "030ff2c6b58081db64a45305e60a98389495c5f9",
+            "bd8ab62e95873356a12d9ae6cae71f825eb8dbf1",
+            "314b667bc3e9e73204f67459fc09c4fa2d6db742",
+            "47f26f1b6eb024768d2eefb1440a2102d9dfb4b0",
+            "eb884646d3fe2c80a9df9cb899431f0c6ea2e97b",
+            "68f8a3539169d38f9be43acdfb6b1f8d7cd7ab72",
+            "d1651ad380c62d2e92ec10f5faf3a6c8ef4c9cee",
+            "cc3d6c10e0eaa9ca8553fe2462c72a5ef9d0c783",
+            "7171165bf7de9a0cd9f2bd57d05b371ba825b0db",
+            "d1c065f8bfbb05de655b026b68d7a614ef98f704",
+            "e40f1344448283ae6c302c79221b5646e24bd611",
+            "65c4dd442c82678cbb733c3a84ff8be7ce0a3bb8",
+            "8e2cde50704ebe96b65d8fc28af374380f0c86c9",
+            "18b6d892052950e401ed829820226b007926b7f5",
+            "e94ce556d82c89095c7891740303b611d64fb5b1",
+            "ae9f3379678e52fad24b2aa0cfb63e16feb6b816",
+            "0ff54501eac56efb14de53fc5c642386d7e9753d",
+            "686411620ea281f42855468aab517ab87956cfe3"
+        ],
+        "matched": [
+            "6b3ffb1884aa8a1a6da7ade12ba165c805b93d8a"
+        ]
+    }
+]
