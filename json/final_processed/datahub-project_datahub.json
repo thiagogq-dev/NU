@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "datahub-project/datahub",
+        "CVE_ID": "CVE-2024-22409",
+        "Problem_Type": "CWE-276",
+        "Description": "DataHub is an open-source metadata platform. In affected versions a low privileged user could remove a user, edit group members, or edit another user's profile information. The default privileges gave too many broad permissions to low privileged users. These have been constrained in PR #9067 to prevent abuse. This issue can result in privilege escalation for lower privileged users up to admin privileges, potentially, if a group with admin privileges exists. May not impact instances that have modified default privileges. This issue has been addressed in datahub version 0.12.1. Users are advised to upgrade.",
+        "URL": "https://github.com/datahub-project/datahub/pull/9067",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "582eebe739ef7f8fc7651a78eee9306143360b68",
+        "inducing_commit_hash_pyszz": [
+            "80f0fdee98688619d43adaf2d37b20a538cde8e2"
+        ],
+        "inducing_commit_hash_pd": [
+            "43deb7080af17486f66a7b1249af17035e595494",
+            "944be9a1da17b06ebc3ec6accd985c3ad57f52f8",
+            "7fef9a514aa8ca7224d524d3d6b9c51917425521",
+            "ea92b86e6ab4cbb18742fb8db6bc11fae8970cdb",
+            "ccb09a69669e24624afbeca486220aa106dabfb7",
+            "73cd2f995d2cec182ed399621dbb672f3c058ebf",
+            "902929293d3745489d5cfca89e0fc9863dfce3c5",
+            "f49666a230a87f82858ba5bea7e2ed087b1947d5",
+            "fdee7a787bdd90dd0825b54e4737649b15b738c8",
+            "80f0fdee98688619d43adaf2d37b20a538cde8e2",
+            "0ff7bea0430655673055d15bf45691b22791256b",
+            "df69e762895b39d3d06d40e7a7965a057f76d32a",
+            "8002fd8eb6493582af4c2d7aa4c7520258fb34d8",
+            "2ef26e8b740cc2392a933468fe689c9c7f075f04",
+            "e12d910648267701e5146355e71f2658e83719f7"
+        ],
+        "matched": [
+            "80f0fdee98688619d43adaf2d37b20a538cde8e2"
+        ]
+    }
+]
