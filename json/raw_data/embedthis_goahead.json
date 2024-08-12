@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "embedthis/goahead",
+        "CVE_ID": "CVE-2017-1000470",
+        "Problem_Type": "CWE-190",
+        "Description": "EmbedThis GoAhead Webserver versions 4.0.0 and earlier is vulnerable to an integer overflow in the HTTP listener resulting in denial of service.",
+        "URL": "https://github.com/embedthis/goahead/pull/258",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
+    }
+]

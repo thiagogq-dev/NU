@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "go-ldap/ldap",
+        "CVE_ID": "CVE-2017-14623",
+        "Problem_Type": "CWE-287",
+        "Description": "In the ldap.v2 (aka go-ldap) package through 2.5.0 for Go, an attacker may be able to login with an empty password. This issue affects an application using this package if these conditions are met: (1) it relies only on the return error of the Bind function call to determine whether a user is authorized (i.e., a nil return value is interpreted as successful authorization) and (2) it is used with an LDAP server allowing unauthenticated bind.",
+        "URL": "https://github.com/go-ldap/ldap/pull/126",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "95ede1266b237bf8e9aa5dce0b3250e51bfefe66"
+    }
+]

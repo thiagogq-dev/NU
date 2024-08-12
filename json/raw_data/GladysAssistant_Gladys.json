@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "GladysAssistant/Gladys",
+        "CVE_ID": "CVE-2023-47440",
+        "Problem_Type": "CWE-22",
+        "Description": "Gladys Assistant v4.27.0 and prior is vulnerable to Directory Traversal. The patch of CVE-2023-43256 was found to be incomplete, allowing authenticated attackers to extract sensitive files in the host machine.",
+        "URL": "https://github.com/GladysAssistant/Gladys/pull/1918/commits/4f56ba250ff9f46578f1afa6a97e62e74bad83b7",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "f4d2228770baec73b229c7faf58e8bfeb6cc6a83"
+    }
+]

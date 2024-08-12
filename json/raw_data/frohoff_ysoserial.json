@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "frohoff/ysoserial",
+        "CVE_ID": "CVE-2017-20189",
+        "Problem_Type": "CWE-502",
+        "Description": "In Clojure before 1.9.0, classes can be used to construct a serialized object that executes arbitrary code upon deserialization. This is relevant if a server deserializes untrusted objects.",
+        "URL": "https://github.com/frohoff/ysoserial/pull/68/files",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "35bce8fe45ca3785a89975a021a9d0be4766105d"
+    }
+]

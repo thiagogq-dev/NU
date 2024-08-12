@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "flipped-aurora/gin-vue-admin",
+        "CVE_ID": "CVE-2021-44219",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Gin-Vue-Admin before 2.4.6 mishandles a SQL database.",
+        "URL": "https://github.com/flipped-aurora/gin-vue-admin/pull/811",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "99f3d4367a7d00148e1de7a16c153ddd4d39c3df"
+    },
+    {
+        "repo_name": "flipped-aurora/gin-vue-admin",
+        "CVE_ID": "CVE-2022-24843",
+        "Problem_Type": "CWE-22",
+        "Description": "Gin-vue-admin is a backstage management system based on vue and gin, which separates the front and rear of the full stack. Gin-vue-admin 2.50 has arbitrary file read vulnerability due to a lack of parameter validation. This has been resolved in version 2.5.1. There are no known workarounds for this issue.",
+        "URL": "https://github.com/flipped-aurora/gin-vue-admin/pull/1024",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "flipped-aurora/gin-vue-admin",
+        "CVE_ID": "CVE-2022-24844",
+        "Problem_Type": "CWE-89",
+        "Description": "Gin-vue-admin is a backstage management system based on vue and gin, which separates the front and rear of the full stack. The problem occurs in the following code in server/service/system/sys_auto_code_pgsql.go, which means that PostgreSQL must be used as the database for this vulnerability to occur. Users must: Require JWT login) and be using PostgreSQL to be affected. This issue has been resolved in version 2.5.1. There are no known workarounds.",
+        "URL": "https://github.com/flipped-aurora/gin-vue-admin/pull/1024",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "flipped-aurora/gin-vue-admin",
+        "CVE_ID": "CVE-2022-39345",
+        "Problem_Type": "CWE-22",
+        "Description": "Gin-vue-admin is a backstage management system based on vue and gin, which separates the front and rear of the full stack. Gin-vue-admin prior to 2.5.4 is vulnerable to path traversal, which leads to file upload vulnerabilities. Version 2.5.4 contains a patch for this issue. There are no workarounds aside from upgrading to a patched version.",
+        "URL": "https://github.com/flipped-aurora/gin-vue-admin/pull/1264",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
+    }
+]

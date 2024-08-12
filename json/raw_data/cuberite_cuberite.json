@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "cuberite/cuberite",
+        "CVE_ID": "CVE-2019-15516",
+        "Problem_Type": "CWE-22",
+        "Description": "Cuberite before 2019-06-11 allows webadmin directory traversal via ....// because the protection mechanism simply removes one ../ substring.",
+        "URL": "https://github.com/cuberite/cuberite/pull/4341",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "85006d10f5b4f8fb2e95be479d0b7c28a42d1d46"
+    }
+]

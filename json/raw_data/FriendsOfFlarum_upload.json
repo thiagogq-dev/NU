@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "FriendsOfFlarum/upload",
+        "CVE_ID": "CVE-2022-30999",
+        "Problem_Type": "CWE-79",
+        "Description": "FriendsofFlarum (FoF) Upload is an extension that handles file uploads intelligently for your forum. If FoF Upload prior to version 1.2.3 is configured to allow the uploading of SVG files ('image/svg+xml'), navigating directly to an SVG file URI could execute arbitrary Javascript code decided by an attacker. This Javascript code could include the execution of HTTP web requests to Flarum, or any other web service. This could allow data to be leaked by an authenticated Flarum user, or, possibly, for data to be modified maliciously. This issue has been patched with v1.2.3, which now sanitizes uploaded SVG files. As a workaround, remove the ability for users to upload SVG files through FoF Upload.",
+        "URL": "https://github.com/FriendsOfFlarum/upload/pull/318",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d1f0e4bae11ce12f4d1f6482b380e48f345a8dd3"
+    }
+]

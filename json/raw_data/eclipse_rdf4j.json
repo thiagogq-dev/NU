@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "eclipse/rdf4j",
+        "CVE_ID": "CVE-2018-20227",
+        "Problem_Type": "CWE-22",
+        "Description": "RDF4J 2.4.2 allows Directory Traversal via ../ in an entry in a ZIP archive.",
+        "URL": "https://github.com/eclipse/rdf4j/pull/1211/commits/df15a4d7a8f2789c043b27c9eafe1b30316cfa79",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "df15a4d7a8f2789c043b27c9eafe1b30316cfa79"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "ebkalderon/renderdoc-rs",
+        "CVE_ID": "CVE-2019-16142",
+        "Problem_Type": "CWE-20",
+        "Description": "An issue was discovered in the renderdoc crate before 0.5.0 for Rust. Multiple exposed methods take self by immutable reference, which is incompatible with a multi-threaded application.",
+        "URL": "https://github.com/ebkalderon/renderdoc-rs/pull/32",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "22351fe532cf480e26a7ad8717d86a023da8f1d6"
+    }
+]

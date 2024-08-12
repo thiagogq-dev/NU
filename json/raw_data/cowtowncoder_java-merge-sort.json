@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "cowtowncoder/java-merge-sort",
+        "CVE_ID": "CVE-2022-24913",
+        "Problem_Type": "CWE-668",
+        "Description": "Versions of the package com.fasterxml.util:java-merge-sort before 1.1.0 are vulnerable to Insecure Temporary File in the StdTempFileProvider() function in StdTempFileProvider.java, which uses the permissive File.createTempFile() function, exposing temporary file contents.",
+        "URL": "https://github.com/cowtowncoder/java-merge-sort/pull/21",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "341fc70125ca4f3065b9604de1ee5e06fb5c245f"
+    }
+]

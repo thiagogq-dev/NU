@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "frostming/rediswrapper",
+        "CVE_ID": "CVE-2019-17206",
+        "Problem_Type": "CWE-502",
+        "Description": "Uncontrolled deserialization of a pickled object in models.py in Frost Ming rediswrapper (aka Redis Wrapper) before 0.3.0 allows attackers to execute arbitrary scripts.",
+        "URL": "https://github.com/frostming/rediswrapper/pull/1",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "748f60bafd857c24f65683426f665350e2c3f91b"
+    }
+]

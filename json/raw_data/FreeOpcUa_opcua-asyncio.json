@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "FreeOpcUa/opcua-asyncio",
+        "CVE_ID": "CVE-2023-26150",
+        "Problem_Type": "CWE-287",
+        "Description": "Versions of the package asyncua before 0.9.96 are vulnerable to Improper Authentication such that it is possible to access Address Space without encryption and authentication.\n\n**Note:**\n\nThis issue is a result of missing checks for services that require an active session.",
+        "URL": "https://github.com/FreeOpcUa/opcua-asyncio/pull/1015",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "2be7ce80df05de8d6c6ae1ebce6fa2bb7147844a"
+    },
+    {
+        "repo_name": "FreeOpcUa/opcua-asyncio",
+        "CVE_ID": "CVE-2023-26151",
+        "Problem_Type": "CWE-835",
+        "Description": "Versions of the package asyncua before 0.9.96 are vulnerable to Denial of Service (DoS) such that an attacker can send a malformed packet and as a result, the server will enter into an infinite loop and consume excessive memory.",
+        "URL": "https://github.com/FreeOpcUa/opcua-asyncio/pull/1039",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "f6603daa34a93a658f0e176cb0b9ee5a6643b262"
+    }
+]

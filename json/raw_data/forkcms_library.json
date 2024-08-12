@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "forkcms/library",
+        "CVE_ID": "CVE-2019-15521",
+        "Problem_Type": "CWE-502",
+        "Description": "Spoon Library through 2014-02-06, as used in Fork CMS before 1.4.1 and other products, allows PHP object injection via a cookie containing an object.",
+        "URL": "https://github.com/forkcms/library/pull/69",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9a97858428e089fef62e2f251d95f17b6de8d3d9"
+    }
+]

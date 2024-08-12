@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "eberhardt/moodle-block_sitenews",
+        "CVE_ID": "CVE-2020-36633",
+        "Problem_Type": "CWE-352",
+        "Description": "A vulnerability was found in moodle-block_sitenews 1.0. It has been classified as problematic. This affects the function get_content of the file block_sitenews.php. The manipulation leads to cross-site request forgery. It is possible to initiate the attack remotely. Upgrading to version 1.1 is able to address this issue. The name of the patch is cd18d8b1afe464ae6626832496f4e070bac4c58f. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216879.",
+        "URL": "https://github.com/eberhardt/moodle-block_sitenews/pull/5",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "872adf18fe375af96b521e97521b151ef7d3d4fb"
+    }
+]

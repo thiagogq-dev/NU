@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "eclipse/milo",
+        "CVE_ID": "CVE-2022-25897",
+        "Problem_Type": "CWE-770",
+        "Description": "The package org.eclipse.milo:sdk-server before 0.6.8 are vulnerable to Denial of Service (DoS) when bypassing the limitations for excessive memory consumption by sending multiple CloseSession requests with the deleteSubscription parameter equal to False.",
+        "URL": "https://github.com/eclipse/milo/pull/1031",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7038e89a651771615b07342422e61e6e58e76730"
+    }
+]
