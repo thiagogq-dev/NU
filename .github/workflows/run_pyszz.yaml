@@ -67,10 +67,10 @@ jobs:
         mkdir -p ../json/processed_data/
         cp out/bics.json ../json/processed_data/$filename
 
-    # - name: Remove JSON files
-    #   run: |
-    #     git rm ${{ matrix.file }}
-    #     git add json/raw_data/*.json
+    - name: Remove JSON files
+      run: |
+        git rm ${{ matrix.file }}
+        git add json/raw_data/*.json
 
     - name: Git Operations
       run: |
