@@ -1,0 +1,39 @@
+[
+    {
+        "repo_name": "discourse/discourse-chat",
+        "CVE_ID": "CVE-2022-36057",
+        "Problem_Type": "CWE-79",
+        "Description": "Discourse-Chat is an asynchronous messaging plugin for the Discourse open-source discussion platform. Users of Discourse Chat can be affected by admin users inserting HTML into chat titles and descriptions, causing a Cross-Site Scripting (XSS) attack. Version 0.9 contains a patch for this issue.",
+        "URL": "https://github.com/discourse/discourse-chat/pull/1205",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5d16780c6faba692006baf0cf07201ea1a433b1a",
+        "inducing_commit_hash_pyszz": [
+            "44e246b383c6320b0798e6090597b8ba761aee5c"
+        ],
+        "inducing_commit_hash_pd": [
+            "b102d0255bc7a099ca25892a8aab1acdb944030f",
+            "791292db2077968cb1bf4f2309eb445d0f3723d3",
+            "2a2b62ea91d4e11e96714b8770b9fbe323da5a4b",
+            "a3c06974e164e614b8982810d12af89689826db8",
+            "f898aa7ff51d457e231c9a4c7098626ee6fcdfe3",
+            "472d355dc1b510c82b560bd78a85a77cedab0141",
+            "7b44725ebbc01ac17aa7bc7a62e9313a6937b2e0",
+            "35154b7c8f93ccb110f0f92d49b2f09a888588a7",
+            "0343846dea5c083e13969e97cd0355d56a9fc270",
+            "424fc5e1ac4625b997806c01484b357b99b49bc8",
+            "58c3a16a8c6be8e66ec2f8ba9c5a39021439212b",
+            "ae515c5198d4d44df09f33b461ee2646668f4e0a",
+            "3fb370223c05ad90aee0eb4232e261ddb49cd9ac",
+            "3541cad4668c636c351d72ce520c2a139f4806b2",
+            "4e31929504169cfd2f6b9f128363f932ae296f63",
+            "63c914122c8c958a54b8de7634fc6d916c622baa",
+            "c0fb68729bc7b3d28cfba02409517503b432f4ef",
+            "1389d41a1abbc10c12c2d029a4e087119a051b02",
+            "44e246b383c6320b0798e6090597b8ba761aee5c",
+            "99ace596225b42e7ee7d9d54195bb75bc9643923"
+        ],
+        "matched": [
+            "44e246b383c6320b0798e6090597b8ba761aee5c"
+        ]
+    }
+]
