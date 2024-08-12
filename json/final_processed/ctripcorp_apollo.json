@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "ctripcorp/apollo",
+        "CVE_ID": "CVE-2020-15170",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "apollo-adminservice before version 1.7.1 does not implement access controls. If users expose apollo-adminservice to internet(which is not recommended), there are potential security issues since apollo-adminservice is designed to work in intranet and it doesn't have access control built-in. Malicious hackers may access apollo-adminservice apis directly to access/edit the application's configurations. To fix the potential issue without upgrading, simply follow the advice that do not expose apollo-adminservice to internet.",
+        "URL": "https://github.com/ctripcorp/apollo/pull/3233/commits/ae9ba6cfd32ed80469f162e5e3583e2477862ddf",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "6ff6ddd47f9be87ad77a6a169cc46996cc5d89dd",
+        "inducing_commit_hash_pyszz": [
+            "04c94da1997f3d1500ee3b4b57602f91687b70f7"
+        ],
+        "inducing_commit_hash_pd": [
+            "847b949bdf9f1d0b909605ea7fb917d920ffbaf0",
+            "d9275527670ec22ae1aae2b8d1e298b6ebd65462",
+            "7ccb24471d3956d69fd22353d4908684ca0201db",
+            "04c94da1997f3d1500ee3b4b57602f91687b70f7",
+            "b2b9dcd0a214056d8c1e2ca3791941f19f73904e",
+            "32aac0bd066a0f9a38253646ad2a195ca7d2ff35",
+            "42edb9da963df986538edcda4ff58d474fb3abed",
+            "a81d7287014ab8bfc327040a66ac8a5d5510b7e9",
+            "7b7d753f78e444f9cf97b0f238f7e33f585cb277",
+            "7f6ed42bef207b514dcaf9fae8a0fc8554ca1b35",
+            "72923ce6eaf47a51d41ad3656795cf83b28430e1"
+        ],
+        "matched": [
+            "04c94da1997f3d1500ee3b4b57602f91687b70f7"
+        ]
+    }
+]
