@@ -1,0 +1,549 @@
+[
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2019-15515",
+        "Problem_Type": "CWE-352",
+        "Description": "Discourse 2.3.2 sends the CSRF token in the query string.",
+        "URL": "https://github.com/discourse/discourse/pull/8026",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d59746cdc1c5b5aec36829882fb3ae952dc32eb8",
+        "inducing_commit_hash_pyszz": [
+            "bb3fb37650e05b5087f5630a1ac0f50068b6d8c2"
+        ],
+        "inducing_commit_hash_pd": [
+            "03a7d532cf8f09b12573b21ef013c21100d52728",
+            "44391ee8ab7431ca572b6c340d6e770cdadd51b3",
+            "84d4c81a26bb585f67809c6f8af25c2a385de754"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2020-24327",
+        "Problem_Type": "CWE-918",
+        "Description": "Server Side Request Forgery (SSRF) vulnerability exists in Discourse 2.3.2 and 2.6 via the email function. When writing an email in an editor, you can upload pictures of remote websites.",
+        "URL": "https://github.com/discourse/discourse/pull/10509",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2f043dc89accf920adb3724fd9b2197b29953cdb",
+        "inducing_commit_hash_pyszz": [
+            "5fc5a7f5ae8c3cf1a89c1a685258e9e942de1508"
+        ],
+        "inducing_commit_hash_pd": [
+            "5fc5a7f5ae8c3cf1a89c1a685258e9e942de1508"
+        ],
+        "matched": [
+            "5fc5a7f5ae8c3cf1a89c1a685258e9e942de1508"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2021-41095",
+        "Problem_Type": "CWE-79",
+        "Description": "Discourse is an open source discussion platform. There is a cross-site scripting (XSS) vulnerability in versions 2.7.7 and earlier of the `stable` branch, versions 2.8.0.beta6 and earlier of the `beta` branch, and versions 2.8.0.beta6 and earlier of the `tests-passed` branch. Rendering of some error messages that contain user input can be susceptible to XSS attacks. This vulnerability only affects sites which have blocked watched words that contain HTML tags, modified or disabled Discourse's default Content Security Policy. This issue is patched in the latest `stable`, `beta` and `tests-passed` versions of Discourse. As a workaround, avoid modifying or disabling Discourse\u00c2\u2019s default Content Security Policy, and blocking watched words containing HTML tags.",
+        "URL": "https://github.com/discourse/discourse/pull/14434/commits/40b776b9d39c41d9273d01eecf8fe03aa39fcb59",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1f57b29147f570178d4317cca9e61449d7c62856",
+        "inducing_commit_hash_pyszz": [
+            "f331b5eab28be2654db7b8f99ea105b0b58c6a0f"
+        ],
+        "inducing_commit_hash_pd": [
+            "f331b5eab28be2654db7b8f99ea105b0b58c6a0f",
+            "f14c6d81f498e94654388df2ff132b18c5156c3d"
+        ],
+        "matched": [
+            "f331b5eab28be2654db7b8f99ea105b0b58c6a0f"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-23548",
+        "Problem_Type": "CWE-1333",
+        "Description": "Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 2.9.0.beta16 on the `beta` and `tests-passed` branches, parsing posts can be susceptible to regular expression denial of service (ReDoS) attacks. This issue is patched in versions 2.8.14 and 2.9.0.beta16. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/19737",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "918dd4d63596ac5ea1ae5f9a55d1533e2400db5c",
+        "inducing_commit_hash_pyszz": [
+            "f8ded9cec9255a297d988b821dc596e133d86d78"
+        ],
+        "inducing_commit_hash_pd": [
+            "f8ded9cec9255a297d988b821dc596e133d86d78",
+            "bb93a345eb3e33c51852ea92510293a19598fa61"
+        ],
+        "matched": [
+            "f8ded9cec9255a297d988b821dc596e133d86d78"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-23641",
+        "Problem_Type": "CWE-835",
+        "Description": "Discourse is an open source discussion platform. In versions prior to 2.8.1 in the `stable` branch, 2.9.0.beta2 in the `beta` branch, and 2.9.0.beta2 in the `tests-passed` branch, users can trigger a Denial of Service attack by posting a streaming URL. Parsing Oneboxes in the background job trigger an infinite loop, which cause memory leaks. This issue is patched in version 2.8.1 of the `stable` branch, 2.9.0.beta2 of the `beta` branch, and 2.9.0.beta2 of the `tests-passed` branch. As a workaround, disable onebox in admin panel completely or specify allow list of domains that will be oneboxed.",
+        "URL": "https://github.com/discourse/discourse/pull/15927",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a34075d205a8857e29574ffd82aaece0c467565e",
+        "inducing_commit_hash_pyszz": [
+            "53abcd825d2abbd2065796c974314f0952b26041"
+        ],
+        "inducing_commit_hash_pd": [
+            "53abcd825d2abbd2065796c974314f0952b26041",
+            "68d0916eb53a44e7a5b4e7c9f57277a647dfa45d"
+        ],
+        "matched": [
+            "53abcd825d2abbd2065796c974314f0952b26041"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-24782",
+        "Problem_Type": "CWE-200",
+        "Description": "Discourse is an open source discussion platform. Versions 2.8.2 and prior in the `stable` branch, 2.9.0.beta3 and prior in the `beta` branch, and 2.9.0.beta3 and prior in the `tests-passed` branch are vulnerable to a data leak. Users can request an export of their own activity. Sometimes, due to category settings, they may have category membership for a secure category. The name of this secure category is shown to the user in the export. The same thing occurs when the user's post has been moved to a secure category. A patch for this issue is available in the `main` branch of Discourse's GitHub repository and is anticipated to be part of future releases.",
+        "URL": "https://github.com/discourse/discourse/pull/16273",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9d5737fd28374cc876c070f6c3a931a8071ec356",
+        "inducing_commit_hash_pyszz": [
+            "26ec4fd25b4d8a7622beb1c361bc4debc5c9eff2"
+        ],
+        "inducing_commit_hash_pd": [
+            "7e0c1fb039dfa2663ae42e60ee85ae5ec1cc2935",
+            "26ec4fd25b4d8a7622beb1c361bc4debc5c9eff2",
+            "a1dd761bd97e748bff5b21d7347ff2a642409fc2",
+            "c5dc729e778e5ec9705dcf761295483822f9cef0",
+            "a8560d741f07afb25e0ec23cb45d054154d9fada",
+            "4aed861336d61f1428e2310693fdee3090d54cd9"
+        ],
+        "matched": [
+            "26ec4fd25b4d8a7622beb1c361bc4debc5c9eff2"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-31025",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Discourse is an open source platform for community discussion. Prior to version 2.8.4 on the `stable` branch and 2.9.0beta5 on the `beta` and `tests-passed` branches, inviting users on sites that use single sign-on could bypass the `must_approve_users` check and invites by staff are always approved automatically. The issue is patched in Discourse version 2.8.4 on the `stable` branch and version `2.9.0.beta5` on the `beta` and `tests-passed` branches. As a workaround, disable invites or increase `min_trust_level_to_allow_invite` to reduce the attack surface to more trusted users.",
+        "URL": "https://github.com/discourse/discourse/pull/16974",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7c4e2d33fa4b922354c177ffc880a2f2701a91f9",
+        "inducing_commit_hash_pyszz": [
+            "36e0e6a322aaf768ac79c539d85f202de01fd231"
+        ],
+        "inducing_commit_hash_pd": [
+            "36e0e6a322aaf768ac79c539d85f202de01fd231",
+            "ea05a68df7eee15c9db55c26d55efb21bb17247f",
+            "b3d769ff4f013b40059751476193898483d115e9",
+            "528cfea079a5555e92b1d546a199e03fd6528790",
+            "b2a0d34bb783d251ae61881e5d4b9b9aafdf9c09",
+            "13f3de4bf673802eb8ec595d36587b4524773209",
+            "355d51afde190b884dbb9b81ebc836a16b48d98c",
+            "973a7c9d3a3d6ded8a9aa633e1e8222378c8be2e",
+            "dbb3ddc7a62b86ee5744be8c81656d4d2fd2d5e7",
+            "1aef6de4b0feb08528f8dec2288503e376318871",
+            "dffc3a2f8efe5c230fa660dc055a290ab6ef827d",
+            "dde0fcc658ae639d71b36f098269b996c367058f",
+            "b58867b6e936a5247304e9f06f827cf5012a92ed",
+            "eb9155f3fef34ae7b474bdf3d2655bd1a043cbd3",
+            "14f9d40e486c39e74abfacdebbda86db1a8afd70",
+            "a78c64db351431bae1e74d03c097c25b23fa4af8"
+        ],
+        "matched": [
+            "36e0e6a322aaf768ac79c539d85f202de01fd231"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-31025",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Discourse is an open source platform for community discussion. Prior to version 2.8.4 on the `stable` branch and 2.9.0beta5 on the `beta` and `tests-passed` branches, inviting users on sites that use single sign-on could bypass the `must_approve_users` check and invites by staff are always approved automatically. The issue is patched in Discourse version 2.8.4 on the `stable` branch and version `2.9.0.beta5` on the `beta` and `tests-passed` branches. As a workaround, disable invites or increase `min_trust_level_to_allow_invite` to reduce the attack surface to more trusted users.",
+        "URL": "https://github.com/discourse/discourse/pull/16984",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0fa0094531efc82d9371f90a02aa804b176d59cf",
+        "inducing_commit_hash_pyszz": [
+            "7c4e2d33fa4b922354c177ffc880a2f2701a91f9"
+        ],
+        "inducing_commit_hash_pd": [
+            "7c4e2d33fa4b922354c177ffc880a2f2701a91f9",
+            "fa8cd629f1ad4c64308e3e5c1d93f3ae78b2815a"
+        ],
+        "matched": [
+            "7c4e2d33fa4b922354c177ffc880a2f2701a91f9"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-31060",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 2.8.4 in the `stable` branch and version `2.9.0.beta5` in the `beta` and `tests-passed` branches, banner topic data is exposed on login-required sites. This issue is patched in version 2.8.4 in the `stable` branch and version `2.9.0.beta5` in the `beta` and `tests-passed` branches of Discourse. As a workaround, one may disable banners.",
+        "URL": "https://github.com/discourse/discourse/pull/17071",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ae6a9079436fb9b20fd051d25fb6d8027f0ec59a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-36066",
+        "Problem_Type": "CWE-434",
+        "Description": "Discourse is an open source discussion platform. In versions prior to 2.8.9 on the `stable` branch and prior to 2.9.0.beta10 on the `beta` and `tests-passed` branches, admins can upload a maliciously crafted Zip or Gzip Tar archive to write files at arbitrary locations and trigger remote code execution. The problem is patched in version 2.8.9 on the `stable` branch and version 2.9.0.beta10 on the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/18421",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b27d5626d208a22c516a0adfda7554b67b493835",
+        "inducing_commit_hash_pyszz": [
+            "01bc465db819d5ba0e433a8226c80a9bd38b593d"
+        ],
+        "inducing_commit_hash_pd": [
+            "01bc465db819d5ba0e433a8226c80a9bd38b593d",
+            "5357ab332472b1ad63c51e3b8db89e302174624d",
+            "10565e4623c7b27760d6a6cc5412b5352fc63bd9",
+            "fa66290b61d0e14a5a367c01eb955289ae791068"
+        ],
+        "matched": [
+            "01bc465db819d5ba0e433a8226c80a9bd38b593d"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-36068",
+        "Problem_Type": "CWE-862",
+        "Description": "Discourse is an open source discussion platform. In versions prior to 2.8.9 on the `stable` branch and prior to 2.9.0.beta10 on the `beta` and `tests-passed` branches, a moderator can create new and edit existing themes by using the API when they should not be able to do so. The problem is patched in version 2.8.9 on the `stable` branch and version 2.9.0.beta10 on the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/18418",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ae1e536e83940d58f1c79b835c75c249121c46b6",
+        "inducing_commit_hash_pyszz": [
+            "e51de4cc25757cc03d960eb8ff3393217c706468"
+        ],
+        "inducing_commit_hash_pd": [
+            "39e679d3cb208755231c99d8b5a56f077e9a256f",
+            "a3e8c3cd7ba5b8e0ea5d89e6eded3f995ab24aba",
+            "bc0b9af576c7a99f4f89be0bf10aa3c9b3697c77",
+            "def7348777832f454c92f07c75ced769b5ae1718",
+            "e51de4cc25757cc03d960eb8ff3393217c706468"
+        ],
+        "matched": [
+            "e51de4cc25757cc03d960eb8ff3393217c706468"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-39226",
+        "Problem_Type": "CWE-770",
+        "Description": "Discourse is an open source discussion platform. In versions prior to 2.8.9 on the `stable` branch and prior to 2.9.0.beta10 on the `beta` and `tests-passed` branches, a malicious actor can add large payloads of text into the Location and Website fields of a user profile, which causes issues for other users when loading that profile. A fix to limit the length of user input for these fields is included in version 2.8.9 on the `stable` branch and version 2.9.0.beta10 on the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/18302",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e69f7d2fd9c977dedbdb17f6813651e2a45bfb71",
+        "inducing_commit_hash_pyszz": [
+            "5a4c35f62714d2d72bc0ee57a10e08116bdc476a"
+        ],
+        "inducing_commit_hash_pd": [
+            "5a4c35f62714d2d72bc0ee57a10e08116bdc476a",
+            "ba148e082df2dfecafa6ee32bf4a64dcf80affc3"
+        ],
+        "matched": [
+            "5a4c35f62714d2d72bc0ee57a10e08116bdc476a"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-39232",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Discourse is an open source discussion platform. Starting with version 2.9.0.beta5 and prior to version 2.9.0.beta10, an incomplete quote can generate a JavaScript error which will crash the current page in the browser in some cases. Version 2.9.0.beta10 added a fix and tests to ensure incomplete quotes won't break the app. As a workaround, the quote can be fixed via the rails console.",
+        "URL": "https://github.com/discourse/discourse/pull/18311",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "eab33af5bf19827527fe79134d865b5c727f6530",
+        "inducing_commit_hash_pyszz": [
+            "20740f196cd56f3db776e6439e00b7466f76dcd1"
+        ],
+        "inducing_commit_hash_pd": [
+            "20740f196cd56f3db776e6439e00b7466f76dcd1"
+        ],
+        "matched": [
+            "20740f196cd56f3db776e6439e00b7466f76dcd1"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-39356",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Discourse is a platform for community discussion. Users who receive an invitation link that is not scoped to a single email address can enter any non-admin user's email and gain access to their account when accepting the invitation. All users should upgrade to the latest version. A workaround is temporarily disabling invitations with `SiteSetting.max_invites_per_day = 0` or scope them to individual email addresses.",
+        "URL": "https://github.com/discourse/discourse/pull/18817",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "07ef1a80a1461123d602c57e366974aed265a91e",
+        "inducing_commit_hash_pyszz": [
+            "d600c36036c5c3b53787067682128ae2d86311bf"
+        ],
+        "inducing_commit_hash_pd": [
+            "a842b71a0556c06b38bdda7b848f6b7c33b5f262",
+            "51483e1aef1f0d93d00c1d22ae4c8188686ae46a",
+            "355d51afde190b884dbb9b81ebc836a16b48d98c",
+            "dffc3a2f8efe5c230fa660dc055a290ab6ef827d",
+            "534008ba24cc18fb21c1b88d43960b379962c5fb",
+            "9969631cef89290b00edcf236df1ddd8fc756bdd",
+            "033d6b64374dce833ecb073fbf824428d3a78bcd",
+            "ff44515a18bb9132aa6bd22c85d5a6a91f6efb70",
+            "1253afdf959051b84d15d37e133dc7875ef520cb",
+            "bcd6efa98c6d9fa7d3d5cc46f42174e3ab0abecc",
+            "8335c8dc1a30a2be87173e9d844b6890d1d00225",
+            "ef68e11137e35cde505e9cee45ea32f88feeee48",
+            "c047640ad4547cef87bf2c2a8326e210d0b276dd",
+            "7c4e2d33fa4b922354c177ffc880a2f2701a91f9",
+            "40f6ceb6f2256540806733e16facdbf239a402be",
+            "9aa2723d57cf9edaad0873ba64d3d1e5a9d7fdc7",
+            "81e5352e013f34a86806248f57c61cec1f51a7b9",
+            "0591d5be11051efae50516211384cc24618dd813",
+            "3094459cd979e95067e5299e08fc94cf3f8ea0d3",
+            "528cfea079a5555e92b1d546a199e03fd6528790",
+            "f25eda13fa76a817731457e62b277b423fd2d9c7",
+            "ce04db861033c906830fd07ae98b3d0cb375c753",
+            "91b6b5eee7a193b9adcff07131c8e1904e29b61a",
+            "2d8ebe989a130ba5a21b194d0450a8602c2e2895",
+            "7179fbab7734bff42f4c6338ea971a7624df50f8",
+            "d0fbb27f3ece024762629257032387a34741ab05",
+            "d600c36036c5c3b53787067682128ae2d86311bf",
+            "ea05a68df7eee15c9db55c26d55efb21bb17247f",
+            "bea7a8a4d1ab28a52540551f8c7fa909be7bc8a0",
+            "584c6a2e8bc705072b09a9c4b55126d6f8ed4ad2",
+            "88f9bb3dc99eab61108ce1140bbf3153fc054542",
+            "115859964d6e3e92d6d933ffe8e1b330b12a3aca",
+            "2d904ade6dfb260c85e2437247eafe86c7ade3b9",
+            "474ff94df3c6dda7f8b12628c62985c7f9f2db27"
+        ],
+        "matched": [
+            "d600c36036c5c3b53787067682128ae2d86311bf"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2022-46168",
+        "Problem_Type": "CWE-359",
+        "Description": "Discourse is an option source discussion platform. Prior to version 2.8.14 on the `stable` branch and version 2.9.0.beta15 on the `beta` and `tests-passed` branches, recipients of a group SMTP email could see the email addresses of all other users inside the group SMTP topic. Most of the time this is not an issue as they are likely already familiar with one another's email addresses. This issue is patched in versions 2.8.14 and 2.9.0.beta15. The fix is that someone sending emails out via group SMTP to non-staged users masks those emails with blind carbon copy (BCC). Staged users are ones that have likely only interacted with the group via email, and will likely include other people who were CC'd on the original email to the group. As a workaround, disable group SMTP for any groups that have it enabled.",
+        "URL": "https://github.com/discourse/discourse/pull/19724",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7bd83ef6b5bd36a57d64abd3547d4bf4caf8579f",
+        "inducing_commit_hash_pyszz": [
+            "0f688f45bddaac17b2840ab9eed6b2dec2a7f9cf"
+        ],
+        "inducing_commit_hash_pd": [
+            "87684f7c5e7e48841743d38df8a57ed827715b47",
+            "0f688f45bddaac17b2840ab9eed6b2dec2a7f9cf"
+        ],
+        "matched": [
+            "0f688f45bddaac17b2840ab9eed6b2dec2a7f9cf"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-23616",
+        "Problem_Type": "CWE-400",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, when submitting a membership request, there is no character limit for the reason provided with the request. This could potentially allow a user to flood the database with a large amount of data. However it is unlikely this could be used as part of a DoS attack, as the paths reading back the reasons are only available to administrators. Starting in version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, a limit of 280 characters has been introduced for membership requests.",
+        "URL": "https://github.com/discourse/discourse/pull/19993",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d5745d34c20c31a221039d8913f33064433003ea",
+        "inducing_commit_hash_pyszz": [
+            "a9613163b54ae5729765a7e3d4ccc23563202cb7"
+        ],
+        "inducing_commit_hash_pd": [
+            "371bbadb92c02a43ae2ea362ead53cf6a4e575de"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-23620",
+        "Problem_Type": "CWE-200",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, the contents of latest/top routes for restricted tags can be accessed by unauthorized users. This issue is patched in version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/20004",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "105fee978d73b0ec23ff814a09d1c0c9ace95164",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "5a003715d366e1d871f9fcb0656dc9e23e9c2259"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-23621",
+        "Problem_Type": "CWE-1333",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, a malicious user can cause a regular expression denial of service using a carefully crafted user agent. This issue is patched in version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/20002",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "6d92c3cbdac431db99a450f360a3048bb3aaf458",
+        "inducing_commit_hash_pyszz": [
+            "254f48e5681a8674e7c8a4e1b1a0fe7a501f237e"
+        ],
+        "inducing_commit_hash_pd": [
+            "254f48e5681a8674e7c8a4e1b1a0fe7a501f237e"
+        ],
+        "matched": [
+            "254f48e5681a8674e7c8a4e1b1a0fe7a501f237e"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-23622",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 of the `stable` branch and version 3.1.0.beta2 of the `beta` and `tests-passed` branches, the count of topics displayed for a tag is a count of all regular topics regardless of whether the topic is in a read restricted category or not. As a result, any users can technically poll a sensitive tag to determine if a new topic is created in a category which the user does not have excess to. \n\nIn version 3.0.1 of the `stable` branch and version 3.1.0.beta2 of the `beta` and `tests-passed` branches, the count of topics displayed for a tag defaults to only counting regular topics which are not in read restricted categories. Staff users will continue to see a count of all topics regardless of the topic's category read restrictions.",
+        "URL": "https://github.com/discourse/discourse/pull/20004",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "105fee978d73b0ec23ff814a09d1c0c9ace95164",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "5a003715d366e1d871f9fcb0656dc9e23e9c2259"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-23624",
+        "Problem_Type": "CWE-200",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, someone can use the `exclude_tag param` to filter out topics and deduce which ones were using a specific hidden tag. This affects any Discourse site using hidden tags in public categories. This issue is patched in version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches. As a workaround, secure any categories that are using hidden tags, change any existing hidden tags to not include private data, or remove any hidden tags currently in use.",
+        "URL": "https://github.com/discourse/discourse/pull/20006",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "f55e0fe7910149c431861c18ce407d1be0d6091a",
+        "inducing_commit_hash_pyszz": [
+            "e3c724f79fb05c66e3240cb8fd85b24ce8725ca3"
+        ],
+        "inducing_commit_hash_pd": [
+            "64171730827c58df26a7ad75f0e58f17c2add118",
+            "e3c724f79fb05c66e3240cb8fd85b24ce8725ca3"
+        ],
+        "matched": [
+            "e3c724f79fb05c66e3240cb8fd85b24ce8725ca3"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-25172",
+        "Problem_Type": "CWE-79",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 of the `stable` branch and version 3.1.0.beta2 of the `beta` and `tests-passed` branches, a maliciously crafted URL can be included in a user's full name field to to carry out cross-site scripting attacks on sites with a disabled or overly permissive CSP (Content Security Policy). Discourse's default CSP prevents this vulnerability. The vulnerability is patched in version 3.0.1 of the `stable` branch and version 3.1.0.beta2 of the `beta` and `tests-passed` branches. As a workaround, enable and/or restore your site's CSP to the default one provided with Discourse.",
+        "URL": "https://github.com/discourse/discourse/pull/20008",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "c186a46910431020e8efc425dec2133e7a99fa9a",
+        "inducing_commit_hash_pyszz": [
+            "13c2a4886f60fba8c92ee8e002c7244887a21677"
+        ],
+        "inducing_commit_hash_pd": [
+            "102909edb3376d41398a8ca89d821b2e670bcecc",
+            "da9b837da090f1b0e2a960d461a5a79788b301ed",
+            "13c2a4886f60fba8c92ee8e002c7244887a21677"
+        ],
+        "matched": [
+            "13c2a4886f60fba8c92ee8e002c7244887a21677"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-25172",
+        "Problem_Type": "CWE-79",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 of the `stable` branch and version 3.1.0.beta2 of the `beta` and `tests-passed` branches, a maliciously crafted URL can be included in a user's full name field to to carry out cross-site scripting attacks on sites with a disabled or overly permissive CSP (Content Security Policy). Discourse's default CSP prevents this vulnerability. The vulnerability is patched in version 3.0.1 of the `stable` branch and version 3.1.0.beta2 of the `beta` and `tests-passed` branches. As a workaround, enable and/or restore your site's CSP to the default one provided with Discourse.",
+        "URL": "https://github.com/discourse/discourse/pull/20009",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "1a5a6f66cb821ed29a737311d6fdc2eba5adc915",
+        "inducing_commit_hash_pyszz": [
+            "13c2a4886f60fba8c92ee8e002c7244887a21677"
+        ],
+        "inducing_commit_hash_pd": [
+            "102909edb3376d41398a8ca89d821b2e670bcecc",
+            "da9b837da090f1b0e2a960d461a5a79788b301ed",
+            "13c2a4886f60fba8c92ee8e002c7244887a21677"
+        ],
+        "matched": [
+            "13c2a4886f60fba8c92ee8e002c7244887a21677"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-28107",
+        "Problem_Type": "CWE-770",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.2 of the `stable` branch and version 3.1.0.beta3 of the `beta` and `tests-passed` branches, a user logged as an administrator can request backups multiple times, which will eat up all the connections to the DB. If this is done on a site using multisite, then it can affect the whole cluster. The vulnerability is patched in version 3.0.2 of the `stable` branch and version 3.1.0.beta3 of the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/20700",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "78a3efa7104eed6dd3ed7a06a71e2705337d9e61",
+        "inducing_commit_hash_pyszz": [
+            "8626268366117cb94aa606949ea52f84eadd5887"
+        ],
+        "inducing_commit_hash_pd": [
+            "925a15c9aa8a9d0acff3986310d4ee13bc23625c",
+            "578c8e861bf4d5860ae7c2a54bd3c09a833d3910",
+            "e7c972ac890ef9f452da5bd091dadc5a6b14925c",
+            "0bc1fa8aa4ea5393193cc5c44adbf7eee24cd395",
+            "52be5b378208ed70f22fe18466f833916f347c54",
+            "cb932d6ee1b3b3571e4d4d9118635e2dbf58f0ef",
+            "84d4c81a26bb585f67809c6f8af25c2a385de754",
+            "b0c92bb0b925a2406e309de97a320ccbcff9bedd",
+            "c94a2bc69b9fcbc39435066a35f0263390a8257c",
+            "b981041f6f79585953fded3797c821901e5bb9dd",
+            "8626268366117cb94aa606949ea52f84eadd5887",
+            "1a8ca68ea3eed9b218c762593aef5c70584c91a7",
+            "c8661674d4f471143326333caf2ee6c149234ee6"
+        ],
+        "matched": [
+            "8626268366117cb94aa606949ea52f84eadd5887"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-28107",
+        "Problem_Type": "CWE-770",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.0.2 of the `stable` branch and version 3.1.0.beta3 of the `beta` and `tests-passed` branches, a user logged as an administrator can request backups multiple times, which will eat up all the connections to the DB. If this is done on a site using multisite, then it can affect the whole cluster. The vulnerability is patched in version 3.0.2 of the `stable` branch and version 3.1.0.beta3 of the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/20701",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "0bd64788d2b4680c04fbef76314a24884d65fed9",
+        "inducing_commit_hash_pyszz": [
+            "8626268366117cb94aa606949ea52f84eadd5887"
+        ],
+        "inducing_commit_hash_pd": [
+            "925a15c9aa8a9d0acff3986310d4ee13bc23625c",
+            "578c8e861bf4d5860ae7c2a54bd3c09a833d3910",
+            "e7c972ac890ef9f452da5bd091dadc5a6b14925c",
+            "0bc1fa8aa4ea5393193cc5c44adbf7eee24cd395",
+            "52be5b378208ed70f22fe18466f833916f347c54",
+            "cb932d6ee1b3b3571e4d4d9118635e2dbf58f0ef",
+            "84d4c81a26bb585f67809c6f8af25c2a385de754",
+            "b0c92bb0b925a2406e309de97a320ccbcff9bedd",
+            "c94a2bc69b9fcbc39435066a35f0263390a8257c",
+            "b981041f6f79585953fded3797c821901e5bb9dd",
+            "8626268366117cb94aa606949ea52f84eadd5887",
+            "1a8ca68ea3eed9b218c762593aef5c70584c91a7",
+            "c8661674d4f471143326333caf2ee6c149234ee6"
+        ],
+        "matched": [
+            "8626268366117cb94aa606949ea52f84eadd5887"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-28111",
+        "Problem_Type": "CWE-918",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.1.0.beta3 of the `beta` and `tests-passed` branches, attackers are able to bypass Discourse's server-side request forgery (SSRF) protection for private IPv4 addresses by using a IPv4-mapped IPv6 address. The issue is patched in the latest beta and tests-passed version of Discourse. version 3.1.0.beta3 of the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/20710",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "5103d249aaecace4780d8271ad1af0fb2a060843",
+        "inducing_commit_hash_pyszz": [
+            "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
+        ],
+        "inducing_commit_hash_pd": [
+            "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
+        ],
+        "matched": [
+            "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
+        ]
+    },
+    {
+        "repo_name": "discourse/discourse",
+        "CVE_ID": "CVE-2023-28112",
+        "Problem_Type": "CWE-918",
+        "Description": "Discourse is an open-source discussion platform. Prior to version 3.1.0.beta3 of the `beta` and `tests-passed` branches, some user provided URLs were being passed to FastImage without SSRF protection. Insufficient protections could enable attackers to trigger outbound network connections from the Discourse server to private IP addresses. This affects any site running the `tests-passed` or `beta` branches versions 3.1.0.beta2 and prior. This issue is patched in version 3.1.0.beta3 of the `beta` and `tests-passed` branches. There are no known workarounds.",
+        "URL": "https://github.com/discourse/discourse/pull/20710",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "5103d249aaecace4780d8271ad1af0fb2a060843",
+        "inducing_commit_hash_pyszz": [
+            "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
+        ],
+        "inducing_commit_hash_pd": [
+            "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
+        ],
+        "matched": [
+            "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
+        ]
+    }
+]
