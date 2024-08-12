@@ -1,0 +1,50 @@
+[
+    {
+        "repo_name": "CrowCpp/Crow",
+        "CVE_ID": "CVE-2021-23514",
+        "Problem_Type": "CWE-22",
+        "Description": "This affects the package Crow before 0.3+4. It is possible to traverse directories to fetch arbitrary files from the server.",
+        "URL": "https://github.com/CrowCpp/Crow/pull/317",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8cfdfca76ee6d5195c51a7e1d4d62eb40d3dc0e2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "CrowCpp/Crow",
+        "CVE_ID": "CVE-2021-23824",
+        "Problem_Type": "CWE-79",
+        "Description": "This affects the package Crow before 0.3+4. When using attributes without quotes in the template, an attacker can manipulate the input to introduce additional attributes, potentially executing code. This may lead to a Cross-site Scripting (XSS) vulnerability, assuming an attacker can influence the value entered into the template. If the template is used to render user-generated content, this vulnerability may escalate to a persistent XSS vulnerability.",
+        "URL": "https://github.com/CrowCpp/Crow/pull/317",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8cfdfca76ee6d5195c51a7e1d4d62eb40d3dc0e2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "CrowCpp/Crow",
+        "CVE_ID": "CVE-2022-34970",
+        "Problem_Type": "CWE-193",
+        "Description": "Crow before 1.0+4 has a heap-based buffer overflow via the function qs_parse in query_string.h. On successful exploitation this vulnerability allows attackers to remotely execute arbitrary code in the context of the vulnerable service.",
+        "URL": "https://github.com/CrowCpp/Crow/pull/486",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2c6437aee697e5927ea098c0b4af0d37861ae58b",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "CrowCpp/Crow",
+        "CVE_ID": "CVE-2022-38667",
+        "Problem_Type": "CWE-416",
+        "Description": "HTTP applications (servers) based on Crow through 1.0+4 may allow a Use-After-Free and code execution when HTTP pipelining is used. The HTTP parser supports HTTP pipelining, but the asynchronous Connection layer is unaware of HTTP pipelining. Specifically, the Connection layer is unaware that it has begun processing a later request before it has finished processing an earlier request.",
+        "URL": "https://github.com/CrowCpp/Crow/pull/524",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "62271141914f758a515a9c1447d0bae196ef8ddd",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
