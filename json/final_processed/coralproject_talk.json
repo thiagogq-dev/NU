@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "coralproject/talk",
+        "CVE_ID": "CVE-2021-35970",
+        "Problem_Type": "CWE-697",
+        "Description": "Talk 4 in Coral before 4.12.1 allows remote attackers to discover e-mail addresses and other sensitive information via GraphQL because permission checks use an incorrect data type.",
+        "URL": "https://github.com/coralproject/talk/pull/3599",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f9bb5857dad411567daf92b3507b69bdddb4b7d9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
