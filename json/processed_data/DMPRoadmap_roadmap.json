@@ -1,1 +1,0 @@
-[{"repo_name": "DMPRoadmap/roadmap", "CVE_ID": "CVE-2021-44896", "Problem_Type": "CWE-79", "Description": "DMP Roadmap before 3.0.4 allows XSS.", "URL": "https://github.com/DMPRoadmap/roadmap/pull/3030", "Tag": "['Patch', 'Third Party Advisory']", "fix_commit_hash": "7a973552e284635c1167c06d371ededf344b7d58", "inducing_commit_hash_pyszz": []}]
