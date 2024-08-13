@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "eclipse-platform/eclipse.platform",
+        "CVE_ID": "CVE-2023-4218",
+        "Problem_Type": "CWE-611",
+        "Description": "In Eclipse IDE versions < 2023-09 (4.29) some files with xml content are parsed vulnerable against all sorts of XXE attacks. The user just needs to open any evil project or update an open project with a vulnerable file (for example for review a foreign repository or patch).\n",
+        "URL": "https://github.com/eclipse-platform/eclipse.platform/pull/761",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "d0ec0a8a6c1d8dbf19151bbb290a48b86edb1c28",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "5dc372a0c5002b7f22e5d49eaa1cbf0916455daf"
+        ],
+        "matched": []
+    }
+]
