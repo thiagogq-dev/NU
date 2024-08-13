@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "flynn/noise",
+        "CVE_ID": "CVE-2021-4239",
+        "Problem_Type": "CWE-311",
+        "Description": "The Noise protocol implementation suffers from weakened cryptographic security after encrypting 2^64 messages, and a potential denial of service attack. After 2^64 (~18.4 quintillion) messages are encrypted with the Encrypt function, the nonce counter will wrap around, causing multiple messages to be encrypted with the same key and nonce. In a separate issue, the Decrypt function increments the nonce state even when it fails to decrypt a message. If an attacker can provide an invalid input to the Decrypt function, this will cause the nonce state to desynchronize between the peers, resulting in a failure to encrypt all subsequent messages.",
+        "URL": "https://github.com/flynn/noise/pull/44",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2499bf1bad239a8316c32932a993642350b3afdb",
+        "inducing_commit_hash_pyszz": [
+            "14af5e1fc86f8293637b4d486b7d94bb2291ad4a"
+        ],
+        "inducing_commit_hash_pd": [
+            "14af5e1fc86f8293637b4d486b7d94bb2291ad4a"
+        ],
+        "matched": [
+            "14af5e1fc86f8293637b4d486b7d94bb2291ad4a"
+        ]
+    }
+]
