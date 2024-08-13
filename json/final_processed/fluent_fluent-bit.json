@@ -1,0 +1,68 @@
+[
+    {
+        "repo_name": "fluent/fluent-bit",
+        "CVE_ID": "CVE-2021-27186",
+        "Problem_Type": "CWE-476",
+        "Description": "Fluent Bit 1.6.10 has a NULL pointer dereference when an flb_malloc return value is not validated by flb_avro.c or http_server/api/v1/metrics.c.",
+        "URL": "https://github.com/fluent/fluent-bit/pull/3045",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1f0918b2e195742f65c9592d9058884fd2dea203",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "fluent/fluent-bit",
+        "CVE_ID": "CVE-2021-27186",
+        "Problem_Type": "CWE-476",
+        "Description": "Fluent Bit 1.6.10 has a NULL pointer dereference when an flb_malloc return value is not validated by flb_avro.c or http_server/api/v1/metrics.c.",
+        "URL": "https://github.com/fluent/fluent-bit/pull/3047",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "617745113575b5ab8749ee28a89a352e2b8192f4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "fluent/fluent-bit",
+        "CVE_ID": "CVE-2021-36088",
+        "Problem_Type": "CWE-415",
+        "Description": "Fluent Bit (aka fluent-bit) 1.7.0 through 1.7,4 has a double free in flb_free (called from flb_parser_json_do and flb_parser_do).",
+        "URL": "https://github.com/fluent/fluent-bit/pull/3453",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "22346a74c07ceb90296be872be2d53eb92252a54",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "fluent/fluent-bit",
+        "CVE_ID": "CVE-2021-46878",
+        "Problem_Type": "CWE-843",
+        "Description": "An issue was discovered in Treasure Data Fluent Bit 1.7.1, erroneous parsing in flb_pack_msgpack_to_json_format leads to type confusion bug that interprets whatever is on the stack as msgpack maps and arrays, leading to use-after-free. This can be used by an attacker to craft a specially craft file and trick the victim opening it using the affect software, triggering use-after-free and execute arbitrary code on the target system.",
+        "URL": "https://github.com/fluent/fluent-bit/pull/3115",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "172f393e20dad1a69e9a79c3d6f8d4c78f921b2f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "fluent/fluent-bit",
+        "CVE_ID": "CVE-2021-46879",
+        "Problem_Type": "CWE-787",
+        "Description": "An issue was discovered in Treasure Data Fluent Bit 1.7.1, a wrong variable is used to get the msgpack data resulting in a heap overflow in flb_msgpack_gelf_value_ext. An attacker can craft a malicious file and tick the victim to open the file with the software, triggering a heap overflow and execute arbitrary code on the target system.",
+        "URL": "https://github.com/fluent/fluent-bit/pull/3100",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "9a3bd47ec6121492e2c5e37ca14f5827bb7d6db2",
+        "inducing_commit_hash_pyszz": [
+            "d195016836d800439ee74d76e00a945433545142"
+        ],
+        "inducing_commit_hash_pd": [
+            "d195016836d800439ee74d76e00a945433545142"
+        ],
+        "matched": [
+            "d195016836d800439ee74d76e00a945433545142"
+        ]
+    }
+]
