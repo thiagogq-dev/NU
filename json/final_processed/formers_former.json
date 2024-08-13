@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "formers/former",
+        "CVE_ID": "CVE-2019-15476",
+        "Problem_Type": "CWE-79",
+        "Description": "Former before 4.2.1 has XSS via a checkbox value.",
+        "URL": "https://github.com/formers/former/pull/584",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "81f0969426a4845108ca7c4a8b3cec6337bb56b4",
+        "inducing_commit_hash_pyszz": [
+            "4adb92c41a69421259f809750605e4da72d7bf9a"
+        ],
+        "inducing_commit_hash_pd": [
+            "fa62bb2fabb5686fbb00cd63bf5598558051e6e4"
+        ],
+        "matched": []
+    }
+]
