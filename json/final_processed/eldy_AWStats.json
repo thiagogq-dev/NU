@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "eldy/AWStats",
+        "CVE_ID": "CVE-2022-46391",
+        "Problem_Type": "CWE-79",
+        "Description": "AWStats 7.x through 7.8 allows XSS in the hostinfo plugin due to printing a response from Net::XWhois without proper checks.",
+        "URL": "https://github.com/eldy/AWStats/pull/226",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e5b9d688972ce0844ebb3659e3b246ffe3baae0f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
