@@ -1,0 +1,116 @@
+[
+    {
+        "repo_name": "envoyproxy/envoy",
+        "CVE_ID": "CVE-2020-35470",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Envoy before 1.16.1 logs an incorrect downstream address because it considers only the directly connected peer, not the information in the proxy protocol header. This affects situations with tcp-proxy as the network filter (not HTTP filters).",
+        "URL": "https://github.com/envoyproxy/envoy/pull/14131",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "31e225b628a316322a0bcbd237a143eade995d22",
+        "inducing_commit_hash_pyszz": [
+            "f8bfc6a16ffebf1ecb9cdf8eb1265912118ae7bf"
+        ],
+        "inducing_commit_hash_pd": [
+            "5248a4fb7d4c2a3d1fa151f944d3a63f6b7a06cf",
+            "3285c1a6b0647352f3561f42e2591bf29acb4f2d",
+            "f8bfc6a16ffebf1ecb9cdf8eb1265912118ae7bf",
+            "db2eddaeed36d4e027d8008e67eb37d2c1fd3a4a",
+            "741df7aa13ddb15acbc77468579f0c6b58542839",
+            "c0a01f95f7f9c9e99124c38931d50136298c7178"
+        ],
+        "matched": [
+            "f8bfc6a16ffebf1ecb9cdf8eb1265912118ae7bf"
+        ]
+    },
+    {
+        "repo_name": "envoyproxy/envoy",
+        "CVE_ID": "CVE-2020-35471",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Envoy before 1.16.1 mishandles dropped and truncated datagrams, as demonstrated by a segmentation fault for a UDP packet size larger than 1500.",
+        "URL": "https://github.com/envoyproxy/envoy/pull/14122",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1ed6ddfb615307755643f810b078ca7fe9d771fa",
+        "inducing_commit_hash_pyszz": [
+            "8221eb993e7ab41e7dfd88e5f39c0e946fc3f87e"
+        ],
+        "inducing_commit_hash_pd": [
+            "6c3c2b3dec83966ef6f84a8d767c4b5acc341aca",
+            "477fafdaa8423cff1a5c22d58904c22eed9155f3",
+            "d173319c99d7764daf1ef0d2e9009a94dba04790",
+            "8221eb993e7ab41e7dfd88e5f39c0e946fc3f87e",
+            "9ead261f63cf2d1833f2282d98c7071516970945",
+            "44a8588219209c4b96fca2e7e9f009138e1f3ca6",
+            "57ac960c54389dfa55df1d5c7db2754e3e326ffd"
+        ],
+        "matched": [
+            "8221eb993e7ab41e7dfd88e5f39c0e946fc3f87e"
+        ]
+    },
+    {
+        "repo_name": "envoyproxy/envoy",
+        "CVE_ID": "CVE-2021-21378",
+        "Problem_Type": "CWE-287",
+        "Description": "Envoy is a cloud-native high-performance edge/middle/service proxy. In Envoy version 1.17.0 an attacker can bypass authentication by presenting a JWT token with an issuer that is not in the provider list when Envoy's JWT Authentication filter is configured with the `allow_missing` requirement under `requires_any` due to a mistake in implementation. Envoy's JWT Authentication filter can be configured with the `allow_missing` requirement that will be satisfied if JWT is missing (JwtMissed error) and fail if JWT is presented or invalid. Due to a mistake in implementation, a JwtUnknownIssuer error was mistakenly converted to JwtMissed when `requires_any` was configured. So if `allow_missing` was configured under `requires_any`, an attacker can bypass authentication by presenting a JWT token with an issuer that is not in the provider list. Integrity may be impacted depending on configuration if the JWT token is used to protect against writes or modifications. This regression was introduced on 2020/11/12 in PR 13839 which fixed handling `allow_missing` under RequiresAny in a JwtRequirement (see issue 13458). The AnyVerifier aggregates the children verifiers' results into a final status where JwtMissing is the default error. However, a JwtUnknownIssuer was mistakenly treated the same as a JwtMissing error and the resulting final aggregation was the default JwtMissing. As a result, `allow_missing` would allow a JWT token with an unknown issuer status. This is fixed in version 1.17.1 by PR 15194. The fix works by preferring JwtUnknownIssuer over a JwtMissing error, fixing the accidental conversion and bypass with `allow_missing`. A user could detect whether a bypass occurred if they have Envoy logs enabled with debug verbosity. Users can enable component level debug logs for JWT. The JWT filter logs will indicate that there is a request with a JWT token and a failure that the JWT token is missing.",
+        "URL": "https://github.com/envoyproxy/envoy/pull/15194",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "ea39e3cba652bcc4b11bb0d5c62b017e584d2e5a",
+        "inducing_commit_hash_pyszz": [
+            "9270506f9f2b6786c21719bed3a97a6e0e71a760"
+        ],
+        "inducing_commit_hash_pd": [
+            "ae5d9c4bd5f56a25149b8e2b3bcb0747b0228670",
+            "9270506f9f2b6786c21719bed3a97a6e0e71a760"
+        ],
+        "matched": [
+            "9270506f9f2b6786c21719bed3a97a6e0e71a760"
+        ]
+    },
+    {
+        "repo_name": "envoyproxy/envoy",
+        "CVE_ID": "CVE-2022-21657",
+        "Problem_Type": "CWE-295",
+        "Description": "Envoy is an open source edge and service proxy, designed for cloud-native applications. In affected versions Envoy does not restrict the set of certificates it accepts from the peer, either as a TLS client or a TLS server, to only those certificates that contain the necessary extendedKeyUsage (id-kp-serverAuth and id-kp-clientAuth, respectively). This means that a peer may present an e-mail certificate (e.g. id-kp-emailProtection), either as a leaf certificate or as a CA in the chain, and it will be accepted for TLS. This is particularly bad when combined with the issue described in pull request #630, in that it allows a Web PKI CA that is intended only for use with S/MIME, and thus exempted from audit or supervision, to issue TLS certificates that will be accepted by Envoy. As a result Envoy will trust upstream certificates that should not be trusted. There are no known workarounds to this issue. Users are advised to upgrade.",
+        "URL": "https://github.com/envoyproxy/envoy/pull/630",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f6c9e95593282befdc51473a082aa2589d2ce3bf",
+        "inducing_commit_hash_pyszz": [
+            "13cfaf40ebda10bdbe67079b3820e11cbe684e13"
+        ],
+        "inducing_commit_hash_pd": [
+            "0e16148b83547486383714e412ee4bad4b054099",
+            "3285c1a6b0647352f3561f42e2591bf29acb4f2d",
+            "f17c288959fdf37d4ec0d9ccd764883437d53a36",
+            "8337bb12f2e9eb628315420aca4fd184fab1abc4",
+            "13cfaf40ebda10bdbe67079b3820e11cbe684e13",
+            "a1aceb85e6c7da06c8972ee67c8a216ab383bd85",
+            "1c6da3abe4eef9516edb52bcde464b2059e4237a",
+            "88ed42a8ffe2cfa0029653222786eaec2bc1d13f"
+        ],
+        "matched": [
+            "13cfaf40ebda10bdbe67079b3820e11cbe684e13"
+        ]
+    },
+    {
+        "repo_name": "envoyproxy/envoy",
+        "CVE_ID": "CVE-2023-44487",
+        "Problem_Type": "CWE-400",
+        "Description": "The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
+        "URL": "https://github.com/envoyproxy/envoy/pull/30055",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f737277d9f7841675670a93e6b01415ee26abb8b",
+        "inducing_commit_hash_pyszz": [
+            "bfec1286b63dfb4c54409f5a6f65876385c5d750"
+        ],
+        "inducing_commit_hash_pd": [
+            "b93886ca040795407efc641f8b41eaf35e7bf1bb",
+            "3f1c9d7866a5ce557c7754d06420a5cbb17dfe8c",
+            "bfec1286b63dfb4c54409f5a6f65876385c5d750",
+            "1a7b32de759939f82af2cf7e83471aff5d57c93d",
+            "5ddb5f45f4405dcc43175e5995821da4ac892ccb",
+            "4ad03270ea93fed5ad13ed78800617e5b665fd79"
+        ],
+        "matched": [
+            "bfec1286b63dfb4c54409f5a6f65876385c5d750"
+        ]
+    }
+]
