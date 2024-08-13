@@ -1,0 +1,36 @@
+[
+    {
+        "repo_name": "embedchain/embedchain",
+        "CVE_ID": "CVE-2024-23731",
+        "Problem_Type": "CWE-88",
+        "Description": "The OpenAPI loader in Embedchain before 0.1.57 allows attackers to execute arbitrary code, related to the openapi.py yaml.load function argument.",
+        "URL": "https://github.com/embedchain/embedchain/pull/1122",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "f7696d1dc17e4de5333f468860bb91f7c420e0a4",
+        "inducing_commit_hash_pyszz": [
+            "5255a37c93c49531f5c8f4398dd43a3a2cf41e8c"
+        ],
+        "inducing_commit_hash_pd": [
+            "aee5bbb44b507d6f671355777561b8d5ed236b4c",
+            "797bb567c6d05e8561bab202eb85efd1b7c5a197"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "embedchain/embedchain",
+        "CVE_ID": "CVE-2024-23732",
+        "Problem_Type": "CWE-1333",
+        "Description": "The JSON loader in Embedchain before 0.1.57 allows a ReDoS (regular expression denial of service) via a long string to json.py.",
+        "URL": "https://github.com/embedchain/embedchain/pull/1122",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "f7696d1dc17e4de5333f468860bb91f7c420e0a4",
+        "inducing_commit_hash_pyszz": [
+            "5255a37c93c49531f5c8f4398dd43a3a2cf41e8c"
+        ],
+        "inducing_commit_hash_pd": [
+            "aee5bbb44b507d6f671355777561b8d5ed236b4c",
+            "797bb567c6d05e8561bab202eb85efd1b7c5a197"
+        ],
+        "matched": []
+    }
+]
