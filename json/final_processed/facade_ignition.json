@@ -1,0 +1,33 @@
+[
+    {
+        "repo_name": "facade/ignition",
+        "CVE_ID": "CVE-2021-3129",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Ignition before 2.5.2, as used in Laravel and other products, allows unauthenticated remote attackers to execute arbitrary code because of insecure usage of file_get_contents() and file_put_contents(). This is exploitable on sites using debug mode with Laravel before 8.4.2.",
+        "URL": "https://github.com/facade/ignition/pull/334",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "03a8aa13945fcce963cd12a05ba5a2ef26c335d5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facade/ignition",
+        "CVE_ID": "CVE-2021-43996",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "The Ignition component before 1.16.15, and 2.0.x before 2.0.6, for Laravel has a \"fix variable names\" feature that can lead to incorrect access control.",
+        "URL": "https://github.com/facade/ignition/pull/285",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c606a03b164eab2cbeac6b0bf8cfced0f4678989",
+        "inducing_commit_hash_pyszz": [
+            "02a6e4e23838c76951e1459fe587028162f602b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "22514b03a9a9f5656cb8a60a468d404f24acb9b8",
+            "02a6e4e23838c76951e1459fe587028162f602b8"
+        ],
+        "matched": [
+            "02a6e4e23838c76951e1459fe587028162f602b8"
+        ]
+    }
+]
