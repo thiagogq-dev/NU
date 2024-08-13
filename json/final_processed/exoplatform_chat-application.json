@@ -1,0 +1,21 @@
+[
+    {
+        "repo_name": "exoplatform/chat-application",
+        "CVE_ID": "CVE-2022-4902",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability classified as problematic has been found in eXo Chat Application. Affected is an unknown function of the file application/src/main/webapp/vue-app/components/ExoChatMessageComposer.vue of the component Mention Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 3.3.0-20220417 is able to address this issue. The name of the patch is 26bf307d3658d1403cfd5c3ad423ce4c4d1cb2dc. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-220212.",
+        "URL": "https://github.com/exoplatform/chat-application/pull/485",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "26bf307d3658d1403cfd5c3ad423ce4c4d1cb2dc",
+        "inducing_commit_hash_pyszz": [
+            "40f814ff9a2956a23c0e5a68d75203c08d20940b"
+        ],
+        "inducing_commit_hash_pd": [
+            "40f814ff9a2956a23c0e5a68d75203c08d20940b",
+            "d217644198dc6ba0a5c6b0d73fb5f19ada4d81dc"
+        ],
+        "matched": [
+            "40f814ff9a2956a23c0e5a68d75203c08d20940b"
+        ]
+    }
+]
