@@ -1,0 +1,48 @@
+[
+    {
+        "repo_name": "drogonframework/drogon",
+        "CVE_ID": "CVE-2022-25297",
+        "Problem_Type": "CWE-552",
+        "Description": "This affects the package drogonframework/drogon before 1.7.5. The unsafe handling of file names during upload using HttpFile::save() method may enable attackers to write files to arbitrary locations outside the designated target folder.",
+        "URL": "https://github.com/drogonframework/drogon/pull/1174",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "3c785326c63a34aa1799a639ae185bc9453cb447",
+        "inducing_commit_hash_pyszz": [
+            "f522d2d70efeb5e1e7e027322e4ca1379322de6b"
+        ],
+        "inducing_commit_hash_pd": [
+            "6a3f72f2e58df291ecf6e72bc5a5379c201b46c2",
+            "aa26e9a90388b6a6fe5356e2d12b6f6091c82818",
+            "f522d2d70efeb5e1e7e027322e4ca1379322de6b",
+            "d888816997969435b907bec3881df7f4229f3583",
+            "0b5075bfa9e6f124e78bfe042d26d17bce96dda2"
+        ],
+        "matched": [
+            "f522d2d70efeb5e1e7e027322e4ca1379322de6b"
+        ]
+    },
+    {
+        "repo_name": "drogonframework/drogon",
+        "CVE_ID": "CVE-2022-3959",
+        "Problem_Type": "CWE-330",
+        "Description": "A vulnerability, which was classified as problematic, has been found in drogon up to 1.8.1. Affected by this issue is some unknown functionality of the component Session Hash Handler. The manipulation leads to small space of random values. The attack may be launched remotely. Upgrading to version 1.8.2 is able to address this issue. The name of the patch is c0d48da99f66aaada17bcd28b07741cac8697647. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-213464.",
+        "URL": "https://github.com/drogonframework/drogon/pull/1433",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c0d48da99f66aaada17bcd28b07741cac8697647",
+        "inducing_commit_hash_pyszz": [
+            "b654e35e51907281d6b24d214577f759ff05e96c"
+        ],
+        "inducing_commit_hash_pd": [
+            "5c9799c15ae747b954dbd70ccf680a76a761d9b8",
+            "e5fe92c67aab308489de81335902d9d95d05c095",
+            "784eb81014adb75bacdf1c24913f03ec842631ba",
+            "cfe1681b0f1eacd11cb6684bf7bacb3d330c9df3",
+            "be08aba9d1dcb651b3933bbfb7e2f1f926147112",
+            "40ffb2d2af70ff532b36b57f2a4cf3cfb44b309d",
+            "b654e35e51907281d6b24d214577f759ff05e96c"
+        ],
+        "matched": [
+            "b654e35e51907281d6b24d214577f759ff05e96c"
+        ]
+    }
+]
