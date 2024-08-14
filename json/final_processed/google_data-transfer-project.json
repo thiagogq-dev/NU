@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "google/data-transfer-project",
+        "CVE_ID": "CVE-2021-22572",
+        "Problem_Type": "CWE-668",
+        "Description": "On unix-like systems, the system temporary directory is shared between all users on that system. The root cause is File.createTempFile creates files in the the system temporary directory with world readable permissions. Any sensitive information written to theses files is visible to all other local users on unix-like systems. We recommend upgrading past commit https://github.com/google/data-transfer-project/pull/969",
+        "URL": "https://github.com/google/data-transfer-project/pull/969",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9ddcb02edb9c13d2713460e347f8b343c84aa2f4",
+        "inducing_commit_hash_pyszz": [
+            "17c212f58726a627c095933db97a485ded1881f9"
+        ],
+        "inducing_commit_hash_pd": [
+            "17c212f58726a627c095933db97a485ded1881f9"
+        ],
+        "matched": [
+            "17c212f58726a627c095933db97a485ded1881f9"
+        ]
+    }
+]

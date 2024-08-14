@@ -1,0 +1,44 @@
+[
+    {
+        "repo_name": "goauthentik/authentik",
+        "CVE_ID": "CVE-2023-48228",
+        "Problem_Type": "CWE-287",
+        "Description": "authentik is an open-source identity provider. When initialising a oauth2 flow with a `code_challenge` and `code_method` (thus requesting PKCE), the single sign-on provider (authentik) must check if there is a matching and existing `code_verifier` during the token step. Prior to versions 2023.10.4 and 2023.8.5, authentik checks if the contents of `code_verifier` is matching only when it is provided. When it is left out completely, authentik simply accepts the token request with out it; even when the flow was started with a `code_challenge`. authentik 2023.8.5 and 2023.10.4 fix this issue.",
+        "URL": "https://github.com/goauthentik/authentik/pull/7666",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "b88e39411c12e3f9e04125a7887f12354f760a14",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "c7a2410b1d2d029b7d9870f30aee6cfe59e9f499"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "goauthentik/authentik",
+        "CVE_ID": "CVE-2023-48228",
+        "Problem_Type": "CWE-287",
+        "Description": "authentik is an open-source identity provider. When initialising a oauth2 flow with a `code_challenge` and `code_method` (thus requesting PKCE), the single sign-on provider (authentik) must check if there is a matching and existing `code_verifier` during the token step. Prior to versions 2023.10.4 and 2023.8.5, authentik checks if the contents of `code_verifier` is matching only when it is provided. When it is left out completely, authentik simply accepts the token request with out it; even when the flow was started with a `code_challenge`. authentik 2023.8.5 and 2023.10.4 fix this issue.",
+        "URL": "https://github.com/goauthentik/authentik/pull/7668",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "6b9afed21f7c39f171a4a445654cfe415bba37d5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "c7a2410b1d2d029b7d9870f30aee6cfe59e9f499"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "goauthentik/authentik",
+        "CVE_ID": "CVE-2023-48228",
+        "Problem_Type": "CWE-287",
+        "Description": "authentik is an open-source identity provider. When initialising a oauth2 flow with a `code_challenge` and `code_method` (thus requesting PKCE), the single sign-on provider (authentik) must check if there is a matching and existing `code_verifier` during the token step. Prior to versions 2023.10.4 and 2023.8.5, authentik checks if the contents of `code_verifier` is matching only when it is provided. When it is left out completely, authentik simply accepts the token request with out it; even when the flow was started with a `code_challenge`. authentik 2023.8.5 and 2023.10.4 fix this issue.",
+        "URL": "https://github.com/goauthentik/authentik/pull/7669",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "3af77ab3821fe9c7df8055ba5eade3d1ecea03a6",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "c7a2410b1d2d029b7d9870f30aee6cfe59e9f499"
+        ],
+        "matched": []
+    }
+]

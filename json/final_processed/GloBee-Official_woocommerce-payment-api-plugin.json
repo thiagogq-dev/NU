@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "GloBee-Official/woocommerce-payment-api-plugin",
+        "CVE_ID": "CVE-2018-20782",
+        "Problem_Type": "CWE-20",
+        "Description": "The GloBee plugin before 1.1.2 for WooCommerce mishandles IPN messages.",
+        "URL": "https://github.com/GloBee-Official/woocommerce-payment-api-plugin/pull/2",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "27e80efbb1c7c247d3a08fbb3b0539db6627c04c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
