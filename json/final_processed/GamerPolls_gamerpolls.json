@@ -1,0 +1,21 @@
+[
+    {
+        "repo_name": "GamerPolls/gamerpolls.com",
+        "CVE_ID": "CVE-2018-10966",
+        "Problem_Type": "CWE-798",
+        "Description": "An issue was discovered in GamerPolls 0.4.6, related to config/environments/all.js and config/initializers/02_passport.js. An attacker can edit the Passport.js contents of the session cookie to contain the ID number of the account they wish to take over, and re-sign it using the hard coded secret.",
+        "URL": "https://github.com/GamerPolls/gamerpolls.com/pull/56",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "e78890afa3d4a91508c4c87967c7bdfbf9b65067"
+        ],
+        "inducing_commit_hash_pd": [
+            "b7f3babe2de69d515ee8ae4831188afa881191ca",
+            "e78890afa3d4a91508c4c87967c7bdfbf9b65067"
+        ],
+        "matched": [
+            "e78890afa3d4a91508c4c87967c7bdfbf9b65067"
+        ]
+    }
+]
