@@ -1,0 +1,452 @@
+[
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2018-1000803",
+        "Problem_Type": "CWE-200",
+        "Description": "Gitea version prior to version 1.5.1 contains a CWE-200 vulnerability that can result in Exposure of users private email addresses. This attack appear to be exploitable via Watch a repository to receive email notifications. Emails received contain the other recipients even if they have the email set as private. This vulnerability appears to have been fixed in 1.5.1.",
+        "URL": "https://github.com/go-gitea/gitea/pull/4664/files#diff-146e0c2b5bb1ea96c9fb73d509456e57",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "194a11eb110cd98fc2ba52861abf7770db6885a3",
+        "inducing_commit_hash_pyszz": [
+            "240609432b84a8caa5ec4c99a916277952ef02d5"
+        ],
+        "inducing_commit_hash_pd": [
+            "240609432b84a8caa5ec4c99a916277952ef02d5"
+        ],
+        "matched": [
+            "240609432b84a8caa5ec4c99a916277952ef02d5"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2018-1000803",
+        "Problem_Type": "CWE-200",
+        "Description": "Gitea version prior to version 1.5.1 contains a CWE-200 vulnerability that can result in Exposure of users private email addresses. This attack appear to be exploitable via Watch a repository to receive email notifications. Emails received contain the other recipients even if they have the email set as private. This vulnerability appears to have been fixed in 1.5.1.",
+        "URL": "https://github.com/go-gitea/gitea/pull/4664",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "194a11eb110cd98fc2ba52861abf7770db6885a3",
+        "inducing_commit_hash_pyszz": [
+            "240609432b84a8caa5ec4c99a916277952ef02d5"
+        ],
+        "inducing_commit_hash_pd": [
+            "240609432b84a8caa5ec4c99a916277952ef02d5"
+        ],
+        "matched": [
+            "240609432b84a8caa5ec4c99a916277952ef02d5"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2019-1000002",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Gitea version 1.6.2 and earlier contains a Incorrect Access Control vulnerability in Delete/Edit file functionallity that can result in the attacker deleting files outside the repository he/she has access to. This attack appears to be exploitable via the attacker must get write access to \"any\" repository including self-created ones.. This vulnerability appears to have been fixed in 1.6.3, 1.7.0-rc2.",
+        "URL": "https://github.com/go-gitea/gitea/pull/5631",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "fd1e8563f8713265df2e402e9387e0964efc42e2",
+        "inducing_commit_hash_pyszz": [
+            "181b3a8f0988ab729270279e6e12534cb52628cc"
+        ],
+        "inducing_commit_hash_pd": [
+            "181b3a8f0988ab729270279e6e12534cb52628cc"
+        ],
+        "matched": [
+            "181b3a8f0988ab729270279e6e12534cb52628cc"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2019-1010261",
+        "Problem_Type": "CWE-79",
+        "Description": "Gitea 1.7.0 and earlier is affected by: Cross Site Scripting (XSS). The impact is: Attacker is able to have victim execute arbitrary JS in browser. The component is: go-get URL generation - PR to fix: https://github.com/go-gitea/gitea/pull/5905. The attack vector is: victim must open a specifically crafted URL. The fixed version is: 1.7.1 and later.",
+        "URL": "https://github.com/go-gitea/gitea/pull/5905",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "80098bd7526fed84cfb4fa48272be71541b37205",
+        "inducing_commit_hash_pyszz": [
+            "0d4c63fd70d0b255a9a17352cc47ec2b6ca13440"
+        ],
+        "inducing_commit_hash_pd": [
+            "94da47271701401b6959bfd308d6c74fd30b22e2",
+            "0d4c63fd70d0b255a9a17352cc47ec2b6ca13440"
+        ],
+        "matched": [
+            "0d4c63fd70d0b255a9a17352cc47ec2b6ca13440"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2019-11576",
+        "Problem_Type": "CWE-287",
+        "Description": "Gitea before 1.8.0 allows 1FA for user accounts that have completed 2FA enrollment. If a user's credentials are known, then an attacker could send them to the API without requiring the 2FA one-time password.",
+        "URL": "https://github.com/go-gitea/gitea/pull/6674",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "19ec2606e91610421a3e9cd87c94748ef07ca468",
+        "inducing_commit_hash_pyszz": [
+            "e47df0b301510a49b49fc43266f436b7d58a02b1"
+        ],
+        "inducing_commit_hash_pd": [
+            "56dd430a10bf5281caf648344e4660fbdc5d4dee",
+            "e47df0b301510a49b49fc43266f436b7d58a02b1",
+            "514382e2ebfe6869268aeb919c1fa4d224687e13"
+        ],
+        "matched": [
+            "e47df0b301510a49b49fc43266f436b7d58a02b1"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2020-13246",
+        "Problem_Type": "CWE-667",
+        "Description": "An issue was discovered in Gitea through 1.11.5. An attacker can trigger a deadlock by initiating a transfer of a repository's ownership from one organization to another.",
+        "URL": "https://github.com/go-gitea/gitea/pull/11438",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c3d9a5f8464e0921fc4063d903ecf2063fa152fa",
+        "inducing_commit_hash_pyszz": [
+            "72aa5a20ecf8aa3f7c110fd51c37994d950e0ba8"
+        ],
+        "inducing_commit_hash_pd": [
+            "1f01f53c53ea75634f981611635be49c69e1920b"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2020-28991",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Gitea 0.9.99 through 1.12.x before 1.12.6 does not prevent a git protocol path that specifies a TCP port number and also contains newlines (with URL encoding) in ParseRemoteAddr in modules/auth/repo_form.go.",
+        "URL": "https://github.com/go-gitea/gitea/pull/13525",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "480efbdb96e4092493ec1e3683b2ab688ac95096",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-28378",
+        "Problem_Type": "CWE-79",
+        "Description": "Gitea 1.12.x and 1.13.x before 1.13.4 allows XSS via certain issue data in some situations.",
+        "URL": "https://github.com/go-gitea/gitea/pull/14898",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f1da46622e2d43870f939c46f43518728baecfd3",
+        "inducing_commit_hash_pyszz": [
+            "d67e9b9629557df1e355f0a864792c194b3e8848"
+        ],
+        "inducing_commit_hash_pd": [
+            "ffddf3f8a6ca5e3db46e5731d717a55eb58e858f",
+            "4563eb873d3d46953aeb43a1cebf3389906b0b88",
+            "7d7ab1eeae43d99fe329878ac9c8db5e45e2dee5"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-29134",
+        "Problem_Type": "CWE-22",
+        "Description": "The avatar middleware in Gitea before 1.13.6 allows Directory Traversal via a crafted URL.",
+        "URL": "https://github.com/go-gitea/gitea/pull/15125/files",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "151bedab524a0844758d48bcab5b44a099976c23",
+        "inducing_commit_hash_pyszz": [
+            "e846b712fc0667c0085cffcc52e4fe9a8fc3ad60"
+        ],
+        "inducing_commit_hash_pd": [
+            "e846b712fc0667c0085cffcc52e4fe9a8fc3ad60"
+        ],
+        "matched": [
+            "e846b712fc0667c0085cffcc52e4fe9a8fc3ad60"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-45325",
+        "Problem_Type": "CWE-918",
+        "Description": "Server Side Request Forgery (SSRF) vulneraility exists in Gitea before 1.7.0 using the OpenID URL.",
+        "URL": "https://github.com/go-gitea/gitea/pull/5705",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2b36bdd4902aa7ee93e15eee961d6a8a4a26e81c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "71d16f69ff9448e55f371ce8354d978f8dbe2cba"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-45326",
+        "Problem_Type": "CWE-352",
+        "Description": "Cross Site Request Forgery (CSRF) vulnerability exists in Gitea before 1.5.2 via API routes.This can be dangerous especially with state altering POST requests.",
+        "URL": "https://github.com/go-gitea/gitea/pull/4840",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e47df0b301510a49b49fc43266f436b7d58a02b1",
+        "inducing_commit_hash_pyszz": [
+            "d293a2b9d6722dffde7998c953c3087e47a38a83"
+        ],
+        "inducing_commit_hash_pd": [
+            "57de1ff991a864c8adf669e3919247c555e7a75a",
+            "dd758ad8dc76ef5c0baef095857d73707912a4ee",
+            "695b10beddc640d333fd5864cb6edb03e540b344",
+            "6a3c03762a37f593ec8101c2005836ca44683e1d",
+            "e78786ef39526fac6705a831fc291c55f1ca091b",
+            "735676267e48e6a57b250825e2e77edbb513e11d",
+            "56dd430a10bf5281caf648344e4660fbdc5d4dee",
+            "3ffedeab03a80e7345823d118042d17a3e3d9b52",
+            "ce9b86082c4824917023b1bb480648d0cc56dd04",
+            "4a8ee0b5ccbdc75bab29836a54db4e7af7b7ff3f",
+            "c2346e44696e57c31f9765c32ee60b365a15c8f0",
+            "c3b6383b3a91e476c5a6978a0fb355191271a51c",
+            "49df677c475d6a20575b99b5af8323f65937dadb",
+            "095fb9f2e32fe78acb9bc034f0e1d60922ff1e60",
+            "e59adcde655aac0e8afd3249407c9a0a2b1b1d6b",
+            "eae9154811b660bcf2333f349176af7ed96b5924",
+            "469ab99e9a4e31c1e95ab37f363c26b62b782542",
+            "69e2ab161109eef667cd22a96711e4a8ee9d01d2",
+            "7c417bbb0d8f3213f34db50f62013e20492d044f",
+            "f99489d5c522663cfc14b9b65539966844f3ee6b",
+            "d293a2b9d6722dffde7998c953c3087e47a38a83",
+            "ef78309b6535e4feff7b48d4b119180504616e13",
+            "f64c232953d13043b262dc8da55acb3738e58d15",
+            "08b124dd47e5be365ac843031ed3ea73d1fbc151",
+            "7781e8cef2dfe73d71be7804f4c5a7c5f1995d31"
+        ],
+        "matched": [
+            "d293a2b9d6722dffde7998c953c3087e47a38a83"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-45327",
+        "Problem_Type": "CWE-436",
+        "Description": "Gitea before 1.11.2 is affected by Trusting HTTP Permission Methods on the Server Side when referencing the vulnerable admin or user API. which could let a remote malisious user execute arbitrary code.",
+        "URL": "https://github.com/go-gitea/gitea/pull/10465",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e5944a9521102c4917399a6550a0756919527944",
+        "inducing_commit_hash_pyszz": [
+            "8eba27c79257c6bc68cefbdffbb36d3596e6d3ee"
+        ],
+        "inducing_commit_hash_pd": [
+            "1aec1a2ddae3a3714d6a167d85fcc1c69413b660",
+            "3fb1b6a608625067a76ba90f9855d48c4d6555bd",
+            "8dd07c0ddd99ae626a1ec8c06f75f27fed51269f",
+            "8eba27c79257c6bc68cefbdffbb36d3596e6d3ee",
+            "0d1872ebe3f11c14f31f454ed8d719a22c0884d0",
+            "659bc2814c4b6f23c6039e0c7dc962a40968cdb1",
+            "f15fa9167ade8262bed437451585d319f12d1182",
+            "7a9777ae36e6721d1d9bbb355a19b4ae12b3be43",
+            "171b3598778a1ecd0a921c71ed6755bfef68f7f0",
+            "d75013a0e88a1f46fd16f5ba9344ff17ed84cd37",
+            "efea642d6cf419c9587d44b95ff2bc04e89f7bfe",
+            "7cb5a15c9b7a2a118d756d15cb745743f207a318",
+            "0e6b9ea786a77a4df4aa9fff1b96b9483bcdded5",
+            "94da47271701401b6959bfd308d6c74fd30b22e2",
+            "04be8c0de5295f57e06e152e56c481b29b1076e5",
+            "ad5ec45dd63aa2563d113e6a9ce31180246aa5f2",
+            "524885dd6502570dddf5c83f171ee74890dba5c4",
+            "8606d9f5bc01fce90159c9bdef9989a31a865e38",
+            "2d8c414f8c44e20619d6680b96044424ef6ebb2a",
+            "06631ab91f5d84b48d6f71ac8eaf4df740ba0282",
+            "6643647687aa2ba8a41f8f95d404407ff6106d8c"
+        ],
+        "matched": [
+            "8eba27c79257c6bc68cefbdffbb36d3596e6d3ee"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-45327",
+        "Problem_Type": "CWE-436",
+        "Description": "Gitea before 1.11.2 is affected by Trusting HTTP Permission Methods on the Server Side when referencing the vulnerable admin or user API. which could let a remote malisious user execute arbitrary code.",
+        "URL": "https://github.com/go-gitea/gitea/pull/10582",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0e2217bd2d8833f0bff84767f676fc93c84d4b9a",
+        "inducing_commit_hash_pyszz": [
+            "e6a03813d463bc0c624a3c40fb615cacc006e265"
+        ],
+        "inducing_commit_hash_pd": [
+            "c58708d3eedb352bb277feb2c12bb1652a8a58b7",
+            "5abd1d2a68b139af5046b0e1b69c1884eef4f3d1",
+            "e6a03813d463bc0c624a3c40fb615cacc006e265"
+        ],
+        "matched": [
+            "e6a03813d463bc0c624a3c40fb615cacc006e265"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-45327",
+        "Problem_Type": "CWE-436",
+        "Description": "Gitea before 1.11.2 is affected by Trusting HTTP Permission Methods on the Server Side when referencing the vulnerable admin or user API. which could let a remote malisious user execute arbitrary code.",
+        "URL": "https://github.com/go-gitea/gitea/pull/10462",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c161bb013e091c0bcc524f07d50c028d9daf8cce",
+        "inducing_commit_hash_pyszz": [
+            "9ae4c17cb1fde0eaa1556e545a8871b6a70d2efa"
+        ],
+        "inducing_commit_hash_pd": [
+            "b40496533bb67ac988cd89a67e70610fc895419f",
+            "c58708d3eedb352bb277feb2c12bb1652a8a58b7",
+            "7796c9e1223e8a99eb265adff0974d05bb594cfa",
+            "951037c0ae66a9c4bddc0e2e6bbb01d754ae1f1c",
+            "86fdba177ad82f3dcdfc237631fef4588042b9d6",
+            "1f2e173a745da8e4b57f96b5561a3c10054d3b76",
+            "5ae840872530e8d667dee611abe5307ee93e4dd4",
+            "acaf5c96fe7f93440dfbd52dd60b4f1a5656d556",
+            "3e05661d8d52315d6dbb601950df2354428ac119",
+            "783b1967e257fdba2bd593d9f2108da2010b7448",
+            "c0a899b15182fc717207dadb33a0d55024dce109",
+            "9ae4c17cb1fde0eaa1556e545a8871b6a70d2efa",
+            "7ca5f8f119593023809e6130db75154597c52426"
+        ],
+        "matched": [
+            "9ae4c17cb1fde0eaa1556e545a8871b6a70d2efa"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-45329",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting (XSS) vulnerability exists in Gitea before 1.5.1 via the repository settings inside the external wiki/issue tracker URL field.",
+        "URL": "https://github.com/go-gitea/gitea/pull/4710",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "92466129ec242536c71b66a8987d9b37e6bc0bce",
+        "inducing_commit_hash_pyszz": [
+            "f42ec6120e8a2830407027020b65391ebf8e7f59"
+        ],
+        "inducing_commit_hash_pd": [
+            "f42ec6120e8a2830407027020b65391ebf8e7f59",
+            "be5738243c2ab9e3bd21a0b3d581761d73007883"
+        ],
+        "matched": [
+            "f42ec6120e8a2830407027020b65391ebf8e7f59"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2021-45331",
+        "Problem_Type": "CWE-287",
+        "Description": "An Authentication Bypass vulnerability exists in Gitea before 1.5.0, which could let a malicious user gain privileges. If captured, the TOTP code for the 2FA can be submitted correctly more than once.",
+        "URL": "https://github.com/go-gitea/gitea/pull/3878",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1e1ece8f3dce8ed9958f3bd5823c135d1c19eb49",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "f2e20c81b66e6a937ecdb686f8d1011371433365",
+            "6dd096b7f08799ff27d9e34356fb1163ca10f388"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2022-27313",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "An arbitrary file deletion vulnerability in Gitea v1.16.3 allows attackers to cause a Denial of Service (DoS) via deleting the configuration file.",
+        "URL": "https://github.com/go-gitea/gitea/pull/19072",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "49db87a035a28cd8eaa4abdd5832f952ca6449d9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2022-30781",
+        "Problem_Type": "CWE-116",
+        "Description": "Gitea before 1.16.7 does not escape git fetch remote.",
+        "URL": "https://github.com/go-gitea/gitea/pull/19487",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "fe274c148bc516b63aa89ab1904d124e60903421",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "124b072f0b69650baff086b9688d198f5a6761af"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2022-30781",
+        "Problem_Type": "CWE-116",
+        "Description": "Gitea before 1.16.7 does not escape git fetch remote.",
+        "URL": "https://github.com/go-gitea/gitea/pull/19490",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "242f7f1a528af0b85ad0dd6fa88ed2d889b92385",
+        "inducing_commit_hash_pyszz": [
+            "f6067a8465e7762aea1561106cfee291409a0fd6"
+        ],
+        "inducing_commit_hash_pd": [
+            "e3e44a59d01da3af2be3a830f4a90394e7af4ff4",
+            "462284e2f5768cf04d71c7abd8c01eef20cff73d",
+            "2b3e931cde3e3d70b69202164f35fc6f2c609ade",
+            "fc3d0826096943b979717ed46c9a4cfd86e06106",
+            "08069dc4656fa53ee5dd25189e15012cb4f8acb2",
+            "f6067a8465e7762aea1561106cfee291409a0fd6"
+        ],
+        "matched": [
+            "f6067a8465e7762aea1561106cfee291409a0fd6"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2022-38795",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "In Gitea through 1.17.1, repo cloning can occur in the migration function.",
+        "URL": "https://github.com/go-gitea/gitea/pull/20892",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "9e8b1c663041e8b503d57df64dfbbf0b51a720f4",
+        "inducing_commit_hash_pyszz": [
+            "6d69df28047bf7fd3e307391b484a93432615b90"
+        ],
+        "inducing_commit_hash_pd": [
+            "6d69df28047bf7fd3e307391b484a93432615b90",
+            "fd60ebfe14927657ff5cfa4e75f975eaadae65f1"
+        ],
+        "matched": [
+            "6d69df28047bf7fd3e307391b484a93432615b90"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2022-38795",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "In Gitea through 1.17.1, repo cloning can occur in the migration function.",
+        "URL": "https://github.com/go-gitea/gitea/pull/20869",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "6d3181406d87503dbd15e4a7c764c8963f13977f",
+        "inducing_commit_hash_pyszz": [
+            "6d69df28047bf7fd3e307391b484a93432615b90"
+        ],
+        "inducing_commit_hash_pd": [
+            "6d69df28047bf7fd3e307391b484a93432615b90",
+            "fd60ebfe14927657ff5cfa4e75f975eaadae65f1"
+        ],
+        "matched": [
+            "6d69df28047bf7fd3e307391b484a93432615b90"
+        ]
+    },
+    {
+        "repo_name": "go-gitea/gitea",
+        "CVE_ID": "CVE-2022-42968",
+        "Problem_Type": "CWE-88",
+        "Description": "Gitea before 1.17.3 does not sanitize and escape refs in the git backend. Arguments to git commands are mishandled.",
+        "URL": "https://github.com/go-gitea/gitea/pull/21463",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "cd48a007bb85ba071ed175a6376b9e392e2c49b6",
+        "inducing_commit_hash_pyszz": [
+            "34b5436ae1af2735546bb519a950eabf4990212d"
+        ],
+        "inducing_commit_hash_pd": [
+            "3043eb36bfcd7ddf29202b958b91942826a8182b",
+            "1fa96629461ac4229932b0a4526fc2f60c88ec51",
+            "59d1cc49f1d7c63d25e2a139befc8c02b830ba09",
+            "2f6aadffa8243736825564cd1ce32d0d5a1eb391",
+            "34b5436ae1af2735546bb519a950eabf4990212d",
+            "ee11974719528197241840dc245f7daf08ec5c0a",
+            "26718a785ac49f17eab51ad0f5324d036b810f73",
+            "e3c626834b34fae7728ee7869ed73ee4d1b26a26",
+            "27b8eff96ba84d69d8902fbe62c52878aee5ce89",
+            "124b072f0b69650baff086b9688d198f5a6761af",
+            "c05a8abc762f868e67dd131d34f45218a0fb95ab"
+        ],
+        "matched": [
+            "34b5436ae1af2735546bb519a950eabf4990212d"
+        ]
+    }
+]
