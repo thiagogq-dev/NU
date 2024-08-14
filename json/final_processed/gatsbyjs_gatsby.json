@@ -1,0 +1,54 @@
+[
+    {
+        "repo_name": "gatsbyjs/gatsby",
+        "CVE_ID": "CVE-2022-25863",
+        "Problem_Type": "CWE-502",
+        "Description": "The package gatsby-plugin-mdx before 2.14.1, from 3.0.0 and before 3.15.2 are vulnerable to Deserialization of Untrusted Data when passing input through to the gray-matter package, due to its default configurations that are missing input sanitization. Exploiting this vulnerability is possible when passing input in both webpack (MDX files in src/pages or MDX file imported as a component in frontend / React code) and data mode (querying MDX nodes via GraphQL). Workaround: If an older version of gatsby-plugin-mdx must be used, input passed into the plugin should be sanitized ahead of processing.",
+        "URL": "https://github.com/gatsbyjs/gatsby/pull/35830",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b3690fbb70cc4470f6f17595f59d83146a443ffb",
+        "inducing_commit_hash_pyszz": [
+            "c8db78fad43294413b950c49205adcf3dbb6dd1e"
+        ],
+        "inducing_commit_hash_pd": [
+            "43f29d94f639eb7f64cc4e175fd5f04aff1d47ca",
+            "5d39594c1d9b3562b318b5d299905c0078d74557",
+            "5636389e8fa626c644e90abc14589e9961d98c68",
+            "e6c8657d202fccce1c96b4f342f6c41168b49a48",
+            "3c4069ffd724a350f11dcbbd1ee164e875c3f17e",
+            "41d71e741b01e174796f792206465cbe08192031",
+            "0a6c6eb40409ac92d30917e00f26a0bc4c9ca9e5",
+            "7e431fd0c5f15f85e8b8aedff3b5b17d971c9c6e",
+            "c8db78fad43294413b950c49205adcf3dbb6dd1e"
+        ],
+        "matched": [
+            "c8db78fad43294413b950c49205adcf3dbb6dd1e"
+        ]
+    },
+    {
+        "repo_name": "gatsbyjs/gatsby",
+        "CVE_ID": "CVE-2022-25863",
+        "Problem_Type": "CWE-502",
+        "Description": "The package gatsby-plugin-mdx before 2.14.1, from 3.0.0 and before 3.15.2 are vulnerable to Deserialization of Untrusted Data when passing input through to the gray-matter package, due to its default configurations that are missing input sanitization. Exploiting this vulnerability is possible when passing input in both webpack (MDX files in src/pages or MDX file imported as a component in frontend / React code) and data mode (querying MDX nodes via GraphQL). Workaround: If an older version of gatsby-plugin-mdx must be used, input passed into the plugin should be sanitized ahead of processing.",
+        "URL": "https://github.com/gatsbyjs/gatsby/pull/35830/commits/f214eb0694c61e348b2751cecd1aace2046bc46e",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b3690fbb70cc4470f6f17595f59d83146a443ffb",
+        "inducing_commit_hash_pyszz": [
+            "c8db78fad43294413b950c49205adcf3dbb6dd1e"
+        ],
+        "inducing_commit_hash_pd": [
+            "43f29d94f639eb7f64cc4e175fd5f04aff1d47ca",
+            "5d39594c1d9b3562b318b5d299905c0078d74557",
+            "5636389e8fa626c644e90abc14589e9961d98c68",
+            "e6c8657d202fccce1c96b4f342f6c41168b49a48",
+            "3c4069ffd724a350f11dcbbd1ee164e875c3f17e",
+            "41d71e741b01e174796f792206465cbe08192031",
+            "0a6c6eb40409ac92d30917e00f26a0bc4c9ca9e5",
+            "7e431fd0c5f15f85e8b8aedff3b5b17d971c9c6e",
+            "c8db78fad43294413b950c49205adcf3dbb6dd1e"
+        ],
+        "matched": [
+            "c8db78fad43294413b950c49205adcf3dbb6dd1e"
+        ]
+    }
+]
