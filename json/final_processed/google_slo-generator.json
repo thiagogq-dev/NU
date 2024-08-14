@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "google/slo-generator",
+        "CVE_ID": "CVE-2021-22557",
+        "Problem_Type": "CWE-78",
+        "Description": "SLO generator allows for loading of YAML files that if crafted in a specific format can allow for code execution within the context of the SLO Generator. We recommend upgrading SLO Generator past https://github.com/google/slo-generator/pull/173",
+        "URL": "https://github.com/google/slo-generator/pull/173",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "36318beab1b85d14bb860e45bea186b184690d5d",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "51b956b85e7769725c46be3579cc51c4b02bd333"
+        ],
+        "matched": []
+    }
+]
