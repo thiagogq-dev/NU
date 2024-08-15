@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "hyperhq/hyperstart",
+        "CVE_ID": "CVE-2018-9862",
+        "Problem_Type": "CWE-838",
+        "Description": "util.c in runV 1.0.0 for Docker mishandles a numeric username, which allows attackers to obtain root access by leveraging the presence of an initial numeric value on an /etc/passwd line, and then issuing a \"docker exec\" command with that value in the -u argument, a similar issue to CVE-2016-3697.",
+        "URL": "https://github.com/hyperhq/hyperstart/pull/348",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7670d5e82291ebab819070db105d9d4dc26a4c6d"
+    }
+]

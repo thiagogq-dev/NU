@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "hestiacp/hestiacp",
+        "CVE_ID": "CVE-2023-5084",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site Scripting (XSS) - Reflected in GitHub repository hestiacp/hestiacp prior to 1.8.8.\n\n",
+        "URL": "https://github.com/hestiacp/hestiacp/pull/4013/commits/5131f5a966759df77477fdf7f29daa2bda93b1ff",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "1e98096921f46c71c4bdf141bb532ba87cb27160"
+    }
+]

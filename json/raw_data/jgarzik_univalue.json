@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "jgarzik/univalue",
+        "CVE_ID": "CVE-2019-18936",
+        "Problem_Type": "CWE-674",
+        "Description": "UniValue::read() in UniValue before 1.0.5 allow attackers to cause a denial of service (the class internal data reaches an inconsistent state) via input data that triggers an error.",
+        "URL": "https://github.com/jgarzik/univalue/pull/58",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "097fb0fadc626a855b14c2075d8c13cdca583a3e"
+    }
+]

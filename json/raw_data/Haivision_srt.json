@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "Haivision/srt",
+        "CVE_ID": "CVE-2019-15784",
+        "Problem_Type": "CWE-129",
+        "Description": "Secure Reliable Transport (SRT) through 1.3.4 has a CSndUList array overflow if there are many SRT connections.",
+        "URL": "https://github.com/Haivision/srt/pull/811",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c0630e8a7328d102165663648ca38ca1486a8861"
+    }
+]

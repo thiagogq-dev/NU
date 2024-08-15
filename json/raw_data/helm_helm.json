@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "helm/helm",
+        "CVE_ID": "CVE-2019-1010275",
+        "Problem_Type": "CWE-295",
+        "Description": "helm Before 2.7.2 is affected by: CWE-295: Improper Certificate Validation. The impact is: Unauthorized clients could connect to the server because self-signed client certs were aloowed. The component is: helm (many files updated, see https://github.com/helm/helm/pull/3152/files/1096813bf9a425e2aa4ac755b6c991b626dfab50). The attack vector is: A malicious client could connect to the server over the network. The fixed version is: 2.7.2.",
+        "URL": "https://github.com/helm/helm/pull/3152/files/1096813bf9a425e2aa4ac755b6c991b626dfab50",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e8e6ac5d7783808cc0bd1adad053bec339849647"
+    },
+    {
+        "repo_name": "helm/helm",
+        "CVE_ID": "CVE-2019-1010275",
+        "Problem_Type": "CWE-295",
+        "Description": "helm Before 2.7.2 is affected by: CWE-295: Improper Certificate Validation. The impact is: Unauthorized clients could connect to the server because self-signed client certs were aloowed. The component is: helm (many files updated, see https://github.com/helm/helm/pull/3152/files/1096813bf9a425e2aa4ac755b6c991b626dfab50). The attack vector is: A malicious client could connect to the server over the network. The fixed version is: 2.7.2.",
+        "URL": "https://github.com/helm/helm/pull/3152",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e8e6ac5d7783808cc0bd1adad053bec339849647"
+    }
+]

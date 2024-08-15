@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "JeremyCrookshank/IP_History_Logs",
+        "CVE_ID": "CVE-2019-6979",
+        "Problem_Type": "CWE-79",
+        "Description": "An issue was discovered in the User IP History Logs (aka IP_History_Logs) plugin 1.0.2 for MyBB. There is XSS via the admin/modules/tools/ip_history_logs.php useragent field.",
+        "URL": "https://github.com/JeremyCrookshank/IP_History_Logs/pull/1",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4d45b47eaf9bb93f224a7b589aa41bb8f41fe04f"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "J-onasJones/McWebserver",
+        "CVE_ID": "CVE-2022-39221",
+        "Problem_Type": "CWE-22",
+        "Description": "McWebserver mod runs a simple HTTP server alongside the Minecraft server in seperate threads. Path traversal in McWebserver Minecraft Mod for Fabric and Quilt up to and including 0.1.2.1 and McWebserver Minecraft Mod for Forge up to and including 0.1.1 allows all files, accessible by the program, to be read by anyone via HTTP request. Version 0.2.0 with patches are released to both platforms (Fabric and Quilt, Forge). As a workaround, the McWebserver mod can be disabled by removing the file from the `mods` directory.",
+        "URL": "https://github.com/J-onasJones/McWebserver/pull/1",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4225c9f139beb822b3b4132112fdfd2518d216f9"
+    }
+]

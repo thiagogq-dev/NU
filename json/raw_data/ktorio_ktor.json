@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "ktorio/ktor",
+        "CVE_ID": "CVE-2019-19389",
+        "Problem_Type": "CWE-74",
+        "Description": "JetBrains Ktor framework before version 1.2.6 was vulnerable to HTTP Response Splitting.",
+        "URL": "https://github.com/ktorio/ktor/pull/1408",
+        "Tag": "['Mitigation', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "ktorio/ktor",
+        "CVE_ID": "CVE-2020-5207",
+        "Problem_Type": "CWE-444",
+        "Description": "In Ktor before 1.3.0, request smuggling is possible when running behind a proxy that doesn't handle Content-Length and Transfer-Encoding properly or doesn't handle \\n as a headers separator.",
+        "URL": "https://github.com/ktorio/ktor/pull/1547",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "ktorio/ktor",
+        "CVE_ID": "CVE-2022-29035",
+        "Problem_Type": "CWE-330",
+        "Description": "In JetBrains Ktor Native before version 2.0.0 random values used for nonce generation weren't using SecureRandom implementations",
+        "URL": "https://github.com/ktorio/ktor/pull/2776",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "67a3640505931ce46dfd558d7f2c03aa72c8bb70"
+    },
+    {
+        "repo_name": "ktorio/ktor",
+        "CVE_ID": "CVE-2022-29930",
+        "Problem_Type": "CWE-330",
+        "Description": "SHA1 implementation in JetBrains Ktor Native 2.0.0 was returning the same value. The issue was fixed in Ktor version 2.0.1.",
+        "URL": "https://github.com/ktorio/ktor/pull/2966",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "52b894749b7b6895e3346910305d41d1b7a8e81e"
+    }
+]

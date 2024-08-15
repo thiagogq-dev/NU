@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "jonschlinkert/kind-of",
+        "CVE_ID": "CVE-2019-20149",
+        "Problem_Type": "CWE-668",
+        "Description": "ctorName in index.js in kind-of v6.0.2 allows external user input to overwrite certain internal attributes via a conflicting name, as demonstrated by 'constructor': {'name':'Symbol'}. Hence, a crafted payload can overwrite this builtin attribute to manipulate the type detection result.",
+        "URL": "https://github.com/jonschlinkert/kind-of/pull/31",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1df992ce6d5a1292048e5fe9c52c5382f941ee0b"
+    }
+]

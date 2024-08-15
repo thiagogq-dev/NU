@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "laminas/laminas-http",
+        "CVE_ID": "CVE-2021-3007",
+        "Problem_Type": "CWE-502",
+        "Description": "Laminas Project laminas-http before 2.14.2, and Zend Framework 3.0.0, has a deserialization vulnerability that can lead to remote code execution if the content is controllable, related to the __destruct method of the Zend\\Http\\Response\\Stream class in Stream.php. NOTE: Zend Framework is no longer supported by the maintainer. NOTE: the laminas-http vendor considers this a \"vulnerability in the PHP language itself\" but has added certain type checking as a way to prevent exploitation in (unrecommended) use cases where attacker-supplied data can be deserialized",
+        "URL": "https://github.com/laminas/laminas-http/pull/48",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "019f31fe1c5449823e08ce98b0afd6835f5ffa32"
+    }
+]

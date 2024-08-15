@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "infinispan/infinispan",
+        "CVE_ID": "CVE-2016-0750",
+        "Problem_Type": "CWE-502",
+        "Description": "The hotrod java client in infinispan before 9.1.0.Final automatically deserializes bytearray message contents in certain events. A malicious user could exploit this flaw by injecting a specially-crafted serialized object to attain remote code execution or conduct other attacks.",
+        "URL": "https://github.com/infinispan/infinispan/pull/5116",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f2989a9b7b5ef2d3be690250d9d1bc7b2fa045d7"
+    },
+    {
+        "repo_name": "infinispan/infinispan",
+        "CVE_ID": "CVE-2017-15089",
+        "Problem_Type": "CWE-502",
+        "Description": "It was found that the Hotrod client in Infinispan before 9.2.0.CR1 would unsafely read deserialized data on information from the cache. An authenticated attacker could inject a malicious object into the data cache and attain deserialization on the client, and possibly conduct further attacks.",
+        "URL": "https://github.com/infinispan/infinispan/pull/5639",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2944b0d1369a230bde88392b222921537c99331e"
+    },
+    {
+        "repo_name": "infinispan/infinispan",
+        "CVE_ID": "CVE-2017-2638",
+        "Problem_Type": "CWE-287",
+        "Description": "It was found that the REST API in Infinispan before version 9.0.0 did not properly enforce auth constraints. An attacker could use this vulnerability to read or modify data in the default cache or a known cache name.",
+        "URL": "https://github.com/infinispan/infinispan/pull/4936/commits",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f2d54c4ecb75c7264d4160ca7c461135712201a9"
+    }
+]

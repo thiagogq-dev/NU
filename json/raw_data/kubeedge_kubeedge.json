@@ -1,0 +1,56 @@
+[
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "CVE_ID": "CVE-2022-31073",
+        "Problem_Type": "CWE-400",
+        "Description": "KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge. Prior to versions 1.11.1, 1.10.2, and 1.9.4, the ServiceBus server on the edge side may be susceptible to a DoS attack if an HTTP request containing a very large Body is sent to it. It is possible for the node to be exhausted of memory. The consequence of the exhaustion is that other services on the node, e.g. other containers, will be unable to allocate memory and thus causing a denial of service. Malicious apps accidentally pulled by users on the host and have the access to send HTTP requests to localhost may make an attack. It will be affected only when users enable the `ServiceBus` module in the config file `edgecore.yaml`. This bug has been fixed in Kubeedge 1.11.1, 1.10.2, and 1.9.4. As a workaround, disable the `ServiceBus` module in the config file `edgecore.yaml`.",
+        "URL": "https://github.com/kubeedge/kubeedge/pull/4042",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ecca82fd5d0b0891dbd562f4d4349443d958b9df"
+    },
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "CVE_ID": "CVE-2022-31073",
+        "Problem_Type": "CWE-400",
+        "Description": "KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge. Prior to versions 1.11.1, 1.10.2, and 1.9.4, the ServiceBus server on the edge side may be susceptible to a DoS attack if an HTTP request containing a very large Body is sent to it. It is possible for the node to be exhausted of memory. The consequence of the exhaustion is that other services on the node, e.g. other containers, will be unable to allocate memory and thus causing a denial of service. Malicious apps accidentally pulled by users on the host and have the access to send HTTP requests to localhost may make an attack. It will be affected only when users enable the `ServiceBus` module in the config file `edgecore.yaml`. This bug has been fixed in Kubeedge 1.11.1, 1.10.2, and 1.9.4. As a workaround, disable the `ServiceBus` module in the config file `edgecore.yaml`.",
+        "URL": "https://github.com/kubeedge/kubeedge/pull/4039",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "27a6957ee7685884a7d9b3d87c13f61625cb3bc9"
+    },
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "CVE_ID": "CVE-2022-31073",
+        "Problem_Type": "CWE-400",
+        "Description": "KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge. Prior to versions 1.11.1, 1.10.2, and 1.9.4, the ServiceBus server on the edge side may be susceptible to a DoS attack if an HTTP request containing a very large Body is sent to it. It is possible for the node to be exhausted of memory. The consequence of the exhaustion is that other services on the node, e.g. other containers, will be unable to allocate memory and thus causing a denial of service. Malicious apps accidentally pulled by users on the host and have the access to send HTTP requests to localhost may make an attack. It will be affected only when users enable the `ServiceBus` module in the config file `edgecore.yaml`. This bug has been fixed in Kubeedge 1.11.1, 1.10.2, and 1.9.4. As a workaround, disable the `ServiceBus` module in the config file `edgecore.yaml`.",
+        "URL": "https://github.com/kubeedge/kubeedge/pull/4038",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "6ccb68fae799d210d9f304df9cba210c492432a7"
+    },
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "CVE_ID": "CVE-2022-31076",
+        "Problem_Type": "CWE-476",
+        "Description": "KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge. In affected versions a malicious message can crash CloudCore by triggering a nil-pointer dereference in the UDS Server. Since the UDS Server only communicates with the CSI Driver on the cloud side, the attack is limited to the local host network. As such, an attacker would already need to be an authenticated user of the Cloud. Additionally it will be affected only when users turn on the unixsocket switch in the config file cloudcore.yaml. This bug has been fixed in Kubeedge 1.11.0, 1.10.1, and 1.9.3. Users should update to these versions to resolve the issue. Users unable to upgrade should sisable the unixsocket switch of CloudHub in the config file cloudcore.yaml.",
+        "URL": "https://github.com/kubeedge/kubeedge/pull/3899/commits/5d60ae9eabd6b6b7afe38758e19bbe8137664701",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5d60ae9eabd6b6b7afe38758e19bbe8137664701"
+    },
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "CVE_ID": "CVE-2022-31077",
+        "Problem_Type": "CWE-476",
+        "Description": "KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge. In affected versions a malicious message response from KubeEdge can crash the CSI Driver controller server by triggering a nil-pointer dereference panic. As a consequence, the CSI Driver controller will be in denial of service. This bug has been fixed in Kubeedge 1.11.0, 1.10.1, and 1.9.3. Users should update to these versions to resolve the issue. At the time of writing, no workaround exists.",
+        "URL": "https://github.com/kubeedge/kubeedge/pull/3899/commits/5d60ae9eabd6b6b7afe38758e19bbe8137664701",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5d60ae9eabd6b6b7afe38758e19bbe8137664701"
+    },
+    {
+        "repo_name": "kubeedge/kubeedge",
+        "CVE_ID": "CVE-2022-31077",
+        "Problem_Type": "CWE-476",
+        "Description": "KubeEdge is built upon Kubernetes and extends native containerized application orchestration and device management to hosts at the Edge. In affected versions a malicious message response from KubeEdge can crash the CSI Driver controller server by triggering a nil-pointer dereference panic. As a consequence, the CSI Driver controller will be in denial of service. This bug has been fixed in Kubeedge 1.11.0, 1.10.1, and 1.9.3. Users should update to these versions to resolve the issue. At the time of writing, no workaround exists.",
+        "URL": "https://github.com/kubeedge/kubeedge/pull/3899",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ea23549e21ea13b99383521def5fb02f683ef509"
+    }
+]

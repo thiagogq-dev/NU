@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "jordansissel/ruby-arr-pm",
+        "CVE_ID": "CVE-2022-39224",
+        "Problem_Type": "CWE-78",
+        "Description": "Arr-pm is an RPM reader/writer library written in Ruby. Versions prior to 0.0.12 are subject to OS command injection resulting in shell execution if the RPM contains a malicious \"payload compressor\" field. This vulnerability impacts the `extract` and `files` methods of the `RPM::File` class of this library. Version 0.0.12 patches these issues. A workaround for this issue is to ensure any RPMs being processed contain valid/known payload compressor values such as gzip, bzip2, xz, zstd, and lzma. The payload compressor field in an rpm can be checked by using the rpm command line tool.",
+        "URL": "https://github.com/jordansissel/ruby-arr-pm/pull/15",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "efddd459916ece7acf2cc5e34fd49131e7e7d6e5"
+    },
+    {
+        "repo_name": "jordansissel/ruby-arr-pm",
+        "CVE_ID": "CVE-2022-39224",
+        "Problem_Type": "CWE-78",
+        "Description": "Arr-pm is an RPM reader/writer library written in Ruby. Versions prior to 0.0.12 are subject to OS command injection resulting in shell execution if the RPM contains a malicious \"payload compressor\" field. This vulnerability impacts the `extract` and `files` methods of the `RPM::File` class of this library. Version 0.0.12 patches these issues. A workaround for this issue is to ensure any RPMs being processed contain valid/known payload compressor values such as gzip, bzip2, xz, zstd, and lzma. The payload compressor field in an rpm can be checked by using the rpm command line tool.",
+        "URL": "https://github.com/jordansissel/ruby-arr-pm/pull/14",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c608f8603ebf40e439c45185fd4f755a3a1e088b"
+    }
+]
