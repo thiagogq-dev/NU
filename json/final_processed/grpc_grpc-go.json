@@ -1,0 +1,32 @@
+[
+    {
+        "repo_name": "grpc/grpc-go",
+        "CVE_ID": "CVE-2023-44487",
+        "Problem_Type": "CWE-400",
+        "Description": "The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
+        "URL": "https://github.com/grpc/grpc-go/pull/6703",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f2180b4d5403d2210b30b93098eb7da31c05c721",
+        "inducing_commit_hash_pyszz": [
+            "8eb4ac4c1514c190ee0b5d01a91c63218dac93c0"
+        ],
+        "inducing_commit_hash_pd": [
+            "8eb4ac4c1514c190ee0b5d01a91c63218dac93c0",
+            "c463038273fef1f095f72184a6775f4880dd267c",
+            "6eabd7e1834e47b20f55cbe9d473fc607c693358",
+            "b85d2b0be5a8e626ecdeff1f9f5c149f9c0876a5",
+            "a0cdc21e61ccf7c10243874491f30a6b3f9a96cd",
+            "9d2ecf553a16eecc7047e20262918a672f8dc4b9",
+            "c03697249ea4f1cd7a243a6614b81a89bda2d3c6",
+            "a6bacfe42cb8e7aeb64778e045a6f74713257219",
+            "35c3afad17f705e725ca04bff658932689920154",
+            "a7d6032db4967c4ecd9331fcab4a3a29991ed814",
+            "6de8f50f91068ed755f6a38a52053e7a05a6366e",
+            "641dc8710ceeda279e58d5bb1e33d45d43228136",
+            "25ad15b871cd0b8d8ff1bf3ed4a043a05eb262af"
+        ],
+        "matched": [
+            "8eb4ac4c1514c190ee0b5d01a91c63218dac93c0"
+        ]
+    }
+]
