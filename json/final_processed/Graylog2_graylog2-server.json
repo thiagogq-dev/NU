@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "Graylog2/graylog2-server",
+        "CVE_ID": "CVE-2018-11650",
+        "Problem_Type": "CWE-79",
+        "Description": "Graylog before v2.4.4 has an XSS security issue with unescaped text in notifications, related to toastr and util/UserNotification.js.",
+        "URL": "https://github.com/Graylog2/graylog2-server/pull/4727",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "469c92377bec77c3ba10113895fd45f84ebabdfc",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "Graylog2/graylog2-server",
+        "CVE_ID": "CVE-2018-11651",
+        "Problem_Type": "CWE-79",
+        "Description": "Graylog before v2.4.4 has an XSS security issue with unescaped text in dashboard names, related to components/dashboard/Dashboard.jsx, components/dashboard/EditDashboardModal.jsx, and pages/ShowDashboardPage.jsx.",
+        "URL": "https://github.com/Graylog2/graylog2-server/pull/4739",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4a346654d5660d7c824322c4745ae87a1e3e6bf3",
+        "inducing_commit_hash_pyszz": [
+            "8d7cd40e1f050169137a4fba6727db420a70d185"
+        ],
+        "inducing_commit_hash_pd": [
+            "8b77c72f12cec08b327ce89546d1382c33a3454a",
+            "f9e497211f4a2d70b377345e795f169c17cfe48f",
+            "24988314d74f26ed682dc878728c7716591438cc",
+            "8d7cd40e1f050169137a4fba6727db420a70d185",
+            "ab1efd1c5ec433a99962578a1c800b614e7c6a84",
+            "56caaef5b3a530e1049d24a78d9af387b212cf87"
+        ],
+        "matched": [
+            "8d7cd40e1f050169137a4fba6727db420a70d185"
+        ]
+    }
+]
