@@ -1,0 +1,48 @@
+[
+    {
+        "repo_name": "hexpm/hex_core",
+        "CVE_ID": "CVE-2019-1000013",
+        "Problem_Type": "CWE-345",
+        "Description": "Hex package manager hex_core version 0.3.0 and earlier contains a Signing oracle vulnerability in Package registry verification that can result in Package modifications not detected, allowing code execution. This attack appears to be exploitable via victim fetches packages from malicious/compromised mirror. This vulnerability appears to have been fixed in 0.4.0.",
+        "URL": "https://github.com/hexpm/hex_core/pull/51",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ce5562855be6283979e4a97cb8af1fba938a4538",
+        "inducing_commit_hash_pyszz": [
+            "009d4de63c041db30f6b6094321cbb936def2429"
+        ],
+        "inducing_commit_hash_pd": [
+            "009d4de63c041db30f6b6094321cbb936def2429",
+            "6d1cdbfe9e845c83febb0dc7f9e5267bb60b5313"
+        ],
+        "matched": [
+            "009d4de63c041db30f6b6094321cbb936def2429"
+        ]
+    },
+    {
+        "repo_name": "hexpm/hex_core",
+        "CVE_ID": "CVE-2019-1000013",
+        "Problem_Type": "CWE-345",
+        "Description": "Hex package manager hex_core version 0.3.0 and earlier contains a Signing oracle vulnerability in Package registry verification that can result in Package modifications not detected, allowing code execution. This attack appears to be exploitable via victim fetches packages from malicious/compromised mirror. This vulnerability appears to have been fixed in 0.4.0.",
+        "URL": "https://github.com/hexpm/hex_core/pull/48",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "009d4de63c041db30f6b6094321cbb936def2429",
+        "inducing_commit_hash_pyszz": [
+            "efb2db28328243f9e0b3d5e4465ca528c988341d"
+        ],
+        "inducing_commit_hash_pd": [
+            "f53d138a2261cb6ce49c1dcfe6c3b5e79c944d31",
+            "ff688f602125f54eedfe0adbbb9fb4f39f4f2d8f",
+            "13e28074bbd1c1e23c669ecdffd0317a78e6d220",
+            "0804a970b4438978a0073e722c227d23afda32f8",
+            "a14027c240695e5de2f4bb3f8d02576f8c820e53",
+            "fbb6d9de472e5edb8d6fb6b32a91cb266137892e",
+            "66198bd521019e957bb5300078b9c4a425005ce8",
+            "efb2db28328243f9e0b3d5e4465ca528c988341d",
+            "11eaa06b14cf2bbd00591fa3899b1d9d14dae880",
+            "d8752ee1e2425d05a5d1ec42e98ba4bf2cebc949"
+        ],
+        "matched": [
+            "efb2db28328243f9e0b3d5e4465ca528c988341d"
+        ]
+    }
+]
