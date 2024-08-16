@@ -1,0 +1,28 @@
+[
+    {
+        "repo_name": "grafana/grafana-image-renderer",
+        "CVE_ID": "CVE-2022-31176",
+        "Problem_Type": "CWE-306",
+        "Description": "Grafana Image Renderer is a Grafana backend plugin that handles rendering of panels & dashboards to PNGs using a headless browser (Chromium/Chrome). An internal security review identified an unauthorized file disclosure vulnerability. It is possible for a malicious user to retrieve unauthorized files under some network conditions or via a fake datasource (if user has admin permissions in Grafana). All Grafana installations should be upgraded to version 3.6.1 as soon as possible. As a workaround it is possible to [disable HTTP remote rendering](https://grafana.com/docs/grafana/latest/setup-grafana/configure-grafana/#plugingrafana-image-renderer).",
+        "URL": "https://github.com/grafana/grafana-image-renderer/pull/364",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "276d9dd8e9db223419b0137d774bb8b35ba13692",
+        "inducing_commit_hash_pyszz": [
+            "b5fa049cbcfbc93383110aa414f7f2d215829798"
+        ],
+        "inducing_commit_hash_pd": [
+            "03dd4e894358920e3a28f6b5e95fd0f5291a5d74",
+            "7794959a232d892928e789e986db445754ceee69",
+            "1e14736396d9bac12ef4b3f7e0dbc61d44d338bd",
+            "2e721c160b0005ba4a16220c31c96d0a6349d5d8",
+            "3ad122847530104ccd6c65eadba54ea448a27642",
+            "9dd27739d619809d860d9e5b17def55fba8c4845",
+            "f5f2192af9609a45f93d2822160548c2c7c5c4c0",
+            "452528bf19481f8cd00530086cb0019ea284bfb1",
+            "b5fa049cbcfbc93383110aa414f7f2d215829798"
+        ],
+        "matched": [
+            "b5fa049cbcfbc93383110aa414f7f2d215829798"
+        ]
+    }
+]
