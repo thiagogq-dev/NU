@@ -1,0 +1,35 @@
+[
+    {
+        "repo_name": "gophish/gophish",
+        "CVE_ID": "CVE-2019-16146",
+        "Problem_Type": "CWE-79",
+        "Description": "Gophish through 0.8.0 allows XSS via a username.",
+        "URL": "https://github.com/gophish/gophish/pull/1547",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "24fe998a3aa04e205900476a9601d481e94d8eea",
+        "inducing_commit_hash_pyszz": [
+            "fa1d4d74b0084965a15589f8e17e62daab740962"
+        ],
+        "inducing_commit_hash_pd": [
+            "84096b8724b468a5e26329cb009d49a1914474c1",
+            "3996a702feaf087dda5f5a62767b988e221f32b7"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "gophish/gophish",
+        "CVE_ID": "CVE-2022-25295",
+        "Problem_Type": "CWE-601",
+        "Description": "This affects the package github.com/gophish/gophish before 0.12.0. The Open Redirect vulnerability exists in the next query parameter. The application uses url.Parse(r.FormValue(\"next\")) to extract path and eventually redirect user to a relative URL, but if next parameter starts with multiple backslashes like \\\\\\\\\\\\example.com, browser will redirect user to http://example.com.",
+        "URL": "https://github.com/gophish/gophish/pull/2262",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "67e304f3724e25254822a8c661a67b70f3ab6a6a",
+        "inducing_commit_hash_pyszz": [
+            "aa8c770e7303af495e75d47fa0076460760acafc"
+        ],
+        "inducing_commit_hash_pd": [
+            "bb7de8df3e7d0e945219751f3012b7d52d022719"
+        ],
+        "matched": []
+    }
+]
