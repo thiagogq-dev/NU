@@ -1,0 +1,28 @@
+[
+    {
+        "repo_name": "handsontable/handsontable",
+        "CVE_ID": "CVE-2021-23446",
+        "Problem_Type": "CWE-1333",
+        "Description": "The package handsontable before 10.0.0; the package handsontable from 0 and before 10.0.0 are vulnerable to Regular Expression Denial of Service (ReDoS) in Handsontable.helper.isNumeric function.",
+        "URL": "https://github.com/handsontable/handsontable/pull/8742",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7323f3d08b4c85e6d92f8511c849d2b1821aadcc",
+        "inducing_commit_hash_pyszz": [
+            "6fe3a3dab48a6523b5c2c5f4b1f22e07fe598e7f"
+        ],
+        "inducing_commit_hash_pd": [
+            "6cef73b4d28c5696a1c6ac9b41ed34a2aed54416",
+            "5ec680c6315d6f0cc35926807fc77a81b098a1e7",
+            "545eca665c315e4681ffcc14e03b2b699162bf54",
+            "1cdcd7af1dcf6a5c254f65897346b4ff15192f14",
+            "34e5c2e8a63c6037780822b81d8777a868f91bca",
+            "baab522ab31c64f59007d0dcf0d1e8f3c2dc7d29",
+            "55e612f1dfe2de591869438460e8cd6ad4f40be0",
+            "8e399b1c56153fde0c6203cdb55605a051324284",
+            "83a17dea10b93d5b97b55174a3b3efd0394f4ceb",
+            "43f7ce1d9e5c9742c17f5b67c9a3d936b5426d5c",
+            "f377d8f636aae2d2405b8d9dc0a7c5922a7939a1"
+        ],
+        "matched": []
+    }
+]
