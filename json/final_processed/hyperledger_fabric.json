@@ -1,0 +1,100 @@
+[
+    {
+        "repo_name": "hyperledger/fabric",
+        "CVE_ID": "CVE-2021-43667",
+        "Problem_Type": "CWE-476",
+        "Description": "A vulnerability has been detected in HyperLedger Fabric v1.4.0, v2.0.0, v2.1.0. This bug can be leveraged by constructing a message whose payload is nil and sending this message with the method 'forwardToLeader'. This bug has been admitted and fixed by the developers of Fabric. If leveraged, any leader node will crash.",
+        "URL": "https://github.com/hyperledger/fabric/pull/2844",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "fbf7b936f4347b9e0d398adb8e41a47d2b4a1497",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "hyperledger/fabric",
+        "CVE_ID": "CVE-2021-43669",
+        "Problem_Type": "CWE-444",
+        "Description": "A vulnerability has been detected in HyperLedger Fabric v1.4.0, v2.0.0, v2.0.1, v2.3.0. It can easily break down as many orderers as the attacker wants. This bug can be leveraged by constructing a message whose header is invalid to the interface Order. This bug has been admitted and fixed by the developers of Fabric.",
+        "URL": "https://github.com/hyperledger/fabric/pull/2828",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "497a177ffb818ed8f75578cb55a65ba2224a85ea",
+        "inducing_commit_hash_pyszz": [
+            "5a515341853a053d0299960a6d1b33efee25b85d"
+        ],
+        "inducing_commit_hash_pd": [
+            "7f12d1b3ae31bc6f76b8aba376afeaca93e5b345",
+            "5a515341853a053d0299960a6d1b33efee25b85d",
+            "15e6707586f5482bae6ce58f97c50ef2797008ec"
+        ],
+        "matched": [
+            "5a515341853a053d0299960a6d1b33efee25b85d"
+        ]
+    },
+    {
+        "repo_name": "hyperledger/fabric",
+        "CVE_ID": "CVE-2022-36023",
+        "Problem_Type": "CWE-20",
+        "Description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. If a gateway client application sends a malformed request to a gateway peer it may crash the peer node. Version 2.4.6 checks for the malformed gateway request and returns an error to the gateway client. There are no known workarounds, users must upgrade to version 2.4.6.",
+        "URL": "https://github.com/hyperledger/fabric/pull/3572",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "7478f5381ae1655ca608fe5ca90920ab6fc4caba",
+        "inducing_commit_hash_pyszz": [
+            "dfaa16476e1ae7a180b689cb9b45675b700d36b2"
+        ],
+        "inducing_commit_hash_pd": [
+            "dfaa16476e1ae7a180b689cb9b45675b700d36b2"
+        ],
+        "matched": [
+            "dfaa16476e1ae7a180b689cb9b45675b700d36b2"
+        ]
+    },
+    {
+        "repo_name": "hyperledger/fabric",
+        "CVE_ID": "CVE-2022-36023",
+        "Problem_Type": "CWE-20",
+        "Description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. If a gateway client application sends a malformed request to a gateway peer it may crash the peer node. Version 2.4.6 checks for the malformed gateway request and returns an error to the gateway client. There are no known workarounds, users must upgrade to version 2.4.6.",
+        "URL": "https://github.com/hyperledger/fabric/pull/3577",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "468332ca3da1d7a37b0b5bcc749d0f4db718e46c",
+        "inducing_commit_hash_pyszz": [
+            "7c12fa69f88218eb2cbca1cb0afccdaf179b89ab"
+        ],
+        "inducing_commit_hash_pd": [
+            "7c12fa69f88218eb2cbca1cb0afccdaf179b89ab"
+        ],
+        "matched": [
+            "7c12fa69f88218eb2cbca1cb0afccdaf179b89ab"
+        ]
+    },
+    {
+        "repo_name": "hyperledger/fabric",
+        "CVE_ID": "CVE-2022-36023",
+        "Problem_Type": "CWE-20",
+        "Description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. If a gateway client application sends a malformed request to a gateway peer it may crash the peer node. Version 2.4.6 checks for the malformed gateway request and returns an error to the gateway client. There are no known workarounds, users must upgrade to version 2.4.6.",
+        "URL": "https://github.com/hyperledger/fabric/pull/3576",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "86faa2ee568e1ec2d39b6692cd5bb0938a780851",
+        "inducing_commit_hash_pyszz": [
+            "958fec433fc9e00f7e27b4a5130392d402afdacb"
+        ],
+        "inducing_commit_hash_pd": [
+            "958fec433fc9e00f7e27b4a5130392d402afdacb"
+        ],
+        "matched": [
+            "958fec433fc9e00f7e27b4a5130392d402afdacb"
+        ]
+    },
+    {
+        "repo_name": "hyperledger/fabric",
+        "CVE_ID": "CVE-2022-45196",
+        "Problem_Type": "CWE-670",
+        "Description": "Hyperledger Fabric 2.3 allows attackers to cause a denial of service (orderer crash) by repeatedly sending a crafted channel tx with the same Channel name. NOTE: the official Fabric with Raft prevents exploitation via a locking mechanism and a check for names that already exist.",
+        "URL": "https://github.com/hyperledger/fabric/pull/2934",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "aa8d06b735f82b01ae123e46a0bc21ba831d1b0d",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
