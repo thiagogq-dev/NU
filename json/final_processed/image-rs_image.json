@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "image-rs/image",
+        "CVE_ID": "CVE-2019-16138",
+        "Problem_Type": "CWE-416",
+        "Description": "An issue was discovered in the image crate before 0.21.3 for Rust, affecting the HDR image format decoder. Vec::set_len is called on an uninitialized vector, leading to a use-after-free and arbitrary code execution.",
+        "URL": "https://github.com/image-rs/image/pull/985",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "214e6467a1e32e690f08f0b34dea540625b6724c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
