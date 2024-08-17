@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "indexzero/nconf",
+        "CVE_ID": "CVE-2022-21803",
+        "Problem_Type": "CWE-1321",
+        "Description": "This affects the package nconf before 0.11.4. When using the memory engine, it is possible to store a nested JSON representation of the configuration. The .set() function, that is responsible for setting the configuration properties, is vulnerable to Prototype Pollution. By providing a crafted property, it is possible to modify the properties on the Object.prototype.",
+        "URL": "https://github.com/indexzero/nconf/pull/397",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "feaba562b812b21215897f71b0c8b3bf39cf8d7d",
+        "inducing_commit_hash_pyszz": [
+            "4459ba54a1eb7eb5aadbeeada9ced59637122e82"
+        ],
+        "inducing_commit_hash_pd": [
+            "4459ba54a1eb7eb5aadbeeada9ced59637122e82"
+        ],
+        "matched": [
+            "4459ba54a1eb7eb5aadbeeada9ced59637122e82"
+        ]
+    }
+]
