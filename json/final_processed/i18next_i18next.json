@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "i18next/i18next",
+        "CVE_ID": "CVE-2017-16008",
+        "Problem_Type": "CWE-79",
+        "Description": "i18next is a language translation framework. Because of how the interpolation is implemented, making replacements from the dictionary one at a time, untrusted user input can use the name of one of the dictionary keys to inject script into the browser. This affects i18next <=1.10.2.",
+        "URL": "https://github.com/i18next/i18next/pull/443",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "83cfe9cd0f58023b76402b176bfe9ca04accac10"
+        ],
+        "inducing_commit_hash_pd": [
+            "202465a5b7115337f03490436f88737284e279e3"
+        ],
+        "matched": []
+    }
+]
