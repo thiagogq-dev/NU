@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "Jason2605/AdminPanel",
+        "CVE_ID": "CVE-2020-13433",
+        "Problem_Type": "CWE-89",
+        "Description": "Jason2605 AdminPanel 4.0 allows SQL Injection via the editPlayer.php hidden parameter.",
+        "URL": "https://github.com/Jason2605/AdminPanel/pull/41",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e7fa96823c1c0c504afbaf125f93ecc56c7cd286",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
