@@ -1,0 +1,50 @@
+[
+    {
+        "repo_name": "home-assistant/plugin-dns",
+        "CVE_ID": "CVE-2020-36517",
+        "Problem_Type": "CWE-203",
+        "Description": "An information leak in Nabu Casa Home Assistant Operating System and Home Assistant Supervised 2022.03 allows a DNS operator to gain knowledge about internal network resources via the hardcoded DNS resolver configuration.",
+        "URL": "https://github.com/home-assistant/plugin-dns/pull/55",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "9d743f135e2f1471ed3bc3b253c3b78363fcc48f"
+        ],
+        "inducing_commit_hash_pd": [
+            "363ada071a380ca894ba36f596d5fa5a7b102df4"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/plugin-dns",
+        "CVE_ID": "CVE-2020-36517",
+        "Problem_Type": "CWE-203",
+        "Description": "An information leak in Nabu Casa Home Assistant Operating System and Home Assistant Supervised 2022.03 allows a DNS operator to gain knowledge about internal network resources via the hardcoded DNS resolver configuration.",
+        "URL": "https://github.com/home-assistant/plugin-dns/pull/59",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "9d743f135e2f1471ed3bc3b253c3b78363fcc48f"
+        ],
+        "inducing_commit_hash_pd": [
+            "363ada071a380ca894ba36f596d5fa5a7b102df4"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/plugin-dns",
+        "CVE_ID": "CVE-2020-36517",
+        "Problem_Type": "CWE-203",
+        "Description": "An information leak in Nabu Casa Home Assistant Operating System and Home Assistant Supervised 2022.03 allows a DNS operator to gain knowledge about internal network resources via the hardcoded DNS resolver configuration.",
+        "URL": "https://github.com/home-assistant/plugin-dns/pull/58",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "9d743f135e2f1471ed3bc3b253c3b78363fcc48f"
+        ],
+        "inducing_commit_hash_pd": [
+            "363ada071a380ca894ba36f596d5fa5a7b102df4"
+        ],
+        "matched": []
+    }
+]
