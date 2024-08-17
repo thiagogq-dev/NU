@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "internetarchive/infogami",
+        "CVE_ID": "CVE-2022-32159",
+        "Problem_Type": "CWE-79",
+        "Description": "In openlibrary versions deploy-2016-07-0 through deploy-2021-12-22 are vulnerable to Stored XSS.",
+        "URL": "https://github.com/internetarchive/infogami/pull/195/commits/ccc2141c5fb093870c9e2742c01336ecca8cd12e",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ccc2141c5fb093870c9e2742c01336ecca8cd12e",
+        "inducing_commit_hash_pyszz": [
+            "b6cc011712d2cd91ca4f0a354b419625e4669a33"
+        ],
+        "inducing_commit_hash_pd": [
+            "c3e34c27c829665be8c3103ef30eca8da72dfd5a",
+            "b6cc011712d2cd91ca4f0a354b419625e4669a33",
+            "af0a49cd43a0c958538b87bca9d059128f6a24d4",
+            "7b6e410bf64f21b9139565f36c74a3247a12c2b1"
+        ],
+        "matched": [
+            "b6cc011712d2cd91ca4f0a354b419625e4669a33"
+        ]
+    }
+]
