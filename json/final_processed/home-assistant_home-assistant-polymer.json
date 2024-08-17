@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "home-assistant/home-assistant-polymer",
+        "CVE_ID": "CVE-2017-16782",
+        "Problem_Type": "CWE-79",
+        "Description": "In Home Assistant before 0.57, it is possible to inject JavaScript code into a persistent notification via crafted Markdown text, aka XSS.",
+        "URL": "https://github.com/home-assistant/home-assistant-polymer/pull/514",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ce2b4b6765cbc0347145ba19d54f47d351624e88",
+        "inducing_commit_hash_pyszz": [
+            "cbc447515f41a47df34ac54b408194e291b74d35"
+        ],
+        "inducing_commit_hash_pd": [
+            "9c0845d595c05b76b1b3f77b362d31c27cc8b38e",
+            "78c7756aa18b7abcaf8f531209d8d9b910527f27",
+            "cbc447515f41a47df34ac54b408194e291b74d35"
+        ],
+        "matched": [
+            "cbc447515f41a47df34ac54b408194e291b74d35"
+        ]
+    }
+]
