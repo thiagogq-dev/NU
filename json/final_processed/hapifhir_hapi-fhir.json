@@ -1,0 +1,41 @@
+[
+    {
+        "repo_name": "hapifhir/hapi-fhir",
+        "CVE_ID": "CVE-2021-32053",
+        "Problem_Type": "CWE-400",
+        "Description": "JPA Server in HAPI FHIR before 5.4.0 allows a user to deny service (e.g., disable access to the database after the attack stops) via history requests. This occurs because of a SELECT COUNT statement that requires a full index scan, with an accompanying large amount of server resources if there are many simultaneous history requests.",
+        "URL": "https://github.com/hapifhir/hapi-fhir/pull/2642",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5a9f499fbf60cdcb4320b5774433ca6bc96cdfc5",
+        "inducing_commit_hash_pyszz": [
+            "7d769e3b053801b87605ab1bc3e79eb99ec261cf"
+        ],
+        "inducing_commit_hash_pd": [
+            "7d769e3b053801b87605ab1bc3e79eb99ec261cf",
+            "23b7de5dd87dc4954e960345734e946761323e45",
+            "95d7ba6fa8b7184b62190ac5b932aaeb20337e51",
+            "3b91873b7cce1ca7f344e9ea958d43a8bbc16ab1",
+            "01186ec8cbfc8a10897e196ae2f457dc5e6ea123",
+            "43b4d8e0e32f9b44d3f85e63f149af9c400e674b",
+            "6f79f6c5e2a741adb8075d01cc75ab36ca47da09",
+            "8000d2d0cf25a3ddcb9d7d920aa7cacee087cdbf",
+            "a77aa6a28e32b9d1ef4bb26249bfb42f4d42d329",
+            "0af8fbc5d3ec4122deb3472f2b0d743fe68c7f9b",
+            "efc6809ea689eb95436174f24ec498ecf77fb981",
+            "f356c7c385ed170311c378851a29dbe085e99931",
+            "6baf1995c9e23bbfeb4770bc471ceffe64d0ead5",
+            "1dc4fb2206a1689a35f7bfcbdce7d7eb60648907",
+            "d958764d490ccd0330212acaf64b90c4fed69321",
+            "f6d4a403880550ba8d1d8025b4fbd02efed936d9",
+            "e85bec28588f07bca97d4e92a2be949616ca50f0",
+            "970a9884f076b3510991420cbc1170799903f7dc",
+            "be5c5ebecde889e5e91784e300c943a35d50c253",
+            "f934f76c9606f642d7af4b15552def209feb94f3",
+            "1dc5d8901328b7646987b596c3b3cdfeace145cd",
+            "6cc07b66891329388a4469339d04b2de8f361c1f"
+        ],
+        "matched": [
+            "7d769e3b053801b87605ab1bc3e79eb99ec261cf"
+        ]
+    }
+]
