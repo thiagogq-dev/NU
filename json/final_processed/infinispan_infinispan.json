@@ -1,0 +1,90 @@
+[
+    {
+        "repo_name": "infinispan/infinispan",
+        "CVE_ID": "CVE-2016-0750",
+        "Problem_Type": "CWE-502",
+        "Description": "The hotrod java client in infinispan before 9.1.0.Final automatically deserializes bytearray message contents in certain events. A malicious user could exploit this flaw by injecting a specially-crafted serialized object to attain remote code execution or conduct other attacks.",
+        "URL": "https://github.com/infinispan/infinispan/pull/5116",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f2989a9b7b5ef2d3be690250d9d1bc7b2fa045d7",
+        "inducing_commit_hash_pyszz": [
+            "d4b2300bb8f8ae14106c6435601601134e37bc78"
+        ],
+        "inducing_commit_hash_pd": [
+            "fd9410e09233baaab91861b96d1210bd4c6728ad",
+            "a9b80405f959be819d3452201005d376626463cc",
+            "d4b2300bb8f8ae14106c6435601601134e37bc78",
+            "e9c34c79a6877fb3a7588024b263b487b73f86e2",
+            "429413e256bf7a7288421321d709289427050699",
+            "916891c2f3dc71af9e96b781bda7a02e54b6b173",
+            "4f1c679f11b91e26db66f8833cda0282db67f9c5",
+            "7eede262c65d9dd824306b15b93b0be635915fea",
+            "607037033a10baa673a7887b3a85bfec9e382b50",
+            "30d7e19bb2fdd3fd2937f56a86b8fc25a55692dc",
+            "fdc6d3cfe039c1e731525ed3a2faa7d2ce4abec9",
+            "94ed4efd854ea20b0efd839b5642ee9ca5b0edae",
+            "66275c08559d7962e1594dbddd9958d6ff9927f5",
+            "8cdb21f933988f97249c072246f039256c42793f"
+        ],
+        "matched": [
+            "d4b2300bb8f8ae14106c6435601601134e37bc78"
+        ]
+    },
+    {
+        "repo_name": "infinispan/infinispan",
+        "CVE_ID": "CVE-2017-15089",
+        "Problem_Type": "CWE-502",
+        "Description": "It was found that the Hotrod client in Infinispan before 9.2.0.CR1 would unsafely read deserialized data on information from the cache. An authenticated attacker could inject a malicious object into the data cache and attain deserialization on the client, and possibly conduct further attacks.",
+        "URL": "https://github.com/infinispan/infinispan/pull/5639",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2944b0d1369a230bde88392b222921537c99331e",
+        "inducing_commit_hash_pyszz": [
+            "2372aa3fc98cac5ca703ae3047ade4f6e12ff982"
+        ],
+        "inducing_commit_hash_pd": [
+            "f2989a9b7b5ef2d3be690250d9d1bc7b2fa045d7",
+            "be741c9e7543d053455b2f3dc49a134f8665935c"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "infinispan/infinispan",
+        "CVE_ID": "CVE-2017-2638",
+        "Problem_Type": "CWE-287",
+        "Description": "It was found that the REST API in Infinispan before version 9.0.0 did not properly enforce auth constraints. An attacker could use this vulnerability to read or modify data in the default cache or a known cache name.",
+        "URL": "https://github.com/infinispan/infinispan/pull/4936/commits",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f2d54c4ecb75c7264d4160ca7c461135712201a9",
+        "inducing_commit_hash_pyszz": [
+            "f727ba69f26e068801b7811cab3a307f9578d9bc"
+        ],
+        "inducing_commit_hash_pd": [
+            "e4c61c1c92bab14500b0b8ef42411d9bbec96bc3",
+            "08dcfc3f54efbefc650ad5f675195ffdbf022192",
+            "1fdfb14b281bd5bc2fe69089c597c8665331827b",
+            "ea6186fc66f86cc3758d9b2afe7a1f13b55e3004",
+            "8470002a83d878d50c5c43179c7e70815bb8c6ae",
+            "a4d8b50522661759b9521f87d1492664178edf7c",
+            "dae53c34e9eba393c68babbde1a362f1388b1c83",
+            "7d500e7b580907ececec2f6b06754800e2a420f6",
+            "a479fbce4f5fa70e30e95ee83cc7a4860f12b6e1",
+            "a3379d67aabaec36907165868b63f9d0794936fb",
+            "840603f6530e12a9da9df429b3b9b9c4bed19236",
+            "e81d358351d5ab2a1abbb34b4638a7358e7b5cec",
+            "162e36fff4c829c7369e69f629d47194e44d6c20",
+            "56e2a66506cb327df308c076f44712095f432d75",
+            "f7cee30a943e3b11d76be719784591ace06062a6",
+            "fd680cb36b6559633700509b62f53f2919a9c6de",
+            "f727ba69f26e068801b7811cab3a307f9578d9bc",
+            "2eb84c2824d82530e508b2063409b1d22225772d",
+            "01e5f777d6afb20c09dd2c82ac11370164d22b62",
+            "c2e5d935863fbc85214987e90ec7f2762cf99297",
+            "8e986e471b983440c39e29cb765b3446c42896e3",
+            "43edda65955d0dd6d43f499a467fd5d8338715cb",
+            "4878cea6e91c8c5532157bd3123c33b88f866ec6"
+        ],
+        "matched": [
+            "f727ba69f26e068801b7811cab3a307f9578d9bc"
+        ]
+    }
+]
