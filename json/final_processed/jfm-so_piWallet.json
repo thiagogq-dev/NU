@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "jfm-so/piWallet",
+        "CVE_ID": "CVE-2017-20168",
+        "Problem_Type": "CWE-89",
+        "Description": "A vulnerability was found in jfm-so piWallet. It has been rated as critical. Affected by this issue is some unknown functionality of the file api.php. The manipulation of the argument key leads to sql injection. The patch is identified as b420f8c4cbe7f06a34d1b05e90ee5cdfe0aa83bb. It is recommended to apply a patch to fix this issue. VDB-218006 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/jfm-so/piWallet/pull/23",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "d568c83e6300f51670796b259ee18fd71eaaf676",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
