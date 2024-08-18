@@ -1,0 +1,50 @@
+[
+    {
+        "repo_name": "kubernetes/kubernetes",
+        "CVE_ID": "CVE-2019-1002101",
+        "Problem_Type": "CWE-59",
+        "Description": "The kubectl cp command allows copying files between containers and the user machine. To copy files from a container, Kubernetes creates a tar inside the container, copies it over the network, and kubectl unpacks it on the user\u00c2\u2019s machine. If the tar binary in the container is malicious, it could run any code and output unexpected, malicious results. An attacker could use this to write files to any path on the user\u00c2\u2019s machine when kubectl cp is called, limited only by the system permissions of the local user. The untar function can both create and follow symbolic links. The issue is resolved in kubectl v1.11.9, v1.12.7, v1.13.5, and v1.14.0.",
+        "URL": "https://github.com/kubernetes/kubernetes/pull/75037",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "47063891dd782835170f500a83f37cc98c3c1013",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "kubernetes/kubernetes",
+        "CVE_ID": "CVE-2019-11246",
+        "Problem_Type": "CWE-22",
+        "Description": "The kubectl cp command allows copying files between containers and the user machine. To copy files from a container, Kubernetes runs tar inside the container to create a tar archive, copies it over the network, and kubectl unpacks it on the user\u00c2\u2019s machine. If the tar binary in the container is malicious, it could run any code and output unexpected, malicious results. An attacker could use this to write files to any path on the user\u00c2\u2019s machine when kubectl cp is called, limited only by the system permissions of the local user. Kubernetes affected versions include versions prior to 1.12.9, versions prior to 1.13.6, versions prior to 1.14.2, and versions 1.1, 1.2, 1.4, 1.4, 1.5, 1.6, 1.7, 1.8, 1.9, 1.10, 1.11.",
+        "URL": "https://github.com/kubernetes/kubernetes/pull/76788",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b95fca093d29a0c63558138e1bfa3b434168e994",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "kubernetes/kubernetes",
+        "CVE_ID": "CVE-2019-11252",
+        "Problem_Type": "CWE-209",
+        "Description": "The Kubernetes kube-controller-manager in versions v1.0-v1.17 is vulnerable to a credential leakage via error messages in mount failure logs and events for AzureFile and CephFS volumes.",
+        "URL": "https://github.com/kubernetes/kubernetes/pull/88684",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "cd23e78c3dc1a4161abb11523a8614b56b9c0928",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "kubernetes/kubernetes",
+        "CVE_ID": "CVE-2023-44487",
+        "Problem_Type": "CWE-400",
+        "Description": "The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
+        "URL": "https://github.com/kubernetes/kubernetes/pull/121120",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "cb713c15e99d59cb5b2f9015d1d978fee8142965",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
