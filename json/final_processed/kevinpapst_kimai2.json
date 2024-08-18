@@ -1,0 +1,46 @@
+[
+    {
+        "repo_name": "kevinpapst/kimai2",
+        "CVE_ID": "CVE-2019-15481",
+        "Problem_Type": "CWE-79",
+        "Description": "Kimai v2 before 1.1 has XSS via a timesheet description.",
+        "URL": "https://github.com/kevinpapst/kimai2/pull/962",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a0e8aa3a435717187fb12210242dab1b7c97ff3f",
+        "inducing_commit_hash_pyszz": [
+            "a609cbf84aa2e79cbbbd6c69bf0212792f65c106"
+        ],
+        "inducing_commit_hash_pd": [
+            "a609cbf84aa2e79cbbbd6c69bf0212792f65c106",
+            "816866549c111635cc81b86af0b9a5f68e42cde0",
+            "53f82a808be73a3208837fa11e0e912487ee0c82",
+            "98dc38ed99f41d13ff428c497a2006a1d60a19c2",
+            "4c277fe1b5ebdadfdef5e80bc0be000aaa23033e"
+        ],
+        "matched": [
+            "a609cbf84aa2e79cbbbd6c69bf0212792f65c106"
+        ]
+    },
+    {
+        "repo_name": "kevinpapst/kimai2",
+        "CVE_ID": "CVE-2020-19825",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting (XSS) vulnerability in kevinpapst kimai2 1.30.0 in /src/Twig/Runtime/MarkdownExtension.php, allows attackers to gain escalated privileges.",
+        "URL": "https://github.com/kevinpapst/kimai2/pull/962/files",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "a0e8aa3a435717187fb12210242dab1b7c97ff3f",
+        "inducing_commit_hash_pyszz": [
+            "a609cbf84aa2e79cbbbd6c69bf0212792f65c106"
+        ],
+        "inducing_commit_hash_pd": [
+            "a609cbf84aa2e79cbbbd6c69bf0212792f65c106",
+            "816866549c111635cc81b86af0b9a5f68e42cde0",
+            "53f82a808be73a3208837fa11e0e912487ee0c82",
+            "98dc38ed99f41d13ff428c497a2006a1d60a19c2",
+            "4c277fe1b5ebdadfdef5e80bc0be000aaa23033e"
+        ],
+        "matched": [
+            "a609cbf84aa2e79cbbbd6c69bf0212792f65c106"
+        ]
+    }
+]
