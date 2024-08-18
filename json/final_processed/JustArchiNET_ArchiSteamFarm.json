@@ -1,0 +1,109 @@
+[
+    {
+        "repo_name": "JustArchiNET/ArchiSteamFarm",
+        "CVE_ID": "CVE-2021-32794",
+        "Problem_Type": "CWE-306",
+        "Description": "ArchiSteamFarm is a C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. Due to a bug in ASF code `POST /Api/ASF` ASF API endpoint responsible for updating global ASF config incorrectly removed `IPCPassword` from the resulting config when the caller did not specify it explicitly. Due to the above, it was possible for the user to accidentally remove `IPCPassword` security measure from his IPC interface when updating global ASF config, which exists as part of global config update functionality in ASF-ui. Removal of `IPCPassword` possesses a security risk, as unauthorized users may in result access the IPC interface after such modification. The issue is patched in ASF V5.1.2.4 and future versions. We recommend to manually verify that `IPCPassword` is specified after update, and if not, set it accordingly. In default settings, ASF is configured to allow IPC access from `localhost` only and should not affect majority of users.",
+        "URL": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2379",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4b7edf388ca37568568c345feadabe0a35691467",
+        "inducing_commit_hash_pyszz": [
+            "e146db732c775ac63f63cecca3dc27808cf0e720"
+        ],
+        "inducing_commit_hash_pd": [
+            "e146db732c775ac63f63cecca3dc27808cf0e720"
+        ],
+        "matched": [
+            "e146db732c775ac63f63cecca3dc27808cf0e720"
+        ]
+    },
+    {
+        "repo_name": "JustArchiNET/ArchiSteamFarm",
+        "CVE_ID": "CVE-2022-23627",
+        "Problem_Type": "CWE-863",
+        "Description": "ArchiSteamFarm (ASF) is a C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. Due to a bug in ASF code, introduced in version V5.2.2.2, the program didn't adequately verify effective access of the user sending proxy (i.e. `[Bots]`) commands. In particular, a proxy-like command sent to bot `A` targeting bot `B` has incorrectly verified user's access against bot `A` - instead of bot `B`, to which the command was originally designated. This in result allowed access to resources beyond those configured, being a security threat affecting confidentiality of other bot instances. A successful attack exploiting this bug requires a significant access granted explicitly by original owner of the ASF process prior to that, as attacker has to control at least a single bot in the process to make use of this inadequate access verification loophole. The issue is patched in ASF V5.2.2.5, V5.2.3.2 and future versions. Users are advised to update as soon as possible.",
+        "URL": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2509",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f807bdb660e75dee5a34994f2ea70970ca6d0492",
+        "inducing_commit_hash_pyszz": [
+            "31db72b2d60738295a2c5d861436e6b782c11c64"
+        ],
+        "inducing_commit_hash_pd": [
+            "4258fed8732591a58d86362377a2aabe7dac3d84",
+            "31db72b2d60738295a2c5d861436e6b782c11c64"
+        ],
+        "matched": [
+            "31db72b2d60738295a2c5d861436e6b782c11c64"
+        ]
+    },
+    {
+        "repo_name": "JustArchiNET/ArchiSteamFarm",
+        "CVE_ID": "CVE-2022-23627",
+        "Problem_Type": "CWE-863",
+        "Description": "ArchiSteamFarm (ASF) is a C# application with primary purpose of idling Steam cards from multiple accounts simultaneously. Due to a bug in ASF code, introduced in version V5.2.2.2, the program didn't adequately verify effective access of the user sending proxy (i.e. `[Bots]`) commands. In particular, a proxy-like command sent to bot `A` targeting bot `B` has incorrectly verified user's access against bot `A` - instead of bot `B`, to which the command was originally designated. This in result allowed access to resources beyond those configured, being a security threat affecting confidentiality of other bot instances. A successful attack exploiting this bug requires a significant access granted explicitly by original owner of the ASF process prior to that, as attacker has to control at least a single bot in the process to make use of this inadequate access verification loophole. The issue is patched in ASF V5.2.2.5, V5.2.3.2 and future versions. Users are advised to update as soon as possible.",
+        "URL": "https://github.com/JustArchiNET/ArchiSteamFarm/pull/2501",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4258fed8732591a58d86362377a2aabe7dac3d84",
+        "inducing_commit_hash_pyszz": [
+            "81a92d67810b1f4e2d0a7f419a9ae306f11ebccf"
+        ],
+        "inducing_commit_hash_pd": [
+            "dd8c1a79e4a4e18e1bc14de7a173417aa9fc580e",
+            "377ee76237556c4b36b8f78d276ef6e76aa3d1a4",
+            "f5367e67526e13b3ef1bc9c2e3cb8105aa5f6e10",
+            "ff85a88b42529057ae66645b87a356d5e7589d4b",
+            "7ab19aa8069d6c9cb36c0f8a0b85f204c2cdbb59",
+            "e64ff323c0467dec0155af56de82d1adba9a62c9",
+            "36fa2b8b4dd0828c27efe8c7b86a310170c09f07",
+            "22c1b6130a76887671c528ef1ea2abcc43e8ae31",
+            "95356af9d3610706366cc1c645740dfc884464f7",
+            "9ed3695d054f0dcf321d7e19ec32e5473bc3555c",
+            "716acb0468cc389d832c924857bdcb85c5292ba6",
+            "a76fe94617632a2dcf03ea26278549b08f750e36",
+            "c01a2ba86376fa8050058aebf1885c2085204076",
+            "9fc1ea65a5a40bb9a32c88e8a49306d7396f9842",
+            "e7802ca6092f37131b14bfb77828020a0fbffa8f",
+            "ab6ce7c7e5c8ebc408d0845e6ac63eba68d8f034",
+            "cea4bf274a4faaebfbaacebf943c437a7af745a8",
+            "515c6545114a65fa3aea4469e8d270fcd3032a7b",
+            "c1ba2b5338d291d7362c6f467889d4f787745069",
+            "f99d296687a9938666643d626004132caadf487d",
+            "81a92d67810b1f4e2d0a7f419a9ae306f11ebccf",
+            "e134d6f6b6b6b851e7ce3fd05d07e1240932c3e8",
+            "a692c32d8fef32292865348c1f8cec04874b8f3a",
+            "21d5051a849c3a5f316f3fd96e009d99c6aba769",
+            "71a9f06e55688d722e1857289628daa5c832556a",
+            "93ac4cf69747749b2f235398cefa3188a31a77a1",
+            "52a7bb048f0baba23213514ed8b59c84589de194",
+            "c50b70d3e3d3e6581158d979132a27ab00f04cf3",
+            "afda19392af22af01161b88e7fe79f104f3f8123",
+            "fc0c9161375b1c065871e3e6734870a8d7b2981b",
+            "0f2a816b92fa6eaa431b3a599ebc1f263d3a19cc",
+            "ab111da6c4b846a5f42280384eee22a00b1d607c",
+            "6a811008eb04d3d0cdc1ebb6d45dd9a7cc8b93dc",
+            "d1e8794fe30dc697d6b7ff4393ca3409413dcc05",
+            "c6ad260e8174c3ddb6a3915d2e1d6206f717c923",
+            "e482295b1362e600e536494e92f557538a38bf8d",
+            "1a388d43ae0a0001562818d882ab5241bcafa055",
+            "e82560259baf407690ad23494251f4f3a5fee6f9",
+            "27648db50936369d6f20610e5f34a9e0f14f5818",
+            "ad9a0d6768adcc0041436befffde223e36e9a6a8",
+            "5bee79f3aa1c61f9ef908a9b32393729d7f21d29",
+            "f2e16aeecc7e3b2f4ec72acde28c99238f8b647f",
+            "e188a1d75199b109f384e671e392555d38b94f24",
+            "7289f3bae4df1fa59f24aa8ec9e55da8eb31a420",
+            "fc564d766c23e5b681c034a53fcedc3d23e0d123",
+            "e60b54e402e8508ce30917bcf111a069ad706eaa",
+            "e18c8ffa55a14fbf7fe5e4c36a12d8c7f82b7472",
+            "a0c4dc00a3fb310883e8aa2a2fd0f971074c7786",
+            "fe9b3b2bc049449cf7dcbde0659938dc5f650078",
+            "7e9e90764b6830aa5eeb37d6281dca997b27ce80",
+            "60ae4977dacf1fed33e4956f1a70cc539eb8c8db",
+            "73cbd9e611bb1d116d2ec45d26a538b88cd17ce4",
+            "42f388e370041c75550f4bbfdf901a7955bd0c30"
+        ],
+        "matched": [
+            "81a92d67810b1f4e2d0a7f419a9ae306f11ebccf"
+        ]
+    }
+]
