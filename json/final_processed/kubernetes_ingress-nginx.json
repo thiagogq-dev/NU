@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "kubernetes/ingress-nginx",
+        "CVE_ID": "CVE-2018-1002104",
+        "Problem_Type": "CWE-20",
+        "Description": "Versions < 1.5 of the Kubernetes ingress default backend, which handles invalid ingress traffic, exposed prometheus metrics publicly.",
+        "URL": "https://github.com/kubernetes/ingress-nginx/pull/3125",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "50bb7897cfe279f7454399705ec75cd22e045799",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "kubernetes/ingress-nginx",
+        "CVE_ID": "CVE-2019-20372",
+        "Problem_Type": "CWE-444",
+        "Description": "NGINX before 1.17.7, with certain error_page configurations, allows HTTP request smuggling, as demonstrated by the ability of an attacker to read unauthorized web pages in environments where NGINX is being fronted by a load balancer.",
+        "URL": "https://github.com/kubernetes/ingress-nginx/pull/4859",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a0523c3c8a81b54b728f75928020442db87f04f5",
+        "inducing_commit_hash_pyszz": [
+            "0ae589293556fef59368d5709f6c7dc11d36ca87"
+        ],
+        "inducing_commit_hash_pd": [
+            "2fa55eabf68f5a43bc8e53ab1b5eaf59b542cdea",
+            "2de5a893aa15f14102d714e918b0045b960ad1a5",
+            "587c2a8765ee0ee7a1fc4e75df22d2b9e15a89ef",
+            "7b507095f464d6ddc7f07a2f9c2a3ad8c0240c65",
+            "23af068e1788e3094525e79ac8d24a80b69714a0",
+            "0ae589293556fef59368d5709f6c7dc11d36ca87",
+            "8cc9afe8eef02a4b974eafbcff93b61daea82c81"
+        ],
+        "matched": [
+            "0ae589293556fef59368d5709f6c7dc11d36ca87"
+        ]
+    }
+]
