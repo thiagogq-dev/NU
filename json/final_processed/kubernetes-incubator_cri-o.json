@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "kubernetes-incubator/cri-o",
+        "CVE_ID": "CVE-2018-1000400",
+        "Problem_Type": "CWE-269",
+        "Description": "Kubernetes CRI-O version prior to 1.9 contains a Privilege Context Switching Error (CWE-270) vulnerability in the handling of ambient capabilities that can result in containers running with elevated privileges, allowing users abilities they should not have. This attack appears to be exploitable via container execution. This vulnerability appears to have been fixed in 1.9.",
+        "URL": "https://github.com/kubernetes-incubator/cri-o/pull/1558/files",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e058805ce25222234aab246e9f3b341e5f98f860",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
