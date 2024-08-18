@@ -1,0 +1,114 @@
+[
+    {
+        "repo_name": "laravel/framework",
+        "CVE_ID": "CVE-2021-21263",
+        "Problem_Type": "CWE-89",
+        "Description": "Laravel is a web application framework. Versions of Laravel before 6.20.11, 7.30.2 and 8.22.1 contain a query binding exploitation. This same exploit applies to the illuminate/database package which is used by Laravel. If a request is crafted where a field that is normally a non-array value is an array, and that input is not validated or cast to its expected type before being passed to the query builder, an unexpected number of query bindings can be added to the query. In some situations, this will simply lead to no results being returned by the query builder; however, it is possible certain queries could be affected in a way that causes the query to return unexpected results.",
+        "URL": "https://github.com/laravel/framework/pull/35865",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d0954f4574f315f0c2e9e65e92cc74b80eadcac1",
+        "inducing_commit_hash_pyszz": [
+            "0c4ef0f549e172240ccfdac045494c1a27b6ca06"
+        ],
+        "inducing_commit_hash_pd": [
+            "8511e41af5bd43c5dae2ae7d9e3010d355bdbbc6",
+            "6117ba5303eac4b763cce888baca57adf19ba787",
+            "5e33a96cd5fe9f5bea953a3e07ec827d5f19a9a3",
+            "0c4ef0f549e172240ccfdac045494c1a27b6ca06"
+        ],
+        "matched": [
+            "0c4ef0f549e172240ccfdac045494c1a27b6ca06"
+        ]
+    },
+    {
+        "repo_name": "laravel/framework",
+        "CVE_ID": "CVE-2021-43808",
+        "Problem_Type": "CWE-327",
+        "Description": "Laravel is a web application framework. Laravel prior to versions 8.75.0, 7.30.6, and 6.20.42 contain a possible cross-site scripting (XSS) vulnerability in the Blade templating engine. A broken HTML element may be clicked and the user taken to another location in their browser due to XSS. This is due to the user being able to guess the parent placeholder SHA-1 hash by trying common names of sections. If the parent template contains an exploitable HTML structure an XSS vulnerability can be exposed. This vulnerability has been patched in versions 8.75.0, 7.30.6, and 6.20.42 by determining the parent placeholder at runtime and using a random hash that is unique to each request.",
+        "URL": "https://github.com/laravel/framework/pull/39909",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ee08338d235396a9ef86bc9613a3754e939b1d17",
+        "inducing_commit_hash_pyszz": [
+            "c613a18374ad3468dd1ff3cfc95407b6178b81fc"
+        ],
+        "inducing_commit_hash_pd": [
+            "6dd859397c614349f87fda660827900ab4363522",
+            "6be12dd818ed15c01ba28b2bbfd3bcadf0955da3",
+            "7cdb6a6f6b77c91906c4ad0c6110b30042a43277",
+            "f17c34a75fd02c2aa0f29abe135d45d4b2832a10",
+            "c613a18374ad3468dd1ff3cfc95407b6178b81fc",
+            "59816bb6ce342adb19c7eea530f06a3bb69412df",
+            "afb0c034072a03a5ab1872fbdea54f8befd873c3",
+            "64f7e9c4e37637df7b0820b11d5fcee1c1cca58d",
+            "2a4acfb65f8fb69cec32cd9f4ccda4566524d5e2",
+            "c762ce562bc5b6a8737ff8ee3f97f36897d42dff"
+        ],
+        "matched": [
+            "c613a18374ad3468dd1ff3cfc95407b6178b81fc"
+        ]
+    },
+    {
+        "repo_name": "laravel/framework",
+        "CVE_ID": "CVE-2021-43808",
+        "Problem_Type": "CWE-327",
+        "Description": "Laravel is a web application framework. Laravel prior to versions 8.75.0, 7.30.6, and 6.20.42 contain a possible cross-site scripting (XSS) vulnerability in the Blade templating engine. A broken HTML element may be clicked and the user taken to another location in their browser due to XSS. This is due to the user being able to guess the parent placeholder SHA-1 hash by trying common names of sections. If the parent template contains an exploitable HTML structure an XSS vulnerability can be exposed. This vulnerability has been patched in versions 8.75.0, 7.30.6, and 6.20.42 by determining the parent placeholder at runtime and using a random hash that is unique to each request.",
+        "URL": "https://github.com/laravel/framework/pull/39908",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b8174169b1807f36de1837751599e2828ceddb9b",
+        "inducing_commit_hash_pyszz": [
+            "6be12dd818ed15c01ba28b2bbfd3bcadf0955da3"
+        ],
+        "inducing_commit_hash_pd": [
+            "6dd859397c614349f87fda660827900ab4363522",
+            "6be12dd818ed15c01ba28b2bbfd3bcadf0955da3",
+            "7cdb6a6f6b77c91906c4ad0c6110b30042a43277",
+            "f17c34a75fd02c2aa0f29abe135d45d4b2832a10",
+            "59816bb6ce342adb19c7eea530f06a3bb69412df",
+            "64f7e9c4e37637df7b0820b11d5fcee1c1cca58d",
+            "2a4acfb65f8fb69cec32cd9f4ccda4566524d5e2"
+        ],
+        "matched": [
+            "6be12dd818ed15c01ba28b2bbfd3bcadf0955da3"
+        ]
+    },
+    {
+        "repo_name": "laravel/framework",
+        "CVE_ID": "CVE-2021-43808",
+        "Problem_Type": "CWE-327",
+        "Description": "Laravel is a web application framework. Laravel prior to versions 8.75.0, 7.30.6, and 6.20.42 contain a possible cross-site scripting (XSS) vulnerability in the Blade templating engine. A broken HTML element may be clicked and the user taken to another location in their browser due to XSS. This is due to the user being able to guess the parent placeholder SHA-1 hash by trying common names of sections. If the parent template contains an exploitable HTML structure an XSS vulnerability can be exposed. This vulnerability has been patched in versions 8.75.0, 7.30.6, and 6.20.42 by determining the parent placeholder at runtime and using a random hash that is unique to each request.",
+        "URL": "https://github.com/laravel/framework/pull/39906",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "5972cb28d09511b1d11ea58e9d10de30cdc155aa"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "laravel/framework",
+        "CVE_ID": "CVE-2022-40482",
+        "Problem_Type": "CWE-203",
+        "Description": "The authentication method in Laravel 8.x through 9.x before 9.32.0 was discovered to be vulnerable to user enumeration via timeless timing attacks with HTTP/2 multiplexing. This is caused by the early return inside the hasValidCredentials method in the Illuminate\\Auth\\SessionGuard class when a user is found to not exist.",
+        "URL": "https://github.com/laravel/framework/pull/44069",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "3145c6010fbba00ec80ef5cda87fe74885de2ade",
+        "inducing_commit_hash_pyszz": [
+            "035a0b2e2da129bac2756b1ee3ee10bb8bcda569"
+        ],
+        "inducing_commit_hash_pd": [
+            "38b0ccd905587439c7036657faed101742b44d2d",
+            "7d76a86b6d66b3d0416463c80b759c4631148d76",
+            "ac745730492ef23a04ce614228d11e496feb625d",
+            "67fd7ad2ff78d2204451043c278c5c42c3e23074",
+            "035a0b2e2da129bac2756b1ee3ee10bb8bcda569",
+            "1aa9577caf43fbcd769050d4c49f4af880991ef2",
+            "1485f77e7ffae51bb0cb8d7d1212b08097d8bef5",
+            "f8bb0890265fea058a0b26b04f50ec4800f117b9",
+            "8cbe385362e6bbbd811c96e11336339da17221ac"
+        ],
+        "matched": [
+            "035a0b2e2da129bac2756b1ee3ee10bb8bcda569"
+        ]
+    }
+]
