@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "kakwa/ldapcherry",
+        "CVE_ID": "CVE-2019-25095",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability, which was classified as problematic, was found in kakwa LdapCherry up to 0.x. Affected is an unknown function of the component URL Handler. The manipulation leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 1.0.0 is able to address this issue. The patch is identified as 6f98076281e9452fdb1adcd1bcbb70a6f968ade9. It is recommended to upgrade the affected component. VDB-217434 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/kakwa/ldapcherry/pull/16",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "636400b75fbe4d7b29012cfd657b937fb249d903",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
