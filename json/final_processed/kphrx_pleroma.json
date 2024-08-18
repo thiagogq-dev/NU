@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "kphrx/pleroma",
+        "CVE_ID": "CVE-2023-5588",
+        "Problem_Type": "CWE-22",
+        "Description": "A vulnerability was found in kphrx pleroma. It has been classified as problematic. This affects the function Pleroma.Emoji.Pack of the file lib/pleroma/emoji/pack.ex. The manipulation of the argument name leads to path traversal. The complexity of an attack is rather high. The exploitability is told to be difficult. This product does not use versioning. This is why information about affected and unaffected releases are unavailable. The patch is named 2c795094535537a8607cc0d3b7f076a609636f40. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-242187.",
+        "URL": "https://github.com/kphrx/pleroma/pull/197",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "6c5796782ba003d8a05788990b91ce4c60da436a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
