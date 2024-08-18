@@ -1,0 +1,45 @@
+[
+    {
+        "repo_name": "langchain-ai/langchain",
+        "CVE_ID": "CVE-2023-39659",
+        "Problem_Type": "CWE-74",
+        "Description": "An issue in langchain langchain-ai v.0.0.232 and before allows a remote attacker to execute arbitrary code via a crafted script to the PythonAstREPLTool._run component.",
+        "URL": "https://github.com/langchain-ai/langchain/pull/5640",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "967b6f21f6462f16f0ba4dc38ed914ec4ca550ce"
+        ],
+        "inducing_commit_hash_pd": [
+            "c123cb2b304f52ab65db4714eeec46af69a861ec",
+            "8ba4f777343a7942da46b4b87d1ea8236d5a32da",
+            "21d14549a9eeb58c4b24892169a37c0560c01c28",
+            "86fe484e24a6e7ae17fd2ac51c02a3abce95fc00",
+            "20f5cd7c9583431689144ad17cd419d1a63b5ded",
+            "f14121faafe0366e8b472b71159fea138308d4ed",
+            "acaf214a4516a2ffbd2817f553f4d48e6a908695"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "langchain-ai/langchain",
+        "CVE_ID": "CVE-2023-46229",
+        "Problem_Type": "CWE-918",
+        "Description": "LangChain before 0.0.317 allows SSRF via document_loaders/recursive_url_loader.py because crawling can proceed from an external server to an internal server.",
+        "URL": "https://github.com/langchain-ai/langchain/pull/11925",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "90e9ec6962dcb9bb6500007d95a11f6b2aee877c",
+        "inducing_commit_hash_pyszz": [
+            "2dcda8a8aca4c427ff5716e6ac37ab0c24a7f2e5"
+        ],
+        "inducing_commit_hash_pd": [
+            "872605a5c5cddfef4b414186235c906ba8e8e13e",
+            "48ea27ba607bd1f00e5efc0337f3d54d56742377",
+            "2dcda8a8aca4c427ff5716e6ac37ab0c24a7f2e5",
+            "a0cd6672aab7706790467e0fe4db45b3f55e4cfa"
+        ],
+        "matched": [
+            "2dcda8a8aca4c427ff5716e6ac37ab0c24a7f2e5"
+        ]
+    }
+]
