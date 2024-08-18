@@ -1,0 +1,40 @@
+[
+    {
+        "repo_name": "joniles/mpxj",
+        "CVE_ID": "CVE-2020-25020",
+        "Problem_Type": "CWE-611",
+        "Description": "MPXJ through 8.1.3 allows XXE attacks. This affects the GanttProjectReader and PhoenixReader components.",
+        "URL": "https://github.com/joniles/mpxj/pull/178/commits/c3e457f7a16facfe563eade82b0fa8736a8c96f9",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0d830e8cbe5213968abb1bcb1c816ca2ee00aa53",
+        "inducing_commit_hash_pyszz": [
+            "c7e1d98d8b87eff1a51e8a2d5b853576000ef313"
+        ],
+        "inducing_commit_hash_pd": [
+            "74c61da7e8bf2d25076a36e9059d5c5df5a230a4",
+            "491b83fb83aba7663a0a282ab78de270582a82f7",
+            "e8515550009f2198000f9797503ccaf0a04341cf",
+            "eefb896e0f08484e6ad4b5fe4c9bbcff7734c31f",
+            "ebbcbebfc70b2bf02d5c5fb3e90829046c50e5f0",
+            "c7e1d98d8b87eff1a51e8a2d5b853576000ef313",
+            "675aadcb91e16c6ce5448c75c7efb816bc1e8c21",
+            "07ed3322b7a099c8db41b4d54421947c6780a184",
+            "52ef7c2f30e2d270b826019c2ed2109ab505acb9",
+            "5e152ad67d01a98c5b79cd24630838004f68ab71",
+            "ebc01cfc46ed692a8bf04c37e75569fe3ae9edd9",
+            "53bbc6d067f5acf8c029f0fe344be18594a7536e",
+            "99b49f36ca456c8b7e7d6f89352d84863585a42b",
+            "d3e71499cfae7eda71357b7831f3d895e7b34a1a",
+            "527ee80ab9614764ba7ccefc0df0db9816f94470",
+            "01964f985de89b22df3b79978a4fc39438d6f4e7",
+            "ccc5bfbf7e099f07bf7a87f2251be6e3a37f58f2",
+            "8703f991ff81cf19eb46e201ae2da7f48575b3a6",
+            "7cdb611645a3d63c39119dc944a02c5e4d03c30a",
+            "8d388376bf86651b18e7085c821bdd7c8c22b3fa",
+            "55dd9b09c9550c113d94981f27cbf2b74be492fe"
+        ],
+        "matched": [
+            "c7e1d98d8b87eff1a51e8a2d5b853576000ef313"
+        ]
+    }
+]
