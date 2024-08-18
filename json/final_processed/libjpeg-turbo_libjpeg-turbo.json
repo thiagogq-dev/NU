@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "libjpeg-turbo/libjpeg-turbo",
+        "CVE_ID": "CVE-2017-15232",
+        "Problem_Type": "CWE-476",
+        "Description": "libjpeg-turbo 1.5.2 has a NULL Pointer Dereference in jdpostct.c and jquant1.c via a crafted JPEG file.",
+        "URL": "https://github.com/libjpeg-turbo/libjpeg-turbo/pull/182",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ab835bc4cc6489e6846a6224d12cfc19d0ea28ab",
+        "inducing_commit_hash_pyszz": [
+            "7bc738b0fc533365a45d0db3aacfdb8395f335dd"
+        ],
+        "inducing_commit_hash_pd": [
+            "03e755bbd3392e0b9627b007898d552ada0ca13d",
+            "f851fabffc0e769294284c1c859f8979d17ddc87",
+            "7bc738b0fc533365a45d0db3aacfdb8395f335dd",
+            "eb32cc1e6ded5c46052918d69f8de09bf2730b17"
+        ],
+        "matched": [
+            "7bc738b0fc533365a45d0db3aacfdb8395f335dd"
+        ]
+    }
+]
