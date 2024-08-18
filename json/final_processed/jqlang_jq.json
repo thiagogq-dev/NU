@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "jqlang/jq",
+        "CVE_ID": "CVE-2023-50268",
+        "Problem_Type": "CWE-787",
+        "Description": "jq is a command-line JSON processor. Version 1.7 is vulnerable to stack-based buffer overflow in builds using decNumber. Version 1.7.1 contains a patch for this issue.",
+        "URL": "https://github.com/jqlang/jq/pull/2804",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "680baeffeb7983e7570b5e68db07fe47f94db8c7",
+        "inducing_commit_hash_pyszz": [
+            "da15e10bd0997fb5c1a61cad7fdfe0786fec17e9"
+        ],
+        "inducing_commit_hash_pd": [
+            "cf4b48c7ba30cb30e116b523cff036ea481459f6"
+        ],
+        "matched": []
+    }
+]
