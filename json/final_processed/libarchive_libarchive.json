@@ -1,0 +1,110 @@
+[
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2018-1000877",
+        "Problem_Type": "CWE-415",
+        "Description": "libarchive version commit 416694915449219d505531b1096384f3237dd6cc onwards (release v3.1.0 onwards) contains a CWE-415: Double Free vulnerability in RAR decoder - libarchive/archive_read_support_format_rar.c, parse_codes(), realloc(rar->lzss.window, new_size) with new_size = 0 that can result in Crash/DoS. This attack appear to be exploitable via the victim must open a specially crafted RAR archive.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1105/commits/021efa522ad729ff0f5806c4ce53e4a6cc1daa31",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "021efa522ad729ff0f5806c4ce53e4a6cc1daa31",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2018-1000878",
+        "Problem_Type": "CWE-416",
+        "Description": "libarchive version commit 416694915449219d505531b1096384f3237dd6cc onwards (release v3.1.0 onwards) contains a CWE-416: Use After Free vulnerability in RAR decoder - libarchive/archive_read_support_format_rar.c that can result in Crash/DoS - it is unknown if RCE is possible. This attack appear to be exploitable via the victim must open a specially crafted RAR archive.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1105/commits/bfcfe6f04ed20db2504db8a254d1f40a1d84eb28",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "bfcfe6f04ed20db2504db8a254d1f40a1d84eb28",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2018-1000879",
+        "Problem_Type": "CWE-476",
+        "Description": "libarchive version commit 379867ecb330b3a952fb7bfa7bffb7bbd5547205 onwards (release v3.3.0 onwards) contains a CWE-476: NULL Pointer Dereference vulnerability in ACL parser - libarchive/archive_acl.c, archive_acl_from_text_l() that can result in Crash/DoS. This attack appear to be exploitable via the victim must open a specially crafted archive file.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1105/commits/15bf44fd2c1ad0e3fd87048b3fcc90c4dcff1175",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "15bf44fd2c1ad0e3fd87048b3fcc90c4dcff1175",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2018-1000880",
+        "Problem_Type": "CWE-119",
+        "Description": "libarchive version commit 9693801580c0cf7c70e862d305270a16b52826a7 onwards (release v3.2.0 onwards) contains a CWE-20: Improper Input Validation vulnerability in WARC parser - libarchive/archive_read_support_format_warc.c, _warc_read() that can result in DoS - quasi-infinite run time and disk usage from tiny file. This attack appear to be exploitable via the victim must open a specially crafted WARC file.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1105/commits/9c84b7426660c09c18cc349f6d70b5f8168b5680",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9c84b7426660c09c18cc349f6d70b5f8168b5680",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2019-1000019",
+        "Problem_Type": "CWE-125",
+        "Description": "libarchive version commit bf9aec176c6748f0ee7a678c5f9f9555b9a757c1 onwards (release v3.0.2 onwards) contains a CWE-125: Out-of-bounds Read vulnerability in 7zip decompression, archive_read_support_format_7zip.c, header_bytes() that can result in a crash (denial of service). This attack appears to be exploitable via the victim opening a specially crafted 7zip file.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1120/commits/65a23f5dbee4497064e9bb467f81138a62b0dae1",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "65a23f5dbee4497064e9bb467f81138a62b0dae1",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2019-1000020",
+        "Problem_Type": "CWE-835",
+        "Description": "libarchive version commit 5a98dcf8a86364b3c2c469c85b93647dfb139961 onwards (version v2.8.0 onwards) contains a CWE-835: Loop with Unreachable Exit Condition ('Infinite Loop') vulnerability in ISO9660 parser, archive_read_support_format_iso9660.c, read_CE()/parse_rockridge() that can result in DoS by infinite loop. This attack appears to be exploitable via the victim opening a specially crafted ISO9660 file.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1120/commits/8312eaa576014cd9b965012af51bc1f967b12423",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8312eaa576014cd9b965012af51bc1f967b12423",
+        "inducing_commit_hash_pyszz": [
+            "0ddd7bf7eef98846e53eb833d4e7de93dbf454d5"
+        ],
+        "inducing_commit_hash_pd": [
+            "0ddd7bf7eef98846e53eb833d4e7de93dbf454d5"
+        ],
+        "matched": [
+            "0ddd7bf7eef98846e53eb833d4e7de93dbf454d5"
+        ]
+    },
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2020-9308",
+        "Problem_Type": "CWE-787",
+        "Description": "archive_read_support_format_rar5.c in libarchive before 3.4.2 attempts to unpack a RAR5 file with an invalid or corrupted header (such as a header size of zero), leading to a SIGSEGV or possibly unspecified other impact.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1326",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "3c780fa9bbe25b4b0e7d59b68fe6972544d3475c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "libarchive/libarchive",
+        "CVE_ID": "CVE-2020-9308",
+        "Problem_Type": "CWE-787",
+        "Description": "archive_read_support_format_rar5.c in libarchive before 3.4.2 attempts to unpack a RAR5 file with an invalid or corrupted header (such as a header size of zero), leading to a SIGSEGV or possibly unspecified other impact.",
+        "URL": "https://github.com/libarchive/libarchive/pull/1326/commits/94821008d6eea81e315c5881cdf739202961040a",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "94821008d6eea81e315c5881cdf739202961040a",
+        "inducing_commit_hash_pyszz": [
+            "087319f7060842233e0a705654d855e77ec71ff7"
+        ],
+        "inducing_commit_hash_pd": [
+            "087319f7060842233e0a705654d855e77ec71ff7"
+        ],
+        "matched": [
+            "087319f7060842233e0a705654d855e77ec71ff7"
+        ]
+    }
+]
