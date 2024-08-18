@@ -1,0 +1,48 @@
+[
+    {
+        "repo_name": "kubernetes/dashboard",
+        "CVE_ID": "CVE-2018-18264",
+        "Problem_Type": "CWE-306",
+        "Description": "Kubernetes Dashboard before 1.10.1 allows attackers to bypass authentication and use Dashboard's Service Account for reading secrets within the cluster.",
+        "URL": "https://github.com/kubernetes/dashboard/pull/3400",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5abb13a970076ebd46e316af45fffb697084a420",
+        "inducing_commit_hash_pyszz": [
+            "10bd78f1d64f44e938db599924be4bb51bdc4080"
+        ],
+        "inducing_commit_hash_pd": [
+            "c209b32a771757c9c35056034aabf52de2a4c701",
+            "ded3180949a45cca5412c9ebe8e778b21e2d9ace",
+            "be02f3c6981edeaa393e3c1f021d1f4ab4117fed",
+            "be3178963dc378dc140e0f23e696498dbd8e20e3",
+            "32b926c48920f4eb3e75ba9d9fea2777ba74043d",
+            "95da536bf84499f69c19f88c4b9a3ae9a13018f1",
+            "ddde141306dc28f26c50cd923ea6dad84f505883",
+            "7c26f88b77614ca1e318edfb046f769d5ab6d6d1",
+            "cb596bcde5b6e0827805f1871911f1422abfa4b0",
+            "10bd78f1d64f44e938db599924be4bb51bdc4080",
+            "1ec4eacd7b8527fd05f0a627606d486502b138ea",
+            "af4e69e9cd4a85910c1ed9b7a53bc369d66eb430",
+            "b08ba7894648fafa0d2c5384e1bb11486292c2d7"
+        ],
+        "matched": [
+            "10bd78f1d64f44e938db599924be4bb51bdc4080"
+        ]
+    },
+    {
+        "repo_name": "kubernetes/dashboard",
+        "CVE_ID": "CVE-2018-18264",
+        "Problem_Type": "CWE-306",
+        "Description": "Kubernetes Dashboard before 1.10.1 allows attackers to bypass authentication and use Dashboard's Service Account for reading secrets within the cluster.",
+        "URL": "https://github.com/kubernetes/dashboard/pull/3289",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "01b840c3f361ccb36dee9a1170957ad03a4b4ab2",
+        "inducing_commit_hash_pyszz": [
+            "39f814e12a5881e7a8913a4f4d3134b311c801f9"
+        ],
+        "inducing_commit_hash_pd": [
+            "c209b32a771757c9c35056034aabf52de2a4c701"
+        ],
+        "matched": []
+    }
+]
