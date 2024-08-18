@@ -1,0 +1,214 @@
+[
+    {
+        "repo_name": "keystonejs/keystone",
+        "CVE_ID": "CVE-2017-15878",
+        "Problem_Type": "CWE-79",
+        "Description": "A cross-site scripting (XSS) vulnerability exists in fields/types/markdown/MarkdownType.js in KeystoneJS before 4.0.0-beta.7 via the Contact Us feature.",
+        "URL": "https://github.com/keystonejs/keystone/pull/4478",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4b019b8cfcb7bea6f800609da5d07e8c8abfc80a",
+        "inducing_commit_hash_pyszz": [
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27"
+        ],
+        "inducing_commit_hash_pd": [
+            "11777cddba45b28a9e17a3149b792db121322b46",
+            "3f3c65ab2d206ef1c72f17259e73fb24a79f0a9b",
+            "5a2b15eda68b124255e341172b70548ff10274b2",
+            "8d53f17b86cfd4d79cfa85d5bc693618ddac52bd",
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27",
+            "1c12b8204f8238997ddaf7337c44cf26ebea9ba4",
+            "98e8fd4bc586c732d629328ef643014ce42442ed",
+            "2a2a7c00b74028b758006219781cbbd22909be85",
+            "a5d7b264ad3e5590e335758881d22f7f296203c9",
+            "e1f9a24ae19e540b2210cd0dd6286b8d39617824",
+            "562ddbfda9026dc51b66e72ff598bf6e051d22d9",
+            "cc987d078653fd9e686069f9f885f1269b64a882",
+            "b6498d9f1341648742f2db78fec53b851b36dddd",
+            "abbf52741984dec60660d42b238b8a71e4f2500e",
+            "803626e8854f9b7d293bd1829398d25a6692154a",
+            "8f4ebd5f70251ccdfb6b5ce14efb9fb59f5d2b3d",
+            "68d361d2596e8811caf00390c60341ef0c233c7b",
+            "6cd469e29682ff41a515ed76919efc2bfe0c7567",
+            "37bc79b4172dfde61256c8bfff75386a76065cc6",
+            "341ee2b4b7eab89f296146ff9e14ce53233235f6",
+            "fd7ad11e06ac984e6056fa8da8db4a727825ecb0",
+            "add3f67e379caebbcf0880b4ce82cf6a1e89020b",
+            "d36e580cc21e4b77a1bd0615c96c0793b9c5dac5",
+            "f66b90321db6ae12d0765b00ce458b82e7880070"
+        ],
+        "matched": [
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27"
+        ]
+    },
+    {
+        "repo_name": "keystonejs/keystone",
+        "CVE_ID": "CVE-2017-15879",
+        "Problem_Type": "CWE-20",
+        "Description": "CSV Injection (aka Excel Macro Injection or Formula Injection) exists in admin/server/api/download.js and lib/list/getCSVData.js in KeystoneJS before 4.0.0-beta.7 via a value that is mishandled in a CSV export.",
+        "URL": "https://github.com/keystonejs/keystone/pull/4478",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4b019b8cfcb7bea6f800609da5d07e8c8abfc80a",
+        "inducing_commit_hash_pyszz": [
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27"
+        ],
+        "inducing_commit_hash_pd": [
+            "11777cddba45b28a9e17a3149b792db121322b46",
+            "3f3c65ab2d206ef1c72f17259e73fb24a79f0a9b",
+            "5a2b15eda68b124255e341172b70548ff10274b2",
+            "8d53f17b86cfd4d79cfa85d5bc693618ddac52bd",
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27",
+            "1c12b8204f8238997ddaf7337c44cf26ebea9ba4",
+            "98e8fd4bc586c732d629328ef643014ce42442ed",
+            "2a2a7c00b74028b758006219781cbbd22909be85",
+            "a5d7b264ad3e5590e335758881d22f7f296203c9",
+            "e1f9a24ae19e540b2210cd0dd6286b8d39617824",
+            "562ddbfda9026dc51b66e72ff598bf6e051d22d9",
+            "cc987d078653fd9e686069f9f885f1269b64a882",
+            "b6498d9f1341648742f2db78fec53b851b36dddd",
+            "abbf52741984dec60660d42b238b8a71e4f2500e",
+            "803626e8854f9b7d293bd1829398d25a6692154a",
+            "8f4ebd5f70251ccdfb6b5ce14efb9fb59f5d2b3d",
+            "68d361d2596e8811caf00390c60341ef0c233c7b",
+            "6cd469e29682ff41a515ed76919efc2bfe0c7567",
+            "37bc79b4172dfde61256c8bfff75386a76065cc6",
+            "341ee2b4b7eab89f296146ff9e14ce53233235f6",
+            "fd7ad11e06ac984e6056fa8da8db4a727825ecb0",
+            "add3f67e379caebbcf0880b4ce82cf6a1e89020b",
+            "d36e580cc21e4b77a1bd0615c96c0793b9c5dac5",
+            "f66b90321db6ae12d0765b00ce458b82e7880070"
+        ],
+        "matched": [
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27"
+        ]
+    },
+    {
+        "repo_name": "keystonejs/keystone",
+        "CVE_ID": "CVE-2017-15881",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-Site Scripting vulnerability in KeystoneJS before 4.0.0-beta.7 allows remote authenticated administrators to inject arbitrary web script or HTML via the \"content brief\" or \"content extended\" field, a different vulnerability than CVE-2017-15878.",
+        "URL": "https://github.com/keystonejs/keystone/pull/4478",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4b019b8cfcb7bea6f800609da5d07e8c8abfc80a",
+        "inducing_commit_hash_pyszz": [
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27"
+        ],
+        "inducing_commit_hash_pd": [
+            "11777cddba45b28a9e17a3149b792db121322b46",
+            "3f3c65ab2d206ef1c72f17259e73fb24a79f0a9b",
+            "5a2b15eda68b124255e341172b70548ff10274b2",
+            "8d53f17b86cfd4d79cfa85d5bc693618ddac52bd",
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27",
+            "1c12b8204f8238997ddaf7337c44cf26ebea9ba4",
+            "98e8fd4bc586c732d629328ef643014ce42442ed",
+            "2a2a7c00b74028b758006219781cbbd22909be85",
+            "a5d7b264ad3e5590e335758881d22f7f296203c9",
+            "e1f9a24ae19e540b2210cd0dd6286b8d39617824",
+            "562ddbfda9026dc51b66e72ff598bf6e051d22d9",
+            "cc987d078653fd9e686069f9f885f1269b64a882",
+            "b6498d9f1341648742f2db78fec53b851b36dddd",
+            "abbf52741984dec60660d42b238b8a71e4f2500e",
+            "803626e8854f9b7d293bd1829398d25a6692154a",
+            "8f4ebd5f70251ccdfb6b5ce14efb9fb59f5d2b3d",
+            "68d361d2596e8811caf00390c60341ef0c233c7b",
+            "6cd469e29682ff41a515ed76919efc2bfe0c7567",
+            "37bc79b4172dfde61256c8bfff75386a76065cc6",
+            "341ee2b4b7eab89f296146ff9e14ce53233235f6",
+            "fd7ad11e06ac984e6056fa8da8db4a727825ecb0",
+            "add3f67e379caebbcf0880b4ce82cf6a1e89020b",
+            "d36e580cc21e4b77a1bd0615c96c0793b9c5dac5",
+            "f66b90321db6ae12d0765b00ce458b82e7880070"
+        ],
+        "matched": [
+            "b21b62ed59fcd83ef2fc89587544b9d64522ba27"
+        ]
+    },
+    {
+        "repo_name": "keystonejs/keystone",
+        "CVE_ID": "CVE-2022-39382",
+        "Problem_Type": "CWE-74",
+        "Description": "Keystone is a headless CMS for Node.js \u00c2\u2014 built with GraphQL and React.`@keystone-6/core@3.0.0 || 3.0.1` users that use `NODE_ENV` to trigger security-sensitive functionality in their production builds are vulnerable to `NODE_ENV` being inlined to `\"development\"` for user code, irrespective of what your environment variables. If you do not use `NODE_ENV` in your user code to trigger security-sensitive functionality, you are not impacted by this vulnerability. Any dependencies that use `NODE_ENV` to trigger particular behaviors (optimizations, security or otherwise) should still respect your environment's configured `NODE_ENV` variable. The application's dependencies, as found in `node_modules` (including `@keystone-6/core`), are typically not compiled as part of this process, and thus should be unaffected. We have tested this assumption by verifying that `NODE_ENV=production yarn keystone start` still uses secure cookies when using `statelessSessions`. This vulnerability has been fixed in @keystone-6/core@3.0.2, regression tests have been added for this vulnerability in #8063.",
+        "URL": "https://github.com/keystonejs/keystone/pull/8063",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d07f20ab3f22ba3a5c34f309018014bcae6340a7",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "keystonejs/keystone",
+        "CVE_ID": "CVE-2022-39382",
+        "Problem_Type": "CWE-74",
+        "Description": "Keystone is a headless CMS for Node.js \u00c2\u2014 built with GraphQL and React.`@keystone-6/core@3.0.0 || 3.0.1` users that use `NODE_ENV` to trigger security-sensitive functionality in their production builds are vulnerable to `NODE_ENV` being inlined to `\"development\"` for user code, irrespective of what your environment variables. If you do not use `NODE_ENV` in your user code to trigger security-sensitive functionality, you are not impacted by this vulnerability. Any dependencies that use `NODE_ENV` to trigger particular behaviors (optimizations, security or otherwise) should still respect your environment's configured `NODE_ENV` variable. The application's dependencies, as found in `node_modules` (including `@keystone-6/core`), are typically not compiled as part of this process, and thus should be unaffected. We have tested this assumption by verifying that `NODE_ENV=production yarn keystone start` still uses secure cookies when using `statelessSessions`. This vulnerability has been fixed in @keystone-6/core@3.0.2, regression tests have been added for this vulnerability in #8063.",
+        "URL": "https://github.com/keystonejs/keystone/pull/8031/",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4ec75f388db8157f757307b828354caabd3bb669",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "keystonejs/keystone",
+        "CVE_ID": "CVE-2023-34247",
+        "Problem_Type": "CWE-601",
+        "Description": "Keystone is a content management system for Node.JS. There is an open redirect in the `@keystone-6/auth` package versions 7.0.0 and prior, where the redirect leading `/` filter can be bypassed. Users may be redirected to domains other than the relative host, thereby it might be used by attackers to re-direct users to an unexpected location. To mitigate this issue, one may apply a patch from pull request 8626 or avoid using the `@keystone-6/auth` package.",
+        "URL": "https://github.com/keystonejs/keystone/pull/8626",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a30c7a1630a670eb814e015254c7ae608500b2d8",
+        "inducing_commit_hash_pyszz": [
+            "c14fa5cdd01a1948c719240797bd4a68a08f12bb"
+        ],
+        "inducing_commit_hash_pd": [
+            "96bf833a23b1a0a5d365cf394467a943cc481b38",
+            "6eeaf6318d0c7bee9c910e02e66500a31e4e8ac0",
+            "48ff6f16a03c27123be70d9ec28d041bbaacd214",
+            "b52713b1f85ec02622dd3b5679f31ea9e2c0186c",
+            "5a2b15eda68b124255e341172b70548ff10274b2",
+            "36174f867aeda02bad6acfe27f534b4dc01e5c5b",
+            "2674831cd619858b4171939baad68578371bf39f",
+            "f3e8aac31efb3eb1573eb340e07a25920084a4aa",
+            "612431b3991966ccabed20681e36acd09b944213",
+            "a3b07ea16ffc0f6741c0c0e5e281622a1831e0e7",
+            "0acbb70389cc00c8be239b98c8f536026fffdd76",
+            "098ce08d7abd5e86b1e15ad442e717cea1852c33",
+            "f4554980f6243a6545eee6c887d946ff25cd90e3",
+            "ed736e3c1701fd279f1e108d8ad22af2411b375e",
+            "b5a2b021e5a1152a7bc28b083a9844587a224ea5",
+            "c14fa5cdd01a1948c719240797bd4a68a08f12bb",
+            "384748d85f06755ee7c8aa6f74f0ffae486b82c1",
+            "197a4999b2048e5dbdee02520f30cdaea09a6bee",
+            "0eadba2badb13fc6a17f7e525d429494ca953481",
+            "29a9703786728c9b8b6cdef71e087e604099d257",
+            "48088af67a1e58ed15d2025031c03a4ac7386d2f",
+            "cacc4e1364097f27319f023e96c98191204d08e0",
+            "628f58872ab8b71249307639922e5a4796fc42d2"
+        ],
+        "matched": [
+            "c14fa5cdd01a1948c719240797bd4a68a08f12bb"
+        ]
+    },
+    {
+        "repo_name": "keystonejs/keystone",
+        "CVE_ID": "CVE-2023-40027",
+        "Problem_Type": "CWE-862",
+        "Description": "Keystone is an open source headless CMS for Node.js \u00c2\u2014 built with GraphQL and React. When `ui.isAccessAllowed` is set as `undefined`, the `adminMeta` GraphQL query is publicly accessible (no session required). This is different to the behaviour of the default AdminUI middleware, which by default will only be publicly accessible (no session required) if a `session` strategy is not defined. This vulnerability does not affect developers using the `@keystone-6/auth` package, or any users that have written their own `ui.isAccessAllowed` (that is to say, `isAccessAllowed` is not `undefined`). This vulnerability does affect users who believed that their `session` strategy will, by default, enforce that `adminMeta` is inaccessible by the public in accordance with that strategy; akin to the behaviour of the AdminUI middleware. This vulnerability has been patched in `@keystone-6/core` version `5.5.1`. Users are advised to upgrade. Users unable to upgrade may opt to write their own `isAccessAllowed` functionality to work-around this vulnerability.",
+        "URL": "https://github.com/keystonejs/keystone/pull/8771",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "650e27e6e9b42abfb94c340c8470faf61f0ff284",
+        "inducing_commit_hash_pyszz": [
+            "267d8c1f39ed2209d4d497f6041d85f5ebb29dbc"
+        ],
+        "inducing_commit_hash_pd": [
+            "12d2c023418b8032ab98a97fb044dbcb4167fc99",
+            "9238e900eb65d30e47afb81c0baf336eb1de92b3",
+            "a3b07ea16ffc0f6741c0c0e5e281622a1831e0e7",
+            "f92aa4010995d18ac15df83b70cbe9140bb72a7f",
+            "c1a69e265c511c3c1ea8232050e035d6c73a8f2b",
+            "d3603d02aa5735598d7e48da2f029d310b078f3c",
+            "2a7bc608b9d9a4c1296dadc6ae9d81d834c435cb",
+            "267d8c1f39ed2209d4d497f6041d85f5ebb29dbc"
+        ],
+        "matched": [
+            "267d8c1f39ed2209d4d497f6041d85f5ebb29dbc"
+        ]
+    }
+]
