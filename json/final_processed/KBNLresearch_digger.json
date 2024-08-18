@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "KBNLresearch/digger",
+        "CVE_ID": "CVE-2021-44556",
+        "Problem_Type": "CWE-611",
+        "Description": "National Library of the Netherlands digger < 6697d1269d981e35e11f240725b16401b5ce3db5 is affected by a XML External Entity (XXE) vulnerability. Since XML parsing resolves external entities, a malicious XML stream could leak internal files and/or cause a DoS.",
+        "URL": "https://github.com/KBNLresearch/digger/pull/1",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e88008d81898eb6a85935f8acef53b82899b9fb5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
