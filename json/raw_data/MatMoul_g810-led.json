@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "MatMoul/g810-led",
+        "CVE_ID": "CVE-2022-46338",
+        "Problem_Type": "CWE-732",
+        "Description": "g810-led 0.4.2, a LED configuration tool for Logitech Gx10 keyboards, contained a udev rule to make supported device nodes world-readable and writable, allowing any process on the system to read traffic from keyboards, including sensitive data.",
+        "URL": "https://github.com/MatMoul/g810-led/pull/297",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "cb3e552119b005abd2ac726dec445f1be9b80b92"
+    }
+]

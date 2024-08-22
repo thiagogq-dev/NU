@@ -135,6 +135,11 @@ def get_commit_pr(repo_path, commit_hash):
 def match_bics(bics, bics2):
     matched = []
 
+    if bics == '-' and bics2 == '-':
+        return '-'
+    elif bics == '-' or bics2 == '-':
+        return matched
+
     for bic in bics:
        if bic in bics2:
            matched.append(bic)

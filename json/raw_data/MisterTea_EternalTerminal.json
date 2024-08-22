@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "MisterTea/EternalTerminal",
+        "CVE_ID": "CVE-2022-48257",
+        "Problem_Type": "CWE-732",
+        "Description": "In Eternal Terminal 6.2.1, etserver and etclient have predictable logfile names in /tmp.",
+        "URL": "https://github.com/MisterTea/EternalTerminal/pull/556",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "92c4c6ada445c1925a8b397f4171ca7735cbda16"
+    },
+    {
+        "repo_name": "MisterTea/EternalTerminal",
+        "CVE_ID": "CVE-2022-48258",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "In Eternal Terminal 6.2.1, etserver and etclient have world-readable logfiles.",
+        "URL": "https://github.com/MisterTea/EternalTerminal/pull/556",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "92c4c6ada445c1925a8b397f4171ca7735cbda16"
+    }
+]

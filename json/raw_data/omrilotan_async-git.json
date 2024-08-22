@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "omrilotan/async-git",
+        "CVE_ID": "CVE-2020-28490",
+        "Problem_Type": "CWE-78",
+        "Description": "The package async-git before 1.13.2 are vulnerable to Command Injection via shell meta-characters (back-ticks). For example: git.reset('atouch HACKEDb')",
+        "URL": "https://github.com/omrilotan/async-git/pull/14",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d1950a5021f4e19d92f347614be0d85ce991510d"
+    },
+    {
+        "repo_name": "omrilotan/async-git",
+        "CVE_ID": "CVE-2021-3190",
+        "Problem_Type": "CWE-78",
+        "Description": "The async-git package before 1.13.2 for Node.js allows OS Command Injection via shell metacharacters, as demonstrated by git.reset and git.tag.",
+        "URL": "https://github.com/omrilotan/async-git/pull/13/commits/a5f45f58941006c4cc1699609383b533d9b92c6a",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "af4c2aa0bf52e01d866cb8435f942dd404c8eb35"
+    },
+    {
+        "repo_name": "omrilotan/async-git",
+        "CVE_ID": "CVE-2021-3190",
+        "Problem_Type": "CWE-78",
+        "Description": "The async-git package before 1.13.2 for Node.js allows OS Command Injection via shell metacharacters, as demonstrated by git.reset and git.tag.",
+        "URL": "https://github.com/omrilotan/async-git/pull/14",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d1950a5021f4e19d92f347614be0d85ce991510d"
+    },
+    {
+        "repo_name": "omrilotan/async-git",
+        "CVE_ID": "CVE-2021-3190",
+        "Problem_Type": "CWE-78",
+        "Description": "The async-git package before 1.13.2 for Node.js allows OS Command Injection via shell metacharacters, as demonstrated by git.reset and git.tag.",
+        "URL": "https://github.com/omrilotan/async-git/pull/13/commits/611823bd97dd41e9e8127c38066868ff9dcfa57a",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "af4c2aa0bf52e01d866cb8435f942dd404c8eb35"
+    }
+]

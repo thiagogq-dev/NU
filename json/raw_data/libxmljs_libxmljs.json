@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "libxmljs/libxmljs",
+        "CVE_ID": "CVE-2022-21144",
+        "Problem_Type": "CWE-20",
+        "Description": "This affects all versions of package libxmljs. When invoking the libxmljs.parseXml function with a non-buffer argument the V8 code will attempt invoking the .toString method of the argument. If the argument's toString value is not a Function object V8 will crash.",
+        "URL": "https://github.com/libxmljs/libxmljs/pull/594",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2501807bde9b38cfaed06d1e140487516d91379d"
+    }
+]

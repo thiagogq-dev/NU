@@ -1,0 +1,101 @@
+[
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2021-21287",
+        "Problem_Type": "CWE-918",
+        "Description": "MinIO is a High Performance Object Storage released under Apache License v2.0. In MinIO before version RELEASE.2021-01-30T00-20-58Z there is a server-side request forgery vulnerability. The target application may have functionality for importing data from a URL, publishing data to a URL, or otherwise reading data from a URL that can be tampered with. The attacker modifies the calls to this functionality by supplying a completely different URL or by manipulating how URLs are built (path traversal etc.). In a Server-Side Request Forgery (SSRF) attack, the attacker can abuse functionality on the server to read or update internal resources. The attacker can supply or modify a URL which the code running on the server will read or submit data, and by carefully selecting the URLs, the attacker may be able to read server configuration such as AWS metadata, connect to internal services like HTTP enabled databases, or perform post requests towards internal services which are not intended to be exposed. This is fixed in version RELEASE.2021-01-30T00-20-58Z, all users are advised to upgrade. As a workaround you can disable the browser front-end with \"MINIO_BROWSER=off\" environment variable.",
+        "URL": "https://github.com/minio/minio/pull/11337",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "eb6871ecd960d570f70698877209e6db181bf276"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2021-21390",
+        "Problem_Type": "CWE-924",
+        "Description": "MinIO is an open-source high performance object storage service and it is API compatible with Amazon S3 cloud storage service. In MinIO before version RELEASE.2021-03-17T02-33-02Z, there is a vulnerability which enables MITM modification of request bodies that are meant to have integrity guaranteed by chunk signatures. In a PUT request using aws-chunked encoding, MinIO ordinarily verifies signatures at the end of a chunk. This check can be skipped if the client sends a false chunk size that is much greater than the actual data sent: the server accepts and completes the request without ever reaching the end of the chunk + thereby without ever checking the chunk signature. This is fixed in version RELEASE.2021-03-17T02-33-02Z. As a workaround one can avoid using \"aws-chunked\" encoding-based chunk signature upload requests instead use TLS. MinIO SDKs automatically disable chunked encoding signature when the server endpoint is configured with TLS.",
+        "URL": "https://github.com/minio/minio/pull/11801",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e197800f9055489415b53cf137e31e194aaf7ba0"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2021-41137",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Minio is a Kubernetes native application for cloud storage. All users on release `RELEASE.2021-10-10T16-53-30Z` are affected by a vulnerability that involves bypassing policy restrictions on regular users. Normally, checkKeyValid() should return owner true for rootCreds. In the affected version, policy restriction did not work properly for users who did not have service (svc) or security token service (STS) accounts. This issue is fixed in `RELEASE.2021-10-13T00-23-17Z`. A downgrade back to release `RELEASE.2021-10-08T23-58-24Z` is available as a workaround.",
+        "URL": "https://github.com/minio/minio/pull/13388",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8d52c7daf3db9d7e33bf6d50daa39789a4af46a3"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2021-41137",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Minio is a Kubernetes native application for cloud storage. All users on release `RELEASE.2021-10-10T16-53-30Z` are affected by a vulnerability that involves bypassing policy restrictions on regular users. Normally, checkKeyValid() should return owner true for rootCreds. In the affected version, policy restriction did not work properly for users who did not have service (svc) or security token service (STS) accounts. This issue is fixed in `RELEASE.2021-10-13T00-23-17Z`. A downgrade back to release `RELEASE.2021-10-08T23-58-24Z` is available as a workaround.",
+        "URL": "https://github.com/minio/minio/pull/13422",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "415bbc74aacd53a120e54a663e941b1809982dbd"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2021-43858",
+        "Problem_Type": "CWE-863",
+        "Description": "MinIO is a Kubernetes native application for cloud storage. Prior to version `RELEASE.2021-12-27T07-23-18Z`, a malicious client can hand-craft an HTTP API call that allows for updating policy for a user and gaining higher privileges. The patch in version `RELEASE.2021-12-27T07-23-18Z` changes the accepted request body type and removes the ability to apply policy changes through this API. There is a workaround for this vulnerability: Changing passwords can be disabled by adding an explicit `Deny` rule to disable the API for users.",
+        "URL": "https://github.com/minio/minio/pull/13976",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5a96cbbeaabd0a82b0fe881378e7c21c85091abf"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2021-43858",
+        "Problem_Type": "CWE-863",
+        "Description": "MinIO is a Kubernetes native application for cloud storage. Prior to version `RELEASE.2021-12-27T07-23-18Z`, a malicious client can hand-craft an HTTP API call that allows for updating policy for a user and gaining higher privileges. The patch in version `RELEASE.2021-12-27T07-23-18Z` changes the accepted request body type and removes the ability to apply policy changes through this API. There is a workaround for this vulnerability: Changing passwords can be disabled by adding an explicit `Deny` rule to disable the API for users.",
+        "URL": "https://github.com/minio/minio/pull/7949",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7bdaf9bc50eb49061e8a71b9cf471eae5db654ff"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2022-24842",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. A security issue was found where an non-admin user is able to create service accounts for root or other admin users and then is able to assume their access policies via the generated credentials. This in turn allows the user to escalate privilege to that of the root user. This vulnerability has been resolved in pull request #14729 and is included in `RELEASE.2022-04-12T06-55-35Z`. Users unable to upgrade may workaround this issue by explicitly adding a `admin:CreateServiceAccount` deny policy, however, this, in turn, denies the user the ability to create their own service accounts as well.",
+        "URL": "https://github.com/minio/minio/pull/14729",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "66b14a0d32684d527ae8018dc6d9d46ccce58ae3"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2022-31028",
+        "Problem_Type": "CWE-400",
+        "Description": "MinIO is a multi-cloud object storage solution. Starting with version RELEASE.2019-09-25T18-25-51Z and ending with version RELEASE.2022-06-02T02-11-04Z, MinIO is vulnerable to an unending go-routine buildup while keeping connections established due to HTTP clients not closing the connections. Public-facing MinIO deployments are most affected. Users should upgrade to RELEASE.2022-06-02T02-11-04Z to receive a patch. One possible workaround is to use a reverse proxy to limit the number of connections being attempted in front of MinIO, and actively rejecting connections from such malicious clients.",
+        "URL": "https://github.com/minio/minio/pull/14995",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5792be71fa29d552ee962d4e9d2414fc4d7d5d12"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2022-35919",
+        "Problem_Type": "CWE-22",
+        "Description": "MinIO is a High Performance Object Storage released under GNU Affero General Public License v3.0. In affected versions all 'admin' users authorized for `admin:ServerUpdate` can selectively trigger an error that in response, returns the content of the path requested. Any normal OS system would allow access to contents at any arbitrary paths that are readable by MinIO process. Users are advised to upgrade. Users unable to upgrade may disable ServerUpdate API by denying the `admin:ServerUpdate` action for your admin users via IAM policies.",
+        "URL": "https://github.com/minio/minio/pull/15429",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "bc72e4226e669d98c8e0f3eccc9297be9251c692"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2023-25812",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Minio is a Multi-Cloud Object Storage framework. Affected versions do not correctly honor a `Deny` policy on ByPassGoverance. Ideally, minio should return \"Access Denied\" to all users attempting to DELETE a versionId  with the special header `X-Amz-Bypass-Governance-Retention: true`.  However, this was not honored instead the request will be honored and an object under governance would be incorrectly deleted.  All users are advised to upgrade. There are no known workarounds for this issue.\n",
+        "URL": "https://github.com/minio/minio/pull/16635",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "a7188bc9d0f0a5ae05aaf1b8126bcd3cb3fdc485"
+    },
+    {
+        "repo_name": "minio/minio",
+        "CVE_ID": "CVE-2023-27589",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Minio is a Multi-Cloud Object Storage framework. Starting with RELEASE.2020-12-23T02-24-12Z and prior to RELEASE.2023-03-13T19-46-17Z, a user with `consoleAdmin` permissions can potentially create a user that matches the root credential `accessKey`. Once this user is created successfully, the root credential ceases to work appropriately. The issue is patched in RELEASE.2023-03-13T19-46-17Z. There are ways to work around this via adding higher privileges to the disabled root user via `mc admin policy set`.",
+        "URL": "https://github.com/minio/minio/pull/16803",
+        "Tag": "['Exploit', 'Patch']",
+        "fix_commit_hash": "c7f7e67a100ce35af559e3f49a2ed0b67deaa919"
+    }
+]

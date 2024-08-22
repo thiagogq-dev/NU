@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "openmrs/openmrs-module-reporting",
+        "CVE_ID": "CVE-2017-7990",
+        "Problem_Type": "CWE-352",
+        "Description": "The Reporting Module 1.12.0 for OpenMRS allows CSRF attacks with resultant XSS, in which administrative authentication is hijacked to insert JavaScript into a name field in webapp/reports/manageReports.jsp.",
+        "URL": "https://github.com/openmrs/openmrs-module-reporting/pull/141/commits/0023a659288538d2763835847d3414ecb18b931a#diff-50e25eddc5909110fa3d31090877c2fd",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "079977276fa9c5f38d471af9ea53e885fb963f2d"
+    }
+]

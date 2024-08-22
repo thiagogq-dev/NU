@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "mybbgroup/MyBB_Thank-you-like-plugin",
+        "CVE_ID": "CVE-2018-14888",
+        "Problem_Type": "CWE-79",
+        "Description": "inc/plugins/thankyoulike.php in the Eldenroot Thank You/Like plugin before 3.1.0 for MyBB allows XSS via a post or thread subject.",
+        "URL": "https://github.com/mybbgroup/MyBB_Thank-you-like-plugin/pull/199",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "da8d54d0748d72ad97793560b9e95b895ebacd15"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "NationalSecurityAgency/ghidra",
+        "CVE_ID": "CVE-2023-22671",
+        "Problem_Type": "CWE-77",
+        "Description": "Ghidra/RuntimeScripts/Linux/support/launch.sh in NSA Ghidra through 10.2.2 passes user-provided input into eval, leading to command injection when calling analyzeHeadless with untrusted input.",
+        "URL": "https://github.com/NationalSecurityAgency/ghidra/pull/4872",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ffbcbefbfea1f78b63519962020994a2ad3d5848"
+    }
+]

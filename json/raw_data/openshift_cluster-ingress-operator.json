@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "openshift/cluster-ingress-operator",
+        "CVE_ID": "CVE-2020-27836",
+        "Problem_Type": "CWE-732",
+        "Description": "A flaw was found in cluster-ingress-operator. A change to how the router-default service allows only certain IP source ranges could allow an attacker to access resources that would otherwise be restricted to specified IP ranges. The highest threat from this vulnerability is to data confidentiality and integrity as well as system availability..",
+        "URL": "https://github.com/openshift/cluster-ingress-operator/pull/507/commits/92c83f281ba5fb6a1d91ecc3beaa4bcf2647a729",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "92c83f281ba5fb6a1d91ecc3beaa4bcf2647a729"
+    }
+]

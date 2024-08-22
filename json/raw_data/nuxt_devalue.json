@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "nuxt/devalue",
+        "CVE_ID": "CVE-2019-13506",
+        "Problem_Type": "CWE-79",
+        "Description": "@nuxt/devalue before 1.2.3, as used in Nuxt.js before 2.6.2, mishandles object keys, leading to XSS.",
+        "URL": "https://github.com/nuxt/devalue/pull/8",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ecde7cf4a3981a39c7b6df62245c0cc408aeb70e"
+    }
+]

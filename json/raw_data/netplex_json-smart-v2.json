@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "netplex/json-smart-v2",
+        "CVE_ID": "CVE-2021-31684",
+        "Problem_Type": "CWE-787",
+        "Description": "A vulnerability was discovered in the indexOf function of JSONParserByteArray in JSON Smart versions 1.3 and 2.4 which causes a denial of service (DOS) via a crafted web request.",
+        "URL": "https://github.com/netplex/json-smart-v2/pull/68",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "21dad441f96863d41ad53a28c48478b9ef2ce1a7"
+    }
+]

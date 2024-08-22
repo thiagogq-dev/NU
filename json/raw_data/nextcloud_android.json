@@ -1,0 +1,56 @@
+[
+    {
+        "repo_name": "nextcloud/android",
+        "CVE_ID": "CVE-2021-32694",
+        "Problem_Type": "CWE-248",
+        "Description": "Nextcloud Android app is the Android client for Nextcloud. In versions prior to 3.15.1, a malicious application on the same device is possible to crash the Nextcloud Android Client due to an uncaught exception. The vulnerability is patched in version 3.15.1.",
+        "URL": "https://github.com/nextcloud/android/pull/7919",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "33945b880bdab610fe78ef3901dd22abb70cf114"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "CVE_ID": "CVE-2021-32695",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Nextcloud Android app is the Android client for Nextcloud. In versions prior to 3.16.1, a malicious app on the same device could have gotten access to the shared preferences of the Nextcloud Android application. This required user-interaction as a victim had to initiate the sharing flow and choose the malicious app. The shared preferences contain some limited private data such as push tokens and the account name. The vulnerability is patched in version 3.16.1.",
+        "URL": "https://github.com/nextcloud/android/pull/8433",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8af3112fff7104e4e3a5d612be8e783e8fea6f4d"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "CVE_ID": "CVE-2022-24885",
+        "Problem_Type": "CWE-287",
+        "Description": "Nextcloud Android app is the Android client for Nextcloud, a self-hosted productivity platform. Prior to version 3.19.1, users can bypass a lock on the Nextcloud app on an Android device by repeatedly reopening the app. Version 3.19.1 contains a fix for the problem. There are currently no known workarounds.",
+        "URL": "https://github.com/nextcloud/android/pull/9816",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9723c0458ef7acd66da38324e0a57bfb4434e96f"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "CVE_ID": "CVE-2022-29160",
+        "Problem_Type": "CWE-459",
+        "Description": "Nextcloud Android is the Android client for Nextcloud, a self-hosted productivity platform. Prior to version 3.19.0, sensitive tokens, images, and user related details exist after deletion of a user account. This could result in misuse of the former account holder's information. Nextcloud Android version 3.19.0 contains a patch for this issue. There are no known workarounds available.",
+        "URL": "https://github.com/nextcloud/android/pull/9644",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7d4fa2994ca974aadeb5beda0ddbad143ff3eba2"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "CVE_ID": "CVE-2022-39210",
+        "Problem_Type": "CWE-22",
+        "Description": "Nextcloud android is the official Android client for the Nextcloud home server platform. Internal paths to the Nextcloud Android app files are not properly protected. As a result access to internal files of the from within the Nextcloud Android app is possible. This may lead to a leak of sensitive information in some cases. It is recommended that the Nextcloud Android app is upgraded to 3.21.0. There are no known workarounds for this issue.",
+        "URL": "https://github.com/nextcloud/android/pull/10544",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1194a5c866d3506da067be67637de2d9d69ebf86"
+    },
+    {
+        "repo_name": "nextcloud/android",
+        "CVE_ID": "CVE-2023-28646",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Nextcloud android is an android app for interfacing with the nextcloud home server ecosystem. In versions from 3.7.0 and before 3.24.1 an attacker that has access to the unlocked physical device can bypass the Nextcloud Android Pin/passcode protection via a thirdparty app. This allows to see meta information like sharer, sharees and activity of files. It is recommended that the Nextcloud Android app is upgraded to 3.24.1. There are no known workarounds for this vulnerability.",
+        "URL": "https://github.com/nextcloud/android/pull/11242",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "7368809f370ab501c4a2384202c231065930fd04"
+    }
+]

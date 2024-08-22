@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "mercurius-js/mercurius",
+        "CVE_ID": "CVE-2021-43801",
+        "Problem_Type": "CWE-754",
+        "Description": "Mercurius is a GraphQL adapter for Fastify. Any users from Mercurius@8.10.0 to 8.11.1 are subjected to a denial of service attack by sending a malformed JSON to `/graphql` unless they are using a custom error handler. The vulnerability has been fixed in https://github.com/mercurius-js/mercurius/pull/678 and shipped as v8.11.2. As a workaround users may use a custom error handler.",
+        "URL": "https://github.com/mercurius-js/mercurius/pull/678/commits/732b2f895312da8deadd7b173dcd2d141d54b223",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d34a103fd9fe3df941acdd6072c6a602d235fcbb"
+    },
+    {
+        "repo_name": "mercurius-js/mercurius",
+        "CVE_ID": "CVE-2023-22477",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Mercurius is a GraphQL adapter for Fastify. Any users of Mercurius until version 10.5.0 are subjected to a denial of service attack by sending a malformed packet over WebSocket to `/graphql`. This issue was patched in #940. As a workaround, users can disable subscriptions.\n\n",
+        "URL": "https://github.com/mercurius-js/mercurius/pull/940",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "fe60b4b7c0fdf94915aad0d12da5b752836c8380"
+    }
+]

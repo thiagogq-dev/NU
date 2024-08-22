@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "openshift/origin-web-console",
+        "CVE_ID": "CVE-2020-10715",
+        "Problem_Type": "CWE-20",
+        "Description": "A content spoofing vulnerability was found in the openshift/console 3.11 and 4.x. This flaw allows an attacker to craft a URL and inject arbitrary text onto the error page that appears to be from the OpenShift instance. This attack could potentially convince a user that the inserted text is legitimate.",
+        "URL": "https://github.com/openshift/origin-web-console/pull/3173",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c37982397087036321312172282e139da378eff2"
+    }
+]

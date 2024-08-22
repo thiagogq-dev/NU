@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "MrRio/jsPDF",
+        "CVE_ID": "CVE-2021-23353",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "This affects the package jspdf before 2.3.1. ReDoS is possible via the addImage function.",
+        "URL": "https://github.com/MrRio/jsPDF/pull/3091",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d8bb3b39efcd129994f7a3b01b632164144ec43e"
+    }
+]

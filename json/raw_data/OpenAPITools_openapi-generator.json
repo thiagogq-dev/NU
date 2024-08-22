@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "OpenAPITools/openapi-generator",
+        "CVE_ID": "CVE-2021-21428",
+        "Problem_Type": "CWE-668",
+        "Description": "Openapi generator is a java tool which allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec. openapi-generator-online creates insecure temporary folders with File.createTempFile during the code generation process. The insecure temporary folders store the auto-generated files which can be read and appended to by any users on the system. The issue has been patched with `Files.createTempFile` and released in the v5.1.0 stable version.",
+        "URL": "https://github.com/OpenAPITools/openapi-generator/pull/8788",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c31e6e79d02d9f59d3b727cfc766cd4e0c27f75a"
+    },
+    {
+        "repo_name": "OpenAPITools/openapi-generator",
+        "CVE_ID": "CVE-2021-21429",
+        "Problem_Type": "CWE-552",
+        "Description": "OpenAPI Generator allows generation of API client libraries, server stubs, documentation and configuration automatically given an OpenAPI Spec. Using `File.createTempFile` in JDK will result in creating and using insecure temporary files that can leave application and system data vulnerable to attacks. OpenAPI Generator maven plug-in creates insecure temporary files during the process. The issue has been patched with `Files.createTempFile` and released in the v5.1.0 stable version.",
+        "URL": "https://github.com/OpenAPITools/openapi-generator/pull/8795",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "91805936e6670f9f8bc46ae6e63a314b0195f0c8"
+    },
+    {
+        "repo_name": "OpenAPITools/openapi-generator",
+        "CVE_ID": "CVE-2021-21430",
+        "Problem_Type": "CWE-668",
+        "Description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec. Using `File.createTempFile` in JDK will result in creating and using insecure temporary files that can leave application and system data vulnerable to attacks. Auto-generated code (Java, Scala) that deals with uploading or downloading binary data through API endpoints will create insecure temporary files during the process. Affected generators: `java` (jersey2, okhttp-gson (default library)), `scala-finch`. The issue has been patched with `Files.createTempFile` and released in the v5.1.0 stable version.",
+        "URL": "https://github.com/OpenAPITools/openapi-generator/pull/8787",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1b6cabb97d133a54a81d1512ce159d0e3489bb8e"
+    },
+    {
+        "repo_name": "OpenAPITools/openapi-generator",
+        "CVE_ID": "CVE-2021-21430",
+        "Problem_Type": "CWE-668",
+        "Description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec. Using `File.createTempFile` in JDK will result in creating and using insecure temporary files that can leave application and system data vulnerable to attacks. Auto-generated code (Java, Scala) that deals with uploading or downloading binary data through API endpoints will create insecure temporary files during the process. Affected generators: `java` (jersey2, okhttp-gson (default library)), `scala-finch`. The issue has been patched with `Files.createTempFile` and released in the v5.1.0 stable version.",
+        "URL": "https://github.com/OpenAPITools/openapi-generator/pull/8791",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "00c7ebab667582c6e904229a5c336368904fe2a0"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "mimblewimble/grin",
+        "CVE_ID": "CVE-2019-9195",
+        "Problem_Type": "CWE-22",
+        "Description": "util/src/zip.rs in Grin before 1.0.2 mishandles suspicious files. An attacker can execute arbitrary code via directory traversal in a ZIP archive.",
+        "URL": "https://github.com/mimblewimble/grin/pull/2624",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "391e311f4c05619bd4b7b0d599a5071ce7753b90"
+    },
+    {
+        "repo_name": "mimblewimble/grin",
+        "CVE_ID": "CVE-2020-12439",
+        "Problem_Type": "CWE-404",
+        "Description": "Grin before 3.1.0 allows attackers to adversely affect availability of data on a Mimblewimble blockchain.",
+        "URL": "https://github.com/mimblewimble/grin/pull/3236",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "cb2b909090f76ad1f1783d2d15d4be1f82a0cebc"
+    }
+]

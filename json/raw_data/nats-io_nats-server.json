@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "nats-io/nats-server",
+        "CVE_ID": "CVE-2019-13126",
+        "Problem_Type": "CWE-190",
+        "Description": "An integer overflow in NATS Server before 2.0.2 allows a remote attacker to crash the server by sending a crafted request. If authentication is enabled, then the remote attacker must have first authenticated.",
+        "URL": "https://github.com/nats-io/nats-server/pull/1053",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a171864ae7dfe122da40eb5fadd9838a4425a011"
+    },
+    {
+        "repo_name": "nats-io/nats-server",
+        "CVE_ID": "CVE-2020-28466",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "This affects all versions of package github.com/nats-io/nats-server/server. Untrusted accounts are able to crash the server using configs that represent a service export/import cycles. Disclaimer from the maintainers: Running a NATS service which is exposed to untrusted users presents a heightened risk. Any remote execution flaw or equivalent seriousness, or denial-of-service by unauthenticated users, will lead to prompt releases by the NATS maintainers. Fixes for denial of service issues with no threat of remote execution, when limited to account holders, are likely to just be committed to the main development branch with no special attention. Those who are running such services are encouraged to build regularly from git.",
+        "URL": "https://github.com/nats-io/nats-server/pull/1731",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "18108be37450c7e2469a1e82540ec9458fea36ec"
+    }
+]

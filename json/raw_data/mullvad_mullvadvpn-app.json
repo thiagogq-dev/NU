@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "mullvad/mullvadvpn-app",
+        "CVE_ID": "CVE-2023-50446",
+        "Problem_Type": "CWE-732",
+        "Description": "An issue was discovered in Mullvad VPN Windows app before 2023.6-beta1. Insufficient permissions on a directory allow any local unprivileged user to escalate privileges to SYSTEM.",
+        "URL": "https://github.com/mullvad/mullvadvpn-app/pull/5398",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "e67621953939078ac297375fd584e432e848764c"
+    }
+]

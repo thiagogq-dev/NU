@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "mitre/caldera",
+        "CVE_ID": "CVE-2020-10807",
+        "Problem_Type": "CWE-290",
+        "Description": "auth_svc in Caldera before 2.6.5 allows authentication bypass (for REST API requests) via a forged \"localhost\" string in the HTTP Host header.",
+        "URL": "https://github.com/mitre/caldera/pull/1407",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a558b05a910a7fb26900591b71458a8354a5666f"
+    }
+]

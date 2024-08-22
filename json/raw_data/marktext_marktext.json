@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "marktext/marktext",
+        "CVE_ID": "CVE-2022-24123",
+        "Problem_Type": "CWE-79",
+        "Description": "MarkText through 0.16.3 does not sanitize the input of a mermaid block before rendering. This could lead to Remote Code Execution via a .md file containing a mutation Cross-Site Scripting (XSS) payload.",
+        "URL": "https://github.com/marktext/marktext/pull/2947",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c959d185b2783cdc1c20a1099feb1ceeb6a0d234"
+    },
+    {
+        "repo_name": "marktext/marktext",
+        "CVE_ID": "CVE-2022-25069",
+        "Problem_Type": "CWE-79",
+        "Description": "Mark Text v0.16.3 was discovered to contain a DOM-based cross-site scripting (XSS) vulnerability which allows attackers to perform remote code execution (RCE) via injecting a crafted payload into /lib/contentState/pasteCtrl.js.",
+        "URL": "https://github.com/marktext/marktext/pull/3002",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "fed1dac48fa7d7416f2f3d997a4fca214cea901e"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "nothings/stb",
+        "CVE_ID": "CVE-2022-28041",
+        "Problem_Type": "CWE-190",
+        "Description": "stb_image.h v2.27 was discovered to contain an integer overflow via the function stbi__jpeg_decode_block_prog_dc. This vulnerability allows attackers to cause a Denial of Service (DoS) via unspecified vectors.",
+        "URL": "https://github.com/nothings/stb/pull/1297",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b15b04321dfd8a2307c49ad9c5bf3c0c6bcc04cc"
+    },
+    {
+        "repo_name": "nothings/stb",
+        "CVE_ID": "CVE-2022-28042",
+        "Problem_Type": "CWE-416",
+        "Description": "stb_image.h v2.27 was discovered to contain an heap-based use-after-free via the function stbi__jpeg_huff_decode.",
+        "URL": "https://github.com/nothings/stb/pull/1297",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b15b04321dfd8a2307c49ad9c5bf3c0c6bcc04cc"
+    },
+    {
+        "repo_name": "nothings/stb",
+        "CVE_ID": "CVE-2022-28048",
+        "Problem_Type": "CWE-682",
+        "Description": "STB v2.27 was discovered to contain an integer shift of invalid size in the component stbi__jpeg_decode_block_prog_ac.",
+        "URL": "https://github.com/nothings/stb/pull/1297",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b15b04321dfd8a2307c49ad9c5bf3c0c6bcc04cc"
+    },
+    {
+        "repo_name": "nothings/stb",
+        "CVE_ID": "CVE-2023-43898",
+        "Problem_Type": "CWE-476",
+        "Description": "Nothings stb 2.28 was discovered to contain a Null Pointer Dereference via the function stbi__convert_format. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted pic file.",
+        "URL": "https://github.com/nothings/stb/pull/1454",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "af4456ba68aa39ba2b41a01ad06de3b4b8ce2e87"
+    }
+]

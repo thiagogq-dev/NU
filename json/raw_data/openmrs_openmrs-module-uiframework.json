@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "openmrs/openmrs-module-uiframework",
+        "CVE_ID": "CVE-2020-24621",
+        "Problem_Type": "CWE-22",
+        "Description": "A remote code execution (RCE) vulnerability was discovered in the htmlformentry (aka HTML Form Entry) module before 3.11.0 for OpenMRS. By leveraging path traversal, a malicious Velocity Template Language file could be written to a directory. This file could then be accessed and executed.",
+        "URL": "https://github.com/openmrs/openmrs-module-uiframework/pull/59",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c2ddaa7278e4bcaba83f0ebdcbd6d69398f92bba"
+    }
+]

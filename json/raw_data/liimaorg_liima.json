@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "liimaorg/liima",
+        "CVE_ID": "CVE-2023-26092",
+        "Problem_Type": "CWE-917",
+        "Description": "Liima before 1.17.28 allows server-side template injection.",
+        "URL": "https://github.com/liimaorg/liima/pull/678",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "57da9a4a207d349366cbde766941a202a0d3849e"
+    },
+    {
+        "repo_name": "liimaorg/liima",
+        "CVE_ID": "CVE-2023-26093",
+        "Problem_Type": "CWE-89",
+        "Description": "Liima before 1.17.28 allows Hibernate query language (HQL) injection, related to colToSort in the deployment filter.",
+        "URL": "https://github.com/liimaorg/liima/pull/663",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "852c91b9e848910028a40e143998d209514c03a2"
+    }
+]

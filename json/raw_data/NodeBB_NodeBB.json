@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "NodeBB/NodeBB",
+        "CVE_ID": "CVE-2015-9286",
+        "Problem_Type": "CWE-79",
+        "Description": "Controllers.outgoing in controllers/index.js in NodeBB before 0.7.3 has outgoing XSS.",
+        "URL": "https://github.com/NodeBB/NodeBB/pull/3371",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "924692404d8415893b7c903d6e9b61550aaae68c"
+    }
+]

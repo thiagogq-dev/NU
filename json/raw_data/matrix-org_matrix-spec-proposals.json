@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "matrix-org/matrix-spec-proposals",
+        "CVE_ID": "CVE-2022-39236",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Matrix Javascript SDK is the Matrix Client-Server SDK for JavaScript. Starting with version 17.1.0-rc.1, improperly formed beacon events can disrupt or impede the matrix-js-sdk from functioning properly, potentially impacting the consumer's ability to process data safely. Note that the matrix-js-sdk can appear to be operating normally but be excluding or corrupting runtime data presented to the consumer. This is patched in matrix-js-sdk v19.7.0. Redacting applicable events, waiting for the sync processor to store data, and restarting the client are possible workarounds. Alternatively, redacting the applicable events and clearing all storage will fix the further perceived issues. Downgrading to an unaffected version, noting that such a version may be subject to other vulnerabilities, will additionally resolve the issue.",
+        "URL": "https://github.com/matrix-org/matrix-spec-proposals/pull/3488",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9b780e0e6073a16d642094ccf0fd86aa6d31bd4e"
+    },
+    {
+        "repo_name": "matrix-org/matrix-spec-proposals",
+        "CVE_ID": "CVE-2022-39246",
+        "Problem_Type": "CWE-287",
+        "Description": "matrix-android-sdk2 is the Matrix SDK for Android. Prior to version 1.5.1, an attacker cooperating with a malicious homeserver can construct messages appearing to have come from another person. Such messages will be marked with a grey shield on some platforms, but this may be missing in others. This attack is possible due to the key forwarding strategy implemented in the matrix-android-sdk2 that is too permissive. Starting with version 1.5.1, the default policy for accepting key forwards has been made more strict in the matrix-android-sdk2. The matrix-android-sdk2 will now only accept forwarded keys in response to previously issued requests and only from own, verified devices. The SDK now sets a `trusted` flag on the decrypted message upon decryption, based on whether the key used to decrypt the message was received from a trusted source. Clients need to ensure that messages decrypted with a key with `trusted = false` are decorated appropriately (for example, by showing a warning for such messages). As a workaroubnd, current users of the SDK can disable key forwarding in their forks using `CryptoService#enableKeyGossiping(enable: Boolean)`.",
+        "URL": "https://github.com/matrix-org/matrix-spec-proposals/pull/3061",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5c19d4fdea9058533242e99b72b1776fd4a523cb"
+    },
+    {
+        "repo_name": "matrix-org/matrix-spec-proposals",
+        "CVE_ID": "CVE-2022-39249",
+        "Problem_Type": "CWE-287",
+        "Description": "Matrix Javascript SDK is the Matrix Client-Server SDK for JavaScript. Prior to version 19.7.0, an attacker cooperating with a malicious homeserver can construct messages appearing to have come from another person. Such messages will be marked with a grey shield on some platforms, but this may be missing in others. This attack is possible due to the matrix-js-sdk implementing a too permissive key forwarding strategy on the receiving end. Starting with version 19.7.0, the default policy for accepting key forwards has been made more strict in the matrix-js-sdk. matrix-js-sdk will now only accept forwarded keys in response to previously issued requests and only from own, verified devices. The SDK now sets a `trusted` flag on the decrypted message upon decryption, based on whether the key used to decrypt the message was received from a trusted source. Clients need to ensure that messages decrypted with a key with `trusted = false` are decorated appropriately, for example, by showing a warning for such messages. This attack requires coordination between a malicious homeserver and an attacker, and those who trust your homeservers do not need a workaround.",
+        "URL": "https://github.com/matrix-org/matrix-spec-proposals/pull/3061",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5c19d4fdea9058533242e99b72b1776fd4a523cb"
+    },
+    {
+        "repo_name": "matrix-org/matrix-spec-proposals",
+        "CVE_ID": "CVE-2023-29529",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "matrix-js-sdk is the Matrix Client-Server SDK for JavaScript and TypeScript. An attacker present in a room where an MSC3401 group call is taking place can eavesdrop on the video and audio of participants using matrix-js-sdk, without their knowledge. To affected matrix-js-sdk users, the attacker will not appear to be participating in the call. This attack is possible because matrix-js-sdk's group call implementation accepts incoming direct calls from other users, even if they have not yet declared intent to participate in the group call, as a means of resolving a race condition in call setup. Affected versions do not restrict access to the user's outbound media in this case. Legacy 1:1 calls are unaffected. This is fixed in matrix-js-sdk 24.1.0. As a workaround, users may hold group calls in private rooms where only the exact users who are expected to participate in the call are present.",
+        "URL": "https://github.com/matrix-org/matrix-spec-proposals/pull/3401",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "87822fa1053c4ebb61b2b51d5d49a46c6bbad353"
+    }
+]

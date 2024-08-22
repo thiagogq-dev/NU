@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "node-opcua/node-opcua",
+        "CVE_ID": "CVE-2022-21208",
+        "Problem_Type": "CWE-1284",
+        "Description": "The package node-opcua before 2.74.0 are vulnerable to Denial of Service (DoS) due to a missing limitation on the number of received chunks - per single session or in total for all concurrent sessions. An attacker can exploit this vulnerability by sending an unlimited number of huge chunks (e.g. 2GB each) without sending the Final closing chunk.",
+        "URL": "https://github.com/node-opcua/node-opcua/pull/1149",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "45a8e4c223d5f5555d742103e1e9930152157548"
+    },
+    {
+        "repo_name": "node-opcua/node-opcua",
+        "CVE_ID": "CVE-2022-24375",
+        "Problem_Type": "CWE-400",
+        "Description": "The package node-opcua before 2.74.0 are vulnerable to Denial of Service (DoS) when bypassing the limitations for excessive memory consumption by sending multiple CloseSession requests with the deleteSubscription parameter equal to False.",
+        "URL": "https://github.com/node-opcua/node-opcua/pull/1182",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "902b288aae91ef465d960039e353259a926711b1"
+    },
+    {
+        "repo_name": "node-opcua/node-opcua",
+        "CVE_ID": "CVE-2022-25231",
+        "Problem_Type": "CWE-770",
+        "Description": "The package node-opcua before 2.74.0 are vulnerable to Denial of Service (DoS) by sending a specifically crafted OPC UA message with a special OPC UA NodeID, when the requested memory allocation exceeds the v8\u00c2\u2019s memory limit.",
+        "URL": "https://github.com/node-opcua/node-opcua/pull/1182",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "902b288aae91ef465d960039e353259a926711b1"
+    }
+]

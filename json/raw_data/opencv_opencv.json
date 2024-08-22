@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "opencv/opencv",
+        "CVE_ID": "CVE-2017-14136",
+        "Problem_Type": "CWE-787",
+        "Description": "OpenCV (Open Source Computer Vision Library) 3.3 has an out-of-bounds write error in the function FillColorRow1 in utils.cpp when reading an image file by using cv::imread. NOTE: this vulnerability exists because of an incomplete fix for CVE-2017-12597.",
+        "URL": "https://github.com/opencv/opencv/pull/9448",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "aacae2065744adb05e858d327198c7bbe7f452b0"
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "CVE_ID": "CVE-2017-17760",
+        "Problem_Type": "CWE-119",
+        "Description": "OpenCV 3.3.1 has a Buffer Overflow in the cv::PxMDecoder::readData function in grfmt_pxm.cpp, because an incorrect size value is used.",
+        "URL": "https://github.com/opencv/opencv/pull/10369/commits/7bbe1a53cfc097b82b1589f7915a2120de39274c",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7bbe1a53cfc097b82b1589f7915a2120de39274c"
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "CVE_ID": "CVE-2019-15939",
+        "Problem_Type": "CWE-369",
+        "Description": "An issue was discovered in OpenCV 4.1.0. There is a divide-by-zero error in cv::HOGDescriptor::getDescriptorSize in modules/objdetect/src/hog.cpp.",
+        "URL": "https://github.com/opencv/opencv/pull/15382",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "5a497077f109d543ab86dfdf8add1c76c0e47d29"
+    }
+]

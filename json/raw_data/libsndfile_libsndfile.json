@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "libsndfile/libsndfile",
+        "CVE_ID": "CVE-2021-4156",
+        "Problem_Type": "CWE-125",
+        "Description": "An out-of-bounds read flaw was found in libsndfile's FLAC codec functionality. An attacker who is able to submit a specially crafted file (via tricking a user to open or otherwise) to an application linked with libsndfile and using the FLAC codec, could trigger an out-of-bounds read that would most likely cause a crash but could potentially leak memory information that could be used in further exploitation of other flaws.",
+        "URL": "https://github.com/libsndfile/libsndfile/pull/732/commits/4c30646abf7834e406f7e2429c70bc254e18beab",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ced91d7b971be6173b604154c39279ce90ad87cc"
+    }
+]

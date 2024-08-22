@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "newspaperclub/pdf_info",
+        "CVE_ID": "CVE-2022-36231",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "pdf_info 0.5.3 is vulnerable to Command Execution because the Ruby code uses backticks instead of Open3.",
+        "URL": "https://github.com/newspaperclub/pdf_info/pull/15",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "54d4e01da111a293fc4fb45d5b85669f38afc8b7"
+    }
+]

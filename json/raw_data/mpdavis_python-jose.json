@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "mpdavis/python-jose",
+        "CVE_ID": "CVE-2016-7036",
+        "Problem_Type": "CWE-361",
+        "Description": "python-jose before 1.3.2 allows attackers to have unspecified impact by leveraging failure to use a constant time comparison for HMAC keys.",
+        "URL": "https://github.com/mpdavis/python-jose/pull/35/commits/89b46353b9f611e9da38de3d2fedf52331167b93",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "89b46353b9f611e9da38de3d2fedf52331167b93"
+    }
+]

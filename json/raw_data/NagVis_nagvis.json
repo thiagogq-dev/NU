@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "NagVis/nagvis",
+        "CVE_ID": "CVE-2023-46287",
+        "Problem_Type": "CWE-79",
+        "Description": "XSS exists in NagVis before 1.9.38 via the select function in share/server/core/functions/html.php.",
+        "URL": "https://github.com/NagVis/nagvis/pull/356/commits/d660591b23e5cfea4d1be2d3fb8f3855aa6020fb",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "093c2b0b31001bb74c78452858a0a9d27fa0a9b5"
+    }
+]

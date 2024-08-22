@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "mosn/mosn",
+        "CVE_ID": "CVE-2021-32163",
+        "Problem_Type": "CWE-863",
+        "Description": "Authentication vulnerability in MOSN v.0.23.0 allows attacker to escalate privileges via case-sensitive JWT authorization.",
+        "URL": "https://github.com/mosn/mosn/pull/1637",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "b3b875c7c0436a7f30d2498138e782ad6d450724"
+    }
+]

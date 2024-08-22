@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "nextcloud/user_saml",
+        "CVE_ID": "CVE-2024-22400",
+        "Problem_Type": "CWE-601",
+        "Description": "Nextcloud User Saml is an app for authenticating Nextcloud users using SAML. In affected versions users can be given a link to the Nextcloud server and end up on a uncontrolled thirdparty server. It is recommended that the User Saml app is upgraded to version 5.1.5, 5.2.5, or 6.0.1. There are no known workarounds for this issue.",
+        "URL": "https://github.com/nextcloud/user_saml/pull/788",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "c294458d2ccbcdc40e42054ea7451513488c9150"
+    }
+]

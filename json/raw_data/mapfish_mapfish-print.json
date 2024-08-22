@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "mapfish/mapfish-print",
+        "CVE_ID": "CVE-2020-15231",
+        "Problem_Type": "CWE-79",
+        "Description": "In mapfish-print before version 3.24, a user can use the JSONP support to do a Cross-site scripting.",
+        "URL": "https://github.com/mapfish/mapfish-print/pull/1397/commits/89155f2506b9cee822e15ce60ccae390a1419d5e",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "89155f2506b9cee822e15ce60ccae390a1419d5e"
+    },
+    {
+        "repo_name": "mapfish/mapfish-print",
+        "CVE_ID": "CVE-2020-15232",
+        "Problem_Type": "CWE-611",
+        "Description": "In mapfish-print before version 3.24, a user can do to an XML External Entity (XXE) attack with the provided SDL style.",
+        "URL": "https://github.com/mapfish/mapfish-print/pull/1397/commits/e1d0527d13db06b2b62ca7d6afb9e97dacd67a0e",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e1d0527d13db06b2b62ca7d6afb9e97dacd67a0e"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "opencv/opencv_contrib",
+        "CVE_ID": "CVE-2023-2617",
+        "Problem_Type": "CWE-476",
+        "Description": "A vulnerability classified as problematic was found in OpenCV wechat_qrcode Module up to 4.7.0. Affected by this vulnerability is the function DecodedBitStreamParser::decodeByteSegment of the file qrcode/decoder/decoded_bit_stream_parser.cpp. The manipulation leads to null pointer dereference. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. It is recommended to apply a patch to fix this issue. The associated identifier of this vulnerability is VDB-228547.",
+        "URL": "https://github.com/opencv/opencv_contrib/pull/3480",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "ccc277247ac1a7aef0a90353edcdec35fbc5903c"
+    },
+    {
+        "repo_name": "opencv/opencv_contrib",
+        "CVE_ID": "CVE-2023-2618",
+        "Problem_Type": "CWE-401",
+        "Description": "A vulnerability, which was classified as problematic, has been found in OpenCV wechat_qrcode Module up to 4.7.0. Affected by this issue is the function DecodedBitStreamParser::decodeHanziSegment of the file qrcode/decoder/decoded_bit_stream_parser.cpp. The manipulation leads to memory leak. The attack may be launched remotely. The name of the patch is 2b62ff6181163eea029ed1cab11363b4996e9cd6. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-228548.",
+        "URL": "https://github.com/opencv/opencv_contrib/pull/3484/commits/2b62ff6181163eea029ed1cab11363b4996e9cd6",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "2b62ff6181163eea029ed1cab11363b4996e9cd6"
+    },
+    {
+        "repo_name": "opencv/opencv_contrib",
+        "CVE_ID": "CVE-2023-2618",
+        "Problem_Type": "CWE-401",
+        "Description": "A vulnerability, which was classified as problematic, has been found in OpenCV wechat_qrcode Module up to 4.7.0. Affected by this issue is the function DecodedBitStreamParser::decodeHanziSegment of the file qrcode/decoder/decoded_bit_stream_parser.cpp. The manipulation leads to memory leak. The attack may be launched remotely. The name of the patch is 2b62ff6181163eea029ed1cab11363b4996e9cd6. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-228548.",
+        "URL": "https://github.com/opencv/opencv_contrib/pull/3484",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "ec406fa4748fb4b0630c1b986469e7918d5e8953"
+    }
+]

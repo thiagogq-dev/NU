@@ -9,7 +9,7 @@ def pd_finder(fix_commit, repo):
     try:
         commit = gr.get_commit(fix_commit)
     except Exception as e:
-        return []
+        return "-"
     buggy_commits = gr.get_commits_last_modified_lines(commit)
 
     only_hash = []

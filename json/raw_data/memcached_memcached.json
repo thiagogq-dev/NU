@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "memcached/memcached",
+        "CVE_ID": "CVE-2021-37519",
+        "Problem_Type": "CWE-787",
+        "Description": "Buffer Overflow vulnerability in authfile.c memcached 1.6.9 allows attackers to cause a denial of service via crafted authenticattion file.",
+        "URL": "https://github.com/memcached/memcached/pull/806/commits/264722ae4e248b453be00e97197dadc685b60fd0",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
+    }
+]

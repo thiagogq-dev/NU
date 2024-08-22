@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "obgm/libcoap",
+        "CVE_ID": "CVE-2023-30362",
+        "Problem_Type": "CWE-125",
+        "Description": "Buffer Overflow vulnerability in coap_send function in libcoap library 4.3.1-103-g52cfd56 fixed in 4.3.1-120-ge242200 allows attackers to obtain sensitive information via malformed pdu.",
+        "URL": "https://github.com/obgm/libcoap/pull/1065",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "e242200f0af2a418dc9f69eee543feacc13cd851"
+    },
+    {
+        "repo_name": "obgm/libcoap",
+        "CVE_ID": "CVE-2023-35862",
+        "Problem_Type": "CWE-125",
+        "Description": "libcoap 4.3.1 contains a buffer over-read via the function coap_parse_oscore_conf_mem at coap_oscore.c.",
+        "URL": "https://github.com/obgm/libcoap/pull/1118",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "04f3a4a7e2ac086d8b36962adbe9681e3a0085f8"
+    },
+    {
+        "repo_name": "obgm/libcoap",
+        "CVE_ID": "CVE-2024-0962",
+        "Problem_Type": "CWE-787",
+        "Description": "A vulnerability was found in obgm libcoap 4.3.4. It has been rated as critical. Affected by this issue is the function get_split_entry of the file src/coap_oscore.c of the component Configuration File Handler. The manipulation leads to stack-based buffer overflow. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. It is recommended to apply a patch to fix this issue. VDB-252206 is the identifier assigned to this vulnerability.",
+        "URL": "https://github.com/obgm/libcoap/pull/1311",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "2b28d8b0e9607e71a145345b4fe49517e052b7d9"
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "nextcloud/end_to_end_encryption",
+        "CVE_ID": "CVE-2023-35173",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Nextcloud End-to-end encryption app provides all the necessary APIs to implement End-to-End encryption on the client side. By providing an invalid meta data file, an attacker can make previously dropped files inaccessible. It is recommended that the Nextcloud End-to-end encryption app is upgraded to version 1.12.4 that contains the fix.\n",
+        "URL": "https://github.com/nextcloud/end_to_end_encryption/pull/435",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "329dfcaa062a68a0d8ec08e1b0d5b08eeadb8981"
+    }
+]

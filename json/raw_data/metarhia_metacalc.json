@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "metarhia/metacalc",
+        "CVE_ID": "CVE-2022-21122",
+        "Problem_Type": "CWE-94",
+        "Description": "The package metacalc before 0.0.2 are vulnerable to Arbitrary Code Execution when it exposes JavaScript's Math class to the v8 context. As the Math class is exposed to user-land, it can be used to get access to JavaScript's Function constructor.",
+        "URL": "https://github.com/metarhia/metacalc/pull/16",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2a757ea4c4e731742c53c40b78c46db6f77c1fd4"
+    }
+]
