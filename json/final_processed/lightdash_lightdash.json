@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "lightdash/lightdash",
+        "CVE_ID": "CVE-2023-35844",
+        "Problem_Type": "CWE-22",
+        "Description": "packages/backend/src/routers in Lightdash before 0.510.3 has insecure file endpoints, e.g., they allow .. directory traversal and do not ensure that an intended file extension (.csv or .png) is used.",
+        "URL": "https://github.com/lightdash/lightdash/pull/5090",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "fcc808c84c2cc3afb343063e32a49440d32a553c",
+        "inducing_commit_hash_pyszz": [
+            "8612958d9d87b7d0532f53d032c3089163036f78"
+        ],
+        "inducing_commit_hash_pd": [
+            "5232c8b3bf55661a92b66a91317bca986d50932e",
+            "3c712b20c59f07172cbc43e3f3af7004fff88d59",
+            "2a65bba7779a9e6dd8c55359264ae483913f8a6d",
+            "fe599f87f5bdfe05b4221f94dc25f4b180d0b7a7",
+            "8612958d9d87b7d0532f53d032c3089163036f78"
+        ],
+        "matched": [
+            "8612958d9d87b7d0532f53d032c3089163036f78"
+        ]
+    }
+]
