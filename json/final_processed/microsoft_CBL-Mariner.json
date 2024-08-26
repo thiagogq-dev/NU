@@ -1,0 +1,33 @@
+[
+    {
+        "repo_name": "microsoft/CBL-Mariner",
+        "CVE_ID": "CVE-2023-44487",
+        "Problem_Type": "CWE-400",
+        "Description": "The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
+        "URL": "https://github.com/microsoft/CBL-Mariner/pull/6381",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "44cd1ce357fd96ceb410a43f38931fbac6fe13eb",
+        "inducing_commit_hash_pyszz": [
+            "115ecc713d6b70246707cecfea8598777af9e3e8"
+        ],
+        "inducing_commit_hash_pd": [
+            "ea37acfa628d6d51378088891400435879209ea7",
+            "956b3090769fe8a45023344268eecddc09ed862d",
+            "af6ece382324e6aaae497f385219ae4549870461",
+            "307f520d1affeff92c4e97de45953c2cd160a179",
+            "d82493a5f91b0fbb94fd469178f92b3a4ed152fb",
+            "f571b3fabde3a07cde8bdd2e9d584c6633e5af78",
+            "eb08b379164dd94f378cb6d3969b184f97f2e02c",
+            "45d111d407945a4bd086c5658cd5c794719a0877",
+            "6a8f378cad9babb595bfd5e1bccf7a8771dd817e",
+            "41e5023e43f1647c4e6fcfe2f12b0fad836b6c7b",
+            "115ecc713d6b70246707cecfea8598777af9e3e8",
+            "e2ad74a2ca9974b4e0bc2391c1d5bbf823e6b865",
+            "63c1d45e66ce684b2b2b2ebf44dc02bd4463b64e",
+            "d2ba4f043a8f6ff5eec3ab65af1ec2ff46d5dbbd"
+        ],
+        "matched": [
+            "115ecc713d6b70246707cecfea8598777af9e3e8"
+        ]
+    }
+]
