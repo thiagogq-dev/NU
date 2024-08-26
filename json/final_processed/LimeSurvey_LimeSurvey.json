@@ -1,0 +1,62 @@
+[
+    {
+        "repo_name": "LimeSurvey/LimeSurvey",
+        "CVE_ID": "CVE-2020-16192",
+        "Problem_Type": "CWE-79",
+        "Description": "LimeSurvey 4.3.2 allows reflected XSS because application/controllers/LSBaseController.php lacks code to validate parameters.",
+        "URL": "https://github.com/LimeSurvey/LimeSurvey/pull/1479/commits/4109a8d157e46c48ca34b995ef61a6e0f6905236",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "17f0a0d5e3a697d2b9442ab308263c1788832c4d",
+        "inducing_commit_hash_pyszz": [
+            "9fd5e78aa6a67b1078a05746c29bceb9f8fab7c0"
+        ],
+        "inducing_commit_hash_pd": [
+            "9fd5e78aa6a67b1078a05746c29bceb9f8fab7c0",
+            "b1fb0bb0b8bc58c736b1f13bb77f89e1dd3a5c0b",
+            "436d0fc192b12306f06666eef44115004a384192",
+            "1cb409ce0f5a68a0ca1830b081df9cc335503403",
+            "9ac538c76295ce6bab34602c53121ee49bfcdf16",
+            "1e5dc67d544d83d31f6c4145d96e58ec16f6b2d9"
+        ],
+        "matched": [
+            "9fd5e78aa6a67b1078a05746c29bceb9f8fab7c0"
+        ]
+    },
+    {
+        "repo_name": "LimeSurvey/LimeSurvey",
+        "CVE_ID": "CVE-2020-23710",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting (XSS) vulneraiblity in LimeSurvey 4.2.5 on textbox via the Notifications & data feature.",
+        "URL": "https://github.com/LimeSurvey/LimeSurvey/pull/1441#partial-pull-merging",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "193209744ebca57583cf8bc9ab0f9cfe02a1e20d"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "LimeSurvey/LimeSurvey",
+        "CVE_ID": "CVE-2023-44796",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting (XSS) vulnerability in LimeSurvey before version 6.2.9-230925 allows a remote attacker to escalate privileges via a crafted script to the _generaloptions_panel.php component.",
+        "URL": "https://github.com/LimeSurvey/LimeSurvey/pull/3483",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "135511073c51c332613dd7fad9a8ca0aad34a3fe",
+        "inducing_commit_hash_pyszz": [
+            "6e5a5767219ee97ce8f81cfbc85c20b4cd4331c8"
+        ],
+        "inducing_commit_hash_pd": [
+            "9bc38aa29351db76ab377a8790230bec0996d839",
+            "9f72f2c6eb1498a709b76da02dc516f81305efd3",
+            "da6d2e5b22789a0e02e9df1aff549438317e99a1",
+            "569b041e42b6b59f646a62b41c127c8d9c5b725b",
+            "6e5a5767219ee97ce8f81cfbc85c20b4cd4331c8",
+            "0f5ce0708162efd8a17ea140dc0ee83f0bde7f28"
+        ],
+        "matched": [
+            "6e5a5767219ee97ce8f81cfbc85c20b4cd4331c8"
+        ]
+    }
+]
