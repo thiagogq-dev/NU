@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "mate-desktop/mate-screensaver",
+        "CVE_ID": "CVE-2018-20681",
+        "Problem_Type": "CWE-200",
+        "Description": "mate-screensaver before 1.20.2 in MATE Desktop Environment allows physically proximate attackers to view screen content and possibly control applications. By unplugging and re-plugging or power-cycling external output devices (such as additionally attached graphical outputs via HDMI, VGA, DVI, etc.) the content of a screensaver-locked session can be revealed. In some scenarios, the attacker can execute applications, such as by clicking with a mouse.",
+        "URL": "https://github.com/mate-desktop/mate-screensaver/pull/167",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "dbd37df02231b8f2fb57b064c05c4a6886ee0357",
+        "inducing_commit_hash_pyszz": [
+            "abaa88eaf6b495949199afd5886a519f89c39f36"
+        ],
+        "inducing_commit_hash_pd": [
+            "fff4ecc82f2bcfa7427596e7ad9c3769fcab040b",
+            "5d4416aa5853de486e62ca97207ee1da4b35b199",
+            "abaa88eaf6b495949199afd5886a519f89c39f36",
+            "c862d81db1e0ae1ce1f62a3aac1d915f5036c81c",
+            "051d9df1ca81e586f43d1d95a1ac3159452d4f17"
+        ],
+        "matched": [
+            "abaa88eaf6b495949199afd5886a519f89c39f36"
+        ]
+    }
+]
