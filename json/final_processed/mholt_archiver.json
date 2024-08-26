@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "mholt/archiver",
+        "CVE_ID": "CVE-2018-1002207",
+        "Problem_Type": "CWE-22",
+        "Description": "mholt/archiver golang package before e4ef56d48eb029648b0e895bb0b6a393ef0829c3 is vulnerable to directory traversal, allowing attackers to write to arbitrary files via a ../ (dot dot slash) in an archive entry that is mishandled during extraction. This vulnerability is also known as 'Zip-Slip'.",
+        "URL": "https://github.com/mholt/archiver/pull/65",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e4ef56d48eb029648b0e895bb0b6a393ef0829c3",
+        "inducing_commit_hash_pyszz": [
+            "4b61c40ffc826625e54144b32fd556052c6e5dfd"
+        ],
+        "inducing_commit_hash_pd": [
+            "9498d6de02786bec3b7af163a63d0901e203c476",
+            "15b6746ca1194923e7f6755624e1c98f8ddef08e",
+            "d0c7c0abc8d40e0eda247281f15bed0c53bbb9f8",
+            "4b61c40ffc826625e54144b32fd556052c6e5dfd",
+            "dbc8e5d17e0c08f295f2efa473246fea65fcbb18"
+        ],
+        "matched": [
+            "4b61c40ffc826625e54144b32fd556052c6e5dfd"
+        ]
+    }
+]
