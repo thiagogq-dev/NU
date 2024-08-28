@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "openmrs/openmrs-module-htmlformentryui",
+        "CVE_ID": "CVE-2021-4284",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability classified as problematic has been found in OpenMRS HTML Form Entry UI Framework Integration Module up to 1.x. This affects an unknown part. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 2.0.0 is able to address this issue. The name of the patch is 811990972ea07649ae33c4b56c61c3b520895f07. It is recommended to upgrade the affected component. The identifier VDB-216873 was assigned to this vulnerability.",
+        "URL": "https://github.com/openmrs/openmrs-module-htmlformentryui/pull/51",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "811990972ea07649ae33c4b56c61c3b520895f07",
+        "inducing_commit_hash_pyszz": [
+            "370117225075ff1608a68114d003a7390f935535"
+        ],
+        "inducing_commit_hash_pd": [
+            "370117225075ff1608a68114d003a7390f935535",
+            "4c3b74f34e3eecdd0bb1fe31a686bfd6bcaf696d",
+            "f0596f24ec6d7ab746570f53df86d373f2115681",
+            "801272c25d9578df5bea5c4b1f2fe47f5ed0d7df",
+            "90f0d21cc446ab6c13b59cd66d2f2d827afec6aa",
+            "fb54cdd31c12a208ab01812bb58252fc58bb678e",
+            "3eb685605aa916bb7e796dcfb71d19f7d79fb059"
+        ],
+        "matched": [
+            "370117225075ff1608a68114d003a7390f935535"
+        ]
+    }
+]
