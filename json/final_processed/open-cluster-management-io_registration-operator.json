@@ -1,0 +1,25 @@
+[
+    {
+        "repo_name": "open-cluster-management-io/registration-operator",
+        "CVE_ID": "CVE-2023-2250",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "A flaw was found in the Open Cluster Management (OCM) when a user have access to the worker nodes which has the cluster-manager-registration-controller or cluster-manager deployments. A malicious user can take advantage of this and bind the cluster-admin to any service account or using the service account to list all secrets for all kubernetes namespaces, leading into a cluster-level privilege escalation.",
+        "URL": "https://github.com/open-cluster-management-io/registration-operator/pull/344",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "fc16c670b31b15d816ceae4c854155f9c80c2a94",
+        "inducing_commit_hash_pyszz": [
+            "985dcf71cb145b9dadbf4409487908c4fe75e359"
+        ],
+        "inducing_commit_hash_pd": [
+            "137d0682bf3f1394bcdd828a8ba5cf84b4634550",
+            "985dcf71cb145b9dadbf4409487908c4fe75e359",
+            "c5446384b0402baa869d34bdefb69a3a8480483a",
+            "db866a58912a53be1e63d28f1bad7d2c9c0cc4e0",
+            "5773ba86bef373621abd7e86bc1088ebdeda0dda",
+            "abc1af28495b9d3a4195007c01e6255132a3efa3"
+        ],
+        "matched": [
+            "985dcf71cb145b9dadbf4409487908c4fe75e359"
+        ]
+    }
+]
