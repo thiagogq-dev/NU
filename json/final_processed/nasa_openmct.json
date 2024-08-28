@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "nasa/openmct",
+        "CVE_ID": "CVE-2023-45282",
+        "Problem_Type": "CWE-1321",
+        "Description": "In NASA Open MCT (aka openmct) before 3.1.0, prototype pollution can occur via an import action.",
+        "URL": "https://github.com/nasa/openmct/pull/7094/commits/545a1770c523ecc3410dca884c6809d5ff0f9d52",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "2243381d527c0d84cc48e9ace78be7cda5363612",
+        "inducing_commit_hash_pyszz": [
+            "82ea23e20c21896f7a6f216b32486c7436684756"
+        ],
+        "inducing_commit_hash_pd": [
+            "8acbcadd5d17e201f32f03deb753b8b12b591063",
+            "2d64813a4fa5bfb69f16f7ab8e2753f73f232a8b",
+            "caa7bc6faebc204f67aedae3e35fb0d0d3ce27a7",
+            "c27ad469f6a539d7a2a58d8f094aa4b105928fef",
+            "82ea23e20c21896f7a6f216b32486c7436684756"
+        ],
+        "matched": [
+            "82ea23e20c21896f7a6f216b32486c7436684756"
+        ]
+    }
+]
