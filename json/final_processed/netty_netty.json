@@ -1,0 +1,93 @@
+[
+    {
+        "repo_name": "netty/netty",
+        "CVE_ID": "CVE-2016-4970",
+        "Problem_Type": "CWE-835",
+        "Description": "handler/ssl/OpenSslEngine.java in Netty 4.0.x before 4.0.37.Final and 4.1.x before 4.1.1.Final allows remote attackers to cause a denial of service (infinite loop).",
+        "URL": "https://github.com/netty/netty/pull/5364",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "dcd3cadeaa08f711e8e5b833f8ebec48a72dd4d8"
+        ],
+        "inducing_commit_hash_pd": [
+            "efff1f8ed3dda51569721825922aea0ccf9f4b35"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "netty/netty",
+        "CVE_ID": "CVE-2020-11612",
+        "Problem_Type": "CWE-770",
+        "Description": "The ZlibDecoders in Netty 4.1.x before 4.1.46 allow for unbounded memory allocation while decoding a ZlibEncoded byte stream. An attacker could send a large ZlibEncoded byte stream to the Netty server, forcing the server to allocate all of its free memory to a single decoder.",
+        "URL": "https://github.com/netty/netty/pull/9924",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1543218d3e7afcb33a90b728b14370395a3deca0",
+        "inducing_commit_hash_pyszz": [
+            "6ff48dcbe311d2736249b02b31a8745e719d1304"
+        ],
+        "inducing_commit_hash_pd": [
+            "1f69e664fb94c12bc2d884d8b4503826d205e323",
+            "3f7b674db8c9c2fc562b95327e089bb3603c9009",
+            "e06cb82c4c1c27273e4811107e5b9ac6a66ef1fb",
+            "7a38163743624c2f7c3fd263fd61fe70cb711aa0",
+            "6ff48dcbe311d2736249b02b31a8745e719d1304"
+        ],
+        "matched": [
+            "6ff48dcbe311d2736249b02b31a8745e719d1304"
+        ]
+    },
+    {
+        "repo_name": "netty/netty",
+        "CVE_ID": "CVE-2022-41915",
+        "Problem_Type": "CWE-113",
+        "Description": "Netty project is an event-driven asynchronous network application framework. Starting in version 4.1.83.Final and prior to 4.1.86.Final, when calling `DefaultHttpHeadesr.set` with an _iterator_ of values, header value validation was not performed, allowing malicious header values in the iterator to perform HTTP Response Splitting. This issue has been patched in version 4.1.86.Final. Integrators can work around the issue by changing the `DefaultHttpHeaders.set(CharSequence, Iterator<?>)` call, into a `remove()` call, and call `add()` in a loop over the iterator of values.",
+        "URL": "https://github.com/netty/netty/pull/12760",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "980f48a9089849adda1d5035eb3ac5ba567a3b23",
+        "inducing_commit_hash_pyszz": [
+            "570c5d75bd172fbb2f6f68685326d4acb3978482"
+        ],
+        "inducing_commit_hash_pd": [
+            "c1d0d88f0ae50ce38f00daa9bf7039c1a8bf9a80",
+            "225d10e1ade6906ce75257261729412ad5a80e6f",
+            "77101ab8af0b14f7d96de394f13886dcb49733c4",
+            "06e7627b5f39b96c05042d7bd85218560293fc19",
+            "f9001b9fc07a71a9d6eaf0462470416780302107",
+            "c37c637f096e7be3dffd36edee3455c8e90cb1b0",
+            "570c5d75bd172fbb2f6f68685326d4acb3978482",
+            "a6084370891725006779786d789eed7ca2522661",
+            "6f1af8b84dc01a1d73d954e5e819fc9b17829f11",
+            "50e06442c3f2753c9b2a506f68ea70273b829e21",
+            "19658e9cd80b57340df58ae573fa9dcbd141416a",
+            "3e6b54bb59d55d4d375c2e97157d34969b7ede0b",
+            "21e8d84b7961c36435714cdb16eec31ad08213bc",
+            "d2389a9339b72e12bdab20f11f745df01b190e8a",
+            "2d24e1f27d00d13401d543a04beb5b76102dfd7d",
+            "8f01259833a2323da6968b09162854600443ac4d",
+            "cd3254df88b60476dc04b39915d3d70c200eb6f4",
+            "4c64c98f348131e0792ba4a92ce3d0003237d56a",
+            "540c26bb56067523e3a76eb484205997fa6727e7",
+            "8c73dbe9bdf02ecf061f6070b831498f80bf82a9",
+            "cfe631ad0556b83f564babcb1616f4efc902ec59",
+            "9a7a85dbe54f8ec7cddef8721f720feaeb7a16c9",
+            "cf8b7170505c2329b34ff1f8c0b76977a4d7c2c2",
+            "07aa6b5938a8b6ed7a6586e066400e2643897323",
+            "6fd0a0c55f1cf721c88bb0df957b2fa50215724c",
+            "2b1785458b2867645270d3ae284ba35157a2818d",
+            "f89dfb0bd53af45eb5f1c1dcc7d9badd889d17f0",
+            "cfcee5798d6680d87aec3ae68cdded74a1402f84",
+            "1cb706ac932bab732257e02fc095d91ff7ed3788",
+            "88f0586a7e89a4e35e0011bdf607b3192bfe7b5f",
+            "ff0045e3e10684425a26f5b6cb02223fb0444141",
+            "ba6ce5449ee852b782dde9a11933f6a09b123e22",
+            "2fd42cfc6b32dacb812c6f2ecef8522cd94718d4",
+            "7d213240ca768d6dd35ef2336b1fda757bd4df3c",
+            "90636afb030f74b8ea62b857b0896b7431cafe82",
+            "83710cb2e1060d37ba7bac90afbaea15e9db11ed"
+        ],
+        "matched": [
+            "570c5d75bd172fbb2f6f68685326d4acb3978482"
+        ]
+    }
+]
