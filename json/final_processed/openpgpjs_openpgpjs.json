@@ -1,0 +1,62 @@
+[
+    {
+        "repo_name": "openpgpjs/openpgpjs",
+        "CVE_ID": "CVE-2019-9153",
+        "Problem_Type": "CWE-347",
+        "Description": "Improper Verification of a Cryptographic Signature in OpenPGP.js <=4.1.2 allows an attacker to forge signed messages by replacing its signatures with a \"standalone\" or \"timestamp\" signature.",
+        "URL": "https://github.com/openpgpjs/openpgpjs/pull/797/commits/327d3e5392a6f59a4270569d200c7f7a2bfc4cbc",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "327d3e5392a6f59a4270569d200c7f7a2bfc4cbc",
+        "inducing_commit_hash_pyszz": [
+            "e6820d7b2a16c5d517806dca6c27bda77603ef1f"
+        ],
+        "inducing_commit_hash_pd": [
+            "de2971d84afe39b43a9cfaee7e02ade05fc36ebd"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "openpgpjs/openpgpjs",
+        "CVE_ID": "CVE-2019-9154",
+        "Problem_Type": "CWE-347",
+        "Description": "Improper Verification of a Cryptographic Signature in OpenPGP.js <=4.1.2 allows an attacker to pass off unsigned data as signed.",
+        "URL": "https://github.com/openpgpjs/openpgpjs/pull/797/commits/47138eed61473e13ee8f05931119d3e10542c5e1",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "47138eed61473e13ee8f05931119d3e10542c5e1",
+        "inducing_commit_hash_pyszz": [
+            "95b9e5188a8e56e1d39705374748df6a55309457"
+        ],
+        "inducing_commit_hash_pd": [
+            "95b9e5188a8e56e1d39705374748df6a55309457",
+            "b672f1936a87c35ba9d46be9c671006e536b9a9a",
+            "11a2d0070bbd89f47dbc629de884ca3f7aa021dc",
+            "0c6b345ba88db7b92b23a655adcdb06948e86834"
+        ],
+        "matched": [
+            "95b9e5188a8e56e1d39705374748df6a55309457"
+        ]
+    },
+    {
+        "repo_name": "openpgpjs/openpgpjs",
+        "CVE_ID": "CVE-2019-9155",
+        "Problem_Type": "CWE-327",
+        "Description": "A cryptographic issue in OpenPGP.js <=4.2.0 allows an attacker who is able provide forged messages and gain feedback about whether decryption of these messages succeeded to conduct an invalid curve attack in order to gain the victim's ECDH private key.",
+        "URL": "https://github.com/openpgpjs/openpgpjs/pull/853/commits/7ba4f8c655e7fd7706e8d7334e44b40fdf56c43e",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9d7db98362cbd1ea3a8eb26b55d0d876b0a1de14",
+        "inducing_commit_hash_pyszz": [
+            "08f48bfc2ca377d6e9ea50b18c44ffa71a7c1e62"
+        ],
+        "inducing_commit_hash_pd": [
+            "96c1c2158e8b25795aed69986331562259f600cb",
+            "ed4cef102a25062059e68e5d0c78e98bc4571b9a",
+            "08f48bfc2ca377d6e9ea50b18c44ffa71a7c1e62",
+            "52c4fa9639f9b358eb94bee771eb3c5f68712e09",
+            "85223093a426e563b7dd6e4b15cc605afde08957",
+            "7756e4dc997bdd44b4fd3ab5d980429c9e7e22e3"
+        ],
+        "matched": [
+            "08f48bfc2ca377d6e9ea50b18c44ffa71a7c1e62"
+        ]
+    }
+]
