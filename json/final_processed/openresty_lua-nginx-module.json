@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "openresty/lua-nginx-module",
+        "CVE_ID": "CVE-2020-36309",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "ngx_http_lua_module (aka lua-nginx-module) before 0.10.16 in OpenResty allows unsafe characters in an argument when using the API to mutate a URI, or a request or response header.",
+        "URL": "https://github.com/openresty/lua-nginx-module/pull/1654",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "38f587a35ef72b8cbb50114797fa875307ff0bfe",
+        "inducing_commit_hash_pyszz": [
+            "881bf91da6853446398cebc1b2d6a01f8d7939d6"
+        ],
+        "inducing_commit_hash_pd": [
+            "55743aeba3075b34a250380b32bad6366eae6c30",
+            "881bf91da6853446398cebc1b2d6a01f8d7939d6",
+            "3294b1dfd0e67a3f8194c36225d109114bc11763"
+        ],
+        "matched": [
+            "881bf91da6853446398cebc1b2d6a01f8d7939d6"
+        ]
+    }
+]
