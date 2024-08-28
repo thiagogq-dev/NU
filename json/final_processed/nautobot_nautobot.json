@@ -1,0 +1,302 @@
+[
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2023-46128",
+        "Problem_Type": "CWE-312",
+        "Description": "Nautobot is a Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. In Nautobot 2.0.x, certain REST API endpoints, in combination with the `?depth=<N>` query parameter, can expose hashed user passwords as stored in the database to any authenticated user with access to these endpoints. The passwords are not exposed in plaintext. This vulnerability has been patched in version 2.0.3.\n\n",
+        "URL": "https://github.com/nautobot/nautobot/pull/4692",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "1ce8e5c658a075c29554d517cd453675e5d40d71",
+        "inducing_commit_hash_pyszz": [
+            "118320866cea0a2e839823d1ca387998da99a878"
+        ],
+        "inducing_commit_hash_pd": [
+            "118320866cea0a2e839823d1ca387998da99a878",
+            "29348b13dc080cbb5f54022da074ac5232aa4d2b"
+        ],
+        "matched": [
+            "118320866cea0a2e839823d1ca387998da99a878"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2023-48705",
+        "Problem_Type": "CWE-79",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application All users of Nautobot versions earlier than 1.6.6 or 2.0.5 are potentially affected by a cross-site scripting vulnerability. Due to incorrect usage of Django's `mark_safe()` API when rendering certain types of user-authored content; including custom links, job buttons, and computed fields; it is possible that users with permission to create or edit these types of content could craft a malicious payload (such as JavaScript code) that would be executed when rendering pages containing this content. The maintainers have fixed the incorrect uses of `mark_safe()` (generally by replacing them with appropriate use of `format_html()` instead) to prevent such malicious data from being executed. Users on Nautobot 1.6.x LTM should upgrade to v1.6.6 and users on Nautobot 2.0.x should upgrade to v2.0.5. Appropriate object permissions can and should be applied to restrict which users are permitted to create or edit the aforementioned types of user-authored content. Other than that, there is no direct workaround available.",
+        "URL": "https://github.com/nautobot/nautobot/pull/4832",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "54abe23331b6c3d0d82bf1b028c679b1d200920d",
+        "inducing_commit_hash_pyszz": [
+            "388cc8780699a0ace1ca9563b8095ce9f3da13e7"
+        ],
+        "inducing_commit_hash_pd": [
+            "779ee4130a136279afc04b81c26bdbb49a799678",
+            "c57f29c96b9e6f39c31e118d4068ed4eea87c6eb",
+            "b61bccbb67ddd3f1d82f09aaa164399e584c0ac1",
+            "dad4c31ea23ea9642b5de03e4337047f781f519c",
+            "9dd3cd86c9c57bbb3b1f98808b19754f5195fbec",
+            "75d755f43bc0007b593a601fe3c6844c72f2292c",
+            "d84e5d1839cc275becd7ab02d7ba03e842a03e20",
+            "7197b3a25403273c244fecd569f8027998408fe4",
+            "3f22b457ecb69cf74cedbaa8ed0640e7f7787d5a",
+            "f1da517c84969b81cbbbb42a8cc21946bc023274",
+            "6087627f83475fd22f3110118b0d78d5f53597a3",
+            "6beb493c1e03bc82afb49bc7b5f64fb3c65ca76e",
+            "c7de8da17daa8daff8249599511ee25af03266d6",
+            "dd1d02363fd6fbdc0e42bb77f9b72c9d1bc85a7a",
+            "1deb778b06a6cfff3dee5acf60981defae749161",
+            "2221d188d2cd489538c6bdc74a8a66ea26dcbbd1",
+            "10cc37e7d6d28a46b9363b5055bacfb91da209ab",
+            "c5d575490c7a482195203b18b3a25ec296be42d5",
+            "c047f943de904f80b7e8ab4fa178822c1fd2dc5b",
+            "fa62a3a803f7e32b226f27508b4dc067d3caecee",
+            "160ced8818f5fedaea4cf6abab49fd505d84d414",
+            "da9c1057afafc8309b227c62bfbe5d76a07c0313",
+            "28f0da0bc1570bd17e1846c921a72eb7f2697a9c",
+            "8364694fb4bf606bf920cc81e7592b868576d10e",
+            "a354eaca864010b5af439d8cf590c83b680f0bd9",
+            "0c97a5f19f303fda82de126a97ad601ae42c08b5",
+            "b3c770216e4aded14df172ca0fe8bbb3d8a5381e",
+            "b5455ed882c47273064933f0120b0e368af93a1f",
+            "18a8a91d57271b632583ba53572dc9d010113b2d",
+            "b5d500170f10c261fcbc13486a338a295a9f14a5",
+            "03aab588c43dea95107b4ecd27e822119dc24670",
+            "0050917452a25334a4f77edb22a0710ff005e2a4",
+            "3e35cc842d866398f1bd2a75b9cbbb0d5fa7adf6",
+            "5aa1d7e934dec866a85187d23c86fb29d8f1aeec",
+            "8728cdf148e9720442fcbafc95a1cc5898948564",
+            "c6f28f49748d38b8a527ca347a1ca9c08b6e772b",
+            "b5a444195b90ed5f99065d8c3acc050451322703",
+            "f4ad15a44c62f65697f713295dad1a0fb034c914",
+            "e8307636f2ac329dc881cbd686c29d6ec1281f66",
+            "e1cf27a3ac3586f92eeedb2df7b807d771a8f181",
+            "5de242fe5357cb4791eaef6b090f602712a20a61",
+            "27b289ee3b30ed3b0643a1c78c2e8caec329dcd2",
+            "9314f5c097a84b2947934818ae6441531a4f5412",
+            "0fb12bcc9c2c165270924fceb99269ebb4be1e98",
+            "2f83a57ef2f4d31ac26ba159f0f98d1ba66f6a8a",
+            "8781cf1c57405ee7248a8fff4cbdadec74bf6e7c",
+            "388cc8780699a0ace1ca9563b8095ce9f3da13e7"
+        ],
+        "matched": [
+            "388cc8780699a0ace1ca9563b8095ce9f3da13e7"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2023-48705",
+        "Problem_Type": "CWE-79",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application All users of Nautobot versions earlier than 1.6.6 or 2.0.5 are potentially affected by a cross-site scripting vulnerability. Due to incorrect usage of Django's `mark_safe()` API when rendering certain types of user-authored content; including custom links, job buttons, and computed fields; it is possible that users with permission to create or edit these types of content could craft a malicious payload (such as JavaScript code) that would be executed when rendering pages containing this content. The maintainers have fixed the incorrect uses of `mark_safe()` (generally by replacing them with appropriate use of `format_html()` instead) to prevent such malicious data from being executed. Users on Nautobot 1.6.x LTM should upgrade to v1.6.6 and users on Nautobot 2.0.x should upgrade to v2.0.5. Appropriate object permissions can and should be applied to restrict which users are permitted to create or edit the aforementioned types of user-authored content. Other than that, there is no direct workaround available.",
+        "URL": "https://github.com/nautobot/nautobot/pull/4833",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "362850f5a94689a4c75e3188bf6de826c3b012b2",
+        "inducing_commit_hash_pyszz": [
+            "67db55b0209696b299d6d161f3b2277917d39932"
+        ],
+        "inducing_commit_hash_pd": [
+            "a2d87def3a2dfe7b4ec3b93e968a14ee34420747",
+            "bb3f35c0cf7475b25025f52b4fededd2a7e97b64",
+            "b61bccbb67ddd3f1d82f09aaa164399e584c0ac1",
+            "dad4c31ea23ea9642b5de03e4337047f781f519c",
+            "42c6ccaa904ab47f2b9cd7d503a93cef0134e4d4",
+            "75d755f43bc0007b593a601fe3c6844c72f2292c",
+            "d84e5d1839cc275becd7ab02d7ba03e842a03e20",
+            "f1da517c84969b81cbbbb42a8cc21946bc023274",
+            "62cc736600c746ad4feb9d3b2d2c66f337d50fce",
+            "6087627f83475fd22f3110118b0d78d5f53597a3",
+            "c7de8da17daa8daff8249599511ee25af03266d6",
+            "dd1d02363fd6fbdc0e42bb77f9b72c9d1bc85a7a",
+            "1deb778b06a6cfff3dee5acf60981defae749161",
+            "10cc37e7d6d28a46b9363b5055bacfb91da209ab",
+            "c5d575490c7a482195203b18b3a25ec296be42d5",
+            "1dbf776279abfc645e31bb8dea4a76dfab699ea3",
+            "c047f943de904f80b7e8ab4fa178822c1fd2dc5b",
+            "fa62a3a803f7e32b226f27508b4dc067d3caecee",
+            "160ced8818f5fedaea4cf6abab49fd505d84d414",
+            "da9c1057afafc8309b227c62bfbe5d76a07c0313",
+            "8364694fb4bf606bf920cc81e7592b868576d10e",
+            "28f0da0bc1570bd17e1846c921a72eb7f2697a9c",
+            "0c97a5f19f303fda82de126a97ad601ae42c08b5",
+            "a354eaca864010b5af439d8cf590c83b680f0bd9",
+            "b3c770216e4aded14df172ca0fe8bbb3d8a5381e",
+            "b5455ed882c47273064933f0120b0e368af93a1f",
+            "18a8a91d57271b632583ba53572dc9d010113b2d",
+            "03aab588c43dea95107b4ecd27e822119dc24670",
+            "8728cdf148e9720442fcbafc95a1cc5898948564",
+            "c6f28f49748d38b8a527ca347a1ca9c08b6e772b",
+            "f4ad15a44c62f65697f713295dad1a0fb034c914",
+            "5aa1d7e934dec866a85187d23c86fb29d8f1aeec",
+            "b5a444195b90ed5f99065d8c3acc050451322703",
+            "3e35cc842d866398f1bd2a75b9cbbb0d5fa7adf6",
+            "bf4fee159292c49dd78ce772e3256e272d07540f",
+            "9453e29e16e064ea87d93ffbd699c40128d5a684",
+            "67db55b0209696b299d6d161f3b2277917d39932",
+            "e8307636f2ac329dc881cbd686c29d6ec1281f66",
+            "e1cf27a3ac3586f92eeedb2df7b807d771a8f181",
+            "1f7ef15ad168e9d68bbdf711b015e9f0c4e83abb",
+            "5de242fe5357cb4791eaef6b090f602712a20a61",
+            "27b289ee3b30ed3b0643a1c78c2e8caec329dcd2",
+            "9314f5c097a84b2947934818ae6441531a4f5412",
+            "0fb12bcc9c2c165270924fceb99269ebb4be1e98",
+            "2f83a57ef2f4d31ac26ba159f0f98d1ba66f6a8a",
+            "8781cf1c57405ee7248a8fff4cbdadec74bf6e7c"
+        ],
+        "matched": [
+            "67db55b0209696b299d6d161f3b2277917d39932"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2023-50263",
+        "Problem_Type": "CWE-306",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. In Nautobot 1.x and 2.0.x prior to 1.6.7 and 2.0.6, the URLs `/files/get/?name=...` and `/files/download/?name=...` are used to provide admin access to files that have been uploaded as part of a run request for a Job that has FileVar inputs. Under normal operation these files are ephemeral and are deleted once the Job in question runs. \n\nIn the default implementation used in Nautobot, as provided by `django-db-file-storage`, these URLs do not by default require any user authentication to access; they should instead be restricted to only users who have permissions to view Nautobot's `FileProxy` model instances.\n\nNote that no URL mechanism is provided for listing or traversal of the available file `name` values, so in practice an unauthenticated user would have to guess names to discover arbitrary files for download, but if a user knows the file name/path value, they can access it without authenticating, so we are considering this a vulnerability.\n\nFixes are included in Nautobot 1.6.7 and Nautobot 2.0.6. No known workarounds are available other than applying the patches included in those versions.",
+        "URL": "https://github.com/nautobot/nautobot/pull/4959",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "458280c359a4833a20da294eaf4b8d55edc91cee",
+        "inducing_commit_hash_pyszz": [
+            "5c69992777bc49fb24be05895cb19fba3c06a158"
+        ],
+        "inducing_commit_hash_pd": [
+            "5516bb502ad33647a146b7349067bcad1d2003f3",
+            "92153d82e97d23aded3c24fd37e0ea42fdbdb43e",
+            "958dfc1b9616f165e06b4a849bc63cdab2058fec",
+            "5c69992777bc49fb24be05895cb19fba3c06a158",
+            "b114b9d39687d143c915ee21bb5673fb7077f173"
+        ],
+        "matched": [
+            "5c69992777bc49fb24be05895cb19fba3c06a158"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2023-50263",
+        "Problem_Type": "CWE-306",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. In Nautobot 1.x and 2.0.x prior to 1.6.7 and 2.0.6, the URLs `/files/get/?name=...` and `/files/download/?name=...` are used to provide admin access to files that have been uploaded as part of a run request for a Job that has FileVar inputs. Under normal operation these files are ephemeral and are deleted once the Job in question runs. \n\nIn the default implementation used in Nautobot, as provided by `django-db-file-storage`, these URLs do not by default require any user authentication to access; they should instead be restricted to only users who have permissions to view Nautobot's `FileProxy` model instances.\n\nNote that no URL mechanism is provided for listing or traversal of the available file `name` values, so in practice an unauthenticated user would have to guess names to discover arbitrary files for download, but if a user knows the file name/path value, they can access it without authenticating, so we are considering this a vulnerability.\n\nFixes are included in Nautobot 1.6.7 and Nautobot 2.0.6. No known workarounds are available other than applying the patches included in those versions.",
+        "URL": "https://github.com/nautobot/nautobot/pull/4964",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "7c4cf3137f45f1541f09f2f6a7f8850cd3a2eaee",
+        "inducing_commit_hash_pyszz": [
+            "5ac59344f954e1385d69f0e28e1deacfd95d6c9e"
+        ],
+        "inducing_commit_hash_pd": [
+            "5ac59344f954e1385d69f0e28e1deacfd95d6c9e",
+            "5516bb502ad33647a146b7349067bcad1d2003f3",
+            "92153d82e97d23aded3c24fd37e0ea42fdbdb43e",
+            "958dfc1b9616f165e06b4a849bc63cdab2058fec",
+            "b114b9d39687d143c915ee21bb5673fb7077f173"
+        ],
+        "matched": [
+            "5ac59344f954e1385d69f0e28e1deacfd95d6c9e"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2023-51649",
+        "Problem_Type": "CWE-863",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. When submitting a Job to run via a Job Button, only the model-level `extras.run_job` permission is checked (i.e., does the user have permission to run Jobs in general). Object-level permissions (i.e., does the user have permission to run this specific Job?) are not enforced by the URL/view used in this case. A user with permissions to run even a single Job can actually run all configured JobButton Jobs. Fix will be available in Nautobot 1.6.8 and 2.1.0 ",
+        "URL": "https://github.com/nautobot/nautobot/pull/4993",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "3d964f996f4926126c1d7853ca87b2ff475997a2",
+        "inducing_commit_hash_pyszz": [
+            "b61773a786e0d2b514c990429fbaf58596916be3"
+        ],
+        "inducing_commit_hash_pd": [
+            "22f9c09f2317a8e5bcd071a68fb66fe54ebe02db",
+            "f46c4291788033d9f1bd7fee66d27fdb83e1a895",
+            "b61773a786e0d2b514c990429fbaf58596916be3",
+            "e52643894cc6a5247fffc5f65f2c7292749275cb",
+            "54abe23331b6c3d0d82bf1b028c679b1d200920d",
+            "10cc37e7d6d28a46b9363b5055bacfb91da209ab",
+            "b4881458b4298aadb52bef7d9adb0dbe6d1ed357",
+            "809f085886588287319f43643b36adda94286ce8"
+        ],
+        "matched": [
+            "b61773a786e0d2b514c990429fbaf58596916be3"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2023-51649",
+        "Problem_Type": "CWE-863",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application atop the Django Python framework with a PostgreSQL or MySQL database. When submitting a Job to run via a Job Button, only the model-level `extras.run_job` permission is checked (i.e., does the user have permission to run Jobs in general). Object-level permissions (i.e., does the user have permission to run this specific Job?) are not enforced by the URL/view used in this case. A user with permissions to run even a single Job can actually run all configured JobButton Jobs. Fix will be available in Nautobot 1.6.8 and 2.1.0 ",
+        "URL": "https://github.com/nautobot/nautobot/pull/4995",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "d33d0c15a36948c45244e5b5e10bc79b8e62de7f",
+        "inducing_commit_hash_pyszz": [
+            "b61773a786e0d2b514c990429fbaf58596916be3"
+        ],
+        "inducing_commit_hash_pd": [
+            "22f9c09f2317a8e5bcd071a68fb66fe54ebe02db",
+            "f46c4291788033d9f1bd7fee66d27fdb83e1a895",
+            "b61773a786e0d2b514c990429fbaf58596916be3",
+            "dad4c31ea23ea9642b5de03e4337047f781f519c",
+            "10cc37e7d6d28a46b9363b5055bacfb91da209ab",
+            "b4881458b4298aadb52bef7d9adb0dbe6d1ed357",
+            "362850f5a94689a4c75e3188bf6de826c3b012b2"
+        ],
+        "matched": [
+            "b61773a786e0d2b514c990429fbaf58596916be3"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2024-23345",
+        "Problem_Type": "CWE-79",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application.  All users of Nautobot versions earlier than 1.6.10 or 2.1.2 are potentially impacted by a cross-site scripting vulnerability. Due to inadequate input sanitization, any user-editable fields that support Markdown rendering, including are potentially susceptible to cross-site scripting (XSS) attacks via maliciously crafted data. This issue is fixed in Nautobot versions 1.6.10 and 2.1.2.",
+        "URL": "https://github.com/nautobot/nautobot/pull/5133",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "17effcbe84a72150c82b138565c311bbee357e80",
+        "inducing_commit_hash_pyszz": [
+            "64f21a92e6980379ef8d11c4aaa30189d13c7cca"
+        ],
+        "inducing_commit_hash_pd": [
+            "d80a3cf94928f988a16a5d99d7fdc4ade025782f",
+            "738368a6a142eec8ae43899755fa2773a3177ff1",
+            "64f21a92e6980379ef8d11c4aaa30189d13c7cca",
+            "998f1a2a7c52016585dc501e6d8a250716858e4d",
+            "aa4aa40874c3e05c4a050e6056d2bc270b519982",
+            "1deb778b06a6cfff3dee5acf60981defae749161",
+            "3f22b457ecb69cf74cedbaa8ed0640e7f7787d5a",
+            "d4a65953fbe30e735675979088f0fa4da3dd38a8",
+            "22119638841ddb1776967034ce3498f26dcf6f4c",
+            "ecadb7270cfa0bec9c9a65eea86ad43232ebf0ea",
+            "8728cdf148e9720442fcbafc95a1cc5898948564",
+            "290d30499c30f59ba18a99b21a5c93b6b7801b7b",
+            "18ed462f2d4784b1ce08f7fbe1d548f40aa65c84",
+            "89fbf1fde6cdbcd64180e5c66bc912dd950dd708"
+        ],
+        "matched": [
+            "64f21a92e6980379ef8d11c4aaa30189d13c7cca"
+        ]
+    },
+    {
+        "repo_name": "nautobot/nautobot",
+        "CVE_ID": "CVE-2024-23345",
+        "Problem_Type": "CWE-79",
+        "Description": "Nautobot is a Network Source of Truth and Network Automation Platform built as a web application.  All users of Nautobot versions earlier than 1.6.10 or 2.1.2 are potentially impacted by a cross-site scripting vulnerability. Due to inadequate input sanitization, any user-editable fields that support Markdown rendering, including are potentially susceptible to cross-site scripting (XSS) attacks via maliciously crafted data. This issue is fixed in Nautobot versions 1.6.10 and 2.1.2.",
+        "URL": "https://github.com/nautobot/nautobot/pull/5134",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "64312a4297b5ca49b6cdedf477e41e8e4fd61cce",
+        "inducing_commit_hash_pyszz": [
+            "747167d275582adeebf70c9f052e3f583502343b"
+        ],
+        "inducing_commit_hash_pd": [
+            "d80a3cf94928f988a16a5d99d7fdc4ade025782f",
+            "738368a6a142eec8ae43899755fa2773a3177ff1",
+            "998f1a2a7c52016585dc501e6d8a250716858e4d",
+            "747167d275582adeebf70c9f052e3f583502343b",
+            "2956d469063b7cdb6fb6ceef7724a9c075579bf1",
+            "1deb778b06a6cfff3dee5acf60981defae749161",
+            "22119638841ddb1776967034ce3498f26dcf6f4c",
+            "ecadb7270cfa0bec9c9a65eea86ad43232ebf0ea",
+            "8728cdf148e9720442fcbafc95a1cc5898948564",
+            "290d30499c30f59ba18a99b21a5c93b6b7801b7b",
+            "362850f5a94689a4c75e3188bf6de826c3b012b2",
+            "47beba60523e4e9865b9ae96e3d6d0f6205ea535",
+            "89fbf1fde6cdbcd64180e5c66bc912dd950dd708"
+        ],
+        "matched": [
+            "747167d275582adeebf70c9f052e3f583502343b"
+        ]
+    }
+]
