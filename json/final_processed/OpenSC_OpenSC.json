@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "OpenSC/OpenSC",
+        "CVE_ID": "CVE-2018-16427",
+        "Problem_Type": "CWE-125",
+        "Description": "Various out of bounds reads when handling responses in OpenSC before 0.19.0-rc1 could be used by attackers able to supply crafted smartcards to potentially crash the opensc library using programs.",
+        "URL": "https://github.com/OpenSC/OpenSC/pull/1447/commits/8fe377e93b4b56060e5bbfb6f3142ceaeca744fa",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8fe377e93b4b56060e5bbfb6f3142ceaeca744fa",
+        "inducing_commit_hash_pyszz": [
+            "0911982bef3aba1da24c2d70b4942d19ceb6ae78"
+        ],
+        "inducing_commit_hash_pd": [
+            "57b7a81c3a3233e93e9b60927103b26f9a20463e",
+            "27d00f9265e053c574690d9cf27d4d579d29a09d",
+            "eb4717ea177a02f2ad1e07bc205ce56ea933eb73",
+            "45ad44e3115c2fda36c46f77b792f0f9da6152ab",
+            "6545b42c02ce11b89bf796f773d5c8e851016d3d",
+            "7931ded481170704ca047ae5442e5a6b2a299926",
+            "00b069a08e43397e02571674d105c38b5967f459",
+            "f2f3a30792c00ef61d3d44d055f15cc265056cc9",
+            "0502a839c654555220964e9f4d58ca508471472e",
+            "eb21c41e533d218589580ca999dbb6d9eb4c6371",
+            "87708593154ad96ac9e8d8dec5d066e0387db0b2",
+            "3fa1b27736355eb65c6df227678929980f77e16b",
+            "1a58c429cbed13bed30e561896e747e3051a6d15",
+            "777e2a3751e3f6d53f056c98e9e20e42af674fb1",
+            "73b5d8421abedf2fafa54720b9624e18ef2630fd",
+            "3efe35d246b9018d2013b2039a99a88e15240107",
+            "790ed5fcd7a3189c2df686daebe02f43ae5a72c3",
+            "0911982bef3aba1da24c2d70b4942d19ceb6ae78",
+            "3439f9cdd7c51155f412fda95786f145a5001fe8",
+            "513a3dde0ab9f57275dc9267808bb8dbd1e7e5a9",
+            "e968abd1a1bec4717e6b5e07b4868c841ab7b3ab"
+        ],
+        "matched": [
+            "0911982bef3aba1da24c2d70b4942d19ceb6ae78"
+        ]
+    },
+    {
+        "repo_name": "OpenSC/OpenSC",
+        "CVE_ID": "CVE-2023-2977",
+        "Problem_Type": "CWE-125",
+        "Description": "A vulnerbility was found in OpenSC. This security flaw cause a buffer overrun vulnerability in pkcs15 cardos_have_verifyrc_package. The attacker can supply a smart card package with malformed ASN1 context. The cardos_have_verifyrc_package function scans the ASN1 buffer for 2 tags, where remaining length is wrongly caculated due to moved starting pointer. This leads to possible heap-based buffer oob read. In cases where ASAN is enabled while compiling this causes a crash. Further info leak or more damage is possible.",
+        "URL": "https://github.com/OpenSC/OpenSC/pull/2787",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "81944d1529202bd28359bede57c0a15deb65ba8a",
+        "inducing_commit_hash_pyszz": [
+            "93cc9bef1a8a498c469f69d83148476b085a67ed"
+        ],
+        "inducing_commit_hash_pd": [
+            "93cc9bef1a8a498c469f69d83148476b085a67ed"
+        ],
+        "matched": [
+            "93cc9bef1a8a498c469f69d83148476b085a67ed"
+        ]
+    }
+]
