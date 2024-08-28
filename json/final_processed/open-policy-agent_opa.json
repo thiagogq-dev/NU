@@ -1,0 +1,86 @@
+[
+    {
+        "repo_name": "open-policy-agent/opa",
+        "CVE_ID": "CVE-2022-23628",
+        "Problem_Type": "CWE-682",
+        "Description": "OPA is an open source, general-purpose policy engine. Under certain conditions, pretty-printing an abstract syntax tree (AST) that contains synthetic nodes could change the logic of some statements by reordering array literals. Example of policies impacted are those that parse and compare web paths. **All of these** three conditions have to be met to create an adverse effect: 1. An AST of Rego had to be **created programmatically** such that it ends up containing terms without a location (such as wildcard variables). 2. The AST had to be **pretty-printed** using the `github.com/open-policy-agent/opa/format` package. 3. The result of the pretty-printing had to be **parsed and evaluated again** via an OPA instance using the bundles, or the Golang packages. If any of these three conditions are not met, you are not affected. Notably, all three would be true if using **optimized bundles**, i.e. bundles created with `opa build -O=1` or higher. In that case, the optimizer would fulfil condition (1.), the result of that would be pretty-printed when writing the bundle to disk, fulfilling (2.). When the bundle was then used, we'd satisfy (3.). As a workaround users may disable optimization when creating bundles.",
+        "URL": "https://github.com/open-policy-agent/opa/pull/3851",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b5e7139a1140bcc6a3b0f38175d8dc2520797558",
+        "inducing_commit_hash_pyszz": [
+            "bff539985626b2a4b8a76eebcb884a5968f0d484"
+        ],
+        "inducing_commit_hash_pd": [
+            "af029e01504fe1486f8482826e7f91dc683566cb",
+            "bff539985626b2a4b8a76eebcb884a5968f0d484"
+        ],
+        "matched": [
+            "bff539985626b2a4b8a76eebcb884a5968f0d484"
+        ]
+    },
+    {
+        "repo_name": "open-policy-agent/opa",
+        "CVE_ID": "CVE-2022-36085",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine. The Rego compiler provides a (deprecated) `WithUnsafeBuiltins` function, which allows users to provide a set of built-in functions that should be deemed unsafe \u00c2\u2014 and as such rejected \u00c2\u2014 by the compiler if encountered in the policy compilation stage. A bypass of this protection has been found, where the use of the `with` keyword to mock such a built-in function (a feature introduced in OPA v0.40.0), isn\u00c2\u2019t taken into account by `WithUnsafeBuiltins`. Multiple conditions need to be met in order to create an adverse effect. Version 0.43.1 contains a patch for this issue. As a workaround, avoid using the `WithUnsafeBuiltins` function and use the `capabilities` feature instead.",
+        "URL": "https://github.com/open-policy-agent/opa/pull/4540",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8f4986946cae047c532687efe8223f090527b39f",
+        "inducing_commit_hash_pyszz": [
+            "8387989bb6ce0d3e80343dc3ac52cc4a7991a9bc"
+        ],
+        "inducing_commit_hash_pd": [
+            "28390a2342ae6b9d5ac824d22f878e3e7da16843",
+            "bcf6bb8f49bec27912cedf8f2556fc35998f6da7",
+            "33a32b40a49441e497a19fbb43a53d0bf3928016",
+            "adf3ffbc4b13c1f93cfc78a100e404f67065941d",
+            "561cb1a91edb3dead1c3af7930b9a4ea10b09f9f",
+            "d98015270e5ba16de382f5d20df66794dad88b79",
+            "7ca542adb5eea5f5ef918d1f0de10665072500b8",
+            "5459e2f4f14de3aa015e53d3f7cd83138c1cec5c",
+            "44ffb08073f3b1e2347668e399f0b4f77afaef67",
+            "ff528d7015613d4997074134a1410ab17b5fcf93",
+            "7e99a0e195daa5d680289ae1a7493f15fe1fdf87",
+            "a2e71c9d10fb6eb748bef7e3056fdb8182c4e7cc",
+            "8387989bb6ce0d3e80343dc3ac52cc4a7991a9bc",
+            "45ea3ce57fee4a7c5bf4367b779c02e7c4d73a09",
+            "85ebd9ea12a8ae784d5f77bc984255cb49294472",
+            "ceed94d4725e7b1f7aef704d5ab7c4d2eb8cdf55",
+            "7dce041cf68a812a8533cb15b82cd6b691fef3f0",
+            "8746c723426324dd9a1a5a4cec2d229fa265eb01",
+            "74d67c5de1cd930e39365f7bf7fb9a63892f7552",
+            "f0fb8c82d1cacc8694e9cee4fe3a96a90642593e",
+            "02b6214d458b7409892845c2eb1003ead63b5a57",
+            "db030e0b143915d5c79ebfddd80054b5b726194e",
+            "863e46ea8a5766c94bbb9c6daa8abe7de9da24c9",
+            "5f2b72ef81c67c8c11eeeb0d5c6b5d107415459c",
+            "5233b5bf8a32e77fd376f5686d9415858c6c72f8",
+            "986d82fc4d3bf15c89a3e088206d6b9fcc1ed2c7",
+            "b9099f6ef583b5ae76ef931a818764ff0c1081a4",
+            "1bea0a33a82688c0ebf5deb6f1e1771e4d2999aa"
+        ],
+        "matched": [
+            "8387989bb6ce0d3e80343dc3ac52cc4a7991a9bc"
+        ]
+    },
+    {
+        "repo_name": "open-policy-agent/opa",
+        "CVE_ID": "CVE-2022-36085",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Open Policy Agent (OPA) is an open source, general-purpose policy engine. The Rego compiler provides a (deprecated) `WithUnsafeBuiltins` function, which allows users to provide a set of built-in functions that should be deemed unsafe \u00c2\u2014 and as such rejected \u00c2\u2014 by the compiler if encountered in the policy compilation stage. A bypass of this protection has been found, where the use of the `with` keyword to mock such a built-in function (a feature introduced in OPA v0.40.0), isn\u00c2\u2019t taken into account by `WithUnsafeBuiltins`. Multiple conditions need to be met in order to create an adverse effect. Version 0.43.1 contains a patch for this issue. As a workaround, avoid using the `WithUnsafeBuiltins` function and use the `capabilities` feature instead.",
+        "URL": "https://github.com/open-policy-agent/opa/pull/4616",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7e502930df7d61a3a5bc37eadaf672cbd15d69e2",
+        "inducing_commit_hash_pyszz": [
+            "8f4986946cae047c532687efe8223f090527b39f"
+        ],
+        "inducing_commit_hash_pd": [
+            "986d82fc4d3bf15c89a3e088206d6b9fcc1ed2c7",
+            "a2e71c9d10fb6eb748bef7e3056fdb8182c4e7cc",
+            "8f4986946cae047c532687efe8223f090527b39f"
+        ],
+        "matched": [
+            "8f4986946cae047c532687efe8223f090527b39f"
+        ]
+    }
+]
