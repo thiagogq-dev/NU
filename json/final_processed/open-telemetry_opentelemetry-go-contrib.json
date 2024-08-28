@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "open-telemetry/opentelemetry-go-contrib",
+        "CVE_ID": "CVE-2023-47108",
+        "Problem_Type": "CWE-770",
+        "Description": "OpenTelemetry-Go Contrib is a collection of third-party packages for OpenTelemetry-Go. Prior to version 0.46.0, the grpc Unary Server Interceptor out of the box adds labels `net.peer.sock.addr` and `net.peer.sock.port` that have unbound cardinality. It leads to the server's potential memory exhaustion when many malicious requests are sent. An attacker can easily flood the peer address and port for requests. Version 0.46.0 contains a fix for this issue. As a workaround to stop being affected, a view removing the attributes can be used. The other possibility is to disable grpc metrics instrumentation by passing `otelgrpc.WithMeterProvider` option with `noop.NewMeterProvider`.",
+        "URL": "https://github.com/open-telemetry/opentelemetry-go-contrib/pull/4322",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "b44dfc9092b157625a5815cb437583cee663333b",
+        "inducing_commit_hash_pyszz": [
+            "2a5fe23f9705a1fa94781ccbef055c3746f7ae3d"
+        ],
+        "inducing_commit_hash_pd": [
+            "d86d6c8c33479ab3329ecba84ba9f0e5007ae9c1",
+            "7514474df7015e6e14e1124702c2c70bba36dab4",
+            "839e505a67ca9fb5a3089cd1af5943061fcaf1ef",
+            "2a5fe23f9705a1fa94781ccbef055c3746f7ae3d",
+            "4c540e0b5d8781ce20dc6d7acb9926c61df7daec",
+            "87806b141a5b708b2b0cd207fe598aedc701ab24",
+            "0c4e5a9b475cd22078b5166b6e0808deed94be34"
+        ],
+        "matched": [
+            "2a5fe23f9705a1fa94781ccbef055c3746f7ae3d"
+        ]
+    }
+]
