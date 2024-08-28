@@ -1,0 +1,57 @@
+[
+    {
+        "repo_name": "openmrs/openmrs-module-htmlformentry",
+        "CVE_ID": "CVE-2018-16521",
+        "Problem_Type": "CWE-611",
+        "Description": "An XML External Entity (XXE) vulnerability exists in HTML Form Entry 3.7.0, as distributed in OpenMRS Reference Application 2.8.0.",
+        "URL": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/138",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "830db76f5da1b147ac5816ea66d8a7f14d9058f8",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "openmrs/openmrs-module-htmlformentry",
+        "CVE_ID": "CVE-2018-16521",
+        "Problem_Type": "CWE-611",
+        "Description": "An XML External Entity (XXE) vulnerability exists in HTML Form Entry 3.7.0, as distributed in OpenMRS Reference Application 2.8.0.",
+        "URL": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/137",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "46c9bcf76e44aef37cfc1403238affd0444083c3"
+        ],
+        "inducing_commit_hash_pd": [
+            "db50553c9ac25b0c86a63a150a42f6d2b516f4cf",
+            "46c9bcf76e44aef37cfc1403238affd0444083c3"
+        ],
+        "matched": [
+            "46c9bcf76e44aef37cfc1403238affd0444083c3"
+        ]
+    },
+    {
+        "repo_name": "openmrs/openmrs-module-htmlformentry",
+        "CVE_ID": "CVE-2020-24621",
+        "Problem_Type": "CWE-22",
+        "Description": "A remote code execution (RCE) vulnerability was discovered in the htmlformentry (aka HTML Form Entry) module before 3.11.0 for OpenMRS. By leveraging path traversal, a malicious Velocity Template Language file could be written to a directory. This file could then be accessed and executed.",
+        "URL": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/178",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4425e263f01bb21c77ac12f215d84c2b789c850b",
+        "inducing_commit_hash_pyszz": [
+            "7ace15dd484b604f1510a5c4ee13f9f70c65b450"
+        ],
+        "inducing_commit_hash_pd": [
+            "0d417dda6bdd3966a6b38d806699edfcfca7a5b2",
+            "1d7c37d7a50ea6ce86076a7f5e09b3c93af5a7f9",
+            "444e0c599fd896fd24ccc71946b35ca24a6ca1f2",
+            "5cc1170c407417007740e8d939df080fddc767fd",
+            "7ace15dd484b604f1510a5c4ee13f9f70c65b450",
+            "a5db227baa85606a665e54a97478685db90d01f2",
+            "6a46bb7e1b7a4f5a65cb5c01ddb54f7b568dbcdb"
+        ],
+        "matched": [
+            "7ace15dd484b604f1510a5c4ee13f9f70c65b450"
+        ]
+    }
+]
