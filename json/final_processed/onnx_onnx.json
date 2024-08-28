@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "onnx/onnx",
+        "CVE_ID": "CVE-2022-25882",
+        "Problem_Type": "CWE-22",
+        "Description": "Versions of the package onnx before 1.13.0 are vulnerable to Directory Traversal as the external_data field of the tensor proto can have a path to the file which is outside the model current directory or user-provided directory, for example \"../../../etc/passwd\"",
+        "URL": "https://github.com/onnx/onnx/pull/4400",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f369b0e859024095d721f1d1612da5a8fa38988d",
+        "inducing_commit_hash_pyszz": [
+            "1cc5e12f95c168146a912e3a6837d51f5d0f693b"
+        ],
+        "inducing_commit_hash_pd": [
+            "237926eab41de21fb9addc4b03b751fd6a3343ec",
+            "1cc5e12f95c168146a912e3a6837d51f5d0f693b",
+            "522b000546e5ed986fb2724ab2099d5a3219c586"
+        ],
+        "matched": [
+            "1cc5e12f95c168146a912e3a6837d51f5d0f693b"
+        ]
+    }
+]
