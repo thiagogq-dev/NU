@@ -154,5 +154,113 @@
         "inducing_commit_hash_pyszz": "-",
         "inducing_commit_hash_pd": [],
         "matched": []
+    },
+    {
+        "repo_name": "libuv/libuv",
+        "CVE_ID": "CVE-2014-9748",
+        "Problem_Type": "CWE-362",
+        "Description": "The uv_rwlock_t fallback implementation for Windows XP and Server 2003 in libuv before 1.7.4 does not properly prevent threads from releasing the locks of other threads, which allows attackers to cause a denial of service (deadlock) or possibly have unspecified other impact by leveraging a race condition.",
+        "URL": "https://github.com/libuv/libuv/pull/516",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0fba3f3c5445dd09b0ea46f30c77e903ead861e5",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "LuaJIT/LuaJIT",
+        "CVE_ID": "CVE-2019-19391",
+        "Problem_Type": "CWE-843",
+        "Description": "In LuaJIT through 2.0.5, as used in Moonjit before 2.1.2 and other products, debug.getinfo has a type confusion issue that leads to arbitrary memory write or read operations, because certain cases involving valid stack levels and > options are mishandled. NOTE: The LuaJIT project owner states that the debug libary is unsafe by definition and that this is not a vulnerability. When LuaJIT was originally developed, the expectation was that the entire debug library had no security guarantees and thus it made no sense to assign CVEs. However, not all users of later LuaJIT derivatives share this perspective",
+        "URL": "https://github.com/LuaJIT/LuaJIT/pull/526",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0968b720b7ba133d723270c1fa8ba4ea3c09e813",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "madler/zlib",
+        "CVE_ID": "CVE-2023-45853",
+        "Problem_Type": "CWE-190",
+        "Description": "MiniZip in zlib through 1.3 has an integer overflow and resultant heap-based buffer overflow in zipOpenNewFileInZip4_64 via a long filename, comment, or extra field. NOTE: MiniZip is not a supported part of the zlib product. NOTE: pyminizip through 0.2.6 is also vulnerable because it bundles an affected zlib version, and exposes the applicable MiniZip code through its compress API.",
+        "URL": "https://github.com/madler/zlib/pull/843",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "1fba755cb2ca5a3761096d2e340c455d5f3f60be",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "matrix-org/matrix-spec-proposals",
+        "CVE_ID": "CVE-2022-39236",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Matrix Javascript SDK is the Matrix Client-Server SDK for JavaScript. Starting with version 17.1.0-rc.1, improperly formed beacon events can disrupt or impede the matrix-js-sdk from functioning properly, potentially impacting the consumer's ability to process data safely. Note that the matrix-js-sdk can appear to be operating normally but be excluding or corrupting runtime data presented to the consumer. This is patched in matrix-js-sdk v19.7.0. Redacting applicable events, waiting for the sync processor to store data, and restarting the client are possible workarounds. Alternatively, redacting the applicable events and clearing all storage will fix the further perceived issues. Downgrading to an unaffected version, noting that such a version may be subject to other vulnerabilities, will additionally resolve the issue.",
+        "URL": "https://github.com/matrix-org/matrix-spec-proposals/pull/3488",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9b780e0e6073a16d642094ccf0fd86aa6d31bd4e",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "mscdex/dicer",
+        "CVE_ID": "CVE-2022-24434",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "This affects all versions of package dicer. A malicious attacker can send a modified form to server, and crash the nodejs service. An attacker could sent the payload again and again so that the service continuously crashes.",
+        "URL": "https://github.com/mscdex/dicer/pull/22/commits/b7fca2e93e8e9d4439d8acc5c02f5e54a0112dac",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "204800e5885434cdd402ae9e562c3d56d1054b62",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "mscdex/dicer",
+        "CVE_ID": "CVE-2022-24434",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "This affects all versions of package dicer. A malicious attacker can send a modified form to server, and crash the nodejs service. An attacker could sent the payload again and again so that the service continuously crashes.",
+        "URL": "https://github.com/mscdex/dicer/pull/22",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "204800e5885434cdd402ae9e562c3d56d1054b62",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "nodejs/node",
+        "CVE_ID": "CVE-2022-29244",
+        "Problem_Type": "CWE-200",
+        "Description": "npm pack ignores root-level .gitignore and .npmignore file exclusion directives when run in a workspace or with a workspace flag (ie. `--workspaces`, `--workspace=<name>`). Anyone who has run `npm pack` or `npm publish` inside a workspace, as of v7.9.0 and v7.13.0 respectively, may be affected and have published files into the npm registry they did not intend to include. Users should upgrade to the latest, patched version of npm v8.11.0, run: npm i -g npm@latest . Node.js versions v16.15.1, v17.19.1, and v18.3.0 include the patched v8.11.0 version of npm.",
+        "URL": "https://github.com/nodejs/node/pull/43210",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "885bbe42de3fc9c1c4a8ee627579238c80b00cf1",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "nothings/stb",
+        "CVE_ID": "CVE-2023-43898",
+        "Problem_Type": "CWE-476",
+        "Description": "Nothings stb 2.28 was discovered to contain a Null Pointer Dereference via the function stbi__convert_format. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted pic file.",
+        "URL": "https://github.com/nothings/stb/pull/1454",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "af4456ba68aa39ba2b41a01ad06de3b4b8ce2e87",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "omniauth/omniauth",
+        "CVE_ID": "CVE-2015-9284",
+        "Problem_Type": "CWE-352",
+        "Description": "The request phase of the OmniAuth Ruby gem (1.9.1 and earlier) is vulnerable to Cross-Site Request Forgery when used as part of the Ruby on Rails framework, allowing accounts to be connected without user intent, user interaction, or feedback to the user. This permits a secondary account to be able to sign into the web application as the primary account.",
+        "URL": "https://github.com/omniauth/omniauth/pull/809",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e919007800d14e8b7e6c73f645cc1f8d5a730676",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
     }
 ]
