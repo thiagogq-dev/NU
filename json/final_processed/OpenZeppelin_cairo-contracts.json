@@ -1,0 +1,36 @@
+[
+    {
+        "repo_name": "OpenZeppelin/cairo-contracts",
+        "CVE_ID": "CVE-2022-31153",
+        "Problem_Type": "CWE-863",
+        "Description": "OpenZeppelin Contracts for Cairo is a library for contract development written in Cairo for StarkNet, a decentralized ZK Rollup. Version 0.2.0 is vulnerable to an error that renders account contracts unusable on live networks. This issue affects all accounts (vanilla and ethereum flavors) in the v0.2.0 release of OpenZeppelin Contracts for Cairo, which are not whitelisted on StarkNet mainnet. Only goerli deployments of v0.2.0 accounts are affected. This faulty behavior is not observed in StarkNet's testing framework. This bug has been patched in v0.2.1.",
+        "URL": "https://github.com/OpenZeppelin/cairo-contracts/pull/387",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c2007df15001a411740376efb1b2b78df98e59d8",
+        "inducing_commit_hash_pyszz": [
+            "ccb95c520eda207d3f271d667afa9063f41eb85c"
+        ],
+        "inducing_commit_hash_pd": [
+            "60f52a3db6c8cd0b3b0282d3eec4af742b7fa99e",
+            "2cd60279c3332285d47edf9ee3888b71257acdc9"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "OpenZeppelin/cairo-contracts",
+        "CVE_ID": "CVE-2023-23940",
+        "Problem_Type": "CWE-347",
+        "Description": "OpenZeppelin Contracts for Cairo is a library for secure smart contract development written in Cairo for StarkNet, a decentralized ZK Rollup. `is_valid_eth_signature` is missing a call to `finalize_keccak` after calling `verify_eth_signature`. As a result, any contract using `is_valid_eth_signature` from the account library (such as the `EthAccount` preset) is vulnerable to a malicious sequencer. Specifically, the malicious sequencer would be able to bypass signature validation to impersonate an instance of these accounts. The issue has been patched in 0.6.1.\n",
+        "URL": "https://github.com/OpenZeppelin/cairo-contracts/pull/542/commits/6d4cb750478fca2fd916f73297632f899aca9299",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8d5c0b4199a178f1d26d46c8d34de5edd97a5940",
+        "inducing_commit_hash_pyszz": [
+            "60f52a3db6c8cd0b3b0282d3eec4af742b7fa99e"
+        ],
+        "inducing_commit_hash_pd": [
+            "2cd60279c3332285d47edf9ee3888b71257acdc9",
+            "a9894b4e5cd59efb63757e846c603a5c64b6b44a"
+        ],
+        "matched": []
+    }
+]
