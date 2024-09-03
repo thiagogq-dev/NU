@@ -1,0 +1,42 @@
+[
+    {
+        "repo_name": "Shopify/hydrogen",
+        "CVE_ID": "CVE-2022-29230",
+        "Problem_Type": "CWE-79",
+        "Description": "Hydrogen is a React-based framework for building dynamic, Shopify-powered custom storefronts. There is a potential Cross-Site Scripting (XSS) vulnerability where an arbitrary user is able to execute scripts on pages that are built with Hydrogen. This affects all versions of Hydrogen starting from version 0.10.0 to 0.18.0. This vulnerability is exploitable in applications whose hydrating data is user controlled. All Hydrogen users should upgrade their project to version 0.19.0. There is no current workaround, and users should update as soon as possible. Additionally, the Content Security Policy is not an effective mitigation for this vulnerability.",
+        "URL": "https://github.com/Shopify/hydrogen/pull/1272",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "291115da68625c5f992b7bc6e10480d4ec54c246",
+        "inducing_commit_hash_pyszz": [
+            "6725b132e32e473310629accd57ce621b8bf1370"
+        ],
+        "inducing_commit_hash_pd": [
+            "a21515221d1815163b5a3b7ab970e37a1ee1a715",
+            "076bab7d31ffcd918c4a3b0dd7be03e00d2dd913",
+            "6725b132e32e473310629accd57ce621b8bf1370",
+            "dbf16d0f0ad3ae4d39ad0b073bc7c71c85ad7935",
+            "9e870986e646da3e1f9d8ec978f6b68b8b1529d0",
+            "999425a11340e0460aa846fb7862c0e48df47d26",
+            "804062eb4395902bc67530f8dd069cd0d76be2c1",
+            "b7a8ecf6a687e72de7745a78c61c1a78a9a52629",
+            "a18891520cfd73d581d8ff802922f2064206a039",
+            "92f880072aedbf521f3904cf60175c9279f3e77d",
+            "32f64c68607d187147d2feb75ca4f0848fb2d3ca",
+            "cc9d84e92c1357e9632594deb8745b6bf0ec5cb4",
+            "b38506faaf19c6ae84d1977017167c40cb9d8fc4",
+            "d053978dc49a12651a5c7c15efd543884b9f03db",
+            "d9f06c04e1051419882aee63da6c807f48943de7",
+            "6b408452873cbc866daa6a1f70f193b9cf68b1f8",
+            "2d4c5d9340c5a2458c682aa3f9b12352dacdd759",
+            "f29e178ada608ef3797c5049fd498afeed272152",
+            "ed9782bc43921d02a2fdbc951c1df1d200812f2d",
+            "1a8f79ffb12d4712970a6794e5a5478a91bd1314",
+            "f6897dca635172f45e82ecd9b894c17624c35610",
+            "f39d650d2b49c689f8c192fcfaaf957e42ff9c6a",
+            "1015f17028beb2ab00e381a61e9f4132e74b17ad"
+        ],
+        "matched": [
+            "6725b132e32e473310629accd57ce621b8bf1370"
+        ]
+    }
+]
