@@ -1,0 +1,46 @@
+[
+    {
+        "repo_name": "SerenityOS/serenity",
+        "CVE_ID": "CVE-2021-31272",
+        "Problem_Type": "CWE-22",
+        "Description": "SerenityOS before commit 3844e8569689dd476064a0759d704bc64fb3ca2c contains a directory traversal vulnerability in tar/unzip that may lead to command execution or privilege escalation.",
+        "URL": "https://github.com/SerenityOS/serenity/pull/5713/commits/3844e8569689dd476064a0759d704bc64fb3ca2c",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "bf0b114bdedcc46a6a90e2845d813f2aedd510e2"
+        ],
+        "inducing_commit_hash_pd": [
+            "7ca3d413f7ec0e0ef83b20c2473d73c747a9b330",
+            "68c3f9aa5a69f6d93bf1ec219b9e2f10ecb75fce",
+            "dfa2c98497eda6b73b9c9acb04af4f8ce8824049",
+            "5f51d851840d889520c21cc4359d6db59d83ff06",
+            "086969277e74d8ba065bf8145d3aeb0dec0bfee5",
+            "feb48cbc7cac31d0aeda8cb0dd062e10f175e45d",
+            "6cb640eebaf40acbd505bcfdb0dee8e99fb77223",
+            "dab6dbe893eca91fe659e0121edeac153b1684d2",
+            "859ac200b711e67df7bb7054638b4507a618445c",
+            "c41f13f10b8a78c86aa193271dd702e2d9d043ef",
+            "01a14ac7af10ef9d8e2f6e7d0f45720a31ca8bf5",
+            "11eee67b8510767d76fb4793e3b62ac1793dd723",
+            "79745507a93c8788e4c8ee863368b95b7e993517",
+            "d14c2a358352ec40fb7c8236f21df8419876a5e6",
+            "3dec9aa54e3395309c23f3069e9d3531a4bf9349",
+            "5d180d1f996ead27f9c5cb3db7f91e293de34d9d",
+            "6bc16ad62eb4d4cd6de52021a1a8902c3fd62cd1",
+            "f232133f65aa50269ca1105421f7cba04496f8c2",
+            "83b95c135e158d4a5eb5a6d5033a3c73587505fc",
+            "0a3cc10bb6f1ff39182ee17cc3f6466efa9d629a",
+            "0a2d520b1537c720d4c8f6e8fc42aa9d351800bc",
+            "b91df26d4a14c2721d1920e76552012864c97790",
+            "d61c23569e80048acc0294b927a4135e2da6dd81",
+            "fe615e601a95033c160b464728d8a0c195739f72",
+            "d234e6b801992875c892222c5c1725f151eb3f12",
+            "89a89207644b4cd414c597ad2e5ef82127580fca",
+            "bf82c4b81b9ea5121015f373bba26ea8ee6ac0f5",
+            "2a840a538c5a8c2e8877956255b49e931a4f87a8",
+            "7a2a0c10521077f746b855c83297e401af3ded83"
+        ],
+        "matched": []
+    }
+]
