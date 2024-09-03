@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "quay/clair",
+        "CVE_ID": "CVE-2021-3762",
+        "Problem_Type": "CWE-22",
+        "Description": "A directory traversal vulnerability was found in the ClairCore engine of Clair. An attacker can exploit this by supplying a crafted container image which, when scanned by Clair, allows for arbitrary file write on the filesystem, potentially allowing for remote code execution.",
+        "URL": "https://github.com/quay/clair/pull/1380",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7ee97e506372454963c81a3c5c045ce487056d87",
+        "inducing_commit_hash_pyszz": [
+            "90f2909ed8d29b90dad205f9ad92bbbf9660f88c"
+        ],
+        "inducing_commit_hash_pd": [
+            "90f2909ed8d29b90dad205f9ad92bbbf9660f88c"
+        ],
+        "matched": [
+            "90f2909ed8d29b90dad205f9ad92bbbf9660f88c"
+        ]
+    },
+    {
+        "repo_name": "quay/clair",
+        "CVE_ID": "CVE-2021-3762",
+        "Problem_Type": "CWE-22",
+        "Description": "A directory traversal vulnerability was found in the ClairCore engine of Clair. An attacker can exploit this by supplying a crafted container image which, when scanned by Clair, allows for arbitrary file write on the filesystem, potentially allowing for remote code execution.",
+        "URL": "https://github.com/quay/clair/pull/1379",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "63b5b3d97f50fc1c22eb4be55e9cfc2cdb7ed86b",
+        "inducing_commit_hash_pyszz": [
+            "f4d8255c3a7db8b7e59066bc13ff25d39be938ae"
+        ],
+        "inducing_commit_hash_pd": [
+            "f4d8255c3a7db8b7e59066bc13ff25d39be938ae"
+        ],
+        "matched": [
+            "f4d8255c3a7db8b7e59066bc13ff25d39be938ae"
+        ]
+    }
+]
