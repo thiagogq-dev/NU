@@ -1,0 +1,47 @@
+[
+    {
+        "repo_name": "scullyio/scully",
+        "CVE_ID": "CVE-2020-28470",
+        "Problem_Type": "CWE-79",
+        "Description": "This affects the package @scullyio/scully before 1.0.9. The transfer state is serialised with the JSON.stringify() function and then written into the HTML page.",
+        "URL": "https://github.com/scullyio/scully/pull/1182",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "64581f147698aa6ec8437a79a23815f0cdf9fff3",
+        "inducing_commit_hash_pyszz": [
+            "8f91e507096409c956f5edff9ed42960af739928"
+        ],
+        "inducing_commit_hash_pd": [
+            "1215955dd20c032c34592b36a6341381efbe0a3b",
+            "0009e0401ae3f88efcc6292127d0a5a13dbde2e0",
+            "f80e78241773d91d3c53ede8b8af6f418257593a",
+            "85770a3912b5b8505d4e348e634b53a37b9d4851",
+            "b62d08488000a485791a6b98beee5166ed8237e8",
+            "589ca4fc15bcb728b2760d8e9afa25310b7a3869",
+            "a106c7969a403fd612949b645c412b3530a498f3",
+            "a51456c9834f72857ac4ebda227ff18eb64d93b3",
+            "1a05af8f1b13e6e913f8b0a89b36d2c7a82011fb",
+            "94e275c96328a824671350b0830f3a8a9234f812",
+            "70efac5c8685dd5e56fdbf918b3493b85dac04b7",
+            "b8a7ee0233f906c86c0d2045297f748b8e224abd",
+            "f4bd856ebad609f5f7517e4f7287c72505fbe85f",
+            "23c8fcf740b15c8cb420c5dc1bc2ac7339edea83",
+            "c89076f8eb17bd2fe44b060099b3f5d686d5226d",
+            "99ae9f8648cf444fe177a5614f5d308b34e79ecc",
+            "1c8afa24baf3bbddcc3a27dffcec0790e353422f",
+            "eba6fba6a5df182137fdb7b434893162bc962dc3",
+            "9411ec606536440e445a8dca70a5f135eef05ee0",
+            "012230e0c55d4ad5d3fa25d2f4df4c6f57201490",
+            "4367831b2c47c5095495b05798c154ffd80a08fc",
+            "8f91e507096409c956f5edff9ed42960af739928",
+            "f856a0adda3bcdd482d34f0e117975d735e07048",
+            "84153557ec1d331d8a2cfde6a6330f45eb09c548",
+            "417bd2b6034ffd8f26d7039a7f46ffefd818bc0c",
+            "308d4231dd9e385d7b83a93cf295a0ab75d67026",
+            "db16d15569a364feb6b85ed6025377e180d1da50",
+            "fc4f5c1a82e8f617fcbd24fc5fbd0ea452a587f9"
+        ],
+        "matched": [
+            "8f91e507096409c956f5edff9ed42960af739928"
+        ]
+    }
+]
