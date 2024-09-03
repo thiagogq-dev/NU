@@ -1,0 +1,74 @@
+[
+    {
+        "repo_name": "snipe/snipe-it",
+        "CVE_ID": "CVE-2016-10744",
+        "Problem_Type": "CWE-79",
+        "Description": "In Select2 through 4.0.5, as used in Snipe-IT and other products, rich selectlists allow XSS. This affects use cases with Ajax remote data loading when HTML templates are used to display listbox data.",
+        "URL": "https://github.com/snipe/snipe-it/pull/6831/commits/5848d9a10c7d62c73ff6a3858edfae96a429402a",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "dee92cfc6c016986b341c57ed06f3d65e9d18d43",
+        "inducing_commit_hash_pyszz": [
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f"
+        ],
+        "inducing_commit_hash_pd": [
+            "58b1ac5f0f00c9a79cb8d206112a6255ced41282",
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f",
+            "c8bff3ef38721f582aa23627751be0d41513456b",
+            "fd0165b4b846cf7caa3381d2d6913fe5d6bf83dc",
+            "82690e1fd7538c7578d6f06204d21aca9f34fb81",
+            "f16ce09a7acc0e42ec0338b236fb55403e0f384a",
+            "612f23f6e0a77334a3f70ad2d2f01354e0a5fde3"
+        ],
+        "matched": [
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f"
+        ]
+    },
+    {
+        "repo_name": "snipe/snipe-it",
+        "CVE_ID": "CVE-2016-10744",
+        "Problem_Type": "CWE-79",
+        "Description": "In Select2 through 4.0.5, as used in Snipe-IT and other products, rich selectlists allow XSS. This affects use cases with Ajax remote data loading when HTML templates are used to display listbox data.",
+        "URL": "https://github.com/snipe/snipe-it/pull/6831",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "dee92cfc6c016986b341c57ed06f3d65e9d18d43",
+        "inducing_commit_hash_pyszz": [
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f"
+        ],
+        "inducing_commit_hash_pd": [
+            "58b1ac5f0f00c9a79cb8d206112a6255ced41282",
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f",
+            "c8bff3ef38721f582aa23627751be0d41513456b",
+            "fd0165b4b846cf7caa3381d2d6913fe5d6bf83dc",
+            "82690e1fd7538c7578d6f06204d21aca9f34fb81",
+            "f16ce09a7acc0e42ec0338b236fb55403e0f384a",
+            "612f23f6e0a77334a3f70ad2d2f01354e0a5fde3"
+        ],
+        "matched": [
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f"
+        ]
+    },
+    {
+        "repo_name": "snipe/snipe-it",
+        "CVE_ID": "CVE-2019-10118",
+        "Problem_Type": "CWE-79",
+        "Description": "Snipe-IT before 4.6.14 has XSS, as demonstrated by log_meta values and the user's last name in the API.",
+        "URL": "https://github.com/snipe/snipe-it/pull/6831",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "dee92cfc6c016986b341c57ed06f3d65e9d18d43",
+        "inducing_commit_hash_pyszz": [
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f"
+        ],
+        "inducing_commit_hash_pd": [
+            "58b1ac5f0f00c9a79cb8d206112a6255ced41282",
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f",
+            "c8bff3ef38721f582aa23627751be0d41513456b",
+            "fd0165b4b846cf7caa3381d2d6913fe5d6bf83dc",
+            "82690e1fd7538c7578d6f06204d21aca9f34fb81",
+            "f16ce09a7acc0e42ec0338b236fb55403e0f384a",
+            "612f23f6e0a77334a3f70ad2d2f01354e0a5fde3"
+        ],
+        "matched": [
+            "3d4a5a806654148dff93f102b36d7f2d0b1f048f"
+        ]
+    }
+]
