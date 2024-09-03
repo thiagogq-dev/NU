@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "sigstore/gitsign",
+        "CVE_ID": "CVE-2023-47122",
+        "Problem_Type": "CWE-347",
+        "Description": "Gitsign is software for keyless Git signing using Sigstore. In versions of gitsign starting with 0.6.0 and prior to 0.8.0, Rekor public keys were fetched via the Rekor API, instead of through the local TUF client. If the upstream Rekor server happened to be compromised, gitsign clients could potentially be tricked into trusting incorrect signatures. There is no known compromise the default public good instance (`rekor.sigstore.dev`) - anyone using this instance is unaffected. This issue was fixed in v0.8.0. No known workarounds are available.",
+        "URL": "https://github.com/sigstore/gitsign/pull/399",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "cd66ccb03c86a3600955f0c15f6bfeb75f697236",
+        "inducing_commit_hash_pyszz": [
+            "b9ab03bf3f2a28b163a05076b94da138aa932e9c"
+        ],
+        "inducing_commit_hash_pd": [
+            "262c05491554c57ee641461f315bf4023d0e93c7",
+            "c0db8830c5db7b62cfd1227d869e9685d0765f27",
+            "2e8ad3c85fdc6d50646a80882dc120cb51c4c21f",
+            "f215bd8f5a2afc340767aa9e555d16e5c2d9836f",
+            "b9ab03bf3f2a28b163a05076b94da138aa932e9c"
+        ],
+        "matched": [
+            "b9ab03bf3f2a28b163a05076b94da138aa932e9c"
+        ]
+    }
+]
