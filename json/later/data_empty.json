@@ -3772,18 +3772,6 @@
         "CVE_ID": "CVE-2022-34038",
         "Problem_Type": "CWE-787",
         "Description": "Etcd v3.5.4 allows remote attackers to cause a denial of service via function PageWriter.write in pagewriter.go. NOTE: the vendor's position is that this is not a vulnerability.",
-        "URL": "https://github.com/etcd-io/etcd/pull/14022",
-        "Tag": "['Patch']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "etcd-io/etcd",
-        "CVE_ID": "CVE-2022-34038",
-        "Problem_Type": "CWE-787",
-        "Description": "Etcd v3.5.4 allows remote attackers to cause a denial of service via function PageWriter.write in pagewriter.go. NOTE: the vendor's position is that this is not a vulnerability.",
         "URL": "https://github.com/etcd-io/etcd/pull/14452",
         "Tag": "['Patch']",
         "fix_commit_hash": "37220a97dcfb3e75a98b6c756778bc6fcaa03563",
@@ -7800,30 +7788,6 @@
         "matched": []
     },
     {
-        "repo_name": "LimeSurvey/LimeSurvey",
-        "CVE_ID": "CVE-2020-23710",
-        "Problem_Type": "CWE-79",
-        "Description": "Cross Site Scripting (XSS) vulneraiblity in LimeSurvey 4.2.5 on textbox via the Notifications & data feature.",
-        "URL": "https://github.com/LimeSurvey/LimeSurvey/pull/1441#partial-pull-merging",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "LINBIT/csync2",
-        "CVE_ID": "CVE-2019-15523",
-        "Problem_Type": "CWE-252",
-        "Description": "An issue was discovered in LINBIT csync2 through 2.0. It does not correctly check for the return value GNUTLS_E_WARNING_ALERT_RECEIVED of the gnutls_handshake() function. It neglects to call this function again, as required by the design of the API.",
-        "URL": "https://github.com/LINBIT/csync2/pull/13/commits/92742544a56bcbcd9ec99ca15f898b31797e39e2",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
         "repo_name": "linkedin/dustjs",
         "CVE_ID": "CVE-2021-4264",
         "Problem_Type": "CWE-1321",
@@ -7951,18 +7915,6 @@
         "URL": "https://github.com/maistra/istio-operator/pull/462",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "5db8548ec53e550f9f7f82c8b80728ba8f05f86c",
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "mandovinnie/Lute-Tab",
-        "CVE_ID": "CVE-2019-15783",
-        "Problem_Type": "CWE-119",
-        "Description": "Lute-Tab before 2019-08-23 has a buffer overflow in pdf_print.cc.",
-        "URL": "https://github.com/mandovinnie/Lute-Tab/pull/2",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
         "matched": []
@@ -8256,18 +8208,6 @@
         "matched": []
     },
     {
-        "repo_name": "memcached/memcached",
-        "CVE_ID": "CVE-2021-37519",
-        "Problem_Type": "CWE-787",
-        "Description": "Buffer Overflow vulnerability in authfile.c memcached 1.6.9 allows attackers to cause a denial of service via crafted authenticattion file.",
-        "URL": "https://github.com/memcached/memcached/pull/806/commits/264722ae4e248b453be00e97197dadc685b60fd0",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
         "repo_name": "mermaid-js/mermaid",
         "CVE_ID": "CVE-2021-35513",
         "Problem_Type": "CWE-79",
@@ -8335,18 +8275,6 @@
         "URL": "https://github.com/Microsoft/ChakraCore/pull/2959",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "b3aeb3048200c581ff2c7a578714146669e4cd8e",
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "microsoft/onefuzz",
-        "CVE_ID": "CVE-2021-37705",
-        "Problem_Type": "CWE-863",
-        "Description": "OneFuzz is an open source self-hosted Fuzzing-As-A-Service platform. Starting with OneFuzz 2.12.0 or greater, an incomplete authorization check allows an authenticated user from any Azure Active Directory tenant to make authorized API calls to a vulnerable OneFuzz instance. To be vulnerable, a OneFuzz deployment must be both version 2.12.0 or greater and deployed with the non-default --multi_tenant_domain option. This can result in read/write access to private data such as software vulnerability and crash information, security testing tools and proprietary code and symbols. Via authorized API calls, this also enables tampering with existing data and unauthorized code execution on Azure compute resources. This issue is resolved starting in release 2.31.0, via the addition of application-level check of the bearer token's `issuer` against an administrator-configured allowlist. As a workaround users can restrict access to the tenant of a deployed OneFuzz instance < 2.31.0 by redeploying in the default configuration, which omits the `--multi_tenant_domain` option.",
-        "URL": "https://github.com/microsoft/onefuzz/pull/1153",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
         "matched": []
@@ -8520,30 +8448,6 @@
         "matched": []
     },
     {
-        "repo_name": "moby/moby",
-        "CVE_ID": "CVE-2023-28840",
-        "Problem_Type": "CWE-420",
-        "Description": "Moby is an open source container framework developed by Docker Inc. that is distributed as Docker, Mirantis Container Runtime, and various other downstream projects/products. The Moby daemon component (`dockerd`), which is developed as moby/moby, is commonly referred to as *Docker*.\n\nSwarm Mode, which is compiled in and delivered by default in dockerd and is thus present in most major Moby downstreams, is a simple, built-in container orchestrator that is implemented through a combination of SwarmKit and supporting network code.\n\nThe overlay network driver is a core feature of Swarm Mode, providing isolated virtual LANs that allow communication between containers and services across the cluster. This driver is an implementation/user of VXLAN, which encapsulates link-layer (Ethernet) frames in UDP datagrams that tag the frame with a VXLAN Network ID (VNI) that identifies the originating overlay network. In addition, the overlay network driver supports an optional, off-by-default encrypted mode, which is especially useful when VXLAN packets traverses an untrusted network between nodes.\n\nEncrypted overlay networks function by encapsulating the VXLAN datagrams through the use of the IPsec Encapsulating Security Payload protocol in Transport mode. By deploying IPSec encapsulation, encrypted overlay networks gain the additional properties of source authentication through cryptographic proof, data integrity through check-summing, and confidentiality through encryption.\n\nWhen setting an endpoint up on an encrypted overlay network, Moby installs three iptables (Linux kernel firewall) rules that enforce both incoming and outgoing IPSec. These rules rely on the u32 iptables extension provided by the xt_u32 kernel module to directly filter on a VXLAN packet's VNI field, so that IPSec guarantees can be enforced on encrypted overlay networks without interfering with other overlay networks or other users of VXLAN.\n\nTwo iptables rules serve to filter incoming VXLAN datagrams with a VNI that corresponds to an encrypted network and discards unencrypted datagrams. The rules are appended to the end of the INPUT filter chain, following any rules that have been previously set by the system administrator. Administrator-set rules take precedence over the rules Moby sets to discard unencrypted VXLAN datagrams, which can potentially admit unencrypted datagrams that should have been discarded.\n\nThe injection of arbitrary Ethernet frames can enable a Denial of Service attack. A sophisticated attacker may be able to establish a UDP or TCP connection by way of the container\u00c2\u2019s outbound gateway that would otherwise be blocked by a stateful firewall, or carry out other escalations beyond simple injection by smuggling packets into the overlay network.\n\nPatches are available in Moby releases 23.0.3 and 20.10.24. As Mirantis Container Runtime's 20.10 releases are numbered differently, users of that platform should update to 20.10.16.\n\nSome workarounds are available. Close the VXLAN port (by default, UDP port 4789) to incoming traffic at the Internet boundary to prevent all VXLAN packet injection, and/or ensure that the `xt_u32` kernel module is available on all nodes of the Swarm cluster.",
-        "URL": "https://github.com/moby/moby/pull/45118",
-        "Tag": "['Issue Tracking', 'Patch']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "moby/moby",
-        "CVE_ID": "CVE-2023-28841",
-        "Problem_Type": "CWE-311",
-        "Description": "Moby is an open source container framework developed by Docker Inc. that is distributed as Docker, Mirantis Container Runtime, and various other downstream projects/products. The Moby daemon component (`dockerd`), which is developed as moby/moby is commonly referred to as *Docker*.\n\nSwarm Mode, which is compiled in and delivered by default in `dockerd` and is thus present in most major Moby downstreams, is a simple, built-in container orchestrator that is implemented through a combination of SwarmKit and supporting network code.\n\nThe `overlay` network driver is a core feature of Swarm Mode, providing isolated virtual LANs that allow communication between containers and services across the cluster. This driver is an implementation/user of VXLAN, which encapsulates link-layer (Ethernet) frames in UDP datagrams that tag the frame with the VXLAN metadata, including a VXLAN Network ID (VNI) that identifies the originating overlay network. In addition, the overlay network driver supports an optional, off-by-default encrypted mode, which is especially useful when VXLAN packets traverses an untrusted network between nodes.\n\nEncrypted overlay networks function by encapsulating the VXLAN datagrams through the use of the IPsec Encapsulating Security Payload protocol in Transport mode. By deploying IPSec encapsulation, encrypted overlay networks gain the additional properties of source authentication through cryptographic proof, data integrity through check-summing, and confidentiality through encryption.\n\nWhen setting an endpoint up on an encrypted overlay network, Moby installs three iptables (Linux kernel firewall) rules that enforce both incoming and outgoing IPSec. These rules rely on the `u32` iptables extension provided by the `xt_u32` kernel module to directly filter on a VXLAN packet's VNI field, so that IPSec guarantees can be enforced on encrypted overlay networks without interfering with other overlay networks or other users of VXLAN.\n\nAn iptables rule designates outgoing VXLAN datagrams with a VNI that corresponds to an encrypted overlay network for IPsec encapsulation.\n\nEncrypted overlay networks on affected platforms silently transmit unencrypted data. As a result, `overlay` networks may appear to be functional, passing traffic as expected, but without any of the expected confidentiality or data integrity guarantees.\n\nIt is possible for an attacker sitting in a trusted position on the network to read all of the application traffic that is moving across the overlay network, resulting in unexpected secrets or user data disclosure. Thus, because many database protocols, internal APIs, etc. are not protected by a second layer of encryption, a user may use Swarm encrypted overlay networks to provide confidentiality, which due to this vulnerability this is no longer guaranteed.\n\nPatches are available in Moby releases 23.0.3, and 20.10.24. As Mirantis Container Runtime's 20.10 releases are numbered differently, users of that platform should update to 20.10.16.\n\nSome workarounds are available. Close the VXLAN port (by default, UDP port 4789) to outgoing traffic at the Internet boundary in order to prevent unintentionally leaking unencrypted traffic over the Internet, and/or ensure that the `xt_u32` kernel module is available on all nodes of the Swarm cluster.",
-        "URL": "https://github.com/moby/moby/pull/45118",
-        "Tag": "['Issue Tracking', 'Patch']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
         "repo_name": "moderntribe/panel-builder",
         "CVE_ID": "CVE-2020-36626",
         "Problem_Type": "CWE-79",
@@ -8623,78 +8527,6 @@
         "URL": "https://github.com/mozilla/PollBot/pull/333",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "90a9e9a80eb402a65f560eb0e2412b3efdebf87d",
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "mpruett/audiofile",
-        "CVE_ID": "CVE-2017-6830",
-        "Problem_Type": "CWE-119",
-        "Description": "Heap-based buffer overflow in the alaw2linear_buf function in G711.cpp in Audio File Library (aka audiofile) 0.3.6 allows remote attackers to cause a denial of service (crash) via a crafted file.",
-        "URL": "https://github.com/mpruett/audiofile/pull/42",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "mpruett/audiofile",
-        "CVE_ID": "CVE-2017-6832",
-        "Problem_Type": "CWE-119",
-        "Description": "Heap-based buffer overflow in the decodeBlock in MSADPCM.cpp in Audio File Library (aka audiofile) 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.7 allows remote attackers to cause a denial of service (crash) via a crafted file.",
-        "URL": "https://github.com/mpruett/audiofile/pull/42",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "mpruett/audiofile",
-        "CVE_ID": "CVE-2017-6833",
-        "Problem_Type": "CWE-369",
-        "Description": "The runPull function in libaudiofile/modules/BlockCodec.cpp in Audio File Library (aka audiofile) 0.3.6 allows remote attackers to cause a denial of service (divide-by-zero error and crash) via a crafted file.",
-        "URL": "https://github.com/mpruett/audiofile/pull/42",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "mpruett/audiofile",
-        "CVE_ID": "CVE-2017-6834",
-        "Problem_Type": "CWE-119",
-        "Description": "Heap-based buffer overflow in the ulaw2linear_buf function in G711.cpp in Audio File Library (aka audiofile) 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0, 0.2.7 allows remote attackers to cause a denial of service (crash) via a crafted file.",
-        "URL": "https://github.com/mpruett/audiofile/pull/42",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "mpruett/audiofile",
-        "CVE_ID": "CVE-2017-6835",
-        "Problem_Type": "CWE-369",
-        "Description": "The reset1 function in libaudiofile/modules/BlockCodec.cpp in Audio File Library (aka audiofile) 0.3.6 allows remote attackers to cause a denial of service (divide-by-zero error and crash) via a crafted file.",
-        "URL": "https://github.com/mpruett/audiofile/pull/42",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "mpruett/audiofile",
-        "CVE_ID": "CVE-2017-6836",
-        "Problem_Type": "CWE-119",
-        "Description": "Heap-based buffer overflow in the Expand3To4Module::run function in libaudiofile/modules/SimpleModule.h in Audio File Library (aka audiofile) 0.3.6, 0.3.5, 0.3.4, 0.3.3, 0.3.2, 0.3.1, 0.3.0 allows remote attackers to cause a denial of service (crash) via a crafted file.",
-        "URL": "https://github.com/mpruett/audiofile/pull/42",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
         "matched": []
@@ -9007,30 +8839,6 @@
         "URL": "https://github.com/netplex/json-smart-v2/pull/68",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "21dad441f96863d41ad53a28c48478b9ef2ce1a7",
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "netty/netty",
-        "CVE_ID": "CVE-2016-4970",
-        "Problem_Type": "CWE-835",
-        "Description": "handler/ssl/OpenSslEngine.java in Netty 4.0.x before 4.0.37.Final and 4.1.x before 4.1.1.Final allows remote attackers to cause a denial of service (infinite loop).",
-        "URL": "https://github.com/netty/netty/pull/5364",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "neutrinolabs/xrdp",
-        "CVE_ID": "CVE-2013-1430",
-        "Problem_Type": "CWE-255",
-        "Description": "An issue was discovered in xrdp before 0.9.1. When successfully logging in using RDP into an xrdp session, the file ~/.vnc/sesman_${username}_passwd is created. Its content is the equivalent of the user's cleartext password, DES encrypted with a known key.",
-        "URL": "https://github.com/neutrinolabs/xrdp/pull/497",
-        "Tag": "['Issue Tracking', 'Patch']",
-        "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
         "matched": []
@@ -10308,18 +10116,6 @@
         "matched": []
     },
     {
-        "repo_name": "oauthjs/node-oauth2-server",
-        "CVE_ID": "CVE-2017-18924",
-        "Problem_Type": "CWE-94",
-        "Description": "oauth2-server (aka node-oauth2-server) through 3.1.1 implements OAuth 2.0 without PKCE. It does not prevent authorization code injection. This is similar to CVE-2020-7692. NOTE: the vendor states 'As RFC7636 is an extension, I think the claim in the Readme of \"RFC 6749 compliant\" is valid and not misleading and I also therefore wouldn't describe this as a \"vulnerability\" with the library per se.",
-        "URL": "https://github.com/oauthjs/node-oauth2-server/pull/452",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
         "repo_name": "octobercms/library",
         "CVE_ID": "CVE-2020-15128",
         "Problem_Type": "CWE-327",
@@ -10327,54 +10123,6 @@
         "URL": "https://github.com/octobercms/library/pull/508",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "28310d4fb336a1741b39498f4474497644a6875c",
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "ofirdagan/cross-domain-local-storage",
-        "CVE_ID": "CVE-2015-9544",
-        "Problem_Type": "CWE-20",
-        "Description": "An issue was discovered in xdLocalStorage through 2.0.5. The receiveMessage() function in xdLocalStoragePostMessageApi.js does not implement any validation of the origin of web messages. Remote attackers who can entice a user to load a malicious site can exploit this issue to impact the confidentiality and integrity of data in the local storage of the vulnerable site via malicious web messages.",
-        "URL": "https://github.com/ofirdagan/cross-domain-local-storage/pull/19",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "ofirdagan/cross-domain-local-storage",
-        "CVE_ID": "CVE-2015-9545",
-        "Problem_Type": "CWE-20",
-        "Description": "An issue was discovered in xdLocalStorage through 2.0.5. The receiveMessage() function in xdLocalStorage.js does not implement any validation of the origin of web messages. Remote attackers who can entice a user to load a malicious site can exploit this issue to impact the confidentiality and integrity of data in the local storage of the vulnerable site via malicious web messages.",
-        "URL": "https://github.com/ofirdagan/cross-domain-local-storage/pull/19",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "OISF/libhtp",
-        "CVE_ID": "CVE-2019-17420",
-        "Problem_Type": "CWE-459",
-        "Description": "In OISF LibHTP before 0.5.31, as used in Suricata 4.1.4 and other products, an HTTP protocol parsing error causes the http_header signature to not alert on a response with a single \\r\\n ending.",
-        "URL": "https://github.com/OISF/libhtp/pull/213",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "OISF/suricata",
-        "CVE_ID": "CVE-2019-10051",
-        "Problem_Type": "CWE-754",
-        "Description": "An issue was discovered in Suricata 4.1.3. If the function filetracker_newchunk encounters an unsafe \"Some(sfcm) => { ft.new_chunk }\" item, then the program enters an smb/files.rs error condition and crashes.",
-        "URL": "https://github.com/OISF/suricata/pull/3734",
-        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
         "matched": []
@@ -10608,18 +10356,6 @@
         "matched": []
     },
     {
-        "repo_name": "openmrs/openmrs-module-htmlformentry",
-        "CVE_ID": "CVE-2018-16521",
-        "Problem_Type": "CWE-611",
-        "Description": "An XML External Entity (XXE) vulnerability exists in HTML Form Entry 3.7.0, as distributed in OpenMRS Reference Application 2.8.0.",
-        "URL": "https://github.com/openmrs/openmrs-module-htmlformentry/pull/137",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
         "repo_name": "openmrs/openmrs-module-referenceapplication",
         "CVE_ID": "CVE-2021-4289",
         "Problem_Type": "CWE-79",
@@ -10723,18 +10459,6 @@
         "URL": "https://github.com/openshift/cluster-kube-apiserver-operator/pull/499/",
         "Tag": "['Patch', 'Third Party Advisory']",
         "fix_commit_hash": "f8a0a355751f764beb89d414926cdc08631b0d5c",
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
-    },
-    {
-        "repo_name": "openshift/cluster-kube-apiserver-operator",
-        "CVE_ID": "CVE-2019-10200",
-        "Problem_Type": "CWE-284",
-        "Description": "A flaw was discovered in OpenShift Container Platform 4 where, by default, users with access to create pods also have the ability to schedule workloads on master nodes. Pods with permission to access the host network, running on master nodes, can retrieve security credentials for the master AWS IAM role, allowing management access to AWS resources. With access to the security credentials, the user then has access to the entire infrastructure. Impact to data and system availability is high.",
-        "URL": "https://github.com/openshift/cluster-kube-apiserver-operator/pull/524",
-        "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
         "matched": []

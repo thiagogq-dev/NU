@@ -262,5 +262,77 @@
         "inducing_commit_hash_pyszz": "-",
         "inducing_commit_hash_pd": "-",
         "matched": "-"
+    },
+    {
+        "repo_name": "openvswitch/ovs",
+        "CVE_ID": "CVE-2022-4337",
+        "Problem_Type": "CWE-125",
+        "Description": "An out-of-bounds read in Organization Specific TLV was found in various versions of OpenvSwitch.",
+        "URL": "https://github.com/openvswitch/ovs/pull/405",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c76804cf5f5951c326b11f71a1ba362a5b3ac481",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "openvswitch/ovs",
+        "CVE_ID": "CVE-2022-4338",
+        "Problem_Type": "CWE-125",
+        "Description": "An integer underflow in Organization Specific TLV was found in various versions of OpenvSwitch.",
+        "URL": "https://github.com/openvswitch/ovs/pull/405",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c76804cf5f5951c326b11f71a1ba362a5b3ac481",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "pallets-eco/flask-caching",
+        "CVE_ID": "CVE-2021-33026",
+        "Problem_Type": "CWE-502",
+        "Description": "The Flask-Caching extension through 1.10.1 for Flask relies on Pickle for serialization, which may lead to remote code execution or local privilege escalation. If an attacker gains access to cache storage (e.g., filesystem, Memcached, Redis, etc.), they can construct a crafted payload, poison the cache, and execute Python code. NOTE: a third party indicates that exploitation is extremely unlikely unless the machine is already compromised; in other cases, the attacker would be unable to write their payload to the cache and generate the required collision",
+        "URL": "https://github.com/pallets-eco/flask-caching/pull/209#issuecomment-1136397937",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "090a97344e6d4e68d7ec2612b423183712fff467",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "projectcontour/contour",
+        "CVE_ID": "CVE-2023-44487",
+        "Problem_Type": "CWE-400",
+        "Description": "The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.",
+        "URL": "https://github.com/projectcontour/contour/pull/5826",
+        "Tag": "['Issue Tracking', 'Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "c0226fe8ce7f7f662224b062f99e5d213c0fdafd",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "request/request",
+        "CVE_ID": "CVE-2023-28155",
+        "Problem_Type": "CWE-918",
+        "Description": "The Request package through 2.88.1 for Node.js allows a bypass of SSRF mitigations via an attacker-controller server that does a cross-protocol redirect (HTTP to HTTPS, or HTTPS to HTTP). NOTE: This vulnerability only affects products that are no longer supported by the maintainer.",
+        "URL": "https://github.com/request/request/pull/3444",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "35e023ce570645117582d183aa6258efd3c0ece6",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "sh4nks/flask-caching",
+        "CVE_ID": "CVE-2021-33026",
+        "Problem_Type": "CWE-502",
+        "Description": "The Flask-Caching extension through 1.10.1 for Flask relies on Pickle for serialization, which may lead to remote code execution or local privilege escalation. If an attacker gains access to cache storage (e.g., filesystem, Memcached, Redis, etc.), they can construct a crafted payload, poison the cache, and execute Python code. NOTE: a third party indicates that exploitation is extremely unlikely unless the machine is already compromised; in other cases, the attacker would be unable to write their payload to the cache and generate the required collision",
+        "URL": "https://github.com/sh4nks/flask-caching/pull/209",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "090a97344e6d4e68d7ec2612b423183712fff467",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
     }
 ]
