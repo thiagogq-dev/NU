@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "USBGuard/usbguard",
+        "CVE_ID": "CVE-2019-25058",
+        "Problem_Type": "CWE-863",
+        "Description": "An issue was discovered in USBGuard before 1.1.0. On systems with the usbguard-dbus daemon running, an unprivileged user could make USBGuard allow all USB devices to be connected in the future.",
+        "URL": "https://github.com/USBGuard/usbguard/pull/531",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2c8c1ae10a6330736bf2a2d7d8682674b1db47dc",
+        "inducing_commit_hash_pyszz": [
+            "3ca2424fd9d75340658831d4a0abeceb82edc969"
+        ],
+        "inducing_commit_hash_pd": [
+            "3ca2424fd9d75340658831d4a0abeceb82edc969"
+        ],
+        "matched": [
+            "3ca2424fd9d75340658831d4a0abeceb82edc969"
+        ]
+    }
+]
