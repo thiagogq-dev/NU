@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "wazuh/wazuh-kibana-app",
+        "CVE_ID": "CVE-2023-42455",
+        "Problem_Type": "CWE-639",
+        "Description": "Wazuh is a security detection, visibility, and compliance open source project. In versions 4.4.0 and 4.4.1, it is possible to get the Wazuh API administrator key used by the Dashboard using the browser development tools. This allows a logged user to the dashboard to become administrator of the API, even if their dashboard role is not. Version 4.4.2 contains a fix. There are no known workarounds.",
+        "URL": "https://github.com/wazuh/wazuh-kibana-app/pull/5428",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "6290e99887fb20f84e2dba21e4f1255d7ad4e69e",
+        "inducing_commit_hash_pyszz": [
+            "de0e46a71410a9538898903aff1f6dd614969e37"
+        ],
+        "inducing_commit_hash_pd": [
+            "665ecc49d301c83941ec5fd57655ec326a3f6b57"
+        ],
+        "matched": []
+    }
+]
