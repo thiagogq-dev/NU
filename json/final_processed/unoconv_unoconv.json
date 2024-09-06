@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "unoconv/unoconv",
+        "CVE_ID": "CVE-2019-17400",
+        "Problem_Type": "CWE-918",
+        "Description": "The unoconv package before 0.9 mishandles untrusted pathnames, leading to SSRF and local file inclusion.",
+        "URL": "https://github.com/unoconv/unoconv/pull/510",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "acfac594e643f9c44f1c3b8d6d8957190a4d76f2",
+        "inducing_commit_hash_pyszz": [
+            "6413cb8378c278fb18b70eabae157de277a602f6"
+        ],
+        "inducing_commit_hash_pd": [
+            "788170020bf67ebbae993e0776608e378bc07de3",
+            "8497b71cb2ef0e957f98d0d9cd5e77b07d01faea",
+            "4a3e30cfdcefc74e7d7e3ebd9c2649379e7e3780",
+            "e93b78044856eb9bd71125879471d639f3487ae2",
+            "ad3c68d7dac8a08332de241a0ef010cd34124b26",
+            "528804a1ef75b0e1c5b91291832e0168599fe877",
+            "6413cb8378c278fb18b70eabae157de277a602f6"
+        ],
+        "matched": [
+            "6413cb8378c278fb18b70eabae157de277a602f6"
+        ]
+    }
+]
