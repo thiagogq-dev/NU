@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "togglz/togglz",
+        "CVE_ID": "CVE-2020-28191",
+        "Problem_Type": "CWE-352",
+        "Description": "The console in Togglz before 2.9.4 allows CSRF.",
+        "URL": "https://github.com/togglz/togglz/pull/495",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ed66e3f584de954297ebaf98ea4a235286784707",
+        "inducing_commit_hash_pyszz": [
+            "ac54a100f0a0f78b9ca96ad70908f1eccd39515d"
+        ],
+        "inducing_commit_hash_pd": [
+            "ac54a100f0a0f78b9ca96ad70908f1eccd39515d"
+        ],
+        "matched": [
+            "ac54a100f0a0f78b9ca96ad70908f1eccd39515d"
+        ]
+    }
+]
