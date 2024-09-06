@@ -334,5 +334,53 @@
         "inducing_commit_hash_pyszz": "-",
         "inducing_commit_hash_pd": "-",
         "matched": "-"
+    },
+    {
+        "repo_name": "svenfuchs/i18n",
+        "CVE_ID": "CVE-2014-10077",
+        "Problem_Type": "CWE-20",
+        "Description": "Hash#slice in lib/i18n/core_ext/hash.rb in the i18n gem before 0.8.0 for Ruby allows remote attackers to cause a denial of service (application crash) via a call in a situation where :some_key is present in keep_keys but not present in the hash.",
+        "URL": "https://github.com/svenfuchs/i18n/pull/289",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b121213bd3b5a1441aea73e7f21bec3fb086dd70",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "torvalds/linux",
+        "CVE_ID": "CVE-2017-14156",
+        "Problem_Type": "CWE-200",
+        "Description": "The atyfb_ioctl function in drivers/video/fbdev/aty/atyfb_base.c in the Linux kernel through 4.12.10 does not initialize a certain data structure, which allows local users to obtain sensitive information from kernel stack memory by reading locations associated with padding bytes.",
+        "URL": "https://github.com/torvalds/linux/pull/441",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2f6ccd85021ed0689a754a91ec3390d08e29c5b1",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "trusteddomainproject/OpenDMARC",
+        "CVE_ID": "CVE-2019-16378",
+        "Problem_Type": "CWE-290",
+        "Description": "OpenDMARC through 1.3.2 and 1.4.x through 1.4.0-Beta1 is prone to a signature-bypass vulnerability with multiple From: addresses, which might affect applications that consider a domain name to be relevant to the origin of an e-mail message.",
+        "URL": "https://github.com/trusteddomainproject/OpenDMARC/pull/48",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ef4083f0d057db48e21e4081142ed511c5f3e060",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "CVE_ID": "CVE-2021-43803",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Next.js is a React framework. In versions of Next.js prior to 12.0.5 or 11.1.3, invalid or malformed URLs could lead to a server crash. In order to be affected by this issue, the deployment must use Next.js versions above 11.1.0 and below 12.0.5, Node.js above 15.0.0, and next start or a custom server. Deployments on Vercel are not affected, along with similar environments where invalid requests are filtered before reaching Next.js. Versions 12.0.5 and 11.1.3 contain patches for this issue.",
+        "URL": "https://github.com/vercel/next.js/pull/32080",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b92ebe7830b60d18f2b1aa64eb801cd2443114d7",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
     }
 ]
