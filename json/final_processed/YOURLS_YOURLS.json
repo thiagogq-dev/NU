@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "YOURLS/YOURLS",
+        "CVE_ID": "CVE-2019-14537",
+        "Problem_Type": "CWE-843",
+        "Description": "YOURLS through 1.7.3 is affected by a type juggling vulnerability in the api component that can result in login bypass.",
+        "URL": "https://github.com/YOURLS/YOURLS/pull/2542",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9e36c67b01b932a41f0834d7896c7ba8383e9f07",
+        "inducing_commit_hash_pyszz": [
+            "76c993789f264f5d886b517eec2765f870e0b1c6"
+        ],
+        "inducing_commit_hash_pd": [
+            "445b32a0f5c9f3d8f583a2c3f1f793d5e1f0c960",
+            "ffc00d9857593b3c3298a0fa79d33775a30af8e1",
+            "76c993789f264f5d886b517eec2765f870e0b1c6"
+        ],
+        "matched": [
+            "76c993789f264f5d886b517eec2765f870e0b1c6"
+        ]
+    }
+]
