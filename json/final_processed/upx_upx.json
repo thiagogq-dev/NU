@@ -1,0 +1,25 @@
+[
+    {
+        "repo_name": "upx/upx",
+        "CVE_ID": "CVE-2021-30501",
+        "Problem_Type": "CWE-617",
+        "Description": "An assertion abort was found in upx MemBuffer::alloc() in mem.cpp, in version UPX 4.0.0. The flow allows attackers to cause a denial of service (abort) via a crafted file.",
+        "URL": "https://github.com/upx/upx/pull/487",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "1427b8137a6a3fcbf541e529d9de349230f4ebae"
+        ],
+        "inducing_commit_hash_pd": [
+            "3d82f0cfe18efe9948a82ce2a70b2a90f1b03d31",
+            "3c294d9721f6c7e912a83de54f2b119d17143e54",
+            "0a82280f201970d5b3a521fcfa8e3a044161eca8",
+            "c69b4561fbe18fc3eb1a581ffa57fa34a86e29f5",
+            "b499ed3d20e4be101cfd954d5f07e50ec4cc14ca",
+            "1427b8137a6a3fcbf541e529d9de349230f4ebae"
+        ],
+        "matched": [
+            "1427b8137a6a3fcbf541e529d9de349230f4ebae"
+        ]
+    }
+]
