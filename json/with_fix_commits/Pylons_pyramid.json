@@ -4,6 +4,7 @@
         "id": "383",
         "repo_id": "2112",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/Pylons/pyramid/pull/3442"
+        "url": "https://github.com/Pylons/pyramid/pull/3442",
+        "fix_commit_hash": "7bd9da72c63124c7ca007f4fa2113633bba5c403"
     }
 ]
