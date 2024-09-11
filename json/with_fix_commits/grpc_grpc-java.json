@@ -4,6 +4,7 @@
         "id": "277",
         "repo_id": "1734",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/grpc/grpc-java/pull/7822"
+        "url": "https://github.com/grpc/grpc-java/pull/7822",
+        "fix_commit_hash": "b5a0d14da7d04e73c40572c341d2a64ba99db328"
     }
 ]
