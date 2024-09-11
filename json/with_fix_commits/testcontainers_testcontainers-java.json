@@ -4,6 +4,7 @@
         "id": "244",
         "repo_id": "939",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/testcontainers/testcontainers-java/pull/1296"
+        "url": "https://github.com/testcontainers/testcontainers-java/pull/1296",
+        "fix_commit_hash": null
     }
 ]
