@@ -4,76 +4,87 @@
         "id": "12",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/2415"
+        "url": "https://github.com/h2database/h2database/pull/2415",
+        "fix_commit_hash": "bbf6dabde7ea8e072c1da20ab50fadc3b98dc908"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "13",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/2298"
+        "url": "https://github.com/h2database/h2database/pull/2298",
+        "fix_commit_hash": "84e37a66ddc6dd7ae12508d980a7328b74cbd11c"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "28",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/1794"
+        "url": "https://github.com/h2database/h2database/pull/1794",
+        "fix_commit_hash": "29c4b6db40dc782042d4fedb7f0fb3ee54aecdb1"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "29",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/1784"
+        "url": "https://github.com/h2database/h2database/pull/1784",
+        "fix_commit_hash": "2a6869f9e2c71bb0309fe9559076a7cf1c578738"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "46",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/1240"
+        "url": "https://github.com/h2database/h2database/pull/1240",
+        "fix_commit_hash": "771b643cd109713f39ffac3225d11a07e59af9a5"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "52",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/1154"
+        "url": "https://github.com/h2database/h2database/pull/1154",
+        "fix_commit_hash": "3c10d9c9d7cd9aee00ddb5a5cb62360b8c897aa6"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "53",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/1059"
+        "url": "https://github.com/h2database/h2database/pull/1059",
+        "fix_commit_hash": "3c94d6ccf683f5f1cc0b7fa7337186d2956ffdc4"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "56",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/976"
+        "url": "https://github.com/h2database/h2database/pull/976",
+        "fix_commit_hash": "18769b71eb8c95227d68846103ee495aab3cf72b"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "57",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/872"
+        "url": "https://github.com/h2database/h2database/pull/872",
+        "fix_commit_hash": "2315bd351bc00dde05d55b9eeca01e998ab7c08e"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "65",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/714"
+        "url": "https://github.com/h2database/h2database/pull/714",
+        "fix_commit_hash": "1f64833c0c57932cef9ac65525afa4a28c67fb65"
     },
     {
         "repo_name": "h2database/h2database",
         "id": "81",
         "repo_id": "20",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/h2database/h2database/pull/241"
+        "url": "https://github.com/h2database/h2database/pull/241",
+        "fix_commit_hash": null
     }
 ]
