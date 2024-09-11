@@ -4,97 +4,111 @@
         "id": "278",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/6626"
+        "url": "https://github.com/openjdk/jdk/pull/6626",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "280",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/6491"
+        "url": "https://github.com/openjdk/jdk/pull/6491",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "282",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/4993"
+        "url": "https://github.com/openjdk/jdk/pull/4993",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "284",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/4413"
+        "url": "https://github.com/openjdk/jdk/pull/4413",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "288",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/3359"
+        "url": "https://github.com/openjdk/jdk/pull/3359",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "289",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/2866"
+        "url": "https://github.com/openjdk/jdk/pull/2866",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "290",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/2809"
+        "url": "https://github.com/openjdk/jdk/pull/2809",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "291",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/2381"
+        "url": "https://github.com/openjdk/jdk/pull/2381",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "292",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/2006"
+        "url": "https://github.com/openjdk/jdk/pull/2006",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "293",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/1686"
+        "url": "https://github.com/openjdk/jdk/pull/1686",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "294",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/1681"
+        "url": "https://github.com/openjdk/jdk/pull/1681",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "296",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/1190"
+        "url": "https://github.com/openjdk/jdk/pull/1190",
+        "fix_commit_hash": "b5a9c92b7a783aa3c99877fd055ed3c8da2ba301"
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "297",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/1166"
+        "url": "https://github.com/openjdk/jdk/pull/1166",
+        "fix_commit_hash": "1e9a432d59fa3fb3d038c83c88fd7eeb3052960c"
     },
     {
         "repo_name": "openjdk/jdk",
         "id": "299",
         "repo_id": "1796",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/openjdk/jdk/pull/528"
+        "url": "https://github.com/openjdk/jdk/pull/528",
+        "fix_commit_hash": null
     }
 ]
