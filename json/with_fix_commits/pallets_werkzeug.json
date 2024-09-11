@@ -4,13 +4,15 @@
         "id": "2030",
         "repo_id": "18147",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pallets/werkzeug/pull/1154"
+        "url": "https://github.com/pallets/werkzeug/pull/1154",
+        "fix_commit_hash": "5099dfa7e33852a13aea29c9e90d0d97d1dd3a97"
     },
     {
         "repo_name": "pallets/werkzeug",
         "id": "2031",
         "repo_id": "18147",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pallets/werkzeug/pull/1063"
+        "url": "https://github.com/pallets/werkzeug/pull/1063",
+        "fix_commit_hash": "a04980e1312c92352785b90326759774d9510f8c"
     }
 ]
