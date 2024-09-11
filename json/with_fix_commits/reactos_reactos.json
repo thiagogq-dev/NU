@@ -4,6 +4,7 @@
         "id": "1476",
         "repo_id": "15824",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/reactos/reactos/pull/2450"
+        "url": "https://github.com/reactos/reactos/pull/2450",
+        "fix_commit_hash": "1816e4f6cbc6f034397c28dbffca54698a38088c"
     }
 ]
