@@ -4,27 +4,31 @@
         "id": "314",
         "repo_id": "1964",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/protocolbuffers/protobuf/pull/9018"
+        "url": "https://github.com/protocolbuffers/protobuf/pull/9018",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "protocolbuffers/protobuf",
         "id": "328",
         "repo_id": "1964",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/protocolbuffers/protobuf/pull/6889"
+        "url": "https://github.com/protocolbuffers/protobuf/pull/6889",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "protocolbuffers/protobuf",
         "id": "329",
         "repo_id": "1964",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/protocolbuffers/protobuf/pull/6844"
+        "url": "https://github.com/protocolbuffers/protobuf/pull/6844",
+        "fix_commit_hash": "53a814a0ee9312cec6209e8b8aa36a9f3d883ec0"
     },
     {
         "repo_name": "protocolbuffers/protobuf",
         "id": "340",
         "repo_id": "1964",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/protocolbuffers/protobuf/pull/4226"
+        "url": "https://github.com/protocolbuffers/protobuf/pull/4226",
+        "fix_commit_hash": "94f3be06ba78bd22e58f84f7a8a7ee807a88c3c8"
     }
 ]
