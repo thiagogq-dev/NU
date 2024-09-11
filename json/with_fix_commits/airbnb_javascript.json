@@ -4,6 +4,7 @@
         "id": "2208",
         "repo_id": "94380",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/airbnb/javascript/pull/396"
+        "url": "https://github.com/airbnb/javascript/pull/396",
+        "fix_commit_hash": "7f419b6fad7e479e9cefc76c14ac4fda1d40a989"
     }
 ]
