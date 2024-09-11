@@ -4,48 +4,55 @@
         "id": "322",
         "repo_id": "1967",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/opencv/opencv/pull/19022"
+        "url": "https://github.com/opencv/opencv/pull/19022",
+        "fix_commit_hash": "a9f4f8ded43cad85cb5aa2334dc2c78baf9a93b5"
     },
     {
         "repo_name": "opencv/opencv",
         "id": "347",
         "repo_id": "1967",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/opencv/opencv/pull/13937"
+        "url": "https://github.com/opencv/opencv/pull/13937",
+        "fix_commit_hash": "6b31f58092d31b7ffbccb68aa84bce010119f0a5"
     },
     {
         "repo_name": "opencv/opencv",
         "id": "363",
         "repo_id": "1967",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/opencv/opencv/pull/11417"
+        "url": "https://github.com/opencv/opencv/pull/11417",
+        "fix_commit_hash": "84584002f2a579f9c63bde73e44e7a695271bd39"
     },
     {
         "repo_name": "opencv/opencv",
         "id": "376",
         "repo_id": "1967",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/opencv/opencv/pull/9872"
+        "url": "https://github.com/opencv/opencv/pull/9872",
+        "fix_commit_hash": "69e5ac6f02d521a395cba7b1516068d10051f186"
     },
     {
         "repo_name": "opencv/opencv",
         "id": "378",
         "repo_id": "1967",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/opencv/opencv/pull/9466"
+        "url": "https://github.com/opencv/opencv/pull/9466",
+        "fix_commit_hash": "89b6e68e1eea83262ef79c2110df111dbc089b97"
     },
     {
         "repo_name": "opencv/opencv",
         "id": "385",
         "repo_id": "1967",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/opencv/opencv/pull/7627"
+        "url": "https://github.com/opencv/opencv/pull/7627",
+        "fix_commit_hash": "7c266ffffedc47cbc19aed62dfdd6851c31b8361"
     },
     {
         "repo_name": "opencv/opencv",
         "id": "416",
         "repo_id": "1967",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/opencv/opencv/pull/1831"
+        "url": "https://github.com/opencv/opencv/pull/1831",
+        "fix_commit_hash": null
     }
 ]
