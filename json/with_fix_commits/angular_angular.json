@@ -4,174 +4,199 @@
         "id": "2320",
         "repo_id": "94396",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/angular/angular.js/pull/16391"
+        "url": "https://github.com/angular/angular.js/pull/16391",
+        "fix_commit_hash": "b86876c4a20412305f00e5f76e327f1982a99fa5"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2323",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/16093"
+        "url": "https://github.com/angular/angular.js/pull/16093",
+        "fix_commit_hash": "828a2757b2e04a3bec12012c127812559fab78e3"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2324",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/16063"
+        "url": "https://github.com/angular/angular.js/pull/16063",
+        "fix_commit_hash": "a772b94b0a4429051bf85b01ed74444e7ecfd747"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2325",
         "repo_id": "94396",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/angular/angular.js/pull/16010"
+        "url": "https://github.com/angular/angular.js/pull/16010",
+        "fix_commit_hash": "7673ca7d158fffdd8cd0e8ecb1f36901fb471c84"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2331",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/15427"
+        "url": "https://github.com/angular/angular.js/pull/15427",
+        "fix_commit_hash": "7f1b8bdfe1043871c5ead2ec602efc41e0de5e53"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2332",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/15346"
+        "url": "https://github.com/angular/angular.js/pull/15346",
+        "fix_commit_hash": "0ff10e1b56c6b7c4ac465e35c96a5886e294bac5"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2334",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/14903"
+        "url": "https://github.com/angular/angular.js/pull/14903",
+        "fix_commit_hash": "ac0d5286b8931633d774080d6396fb4825d8be33"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2338",
         "repo_id": "94396",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/angular/angular.js/pull/13901"
+        "url": "https://github.com/angular/angular.js/pull/13901",
+        "fix_commit_hash": "8dc4c75adefea96af0ee119e530929f836a04308"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2344",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/13279"
+        "url": "https://github.com/angular/angular.js/pull/13279",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2357",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/10530"
+        "url": "https://github.com/angular/angular.js/pull/10530",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2361",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/10129"
+        "url": "https://github.com/angular/angular.js/pull/10129",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2363",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/10111"
+        "url": "https://github.com/angular/angular.js/pull/10111",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2379",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/7464"
+        "url": "https://github.com/angular/angular.js/pull/7464",
+        "fix_commit_hash": "8803c2570e84791466f873e101d70386d23b5806"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2380",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/7311"
+        "url": "https://github.com/angular/angular.js/pull/7311",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2386",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/6507"
+        "url": "https://github.com/angular/angular.js/pull/6507",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2393",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/6217"
+        "url": "https://github.com/angular/angular.js/pull/6217",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2398",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/5523"
+        "url": "https://github.com/angular/angular.js/pull/5523",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2400",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/4865"
+        "url": "https://github.com/angular/angular.js/pull/4865",
+        "fix_commit_hash": "8d4f667ac8b5a41e6e78f5a3c19f6f41c8fc8fd0"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2401",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/4859"
+        "url": "https://github.com/angular/angular.js/pull/4859",
+        "fix_commit_hash": "8d4f667ac8b5a41e6e78f5a3c19f6f41c8fc8fd0"
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2406",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/4850"
+        "url": "https://github.com/angular/angular.js/pull/4850",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2415",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/3306"
+        "url": "https://github.com/angular/angular.js/pull/3306",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2418",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/3005"
+        "url": "https://github.com/angular/angular.js/pull/3005",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2428",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/1701"
+        "url": "https://github.com/angular/angular.js/pull/1701",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2429",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/1249"
+        "url": "https://github.com/angular/angular.js/pull/1249",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
         "id": "2431",
         "repo_id": "94396",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/angular/angular.js/pull/71"
+        "url": "https://github.com/angular/angular.js/pull/71",
+        "fix_commit_hash": null
     }
 ]
