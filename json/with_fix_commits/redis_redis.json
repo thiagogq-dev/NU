@@ -4,111 +4,127 @@
         "id": "1591",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/9920"
+        "url": "https://github.com/redis/redis/pull/9920",
+        "fix_commit_hash": "ae2f5b7b2e007e4bb7108407d7d41972312d0766"
     },
     {
         "repo_name": "redis/redis",
         "id": "1592",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/9817"
+        "url": "https://github.com/redis/redis/pull/9817",
+        "fix_commit_hash": "14176484697dc96df62c76630eef2b97a89bb8d0"
     },
     {
         "repo_name": "redis/redis",
         "id": "1603",
         "repo_id": "17901",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/redis/redis/pull/9587"
+        "url": "https://github.com/redis/redis/pull/9587",
+        "fix_commit_hash": "0215324a66af949be39b34be2d55143232c1cb71"
     },
     {
         "repo_name": "redis/redis",
         "id": "1604",
         "repo_id": "17901",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/redis/redis/pull/9586"
+        "url": "https://github.com/redis/redis/pull/9586",
+        "fix_commit_hash": "7cb89a5a1cc8ee0b003a36b2eba42573c09c45f9"
     },
     {
         "repo_name": "redis/redis",
         "id": "1605",
         "repo_id": "17901",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/redis/redis/pull/9558"
+        "url": "https://github.com/redis/redis/pull/9558",
+        "fix_commit_hash": "24cc0b984d4ed5045c6ff125b0e619b6ce5ea9c6"
     },
     {
         "repo_name": "redis/redis",
         "id": "1612",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/8938"
+        "url": "https://github.com/redis/redis/pull/8938",
+        "fix_commit_hash": "df4d916007c285d01b11193272419ab228916d8a"
     },
     {
         "repo_name": "redis/redis",
         "id": "1614",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/8562"
+        "url": "https://github.com/redis/redis/pull/8562",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "redis/redis",
         "id": "1630",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/7959"
+        "url": "https://github.com/redis/redis/pull/7959",
+        "fix_commit_hash": "39436b21527d878f23eef0bd64edbff47af073c5"
     },
     {
         "repo_name": "redis/redis",
         "id": "1632",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/7893"
+        "url": "https://github.com/redis/redis/pull/7893",
+        "fix_commit_hash": "dab5ec9b8d5c6f7a99a557d65cc95816b981835b"
     },
     {
         "repo_name": "redis/redis",
         "id": "1638",
         "repo_id": "17901",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/redis/redis/pull/7404"
+        "url": "https://github.com/redis/redis/pull/7404",
+        "fix_commit_hash": "69ade87325eedebdb44760af9a8c28e15381888e"
     },
     {
         "repo_name": "redis/redis",
         "id": "1655",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/6834"
+        "url": "https://github.com/redis/redis/pull/6834",
+        "fix_commit_hash": "bd28dbee0ed53db74b21d702c23c3254cebdbc7f"
     },
     {
         "repo_name": "redis/redis",
         "id": "1662",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/6526"
+        "url": "https://github.com/redis/redis/pull/6526",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "redis/redis",
         "id": "1693",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/4866"
+        "url": "https://github.com/redis/redis/pull/4866",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "redis/redis",
         "id": "1737",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/3419"
+        "url": "https://github.com/redis/redis/pull/3419",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "redis/redis",
         "id": "1762",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/2451"
+        "url": "https://github.com/redis/redis/pull/2451",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "redis/redis",
         "id": "1801",
         "repo_id": "17901",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/redis/redis/pull/781"
+        "url": "https://github.com/redis/redis/pull/781",
+        "fix_commit_hash": null
     }
 ]
