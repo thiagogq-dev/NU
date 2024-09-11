@@ -4,69 +4,79 @@
         "id": "135",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/13857"
+        "url": "https://github.com/runelite/runelite/pull/13857",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "runelite/runelite",
         "id": "162",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/12640"
+        "url": "https://github.com/runelite/runelite/pull/12640",
+        "fix_commit_hash": "0a8514fa5f8bc9927716d1b9d2b0d8dde8886317"
     },
     {
         "repo_name": "runelite/runelite",
         "id": "168",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/12335"
+        "url": "https://github.com/runelite/runelite/pull/12335",
+        "fix_commit_hash": "9588076059d62d9a525ff17f4e2e2597e4568068"
     },
     {
         "repo_name": "runelite/runelite",
         "id": "169",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/12333"
+        "url": "https://github.com/runelite/runelite/pull/12333",
+        "fix_commit_hash": "a450df01b6a682bc9dea935b24d534678c045d3b"
     },
     {
         "repo_name": "runelite/runelite",
         "id": "176",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/11851"
+        "url": "https://github.com/runelite/runelite/pull/11851",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "runelite/runelite",
         "id": "181",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/11659"
+        "url": "https://github.com/runelite/runelite/pull/11659",
+        "fix_commit_hash": "88ec4a81c5305c9c66b4b0d5ed1d0f54f0990056"
     },
     {
         "repo_name": "runelite/runelite",
         "id": "190",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/11076"
+        "url": "https://github.com/runelite/runelite/pull/11076",
+        "fix_commit_hash": "beecf98d9c336b37c0dd0b00795463a659339af9"
     },
     {
         "repo_name": "runelite/runelite",
         "id": "191",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/11066"
+        "url": "https://github.com/runelite/runelite/pull/11066",
+        "fix_commit_hash": "b8ad248fcb88ccde5fe8195a1487143db270f22f"
     },
     {
         "repo_name": "runelite/runelite",
         "id": "192",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/11058"
+        "url": "https://github.com/runelite/runelite/pull/11058",
+        "fix_commit_hash": "32e435e42d0027c910d164d8643f8adac76c5d7a"
     },
     {
         "repo_name": "runelite/runelite",
         "id": "217",
         "repo_id": "133",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/runelite/runelite/pull/10870"
+        "url": "https://github.com/runelite/runelite/pull/10870",
+        "fix_commit_hash": null
     }
 ]
