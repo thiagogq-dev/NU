@@ -4,13 +4,15 @@
         "id": "2479",
         "repo_id": "94407",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/tailwindlabs/tailwindcss/pull/2294"
+        "url": "https://github.com/tailwindlabs/tailwindcss/pull/2294",
+        "fix_commit_hash": "1c38c791988f953df70d7f335ec6267a746bd75d"
     },
     {
         "repo_name": "tailwindlabs/tailwindcss",
         "id": "2484",
         "repo_id": "94407",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/tailwindlabs/tailwindcss/pull/1098"
+        "url": "https://github.com/tailwindlabs/tailwindcss/pull/1098",
+        "fix_commit_hash": null
     }
 ]
