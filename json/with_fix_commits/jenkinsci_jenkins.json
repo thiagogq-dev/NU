@@ -4,20 +4,23 @@
         "id": "471",
         "repo_id": "2259",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/jenkinsci/jenkins/pull/4399"
+        "url": "https://github.com/jenkinsci/jenkins/pull/4399",
+        "fix_commit_hash": "a67f59aca560e5631567a9583a3db553ae77dcd5"
     },
     {
         "repo_name": "jenkinsci/jenkins",
         "id": "490",
         "repo_id": "2259",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/jenkinsci/jenkins/pull/2753"
+        "url": "https://github.com/jenkinsci/jenkins/pull/2753",
+        "fix_commit_hash": "83232e6b8c8f3cb665461294b5a44a6476cf28d9"
     },
     {
         "repo_name": "jenkinsci/jenkins",
         "id": "495",
         "repo_id": "2259",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/jenkinsci/jenkins/pull/2441"
+        "url": "https://github.com/jenkinsci/jenkins/pull/2441",
+        "fix_commit_hash": "e94c399139e405de3bd66372849751d8df02d80e"
     }
 ]
