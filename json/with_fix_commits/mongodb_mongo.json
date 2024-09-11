@@ -4,6 +4,7 @@
         "id": "295",
         "repo_id": "1943",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/mongodb/mongo/pull/811"
+        "url": "https://github.com/mongodb/mongo/pull/811",
+        "fix_commit_hash": null
     }
 ]
