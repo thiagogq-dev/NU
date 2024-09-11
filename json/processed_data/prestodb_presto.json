@@ -1,0 +1,1 @@
+[{"repo_name": "prestodb/presto", "id": "476", "repo_id": "2187", "terms_vulnerability": "vulner", "url": "https://github.com/prestodb/presto/pull/11912", "fix_commit_hash": "5d3fbee7af778e53d6eba09ec9177386f7108b70", "inducing_commit_hash_pyszz": ["1b95fc5f41a79066650dfc5dcd74c206b3345f2c"]}]
