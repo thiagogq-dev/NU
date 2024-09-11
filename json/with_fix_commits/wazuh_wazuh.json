@@ -4,6 +4,7 @@
         "id": "274",
         "repo_id": "1616",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/wazuh/wazuh/pull/8092"
+        "url": "https://github.com/wazuh/wazuh/pull/8092",
+        "fix_commit_hash": null
     }
 ]
