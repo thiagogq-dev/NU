@@ -4,20 +4,23 @@
         "id": "121",
         "repo_id": "113",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/knowm/XChange/pull/4105"
+        "url": "https://github.com/knowm/XChange/pull/4105",
+        "fix_commit_hash": "ff55e57f3c8c8892ec7e020fa787a2e8cac5b1c2"
     },
     {
         "repo_name": "knowm/XChange",
         "id": "159",
         "repo_id": "113",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/knowm/XChange/pull/3136"
+        "url": "https://github.com/knowm/XChange/pull/3136",
+        "fix_commit_hash": "ec6cce9d6166901fcd17b920cb90d2b58d3cc620"
     },
     {
         "repo_name": "knowm/XChange",
         "id": "188",
         "repo_id": "113",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/knowm/XChange/pull/2379"
+        "url": "https://github.com/knowm/XChange/pull/2379",
+        "fix_commit_hash": null
     }
 ]
