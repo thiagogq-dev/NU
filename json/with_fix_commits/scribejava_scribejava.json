@@ -4,6 +4,7 @@
         "id": "238",
         "repo_id": "916",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/scribejava/scribejava/pull/502"
+        "url": "https://github.com/scribejava/scribejava/pull/502",
+        "fix_commit_hash": null
     }
 ]
