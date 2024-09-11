@@ -4,6 +4,7 @@
         "id": "232",
         "repo_id": "751",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/hazelcast/hazelcast/pull/13291"
+        "url": "https://github.com/hazelcast/hazelcast/pull/13291",
+        "fix_commit_hash": null
     }
 ]
