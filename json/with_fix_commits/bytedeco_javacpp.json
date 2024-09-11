@@ -4,6 +4,7 @@
         "id": "184",
         "repo_id": "190",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/bytedeco/javacpp/pull/177"
+        "url": "https://github.com/bytedeco/javacpp/pull/177",
+        "fix_commit_hash": null
     }
 ]
