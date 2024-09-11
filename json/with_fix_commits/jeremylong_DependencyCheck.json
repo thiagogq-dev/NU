@@ -4,188 +4,215 @@
         "id": "122",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/3871"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/3871",
+        "fix_commit_hash": "d89025e628edca455fe8cabe1930742c57bab0d1"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "123",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/3776"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/3776",
+        "fix_commit_hash": "b305d484a30960db1ee663066b694cd02ab0c0d8"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "124",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/3725"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/3725",
+        "fix_commit_hash": "5d4a68f941d46da254801f722cd68ec955a47b15"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "125",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/3722"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/3722",
+        "fix_commit_hash": "b2e7f95e7efda126e02943dc1f6766a39643d739"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "126",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/3690"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/3690",
+        "fix_commit_hash": "245828101e225c1cff71441655447e79c4897d4e"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "139",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/3289"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/3289",
+        "fix_commit_hash": "f26bce309fd844ba684a0bb29fa72b5eeea69884"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "166",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/1864"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/1864",
+        "fix_commit_hash": "325d3407638edbfaeaae44cfbb47feef86fccb6b"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "167",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/1863"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/1863",
+        "fix_commit_hash": "0212d27425c7fe3b4453d20667ea9037cf17182c"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "173",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/1606"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/1606",
+        "fix_commit_hash": "5ec8756a2016eb6e0bee01e50e990b7a788c83fc"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "174",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/1568"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/1568",
+        "fix_commit_hash": "7dfebd0e6ea599c8765b801c540ba1aea81936cd"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "178",
         "repo_id": "146",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/1265"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/1265",
+        "fix_commit_hash": "c106ca919aa343b95cca0ffff0a0b5dc20b2baf7"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "193",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/680"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/680",
+        "fix_commit_hash": "55403974568993245d212da13d0890f1c12fb401"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "194",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/668"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/668",
+        "fix_commit_hash": "4951ee5a62312adc92d753a9ff4d66c60dd75d18"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "195",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/657"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/657",
+        "fix_commit_hash": "d6f1351f6b08e84fadfb80c276471621b06c9dba"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "196",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/636"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/636",
+        "fix_commit_hash": "233a068c8bdbbd0693f1a21f2d11d4e283148a11"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "197",
         "repo_id": "146",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/598"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/598",
+        "fix_commit_hash": "74b93ce60242542d83d1746e02d437d2417c6a12"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "198",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/568"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/568",
+        "fix_commit_hash": "989caead9cfeb3de3cb3cdcc6a08f39812a95af3"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "199",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/565"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/565",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "200",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/507"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/507",
+        "fix_commit_hash": "e79da72711dc0f326fcdce52deab89e37c0d8230"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "218",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/478"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/478",
+        "fix_commit_hash": "b160a4d1ddadbf4eb932f3e5df717b2171f5ae1d"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "219",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/447"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/447",
+        "fix_commit_hash": "5f5d3fdb66d13151726c982e2df42aa1f3f69c62"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "220",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/391"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/391",
+        "fix_commit_hash": "8fc9a3d6d1928d9c00f6ec60d89dd84081004065"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "221",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/390"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/390",
+        "fix_commit_hash": "0c5bdfd7b7a3d7dda68c5f8188b9715354c797f8"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "222",
         "repo_id": "146",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/382"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/382",
+        "fix_commit_hash": "0c69ab80bbc953dc7e23ec24e4ef8c519a91d70d"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "223",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/330"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/330",
+        "fix_commit_hash": "7fb1b1d57b89c5953c88b8a8820650da5325eee5"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "224",
         "repo_id": "146",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/323"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/323",
+        "fix_commit_hash": "acd4b4371d1012a8e42a4370d77a87aca7401a04"
     },
     {
         "repo_name": "jeremylong/DependencyCheck",
         "id": "225",
         "repo_id": "146",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/jeremylong/DependencyCheck/pull/13"
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/13",
+        "fix_commit_hash": "3cb3e9184b00c21ea5f6efd316483c0711482fb4"
     }
 ]
