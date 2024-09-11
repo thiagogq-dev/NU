@@ -4,34 +4,39 @@
         "id": "2099",
         "repo_id": "93944",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/ytdl-org/youtube-dl/pull/8142"
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/8142",
+        "fix_commit_hash": "032f2326268ae810343c5a083e048f361f7a2074"
     },
     {
         "repo_name": "ytdl-org/youtube-dl",
         "id": "2102",
         "repo_id": "93944",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/ytdl-org/youtube-dl/pull/6408"
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/6408",
+        "fix_commit_hash": "fb72ec58ae2612590d661c9943fe6b2fa0864401"
     },
     {
         "repo_name": "ytdl-org/youtube-dl",
         "id": "2103",
         "repo_id": "93944",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/ytdl-org/youtube-dl/pull/5186"
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/5186",
+        "fix_commit_hash": "1dbfc62d7525c5437e3a45521e03718a4d4c8c72"
     },
     {
         "repo_name": "ytdl-org/youtube-dl",
         "id": "2107",
         "repo_id": "93944",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/ytdl-org/youtube-dl/pull/2956"
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/2956",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "ytdl-org/youtube-dl",
         "id": "2110",
         "repo_id": "93944",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/ytdl-org/youtube-dl/pull/1551"
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/1551",
+        "fix_commit_hash": "a90b9fd209f60f66e545565df21c5468d8cf0c81"
     }
 ]
