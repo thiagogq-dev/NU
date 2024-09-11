@@ -4,62 +4,71 @@
         "id": "76",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2234"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2234",
+        "fix_commit_hash": "ad9e361eaf7f013cb94b25c38080645cc7df981a"
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "77",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2025"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2025",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "78",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2008"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2008",
+        "fix_commit_hash": "fffcd23214dc60fe0da003cc1076bc50d9a6c0bd"
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "79",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2006"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2006",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "89",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/1041"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/1041",
+        "fix_commit_hash": "56eda5080d8f8f3ccea4d938d94a219071ba0c19"
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "92",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/879"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/879",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "93",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/860"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/860",
+        "fix_commit_hash": "1664e8c179cf688faaadd66b758bf14f8443be82"
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "101",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/398"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/398",
+        "fix_commit_hash": "57ab7ed469d1bc2dba80d2d157219992674c8a40"
     },
     {
         "repo_name": "spring-cloud/spring-cloud-gateway",
         "id": "105",
         "repo_id": "90",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/52"
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/52",
+        "fix_commit_hash": null
     }
 ]
