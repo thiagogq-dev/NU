@@ -4,48 +4,55 @@
         "id": "1080",
         "repo_id": "15321",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/dotnet/aspnetcore/pull/34997"
+        "url": "https://github.com/dotnet/aspnetcore/pull/34997",
+        "fix_commit_hash": "4216ec2bc49fc6962c4bcfeaebd64fa4f485c21c"
     },
     {
         "repo_name": "dotnet/aspnetcore",
         "id": "1160",
         "repo_id": "15321",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/dotnet/aspnetcore/pull/22450"
+        "url": "https://github.com/dotnet/aspnetcore/pull/22450",
+        "fix_commit_hash": "b5e37866d5f71c062293cc7f9bb5af1034262d05"
     },
     {
         "repo_name": "dotnet/aspnetcore",
         "id": "1162",
         "repo_id": "15321",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/dotnet/aspnetcore/pull/22235"
+        "url": "https://github.com/dotnet/aspnetcore/pull/22235",
+        "fix_commit_hash": "9d7ce5ea75abe0946cc99faed7a2a99a550c73c4"
     },
     {
         "repo_name": "dotnet/aspnetcore",
         "id": "1163",
         "repo_id": "15321",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/dotnet/aspnetcore/pull/21957"
+        "url": "https://github.com/dotnet/aspnetcore/pull/21957",
+        "fix_commit_hash": "f712fd7c384216c01f3308e3c789b49505076609"
     },
     {
         "repo_name": "dotnet/aspnetcore",
         "id": "1169",
         "repo_id": "15321",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/dotnet/aspnetcore/pull/20032"
+        "url": "https://github.com/dotnet/aspnetcore/pull/20032",
+        "fix_commit_hash": "28dfd0b7c2bc3e4268b1121392a785cdf480e7b2"
     },
     {
         "repo_name": "dotnet/aspnetcore",
         "id": "1199",
         "repo_id": "15321",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/dotnet/aspnetcore/pull/11628"
+        "url": "https://github.com/dotnet/aspnetcore/pull/11628",
+        "fix_commit_hash": "2745349822b7d24211612882439d591bf4df0136"
     },
     {
         "repo_name": "dotnet/aspnetcore",
         "id": "1200",
         "repo_id": "15321",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/dotnet/aspnetcore/pull/11622"
+        "url": "https://github.com/dotnet/aspnetcore/pull/11622",
+        "fix_commit_hash": "fd9ad7f8c5a21543b5c0ca4e2197a25ce67068b2"
     }
 ]
