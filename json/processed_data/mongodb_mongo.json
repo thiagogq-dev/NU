@@ -1,0 +1,1 @@
+[{"repo_name": "mongodb/mongo", "id": "295", "repo_id": "1943", "terms_vulnerability": "secur", "url": "https://github.com/mongodb/mongo/pull/811", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["c5b39682afa703a995b43f8fe6b5d06d17a3b2b2"]}]
