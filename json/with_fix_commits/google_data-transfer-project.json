@@ -4,83 +4,95 @@
         "id": "31",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/936"
+        "url": "https://github.com/google/data-transfer-project/pull/936",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "32",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/927"
+        "url": "https://github.com/google/data-transfer-project/pull/927",
+        "fix_commit_hash": "e0e34dafbc7bd3b48e943f1a5aece9f8d85579aa"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "43",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/854"
+        "url": "https://github.com/google/data-transfer-project/pull/854",
+        "fix_commit_hash": "a152d880b37bee76da2405872805f828e2a100bd"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "44",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/709"
+        "url": "https://github.com/google/data-transfer-project/pull/709",
+        "fix_commit_hash": "fc8982fcdec7d9f7aed01a8e32b73755e87610cd"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "48",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/608"
+        "url": "https://github.com/google/data-transfer-project/pull/608",
+        "fix_commit_hash": "e56c28dc06a2ea6ae1e07e50c41bfa0cd77121a5"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "49",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/595"
+        "url": "https://github.com/google/data-transfer-project/pull/595",
+        "fix_commit_hash": "caaaad07d7602043c08aa39ad4ca20c2b2a87fc3"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "50",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/566"
+        "url": "https://github.com/google/data-transfer-project/pull/566",
+        "fix_commit_hash": "d7e132ab5525a581b5a667c6bd136bcf507c7c91"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "55",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/517"
+        "url": "https://github.com/google/data-transfer-project/pull/517",
+        "fix_commit_hash": "cec5a7bd37049c81a44d9177753cd2420f927367"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "59",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/282"
+        "url": "https://github.com/google/data-transfer-project/pull/282",
+        "fix_commit_hash": "ddef7ac6892925872e234a6f02e72840840d8dc4"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "63",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/160"
+        "url": "https://github.com/google/data-transfer-project/pull/160",
+        "fix_commit_hash": "19844e0e6efe02163431c251575b480f329a9975"
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "64",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/159"
+        "url": "https://github.com/google/data-transfer-project/pull/159",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "google/data-transfer-project",
         "id": "66",
         "repo_id": "86",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/google/data-transfer-project/pull/16"
+        "url": "https://github.com/google/data-transfer-project/pull/16",
+        "fix_commit_hash": "d1ec93ef318ce5871b82bc307a562216b0ef3ee0"
     }
 ]
