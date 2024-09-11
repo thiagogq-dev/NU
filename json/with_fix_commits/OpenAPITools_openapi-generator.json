@@ -4,55 +4,63 @@
         "id": "286",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/8794"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/8794",
+        "fix_commit_hash": "19f43b533089fa5a75059efbe2c09e79e96aa75a"
     },
     {
         "repo_name": "OpenAPITools/openapi-generator",
         "id": "298",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/2387"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/2387",
+        "fix_commit_hash": "9bb94fe95dff5652c5d58ceccb5686b036203c70"
     },
     {
         "repo_name": "OpenAPITools/openapi-generator",
         "id": "300",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/2365"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/2365",
+        "fix_commit_hash": "d2244a3bafb90f55896d1a83c33799cae7e8c7e0"
     },
     {
         "repo_name": "OpenAPITools/openapi-generator",
         "id": "301",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/2110"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/2110",
+        "fix_commit_hash": "f1fa0a80adb31cdef158490bcc4ee77742163973"
     },
     {
         "repo_name": "OpenAPITools/openapi-generator",
         "id": "302",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/1787"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/1787",
+        "fix_commit_hash": "9334dd391ac15fb38c469e8b206f35ee4d84d440"
     },
     {
         "repo_name": "OpenAPITools/openapi-generator",
         "id": "303",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/1759"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/1759",
+        "fix_commit_hash": "5952bec6bf8453f14e567fc3f42601da32bbe628"
     },
     {
         "repo_name": "OpenAPITools/openapi-generator",
         "id": "304",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/1753"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/1753",
+        "fix_commit_hash": "120c0a05f0fef5f05c3cc1ed4f8bdf4f1a96baa7"
     },
     {
         "repo_name": "OpenAPITools/openapi-generator",
         "id": "313",
         "repo_id": "1769",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/OpenAPITools/openapi-generator/pull/18"
+        "url": "https://github.com/OpenAPITools/openapi-generator/pull/18",
+        "fix_commit_hash": "737e63976fda7dbd9e0ab35f57924104b7957af9"
     }
 ]
