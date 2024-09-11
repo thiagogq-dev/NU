@@ -1,0 +1,177 @@
+[
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2320",
+        "repo_id": "94396",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/angular/angular.js/pull/16391"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2323",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/16093"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2324",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/16063"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2325",
+        "repo_id": "94396",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/angular/angular.js/pull/16010"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2331",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/15427"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2332",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/15346"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2334",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/14903"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2338",
+        "repo_id": "94396",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/angular/angular.js/pull/13901"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2344",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/13279"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2357",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/10530"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2361",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/10129"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2363",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/10111"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2379",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/7464"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2380",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/7311"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2386",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/6507"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2393",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/6217"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2398",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/5523"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2400",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4865"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2401",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4859"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2406",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4850"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2415",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/3306"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2418",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/3005"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2428",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/1701"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2429",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/1249"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2431",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/71"
+    }
+]

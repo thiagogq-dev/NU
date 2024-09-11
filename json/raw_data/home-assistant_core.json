@@ -1,0 +1,569 @@
+[
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2165",
+        "repo_id": "93955",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/home-assistant/core/pull/31510"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2166",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/30536"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2167",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/30327"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2168",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/30191"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2169",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/29952"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2170",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/28443"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2171",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/28234"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2172",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/27081"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2173",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/26741"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2174",
+        "repo_id": "93955",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/home-assistant/core/pull/26487"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2175",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/26249"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2176",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/25417"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2177",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24595"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2178",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24323"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2179",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24290"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2180",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24274"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2181",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24273"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2182",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24272"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2183",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/23567"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2184",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/23281"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2185",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/23139"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2188",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/21432"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2189",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/21241"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2190",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/21225"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2191",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/19612"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2192",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/19484"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2193",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/18714"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2194",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/17246"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2195",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/17120"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2197",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/16540"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2204",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/15461"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2206",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/15342"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2207",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/15325"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2218",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/14365"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2219",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/14339"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2221",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13968"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2224",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13783"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2225",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13670"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2228",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13355"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2229",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13352"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2239",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/12975"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2243",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/12666"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2246",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/12391"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2252",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11849"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2253",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11752"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2261",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11195"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2264",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11031"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2273",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10535"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2274",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10308"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2275",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10306"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2276",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10263"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2282",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/9777"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2286",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/9685"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2292",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/9059"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2303",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8443"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2306",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8332"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2307",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8278"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2314",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8072"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2316",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/7899"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2343",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/5599"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2347",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/4876"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2353",
+        "repo_id": "93955",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/home-assistant/core/pull/4468"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2358",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/3961"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2368",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2855"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2369",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2775"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2370",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2738"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2371",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2730"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2372",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2715"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2375",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2409"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2377",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2183"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2381",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1935"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2382",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1900"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2388",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1467"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2392",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1271"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2394",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1128"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2395",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1123"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2396",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/910"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2397",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/901"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2403",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/134"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2404",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/118"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2405",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/57"
+    }
+]

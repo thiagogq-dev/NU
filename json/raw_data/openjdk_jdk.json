@@ -1,0 +1,100 @@
+[
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "278",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/6626"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "280",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/6491"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "282",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/4993"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "284",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/4413"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "288",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/3359"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "289",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/2866"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "290",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/2809"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "291",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/2381"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "292",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/2006"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "293",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/1686"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "294",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/1681"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "296",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/1190"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "297",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/1166"
+    },
+    {
+        "repo_name": "openjdk/jdk",
+        "id": "299",
+        "repo_id": "1796",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openjdk/jdk/pull/528"
+    }
+]

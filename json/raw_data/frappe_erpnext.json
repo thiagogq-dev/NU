@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "frappe/erpnext",
+        "id": "2063",
+        "repo_id": "93319",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/frappe/erpnext/pull/22569"
+    }
+]

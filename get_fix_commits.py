@@ -27,37 +27,20 @@ with open(json_file) as f:
     for entry in data:
         read += 1
         print(f"Read {read}/{length}")
-        url = entry["URL"]
-        # pr_number = entry["URL"].rstrip("/").split("/")[-1]
-        # target_pr_number = entry["Target PR"].rstrip("/").split("/")[-1]
-        # closest_pr_number = entry["Closest PR"].rstrip("/").split("/")[-1]
-        
+        url = entry["url"]
+       
         owner, repo = entry["repo_name"].split("/")
         repo_path = f"repos_dir/{owner}/{repo}"
 
         pr_commit_sha = get_pull_request_data(url, owner, repo, repo_path)
 
-        # target_commit_sha = get_pull_request_data(target_pr_number, owner, repo, repo_path)
-        # closest_commit_sha = get_pull_request_data(closest_pr_number, owner, repo, repo_path)
-
-        # commits_data.append({
-        #     "repo_name": entry["repo_name"],
-        #     "Target PR": entry["Target PR"],
-        #     "Target Commit SHA": target_commit_sha,
-        #     "Closest PR": entry["Closest PR"],
-        #     "Closest Commit SHA": closest_commit_sha,
-        #     "Title": entry["Title"],
-        #     "Created At": entry["Created At"]
-        # })
-
         commits_data.append({
             "repo_name": entry["repo_name"],
-            "CVE_ID": entry["CVE_ID"],
-            "Problem_Type": entry["Problem_Type"],
-            "Description": entry["Description"],
-            "URL": entry["URL"],
-            "Commit SHA": pr_commit_sha,
-            "Tag": entry["Tag"]
+            "id": entry["id"],
+            "repo_id": entry["repo_id"],
+            "terms_vulnerability": entry["terms_vulnerability"],
+            "url": entry["url"],
+            "fix_commit_hash": pr_commit_sha
         })
         
     os.system("rm -rf repos_dir/*")

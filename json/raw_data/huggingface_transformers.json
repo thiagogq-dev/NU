@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "huggingface/transformers",
+        "id": "2080",
+        "repo_id": "93949",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/huggingface/transformers/pull/10817"
+    },
+    {
+        "repo_name": "huggingface/transformers",
+        "id": "2081",
+        "repo_id": "93949",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/huggingface/transformers/pull/10802"
+    },
+    {
+        "repo_name": "huggingface/transformers",
+        "id": "2089",
+        "repo_id": "93949",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/huggingface/transformers/pull/6494"
+    },
+    {
+        "repo_name": "huggingface/transformers",
+        "id": "2093",
+        "repo_id": "93949",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/huggingface/transformers/pull/4912"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2238",
+        "repo_id": "94378",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/twbs/bootstrap/pull/33571"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2259",
+        "repo_id": "94378",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/twbs/bootstrap/pull/30501"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2260",
+        "repo_id": "94378",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/twbs/bootstrap/pull/30488"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2280",
+        "repo_id": "94378",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/twbs/bootstrap/pull/28391"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2339",
+        "repo_id": "94378",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/twbs/bootstrap/pull/17729"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2366",
+        "repo_id": "94378",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/twbs/bootstrap/pull/11018"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2383",
+        "repo_id": "94378",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/twbs/bootstrap/pull/4784"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2384",
+        "repo_id": "94378",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/twbs/bootstrap/pull/4767"
+    }
+]

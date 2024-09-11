@@ -1,0 +1,121 @@
+[
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2214",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/11583"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2216",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/11228"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2217",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/11021"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2220",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/10412"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2230",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/8975"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2231",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/8710"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2232",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/8671"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2233",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/8670"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2245",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/7449"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2249",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/6541"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2256",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/6034"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2266",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/4890"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2267",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/4866"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2283",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/3246"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2290",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/2288"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2299",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/1176"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2304",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/898"
+    }
+]

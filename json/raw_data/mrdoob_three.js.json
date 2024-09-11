@@ -1,0 +1,79 @@
+[
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2212",
+        "repo_id": "94388",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/mrdoob/three.js/pull/21550"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2250",
+        "repo_id": "94388",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/mrdoob/three.js/pull/18599"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2263",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/17807"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2296",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/15573"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2301",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/15334"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2330",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/13168"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2335",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/12423"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2345",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/11104"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2348",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/10425"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2349",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/10142"
+    },
+    {
+        "repo_name": "mrdoob/three.js",
+        "id": "2367",
+        "repo_id": "94388",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mrdoob/three.js/pull/6953"
+    }
+]

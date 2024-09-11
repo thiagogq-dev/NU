@@ -1,0 +1,79 @@
+[
+    {
+        "repo_name": "h2database/h2database",
+        "id": "12",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/2415"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "13",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/2298"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "28",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/1794"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "29",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/1784"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "46",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/1240"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "52",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/1154"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "53",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/1059"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "56",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/976"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "57",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/872"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "65",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/714"
+    },
+    {
+        "repo_name": "h2database/h2database",
+        "id": "81",
+        "repo_id": "20",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/h2database/h2database/pull/241"
+    }
+]

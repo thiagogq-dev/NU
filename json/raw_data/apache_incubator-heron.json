@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "apache/incubator-heron",
+        "id": "151",
+        "repo_id": "167",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/incubator-heron/pull/3747"
+    },
+    {
+        "repo_name": "apache/incubator-heron",
+        "id": "152",
+        "repo_id": "167",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/incubator-heron/pull/3744"
+    },
+    {
+        "repo_name": "apache/incubator-heron",
+        "id": "175",
+        "repo_id": "167",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/incubator-heron/pull/2975"
+    }
+]

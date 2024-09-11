@@ -1,0 +1,51 @@
+[
+    {
+        "repo_name": "edx/edx-platform",
+        "id": "2034",
+        "repo_id": "18123",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/edx/edx-platform/pull/27098"
+    },
+    {
+        "repo_name": "edx/edx-platform",
+        "id": "2035",
+        "repo_id": "18123",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/edx/edx-platform/pull/27077"
+    },
+    {
+        "repo_name": "edx/edx-platform",
+        "id": "2036",
+        "repo_id": "18123",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/edx/edx-platform/pull/23567"
+    },
+    {
+        "repo_name": "edx/edx-platform",
+        "id": "2038",
+        "repo_id": "18123",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/edx/edx-platform/pull/20494"
+    },
+    {
+        "repo_name": "edx/edx-platform",
+        "id": "2039",
+        "repo_id": "18123",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/edx/edx-platform/pull/20476"
+    },
+    {
+        "repo_name": "edx/edx-platform",
+        "id": "2071",
+        "repo_id": "18123",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/edx/edx-platform/pull/9921"
+    },
+    {
+        "repo_name": "edx/edx-platform",
+        "id": "2095",
+        "repo_id": "18123",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/edx/edx-platform/pull/4793"
+    }
+]

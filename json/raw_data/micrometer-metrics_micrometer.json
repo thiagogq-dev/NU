@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "30",
+        "repo_id": "52",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/2531"
+    },
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "42",
+        "repo_id": "52",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/2277"
+    },
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "51",
+        "repo_id": "52",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/1905"
+    },
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "102",
+        "repo_id": "52",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/188"
+    }
+]

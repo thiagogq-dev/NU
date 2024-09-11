@@ -1,0 +1,79 @@
+[
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2562",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62767"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2563",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62717"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2564",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62559"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2567",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/56912"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2568",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/55699"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2569",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/48241"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2570",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/43327"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2571",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/37128"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2572",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/35913"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2573",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/35810"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2574",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/35619"
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "repo_name": "facebook/react",
+        "id": "2499",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/22593"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2501",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/20171"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2502",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/19154"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2503",
+        "repo_id": "94377",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/react/pull/19018"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2504",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/18489"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2505",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/18273"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2506",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/17904"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2510",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/16555"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2511",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/16157"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2512",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/15784"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2514",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/15341"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2515",
+        "repo_id": "94377",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/react/pull/15047"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2519",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/14095"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2520",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/13376"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2532",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/6089"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2533",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/5999"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2535",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/5707"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2542",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/3583"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2544",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/3170"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2547",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/2799"
+    }
+]

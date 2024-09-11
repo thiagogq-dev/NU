@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2453",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/1577"
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2454",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/1544"
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2456",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/837"
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2457",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/595"
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2460",
+        "repo_id": "94398",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/hakimel/reveal.js/pull/442"
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "apache/kafka",
+        "id": "469",
+        "repo_id": "2279",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kafka/pull/10922"
+    }
+]

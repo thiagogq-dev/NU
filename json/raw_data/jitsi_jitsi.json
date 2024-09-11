@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "jitsi/jitsi",
+        "id": "143",
+        "repo_id": "151",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jitsi/jitsi/pull/347"
+    },
+    {
+        "repo_name": "jitsi/jitsi",
+        "id": "144",
+        "repo_id": "151",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jitsi/jitsi/pull/154"
+    },
+    {
+        "repo_name": "jitsi/jitsi",
+        "id": "149",
+        "repo_id": "151",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jitsi/jitsi/pull/16"
+    }
+]

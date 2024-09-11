@@ -1,0 +1,303 @@
+[
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2196",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/32744"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2198",
+        "repo_id": "94381",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/facebook/react-native/pull/32472"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2199",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/31522"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2200",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/31334"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2201",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/31070"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2202",
+        "repo_id": "94381",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/react-native/pull/30763"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2203",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/30609"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2205",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/30044"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2209",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/28885"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2213",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/28083"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2240",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/23520"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2241",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/23483"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2242",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/23429"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2244",
+        "repo_id": "94381",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/react-native/pull/23051"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2247",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/22763"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2251",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/21575"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2254",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/21069"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2255",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/21058"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2258",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/20686"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2262",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/19662"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2265",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/18526"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2271",
+        "repo_id": "94381",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/react-native/pull/17747"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2272",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/17741"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2281",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/16272"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2284",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/16014"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2285",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/15733"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2318",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/11815"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2319",
+        "repo_id": "94381",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/facebook/react-native/pull/11806"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2321",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/11358"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2322",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/11231"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2328",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/10893"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2329",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/10714"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2340",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/8789"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2354",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/6563"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2355",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/6540"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2359",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/6153"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2362",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/5789"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2373",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/3394"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2376",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/2406"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2378",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/1918"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2387",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/622"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2390",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/339"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2391",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/265"
+    }
+]

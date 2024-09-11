@@ -1,0 +1,114 @@
+[
+    {
+        "repo_name": "pallets/flask",
+        "id": "2044",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/4301"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2045",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/4221"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2046",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/3904"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2047",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/3737"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2048",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/3726"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2049",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2796"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2050",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2386"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2051",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2309"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2053",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2059"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2054",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1827"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2057",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1402"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2058",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1400"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2059",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1381"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2061",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/948"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2062",
+        "repo_id": "93948",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/pallets/flask/pull/829"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2064",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/346"
+    }
+]

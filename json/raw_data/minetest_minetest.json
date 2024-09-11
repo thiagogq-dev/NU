@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "minetest/minetest",
+        "id": "233",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/11133"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "234",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/10460"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "235",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/10444"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "236",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/9943"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "239",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/8707"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "241",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/7394"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "242",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/5411"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "243",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/4395"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "245",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/3765"
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "248",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/236"
+    }
+]

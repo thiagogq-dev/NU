@@ -1,0 +1,93 @@
+[
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "603",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/2180"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "606",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1859"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "607",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1738"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "608",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1721"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "609",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1573"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "610",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1475"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "612",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1307"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "613",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1249"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "614",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1248"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "615",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1132"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "616",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1131"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "617",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1088"
+    },
+    {
+        "repo_name": "dequelabs/axe-core",
+        "id": "618",
+        "repo_id": "2548",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dequelabs/axe-core/pull/1058"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "apache/druid",
+        "id": "285",
+        "repo_id": "1791",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/druid/pull/10463"
+    },
+    {
+        "repo_name": "apache/druid",
+        "id": "287",
+        "repo_id": "1791",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/druid/pull/10137"
+    }
+]

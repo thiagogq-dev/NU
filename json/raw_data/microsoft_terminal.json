@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "microsoft/terminal",
+        "id": "485",
+        "repo_id": "1969",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/terminal/pull/11310"
+    },
+    {
+        "repo_name": "microsoft/terminal",
+        "id": "497",
+        "repo_id": "1969",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/terminal/pull/8455"
+    },
+    {
+        "repo_name": "microsoft/terminal",
+        "id": "501",
+        "repo_id": "1969",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/terminal/pull/6631"
+    },
+    {
+        "repo_name": "microsoft/terminal",
+        "id": "503",
+        "repo_id": "1969",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/terminal/pull/5823"
+    },
+    {
+        "repo_name": "microsoft/terminal",
+        "id": "508",
+        "repo_id": "1969",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/terminal/pull/2720"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "chartjs/Chart.js",
+        "id": "2419",
+        "repo_id": "94401",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/chartjs/Chart.js/pull/6891"
+    },
+    {
+        "repo_name": "chartjs/Chart.js",
+        "id": "2420",
+        "repo_id": "94401",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/chartjs/Chart.js/pull/6670"
+    },
+    {
+        "repo_name": "chartjs/Chart.js",
+        "id": "2427",
+        "repo_id": "94401",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/chartjs/Chart.js/pull/5840"
+    }
+]

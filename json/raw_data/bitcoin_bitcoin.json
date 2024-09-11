@@ -1,0 +1,842 @@
+[
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "306",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23695"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "307",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23466"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "308",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23360"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "309",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23309"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "310",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23074"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "311",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23001"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "312",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/22995"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "315",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/22417"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "316",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/22392"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "317",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/22331"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "318",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/22279"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "319",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/22115"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "320",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/21856"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "324",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/21672"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "325",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/21664"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "326",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/21523"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "327",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/21383"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "330",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/20980"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "331",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/20963"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "332",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/20810"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "333",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/20434"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "337",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/19869"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "338",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/19841"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "339",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/19806"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "341",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/18971"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "342",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/18862"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "344",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/18443"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "345",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/18434"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "346",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/18415"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "349",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17881"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "350",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17863"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "351",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17857"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "352",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17747"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "353",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17663"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "355",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17275"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "356",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17274"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "357",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/17235"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "358",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/16800"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "361",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/16572"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "365",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/16326"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "366",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/16312"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "368",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/16213"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "369",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/16164"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "370",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/16140"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "375",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/15577"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "379",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/15244"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "380",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/15223"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "381",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/14756"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "382",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/14655"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "384",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/14451"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "386",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/13452"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "387",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/13335"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "388",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/13139"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "389",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/13134"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "391",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/12617"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "392",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/12322"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "393",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/12196"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "394",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/11856"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "395",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/11843"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "396",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/11482"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "397",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/10997"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "399",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/10553"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "402",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/10350"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "405",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/10338"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "406",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/10282"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "407",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/10276"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "410",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/9867"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "412",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/9616"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "414",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/9484"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "417",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/9156"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "418",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/9115"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "419",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/9037"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "420",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/8903"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "421",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/8702"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "422",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/8676"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "425",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/8138"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "426",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7974"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "427",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7949"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "428",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7922"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "429",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7667"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "430",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7487"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "433",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7004"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "435",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6854"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "436",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6795"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "440",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6334"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "445",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6306"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "446",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6265"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "447",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6230"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "450",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/5885"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "452",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/5621"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "455",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/5466"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "456",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/5434"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "461",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/5056"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "462",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/4925"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "463",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/4862"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "464",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/4768"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "470",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/4401"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "475",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3939"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2006",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3343"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2007",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3306"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2008",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3145"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2009",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3094"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2010",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3080"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2011",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/2994"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2012",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/2273"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2013",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/2223"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2014",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/2121"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2015",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1992"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2016",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1987"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2017",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1673"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2018",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1456"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2019",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1453"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2020",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1349"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2021",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1177"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2022",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/965"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2023",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/541"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2024",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/284"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2025",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/253"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2026",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/192"
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2027",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/51"
+    }
+]

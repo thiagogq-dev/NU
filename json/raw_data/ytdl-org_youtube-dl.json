@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "ytdl-org/youtube-dl",
+        "id": "2099",
+        "repo_id": "93944",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/8142"
+    },
+    {
+        "repo_name": "ytdl-org/youtube-dl",
+        "id": "2102",
+        "repo_id": "93944",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/6408"
+    },
+    {
+        "repo_name": "ytdl-org/youtube-dl",
+        "id": "2103",
+        "repo_id": "93944",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/5186"
+    },
+    {
+        "repo_name": "ytdl-org/youtube-dl",
+        "id": "2107",
+        "repo_id": "93944",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/2956"
+    },
+    {
+        "repo_name": "ytdl-org/youtube-dl",
+        "id": "2110",
+        "repo_id": "93944",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/ytdl-org/youtube-dl/pull/1551"
+    }
+]

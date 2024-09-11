@@ -1,0 +1,65 @@
+[
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "76",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2234"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "77",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2025"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "78",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2008"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "79",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2006"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "89",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/1041"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "92",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/879"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "93",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/860"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "101",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/398"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "105",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/52"
+    }
+]

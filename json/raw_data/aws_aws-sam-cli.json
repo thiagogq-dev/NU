@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "aws/aws-sam-cli",
+        "id": "2029",
+        "repo_id": "18127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/aws/aws-sam-cli/pull/1793"
+    },
+    {
+        "repo_name": "aws/aws-sam-cli",
+        "id": "2033",
+        "repo_id": "18127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/aws/aws-sam-cli/pull/552"
+    }
+]

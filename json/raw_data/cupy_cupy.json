@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "cupy/cupy",
+        "id": "2032",
+        "repo_id": "18037",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/cupy/cupy/pull/959"
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "repo_name": "runelite/runelite",
+        "id": "135",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/13857"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "162",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/12640"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "168",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/12335"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "169",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/12333"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "176",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/11851"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "181",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/11659"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "190",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/11076"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "191",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/11066"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "192",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/11058"
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "217",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/10870"
+    }
+]

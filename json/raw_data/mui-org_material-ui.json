@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "mui-org/material-ui",
+        "id": "2226",
+        "repo_id": "94389",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mui-org/material-ui/pull/29436"
+    },
+    {
+        "repo_name": "mui-org/material-ui",
+        "id": "2227",
+        "repo_id": "94389",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mui-org/material-ui/pull/29187"
+    },
+    {
+        "repo_name": "mui-org/material-ui",
+        "id": "2235",
+        "repo_id": "94389",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mui-org/material-ui/pull/28699"
+    },
+    {
+        "repo_name": "mui-org/material-ui",
+        "id": "2248",
+        "repo_id": "94389",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mui-org/material-ui/pull/27627"
+    },
+    {
+        "repo_name": "mui-org/material-ui",
+        "id": "2309",
+        "repo_id": "94389",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mui-org/material-ui/pull/22383"
+    }
+]

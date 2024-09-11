@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "quarkusio/quarkus",
+        "id": "275",
+        "repo_id": "1720",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/quarkusio/quarkus/pull/22397"
+    },
+    {
+        "repo_name": "quarkusio/quarkus",
+        "id": "281",
+        "repo_id": "1720",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/quarkusio/quarkus/pull/16525"
+    }
+]

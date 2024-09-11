@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "openssl/openssl",
+        "id": "1841",
+        "repo_id": "17832",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openssl/openssl/pull/693"
+    }
+]

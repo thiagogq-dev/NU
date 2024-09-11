@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "traccar/traccar",
+        "id": "67",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/4512"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "68",
+        "repo_id": "107",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/traccar/traccar/pull/4371"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "74",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/3860"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "75",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/3724"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "90",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/2591"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "91",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/2552"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "94",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/1713"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "98",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/1252"
+    }
+]

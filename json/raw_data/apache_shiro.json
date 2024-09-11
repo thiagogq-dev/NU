@@ -1,0 +1,65 @@
+[
+    {
+        "repo_name": "apache/shiro",
+        "id": "186",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/194"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "187",
+        "repo_id": "184",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apache/shiro/pull/159"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "203",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/83"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "204",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/71"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "205",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/66"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "206",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/57"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "207",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/55"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "208",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/47"
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "209",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/15"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "libgit2/libgit2",
+        "id": "2565",
+        "repo_id": "15227",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/libgit2/libgit2/pull/4418"
+    },
+    {
+        "repo_name": "libgit2/libgit2",
+        "id": "2566",
+        "repo_id": "15227",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/libgit2/libgit2/pull/3494"
+    }
+]

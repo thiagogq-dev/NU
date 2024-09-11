@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "testcontainers/testcontainers-java",
+        "id": "244",
+        "repo_id": "939",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/testcontainers/testcontainers-java/pull/1296"
+    }
+]

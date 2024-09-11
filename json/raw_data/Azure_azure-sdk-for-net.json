@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "Azure/azure-sdk-for-net",
+        "id": "373",
+        "repo_id": "1977",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/Azure/azure-sdk-for-net/pull/24797"
+    }
+]

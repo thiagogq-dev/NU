@@ -1,0 +1,79 @@
+[
+    {
+        "repo_name": "apache/kylin",
+        "id": "58",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/1350"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "61",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/1193"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "62",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/1192"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "73",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/1046"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "84",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/963"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "96",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/598"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "118",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/297"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "119",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/295"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "140",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/48"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "141",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/47"
+    },
+    {
+        "repo_name": "apache/kylin",
+        "id": "142",
+        "repo_id": "66",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/kylin/pull/46"
+    }
+]

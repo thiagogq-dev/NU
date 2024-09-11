@@ -1,0 +1,51 @@
+[
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2268",
+        "repo_id": "94395",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/webpack/webpack/pull/10107"
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2269",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/9856"
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2277",
+        "repo_id": "94395",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/webpack/webpack/pull/9407"
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2291",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/7266"
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2295",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/6549"
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2326",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/1270"
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2327",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/1269"
+    }
+]

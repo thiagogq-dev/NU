@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1047",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/12746"
+    },
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1048",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/12348"
+    },
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1058",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/7547"
+    },
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1074",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/5314"
+    }
+]

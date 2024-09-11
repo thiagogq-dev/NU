@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "protocolbuffers/protobuf",
+        "id": "314",
+        "repo_id": "1964",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/protocolbuffers/protobuf/pull/9018"
+    },
+    {
+        "repo_name": "protocolbuffers/protobuf",
+        "id": "328",
+        "repo_id": "1964",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/protocolbuffers/protobuf/pull/6889"
+    },
+    {
+        "repo_name": "protocolbuffers/protobuf",
+        "id": "329",
+        "repo_id": "1964",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/protocolbuffers/protobuf/pull/6844"
+    },
+    {
+        "repo_name": "protocolbuffers/protobuf",
+        "id": "340",
+        "repo_id": "1964",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/protocolbuffers/protobuf/pull/4226"
+    }
+]

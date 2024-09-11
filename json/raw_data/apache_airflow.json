@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "apache/airflow",
+        "id": "2105",
+        "repo_id": "93996",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/airflow/pull/16446"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "id": "2157",
+        "repo_id": "93996",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/airflow/pull/7077"
+    },
+    {
+        "repo_name": "apache/airflow",
+        "id": "2159",
+        "repo_id": "93996",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/airflow/pull/4074"
+    }
+]

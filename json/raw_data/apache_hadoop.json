@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "apache/hadoop",
+        "id": "408",
+        "repo_id": "2172",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/hadoop/pull/2480"
+    }
+]

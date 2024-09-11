@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "monero-project/monero",
+        "id": "240",
+        "repo_id": "877",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/monero-project/monero/pull/5529"
+    },
+    {
+        "repo_name": "monero-project/monero",
+        "id": "246",
+        "repo_id": "877",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/monero-project/monero/pull/1944"
+    },
+    {
+        "repo_name": "monero-project/monero",
+        "id": "247",
+        "repo_id": "877",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/monero-project/monero/pull/1941"
+    }
+]

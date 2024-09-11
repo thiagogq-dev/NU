@@ -1,0 +1,128 @@
+[
+    {
+        "repo_name": "apple/swift",
+        "id": "584",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/35220"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "589",
+        "repo_id": "1966",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apple/swift/pull/34927"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "598",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/34215"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "601",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/33823"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "642",
+        "repo_id": "1966",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apple/swift/pull/30246"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "643",
+        "repo_id": "1966",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apple/swift/pull/30135"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "715",
+        "repo_id": "1966",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apple/swift/pull/28313"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "755",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/27015"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "756",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/26917"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "777",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/26294"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "782",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/26122"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "808",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/25549"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "925",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/21057"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "1187",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/9479"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "1202",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/8938"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "1213",
+        "repo_id": "1966",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apple/swift/pull/8203"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "1298",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/4753"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "1320",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/3859"
+    }
+]

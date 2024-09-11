@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "prestodb/presto",
+        "id": "476",
+        "repo_id": "2187",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/prestodb/presto/pull/11912"
+    }
+]

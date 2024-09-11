@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "apache/pinot",
+        "id": "226",
+        "repo_id": "187",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/pinot/pull/6774"
+    },
+    {
+        "repo_name": "apache/pinot",
+        "id": "228",
+        "repo_id": "187",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/apache/pinot/pull/5941"
+    },
+    {
+        "repo_name": "apache/pinot",
+        "id": "229",
+        "repo_id": "187",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/apache/pinot/pull/5896"
+    },
+    {
+        "repo_name": "apache/pinot",
+        "id": "230",
+        "repo_id": "187",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/apache/pinot/pull/5888"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "id": "170",
+        "repo_id": "130",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/graphhopper/graphhopper/pull/2328"
+    },
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "id": "171",
+        "repo_id": "130",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/graphhopper/graphhopper/pull/2309"
+    },
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "id": "172",
+        "repo_id": "130",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/graphhopper/graphhopper/pull/2209"
+    },
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "id": "177",
+        "repo_id": "130",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/graphhopper/graphhopper/pull/1850"
+    },
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "id": "183",
+        "repo_id": "130",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/graphhopper/graphhopper/pull/1640"
+    },
+    {
+        "repo_name": "graphhopper/graphhopper",
+        "id": "216",
+        "repo_id": "130",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/graphhopper/graphhopper/pull/1314"
+    }
+]

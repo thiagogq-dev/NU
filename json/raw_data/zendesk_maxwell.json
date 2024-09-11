@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "zendesk/maxwell",
+        "id": "4",
+        "repo_id": "26",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/zendesk/maxwell/pull/1772"
+    },
+    {
+        "repo_name": "zendesk/maxwell",
+        "id": "6",
+        "repo_id": "26",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/zendesk/maxwell/pull/1427"
+    },
+    {
+        "repo_name": "zendesk/maxwell",
+        "id": "9",
+        "repo_id": "26",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/zendesk/maxwell/pull/1260"
+    },
+    {
+        "repo_name": "zendesk/maxwell",
+        "id": "10",
+        "repo_id": "26",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/zendesk/maxwell/pull/1234"
+    },
+    {
+        "repo_name": "zendesk/maxwell",
+        "id": "11",
+        "repo_id": "26",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/zendesk/maxwell/pull/1101"
+    }
+]

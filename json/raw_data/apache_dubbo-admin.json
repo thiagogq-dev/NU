@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "apache/dubbo-admin",
+        "id": "103",
+        "repo_id": "127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/dubbo-admin/pull/589"
+    },
+    {
+        "repo_name": "apache/dubbo-admin",
+        "id": "110",
+        "repo_id": "127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/dubbo-admin/pull/249"
+    }
+]

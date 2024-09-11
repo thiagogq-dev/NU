@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "spring-projects/spring-security",
+        "id": "262",
+        "repo_id": "1224",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-security/pull/9318"
+    },
+    {
+        "repo_name": "spring-projects/spring-security",
+        "id": "264",
+        "repo_id": "1224",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-security/pull/8436"
+    },
+    {
+        "repo_name": "spring-projects/spring-security",
+        "id": "266",
+        "repo_id": "1224",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-security/pull/6923"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "androidx/androidx",
+        "id": "85",
+        "repo_id": "105",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/androidx/androidx/pull/57"
+    },
+    {
+        "repo_name": "androidx/androidx",
+        "id": "86",
+        "repo_id": "105",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/androidx/androidx/pull/56"
+    }
+]
