@@ -4,6 +4,7 @@
         "id": "2032",
         "repo_id": "18037",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/cupy/cupy/pull/959"
+        "url": "https://github.com/cupy/cupy/pull/959",
+        "fix_commit_hash": "bcda75bf2a67b0c85884a32374a794932431cc07"
     }
 ]
