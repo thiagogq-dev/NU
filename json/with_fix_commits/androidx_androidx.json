@@ -4,13 +4,15 @@
         "id": "85",
         "repo_id": "105",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/androidx/androidx/pull/57"
+        "url": "https://github.com/androidx/androidx/pull/57",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "androidx/androidx",
         "id": "86",
         "repo_id": "105",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/androidx/androidx/pull/56"
+        "url": "https://github.com/androidx/androidx/pull/56",
+        "fix_commit_hash": null
     }
 ]
