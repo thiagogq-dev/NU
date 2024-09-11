@@ -4,6 +4,7 @@
         "id": "60",
         "repo_id": "29",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/DiUS/java-faker/pull/264"
+        "url": "https://github.com/DiUS/java-faker/pull/264",
+        "fix_commit_hash": null
     }
 ]
