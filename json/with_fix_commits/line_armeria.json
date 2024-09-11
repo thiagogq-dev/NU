@@ -4,125 +4,143 @@
         "id": "69",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/3984"
+        "url": "https://github.com/line/armeria/pull/3984",
+        "fix_commit_hash": "920eca8abeeffe3ab9293e866a6d27acdc6ee468"
     },
     {
         "repo_name": "line/armeria",
         "id": "70",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/3939"
+        "url": "https://github.com/line/armeria/pull/3939",
+        "fix_commit_hash": "b34fe092e9addbb50d86f278f260599b91d0b803"
     },
     {
         "repo_name": "line/armeria",
         "id": "80",
         "repo_id": "119",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/line/armeria/pull/3727"
+        "url": "https://github.com/line/armeria/pull/3727",
+        "fix_commit_hash": "fcd2d72a73218a3dda4c2c89f4908ec1ad12d810"
     },
     {
         "repo_name": "line/armeria",
         "id": "104",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/3057"
+        "url": "https://github.com/line/armeria/pull/3057",
+        "fix_commit_hash": "3da7376260bc598c0c7600786e99373182f3674f"
     },
     {
         "repo_name": "line/armeria",
         "id": "111",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/3002"
+        "url": "https://github.com/line/armeria/pull/3002",
+        "fix_commit_hash": "99a55e9a4f866b02a6594236c989c0f95de62815"
     },
     {
         "repo_name": "line/armeria",
         "id": "112",
         "repo_id": "119",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/line/armeria/pull/2964"
+        "url": "https://github.com/line/armeria/pull/2964",
+        "fix_commit_hash": "1bbc6e060e23c1d1388697c7e12f50d55fbc3f5f"
     },
     {
         "repo_name": "line/armeria",
         "id": "113",
         "repo_id": "119",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/line/armeria/pull/2938"
+        "url": "https://github.com/line/armeria/pull/2938",
+        "fix_commit_hash": "878684c4858dcee496f92117ccc615b1cf310fa6"
     },
     {
         "repo_name": "line/armeria",
         "id": "114",
         "repo_id": "119",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/line/armeria/pull/2930"
+        "url": "https://github.com/line/armeria/pull/2930",
+        "fix_commit_hash": "4edb071dbc518234f21a2df57e0249e2e1555599"
     },
     {
         "repo_name": "line/armeria",
         "id": "115",
         "repo_id": "119",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/line/armeria/pull/2886"
+        "url": "https://github.com/line/armeria/pull/2886",
+        "fix_commit_hash": "a78205f0081abd0853a9899c8e174babde6a48de"
     },
     {
         "repo_name": "line/armeria",
         "id": "120",
         "repo_id": "119",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/line/armeria/pull/2848"
+        "url": "https://github.com/line/armeria/pull/2848",
+        "fix_commit_hash": "7827f5753b9dddc9022ab96f4c46a40bdaf49f10"
     },
     {
         "repo_name": "line/armeria",
         "id": "134",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/2692"
+        "url": "https://github.com/line/armeria/pull/2692",
+        "fix_commit_hash": "c23becb4e4c0e0dc39474573cf75cad8e6172420"
     },
     {
         "repo_name": "line/armeria",
         "id": "145",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/2340"
+        "url": "https://github.com/line/armeria/pull/2340",
+        "fix_commit_hash": "e14613a9699ce6e483e5aea07018478fab2ee270"
     },
     {
         "repo_name": "line/armeria",
         "id": "146",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/2303"
+        "url": "https://github.com/line/armeria/pull/2303",
+        "fix_commit_hash": "4c3dfa0a1eeee92d6bc5a78fff4e0d4362edd68f"
     },
     {
         "repo_name": "line/armeria",
         "id": "150",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/2224"
+        "url": "https://github.com/line/armeria/pull/2224",
+        "fix_commit_hash": "d6a75eaae87a3b100526df53878d03014b8a0ef4"
     },
     {
         "repo_name": "line/armeria",
         "id": "164",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/1731"
+        "url": "https://github.com/line/armeria/pull/1731",
+        "fix_commit_hash": "92919ff6b4883e5500124b8b426f44ea1d5457bc"
     },
     {
         "repo_name": "line/armeria",
         "id": "165",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/1689"
+        "url": "https://github.com/line/armeria/pull/1689",
+        "fix_commit_hash": "07f80997830c5e9b6468be406f0a562b5f47889d"
     },
     {
         "repo_name": "line/armeria",
         "id": "182",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/1315"
+        "url": "https://github.com/line/armeria/pull/1315",
+        "fix_commit_hash": "c53bfccd1bad83ed64598c1ebf928a1477a5e5d5"
     },
     {
         "repo_name": "line/armeria",
         "id": "189",
         "repo_id": "119",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/line/armeria/pull/1144"
+        "url": "https://github.com/line/armeria/pull/1144",
+        "fix_commit_hash": "b44583730983ce57f0c9529bb2f9af6c33221138"
     }
 ]
