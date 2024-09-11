@@ -4,34 +4,39 @@
         "id": "4",
         "repo_id": "26",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/zendesk/maxwell/pull/1772"
+        "url": "https://github.com/zendesk/maxwell/pull/1772",
+        "fix_commit_hash": "21be210f6ecd455daed0a8d7416c33d78a2bdeff"
     },
     {
         "repo_name": "zendesk/maxwell",
         "id": "6",
         "repo_id": "26",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/zendesk/maxwell/pull/1427"
+        "url": "https://github.com/zendesk/maxwell/pull/1427",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "zendesk/maxwell",
         "id": "9",
         "repo_id": "26",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/zendesk/maxwell/pull/1260"
+        "url": "https://github.com/zendesk/maxwell/pull/1260",
+        "fix_commit_hash": "87f347785a0aa03ef5cf56c0f112ae6938ea8227"
     },
     {
         "repo_name": "zendesk/maxwell",
         "id": "10",
         "repo_id": "26",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/zendesk/maxwell/pull/1234"
+        "url": "https://github.com/zendesk/maxwell/pull/1234",
+        "fix_commit_hash": "09177801dad1e093aa1fc7e24b8ddaf72b5de932"
     },
     {
         "repo_name": "zendesk/maxwell",
         "id": "11",
         "repo_id": "26",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/zendesk/maxwell/pull/1101"
+        "url": "https://github.com/zendesk/maxwell/pull/1101",
+        "fix_commit_hash": "aa8f7f80a399d9b68941f7a733ba17251a8ffd05"
     }
 ]
