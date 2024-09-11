@@ -4,6 +4,7 @@
         "id": "1586",
         "repo_id": "17906",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/Genymobile/scrcpy/pull/2212"
+        "url": "https://github.com/Genymobile/scrcpy/pull/2212",
+        "fix_commit_hash": null
     }
 ]
