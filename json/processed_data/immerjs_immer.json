@@ -1,0 +1,1 @@
+[{"repo_name": "immerjs/immer", "id": "2186", "repo_id": "94341", "terms_vulnerability": "secur", "url": "https://github.com/immerjs/immer/pull/706", "fix_commit_hash": "d75de7031c3430fbcb76fa7b90cf681ba5042df9", "inducing_commit_hash_pyszz": ["13b0ed0b202f169a7e860fff40b972ee0414a600"]}]
