@@ -4,34 +4,39 @@
         "id": "485",
         "repo_id": "1969",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/microsoft/terminal/pull/11310"
+        "url": "https://github.com/microsoft/terminal/pull/11310",
+        "fix_commit_hash": "bc97af701e4061a18da111dbd00f5a766c6dfb13"
     },
     {
         "repo_name": "microsoft/terminal",
         "id": "497",
         "repo_id": "1969",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/microsoft/terminal/pull/8455"
+        "url": "https://github.com/microsoft/terminal/pull/8455",
+        "fix_commit_hash": "f7b0f7444a101420665de1cf5400d02408226666"
     },
     {
         "repo_name": "microsoft/terminal",
         "id": "501",
         "repo_id": "1969",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/microsoft/terminal/pull/6631"
+        "url": "https://github.com/microsoft/terminal/pull/6631",
+        "fix_commit_hash": "985f85ddcad44800d13233c258cfba96f097aa12"
     },
     {
         "repo_name": "microsoft/terminal",
         "id": "503",
         "repo_id": "1969",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/microsoft/terminal/pull/5823"
+        "url": "https://github.com/microsoft/terminal/pull/5823",
+        "fix_commit_hash": "b24579d2b04bcbf177c513e4d1885d12511b3aee"
     },
     {
         "repo_name": "microsoft/terminal",
         "id": "508",
         "repo_id": "1969",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/microsoft/terminal/pull/2720"
+        "url": "https://github.com/microsoft/terminal/pull/2720",
+        "fix_commit_hash": "2063197605bd5523cbdfb7948f558e00cd86ebf3"
     }
 ]
