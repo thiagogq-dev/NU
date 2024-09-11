@@ -4,27 +4,31 @@
         "id": "30",
         "repo_id": "52",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/micrometer-metrics/micrometer/pull/2531"
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/2531",
+        "fix_commit_hash": "a6198dafaad05b49db66c58dd6d7f01541ea6bea"
     },
     {
         "repo_name": "micrometer-metrics/micrometer",
         "id": "42",
         "repo_id": "52",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/micrometer-metrics/micrometer/pull/2277"
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/2277",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "micrometer-metrics/micrometer",
         "id": "51",
         "repo_id": "52",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/micrometer-metrics/micrometer/pull/1905"
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/1905",
+        "fix_commit_hash": "b1d3a1265d5b937ce24a2286e0063bca67c535f2"
     },
     {
         "repo_name": "micrometer-metrics/micrometer",
         "id": "102",
         "repo_id": "52",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/micrometer-metrics/micrometer/pull/188"
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/188",
+        "fix_commit_hash": "67240da308f17720e7cf127321ff7ed39c7a6b1e"
     }
 ]
