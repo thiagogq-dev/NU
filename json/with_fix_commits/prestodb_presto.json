@@ -4,6 +4,7 @@
         "id": "476",
         "repo_id": "2187",
         "terms_vulnerability": "vulner",
-        "url": "https://github.com/prestodb/presto/pull/11912"
+        "url": "https://github.com/prestodb/presto/pull/11912",
+        "fix_commit_hash": "5d3fbee7af778e53d6eba09ec9177386f7108b70"
     }
 ]
