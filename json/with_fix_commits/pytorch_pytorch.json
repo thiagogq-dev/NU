@@ -4,111 +4,127 @@
         "id": "486",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/65365"
+        "url": "https://github.com/pytorch/pytorch/pull/65365",
+        "fix_commit_hash": "de605619121c2ca2a67fa787b114ba906dd145df"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "505",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/63468"
+        "url": "https://github.com/pytorch/pytorch/pull/63468",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "524",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/60368"
+        "url": "https://github.com/pytorch/pytorch/pull/60368",
+        "fix_commit_hash": "94840969e48a228ed19a0289ebc55ce04f83f7ad"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "530",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/59976"
+        "url": "https://github.com/pytorch/pytorch/pull/59976",
+        "fix_commit_hash": "1a7c23c4c07b98469fb578a479adfe2d4228b5f4"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "531",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/59959"
+        "url": "https://github.com/pytorch/pytorch/pull/59959",
+        "fix_commit_hash": "1a7c23c4c07b98469fb578a479adfe2d4228b5f4"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "553",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/56957"
+        "url": "https://github.com/pytorch/pytorch/pull/56957",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "555",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/56831"
+        "url": "https://github.com/pytorch/pytorch/pull/56831",
+        "fix_commit_hash": "72bf54c176791b2208adbc1b4d2967fd01aed0a2"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "575",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/55157"
+        "url": "https://github.com/pytorch/pytorch/pull/55157",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "694",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/45204"
+        "url": "https://github.com/pytorch/pytorch/pull/45204",
+        "fix_commit_hash": "147c88ef2d123dd8e3f6274e2234fb32614942d4"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "917",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/34993"
+        "url": "https://github.com/pytorch/pytorch/pull/34993",
+        "fix_commit_hash": "c9575801336f8094d7628463a0d10cdf867ffaf7"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "918",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/34992"
+        "url": "https://github.com/pytorch/pytorch/pull/34992",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "1027",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/29709"
+        "url": "https://github.com/pytorch/pytorch/pull/29709",
+        "fix_commit_hash": "e870a9a87042805cd52973e36534357f428a0748"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "1069",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/27787"
+        "url": "https://github.com/pytorch/pytorch/pull/27787",
+        "fix_commit_hash": "0df97f3dbff4011a06bc98837fcb12e4f6d87e09"
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "1183",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/18508"
+        "url": "https://github.com/pytorch/pytorch/pull/18508",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "1302",
         "repo_id": "1965",
         "terms_vulnerability": "cwe",
-        "url": "https://github.com/pytorch/pytorch/pull/10753"
+        "url": "https://github.com/pytorch/pytorch/pull/10753",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "pytorch/pytorch",
         "id": "1404",
         "repo_id": "1965",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/pytorch/pytorch/pull/2990"
+        "url": "https://github.com/pytorch/pytorch/pull/2990",
+        "fix_commit_hash": "4af66c43045a317b477918c503d105f565b4a66b"
     }
 ]
