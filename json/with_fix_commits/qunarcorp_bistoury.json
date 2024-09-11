@@ -4,6 +4,7 @@
         "id": "25",
         "repo_id": "62",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/qunarcorp/bistoury/pull/72"
+        "url": "https://github.com/qunarcorp/bistoury/pull/72",
+        "fix_commit_hash": null
     }
 ]
