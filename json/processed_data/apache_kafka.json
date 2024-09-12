@@ -1,1 +1,0 @@
-[{"repo_name": "apache/kafka", "id": "469", "repo_id": "2279", "terms_vulnerability": "secur", "url": "https://github.com/apache/kafka/pull/10922", "fix_commit_hash": "12aa595e17c495a1650d8da349c8ef69f787ebe8", "inducing_commit_hash_pyszz": ["530224e4fe853df734e7bf7c15661fe6b1ab34fe"]}]
