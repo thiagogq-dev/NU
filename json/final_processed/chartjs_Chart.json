@@ -1,0 +1,64 @@
+[
+    {
+        "repo_name": "chartjs/Chart.js",
+        "id": "2419",
+        "repo_id": "94401",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/chartjs/Chart.js/pull/6891",
+        "fix_commit_hash": "27129db2e81df037f14957ba52b86ea4e0087285",
+        "inducing_commit_hash_pyszz": [
+            "eef153de409c51f484a15eb8da891d3eecb54b6d"
+        ],
+        "inducing_commit_hash_pd": [
+            "f68b8adaac713f4ce321f4f53fdcd319e021b584",
+            "eef153de409c51f484a15eb8da891d3eecb54b6d",
+            "1ac3a697f7ff2d360c62455106c40f9c1110368c"
+        ],
+        "matched": [
+            "eef153de409c51f484a15eb8da891d3eecb54b6d"
+        ]
+    },
+    {
+        "repo_name": "chartjs/Chart.js",
+        "id": "2420",
+        "repo_id": "94401",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/chartjs/Chart.js/pull/6670",
+        "fix_commit_hash": "aff7d411404fe3499b9cd11333fb45d5922cdf91",
+        "inducing_commit_hash_pyszz": [
+            "301017373353443755665acf8f4494384c6c9725"
+        ],
+        "inducing_commit_hash_pd": [
+            "301017373353443755665acf8f4494384c6c9725"
+        ],
+        "matched": [
+            "301017373353443755665acf8f4494384c6c9725"
+        ]
+    },
+    {
+        "repo_name": "chartjs/Chart.js",
+        "id": "2427",
+        "repo_id": "94401",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/chartjs/Chart.js/pull/5840",
+        "fix_commit_hash": "75aa44eef677b790768262638df0de223fd01a56",
+        "inducing_commit_hash_pyszz": [
+            "1d5619d6d42867f4380527901f4a39a17095d98e"
+        ],
+        "inducing_commit_hash_pd": [
+            "182270ef9b1bc9fab1cefc89ce1e94a41f4d754f",
+            "ffbdb483105c750c836fde32501f65d9577ddc83",
+            "c216c0af769c9b12bad39b5b889867d7294dee07",
+            "98eea76195402b0908c7462eb6d40d779fb81a44",
+            "cd50edbc84c2f32a1226c14192e504a30bacd73e",
+            "13e9676625723a4c6d4e8232b2fe3fa02421d38b",
+            "92bc1a04cf8b08d5b61459ac09d799659f2b359d",
+            "edf95175a7c644602f1d663294f15085b0e19c81",
+            "04ab523dd46e648a9555ba859d678ac25173cd26",
+            "75791988d3d7187a747a26a25051ca41835b24ad",
+            "8ec7ce2f93a731d53c9330b7ef900a72367ac7aa",
+            "900d249646532170a8e1b0f98b2598839ab68a63"
+        ],
+        "matched": []
+    }
+]
