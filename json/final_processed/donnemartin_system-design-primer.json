@@ -1,0 +1,13 @@
+[
+    {
+        "repo_name": "donnemartin/system-design-primer",
+        "id": "2043",
+        "repo_id": "93940",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/donnemartin/system-design-primer/pull/328",
+        "fix_commit_hash": "fdba2a2586a30b78249e5daba8a807ee532b0af9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
