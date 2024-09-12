@@ -1,0 +1,13 @@
+[
+    {
+        "repo_name": "airbnb/native-navigation",
+        "id": "14",
+        "repo_id": "43",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/airbnb/native-navigation/pull/44",
+        "fix_commit_hash": "846874550f860cd62b0c332f0e9ec547faaac13d",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    }
+]
