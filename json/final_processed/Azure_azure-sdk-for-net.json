@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "Azure/azure-sdk-for-net",
+        "id": "373",
+        "repo_id": "1977",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/Azure/azure-sdk-for-net/pull/24797",
+        "fix_commit_hash": "f993f9d5a6062a04feedd7a72ac71dcb0c7ce77f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "639e185fd0df212f2cfe02eca3f105a793863184",
+            "de2bf7a8d3ed94f4819e87619128187ae981e8ad"
+        ],
+        "matched": []
+    }
+]
