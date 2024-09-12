@@ -1,1 +1,0 @@
-[{"repo_name": "bytedeco/javacpp", "id": "184", "repo_id": "190", "terms_vulnerability": "secur", "url": "https://github.com/bytedeco/javacpp/pull/177", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["53a68ba503393c35b169a60bd30e0d9847b377e6"]}]
