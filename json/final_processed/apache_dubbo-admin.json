@@ -1,0 +1,36 @@
+[
+    {
+        "repo_name": "apache/dubbo-admin",
+        "id": "103",
+        "repo_id": "127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/dubbo-admin/pull/589",
+        "fix_commit_hash": "27f85b4254e52434e988b34226f51f9be800d568",
+        "inducing_commit_hash_pyszz": [
+            "28ee082d07898373dc9192917328ef3badc49892"
+        ],
+        "inducing_commit_hash_pd": [
+            "48f9e8d965460a4216f28cac41bcae81b0c69f6a"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "apache/dubbo-admin",
+        "id": "110",
+        "repo_id": "127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/dubbo-admin/pull/249",
+        "fix_commit_hash": "70b1eb11bf9df1266b027e4900f5ce5b208cd71d",
+        "inducing_commit_hash_pyszz": [
+            "f35b9592d247cc9a4a8a090dc40f9a460bf6cf21"
+        ],
+        "inducing_commit_hash_pd": [
+            "48e66037bd3f96639054cf2a71c4776b46861d53",
+            "f35b9592d247cc9a4a8a090dc40f9a460bf6cf21",
+            "a24593e653d1404f7a1e728f17982d03221f71e8"
+        ],
+        "matched": [
+            "f35b9592d247cc9a4a8a090dc40f9a460bf6cf21"
+        ]
+    }
+]
