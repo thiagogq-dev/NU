@@ -1,0 +1,35 @@
+[
+    {
+        "repo_name": "aws/aws-sam-cli",
+        "id": "2029",
+        "repo_id": "18127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/aws/aws-sam-cli/pull/1793",
+        "fix_commit_hash": "96c8f11b2f87b90600c28d02851777c80e09dc3f",
+        "inducing_commit_hash_pyszz": [
+            "71e5239a087e01c9798a0c4064b50e36b4e721eb"
+        ],
+        "inducing_commit_hash_pd": [
+            "ba348f59dad69dadeedb0ada962ba78105dd0b81",
+            "7cbcfffa4c4c8eac237cfa8613912504d61a8d01",
+            "71e5239a087e01c9798a0c4064b50e36b4e721eb",
+            "c1ddbb3e005458e1122549d72280aeebbd9136a6"
+        ],
+        "matched": [
+            "71e5239a087e01c9798a0c4064b50e36b4e721eb"
+        ]
+    },
+    {
+        "repo_name": "aws/aws-sam-cli",
+        "id": "2033",
+        "repo_id": "18127",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/aws/aws-sam-cli/pull/552",
+        "fix_commit_hash": "bc59a39692ee7c887a4b4828d8b4fea18bb29086",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "9dcd0bc040b0b9c61d7b61cf36748d25de5ec0e5"
+        ],
+        "matched": []
+    }
+]
