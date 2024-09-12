@@ -1,0 +1,182 @@
+[
+    {
+        "repo_name": "crate/crate",
+        "id": "33",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/11842",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "d34caf0239ed3409663dac15d610a991d48c49f5"
+        ],
+        "inducing_commit_hash_pd": [
+            "e6c673500977eaf599fe490ebc764083579cdc55"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "34",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/11826",
+        "fix_commit_hash": "7ca56de9400eb8f7af9154b05888a19f6708aace",
+        "inducing_commit_hash_pyszz": [
+            "8f9d6cdff2532e908e1c785cd1d2cc81cb138906"
+        ],
+        "inducing_commit_hash_pd": [
+            "ed9e58364077bb7b144b6b73821a46b30c030b1b",
+            "23461f6526471ce7534ce8dbdf6aab8fd4374bd5",
+            "b7c3096c545dc68ebaf95c969669b182333a9146",
+            "8f9d6cdff2532e908e1c785cd1d2cc81cb138906",
+            "90561f53af6f54dac0172196ea58a1480123e64b"
+        ],
+        "matched": [
+            "8f9d6cdff2532e908e1c785cd1d2cc81cb138906"
+        ]
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "35",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/11810",
+        "fix_commit_hash": "837f4221dea358e2f2230d41ba984994d3005190",
+        "inducing_commit_hash_pyszz": [
+            "80b66db02f1a14e8df53f444e189466014ed2f2a"
+        ],
+        "inducing_commit_hash_pd": [
+            "80b66db02f1a14e8df53f444e189466014ed2f2a"
+        ],
+        "matched": [
+            "80b66db02f1a14e8df53f444e189466014ed2f2a"
+        ]
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "54",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/11209",
+        "fix_commit_hash": "01bd1c9f028aff38c78972e30c5bda80148f9433",
+        "inducing_commit_hash_pyszz": [
+            "c43a310f26074b56d1b7ca7660016c86277e77bb"
+        ],
+        "inducing_commit_hash_pd": [
+            "c43a310f26074b56d1b7ca7660016c86277e77bb"
+        ],
+        "matched": [
+            "c43a310f26074b56d1b7ca7660016c86277e77bb"
+        ]
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "87",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/10546",
+        "fix_commit_hash": "22fe1ddd4b15756afced0c72d0009f3d9b32130c",
+        "inducing_commit_hash_pyszz": [
+            "858f216fc74ff5f868f8cd614332b1262d60297a"
+        ],
+        "inducing_commit_hash_pd": [
+            "f7cc35cddd16abfd4918e3f66a1d15857a2b880e",
+            "63d438db1648aa61e4faa4b5b8e0da8974f33071",
+            "858f216fc74ff5f868f8cd614332b1262d60297a",
+            "e3b6ddd976d8b378ce4459f89b7f810806607954",
+            "0fac1a405bdace79dc581c57e0634e498c2921ff"
+        ],
+        "matched": [
+            "858f216fc74ff5f868f8cd614332b1262d60297a"
+        ]
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "88",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/10502",
+        "fix_commit_hash": "2c41bde533cac40a0c4890b79a16c824fe7cfbd4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "156",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/9175",
+        "fix_commit_hash": "1853252fcd729d4a8a8d8b655bf7310f28389987",
+        "inducing_commit_hash_pyszz": [
+            "58859cb87fbdaa692f4c73641177f71033f653e9"
+        ],
+        "inducing_commit_hash_pd": [
+            "58859cb87fbdaa692f4c73641177f71033f653e9"
+        ],
+        "matched": [
+            "58859cb87fbdaa692f4c73641177f71033f653e9"
+        ]
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "179",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/8676",
+        "fix_commit_hash": "4159ba3d2fce79af900544481d50a89dd03a37a5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "23461f6526471ce7534ce8dbdf6aab8fd4374bd5"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "180",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/8670",
+        "fix_commit_hash": "52844afcef9b92531a6e2186deea97939894ec70",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "23461f6526471ce7534ce8dbdf6aab8fd4374bd5"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "crate/crate",
+        "id": "201",
+        "repo_id": "81",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/crate/crate/pull/8329",
+        "fix_commit_hash": "cc49e034bc2bb3d776ec90624f93b6136ff31d43",
+        "inducing_commit_hash_pyszz": [
+            "b69afde02768fb4e5278b2d52d9705c7c4cf602c"
+        ],
+        "inducing_commit_hash_pd": [
+            "e09c3dca3cf52a4156b0805d6499b6bea44b09c4",
+            "d98a6f8f86d48dabd8870c9c9d26be19d3800080",
+            "7d9f4fc090c0035a70573234b8a3ccae3ccc15b4",
+            "68fa19ed92627977f1c6e872a0d4c636b99862fb",
+            "2708c1d4567540f6f78da6d38515bd9eac41f252",
+            "4a6efba5df6dee78b8d9111d487f55371e8685fd",
+            "65f53587de88e556d3e4504d337ffd3af706b447",
+            "76a8d753c938f28439bcf557ae23a7037ae58a9a",
+            "66ec27571dd25ba2bad03d5c991b6cecc652ad3a",
+            "05323ad63acb510dd1d7c9005c9de666ce3cd725",
+            "01fceb3e62a9bf182bfbe24edf01c13a065007f4",
+            "85b253ed1037fed775ee2030ccce0abaabae2fef",
+            "b69afde02768fb4e5278b2d52d9705c7c4cf602c",
+            "446b9e04482c0fc02fa623597eef31d8c37481e8",
+            "71d60d46e97286c623c8e927714286ff9dead7f2",
+            "644bf1c0e6f7cc74bbc20ef795783eb3e6c1fd57",
+            "afea99e9547b3f4d3cd8347fca131b59ed81fd51",
+            "4ac54f11e46d837e967aa3982113fbd2208a204b",
+            "57245bdb7defdfb63430dd26adb76a1e22d44be3"
+        ],
+        "matched": [
+            "b69afde02768fb4e5278b2d52d9705c7c4cf602c"
+        ]
+    }
+]
