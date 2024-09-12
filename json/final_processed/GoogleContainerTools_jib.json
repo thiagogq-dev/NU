@@ -1,0 +1,25 @@
+[
+    {
+        "repo_name": "GoogleContainerTools/jib",
+        "id": "279",
+        "repo_id": "1790",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/GoogleContainerTools/jib/pull/2092",
+        "fix_commit_hash": "44307a28045d1ee0f3aa57390610f6df66d0ad9c",
+        "inducing_commit_hash_pyszz": [
+            "1deba991529b538ba9eea09fb0a889ee1551aebe"
+        ],
+        "inducing_commit_hash_pd": [
+            "9052912b3ac5f6be7ead607db2fb22d0e456c516",
+            "68edcc6ea010dff2857e1e698512e2c13cf369ef",
+            "917e2c0e314361c3415f981504cac07df20114bd",
+            "a2a16d29098adf8f65f52917b5cd122831d9beca",
+            "1deba991529b538ba9eea09fb0a889ee1551aebe",
+            "8cdc00f401a9422dded691daf45566ef3f14cefa",
+            "48ef58bf11a0d2893d08450627221b6fda9c0fae"
+        ],
+        "matched": [
+            "1deba991529b538ba9eea09fb0a889ee1551aebe"
+        ]
+    }
+]
