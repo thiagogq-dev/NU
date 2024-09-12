@@ -1,0 +1,178 @@
+[
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2562",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62767",
+        "fix_commit_hash": "dda44e1ede5853ca2f96350d411a1777bc8fa9c7",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2563",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62717",
+        "fix_commit_hash": "932404be6da19b9152c96bc66c8dfca7c54e4079",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2564",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62559",
+        "fix_commit_hash": "0e4909a530c76a18fccfa5ecc6e7f31f81eedee2",
+        "inducing_commit_hash_pyszz": [
+            "439ffd2434ac97ae32f42d3dc035cceb6d4d60cc"
+        ],
+        "inducing_commit_hash_pd": [
+            "439ffd2434ac97ae32f42d3dc035cceb6d4d60cc",
+            "27536d59df9b9e7263d48dfe910b48e3792c57a9",
+            "beff8ab2f5666d11a53d338e05147d526ee3ea67",
+            "aa4b36ebfad28ec202f6a89d76d0bd840235b1ab",
+            "25d4999c5ea8dc551c9505056dba2f57c856c1fa",
+            "dac1290d4659a60e44cde2db38d07fb982f9a6e7",
+            "223cb5af39749ac90387f6873c900e06603ac642"
+        ],
+        "matched": [
+            "439ffd2434ac97ae32f42d3dc035cceb6d4d60cc"
+        ]
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2567",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/56912",
+        "fix_commit_hash": "6f19f67a5144a0a575ccc4ef98b21e8d61432b5f",
+        "inducing_commit_hash_pyszz": [
+            "64689429812ed1f772589aa5abc211795493a54c"
+        ],
+        "inducing_commit_hash_pd": [
+            "64689429812ed1f772589aa5abc211795493a54c"
+        ],
+        "matched": [
+            "64689429812ed1f772589aa5abc211795493a54c"
+        ]
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2568",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/55699",
+        "fix_commit_hash": "bcb1042f809b8502fc5d7151efa5893207806ed8",
+        "inducing_commit_hash_pyszz": [
+            "cbf4020ac41f6f4095ae652d62ad4a6c1bc88a4f"
+        ],
+        "inducing_commit_hash_pd": [
+            "cbf4020ac41f6f4095ae652d62ad4a6c1bc88a4f"
+        ],
+        "matched": [
+            "cbf4020ac41f6f4095ae652d62ad4a6c1bc88a4f"
+        ]
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2569",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/48241",
+        "fix_commit_hash": "7b36d47aaa52865a0d2293140b014a08f2974f47",
+        "inducing_commit_hash_pyszz": [
+            "93e767bd18975bf33d64177f6849c12d7505d206"
+        ],
+        "inducing_commit_hash_pd": [
+            "93e767bd18975bf33d64177f6849c12d7505d206",
+            "ab2dceba806529da7d657ddb0b08c1c49cfc1a1d",
+            "5c274f699d9e63d5e3054dff0b995ec186b96426",
+            "7173ad22d3ca2f2a1178ddfa50fb024f326f82c4",
+            "3c29684ba59cb7999aab0223648e66eb3a3e079a",
+            "b282fa00e5464619f2ccfcbe725acb36a80092fb"
+        ],
+        "matched": [
+            "93e767bd18975bf33d64177f6849c12d7505d206"
+        ]
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2570",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/43327",
+        "fix_commit_hash": "546115d17880b6dc97bf3f0a0c846c760e53b11e",
+        "inducing_commit_hash_pyszz": [
+            "5b0bf40aa640dfa551c801303376b25af7129076"
+        ],
+        "inducing_commit_hash_pd": [
+            "8568d0f4389e9b5a595074b3ec253f8cc2ec6ce9"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2571",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/37128",
+        "fix_commit_hash": "baedfec539e176714b020124dc4cf0551177bd02",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2572",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/35913",
+        "fix_commit_hash": "ea70890b7d8e67e748db5b2f7627d98cb8c79319",
+        "inducing_commit_hash_pyszz": [
+            "c4efc1dafd80f9e0595a6f2247e2f1cd2d737c8d"
+        ],
+        "inducing_commit_hash_pd": [
+            "556fb405e70026ab5f7a95a945e0865e53981a74"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2573",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/35810",
+        "fix_commit_hash": "c72c6a3aacc2db84bb2fb157d575e249ac63e5e7",
+        "inducing_commit_hash_pyszz": [
+            "4b3c115accf62ffce664dd972fb3dba73613a7e7"
+        ],
+        "inducing_commit_hash_pd": [
+            "4b3c115accf62ffce664dd972fb3dba73613a7e7"
+        ],
+        "matched": [
+            "4b3c115accf62ffce664dd972fb3dba73613a7e7"
+        ]
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2574",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/35619",
+        "fix_commit_hash": "ac544ffe305a5a2bac69b1675f4d10da973f7869",
+        "inducing_commit_hash_pyszz": [
+            "8fbbfc083e29c9c0fabe286e6842cbb039de4d05"
+        ],
+        "inducing_commit_hash_pd": [
+            "8fbbfc083e29c9c0fabe286e6842cbb039de4d05"
+        ],
+        "matched": [
+            "8fbbfc083e29c9c0fabe286e6842cbb039de4d05"
+        ]
+    }
+]
