@@ -1,1 +1,0 @@
-[{"repo_name": "dotnet/efcore", "id": "1059", "repo_id": "15298", "terms_vulnerability": "secur", "url": "https://github.com/dotnet/efcore/pull/19707", "fix_commit_hash": "973b1ea1d7e270218e4efa2ce872294d609ba5c0", "inducing_commit_hash_pyszz": ["c32787de45ef0d619f3f254d7abccb4b862f44e6"]}]
