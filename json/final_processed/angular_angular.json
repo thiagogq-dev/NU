@@ -1,0 +1,358 @@
+[
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2320",
+        "repo_id": "94396",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/angular/angular.js/pull/16391",
+        "fix_commit_hash": "b86876c4a20412305f00e5f76e327f1982a99fa5",
+        "inducing_commit_hash_pyszz": [
+            "234053fc9ad90e0d05be7e8359c6af66be94c094"
+        ],
+        "inducing_commit_hash_pd": [
+            "9360aa2d27fd4b35c377ecff3eea2a656ecf7114"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2323",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/16093",
+        "fix_commit_hash": "828a2757b2e04a3bec12012c127812559fab78e3",
+        "inducing_commit_hash_pyszz": [
+            "0616dde95efbd16d541ce2f27fc5a870b704230c"
+        ],
+        "inducing_commit_hash_pd": [
+            "8864e54f1f94883f3e22d7ce7ed87a699467a217",
+            "2240c113f5657171e4dd2ea792221298924608a7",
+            "73daa79e911260fc177727238c3e780e8043244e",
+            "030ae660bb4bf0adadc040750fcc97062a8ed9a2",
+            "f2724b2bbcd6a6dc5a14db95b72e0a37c747af41",
+            "5b2f6fa91fb06e874b98fc9fda25cd86a2ff2c1d",
+            "e645f7cae14618bd8fc7d6b3eadf9307f5a1aeb7",
+            "e58bcfab99450d2c4777d87a7ddfea19b9f38b5c",
+            "099083352ad3033efc260b46df7299048a3a3954",
+            "3134e78fc0fe7bbb35b260edfe1d59b98f794e66",
+            "496138f12a03028daa37bb23f63cb61826c857f6",
+            "963015944401e5cbb0b873280f1ec1893035dd24",
+            "3cf2da0e384e23602a9fea597500d637867c1eb9",
+            "3d367eb7b906ec1e9bee2c97d8e79a31301be62b",
+            "0b94e8a8bf313c0279f3f3b6516f123a32402d0e",
+            "0616dde95efbd16d541ce2f27fc5a870b704230c",
+            "4eaaf9f83c44641b1cbc5976f1968dc9ee4c642b",
+            "79b6d557922bfe70863b5012100d02f33b940bed",
+            "dc4df931778a374f1fb3c8af7545733c09b9c098",
+            "2db0aabee340f1e5554c0d321d263177600aff81",
+            "a3f70172ef23585399f24011f72948f894e31e6f"
+        ],
+        "matched": [
+            "0616dde95efbd16d541ce2f27fc5a870b704230c"
+        ]
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2324",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/16063",
+        "fix_commit_hash": "a772b94b0a4429051bf85b01ed74444e7ecfd747",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2325",
+        "repo_id": "94396",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/angular/angular.js/pull/16010",
+        "fix_commit_hash": "7673ca7d158fffdd8cd0e8ecb1f36901fb471c84",
+        "inducing_commit_hash_pyszz": [
+            "e4c2fe6d427cb1540977520f7e31a7e7a30acfda"
+        ],
+        "inducing_commit_hash_pd": [
+            "ddad26402bd092c19c722bb1cef65018e56a8a35",
+            "35a21532b73d5bd84b4325211c563e6a3e2dde82",
+            "bc0d8c4eea9a34bff5e29dd492dcdd668251be40",
+            "94207f8fb6ee8fe26fe18657f6b5aca6def99605",
+            "e4c2fe6d427cb1540977520f7e31a7e7a30acfda",
+            "9360aa2d27fd4b35c377ecff3eea2a656ecf7114"
+        ],
+        "matched": [
+            "e4c2fe6d427cb1540977520f7e31a7e7a30acfda"
+        ]
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2331",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/15427",
+        "fix_commit_hash": "7f1b8bdfe1043871c5ead2ec602efc41e0de5e53",
+        "inducing_commit_hash_pyszz": [
+            "0ff10e1b56c6b7c4ac465e35c96a5886e294bac5"
+        ],
+        "inducing_commit_hash_pd": [
+            "0ff10e1b56c6b7c4ac465e35c96a5886e294bac5"
+        ],
+        "matched": [
+            "0ff10e1b56c6b7c4ac465e35c96a5886e294bac5"
+        ]
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2332",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/15346",
+        "fix_commit_hash": "0ff10e1b56c6b7c4ac465e35c96a5886e294bac5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2334",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/14903",
+        "fix_commit_hash": "ac0d5286b8931633d774080d6396fb4825d8be33",
+        "inducing_commit_hash_pyszz": [
+            "fabc9f77a3fae10c2b8d9a9ad1541e827cc0390d"
+        ],
+        "inducing_commit_hash_pd": [
+            "fabc9f77a3fae10c2b8d9a9ad1541e827cc0390d"
+        ],
+        "matched": [
+            "fabc9f77a3fae10c2b8d9a9ad1541e827cc0390d"
+        ]
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2338",
+        "repo_id": "94396",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/angular/angular.js/pull/13901",
+        "fix_commit_hash": "8dc4c75adefea96af0ee119e530929f836a04308",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2344",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/13279",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2357",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/10530",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2361",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/10129",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2363",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/10111",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2379",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/7464",
+        "fix_commit_hash": "8803c2570e84791466f873e101d70386d23b5806",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2380",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/7311",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2386",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/6507",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2393",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/6217",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2398",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/5523",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2400",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4865",
+        "fix_commit_hash": "8d4f667ac8b5a41e6e78f5a3c19f6f41c8fc8fd0",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2401",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4859",
+        "fix_commit_hash": "8d4f667ac8b5a41e6e78f5a3c19f6f41c8fc8fd0",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2406",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4850",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2415",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/3306",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2418",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/3005",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2428",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/1701",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2429",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/1249",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2431",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/71",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "757d56ea9c3de6245df7e5cac025dbf7077082ff"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
