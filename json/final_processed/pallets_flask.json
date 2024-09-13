@@ -1,0 +1,195 @@
+[
+    {
+        "repo_name": "pallets/flask",
+        "id": "2044",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/4301",
+        "fix_commit_hash": "c5ed6c5e77cdf05740e9beb97ab7841abdb8f703",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2045",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/4221",
+        "fix_commit_hash": "5dfa67ed5ac4a541fc4a52efc1cb5f92aa97ab5f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2046",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/3904",
+        "fix_commit_hash": "adeaf27e767f7bd37996d999eba135d63e890408",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2047",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/3737",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2048",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/3726",
+        "fix_commit_hash": "22987b68173e9bf56cc450cb7aeb93f5480a2660",
+        "inducing_commit_hash_pyszz": [
+            "0c0b31a789f8bfeadcbcf49d1fb38a00624b3065"
+        ],
+        "inducing_commit_hash_pd": [
+            "0c0b31a789f8bfeadcbcf49d1fb38a00624b3065",
+            "fe85970665ea3a38f9c6a8ef4756ff3a913850b6",
+            "a1d9ebe4abebdb824aa9a397b001de5f9130e7a3"
+        ],
+        "matched": [
+            "0c0b31a789f8bfeadcbcf49d1fb38a00624b3065"
+        ]
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2049",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2796",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2050",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2386",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2051",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2309",
+        "fix_commit_hash": "3acec5f801864e8a6fbac759e45569950dec719d",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2053",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2059",
+        "fix_commit_hash": "579832d8aa9e881f1874fb06bb86977197b84106",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2054",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1827",
+        "fix_commit_hash": "70de011d5102bea6b97010643cf36698f94f97fb",
+        "inducing_commit_hash_pyszz": [
+            "c259f2bb2b8a9f19af385febaec92a314bbf7969"
+        ],
+        "inducing_commit_hash_pd": [
+            "c259f2bb2b8a9f19af385febaec92a314bbf7969",
+            "85aa4ec8c15937121d1eb1e73f0b5d029d2f1ee1",
+            "22219f51e5a15836657bc5553fe90dac2054caef",
+            "d1821b3a076043c350af77e69f8280d0c6695145"
+        ],
+        "matched": [
+            "c259f2bb2b8a9f19af385febaec92a314bbf7969"
+        ]
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2057",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1402",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2058",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1400",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2059",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/1381",
+        "fix_commit_hash": "594d1c5eb274fd02cb31059becde848d9d38ed33",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2061",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/948",
+        "fix_commit_hash": "1f638d63ffcd0a52db6ac9be2d9c4d9fc99864da",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2062",
+        "repo_id": "93948",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/pallets/flask/pull/829",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2064",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/346",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
