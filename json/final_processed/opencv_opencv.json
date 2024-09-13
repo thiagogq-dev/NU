@@ -1,0 +1,114 @@
+[
+    {
+        "repo_name": "opencv/opencv",
+        "id": "322",
+        "repo_id": "1967",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/opencv/opencv/pull/19022",
+        "fix_commit_hash": "a9f4f8ded43cad85cb5aa2334dc2c78baf9a93b5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "id": "347",
+        "repo_id": "1967",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/opencv/opencv/pull/13937",
+        "fix_commit_hash": "6b31f58092d31b7ffbccb68aa84bce010119f0a5",
+        "inducing_commit_hash_pyszz": [
+            "c972c94662a4bdc3a7c0f62174c22a7b5932c2dc"
+        ],
+        "inducing_commit_hash_pd": [
+            "c972c94662a4bdc3a7c0f62174c22a7b5932c2dc"
+        ],
+        "matched": [
+            "c972c94662a4bdc3a7c0f62174c22a7b5932c2dc"
+        ]
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "id": "363",
+        "repo_id": "1967",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/opencv/opencv/pull/11417",
+        "fix_commit_hash": "84584002f2a579f9c63bde73e44e7a695271bd39",
+        "inducing_commit_hash_pyszz": [
+            "6172803012c679ec345c2e91207874d72ec62a89"
+        ],
+        "inducing_commit_hash_pd": [
+            "87b569d8127fe68e15a3f1ae91fb55e0e21b7afb",
+            "6172803012c679ec345c2e91207874d72ec62a89"
+        ],
+        "matched": [
+            "6172803012c679ec345c2e91207874d72ec62a89"
+        ]
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "id": "376",
+        "repo_id": "1967",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/opencv/opencv/pull/9872",
+        "fix_commit_hash": "69e5ac6f02d521a395cba7b1516068d10051f186",
+        "inducing_commit_hash_pyszz": [
+            "fcddfa4f8605c7dbab8a0b8d88fcec312a74f7de"
+        ],
+        "inducing_commit_hash_pd": [
+            "fcddfa4f8605c7dbab8a0b8d88fcec312a74f7de",
+            "8375182e3444d5c789a45071139b565179e7964c"
+        ],
+        "matched": [
+            "fcddfa4f8605c7dbab8a0b8d88fcec312a74f7de"
+        ]
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "id": "378",
+        "repo_id": "1967",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/opencv/opencv/pull/9466",
+        "fix_commit_hash": "89b6e68e1eea83262ef79c2110df111dbc089b97",
+        "inducing_commit_hash_pyszz": [
+            "8952863b9c1b76113767bffc1535392462cb99fa"
+        ],
+        "inducing_commit_hash_pd": [
+            "220f671655000c9a372e18bc2494472346daf686",
+            "9333f82be0d958d756d98789ad49e1af42757270",
+            "a5a510da4bbb0bb73b4ec82570f1d60bbe1af481",
+            "8952863b9c1b76113767bffc1535392462cb99fa",
+            "37c74e38f427519fe6151308def22c2a87f44947",
+            "893fb90b87a93a68022e5af8d1f4e1cf53948a79",
+            "6d1cbc6458baafc7755f681883f0fa06fb268965",
+            "5877debb6f6b2599c7f2cc9e1ce5ad9d4931cd9b"
+        ],
+        "matched": [
+            "8952863b9c1b76113767bffc1535392462cb99fa"
+        ]
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "id": "385",
+        "repo_id": "1967",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/opencv/opencv/pull/7627",
+        "fix_commit_hash": "7c266ffffedc47cbc19aed62dfdd6851c31b8361",
+        "inducing_commit_hash_pyszz": [
+            "7193a73ca003b0961b41920d453c3cf5acdc51b7"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "opencv/opencv",
+        "id": "416",
+        "repo_id": "1967",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/opencv/opencv/pull/1831",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
