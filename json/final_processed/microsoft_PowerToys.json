@@ -1,0 +1,84 @@
+[
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1047",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/12746",
+        "fix_commit_hash": "a925d9e6e121b874d81978b1572a30fc2aa06e7d",
+        "inducing_commit_hash_pyszz": [
+            "d7859f03db827f3cfbd903c994ab9d6445c0fdee"
+        ],
+        "inducing_commit_hash_pd": [
+            "3796a5ef9734847ef5f13f5d4992345933b12c09",
+            "d7859f03db827f3cfbd903c994ab9d6445c0fdee",
+            "dde63b5017514dab97b2bcedddd94cf04e598d70"
+        ],
+        "matched": [
+            "d7859f03db827f3cfbd903c994ab9d6445c0fdee"
+        ]
+    },
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1048",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/12348",
+        "fix_commit_hash": "5027a55e7f55f6f893002bf9b67ce13a113c71f3",
+        "inducing_commit_hash_pyszz": [
+            "c9c54b7780dec2f55732fed053206ff7dadbcc0c"
+        ],
+        "inducing_commit_hash_pd": [
+            "4e23832d527d4fbcd6323e0ebddf6e59cdd6a44d",
+            "eb106650f630cf7bc69112103ad17c857d17bc8e",
+            "c9c54b7780dec2f55732fed053206ff7dadbcc0c",
+            "ffda6a51bbf1ccbeaea992fb77927900bfcea07f",
+            "21247c0bb09a1bee3d14d6efa53d0c247f7236af",
+            "6613522e534deb9b5fc9a649e6797cf177bb5d8b",
+            "321a722b8e0204ee41b1c944ee040478e6898f2a",
+            "72d92413a2d7c88e3b63e3fcc5963f70eb1c3d3a",
+            "fa0cfeccb9d92a95ade25d6fbe8ccba6b591f47f",
+            "d55badf14ab6ad6b8b88e7c0a31edb1e0bd3abf9",
+            "1e58ae0e63758ac0ccf33cc5ed2e6d85cb5abe1e",
+            "fc9d7e4f1be230f2b6908f9860ba7b8f37dc54fa"
+        ],
+        "matched": [
+            "c9c54b7780dec2f55732fed053206ff7dadbcc0c"
+        ]
+    },
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1058",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/7547",
+        "fix_commit_hash": "df284733269b58350d22cd8b38e7a75179270e85",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "microsoft/PowerToys",
+        "id": "1074",
+        "repo_id": "15324",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/PowerToys/pull/5314",
+        "fix_commit_hash": "59ebe30b723ec8c0a3d0b1779bdc4b3ed23b75a5",
+        "inducing_commit_hash_pyszz": [
+            "0bcaa13056df54b038b9d5e0753e84251582b742"
+        ],
+        "inducing_commit_hash_pd": [
+            "86704efcec94ed8c3de84b502dd8677a1206bd0e",
+            "1fc351b0882d9978e8bf2bf3e3b15d967edd0538",
+            "97089616543a9bf1872d8af0dd9ee5492eee5da3",
+            "8431b80e482bd1daf90f59c94a1d1ecc0bd252d7",
+            "482ad0e5ee3441e06165733eea6960ee1922e6e5",
+            "0bcaa13056df54b038b9d5e0753e84251582b742",
+            "cd6ac4f8c26b177027cd1bf916ba455874c51eaa",
+            "360f7cf9c3b944bcd78dd8a07894ed4555afa338"
+        ],
+        "matched": [
+            "0bcaa13056df54b038b9d5e0753e84251582b742"
+        ]
+    }
+]
