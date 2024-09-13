@@ -1,0 +1,46 @@
+[
+    {
+        "repo_name": "tailwindlabs/tailwindcss",
+        "id": "2479",
+        "repo_id": "94407",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/tailwindlabs/tailwindcss/pull/2294",
+        "fix_commit_hash": "1c38c791988f953df70d7f335ec6267a746bd75d",
+        "inducing_commit_hash_pyszz": [
+            "501e0259123452a5084abf98503a6f9dd078b103"
+        ],
+        "inducing_commit_hash_pd": [
+            "501e0259123452a5084abf98503a6f9dd078b103"
+        ],
+        "matched": [
+            "501e0259123452a5084abf98503a6f9dd078b103"
+        ]
+    },
+    {
+        "repo_name": "tailwindlabs/tailwindcss",
+        "id": "2484",
+        "repo_id": "94407",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/tailwindlabs/tailwindcss/pull/1098",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "4297655a7a9e9a3479849c3ffe05a67587d0e785"
+        ],
+        "inducing_commit_hash_pd": [
+            "1e0dfbc6d03ee50eab2764bf4d9bf1409fa6cf47",
+            "ac6d4a6e8e9ae7ca197bf98d933ae2f205be3635",
+            "f06472eb953b58a88b5bfaa8d047f59a36c2b213",
+            "54474086c858769a51f5ee876b5d52a8e62498d3",
+            "30bbe51a380e0d7ccc40c468fbb05ecd644a4412",
+            "e299ea381f9107e3b32304d770bbaaade3ac5768",
+            "8c6c291869c72ba9aaa274d9ad14a83129b1f8d7",
+            "8f2aa3a2b7cd72ccb4efa1a89397f343638d1adb",
+            "45fb21e75339dfa0e35c5fb81354f8142cde62be",
+            "c65f20ace02520e4b0899482263171fc70301975",
+            "8b0fff6eddeaa7240c4a96c467c49ae526fa8447",
+            "52012d90d762cacdd84c1a28b75df7158cac2f88",
+            "8f8803d85521c687a88ebc4c7d6a4e96b14182dd"
+        ],
+        "matched": []
+    }
+]
