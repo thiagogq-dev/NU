@@ -1,0 +1,78 @@
+[
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2453",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/1577",
+        "fix_commit_hash": "e2a863405782709e8cd30227f8b1157acc30fa19",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2454",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/1544",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ],
+        "inducing_commit_hash_pd": [
+            "0799c8f67497c1c55cc3e711e19d20c2ff3eb8b8",
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ],
+        "matched": [
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ]
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2456",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/837",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ],
+        "inducing_commit_hash_pd": [
+            "0799c8f67497c1c55cc3e711e19d20c2ff3eb8b8",
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ],
+        "matched": [
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ]
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2457",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/595",
+        "fix_commit_hash": "7191e0654191b479ca6a92f5e28dfcec807c9c37",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2460",
+        "repo_id": "94398",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/hakimel/reveal.js/pull/442",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ],
+        "inducing_commit_hash_pd": [
+            "0799c8f67497c1c55cc3e711e19d20c2ff3eb8b8",
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ],
+        "matched": [
+            "6b8c64ffa8fddd9ed4bcd92bcfd37b67ba410244"
+        ]
+    }
+]
