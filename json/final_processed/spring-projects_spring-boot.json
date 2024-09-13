@@ -1,0 +1,555 @@
+[
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "620",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/28544",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "622",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/26930",
+        "fix_commit_hash": "8d10e04ea31c36d117402ef3f144cc4fb4ff61d2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "623",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/25829",
+        "fix_commit_hash": "187b029671f4e61a3e47e1adced734c32824694b",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "626",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/22294",
+        "fix_commit_hash": "9dea67f78ffe5aecdbcd1b630c41f62780485394",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "627",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/21133",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "628",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/21040",
+        "fix_commit_hash": "71c8d5cda13635762a8b8ca2aee2fe4f1f14a387",
+        "inducing_commit_hash_pyszz": [
+            "368eb566fb0d62ffedbd37ad42cf1ec18eeb7371"
+        ],
+        "inducing_commit_hash_pd": [
+            "368eb566fb0d62ffedbd37ad42cf1ec18eeb7371"
+        ],
+        "matched": [
+            "368eb566fb0d62ffedbd37ad42cf1ec18eeb7371"
+        ]
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "629",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/20681",
+        "fix_commit_hash": "5b5e61f45d2212641cedfc62e05ff2297a63d3b2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "630",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/19180",
+        "fix_commit_hash": "ea43165cd0d736f835e13768a9330bac5ae0681e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "631",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/17780",
+        "fix_commit_hash": "c4dd386ba8d7211fad13168d30aa04ffa4fa31e3",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "633",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/16889",
+        "fix_commit_hash": "a51996fc10475776af68a61840ba2ef318d0a34e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "635",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/15496",
+        "fix_commit_hash": "08757d77f5f7bec58198f8e79d1861bd59e737d4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "636",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/15472",
+        "fix_commit_hash": "0598d7796a791d625b67c853f84a9cf4ac84cc1d",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "637",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/15163",
+        "fix_commit_hash": "ab8e4d59873ecafdb5d9952af45c342b5df5c507",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "638",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/14950",
+        "fix_commit_hash": "5e18fe1eaad49b29a57d7fd4b1537a02f2e4c867",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "640",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/14190",
+        "fix_commit_hash": "2a016a47e26135328d050330a1f1f87ae6d01051",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "644",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/12629",
+        "fix_commit_hash": "610ffed9383c434de8d19baf0074c2808b766f81",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "645",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/12491",
+        "fix_commit_hash": "a902caa78db8a024708c6d203441eb871732bbbb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "646",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/12149",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "656",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/10562",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "661",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/10235",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "662",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/10064",
+        "fix_commit_hash": "78229bdbc727aba1f0f5565e32c6b404c586c537",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "665",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/9568",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "666",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/8924",
+        "fix_commit_hash": "f3c45077acd8deed783e06ee25b7d20b91ddac65",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "673",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/8060",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "674",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/7990",
+        "fix_commit_hash": "6d22e5b73348212b16590c391103e77e0a99a645",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "675",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/7852",
+        "fix_commit_hash": "530c3cd3be749effbb22fc33d2f6c62c4006c920",
+        "inducing_commit_hash_pyszz": [
+            "5d8e00cb56f5568654627264b654ceb0e49fd198"
+        ],
+        "inducing_commit_hash_pd": [
+            "da16d6d306198b7ca5822ecbeecffdf315200587",
+            "26a511495e6777698efa827981e1a5f7e0a7aef6",
+            "33dcd853fdf78b48b1b1b52667f2de2e20dfb8ff",
+            "af612782131fffd64d5796329bf816a7cb59c964",
+            "dced154f71d9624d47fbaed6108679d1c6dc1947",
+            "94677b35f81ec08129e9291d2bf005d0ebbe994c",
+            "24e71e868f0599eb041b80d32f7cd3e17977c897",
+            "bff41358bfad99a3e14c0d362fd248b5ff7c2801",
+            "3b93a82dd611cf04dfa73d4880df768264b00a00",
+            "e1070cce07f82ba6445d9f949e9cc3ac8a548923",
+            "565ad79856ac5b09f249928fa93b31d250555dbd",
+            "1f6ac52b961f788408a55621e3cb4ec4a345e409",
+            "c3b7764b72612bcab4226feb1bde00513c89e05c",
+            "4882544c843a0a04764b05747b627c063614c18f",
+            "c849a0aba1a1f784a8a890244e06e40b2ff16328",
+            "5d8e00cb56f5568654627264b654ceb0e49fd198",
+            "3bb598a421dd65c0ea67c94ff00f7265d71508ec",
+            "e19c6245ef95f5e0fdbb2aaf67e6e7c3bb4ba2e4",
+            "98135c964ba20b9b93f566911c3d146523024ebb",
+            "c9fb9916b83133bd7e6dee9bdd7b27d175f495ab",
+            "1be5812cf0e582602dedd34a2bbc450c42b0e3bf"
+        ],
+        "matched": [
+            "5d8e00cb56f5568654627264b654ceb0e49fd198"
+        ]
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "676",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/7721",
+        "fix_commit_hash": "8ed769ae344535ca7f773b13bbc2cca4a75cbbd4",
+        "inducing_commit_hash_pyszz": [
+            "d6e9ccececd4b7c9113450dba53967427a9c86ff"
+        ],
+        "inducing_commit_hash_pd": [
+            "d6e9ccececd4b7c9113450dba53967427a9c86ff"
+        ],
+        "matched": [
+            "d6e9ccececd4b7c9113450dba53967427a9c86ff"
+        ]
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "677",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/7634",
+        "fix_commit_hash": "e6097fb3e4019a80b860f9d253cf376de54563e2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "698",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/5256",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "703",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/5053",
+        "fix_commit_hash": "a2f482b7f35cf8fdc89bb6dae399aef6099320a2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "712",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/4531",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "713",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/4504",
+        "fix_commit_hash": "66070686cb02ca38294c270f425d429b1bd4fe49",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "714",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/4406",
+        "fix_commit_hash": "52264cd0c2e6bd108acd2b818014944af97b5487",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "724",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/3050",
+        "fix_commit_hash": "9f9feeb00ccbaa3f34da56430cc10792eef5a8eb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "727",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/2816",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "728",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/2540",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "732",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/2400",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "733",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/2179",
+        "fix_commit_hash": "b27d5009344741655cedaa88fa9b3d3b8f77a46e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "734",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/1784",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "735",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/1253",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "740",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/412",
+        "fix_commit_hash": "95a6ce9e48fc92f0d0839fbcd93d386bc0fb315e",
+        "inducing_commit_hash_pyszz": [
+            "e2a449da9766d3c6cec20c4c222d338ce1e06938"
+        ],
+        "inducing_commit_hash_pd": [
+            "15e9dbe98b07989f4f2b46b5ad476793aa9a6489",
+            "a33425920be2305663de38208b09cb469fce8b27",
+            "f006b1231c6bfbae9286a062d4b4629a385cd166",
+            "a13404c67052241dca4218ee3ffae18588b18149",
+            "e2a449da9766d3c6cec20c4c222d338ce1e06938"
+        ],
+        "matched": [
+            "e2a449da9766d3c6cec20c4c222d338ce1e06938"
+        ]
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "741",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/75",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "744",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/41",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "23d76a05e73dba1a91a70ab47b4e0be5ddf44040"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
