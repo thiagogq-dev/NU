@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "pmd/pmd",
+        "id": "227",
+        "repo_id": "180",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pmd/pmd/pull/1727",
+        "fix_commit_hash": "e8f8e1ac7a9f4f21bb7a0f9242a81fe7ab7e599c",
+        "inducing_commit_hash_pyszz": [
+            "acb30271668581c270c352d85bda4c171b404ce2"
+        ],
+        "inducing_commit_hash_pd": [
+            "8b1b67ae9ed0ee7e105c912594dc94ecdd1dd424",
+            "acb30271668581c270c352d85bda4c171b404ce2",
+            "3bf1495cc20cf6bb50075643e87ba624299131c0",
+            "1479840f6f67cc8631be52a036fed3e4f1542a3b"
+        ],
+        "matched": [
+            "acb30271668581c270c352d85bda4c171b404ce2"
+        ]
+    }
+]

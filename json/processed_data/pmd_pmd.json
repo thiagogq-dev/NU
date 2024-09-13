@@ -1,1 +1,0 @@
-[{"repo_name": "pmd/pmd", "id": "227", "repo_id": "180", "terms_vulnerability": "secur", "url": "https://github.com/pmd/pmd/pull/1727", "fix_commit_hash": "e8f8e1ac7a9f4f21bb7a0f9242a81fe7ab7e599c", "inducing_commit_hash_pyszz": ["acb30271668581c270c352d85bda4c171b404ce2"]}]
