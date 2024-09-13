@@ -1,0 +1,79 @@
+[
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2268",
+        "repo_id": "94395",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/webpack/webpack/pull/10107",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2269",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/9856",
+        "fix_commit_hash": "2e2cd6de850cedfc54574db10c3f022a19c240c8",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2277",
+        "repo_id": "94395",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/webpack/webpack/pull/9407",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2291",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/7266",
+        "fix_commit_hash": "0eeea0f34422ad5d40c2abe71855c433e522b17f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2295",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/6549",
+        "fix_commit_hash": "6e175bc88e0a2e34558bd43d725d7013d06b83af",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2326",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/1270",
+        "fix_commit_hash": "6782a1e2bb36175b963f76b622521cc66355b4b0",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "webpack/webpack",
+        "id": "2327",
+        "repo_id": "94395",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/webpack/webpack/pull/1269",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
