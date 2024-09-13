@@ -1,0 +1,45 @@
+[
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "id": "471",
+        "repo_id": "2259",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jenkinsci/jenkins/pull/4399",
+        "fix_commit_hash": "a67f59aca560e5631567a9583a3db553ae77dcd5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "id": "490",
+        "repo_id": "2259",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jenkinsci/jenkins/pull/2753",
+        "fix_commit_hash": "83232e6b8c8f3cb665461294b5a44a6476cf28d9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "id": "495",
+        "repo_id": "2259",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jenkinsci/jenkins/pull/2441",
+        "fix_commit_hash": "e94c399139e405de3bd66372849751d8df02d80e",
+        "inducing_commit_hash_pyszz": [
+            "c69a0cd762f5576defd0bbc4fc038950f52ba106"
+        ],
+        "inducing_commit_hash_pd": [
+            "4c37ee59e7a251c5617d4952f5b09edab8e8c98c",
+            "c69a0cd762f5576defd0bbc4fc038950f52ba106",
+            "0801043992b716291ceed989708d328fe9ab34d8",
+            "0cc7d3f580199a721bc74136580680745948d79f",
+            "b3f16489ad5f15c3e749ed066cf6b4251f6668c6"
+        ],
+        "matched": [
+            "c69a0cd762f5576defd0bbc4fc038950f52ba106"
+        ]
+    }
+]
