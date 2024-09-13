@@ -1,0 +1,78 @@
+[
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "30",
+        "repo_id": "52",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/2531",
+        "fix_commit_hash": "a6198dafaad05b49db66c58dd6d7f01541ea6bea",
+        "inducing_commit_hash_pyszz": [
+            "4576698cec89e588606d36d6f9821f022312e770"
+        ],
+        "inducing_commit_hash_pd": [
+            "4576698cec89e588606d36d6f9821f022312e770",
+            "50ecdc3bb6e81e248efd9dc5f90ae99b55712d9d"
+        ],
+        "matched": [
+            "4576698cec89e588606d36d6f9821f022312e770"
+        ]
+    },
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "42",
+        "repo_id": "52",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/2277",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "10614998cf0779b3d6bbd33a822b96a10695572e"
+        ],
+        "inducing_commit_hash_pd": [
+            "10614998cf0779b3d6bbd33a822b96a10695572e"
+        ],
+        "matched": [
+            "10614998cf0779b3d6bbd33a822b96a10695572e"
+        ]
+    },
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "51",
+        "repo_id": "52",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/1905",
+        "fix_commit_hash": "b1d3a1265d5b937ce24a2286e0063bca67c535f2",
+        "inducing_commit_hash_pyszz": [
+            "dbcb362ce57d6ad03b5dacdaedc40c15a4d2e780"
+        ],
+        "inducing_commit_hash_pd": [
+            "dbcb362ce57d6ad03b5dacdaedc40c15a4d2e780",
+            "e9b3efeb42681120dd46b1145f0d682f8569bc28"
+        ],
+        "matched": [
+            "dbcb362ce57d6ad03b5dacdaedc40c15a4d2e780"
+        ]
+    },
+    {
+        "repo_name": "micrometer-metrics/micrometer",
+        "id": "102",
+        "repo_id": "52",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/micrometer-metrics/micrometer/pull/188",
+        "fix_commit_hash": "67240da308f17720e7cf127321ff7ed39c7a6b1e",
+        "inducing_commit_hash_pyszz": [
+            "215135c3b11cb2a047484c7d1771d09ef7007b98"
+        ],
+        "inducing_commit_hash_pd": [
+            "db0ae7242b3acd972f29635d196a36e447cfbaae",
+            "be99318ad27273a62667c38c5f14d80de3699e6b",
+            "e1632b7f7ef27b812d89a127f22325be0500b8e1",
+            "66d8f69247b93c8ffafdf9d1a25359b6d6bc36dd",
+            "edd579c6b49667feaf6c54a860b09f08b7452c38",
+            "cd81d0e9c75a270509a8b606804452491634d1d2",
+            "d272f8468f959ca40201cc7c4c3abac0de515c2c",
+            "736fd95ca5a9fb9846699489877eb4021882b9df",
+            "889dd46e3c927ba4ca2dd730cef00bd02757e65e"
+        ],
+        "matched": []
+    }
+]
