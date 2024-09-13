@@ -1,0 +1,13 @@
+[
+    {
+        "repo_name": "immutables/immutables",
+        "id": "3",
+        "repo_id": "9",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/immutables/immutables/pull/56",
+        "fix_commit_hash": "9db3b5fa730f37f9f57b7f33db005d00e1eaefd1",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
