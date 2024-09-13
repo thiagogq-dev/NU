@@ -1,0 +1,19 @@
+[
+    {
+        "repo_name": "PyCQA/bandit",
+        "id": "390",
+        "repo_id": "2152",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/PyCQA/bandit/pull/752",
+        "fix_commit_hash": "e0a12a973bd58f23f16b3fe84190f7bffa0e7cde",
+        "inducing_commit_hash_pyszz": [
+            "a727880811f62e190600ebafa607cea0e7511960"
+        ],
+        "inducing_commit_hash_pd": [
+            "a727880811f62e190600ebafa607cea0e7511960"
+        ],
+        "matched": [
+            "a727880811f62e190600ebafa607cea0e7511960"
+        ]
+    }
+]
