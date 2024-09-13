@@ -1,0 +1,19 @@
+[
+    {
+        "repo_name": "keycloak/keycloak",
+        "id": "283",
+        "repo_id": "1773",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/keycloak/keycloak/pull/5766",
+        "fix_commit_hash": "d0ddbaec23883f7c44a2876654ad396d4d225aae",
+        "inducing_commit_hash_pyszz": [
+            "8b5fd2b4ac9d5ed5dfeeef0379187456be0caa2e"
+        ],
+        "inducing_commit_hash_pd": [
+            "8b5fd2b4ac9d5ed5dfeeef0379187456be0caa2e"
+        ],
+        "matched": [
+            "8b5fd2b4ac9d5ed5dfeeef0379187456be0caa2e"
+        ]
+    }
+]
