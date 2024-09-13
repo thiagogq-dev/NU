@@ -1,0 +1,17 @@
+[
+    {
+        "repo_name": "openssl/openssl",
+        "id": "1841",
+        "repo_id": "17832",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/openssl/openssl/pull/693",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "04c134a95b643329ef45fed886263cfd9df71c32",
+            "d62be1580bf402f7088cdec5f21a87f27f40f18e",
+            "4f62f5d9af4fb4c7765859967ee39252e34ceeb9"
+        ],
+        "matched": []
+    }
+]
