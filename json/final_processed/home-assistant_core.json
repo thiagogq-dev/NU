@@ -1,0 +1,1262 @@
+[
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2165",
+        "repo_id": "93955",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/home-assistant/core/pull/31510",
+        "fix_commit_hash": "8b4bd95fc59976ea9e86389f01eae2514106111f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2166",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/30536",
+        "fix_commit_hash": "a9f6dd698e64cf30a4f940628b406c5ea3a63138",
+        "inducing_commit_hash_pyszz": [
+            "7d58de1bdafcb27445666a374aa3bafefd9ea3f6"
+        ],
+        "inducing_commit_hash_pd": [
+            "29d4dca56ab49d9dcd9414c9ce76b56d5aa12a7d",
+            "620c6a22ac2fd16cef4e7391d9d13dd3cf6ba138",
+            "4de97abc3aa83188666336ce0a015a5bab75bc8f",
+            "193769c79155cabef77377ab3ce06dca1abd6183",
+            "7d58de1bdafcb27445666a374aa3bafefd9ea3f6"
+        ],
+        "matched": [
+            "7d58de1bdafcb27445666a374aa3bafefd9ea3f6"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2167",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/30327",
+        "fix_commit_hash": "d8d75d882be0b485c1f54969eaae6713ec71f01d",
+        "inducing_commit_hash_pyszz": [
+            "b83f92e4a527172326fc292080d444dc8733df86"
+        ],
+        "inducing_commit_hash_pd": [
+            "68d3e624e651b08e22bb55ce5347191030959aae",
+            "cfe4cf30ad3ce6359420aae77ad5e27cdf45baed",
+            "b83f92e4a527172326fc292080d444dc8733df86"
+        ],
+        "matched": [
+            "b83f92e4a527172326fc292080d444dc8733df86"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2168",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/30191",
+        "fix_commit_hash": "f56797e413f36b25b04d8ffb2d6d1b82ed468538",
+        "inducing_commit_hash_pyszz": [
+            "a4ae9a94ee754462918f35a9b71475a8905b64d5"
+        ],
+        "inducing_commit_hash_pd": [
+            "a4ae9a94ee754462918f35a9b71475a8905b64d5"
+        ],
+        "matched": [
+            "a4ae9a94ee754462918f35a9b71475a8905b64d5"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2169",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/29952",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2170",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/28443",
+        "fix_commit_hash": "65b6264a2f30cf81870c13119b640246e380862c",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2171",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/28234",
+        "fix_commit_hash": "75f94b914761c7a4ba50e710f117761070242dda",
+        "inducing_commit_hash_pyszz": [
+            "1f7bd4235cbae607950e6f4f9641b969b441ab17"
+        ],
+        "inducing_commit_hash_pd": [
+            "f80c9c93cab41215629a408f3f33097cf3141d1e",
+            "8bbf26130246a3532e5634eda4a6a38ef46a02c1",
+            "f540d74b654700f349303cca7df0e13ba66a824a",
+            "4de97abc3aa83188666336ce0a015a5bab75bc8f",
+            "55e10d552e28f9c8414a2c432b95f482dec46899",
+            "1f7bd4235cbae607950e6f4f9641b969b441ab17"
+        ],
+        "matched": [
+            "1f7bd4235cbae607950e6f4f9641b969b441ab17"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2172",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/27081",
+        "fix_commit_hash": "9a5c1fbaedb7d8b20015c65037fb01b7d4c3e06f",
+        "inducing_commit_hash_pyszz": [
+            "06ca04c1c86632d06cfe12ad3f55ffd8ebd3af9d"
+        ],
+        "inducing_commit_hash_pd": [
+            "f184bf4d8506c47db0860c2497900c5c44c17233"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2173",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/26741",
+        "fix_commit_hash": "c8fb7ce98b0cabaccfd62135652998c5bb434622",
+        "inducing_commit_hash_pyszz": [
+            "74b6b8a9f6a96bd6e312942737f3e8e7616f2577"
+        ],
+        "inducing_commit_hash_pd": [
+            "cfe4cf30ad3ce6359420aae77ad5e27cdf45baed",
+            "74b6b8a9f6a96bd6e312942737f3e8e7616f2577"
+        ],
+        "matched": [
+            "74b6b8a9f6a96bd6e312942737f3e8e7616f2577"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2174",
+        "repo_id": "93955",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/home-assistant/core/pull/26487",
+        "fix_commit_hash": "c07227a53f59f6645d14854cf4b7cbd53770271e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2175",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/26249",
+        "fix_commit_hash": "d1adb28c6b1f08e61f07fbb4b45addcc8ee3152f",
+        "inducing_commit_hash_pyszz": [
+            "6947f8cb2e732dd53971eab03372357240e0881c"
+        ],
+        "inducing_commit_hash_pd": [
+            "4de97abc3aa83188666336ce0a015a5bab75bc8f"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2176",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/25417",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2177",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24595",
+        "fix_commit_hash": "024ce0e8eb6608da7330aed8e022d3c5241148de",
+        "inducing_commit_hash_pyszz": [
+            "34260ed09f9c25230ec6d00a65b98fc438b023f9"
+        ],
+        "inducing_commit_hash_pd": [
+            "1ce2d97d3dd0ef9fd46a402926f68fb98c4d3048",
+            "34260ed09f9c25230ec6d00a65b98fc438b023f9",
+            "44bf5ba0016abe09b3d7ddfa39c62f7f7f419c19",
+            "4ffacec4be3f2152291ee703032cae3b8971ffd1"
+        ],
+        "matched": [
+            "34260ed09f9c25230ec6d00a65b98fc438b023f9"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2178",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24323",
+        "fix_commit_hash": "64d6fa8e8623a75e3e84b5bf30937dd6851b955a",
+        "inducing_commit_hash_pyszz": [
+            "16d8e92b06022297515e45d0b9c9859e579e1504"
+        ],
+        "inducing_commit_hash_pd": [
+            "9c5bbfe96d8f20b6221238847c26bd5bfbbf1774",
+            "112ed88d64e8176fcee41d11dfd100c8b45ed612",
+            "99709657187b4638c736b478598fff22eb3d6ffa"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2179",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24290",
+        "fix_commit_hash": "d468d0f71bb1050d69acbc1499dad6614621b3cd",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2180",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24274",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2181",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24273",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2182",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/24272",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2183",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/23567",
+        "fix_commit_hash": "eee2b2d54346fb83026ac3b590981edd06a60f5d",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2184",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/23281",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2185",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/23139",
+        "fix_commit_hash": "6be798bffc78568b6c2c6e58d712fbe02cc8421c",
+        "inducing_commit_hash_pyszz": [
+            "04cb893d10c623d9d6d1864f677debbae4adeb68"
+        ],
+        "inducing_commit_hash_pd": [
+            "04cb893d10c623d9d6d1864f677debbae4adeb68",
+            "47e31dc9ee4a7d5bbc38b06d4436c3ae20328d6f"
+        ],
+        "matched": [
+            "04cb893d10c623d9d6d1864f677debbae4adeb68"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2188",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/21432",
+        "fix_commit_hash": "5ad3e75a4d4cb7a4100d9d718c5dea9c55797735",
+        "inducing_commit_hash_pyszz": [
+            "901d4b54891cea21e4f91b6ff67659e9b2c4a60b"
+        ],
+        "inducing_commit_hash_pd": [
+            "41fa8cc8f24761b75051926121a4fe474f46e0fa",
+            "b6fb21edaf536f49af6875c15b88cf2f75d01a7b",
+            "901d4b54891cea21e4f91b6ff67659e9b2c4a60b"
+        ],
+        "matched": [
+            "901d4b54891cea21e4f91b6ff67659e9b2c4a60b"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2189",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/21241",
+        "fix_commit_hash": "9b3a3fc1acf276db8e0f4b9535ff82a6f99b30b1",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "99709657187b4638c736b478598fff22eb3d6ffa"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2190",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/21225",
+        "fix_commit_hash": "1a051f038d9040157f0b35e0ade9ada1f303cde6",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2191",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/19612",
+        "fix_commit_hash": "bf40bea965638d7b1a9b6b64fb3f8702e74b1d0a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2192",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/19484",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2193",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/18714",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2194",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/17246",
+        "fix_commit_hash": "68472b8241e8fb3b269617010e7db85c092e56ad",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2195",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/17120",
+        "fix_commit_hash": "11004bcf34b836c2f65a93f08828396e084b5a69",
+        "inducing_commit_hash_pyszz": [
+            "2682d26f79c383fd623d82adb2a26afa041d7605"
+        ],
+        "inducing_commit_hash_pd": [
+            "ed3efc871237f0749335e5f09689292513a5203d",
+            "2682d26f79c383fd623d82adb2a26afa041d7605",
+            "647b3ff0feea7ec5e48e8ae81f185d777ee4a15f",
+            "d5bbb6ffd2e4bd960116abc24a331ca429b3f0c5",
+            "de50d5d9c1c0375c5e46042f3168d356c73f6aa1"
+        ],
+        "matched": [
+            "2682d26f79c383fd623d82adb2a26afa041d7605"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2197",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/16540",
+        "fix_commit_hash": "aeaf6945521ae37a232435c32ee6991bd86e98db",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2204",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/15461",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2206",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/15342",
+        "fix_commit_hash": "4a6afc561454037e2c880d1fc3e977d97c8d12bb",
+        "inducing_commit_hash_pyszz": [
+            "ab6cb43d5b88eedf2f937652b15939625f024d32"
+        ],
+        "inducing_commit_hash_pd": [
+            "99f1ea9b59edf03a1155381677002698f6cede88",
+            "99709657187b4638c736b478598fff22eb3d6ffa"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2207",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/15325",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2218",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/14365",
+        "fix_commit_hash": "ea01b127c277d3539a2b4d2362d73afa9b26b9b4",
+        "inducing_commit_hash_pyszz": [
+            "6fdf9b8d7cf53f667c11f94c1b80e4a6321bb987"
+        ],
+        "inducing_commit_hash_pd": [
+            "cdd45e78783037dfa6449eb91a7dafb2c9ae0c44"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2219",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/14339",
+        "fix_commit_hash": "5ec7fc7ddb23c83f6718ef8c544fff5265073112",
+        "inducing_commit_hash_pyszz": [
+            "534aa0e4b54b992ac55de0ae576276e94089ce49"
+        ],
+        "inducing_commit_hash_pd": [
+            "70b74da3eb7e1a8e57441cb5af7cfca7f1b9def5",
+            "cdd45e78783037dfa6449eb91a7dafb2c9ae0c44",
+            "3ee4d1060fdbe067c19f7d4ce4777a7eb9dbb412",
+            "321eb2ec6f077191e20a7fc07490a18df6f11f3f",
+            "ad5a9bf5ac149af9efa8301e8f817747366de519",
+            "c8648fbfb824cfa3435d2092803f9c0042e46ef2",
+            "519d9f2fd01751492909e574b8ba3812487d7d6b",
+            "914a868fbdb380508ec1c32e6339071fa86014e4",
+            "20ababec3e28ced91fc3d3e79b229612a3d9c99d",
+            "534aa0e4b54b992ac55de0ae576276e94089ce49",
+            "36d7fe72eb1261c5e7f6b2d3db958d1096a6ad04"
+        ],
+        "matched": [
+            "534aa0e4b54b992ac55de0ae576276e94089ce49"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2221",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13968",
+        "fix_commit_hash": "cdd45e78783037dfa6449eb91a7dafb2c9ae0c44",
+        "inducing_commit_hash_pyszz": [
+            "534aa0e4b54b992ac55de0ae576276e94089ce49"
+        ],
+        "inducing_commit_hash_pd": [
+            "3ee4d1060fdbe067c19f7d4ce4777a7eb9dbb412",
+            "2dd7f0616e2d1f1c3097efeea07ee7f8b142ba45",
+            "321eb2ec6f077191e20a7fc07490a18df6f11f3f",
+            "6fb55b363a1dd7f981ece03a9d329a75a8c3bbf4",
+            "60508f72158bcf5fd1b553f03a2d8a15917bc085",
+            "534aa0e4b54b992ac55de0ae576276e94089ce49",
+            "4d44c0feff03ddf1c0c57bd130cd1bdfa8c6621a",
+            "f32911d0365ca9d3412d6c1f449f34b6aeafae60"
+        ],
+        "matched": [
+            "534aa0e4b54b992ac55de0ae576276e94089ce49"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2224",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13783",
+        "fix_commit_hash": "ae4e792651d72ab6f629757e7b1c66219c4e3599",
+        "inducing_commit_hash_pyszz": [
+            "85487612d5d0ca510e09324604c72d4c958487b0"
+        ],
+        "inducing_commit_hash_pd": [
+            "4218b31e7ba81ec5bb41b184ded06668a3be1d2c",
+            "692b2644c7e902a9aeddc53f99cafe0543d0d89c",
+            "d348f09d3d42c6bd65727a471cf363cbca19105f",
+            "85487612d5d0ca510e09324604c72d4c958487b0"
+        ],
+        "matched": [
+            "85487612d5d0ca510e09324604c72d4c958487b0"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2225",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13670",
+        "fix_commit_hash": "de50d5d9c1c0375c5e46042f3168d356c73f6aa1",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2228",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13355",
+        "fix_commit_hash": "af8cd63838d035ad80420f4296cdbc312fe407ca",
+        "inducing_commit_hash_pyszz": [
+            "a83e741dc7c33430719e3eb25678eef9f0b99864"
+        ],
+        "inducing_commit_hash_pd": [
+            "a1239077d98ef996d13311da51b2cec754b8b2d5",
+            "be04ef7be1e6a1936b1526caba0d6a727e7827b8",
+            "7960206e2e4f8a223cb8a9b492f37e76ac1311e7",
+            "a83e741dc7c33430719e3eb25678eef9f0b99864"
+        ],
+        "matched": [
+            "a83e741dc7c33430719e3eb25678eef9f0b99864"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2229",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/13352",
+        "fix_commit_hash": "36bc7f8175e8ecb11a9881ed2b39f8922c5c1716",
+        "inducing_commit_hash_pyszz": [
+            "022d8fb816bde0676f0cb9cbda6cd8efe817064b"
+        ],
+        "inducing_commit_hash_pd": [
+            "022d8fb816bde0676f0cb9cbda6cd8efe817064b"
+        ],
+        "matched": [
+            "022d8fb816bde0676f0cb9cbda6cd8efe817064b"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2239",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/12975",
+        "fix_commit_hash": "022d8fb816bde0676f0cb9cbda6cd8efe817064b",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2243",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/12666",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2246",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/12391",
+        "fix_commit_hash": "9bfeb3b5af0d6a19dac80fadf51b8f8006ded862",
+        "inducing_commit_hash_pyszz": [
+            "39d33c97ffa1e66644e3154c6ccb8db65379d591"
+        ],
+        "inducing_commit_hash_pd": [
+            "39d33c97ffa1e66644e3154c6ccb8db65379d591"
+        ],
+        "matched": [
+            "39d33c97ffa1e66644e3154c6ccb8db65379d591"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2252",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11849",
+        "fix_commit_hash": "905bb36e6a72367e063b047f12d1d2aa23facb13",
+        "inducing_commit_hash_pyszz": [
+            "5ec555280384ec4fcdd4257f09826d2797f10450"
+        ],
+        "inducing_commit_hash_pd": [
+            "552abf7da5ca6fff526e21a31baa64a36d0578d6",
+            "5ec555280384ec4fcdd4257f09826d2797f10450"
+        ],
+        "matched": [
+            "5ec555280384ec4fcdd4257f09826d2797f10450"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2253",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11752",
+        "fix_commit_hash": "f5fba333d9e297fbf266db5fdc0903828d85c76f",
+        "inducing_commit_hash_pyszz": [
+            "85f30b893ebd39c34f10b6fa679c76879c9be3bb"
+        ],
+        "inducing_commit_hash_pd": [
+            "85f30b893ebd39c34f10b6fa679c76879c9be3bb"
+        ],
+        "matched": [
+            "85f30b893ebd39c34f10b6fa679c76879c9be3bb"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2261",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11195",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2264",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/11031",
+        "fix_commit_hash": "d5df1c070d7413b65268af1bbd2278ce82652652",
+        "inducing_commit_hash_pyszz": [
+            "2dec38d8d4f2461448fc05de352e619bc09167dd"
+        ],
+        "inducing_commit_hash_pd": [
+            "2dec38d8d4f2461448fc05de352e619bc09167dd"
+        ],
+        "matched": [
+            "2dec38d8d4f2461448fc05de352e619bc09167dd"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2273",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10535",
+        "fix_commit_hash": "fc3a8e4e79e4663874a9576a6cd163da0632811f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2274",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10308",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2275",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10306",
+        "fix_commit_hash": "f892c3394b4a2d2a2e77e9472b91409380875cf0",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2276",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/10263",
+        "fix_commit_hash": "d0b9f08bf2721bf78602db6c17d8897e34f84488",
+        "inducing_commit_hash_pyszz": [
+            "ca2d9691987798c526a3475b2e977e37c5b158ef"
+        ],
+        "inducing_commit_hash_pd": [
+            "ca2d9691987798c526a3475b2e977e37c5b158ef"
+        ],
+        "matched": [
+            "ca2d9691987798c526a3475b2e977e37c5b158ef"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2282",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/9777",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2286",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/9685",
+        "fix_commit_hash": "75f902f57e320983c5c4862dc694fd9de01728f1",
+        "inducing_commit_hash_pyszz": [
+            "17631cd728527ac82338b77df13377316333138c"
+        ],
+        "inducing_commit_hash_pd": [
+            "17631cd728527ac82338b77df13377316333138c",
+            "de08f0afaa13e32dcdb86ea4aab9e57069e10b26",
+            "8d1a9d86ea302254dd956b48fe3b529d38f0d834",
+            "a557cf388b23ba035f6a5d3e6c5b9401505e4028",
+            "85e3dfe6a633d9722fbb26759b51621633f82027"
+        ],
+        "matched": [
+            "17631cd728527ac82338b77df13377316333138c"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2292",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/9059",
+        "fix_commit_hash": "bc549e9525fc835c6b4e86606273763dfda89061",
+        "inducing_commit_hash_pyszz": [
+            "b3d16e8f895eb4014fa8b47c5803b2091a393f98"
+        ],
+        "inducing_commit_hash_pd": [
+            "b3d16e8f895eb4014fa8b47c5803b2091a393f98"
+        ],
+        "matched": [
+            "b3d16e8f895eb4014fa8b47c5803b2091a393f98"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2303",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8443",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2306",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8332",
+        "fix_commit_hash": "db8bb53984b964c62b66d14b2f301cd0de77508f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2307",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8278",
+        "fix_commit_hash": "fb184b4b6fc66deea724eeeb9853d4c3f9ee5e93",
+        "inducing_commit_hash_pyszz": [
+            "646eaccd4d569b3a057f84d7fec7ec270dbc6ad8"
+        ],
+        "inducing_commit_hash_pd": [
+            "d70d1e13037880ad2504ff34f1685caf3cbadca9",
+            "09b53a0d5582c241c5fdd68a442df13e7f1614fd",
+            "a4f1f6e724d61a6da51cce17729418e0dd12890c",
+            "646eaccd4d569b3a057f84d7fec7ec270dbc6ad8",
+            "44681ebd554c9e7ec9886c13977f90f7ada8f520"
+        ],
+        "matched": [
+            "646eaccd4d569b3a057f84d7fec7ec270dbc6ad8"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2314",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/8072",
+        "fix_commit_hash": "32a84f146696e9e24fe5cb16c617c7846667e92c",
+        "inducing_commit_hash_pyszz": [
+            "597ae2e71630e83423d8cbe389b7ef62bdb73410"
+        ],
+        "inducing_commit_hash_pd": [
+            "8b2edc151441eec196bbe5623386f555d623f9c7",
+            "521080d1b0cf605ba82394ce8d209c0765fb8868",
+            "597ae2e71630e83423d8cbe389b7ef62bdb73410"
+        ],
+        "matched": [
+            "597ae2e71630e83423d8cbe389b7ef62bdb73410"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2316",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/7899",
+        "fix_commit_hash": "6a017efc0eae601de56414c39994e287b6646518",
+        "inducing_commit_hash_pyszz": [
+            "352cca1037f1d51b09003b8ce942f97918dcf336"
+        ],
+        "inducing_commit_hash_pd": [
+            "41212b90c481d518a75eb62ef4cd350f45bf4698",
+            "8ca2345fd4fde5b6ecc924a03c9338f05474ac51",
+            "27f456ca70ecc9d60d46d60b5e7055343f0d1d0f",
+            "352cca1037f1d51b09003b8ce942f97918dcf336"
+        ],
+        "matched": [
+            "352cca1037f1d51b09003b8ce942f97918dcf336"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2343",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/5599",
+        "fix_commit_hash": "b0d07a414bc5297deb4f43c76473d9740b5dc8f7",
+        "inducing_commit_hash_pyszz": [
+            "f75e13f55ead56a20a6a24cf073ae223346966c9"
+        ],
+        "inducing_commit_hash_pd": [
+            "bb22ad3064549a50817cba0a0c406f1df70261db",
+            "cd87c40bbf39f729acda6eda9c74c53dd271af85",
+            "fe794d7fd8beecbb222a86966da6f3a04731c5da",
+            "519d9f2fd01751492909e574b8ba3812487d7d6b",
+            "f75e13f55ead56a20a6a24cf073ae223346966c9"
+        ],
+        "matched": [
+            "f75e13f55ead56a20a6a24cf073ae223346966c9"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2347",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/4876",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2353",
+        "repo_id": "93955",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/home-assistant/core/pull/4468",
+        "fix_commit_hash": "08f8e540e3b278504e89ca91bf2c2e7df9fbb040",
+        "inducing_commit_hash_pyszz": [
+            "c6c8cd4f51f7d7d0214d7d2844bb10e8a59b0b4f"
+        ],
+        "inducing_commit_hash_pd": [
+            "c6c8cd4f51f7d7d0214d7d2844bb10e8a59b0b4f",
+            "fb94aaa5a1a1e125dafb681e50c18be45dfe1b19",
+            "8d375e2d4712ba19238b96c9c4c2545e2836c066"
+        ],
+        "matched": [
+            "c6c8cd4f51f7d7d0214d7d2844bb10e8a59b0b4f"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2358",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/3961",
+        "fix_commit_hash": "9f6d1c4e7b6e291e35d92f08e6491ed88226e6e5",
+        "inducing_commit_hash_pyszz": [
+            "fe7f797ad9078e62e116154220ebcb0ad2f56b11"
+        ],
+        "inducing_commit_hash_pd": [
+            "fe7f797ad9078e62e116154220ebcb0ad2f56b11",
+            "5503c12cfd1460a3e13ad0a9d53879c4202622cb"
+        ],
+        "matched": [
+            "fe7f797ad9078e62e116154220ebcb0ad2f56b11"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2368",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2855",
+        "fix_commit_hash": "a5f144cb7c3f090b97a2f9751ac6467bc89f1fa5",
+        "inducing_commit_hash_pyszz": [
+            "2237189c864b7c5523ccff573827654801b4267d"
+        ],
+        "inducing_commit_hash_pd": [
+            "dc68f61261b171b77e9c4f1a5f8625d42ab1ba88",
+            "2237189c864b7c5523ccff573827654801b4267d",
+            "72fc526ee8838de35dbf7acbb3e0875a0b34b022"
+        ],
+        "matched": [
+            "2237189c864b7c5523ccff573827654801b4267d"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2369",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2775",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2370",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2738",
+        "fix_commit_hash": "3c2b4f5128c218f8d73dbb0e1e3b5b08959b09d1",
+        "inducing_commit_hash_pyszz": [
+            "0e7088ce3bc2557a8e36faba6c56b8350e402b1b"
+        ],
+        "inducing_commit_hash_pd": [
+            "e80309c03c89852e92ab6e8267c66a1235a1cd76",
+            "0e7088ce3bc2557a8e36faba6c56b8350e402b1b",
+            "f24cd4feedb6d909fc215fcd47ae7f8ade18f7ec",
+            "3b3f5fe6fe2092a5071491fafce11b3851d07ce8"
+        ],
+        "matched": [
+            "0e7088ce3bc2557a8e36faba6c56b8350e402b1b"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2371",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2730",
+        "fix_commit_hash": "dfad8aa6dc866a9d260131dfef5cf6ce9be03c04",
+        "inducing_commit_hash_pyszz": [
+            "e36c6b24eeda4b53d7ea7b4217fc469358648804"
+        ],
+        "inducing_commit_hash_pd": [
+            "e36c6b24eeda4b53d7ea7b4217fc469358648804"
+        ],
+        "matched": [
+            "e36c6b24eeda4b53d7ea7b4217fc469358648804"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2372",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2715",
+        "fix_commit_hash": "e36c6b24eeda4b53d7ea7b4217fc469358648804",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2375",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2409",
+        "fix_commit_hash": "a74cdc7b0da9d56ad85bb3f45d104fd3a832e2f8",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2377",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/2183",
+        "fix_commit_hash": "d7b0929a32d7eb357ca23c0d47d724f18ccc2360",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2381",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1935",
+        "fix_commit_hash": "f6df5bc3908d078d2c7dec4f429e16b783cf5dbc",
+        "inducing_commit_hash_pyszz": [
+            "8386bda4e49a14661d8a9f9020002d1434f83372"
+        ],
+        "inducing_commit_hash_pd": [
+            "8386bda4e49a14661d8a9f9020002d1434f83372",
+            "76674d4de9a1f25f9a8acb538d1a8a3d7647ddb1",
+            "f97ba263c4b9df19d80eb84650d51ee7fabc9121",
+            "277cdbbe00af90f3a2184768e0b5015117c5f54f"
+        ],
+        "matched": [
+            "8386bda4e49a14661d8a9f9020002d1434f83372"
+        ]
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2382",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1900",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2388",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1467",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2392",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1271",
+        "fix_commit_hash": "b7c4370e2b58fb296bd4324fe5eca14e9191067b",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2394",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1128",
+        "fix_commit_hash": "1b16d76c4046a8631fdd9dd79e26a6f4a266888c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2395",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/1123",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2396",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/910",
+        "fix_commit_hash": "206b3a88a239317e95388cab1e8e674c41c6dafc",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2397",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/901",
+        "fix_commit_hash": "bc88985889d2661aff5f04a7cf92e458178b5777",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2403",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/134",
+        "fix_commit_hash": "0466ae5e07d0b7c8d4c1340e688616ae685e0298",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2404",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/118",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "57337b5cee5a5ab076ab89ded23219b40497e6b8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b754f03c11e3a1194a2301da7265b2984906d690"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2405",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/57",
+        "fix_commit_hash": "c46e27928f3197d64ae52c8206fee151b248fd53",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
