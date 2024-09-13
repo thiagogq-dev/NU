@@ -1,0 +1,39 @@
+[
+    {
+        "repo_name": "jhipster/generator-jhipster",
+        "id": "2476",
+        "repo_id": "94571",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jhipster/generator-jhipster/pull/13765",
+        "fix_commit_hash": "f710bc0ac2da53fae20ee01e42746a249ffe7f8c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "jhipster/generator-jhipster",
+        "id": "2481",
+        "repo_id": "94571",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jhipster/generator-jhipster/pull/11448",
+        "fix_commit_hash": "1d9517cae5e3981088088572cd07a87eaf103356",
+        "inducing_commit_hash_pyszz": [
+            "e1e4ca8adff2c07c2c942801286492d0f6635a57"
+        ],
+        "inducing_commit_hash_pd": [
+            "9615bd4129849ddb86be75cd32ae0886e3681e61",
+            "5068452382f00ef2444858bc827630d1a1a7dc23",
+            "fffa769eedcaacc21c43c24805bac0a7d72d283d",
+            "49499721b867dd542aacb63fa411c5f67395316d",
+            "94260918e3358ea75dc7f1240cb08f13a61ce82a",
+            "ab8d2016bbe91ff14706637726b1418c738babe0",
+            "63b26553c5afb45a7136686456489df1085b5373",
+            "e1e4ca8adff2c07c2c942801286492d0f6635a57",
+            "648ae292b52ce55a4dd9997f4af8a619bf19ded7",
+            "388574fc9774e9c0fc81034e52ee1cf5efe68deb"
+        ],
+        "matched": [
+            "e1e4ca8adff2c07c2c942801286492d0f6635a57"
+        ]
+    }
+]
