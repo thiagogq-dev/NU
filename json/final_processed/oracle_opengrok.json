@@ -1,0 +1,98 @@
+[
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "95",
+        "repo_id": "131",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/oracle/opengrok/pull/3399",
+        "fix_commit_hash": "1f6726aecb7d8a3e3a38bc1535d839b167982f31",
+        "inducing_commit_hash_pyszz": [
+            "195a23a5fb13b85418607a9be6d47f024f6397d6"
+        ],
+        "inducing_commit_hash_pd": [
+            "195a23a5fb13b85418607a9be6d47f024f6397d6"
+        ],
+        "matched": [
+            "195a23a5fb13b85418607a9be6d47f024f6397d6"
+        ]
+    },
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "117",
+        "repo_id": "131",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/oracle/opengrok/pull/2890",
+        "fix_commit_hash": "dc6f2658402bf73a306933d83e37de8f8423c42e",
+        "inducing_commit_hash_pyszz": [
+            "deac8cafc777694e48ca987ef4ae3815700c4779"
+        ],
+        "inducing_commit_hash_pd": [
+            "f424f3750f7638851118dd06989edd3582b9af06",
+            "deac8cafc777694e48ca987ef4ae3815700c4779"
+        ],
+        "matched": [
+            "deac8cafc777694e48ca987ef4ae3815700c4779"
+        ]
+    },
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "130",
+        "repo_id": "131",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/oracle/opengrok/pull/2548",
+        "fix_commit_hash": "723d2c3ccc851fe0ba238aae349669d04733fd51",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "131",
+        "repo_id": "131",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/oracle/opengrok/pull/2469",
+        "fix_commit_hash": "dae014606c0184e29087c986872e1ca4baa2654f",
+        "inducing_commit_hash_pyszz": [
+            "e082176f2a34ec735cac6e559f086e8d8b9b3a54"
+        ],
+        "inducing_commit_hash_pd": [
+            "e082176f2a34ec735cac6e559f086e8d8b9b3a54",
+            "094edb8e8bf0dbce76031304bcb176e8c49945e0",
+            "7ac1f5d2038ccb5b35a1162bf48f414f938ab277"
+        ],
+        "matched": [
+            "e082176f2a34ec735cac6e559f086e8d8b9b3a54"
+        ]
+    },
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "138",
+        "repo_id": "131",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/oracle/opengrok/pull/2250",
+        "fix_commit_hash": "cb86d517961c6c21b2a0a8b27d01c0958030f9b9",
+        "inducing_commit_hash_pyszz": [
+            "a9a8761abfbf487f5844445108ddb85ff2e9610c"
+        ],
+        "inducing_commit_hash_pd": [
+            "e96b6d3d46c5d2c2b605c3cbfb7473ea84c7fa15",
+            "2b96a3315071693dd6ec13a03d962ba33f64a233",
+            "b6463b57e825d0352b4bbae17642068c7840f373",
+            "be644645b8b066cb4ae869b06cac7cb7623e93c1",
+            "ad0b633ade6931f350b9ec745e5599d6afe6d6b3",
+            "6daa3676df6c00af6464713d0fb3026f8fb97199"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "163",
+        "repo_id": "131",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/oracle/opengrok/pull/1083",
+        "fix_commit_hash": "42465a98352b21acd083768b2d89796c19764e65",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
