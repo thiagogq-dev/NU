@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "torvalds/linux",
+        "id": "1593",
+        "repo_id": "17910",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/torvalds/linux/pull/769",
+        "fix_commit_hash": "7a48fbfd6efce66b75a3eb26d37eaacd829b591e",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "torvalds/linux",
+        "id": "1599",
+        "repo_id": "17910",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/torvalds/linux/pull/610",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
