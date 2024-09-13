@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "mongodb/mongo",
+        "id": "295",
+        "repo_id": "1943",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/mongodb/mongo/pull/811",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "c5b39682afa703a995b43f8fe6b5d06d17a3b2b2"
+        ],
+        "inducing_commit_hash_pd": [
+            "821ac1964b7fc1beba93a71fb971584b3af4808d",
+            "b502c26303ad0363a6684a2497eaf8e5f39adfc5",
+            "3fd2a61085f8c72a13d1bc00ad95c460c69eb8a8",
+            "3eb6f1f4540a9315434341e447fd4b2830211ef6",
+            "7d178a644671383d4d6370e540e3c47b90fdfb0e",
+            "67b7d39d57b4c6f3cf3e3e7da1cc4c88ef093a37",
+            "55741c6d7ea210cd687cba3891577b830ced48c2",
+            "7bb78ed5a98c25009d2f5295d091b3afd3b625f6"
+        ],
+        "matched": []
+    }
+]
