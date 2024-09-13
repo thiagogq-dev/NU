@@ -1,0 +1,21 @@
+[
+    {
+        "repo_name": "nvbn/thefuck",
+        "id": "2084",
+        "repo_id": "93946",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nvbn/thefuck/pull/907",
+        "fix_commit_hash": "201c01fc74d479d9e418d32c92a88b50b27728a7",
+        "inducing_commit_hash_pyszz": [
+            "f20311fa89df2887d49395a8815cd3d6a00ef765"
+        ],
+        "inducing_commit_hash_pd": [
+            "b0195a87487ccfe7ea87bc4a159a564a489fa0ea",
+            "f20311fa89df2887d49395a8815cd3d6a00ef765",
+            "ca8222e764756e61044a50e79669c463afd42319"
+        ],
+        "matched": [
+            "f20311fa89df2887d49395a8815cd3d6a00ef765"
+        ]
+    }
+]
