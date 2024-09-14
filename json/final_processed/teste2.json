@@ -1,0 +1,4899 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1736",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32137",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1738",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32116",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1739",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32112",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1740",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32073",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1741",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32043",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1742",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32018",
+        "fix_commit_hash": "305bfea9c3c174d35136fddbf2bcd8544b4ea3bd",
+        "inducing_commit_hash_pyszz": [
+            "c375d5ab23db63c457013c2851e915ed1043c44c"
+        ],
+        "inducing_commit_hash_pd": [
+            "8fa06fbab760939b741e7bc1e9282b99ba1814a4",
+            "99b9ab58e239452f0e6d8a3fcdb55af70e6805ef",
+            "c88aea19d8b2e0fdbac0d9ff29416f7b5ede7652",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "fcf1e41e429b10e03c5cf9b8551636df7519b4c5",
+            "d45c2d784cb2096541ded8f62b4400cba51c0e08",
+            "ad9a7c9b9641683ddaf2030a609947d5cd9f9e1a",
+            "dda3a8dee056b104de252fdcdf59adf58b64c6af",
+            "c3cecad027437c866b6d62e7819955e963ddc4a1",
+            "af16eec5128b861180c7569b06d1c9539b012d1f",
+            "529e704b1162a232e9714ea49d13e8597f8578ba",
+            "c375d5ab23db63c457013c2851e915ed1043c44c",
+            "c024dbfc499c2e92c5bd80dddfeb112d54b76722",
+            "a705e1a9e30abe2b636ab38602bd1afea2b0c422",
+            "86423f9563dd41cbf2a15b16962e2878ffe98185",
+            "e82c969959da090f2aeb3941a574100af43f07e1",
+            "b3f8495a03e488b1f162452d7f37642531b08ca0",
+            "80ef9bbdb1cb42583eff3180e5565b8cf1305064",
+            "39915f92bc76ccd8c4f170f9aefce97fe6672c9e",
+            "9ab1325953b30fb3d881e9c27b2afdd3274322b6",
+            "7a3932de944cb5f160fa8b0c60ecb06ff68e273f",
+            "1c1837fddd27c1cd0ced7c8b74717aca8aae22fa",
+            "05ee0f8b6e79f900d3d627adcc2f52182a1d472a",
+            "0a285a9a0c22fd4b4989148880b7f22e7e47fff1",
+            "702d55f0be066bd0cbf86e76e167ebde28ce15be",
+            "0f56bd37d88ba17923916c75104b667f2442c09b",
+            "92040ef72ecc7b297dc94ba97fcc30c03019466a",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "c375d5ab23db63c457013c2851e915ed1043c44c"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1743",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31998",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1744",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31989",
+        "fix_commit_hash": "a2dbd83db1f5b3ad32c315b48b8229a6269b0438",
+        "inducing_commit_hash_pyszz": [
+            "ce78925732f17a3628a356133cbd75b71fc79c57"
+        ],
+        "inducing_commit_hash_pd": [
+            "942a70328c80a3b2e453200385fbb4f6524bb72b",
+            "bd04b30acde3f36e3e3b25d517ce63f71da6ceab",
+            "d526461bd2c9b0deb39004e7baa869d55a3ad9d9",
+            "ac43e72aecb9db0e33a0fdbfad79f934ee5ca7be",
+            "1b21f20e5bcb091c63de6128cb3c962cbcdbd0bf",
+            "8a0a14b9a3c02d29d9cf33a0fd57136d6e782ebe",
+            "c7d82b378bdd9ed6d5d24b86a157146d23a5e74b",
+            "9b3fb66394bf096c8a258e9eae04ad0791ae2b85",
+            "4d063eddbdd3737c41e6b8daf94f05a67f2a9eea",
+            "991d17c8c40729420fe10db11071f9a1a91c3084",
+            "66e49a05462795c054a1729082903d7dfd7c018f",
+            "0522127924b0c5cef38fb07d2c49fc7d09ea0916",
+            "5a86450df7b99a1ec908841dcc505f0f5c52cba1",
+            "cdfe0f1f5ab4afae89030459c4b67e9aa1a9c928",
+            "3378240b2954fcf879ac84f440002685c4b30cc9",
+            "80617ab39ee4f064c35eae2875b65aa4ab6244af",
+            "948ee3ee3f6f35512015645b89d889c3b8c18879",
+            "cd5169745dbc2431f167e01482ef452bd41f9a4f",
+            "59a10e6309f21b47451c4442392b94cf1ca3a2fc",
+            "0a79555a122f0a2b7361c12760f32337e20fba9a",
+            "628dfaa84379f33827b93e993700251502198d28",
+            "89977928751ead5d7703f713150a77a7751375a6",
+            "c8de04ae1409519d77fda097bc420e6617cb3a98",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1745",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31942",
+        "fix_commit_hash": "c375d5ab23db63c457013c2851e915ed1043c44c",
+        "inducing_commit_hash_pyszz": [
+            "33ae455e6cac3896777ebccc654d6f199f611a98"
+        ],
+        "inducing_commit_hash_pd": [
+            "99b9ab58e239452f0e6d8a3fcdb55af70e6805ef",
+            "a6a57a71d3adf770b4ab85aa5a2056477ff18eb3",
+            "685b75da3a8fe1ccac7ab44927056bc136a3af72",
+            "c024dbfc499c2e92c5bd80dddfeb112d54b76722",
+            "dda3a8dee056b104de252fdcdf59adf58b64c6af",
+            "9204920d9ae45ec1bb090aaf32791703852ffe22",
+            "5a8ec9b762c68336b68f81a2ec32909030faf090",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1746",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31899",
+        "fix_commit_hash": "d268b494d7e305ca65ec28b8b62380eac97dba3b",
+        "inducing_commit_hash_pyszz": [
+            "6484f812c05dd537d5bbbd6a7907efa5971e13a6"
+        ],
+        "inducing_commit_hash_pd": [
+            "06df439db0219c9934382a413ce17c5709858350",
+            "6484f812c05dd537d5bbbd6a7907efa5971e13a6"
+        ],
+        "matched": [
+            "6484f812c05dd537d5bbbd6a7907efa5971e13a6"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1747",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31807",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1750",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31753",
+        "fix_commit_hash": "4328470dd80468cb411cce1bd84e8e8f27ab8295",
+        "inducing_commit_hash_pyszz": [
+            "18478d63c2c0cde2487ec29fd82eec21690c8c70"
+        ],
+        "inducing_commit_hash_pd": [
+            "6eeacf339c56905eeb5d9b358471e4bac018fc82",
+            "1ebccfcf5062f48cf804dc35c10b130119d2412b"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1751",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31746",
+        "fix_commit_hash": "1f72afa77314d27208e710398f65f701c865ea1f",
+        "inducing_commit_hash_pyszz": [
+            "e65115ae5ae0e07af986ef109bb3fde5af644b47"
+        ],
+        "inducing_commit_hash_pd": [
+            "e65115ae5ae0e07af986ef109bb3fde5af644b47",
+            "36105231c35e62ea198df5296456aa7e55823562",
+            "1ebccfcf5062f48cf804dc35c10b130119d2412b",
+            "09a4882a4c196017e7982d2f6f5988d9d1c065bd",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "e65115ae5ae0e07af986ef109bb3fde5af644b47"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1752",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31713",
+        "fix_commit_hash": "2d87287c0d768256e34a94ddbb1dcd2219eab321",
+        "inducing_commit_hash_pyszz": [
+            "a6a138905dfffbf0b0ed3401af9769c633735f97"
+        ],
+        "inducing_commit_hash_pd": [
+            "a6a138905dfffbf0b0ed3401af9769c633735f97",
+            "80b142d2184b07fdf4f7b1ea91836471fd9c8dad",
+            "0266479cabfa5f9c9d6ada62c256a8d6f715b24a"
+        ],
+        "matched": [
+            "a6a138905dfffbf0b0ed3401af9769c633735f97"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1753",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31666",
+        "fix_commit_hash": "9e529d9d584ae6f6978ac09056b73d9ccdde4a3c",
+        "inducing_commit_hash_pyszz": [
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056"
+        ],
+        "inducing_commit_hash_pd": [
+            "366e27c551e6819698a0baaa0ed2aeb0a3c2a163",
+            "57de66476c9d7e37f56d0c7ba861134c4485bf1b",
+            "7f166e1927988f753dd9c56c72cd25c2acf2b2b0",
+            "3e4bc027ebdba5dd1a0935a75b5218960f736f76",
+            "c88aea19d8b2e0fdbac0d9ff29416f7b5ede7652",
+            "084179f4572c95b94d6f072eacf39b76aac4d36a",
+            "febb46b7020e1ad6f9eeb8ad39505c7426ff3035",
+            "fc95323904a7b8542e8714fee14c597fa0703e5a",
+            "4e085f03b71331c7cb4cc6a0be6f88f2257dd270",
+            "af44ea04408696c526c1781540a122db6eacef7f",
+            "ad9a7c9b9641683ddaf2030a609947d5cd9f9e1a",
+            "8b0fb5eae8c802460c98325f839c5a467e4e773e",
+            "c20f3ba99688d2267eedbfd7712577b7f9e78691",
+            "39263d83d2c59aac57e50256a5379cd35fe9818a",
+            "bd04b30acde3f36e3e3b25d517ce63f71da6ceab",
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056",
+            "da40720ef04c19be212fe0cafade44283f24c232",
+            "9ab6d3cbc3515d0125222de294897941e7f4e226",
+            "b59b6bbdd4dcf63477161a9b6ab3ee25a84e915b",
+            "e6784d5c7d7fcb1173bfdf07c4d27859f018577c",
+            "b3630c7ea9a2092baef955c0f61d87a1670a4ae0",
+            "1aedda3627a212274fbb1ee6d4780da0355d9d17",
+            "2b108203fbed404684a03bce15701405b8dcef78",
+            "cc6674068338d4b775ea23cd1ff1da6ee92bb82a",
+            "c024dbfc499c2e92c5bd80dddfeb112d54b76722",
+            "c86c433aabe219eb6e025e6f759ec6e81ceef749",
+            "7f0fd9e1a37ccf4dd3448edf1d40d5f6bed3955e",
+            "97f229f6677b0828919674f637c1f8f6ff451b2f",
+            "6c587330fd70f017716ed633a2a650a419ba4eac",
+            "9643ec2c627499140a486d99476a778f4a3c2b54",
+            "c662565f291db3c7e95f9cfa75e764999cd1bbfb",
+            "c82f1be38666b8fcf9c76806a22c61b4687a3e4d",
+            "39915f92bc76ccd8c4f170f9aefce97fe6672c9e",
+            "c86e8b9c2e67e1eb109768f28f2ed96077ea74ab",
+            "cc9568d1bb72aad536fa2cfa2f5a7c51bfc417f9",
+            "91ab88e86ed137649023d675995d7eadf682cd2a",
+            "9b3fb66394bf096c8a258e9eae04ad0791ae2b85",
+            "f888082ce6e6e3061cb40bd4f9f7286f70bece6f",
+            "afacb478286a486a46c54cc9e067911e3400e60b",
+            "41af46688a48692744e8ebc3d8a9396c1c1f7678",
+            "a119f7ccf1d4a1c2b9e8594c37d755edd163e966",
+            "773876caee2e7e123094b9f2d0539e925cf0c13a",
+            "6adf4fd3aff3c92c84ba27e433b665e5c5357259",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "166514651afa2b1d88b884a2a33d9d585dc009e3",
+            "2c2261881d243ebdb59bd9df28b1ccf15e43a013",
+            "20f6d662944155051e01e4a149cde716a8849974",
+            "8bcbc690ce7be085f47c7e2ee3ebf9897c6dc135",
+            "bbdfaadfaa1d3d7558ae75764ac96ab1ac34494a",
+            "de10d26bfc0a728ceeed74fb280aa82ee327a95f",
+            "a8faf9768adb1c8a7426ceea59b776c977beaba8",
+            "e69c5d4d487d3dbdf5ccfac849c7784413f8f218",
+            "57946a97dfb9cc40b21822e97c615280f111f69c",
+            "628dfaa84379f33827b93e993700251502198d28",
+            "0aeeb8c26fa598dc08b2dc8482401ed767f3dafc",
+            "0a15b033959cf791807ca6153fe875944079442f",
+            "1d4422fc7987d093bf56c8aa2a1c0e7cf7c0c9ed",
+            "706a8fd38db637edac2a74eca7f1b5108853d59a",
+            "cd14f33ae2b3c16b05ab0bcdb76327023528db3e",
+            "dda3a8dee056b104de252fdcdf59adf58b64c6af",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1754",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31650",
+        "fix_commit_hash": "117e9066db785182335ac74c8bacad30858c222f",
+        "inducing_commit_hash_pyszz": [
+            "9ab6d3cbc3515d0125222de294897941e7f4e226"
+        ],
+        "inducing_commit_hash_pd": [
+            "a8faf9768adb1c8a7426ceea59b776c977beaba8",
+            "9ab6d3cbc3515d0125222de294897941e7f4e226",
+            "ad9a7c9b9641683ddaf2030a609947d5cd9f9e1a"
+        ],
+        "matched": [
+            "9ab6d3cbc3515d0125222de294897941e7f4e226"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1755",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31635",
+        "fix_commit_hash": "101d675f904a13caa84bae891aebdfc6e45a8445",
+        "inducing_commit_hash_pyszz": [
+            "fa45c6c9a63d25bc4abb89f49014a7774acffbf0"
+        ],
+        "inducing_commit_hash_pd": [
+            "94ba78e09a7564fcecee710e07a229d7779f4688",
+            "4f41018753664296856a47b25d9faf2d29142a39",
+            "215f289a8cc2b1a62620a6740eb29c6636e67982",
+            "fa45c6c9a63d25bc4abb89f49014a7774acffbf0",
+            "db44a4cddbfc1aa72bdc9210af9b6d25d2b62a68",
+            "7933f5e28eeb378a9da047c71433f7dbb2b0e33e",
+            "05160e6cd8f3f2e3dd00ef359f9ca430cccfa873",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f",
+            "e95a7aa6f0df00e71725c4888f107ab55b35916b"
+        ],
+        "matched": [
+            "fa45c6c9a63d25bc4abb89f49014a7774acffbf0"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1756",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31620",
+        "fix_commit_hash": "bf7689071b4e580cc3056ac231c0329fabd7f01d",
+        "inducing_commit_hash_pyszz": [
+            "3aa0de9e10d33ffe0c1172b226c8eb13710228ac"
+        ],
+        "inducing_commit_hash_pd": [
+            "3aa0de9e10d33ffe0c1172b226c8eb13710228ac",
+            "280732a120a4cda45bd2581e0a21e3badb17dd93",
+            "76ac6476104d8701e8ad37563fcff693521d352c",
+            "f5864c7291bf2578bfbb36ec654af0c097bf81cf"
+        ],
+        "matched": [
+            "3aa0de9e10d33ffe0c1172b226c8eb13710228ac"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1757",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31594",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1758",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31548",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1759",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31469",
+        "fix_commit_hash": "14e067779c8914bd756cdedc6910a814428cc93e",
+        "inducing_commit_hash_pyszz": [
+            "240aa34cb4fab36229f308d3fe7dcdb641a30662"
+        ],
+        "inducing_commit_hash_pd": [
+            "c162890385e5a2939c0355957398ee63e21fb079",
+            "240aa34cb4fab36229f308d3fe7dcdb641a30662"
+        ],
+        "matched": [
+            "240aa34cb4fab36229f308d3fe7dcdb641a30662"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1763",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31406",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1764",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31383",
+        "fix_commit_hash": "3378240b2954fcf879ac84f440002685c4b30cc9",
+        "inducing_commit_hash_pyszz": [
+            "467ea50c4e119ce8ea3d4d4d7ed3ce5f8d9b7148"
+        ],
+        "inducing_commit_hash_pd": [
+            "0a03a62ab611631f5acf66c117036e4c81d89ce7",
+            "0789a7405574dab8cd3937b54390395ccdb2f65f",
+            "3bee2d319565298a58ea07849372701d72a75db5",
+            "4f5a934d92c4dade9a6dabd11562e60672234ebc",
+            "42706653e32289d009ff9d8149928c6b4b353ba2",
+            "bdf836a2866296083523f6cbdd30ec7a521c49c6",
+            "7aa4568a9c976ab9c69aefbaa61e9c809449e2e4",
+            "3adccd4560c3b4208fce8a77fe32dc259f20b278",
+            "33341600037bc72464ef56d6be5650ca99ac2069",
+            "1207103b6d01c99053662cae1e7992f435a5f541",
+            "d813a05b9f3d0a5216baf3c7e3baa58714fde54b",
+            "b01b1c2a58150076c48413a4fb857e6a01fe23dc",
+            "a34a4437829b32d55bb56d1feb247e66d3ff476d",
+            "e6080e90178d1e75b64645a613dbb8c0e4f5865c",
+            "0b8b147a74ccf6e077a024f01e53107895145ff4",
+            "fe4043c8ff721381e8ded999431192ef79417e89",
+            "151a65ed17616f3e72d43a26dfb0c3c32504b78a",
+            "a6a138905dfffbf0b0ed3401af9769c633735f97",
+            "b47b399f000fce42eac0e00b9fdcf969122660ab",
+            "7d57a52d0fb2a066ab25dad64677a9c8be25ad8d",
+            "1fa8ba6c66e8e847e91d8a291c9369d08350ec22",
+            "2766b08ff45a039d9d7b15435d4680f915f4b1e1",
+            "b0c64910b08707ac2c68125a46c978119db8182b",
+            "184dda9eb0496f66873d92a5c164a4bede12c273",
+            "c4d3bf472bc5eaa18a1f1ffac727110a33f89b42",
+            "3dff0d0de209437d727a0f309111f5ed49ebfb2e",
+            "7ec51d628d89ce697e3fa293b7b3427b9b638309",
+            "2dea44994922dacec38f81cc68c42360bdc449d7",
+            "203f8433c20ff8a383557ed9a7f801cb26bb3aa1",
+            "c95e7539e7c090eba45b8a79c68570907d0b9e4a",
+            "601be4f83e8707eb4638dc8e9d09c3db9ddb96c3",
+            "79a4d9ce36113c1db33c05183052435f148c0582",
+            "d48d8ef863ef5b0bd2717f1a0c4d5de541cb7edd",
+            "d74760c30665e183650cf9a0f041702bf04962f4",
+            "9c4d6c629a5d6c00e9f617c8673dd44281bcc9c5",
+            "579d1fea5738043e28e78a9d50ca0052fbd5eb30",
+            "6db5b5033cfd84c89a7be1d4ece7654de87ad514",
+            "ed964368a92d76aa5e1e61d23677535d7c25f417",
+            "878ae8eb3c3b93fe0cb8b25daeb0ceb16da37801",
+            "ca90d9ea82c3ec2162a669b199c63ef5103b2fe9",
+            "712baa42ae8206eaf500e6f1cd689123344c9c9e",
+            "de2a0dfa6e5d021f2f4c86f52dbe5410a24ef309",
+            "42237ed9821c41a120a6ec17f42074d657a80a33",
+            "5904d936fabfa25b832b757461efa6b0d3e9acb9",
+            "2e103f6a1cd09e9d9d43f90e09f6fdbb2244401f",
+            "d613f5f09715938bad8479c8db28ad5fdcab5273",
+            "3343ceeae44f3d28e3c1ba7861886848df74e390",
+            "cf7747c3388ea0ba1bc6358a67fdb99a2f8b1826",
+            "dd3c1137a4bbd736cd323c460cda1661c2ed1436",
+            "e757722291b3c22c08ece398b065c3f5efa4f8cd",
+            "bbf6e6d0bda66a63a8310e4c10852c1788b8000a",
+            "8b0df473814dc158eda8eee5fe974e019ff2c802",
+            "7bbd2a151337670e62a458569bc5b07d0ae81f9c",
+            "7fea5bd8e7c45e5a5aaa05881d0fc2e8ba5b978f",
+            "35d3bdab84fa05c71e8ae019aaf661759c8b1622",
+            "2299c703719a189b65d51417f0abddad31368e7e",
+            "81a76072565412dab63e8ed0260c716b7600cdeb",
+            "1898dc2554221c96f0dc9bdfba16ad75ac94001e",
+            "17d01550c2d8736c3ed38c5eeface1d292c70717",
+            "4f121744bd82899f898a37642aeb44c2387da772",
+            "05255a230da4681128d1165d6ff0b457f391eaa3",
+            "1629c9fd5cec34bdf6f9e37b0f2523ffd57fec55",
+            "c743f067025412c5c1ecc44b0f06ad82392116ec",
+            "84a3899550603892d146885dc0a5df43a060f06d",
+            "11dfdfb189702f91d9c46e63ebe67a31bd7477a4",
+            "7d290874423b9d359b935f739d32dfe0d1c0b24e",
+            "b19f1a5b069465f4f7bf257e7d4690c8fb5e742d",
+            "3cd0e8929be853d9a917f3a120816db830053235",
+            "6d5ac76eeef05dfe1f1873d1b6774d51ec1825c4",
+            "f27cb96a64ca515eeb2608c79edc58e360bc07e8",
+            "292dd8f992e101f9bffcd58c6c60a24ccbfec746",
+            "80b142d2184b07fdf4f7b1ea91836471fd9c8dad",
+            "b91f5da2b2a09797a04448e64fd3643f6c030e01",
+            "05998224d8ecc11bef0b5a2432044e6a54585fa3",
+            "26fc8ad1099c53afe24abc307b625f3e870909f8",
+            "00dfdf50cfee9142daf987d38adf3eff3a971573",
+            "7da0cdec420d05f95d470a90113061299b13124f",
+            "7a7de12538ba55149b391a479c96f394b0b8fa61",
+            "60353a245a61b0a2c0121e526954b80a10e52641",
+            "85ac406f63eceb459cda2b1b0f57f4366dd6ede0",
+            "3804bfcc60d931c1dba1f8085dc3641f4b7b9f76",
+            "6046f172c89eeb2180ead7784adc4595e6289260",
+            "43ce65075590ab06a1f7e5050210f10ea3b649d3",
+            "0578925423da5bebfdaeebcf8483facf53ab579f",
+            "a34db4e09f728cd592c73d99c152b40789be257f",
+            "bb222f0f7f9c8851fb8076235937b08ad7b1ef0a",
+            "ea91adf6a1ed28c1a93a6c5d38a6e02ed295ed07",
+            "17be03e85ec78c8b90632af122e88a9c1cbdb13b",
+            "9bfc23e9582502b937b1dd7a7b116f931482fca9",
+            "776677f7e23acf71aec59a2a4d7b6163d4034c07",
+            "b6c6effa2a0f48b76e235ec8a95099fcc6915b7d",
+            "b57d21bab177820414880bf4291dd93b5b120cbd",
+            "9ba5e168e41e0955f8412f4ba78fe8c5b3cbf169",
+            "e2ab62596f956c0a16b1899f3bfabd4c65a88552",
+            "3136ed1490e41b4c82b8ee05ff2d224e113ef1b8",
+            "f8e0557be5e8177382c9d1e36bf8dffa979e5446",
+            "1ccb497c0d80313bbb09528bec79d856cea98c61",
+            "696804ebdbb5c03f6591d30a83490187e70b4578",
+            "6772517f4d927fbcabd9fb9528fc1049a3f95578",
+            "2bb3846d1fd6b120e963762ee9efe8c3120ff412",
+            "11f4e9c0639981ad037d62346c32162e0c74695e",
+            "b22c526b34c5bba261ec79a083a41e40f6f1483d",
+            "7dcb40bcacae2b44174f2f1cb645ee5f13e30f45",
+            "b69923f1124fca4c0f8a4ba8e55fc5c324c03bb7",
+            "dd51c231acbb4db168bb9bd6f71e8f4626e286a2",
+            "37b0fc4f1080f7b891dd15f494279c0b2ac328a1",
+            "9b247f982849fd844aacfe00b0f465538a63d8e1",
+            "96b3166c6da24c6d8ecd22e5a38c39d087cd8f18",
+            "822c99536765f66758ecd42ae8669603940acbfb",
+            "d4c0ef00285fff28c83fe0f0d1cfaf10165632ae",
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1",
+            "0853fc806f32ad05a7a5c0c489c510bcb1424c7b",
+            "b3090d654ab3b4846917b82be7f56ce5b1aa217a",
+            "749c3ec716c0c26d59dfed24e79bd96d380ddecb",
+            "d322b10488652acd6d9befe45bf97e633b6eb29d",
+            "e7eb664c78dce2451dbeb55db0c0b761a65b295b",
+            "c675407a70dea661e7c7a53fa75ba458f1f8dc0a",
+            "e6be4af0140590dcfd3e18ca40da4f16c94daa66",
+            "aad51d44ab7363e53da773afa4707e0165eebda0",
+            "801973fa9f225ddce9cac707251110659dcdc760",
+            "54de108a5199001aa267ec4af0d680bdf4c650c9",
+            "a61fcfd8cae582b2551d7b4b27ade19f1db4237b",
+            "7a42014909ba319fccdd19617cc599f75681ee03",
+            "51b33f1fd549b474e901e70a460440d73a1751ce",
+            "706067211ae880bbe4669286ee976552e8a60446",
+            "da907e7a7df98a64eba7163c936e1d216d64d42f",
+            "2b9d4bdf857f1b70a9e1c69c4b7347ce28a1fff5",
+            "d31d2caf095e77654022f01e075db2e035ef6643",
+            "53b8a0c63e830c115dae9787124a2186c05719b7",
+            "bfa784e5cd427fe7a2b1a78b119d756f00fd4927",
+            "3961de3e569b88fe79b9e2df5acce77f7ee2277a",
+            "467ea50c4e119ce8ea3d4d4d7ed3ce5f8d9b7148",
+            "40f119d85a4eaa39d0a6e594e46f70de725557f0",
+            "4da9b2cc9c18a5b8680550e3bdbe2c405abb5d81",
+            "aabb124209634a2d29116ca4620f2c98453f8b46",
+            "eaf3fbc6d773faa8b4556fca9a0e771d75649762",
+            "d77daf386124ea90acfb9a1dd5a8e1d262a33325",
+            "52acf0e6e17916bdece0a677dfba8e1a5fd064fd",
+            "333ca689d3fab71aa263267c0e6ef3142adc3539"
+        ],
+        "matched": [
+            "467ea50c4e119ce8ea3d4d4d7ed3ce5f8d9b7148"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1765",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31375",
+        "fix_commit_hash": "cbfac4fefe4d7bce91870e95116aa1735e8e6b97",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1766",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31368",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1767",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31363",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1768",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31345",
+        "fix_commit_hash": "ea92864eb179cb68af3f2a774713527f493f550b",
+        "inducing_commit_hash_pyszz": [
+            "a4fad02d9a8977cb434077a312f2a4369ada9dfe"
+        ],
+        "inducing_commit_hash_pd": [
+            "1d08b4d1fb7929de94c9206ae81379a8afefd159",
+            "e804d78be5ff151429d1ede810daeed5ca554bc7",
+            "d993926ba4703c6d7ba3830d3d14ff559308e4b2",
+            "a4fad02d9a8977cb434077a312f2a4369ada9dfe",
+            "9f7f8ffb4dab8a0baa8b640ec08910f05a38493e"
+        ],
+        "matched": [
+            "a4fad02d9a8977cb434077a312f2a4369ada9dfe"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1769",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31341",
+        "fix_commit_hash": "dc57eece75334b4fb2875082790eda3cf5e5088d",
+        "inducing_commit_hash_pyszz": [
+            "8e4ded82c03759e6532ff8d90c21ce8e913d9ccd"
+        ],
+        "inducing_commit_hash_pd": [
+            "667f842f92979d47246fbb4cd06cce4822ffda3b",
+            "5716a20fd36e355f87cf34afc4fff662e5ef44ea",
+            "efeb9cefcef3dace2ca9c3a7d5b851054b1eda23",
+            "7d60f6b365067e6c75132725ce772743cdd6c155",
+            "fae2f1a90f5cf80811e6905ec3126029a5e40db8",
+            "b0cc5afe8bf187c003c437627b6644b786fe1f29",
+            "0a683a0e18548d2fd72fba5e67a243e6eec86666",
+            "8e4ded82c03759e6532ff8d90c21ce8e913d9ccd",
+            "1c3d9077488016da7407124b56d0eb5fde7bb8a7",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "8e4ded82c03759e6532ff8d90c21ce8e913d9ccd"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1770",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31306",
+        "fix_commit_hash": "bbb7889236324d4890e7b3a316cac59519473857",
+        "inducing_commit_hash_pyszz": [
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174"
+        ],
+        "inducing_commit_hash_pd": [
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174"
+        ],
+        "matched": [
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1771",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31261",
+        "fix_commit_hash": "e1a69dcedfa3c3ede27fbe65c35d303dd67dbb17",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1772",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31250",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1773",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31238",
+        "fix_commit_hash": "b2e48c9fa7b67cb7bbea0d72500332baa2459b92",
+        "inducing_commit_hash_pyszz": [
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813"
+        ],
+        "inducing_commit_hash_pd": [
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813",
+            "47213f56758f9d9f44eac90837665acc4c971b26"
+        ],
+        "matched": [
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1774",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31235",
+        "fix_commit_hash": "cb952bd9eca06e26e945c59e00eb2ee33719f6a9",
+        "inducing_commit_hash_pyszz": [
+            "3ec40d67a5a8754cda37dc4bf4370106f1a22d5f"
+        ],
+        "inducing_commit_hash_pd": [
+            "c7c0e330b82adbda09db6df745af187db6b3eb43",
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "06d84f00e44668d4cea6ba9f3da6a59db65397f8"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1775",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31232",
+        "fix_commit_hash": "563141c6c9e642be572796aa2dd29dc04f9ba901",
+        "inducing_commit_hash_pyszz": [
+            "f6d69c9d40ea401a2347a2dd6594ffdb1ae046b3"
+        ],
+        "inducing_commit_hash_pd": [
+            "99b9ab58e239452f0e6d8a3fcdb55af70e6805ef",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "d7040ad7b41633dfe0b5fee993b59b1a49181813",
+            "0d83edbca5e553fd9238afa5cc936bcca7063037",
+            "e59f14d139d350a0eacde4603c40a9579ed00046",
+            "ae02762b9528bb496fdcba95ba9ef17fc7a8497f",
+            "c024dbfc499c2e92c5bd80dddfeb112d54b76722",
+            "2d1b0587dd57a74c48022f5456467ab8873a2d0c",
+            "6365dec42e3d10a32db6fda320a50d6f8768602f",
+            "38701fb6ee9bf9318ccb459698fc3b54ec4fbcbc",
+            "6183015639fc76a0673130e93b0a4b5df4792592",
+            "f6d69c9d40ea401a2347a2dd6594ffdb1ae046b3",
+            "c70c1c7e9885977d76197dd94a3258e8fc9714cc",
+            "e5b0e7f5cb8f3a6bb17614aafdb8d1b086816fa3",
+            "bcfdccaf3f399e93d6883fe6363e375aba30ada6",
+            "9e3bf47a87cbf19628833329cef549b77904c409",
+            "470e5e7cfce66b93a96e219d2688558c0abd589d",
+            "dc471bc0a93ecf642a72259afe38397697ef737c",
+            "eefcad94b84cb4d14648f8de83ce8290bdcf8220",
+            "4ef3de40bca75f3b745c8d7adf60d8307a479bf2",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "f6d69c9d40ea401a2347a2dd6594ffdb1ae046b3"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1776",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31191",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1777",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31180",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1778",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31175",
+        "fix_commit_hash": "b26aae3915e0402ab70504cdc4b8b1bb2b8f10ae",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "47213f56758f9d9f44eac90837665acc4c971b26"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1779",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31123",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1780",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31119",
+        "fix_commit_hash": "68827fc0465abe1e365815fd344e900f593e5008",
+        "inducing_commit_hash_pyszz": [
+            "e447ea9c1f67a5bd6b81dc441af9a02a479d1a4d"
+        ],
+        "inducing_commit_hash_pd": [
+            "e447ea9c1f67a5bd6b81dc441af9a02a479d1a4d"
+        ],
+        "matched": [
+            "e447ea9c1f67a5bd6b81dc441af9a02a479d1a4d"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1781",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31087",
+        "fix_commit_hash": "8c78fe711486a3f722879d8f7cf89632daf793e0",
+        "inducing_commit_hash_pyszz": [
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174"
+        ],
+        "inducing_commit_hash_pd": [
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174"
+        ],
+        "matched": [
+            "cc7cfb7fd9012eea5fd9d64c02927fdc95b59174"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1782",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31023",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1783",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30992",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1784",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30953",
+        "fix_commit_hash": "c662565f291db3c7e95f9cfa75e764999cd1bbfb",
+        "inducing_commit_hash_pyszz": [
+            "c375d5ab23db63c457013c2851e915ed1043c44c"
+        ],
+        "inducing_commit_hash_pd": [
+            "57de66476c9d7e37f56d0c7ba861134c4485bf1b",
+            "ffeaea0663b8dc7d6b405022619b5bf6f8fa81fb",
+            "084179f4572c95b94d6f072eacf39b76aac4d36a",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "aec23082284dffbb022afc71aa2dc9e4c60f5978",
+            "63f4bbba9867ac6fb90522397193ad531aad1626",
+            "af44ea04408696c526c1781540a122db6eacef7f",
+            "661b755639722d29cb947b16e1d09e0112d9255d",
+            "ad9a7c9b9641683ddaf2030a609947d5cd9f9e1a",
+            "dda3a8dee056b104de252fdcdf59adf58b64c6af",
+            "8b0fb5eae8c802460c98325f839c5a467e4e773e",
+            "39263d83d2c59aac57e50256a5379cd35fe9818a",
+            "7c7e47aa0f104ab4b0e625e98d75c563d22d3f1e",
+            "431f30893fa4d1e2f775edb1bb29b23d80c13f7e",
+            "bd04b30acde3f36e3e3b25d517ce63f71da6ceab",
+            "21b9170dec8601b5509142a0fb3fa5389614232d",
+            "da40720ef04c19be212fe0cafade44283f24c232",
+            "7192c4630772fc205ca005648adf9667dbd48d17",
+            "b59b6bbdd4dcf63477161a9b6ab3ee25a84e915b",
+            "c753ddf7f25e8947023901a4433a8b045d03a585",
+            "1ebccfcf5062f48cf804dc35c10b130119d2412b",
+            "c87d9278a62ac08b0bfd42b8816f9f30388f5759",
+            "c375d5ab23db63c457013c2851e915ed1043c44c",
+            "79d4b1e20808f7e74bb8ca0b224d2b4df3a3c818",
+            "98347088f933b43be36359bfbaead78555b73044",
+            "7f0fd9e1a37ccf4dd3448edf1d40d5f6bed3955e",
+            "8840042751b0a36196ba752f716946aea3471072",
+            "2fef2c72eb226db452f4d8c1104ada372577742b",
+            "6c587330fd70f017716ed633a2a650a419ba4eac",
+            "f7fb02f21fb2d1b206d0e7cddeea5d5d09953d7f",
+            "59fcb205b59adf96b31fb279f6a91dc28e7d8b5c",
+            "39915f92bc76ccd8c4f170f9aefce97fe6672c9e",
+            "9b3fb66394bf096c8a258e9eae04ad0791ae2b85",
+            "41af46688a48692744e8ebc3d8a9396c1c1f7678",
+            "773876caee2e7e123094b9f2d0539e925cf0c13a",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "9e5a8f3df5871dc9c68154f72fdff8157f61855b",
+            "20f6d662944155051e01e4a149cde716a8849974",
+            "7b36046f33d6901963775769bd8d603d3e19abcd",
+            "fb12a0e3830749f8233d3fd0f879913a2a03a36d",
+            "ba5dbc4daf739a42687e924ab102ac7a6ff3e2ca",
+            "1f8189fa127385c2d100f287165a34ea9521fd55",
+            "8d1756cd12e1b1f86250889195778286056847c2",
+            "5d5a9afb571e0a14e092cc19075385e3dee9e533",
+            "e69c5d4d487d3dbdf5ccfac849c7784413f8f218",
+            "92637d2eeca8aa8ae1ab0fbb41b5936fef5d8977",
+            "57946a97dfb9cc40b21822e97c615280f111f69c",
+            "220aa734ee19fe114376c764e2fbf41eee93e5c7",
+            "628dfaa84379f33827b93e993700251502198d28",
+            "a5d5234effcf711334473d1ca862c80a943bb099",
+            "8d5a1bae587a90b65b0ddd5913ebea1015e7bb06",
+            "e0f0b4b7b808cc039ce2ec2a352437dd5bb9a3ee",
+            "92040ef72ecc7b297dc94ba97fcc30c03019466a",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "c375d5ab23db63c457013c2851e915ed1043c44c"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1785",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30947",
+        "fix_commit_hash": "de93989550d71a75d146b5eab2a00612bfd886f8",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1786",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30923",
+        "fix_commit_hash": "e988ace5f75ac672667f37170634fd6b775e590a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1787",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30832",
+        "fix_commit_hash": "39c4f89f9b0b237ae986b6a51e381f87706fe81d",
+        "inducing_commit_hash_pyszz": [
+            "e8ad8cbb36ea80de8f9b3aebcae77250ed6e99ba"
+        ],
+        "inducing_commit_hash_pd": [
+            "a1f7fff901fb4d354016ff9d57438ef37cea4d68"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1788",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30824",
+        "fix_commit_hash": "8aa58887e2a15ebe49358b0a33f1f4ec81dd5836",
+        "inducing_commit_hash_pyszz": [
+            "1a7e842c15fcf8cb05c1884fdb04d44643abd0b2"
+        ],
+        "inducing_commit_hash_pd": [
+            "7192c4630772fc205ca005648adf9667dbd48d17",
+            "1a7e842c15fcf8cb05c1884fdb04d44643abd0b2",
+            "ffeaea0663b8dc7d6b405022619b5bf6f8fa81fb",
+            "ba1ced90960271fc4527bba96a9413a4f3ac7bc5",
+            "084179f4572c95b94d6f072eacf39b76aac4d36a",
+            "2c6d0b0cd27a62da6b499f8eba23414d48f67ba7",
+            "6adf4fd3aff3c92c84ba27e433b665e5c5357259",
+            "e861608c59854d5d1291fdecdbc178b47a2ee745",
+            "0a683a0e18548d2fd72fba5e67a243e6eec86666",
+            "8840042751b0a36196ba752f716946aea3471072",
+            "21b9170dec8601b5509142a0fb3fa5389614232d",
+            "a68fb27a23882dd1ced249a160e641dc847070c1",
+            "9df99573070017534b0400edef21819ea037455a",
+            "cec90f452a6d9763ae7d9f233747d86df722f192",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "1a7e842c15fcf8cb05c1884fdb04d44643abd0b2"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1789",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30771",
+        "fix_commit_hash": "dbb2e8143c5bf8169aeac0fa405411edc9e05deb",
+        "inducing_commit_hash_pyszz": [
+            "7b6d0faec268c6246ddea4a2916552752dcb75b9"
+        ],
+        "inducing_commit_hash_pd": [
+            "cdfe0f1f5ab4afae89030459c4b67e9aa1a9c928",
+            "375ec896ceae67493e1792af5138aca9ea4699a4",
+            "c02b895653e93a15136b543a5c8643fde3669c3b",
+            "2147d217df8039d10e53317ff36d5e6368a67a09",
+            "12d4f10faa7b99d086ff3121cdb226a2c75840c2",
+            "178d6ca6b3856e4513ec67122702da053551deeb",
+            "a0800c0b09ce29c87e112d849e4001fcd05de4cd",
+            "56d32bc8b2c73417df0d3e41206ef128f09558e5",
+            "e18c7e92fae3d29e260c943caa0b7ae2757852c1",
+            "7d71c3f1ccd4d73785b898b6b5f20fa3877a6fc9",
+            "f575119a8d440133673e89e6c7d23c6ada3ffb0c",
+            "9b6f417df61631c3547a04bf7e8c12815f821e1d",
+            "0bd9163c28956a6a732a6a0e0ed46c11b434d097",
+            "76c764b3791cb1bbeeb577006724fb05ac34111b",
+            "affc9e3563d9cc14e174e3ba9a95e757792e0fa5",
+            "7b6d0faec268c6246ddea4a2916552752dcb75b9",
+            "1918a3023754985b02743c1fb3a16c04ae0a732e"
+        ],
+        "matched": [
+            "7b6d0faec268c6246ddea4a2916552752dcb75b9"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1790",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30743",
+        "fix_commit_hash": "8145a820c2dd4d37612ab6db1e45e484f2c20512",
+        "inducing_commit_hash_pyszz": [
+            "3bc6fd76a3651f742f3686c8d5ebfa63f24e7eab"
+        ],
+        "inducing_commit_hash_pd": [
+            "c9a70521334347650c79c3dfd3bd88c343ef08f1",
+            "ac9ab974f48c5df7a8535c275630f03feaab65e9",
+            "ab9cc25a8eeb2ec0f8a9c78dc1f68a53ff10f132",
+            "5d0388ccb3ba92cb67923dc42a3f92a764594e4d",
+            "3bc6fd76a3651f742f3686c8d5ebfa63f24e7eab",
+            "c551bcba5cd7f536a63484092af11df8232453d5"
+        ],
+        "matched": [
+            "3bc6fd76a3651f742f3686c8d5ebfa63f24e7eab"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1791",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30688",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1792",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30621",
+        "fix_commit_hash": "5baadb1ff8ae284aaf5dd1fe072bfad390fec539",
+        "inducing_commit_hash_pyszz": [
+            "79a833655956a3bc18fe951fa6030f0e93aca45e"
+        ],
+        "inducing_commit_hash_pd": [
+            "e6e5ae6202a2acdccadd1badc9f2d7a7043b44b6",
+            "79a833655956a3bc18fe951fa6030f0e93aca45e"
+        ],
+        "matched": [
+            "79a833655956a3bc18fe951fa6030f0e93aca45e"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1793",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30620",
+        "fix_commit_hash": "a75b8adce57c4fe803cb4b79e202f673e969daef",
+        "inducing_commit_hash_pyszz": [
+            "249d06b2561c275167c6a1714a0c422ab9a26cbd"
+        ],
+        "inducing_commit_hash_pd": [
+            "bf1550a0b2b818c489cd6980a49e0adc77e0614c",
+            "b2e0cfb111fc9b314fc9c0c0706f5ac1282fab00",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "9d9572e2b24fa3da5e961321afbe4e8b682ee06c",
+            "249d06b2561c275167c6a1714a0c422ab9a26cbd",
+            "4fe9ac734beea1a72d898f9d1d0320b5a390b0cc",
+            "c9d77d20fdb8a46b614515555d5d0697b2c6e5fc",
+            "220aa734ee19fe114376c764e2fbf41eee93e5c7",
+            "0a683a0e18548d2fd72fba5e67a243e6eec86666",
+            "5fd68959a0056d6e3b3403fcea2d32dfdff4ef7e",
+            "36bdcaff5d9d2b01d082b7d154a2f09eb24bd3c9"
+        ],
+        "matched": [
+            "249d06b2561c275167c6a1714a0c422ab9a26cbd"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1794",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30583",
+        "fix_commit_hash": "a8b4a98ee537cbf7c267da6987c1d7341ff8c151",
+        "inducing_commit_hash_pyszz": [
+            "d3a2e34f9de44efc414e56234431631ab2e86935"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1795",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30558",
+        "fix_commit_hash": "8a89306aafc6cefc1a6886233036387ad67118ae",
+        "inducing_commit_hash_pyszz": [
+            "ee6abef87b47eb04681ff0c77908e3fa653ca3ab"
+        ],
+        "inducing_commit_hash_pd": [
+            "ee6abef87b47eb04681ff0c77908e3fa653ca3ab",
+            "13a27a34f8bed4fe7243d0c8c2ead5169009a2a0",
+            "62e33eeef3f64fc36c301c6c8610d7016162a721",
+            "f0f75b187a73243ce01d861da2a7be4f19708370",
+            "437c4f210bc3efe640938e463b5d3c3336ff1438",
+            "717e2ddf4219426c9cf52b3f8531ad29ed32a74d"
+        ],
+        "matched": [
+            "ee6abef87b47eb04681ff0c77908e3fa653ca3ab"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1797",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30526",
+        "fix_commit_hash": "21b9170dec8601b5509142a0fb3fa5389614232d",
+        "inducing_commit_hash_pyszz": [
+            "637301becad0e830db1595917d297053a3d7e102"
+        ],
+        "inducing_commit_hash_pd": [
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "f0d5c2da61cf9ecf9a3b452688fce47dfd47c554",
+            "2ad6a3a53820c9d841afbe665f8bc8a498a5bb42",
+            "8d8baffe2421c676ce57092ffe513cbe96bfde86",
+            "1cd53c41e21383c0df503704f434344b687c7196",
+            "6b4468ea5c8d6bb55b2b6202229d331038dd1bf9",
+            "4d557afaa4693cff3b0626ae775d4dd5201f4c0d",
+            "295051ee8c05b66df931a2605ce7d916407b98d6",
+            "fe9d99daed54c8cbf662ba82a48028ad4686de77",
+            "4f65d9b5276ca75a25920dc2efe3a461485f8be5",
+            "1c3d9077488016da7407124b56d0eb5fde7bb8a7",
+            "1a7e842c15fcf8cb05c1884fdb04d44643abd0b2",
+            "c024dbfc499c2e92c5bd80dddfeb112d54b76722",
+            "8840042751b0a36196ba752f716946aea3471072",
+            "ce008c446b356e92462e8ab5bd7b8a9e737e7737",
+            "f9eabcdf08576bf84d0b93379a1acdf99fb45d58",
+            "f05005f667f9a9bd34e9e6c6e4352c8a397836f2",
+            "b0552e1c6e712454405238f45d69ba70c14894d6",
+            "cec90f452a6d9763ae7d9f233747d86df722f192",
+            "a289fbd168e5a7c39798c1c1e1183bbc86954a5b",
+            "8e5855e62ebae5fe814367fa85f9bfdc3105213a",
+            "cb80e9ccbd484d5842a9a77f366f36e3b929fd5e",
+            "b2972a142cb368c228076fc67223ed83aca25db6",
+            "51c53710d7045827e3b6aaff9f9041a12f06a728",
+            "ac9ab974f48c5df7a8535c275630f03feaab65e9",
+            "6adf4fd3aff3c92c84ba27e433b665e5c5357259",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "0a683a0e18548d2fd72fba5e67a243e6eec86666",
+            "0baa45d9b306719a1994d16ba6d77a384a86cb5e",
+            "b29f7a9ddb254e6b5ab44fc6fc6b71702a9a2420",
+            "858178602e1f94cf6540617555e326cc927d75bb",
+            "37cc602aef783aec3626dbaeb9e8a1b958e5e1b1",
+            "637301becad0e830db1595917d297053a3d7e102",
+            "415bb7f0395643d456bc950b0285afbcde1c7932",
+            "03944c9a95685eb8dac936276aed9c1c2c0c5626",
+            "8d1756cd12e1b1f86250889195778286056847c2",
+            "a6bf79bd315918b90df1047bacfccc63b9c167a7",
+            "8c489b1a98a9a271d9757f7a8d3e3b4b22c6e999",
+            "41eea741b8cbb95749f244d2b15c494d4beb9189",
+            "4a001706e730306af1bcfa9a3a23106d084688ab",
+            "573b42144698dfd22afe0c307d36b7ffd47814e8",
+            "59b453e1c839c38263e8d1061a6f87aedceae081",
+            "ec175debd0a221cf2e908f4cb7511feb9b2ac36d",
+            "60d4b7e53e44bd6631cd28443fc9ca0759f1b250",
+            "a68fb27a23882dd1ced249a160e641dc847070c1",
+            "da3d7177bef236ccf7cbcd8d547ff7ac8b80fc5c",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "637301becad0e830db1595917d297053a3d7e102"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1798",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30466",
+        "fix_commit_hash": "8d1756cd12e1b1f86250889195778286056847c2",
+        "inducing_commit_hash_pyszz": [
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736"
+        ],
+        "inducing_commit_hash_pd": [
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "754623753a0c0c64986d346f947f97b94d44aadc",
+            "6b4468ea5c8d6bb55b2b6202229d331038dd1bf9",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "4d557afaa4693cff3b0626ae775d4dd5201f4c0d",
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736",
+            "7f553f391fa562ad2f88a70b245547d0dd76aab1",
+            "fe9d99daed54c8cbf662ba82a48028ad4686de77",
+            "29c64d83e1c1f8994069697a35fcfc823e10655f",
+            "4239ba5415e5f9fbb86cf227d0519a374be8203d",
+            "be773363c9313d265849717bfa4f0c920931deb5",
+            "1f32ef21a228fd77f8b09cd1f5e800d1d61e0104",
+            "ce008c446b356e92462e8ab5bd7b8a9e737e7737",
+            "cec90f452a6d9763ae7d9f233747d86df722f192",
+            "cb80e9ccbd484d5842a9a77f366f36e3b929fd5e",
+            "4ae1ca5fa5129390b00ea405eb852e5a13d90f52",
+            "2f70ae92b6fcc40d88584e5ecb66d83280477bb0",
+            "6adf4fd3aff3c92c84ba27e433b665e5c5357259",
+            "0a683a0e18548d2fd72fba5e67a243e6eec86666",
+            "e8d139eb972cafbb9eceb4bd98646718f79064a2",
+            "415bb7f0395643d456bc950b0285afbcde1c7932",
+            "e36f86cf953dba32050c0556fd5605fb58c66196",
+            "4a001706e730306af1bcfa9a3a23106d084688ab",
+            "573b42144698dfd22afe0c307d36b7ffd47814e8",
+            "ec175debd0a221cf2e908f4cb7511feb9b2ac36d",
+            "22a32c874866cf0b7a720b71054cd4795b09ab46",
+            "da3d7177bef236ccf7cbcd8d547ff7ac8b80fc5c",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1799",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30446",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1800",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30442",
+        "fix_commit_hash": "ce008c446b356e92462e8ab5bd7b8a9e737e7737",
+        "inducing_commit_hash_pyszz": [
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736"
+        ],
+        "inducing_commit_hash_pd": [
+            "8f15324a087df5ffe95cac3a686e4749bd6f2119",
+            "2ad6a3a53820c9d841afbe665f8bc8a498a5bb42",
+            "6b4468ea5c8d6bb55b2b6202229d331038dd1bf9",
+            "4d557afaa4693cff3b0626ae775d4dd5201f4c0d",
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736",
+            "295051ee8c05b66df931a2605ce7d916407b98d6",
+            "a68fb27a23882dd1ced249a160e641dc847070c1",
+            "4f65d9b5276ca75a25920dc2efe3a461485f8be5",
+            "be773363c9313d265849717bfa4f0c920931deb5",
+            "7fecca6329b34e45eaba2822b7dfba271e48d1b2",
+            "f9eabcdf08576bf84d0b93379a1acdf99fb45d58",
+            "cec90f452a6d9763ae7d9f233747d86df722f192",
+            "db4c00b565c88ca0e9ca90cc2565f167ecc48235",
+            "4ae1ca5fa5129390b00ea405eb852e5a13d90f52",
+            "6adf4fd3aff3c92c84ba27e433b665e5c5357259",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "37cc602aef783aec3626dbaeb9e8a1b958e5e1b1",
+            "415bb7f0395643d456bc950b0285afbcde1c7932",
+            "8c489b1a98a9a271d9757f7a8d3e3b4b22c6e999",
+            "8ab167cccb5eb3b4ec651bedd234dd2c570f6bd0",
+            "573b42144698dfd22afe0c307d36b7ffd47814e8",
+            "4a001706e730306af1bcfa9a3a23106d084688ab",
+            "59b453e1c839c38263e8d1061a6f87aedceae081",
+            "60d4b7e53e44bd6631cd28443fc9ca0759f1b250",
+            "570411c2dcfec8c58df8e592f48c8508cf182770"
+        ],
+        "matched": [
+            "e3e82ccb2d47c3e7a95b77ff273a269f142cc736"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1802",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30358",
+        "fix_commit_hash": "a8faf9768adb1c8a7426ceea59b776c977beaba8",
+        "inducing_commit_hash_pyszz": [
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056"
+        ],
+        "inducing_commit_hash_pd": [
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "57de66476c9d7e37f56d0c7ba861134c4485bf1b",
+            "e7e35845607bc710f6b7cf07dc693d942ff01bc7",
+            "c0790d6a491985e70814d1b82c8031158aee5c1a",
+            "febb46b7020e1ad6f9eeb8ad39505c7426ff3035",
+            "e7b5702f502cdd55e1ab4c38f7a9d632644b3a9a",
+            "71b78579a10e7613b738ec94e9d0ab0518b07c95",
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813",
+            "ad9a7c9b9641683ddaf2030a609947d5cd9f9e1a",
+            "bd04b30acde3f36e3e3b25d517ce63f71da6ceab",
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056",
+            "9ab6d3cbc3515d0125222de294897941e7f4e226",
+            "c753ddf7f25e8947023901a4433a8b045d03a585",
+            "3a4fa16f03266fac816d997de4450b727d59fcbc",
+            "c024dbfc499c2e92c5bd80dddfeb112d54b76722",
+            "dd3a800745ce093190b3e32ec87523c01fb01b45",
+            "c82f1be38666b8fcf9c76806a22c61b4687a3e4d",
+            "9b3fb66394bf096c8a258e9eae04ad0791ae2b85",
+            "217bd8add0d7b989975cd3e6e0f57bff95492c24",
+            "773876caee2e7e123094b9f2d0539e925cf0c13a",
+            "0c7caabea113a6c22e21277074fe70c39063b3d8",
+            "47213f56758f9d9f44eac90837665acc4c971b26",
+            "2c2261881d243ebdb59bd9df28b1ccf15e43a013",
+            "bc038b323d7c76b048e6f1e4bdbe99244154182f",
+            "f42f8cf756cf9ecbcd6850454cde747763ff05a6",
+            "20f6d662944155051e01e4a149cde716a8849974",
+            "fb13299714a16c821b68a6e9717fd4ac4bb20437",
+            "c84c48fa0123897a54396f9a2295a10d49d40be2",
+            "01ab4782a16989e8e148e7050d6b757a45de5e55",
+            "ed6a6af64c71300bf788cfb9c384e246960d75e9",
+            "abe217ebc332acc231e049e69d80c8275664fcac",
+            "c22494bcb714f1c5dabb21e1940feed16db1e79f",
+            "5b73c77011f6ad097ce36f784df963afdd014f31",
+            "57946a97dfb9cc40b21822e97c615280f111f69c",
+            "628dfaa84379f33827b93e993700251502198d28",
+            "bccf988e9d8dab306f191859f875a822341e41c4",
+            "cd14f33ae2b3c16b05ab0bcdb76327023528db3e",
+            "74f55bf46e7bf0d785886036efe79b4f58a6300e",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "2b09e90237f825d8bdc45f519b8d6f20eb989056"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1803",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/30341",
+        "fix_commit_hash": "b5ae7a1aebe2335753e94bc8233e64527c9e4cd8",
+        "inducing_commit_hash_pyszz": [
+            "bf3db3f1f78048b63831bfa1de5bddd9d8180daf"
+        ],
+        "inducing_commit_hash_pd": [
+            "47dcc8fe9c0e6bfb64d3f31a307c6fe2b98ca524",
+            "ef34f982f11d706c3d57e1d78e0c6687c2daccf5",
+            "42711dd46d8f7925813d155903c694d7498eddfa",
+            "907586c9e4ce7d9b84471c2fd10812dd8aaa79c0",
+            "bf3db3f1f78048b63831bfa1de5bddd9d8180daf",
+            "179074d3b0bf9cc684f1d5593d6b6fadf6b21d1f",
+            "a8dc8a7c980da91103ba7d29a2a092eb35bf6854"
+        ],
+        "matched": [
+            "bf3db3f1f78048b63831bfa1de5bddd9d8180daf"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1804",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30280",
+        "fix_commit_hash": "3e9fe3c9cd53bc74ad4d6e1abf34c917af6283ab",
+        "inducing_commit_hash_pyszz": [
+            "383856a175802e415f928e2f65f0378ff4c1c23c"
+        ],
+        "inducing_commit_hash_pd": [
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "a0fd423db12a1c072e2a363256e3cd7c0374d144",
+            "7ba2defdbfa5f762d1905e85ec71dd44ed7c0c9d",
+            "679ef6a744d06d8399019c23543c1898efb6ecc1",
+            "80b5ac9562244d568cc17a99518f1363d545c6eb",
+            "7933f5e28eeb378a9da047c71433f7dbb2b0e33e",
+            "441589e21ff482cbc23f49a033868a6ad3d28013",
+            "64e2f4c93c8c3703b7404945f788f28d0a19f36b",
+            "9f7f8ffb4dab8a0baa8b640ec08910f05a38493e",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f",
+            "5064ff6ad43d4a1189c7283948e2a272f8b2ee02",
+            "bc95ad80ce72e9eaba90f640a34e24c3b21dcf47",
+            "08fdac5a93afe705c338f2a352360ebfadf81909",
+            "76bf3ba7674ae3a2d41e1864aba797c15a7fb04b",
+            "0f688e08678c668b6d5c1bfc2c7a8b86771fbc69",
+            "86addc0c8baa94f337ea02f55777756b2eddcc22",
+            "bbcb33b5195c88864dc5decde91a73ffdb5a402e",
+            "db44a4cddbfc1aa72bdc9210af9b6d25d2b62a68",
+            "895d28f4622afb1d4883cfdb5bc5781167be4665",
+            "806b0bc710f3db48f1d913f2e163d5441170c4a1",
+            "383856a175802e415f928e2f65f0378ff4c1c23c",
+            "29663c1f38a69748a36d82048c616c2d82d36d48",
+            "a56312a8e918c8e3c94b7f86672e4f32dbe9b003"
+        ],
+        "matched": [
+            "383856a175802e415f928e2f65f0378ff4c1c23c"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1805",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30262",
+        "fix_commit_hash": "2426d65dda0511fccecc86d8582e6d2e411f8de2",
+        "inducing_commit_hash_pyszz": [
+            "5e6bfb9a82c3e0b77ec85a0b129bc9a64faba763"
+        ],
+        "inducing_commit_hash_pd": [
+            "5e6bfb9a82c3e0b77ec85a0b129bc9a64faba763"
+        ],
+        "matched": [
+            "5e6bfb9a82c3e0b77ec85a0b129bc9a64faba763"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1806",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30239",
+        "fix_commit_hash": "64b97313d5c1f79200fe051072ffa06b9ff76aec",
+        "inducing_commit_hash_pyszz": [
+            "8a2df6c3b9ae38ca3b3f7fa3c6c61e94c92b5701"
+        ],
+        "inducing_commit_hash_pd": [
+            "8a2df6c3b9ae38ca3b3f7fa3c6c61e94c92b5701",
+            "a22a7d079d686506fd9bada9aef60ebabaeebee2",
+            "1f495f59a19d0f9668f8572fd6e4f33d2b316868",
+            "e6ad1c3e9dd89b4da3fb3a6989741050fcd3ec2e",
+            "56ca59a513d3740602a6e569de24fbb2f21849bb"
+        ],
+        "matched": [
+            "8a2df6c3b9ae38ca3b3f7fa3c6c61e94c92b5701"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1807",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30225",
+        "fix_commit_hash": "86addc0c8baa94f337ea02f55777756b2eddcc22",
+        "inducing_commit_hash_pyszz": [
+            "7eaec6031d9932305e17ff15a9648c0d5b2e6f43"
+        ],
+        "inducing_commit_hash_pd": [
+            "f2cbe20ea0fe296985c0421a01dabfad9cf8df78",
+            "08fdac5a93afe705c338f2a352360ebfadf81909",
+            "7eaec6031d9932305e17ff15a9648c0d5b2e6f43",
+            "fe37109c3fc105093f351626727d7bcde40df8b6",
+            "c5012ac6e823e1f38928291ece83a6575b139ebe",
+            "411f6835216d4a7ab2082ac980730538e8233c9b",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f",
+            "9435ffe64bcf2c0ac3d8b8b61ca1cdd9c8c76af0"
+        ],
+        "matched": [
+            "7eaec6031d9932305e17ff15a9648c0d5b2e6f43"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1808",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30223",
+        "fix_commit_hash": "7933f5e28eeb378a9da047c71433f7dbb2b0e33e",
+        "inducing_commit_hash_pyszz": [
+            "411f6835216d4a7ab2082ac980730538e8233c9b"
+        ],
+        "inducing_commit_hash_pd": [
+            "e69c5d4d487d3dbdf5ccfac849c7784413f8f218",
+            "08fdac5a93afe705c338f2a352360ebfadf81909",
+            "e686d8a3bfe25c652df854746883499eca02cd45",
+            "fe37109c3fc105093f351626727d7bcde40df8b6",
+            "9f7f8ffb4dab8a0baa8b640ec08910f05a38493e",
+            "411f6835216d4a7ab2082ac980730538e8233c9b",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f"
+        ],
+        "matched": [
+            "411f6835216d4a7ab2082ac980730538e8233c9b"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1809",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30221",
+        "fix_commit_hash": "db44a4cddbfc1aa72bdc9210af9b6d25d2b62a68",
+        "inducing_commit_hash_pyszz": [
+            "846783c2b6ed9e0cdde09030abfcb4369e649f14"
+        ],
+        "inducing_commit_hash_pd": [
+            "c7c0e330b82adbda09db6df745af187db6b3eb43",
+            "895d28f4622afb1d4883cfdb5bc5781167be4665",
+            "b5cb814b325f398e4f12c0ac6afeb04615ab3a17",
+            "846783c2b6ed9e0cdde09030abfcb4369e649f14",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f"
+        ],
+        "matched": [
+            "846783c2b6ed9e0cdde09030abfcb4369e649f14"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1810",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30215",
+        "fix_commit_hash": "5064ff6ad43d4a1189c7283948e2a272f8b2ee02",
+        "inducing_commit_hash_pyszz": [
+            "7eaec6031d9932305e17ff15a9648c0d5b2e6f43"
+        ],
+        "inducing_commit_hash_pd": [
+            "7eaec6031d9932305e17ff15a9648c0d5b2e6f43",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f",
+            "4c38e610fdea773719d179f7342f50813c1bbb31"
+        ],
+        "matched": [
+            "7eaec6031d9932305e17ff15a9648c0d5b2e6f43"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1811",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30214",
+        "fix_commit_hash": "383856a175802e415f928e2f65f0378ff4c1c23c",
+        "inducing_commit_hash_pyszz": [
+            "411f6835216d4a7ab2082ac980730538e8233c9b"
+        ],
+        "inducing_commit_hash_pd": [
+            "e69c5d4d487d3dbdf5ccfac849c7784413f8f218",
+            "08fdac5a93afe705c338f2a352360ebfadf81909",
+            "1369a49b9f8765741ca0fef723f5860cba536f5f",
+            "fe37109c3fc105093f351626727d7bcde40df8b6",
+            "a36121a725ecf197023994f1e7de0968474b2c09",
+            "9f7f8ffb4dab8a0baa8b640ec08910f05a38493e",
+            "411f6835216d4a7ab2082ac980730538e8233c9b",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f"
+        ],
+        "matched": [
+            "411f6835216d4a7ab2082ac980730538e8233c9b"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1812",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30196",
+        "fix_commit_hash": "1a0838bd0b19dd83b5511115afafb3c514010f5b",
+        "inducing_commit_hash_pyszz": [
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813"
+        ],
+        "inducing_commit_hash_pd": [
+            "ed6a6af64c71300bf788cfb9c384e246960d75e9",
+            "1cc20c4c59a1f782eb59975a0f4f92fd203e8286",
+            "80b5ac9562244d568cc17a99518f1363d545c6eb",
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813",
+            "c4582cdcd08939534019bb0fe8cde25bf3df30b4",
+            "411f6835216d4a7ab2082ac980730538e8233c9b"
+        ],
+        "matched": [
+            "1701934dd4b3c120a82e1f4d86e3407b6c082813"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1813",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30193",
+        "fix_commit_hash": "05160e6cd8f3f2e3dd00ef359f9ca430cccfa873",
+        "inducing_commit_hash_pyszz": [
+            "962c965812774eb48388209eeefe55eef0d8a487"
+        ],
+        "inducing_commit_hash_pd": [
+            "03ed2bbbd0864fcff994b272aaee96744cb43be5",
+            "e69c5d4d487d3dbdf5ccfac849c7784413f8f218",
+            "91ab88e86ed137649023d675995d7eadf682cd2a",
+            "9f505d16d479fd9814fba03941650508cdde5432",
+            "962c965812774eb48388209eeefe55eef0d8a487",
+            "0cf3d935eb91358cfa91051e25b379e60e2f2c3f",
+            "e686d8a3bfe25c652df854746883499eca02cd45",
+            "fe37109c3fc105093f351626727d7bcde40df8b6",
+            "15f5c5a632bbda12d983a767c7d8a53f2079e6a7",
+            "a36121a725ecf197023994f1e7de0968474b2c09",
+            "411f6835216d4a7ab2082ac980730538e8233c9b",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f"
+        ],
+        "matched": [
+            "962c965812774eb48388209eeefe55eef0d8a487"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1814",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30192",
+        "fix_commit_hash": "846783c2b6ed9e0cdde09030abfcb4369e649f14",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1815",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30190",
+        "fix_commit_hash": "e95a7aa6f0df00e71725c4888f107ab55b35916b",
+        "inducing_commit_hash_pyszz": [
+            "411f6835216d4a7ab2082ac980730538e8233c9b"
+        ],
+        "inducing_commit_hash_pd": [
+            "e69c5d4d487d3dbdf5ccfac849c7784413f8f218",
+            "6fdad6039fa0f8020c94c1dbaebe0184f73d8df0",
+            "9f505d16d479fd9814fba03941650508cdde5432",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f",
+            "0cf3d935eb91358cfa91051e25b379e60e2f2c3f",
+            "f3a7d466984981e886ab3c88f80c9b0df00a0181",
+            "e686d8a3bfe25c652df854746883499eca02cd45",
+            "73e819b0bdaa1526470e69d67efa225eca42fd5d",
+            "fe37109c3fc105093f351626727d7bcde40df8b6",
+            "411f6835216d4a7ab2082ac980730538e8233c9b",
+            "15f5c5a632bbda12d983a767c7d8a53f2079e6a7",
+            "f7fb02f21fb2d1b206d0e7cddeea5d5d09953d7f"
+        ],
+        "matched": [
+            "411f6835216d4a7ab2082ac980730538e8233c9b"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1816",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30186",
+        "fix_commit_hash": "962c965812774eb48388209eeefe55eef0d8a487",
+        "inducing_commit_hash_pyszz": [
+            "bbcb33b5195c88864dc5decde91a73ffdb5a402e"
+        ],
+        "inducing_commit_hash_pd": [
+            "f2e20f86e4c23d1e229ded0a97dc46d9fa8e92bc",
+            "9ab6d3cbc3515d0125222de294897941e7f4e226",
+            "e2f7081693a261a2e4bfe557188e1a08f197f524",
+            "9f505d16d479fd9814fba03941650508cdde5432",
+            "0cf3d935eb91358cfa91051e25b379e60e2f2c3f",
+            "80b5ac9562244d568cc17a99518f1363d545c6eb",
+            "bbcb33b5195c88864dc5decde91a73ffdb5a402e",
+            "ee5ab5b1d2a82b68fd2fa1a725bd1250fceee96f"
+        ],
+        "matched": [
+            "bbcb33b5195c88864dc5decde91a73ffdb5a402e"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1817",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30180",
+        "fix_commit_hash": "aa0d7c73f8e2a6a13577e491d1f6ee02caab8e5a",
+        "inducing_commit_hash_pyszz": [
+            "8985625ea52c421681f0e42637cb8201a208cc26"
+        ],
+        "inducing_commit_hash_pd": [
+            "98a308352a91dc6225f857e7b62cabffb1025bd6",
+            "8985625ea52c421681f0e42637cb8201a208cc26",
+            "91a68e9873cd8589c87f325aa16b31a6b773adb3",
+            "a73be456ec596c8f96a8c8071581d21ed619475a",
+            "463133b7ded629e37d131d5213dbc68f3c07ab6d",
+            "f3ec4a5208febeeca53a145861807a2dc43dac7f"
+        ],
+        "matched": [
+            "8985625ea52c421681f0e42637cb8201a208cc26"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1818",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30168",
+        "fix_commit_hash": "801973fa9f225ddce9cac707251110659dcdc760",
+        "inducing_commit_hash_pyszz": [
+            "60b18b5510714c3951da8a79349a2f389f8cfe49"
+        ],
+        "inducing_commit_hash_pd": [
+            "60b18b5510714c3951da8a79349a2f389f8cfe49",
+            "776006bac58d43cbcbe72e32343540ce9fd7dc88",
+            "878ae8eb3c3b93fe0cb8b25daeb0ceb16da37801",
+            "a4ac29c00588e8597502fc17f4caa6af88346fa8",
+            "dd51c231acbb4db168bb9bd6f71e8f4626e286a2",
+            "a6a138905dfffbf0b0ed3401af9769c633735f97",
+            "63c5b314497c764ef05bb4ba0dc43f3bd2672da0",
+            "d74760c30665e183650cf9a0f041702bf04962f4",
+            "630218a16f8ee474afdb1804924c4530e4212f84",
+            "2766b08ff45a039d9d7b15435d4680f915f4b1e1",
+            "9a95be35cfc00a1e08a0bcface85b4c5d852db59",
+            "35d3bdab84fa05c71e8ae019aaf661759c8b1622",
+            "7d290874423b9d359b935f739d32dfe0d1c0b24e",
+            "4756790d6e1224b72f7800c7ee991b03f9a8c341",
+            "50a2459adf9f3f7110e55b8a4b155c2719abe0d4",
+            "118a14fbe3347b629901a024ed92c4f96427a713"
+        ],
+        "matched": [
+            "60b18b5510714c3951da8a79349a2f389f8cfe49"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1819",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30164",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1821",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/29496",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1822",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29491",
+        "fix_commit_hash": "e0ec8571ea42fad5cd3a23ef0a867e8762507718",
+        "inducing_commit_hash_pyszz": [
+            "4756790d6e1224b72f7800c7ee991b03f9a8c341"
+        ],
+        "inducing_commit_hash_pd": [
+            "4756790d6e1224b72f7800c7ee991b03f9a8c341",
+            "15a5d1da7e673712eef6dd68fbe9c6899a9b3727"
+        ],
+        "matched": [
+            "4756790d6e1224b72f7800c7ee991b03f9a8c341"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1824",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29439",
+        "fix_commit_hash": "2574064e665900c4775d3d47c86564321cd40543",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1825",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29369",
+        "fix_commit_hash": "663a52ad55e82ab4e29c38a1ef4786fd14de4b46",
+        "inducing_commit_hash_pyszz": [
+            "5ccc7beaf4f5f90513982dcd500ed81e3db2c417"
+        ],
+        "inducing_commit_hash_pd": [
+            "5ccc7beaf4f5f90513982dcd500ed81e3db2c417"
+        ],
+        "matched": [
+            "5ccc7beaf4f5f90513982dcd500ed81e3db2c417"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1826",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29319",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1827",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29315",
+        "fix_commit_hash": "d813a05b9f3d0a5216baf3c7e3baa58714fde54b",
+        "inducing_commit_hash_pyszz": [
+            "f27cb96a64ca515eeb2608c79edc58e360bc07e8"
+        ],
+        "inducing_commit_hash_pd": [
+            "d31d2caf095e77654022f01e075db2e035ef6643",
+            "fe4043c8ff721381e8ded999431192ef79417e89",
+            "1ff2c134720811cb2e54358f321157f17ce50bf0",
+            "f27cb96a64ca515eeb2608c79edc58e360bc07e8",
+            "ca90d9ea82c3ec2162a669b199c63ef5103b2fe9",
+            "4f121744bd82899f898a37642aeb44c2387da772",
+            "b3090d654ab3b4846917b82be7f56ce5b1aa217a",
+            "d48d8ef863ef5b0bd2717f1a0c4d5de541cb7edd",
+            "9c4d6c629a5d6c00e9f617c8673dd44281bcc9c5",
+            "c2c40d51db770ed6339b99b9eecfb66a8c6f4321",
+            "3136ed1490e41b4c82b8ee05ff2d224e113ef1b8",
+            "d98fd36dad335a47f581ff0c2f3c489bbf2bd718",
+            "98b02676d81887a24556f3b53c4f9b49e60edea3"
+        ],
+        "matched": [
+            "f27cb96a64ca515eeb2608c79edc58e360bc07e8"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1828",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29213",
+        "fix_commit_hash": "a9677023da73325f1b8be5e0cd7df234b75cd764",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1829",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29208",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1830",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29188",
+        "fix_commit_hash": "e4b30071bb8243be96baa744e8ebbe61057b1474",
+        "inducing_commit_hash_pyszz": [
+            "80532229a9b3484cab033a7fe92ca576b7799f47"
+        ],
+        "inducing_commit_hash_pd": [
+            "dde2a09ba5a20d493533d4b96d55418119e470b0",
+            "d6738fa650a94a791971d3abf004045917667dfe",
+            "3348d2317fadd2d73581dfd4916f1e5ba7a514d6",
+            "e278c1d17dd6276fe2fc65495691077f6826ab4a",
+            "80532229a9b3484cab033a7fe92ca576b7799f47",
+            "72d0de4197d6370873f14f8a15396dc4bd30652d",
+            "7bfb2737639e9182cfee29c76e40ac322ceaf449",
+            "6d4673fd589893878d1c04a062b7021067ebbd7e",
+            "6731c769002b59cfd096ef80f3c4fdc1b05cff60"
+        ],
+        "matched": [
+            "80532229a9b3484cab033a7fe92ca576b7799f47"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1831",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29100",
+        "fix_commit_hash": "a87c2f3fac6a66bfdf12544f377f13d47e4bc4c2",
+        "inducing_commit_hash_pyszz": [
+            "1b8ecf85768d43c4389afc72e4c7c56eb08ce4cd"
+        ],
+        "inducing_commit_hash_pd": [
+            "1b8ecf85768d43c4389afc72e4c7c56eb08ce4cd"
+        ],
+        "matched": [
+            "1b8ecf85768d43c4389afc72e4c7c56eb08ce4cd"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1832",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28987",
+        "fix_commit_hash": "8b6fbe2c1158c95822e193e5fb334aeb5fb01187",
+        "inducing_commit_hash_pyszz": [
+            "3c82eea5fb5c812b63ada5e1553bed79f1277610"
+        ],
+        "inducing_commit_hash_pd": [
+            "a95d4f4ee7e7ada4b1ddec96b8deef140f96c1a7",
+            "3c82eea5fb5c812b63ada5e1553bed79f1277610",
+            "d7a087a41bcc563aace5316ce86239976700f292"
+        ],
+        "matched": [
+            "3c82eea5fb5c812b63ada5e1553bed79f1277610"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1833",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28874",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1834",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28515",
+        "fix_commit_hash": "21bc87a65bdb2b942942c98f683f7efa7d84e736",
+        "inducing_commit_hash_pyszz": [
+            "b47b399f000fce42eac0e00b9fdcf969122660ab"
+        ],
+        "inducing_commit_hash_pd": [
+            "b47b399f000fce42eac0e00b9fdcf969122660ab",
+            "fb690ef748977d6bc2d01fab76b14d223d32eb91",
+            "b2d6ff9116ad00f8314ca70b2385d79dd1b737da"
+        ],
+        "matched": [
+            "b47b399f000fce42eac0e00b9fdcf969122660ab"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1835",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28480",
+        "fix_commit_hash": "d37c59d9ddf1e6767ee15e8ad6d90dcdf31d4b26",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1836",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28453",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1837",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28366",
+        "fix_commit_hash": "3dd833ca0a2b33159d78ad011b1c66df20a7192a",
+        "inducing_commit_hash_pyszz": [
+            "de9d903b1e834184518a581d857b17fc4e21124f"
+        ],
+        "inducing_commit_hash_pd": [
+            "de9d903b1e834184518a581d857b17fc4e21124f",
+            "56fa751928c2d9f89063573de5fc1b97c471a669",
+            "80198accc11aee7672a309917686cd93cf2a8f86",
+            "defd0452e729617db5678fb4351b32fc403ca784",
+            "5202e7e93bd2c4b62a072052cdbcc729191a33a8",
+            "cfa4646161e10e6537926e454e2ec1040fc9706a",
+            "5d001d15781fc56b3bf6e7e54f2d0d736cd602e4",
+            "865bbc209604fee308552b95b62b288f003fe8e5",
+            "d36ec180295db3cbe574d050e5c27cfe0a1390bf",
+            "9b4a189147b8cdf532cbddce499107e3d51c43d4",
+            "cdcc75dd2a5bf2adf4f98bf789688f70d1a2bd33",
+            "ed7934ee790a869093303655f1240bf62d434f90",
+            "a052dfeb3891545e983bcb7f2b66a83cdbfbfa9e",
+            "36729d1c46bbf1b56a7dacc4b079d708830ebbba",
+            "5b711c283dbc233f80de5e0adb26723c22d678c7"
+        ],
+        "matched": [
+            "de9d903b1e834184518a581d857b17fc4e21124f"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1838",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28339",
+        "fix_commit_hash": "be74f115175b53e3b403e88f94f54f771ac70264",
+        "inducing_commit_hash_pyszz": [
+            "f4d0cf55be50436205ee12c10ca92c14c36513a3"
+        ],
+        "inducing_commit_hash_pd": [
+            "2a65bed243a0387bdf1175c0ca4b73ed863d9792",
+            "6265ef1c1ba1d308bcc28d00dccccac555e33b89",
+            "127b4a8efc15c4f29bc3cb645149d9852f12e526",
+            "e807499c2952f61e12b8c13b4dcde35acb6c9ca5",
+            "1dd00dddd5eab786b485aedc622b2c666612c272",
+            "779fb9a1c03af185c276599a14a85eaa3b1fb17b",
+            "4fca5f734a4aac9a4d1e52639282a9ad6b79f22d",
+            "71aefd5a0640cf102dfe08aaf25ead7128a27263",
+            "9492be65d4b27b1b45a69c6f2e7190fe1c7fcce7",
+            "dfb6d4d08f94ea2544d1e2715944f97370820339",
+            "865b951b7d5ba0acfa51bae2c12416044642338d",
+            "c86100f636e9bddf9fd578c52dff3722b0ccd488",
+            "5a9fc8aa2ae81a6e251de0fa5bad389a1d4e4438",
+            "9cb4c82c582d84925af5da0e31292bdb394b17c1",
+            "21b1db2965285f7ae13f2a756e8e20719060d9d6",
+            "9270e8b22b2df5ae09726464419c179e18d9a3a7",
+            "8c6f5a0c60f08fc0903d84abd8fc09162c2dba0e",
+            "44c3b04bef55ed4a51d10f907be9a5aae20d1fa6",
+            "fc954216e30fc95c95f9316b92d8bfaefbbf2e03",
+            "1a7a926a0357818ea013ff591fddf941e1b8eb52",
+            "b0ceecc3ebe2d5d2a4e2abc94a89785ac6ca2d6a",
+            "e4410482fe4f52aa1333f0bae2f1a3213fca17cc",
+            "f16f65741e426b0e58bdf67673aad474cdd5bc7e",
+            "f4d0cf55be50436205ee12c10ca92c14c36513a3",
+            "40f119d85a4eaa39d0a6e594e46f70de725557f0",
+            "3e485c2ca5c2be247adb8e383a3d9e2c8e7e20e4",
+            "e9687622bd41b4390c5ace5c8fe20dafbd0cb194",
+            "e143c6e460dd446c555e7be1ed765358c24a9bd7",
+            "afabdd1569e654f8c427b5fdbfd84d3b934a76bc",
+            "be22a250b62b4fe33c59de665dbcf0708803ef9e"
+        ],
+        "matched": [
+            "f4d0cf55be50436205ee12c10ca92c14c36513a3"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1839",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28244",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1840",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27779",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1842",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27549",
+        "fix_commit_hash": "d8924e9cdc43ed94f1a4d256b2a6728fce429903",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1843",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27548",
+        "fix_commit_hash": "d8c28044dad325269a9e6d1d42707fa1c2114501",
+        "inducing_commit_hash_pyszz": [
+            "51b5dbffb7de37f19c0bffb9f84126f34490bcbe"
+        ],
+        "inducing_commit_hash_pd": [
+            "51b5dbffb7de37f19c0bffb9f84126f34490bcbe"
+        ],
+        "matched": [
+            "51b5dbffb7de37f19c0bffb9f84126f34490bcbe"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1844",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27519",
+        "fix_commit_hash": "4ab638b71dad6252044f68d9d75f4a7b9977e30e",
+        "inducing_commit_hash_pyszz": [
+            "b4048b4e7fa708ab7e2da3e0fb2ccca8aab85f1f"
+        ],
+        "inducing_commit_hash_pd": [
+            "ff5527f0375b788a6562af96360fc34d0a083043",
+            "e3b7e5d75a876cd21846248b64532f49bce8203e",
+            "b4048b4e7fa708ab7e2da3e0fb2ccca8aab85f1f",
+            "edad7b47379fd509fabca1376e2492067a5dc213"
+        ],
+        "matched": [
+            "b4048b4e7fa708ab7e2da3e0fb2ccca8aab85f1f"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1845",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27482",
+        "fix_commit_hash": "f5a79af578c1e1d696a7224ef46f5403ccb92fa5",
+        "inducing_commit_hash_pyszz": [
+            "c9964d17bf7db7e07e37acbb651d8b54fe644d44"
+        ],
+        "inducing_commit_hash_pd": [
+            "de43565abc779d751b2caa53f5c0a384d9d164cd",
+            "e86aa29f671d46788c7610691f900b2547b549ff",
+            "c9964d17bf7db7e07e37acbb651d8b54fe644d44"
+        ],
+        "matched": [
+            "c9964d17bf7db7e07e37acbb651d8b54fe644d44"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1846",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27216",
+        "fix_commit_hash": "2949c531740aec3390faf71e0f840dc107d81ee7",
+        "inducing_commit_hash_pyszz": [
+            "00dfdf50cfee9142daf987d38adf3eff3a971573"
+        ],
+        "inducing_commit_hash_pd": [
+            "822043347ed4151498e1405dd7494cc2c51684e9",
+            "42526ac28e07da0055faafca1de6f8c5ec96cd85",
+            "cd596772ee1ba48296371fdb4fb035a3c1cc7eda",
+            "e97345984d4ac4a90d98210a5446918f94908052",
+            "78630e03a2cb3b70edec00869db163c07079d9bf",
+            "aad51d44ab7363e53da773afa4707e0165eebda0",
+            "1a0151408144ef2f16a842e06bd3272f07541d94",
+            "5a9fc8aa2ae81a6e251de0fa5bad389a1d4e4438",
+            "f30b1f82eea3ae892f33e143c8237f89baf09a95",
+            "06604708d4bfc56eb397c6003567886bb1ce0114",
+            "fac0f990fcbea296871ac4e6092502fcb62e09b4",
+            "f6191d05defc0c6c6d6cb42f25eab42bfdf520f4",
+            "1ff49eb8de157bb5eb6a43859ff7fcdf167d866d",
+            "17f8d2debdf926461f8d669771a2a2c4fcd3c3bc",
+            "867f056cf6370bfdc39790eac758ea0035644631",
+            "243722680268ddbfc9b7a321d229c08d38773c4c",
+            "d19e04fbb6af0f9dfca915393f048adf307f4d75",
+            "f477a6472d523b64a94c496e08f27a307099682e",
+            "73ebe36ed001e8202b342a66c1f6358b798ee727",
+            "00dfdf50cfee9142daf987d38adf3eff3a971573",
+            "ce5a382c695fddebf19089f0e9a667d19b117864",
+            "1492ccd7aec43f6b48b037ddf3ea529ae5bc3b6d",
+            "ed7934ee790a869093303655f1240bf62d434f90"
+        ],
+        "matched": [
+            "00dfdf50cfee9142daf987d38adf3eff3a971573"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1847",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27144",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1848",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26988",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1849",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26521",
+        "fix_commit_hash": "c9964d17bf7db7e07e37acbb651d8b54fe644d44",
+        "inducing_commit_hash_pyszz": [
+            "3e4bc027ebdba5dd1a0935a75b5218960f736f76"
+        ],
+        "inducing_commit_hash_pd": [
+            "072281d5aa27842197d62c702b6d7b80d87a15fe",
+            "eec3c2a97c9c1d1110dab50641d38b043058e0da",
+            "f8453aca57a8151c586d0e14e87932ba7bc82d52"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1850",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26467",
+        "fix_commit_hash": "19a2156d18994ed59bae0b9073b1c977e2b4f952",
+        "inducing_commit_hash_pyszz": [
+            "6ffbb9dfc672d6f927bca6c2f3fd326a7affa615"
+        ],
+        "inducing_commit_hash_pd": [
+            "6ffbb9dfc672d6f927bca6c2f3fd326a7affa615"
+        ],
+        "matched": [
+            "6ffbb9dfc672d6f927bca6c2f3fd326a7affa615"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1851",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26302",
+        "fix_commit_hash": "3d8feff66e5ae1925cba164bdcec52d274d48700",
+        "inducing_commit_hash_pyszz": [
+            "f8453aca57a8151c586d0e14e87932ba7bc82d52"
+        ],
+        "inducing_commit_hash_pd": [
+            "2cea5f2b3822c5eecef75356c1e83580fbc59db4",
+            "e9bb3d31a33f45752de25cd646955d07be345aff",
+            "720ebe347d1410bce178e4f244237b9870403b84",
+            "0d4711c2fcff8fa1076f4631c036a0efdebb6a9f",
+            "e06cae84f3ca9c43ddb1424268bf9a87a429fdc4",
+            "5a9fc8aa2ae81a6e251de0fa5bad389a1d4e4438",
+            "ea65a01789b86b40a830bba6ca5fecc9c44afbba",
+            "30529c008d88f55c2e32e233f31d76b6ee1adda4",
+            "2623ce7960b1720e06ea2ea2bfaad3621f5736f7",
+            "d96af934db7a9ab25e8e76f01a2b5fe4c26f6ec1",
+            "86fc8ceac71fbcfe95d6675eeb6b2ffc2cb71d41",
+            "6f69f54216ea78824eaa25db8e401e36bce878ab",
+            "f8453aca57a8151c586d0e14e87932ba7bc82d52",
+            "1f67d079b145a26036c226c847f348504c273df2",
+            "abec2679f02724ac600653595bee86d26a8f3a66",
+            "d29844e59748c76475d7c434e987fffebf0f853a",
+            "4ea19995cff603ce8472e985c902dd2f8fadebee",
+            "ebd3e5f73f1ac8849510bbe14f07f25ea591bbbc",
+            "5deba7264c2cca4721b6e974fb47dc30ec0ced34"
+        ],
+        "matched": [
+            "f8453aca57a8151c586d0e14e87932ba7bc82d52"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1852",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26243",
+        "fix_commit_hash": "d26c8b5c88841d4b4f4befdc07b116ea8fd9990b",
+        "inducing_commit_hash_pyszz": [
+            "15a5d1da7e673712eef6dd68fbe9c6899a9b3727"
+        ],
+        "inducing_commit_hash_pd": [
+            "15a5d1da7e673712eef6dd68fbe9c6899a9b3727"
+        ],
+        "matched": [
+            "15a5d1da7e673712eef6dd68fbe9c6899a9b3727"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1853",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26214",
+        "fix_commit_hash": "a9169e536baff048b50700c6b1daefa6986b6153",
+        "inducing_commit_hash_pyszz": [
+            "20177f6eeefe0ce9a65bd51d10e06c6f26c3c33f"
+        ],
+        "inducing_commit_hash_pd": [
+            "20177f6eeefe0ce9a65bd51d10e06c6f26c3c33f",
+            "6ccb70e1ab8963e7742ce972ad5303646f2b3323",
+            "ca90d9ea82c3ec2162a669b199c63ef5103b2fe9",
+            "5be79ed02ceb9fbe6c867a888ada2af8d53fd8d2",
+            "9c209e46be3b00e1500285f259d0554a5306bcfc"
+        ],
+        "matched": [
+            "20177f6eeefe0ce9a65bd51d10e06c6f26c3c33f"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1854",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26149",
+        "fix_commit_hash": "b2d6ff9116ad00f8314ca70b2385d79dd1b737da",
+        "inducing_commit_hash_pyszz": [
+            "6e406aed2d44663e557c09e4e9d9b32d8226025b"
+        ],
+        "inducing_commit_hash_pd": [
+            "6e406aed2d44663e557c09e4e9d9b32d8226025b",
+            "fb690ef748977d6bc2d01fab76b14d223d32eb91"
+        ],
+        "matched": [
+            "6e406aed2d44663e557c09e4e9d9b32d8226025b"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1855",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26084",
+        "fix_commit_hash": "729e09ed6e3bd40edfff3f023b2871e320d0e228",
+        "inducing_commit_hash_pyszz": [
+            "8fda74aee15723d69e106aa4c22b29195210c1d2"
+        ],
+        "inducing_commit_hash_pd": [
+            "8fda74aee15723d69e106aa4c22b29195210c1d2"
+        ],
+        "matched": [
+            "8fda74aee15723d69e106aa4c22b29195210c1d2"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1856",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26033",
+        "fix_commit_hash": "0266479cabfa5f9c9d6ada62c256a8d6f715b24a",
+        "inducing_commit_hash_pyszz": [
+            "e23919856e3a3f02d8223d0956feb0d47934c501"
+        ],
+        "inducing_commit_hash_pd": [
+            "0a03a62ab611631f5acf66c117036e4c81d89ce7",
+            "7cc8a1419bfeb99f3b48ce25c656955ee78ed384",
+            "c1f7171e619a8b7abfe1088e011696bcee7fce13",
+            "7dcb40bcacae2b44174f2f1cb645ee5f13e30f45",
+            "14976555f2d37a2469638ef4aaa576b309129b6a",
+            "e289de6e96520aaba42f98fb284ccd4dac7fc7d5",
+            "5695eaf19ee85e44a805e7fac3953f6c5cd30b43",
+            "1491e2dec999fc21161630cab7e9ccb9ce323a82",
+            "e23919856e3a3f02d8223d0956feb0d47934c501",
+            "e143c6e460dd446c555e7be1ed765358c24a9bd7",
+            "a445654123b783469b0a8afd90f669dfcd8e9204",
+            "18a3d6b4f3f893d8b229791df36e13cd37c77050",
+            "30aa231f8e2435e124b2b33b5790574b037f0451"
+        ],
+        "matched": [
+            "e23919856e3a3f02d8223d0956feb0d47934c501"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1857",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25975",
+        "fix_commit_hash": "65a75250bca892473d057bb07d4ecd00e268113a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1858",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25752",
+        "fix_commit_hash": "0d8b753325fa5c5eeaa23dc3e2372bc257861b54",
+        "inducing_commit_hash_pyszz": [
+            "c2160a88b58ef291a9f4549a080954b6f6ff02ef"
+        ],
+        "inducing_commit_hash_pd": [
+            "85bea22bc8f089e83d21b78a9ddc3ea3a78204d0",
+            "6c23ace68fd9579e02d570d70aea8880ed3929be",
+            "927111c91dac5e3cef868eead3cfe8fd4075bee5",
+            "c447fe5002e374d40dfdb384881d7242e6a76fb3",
+            "41befaf6b51e757a1a4ac66e1d7a08cba7ededbd"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1859",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25387",
+        "fix_commit_hash": "1583f8104725eca4779a0a0fd9886839c4c615a3",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "40ec639c895aee0f027f1e641de06acb4f6055e6"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1860",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25322",
+        "fix_commit_hash": "86a544de3b250a22af51b18eba08465cbca42c8d",
+        "inducing_commit_hash_pyszz": [
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1"
+        ],
+        "inducing_commit_hash_pd": [
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1"
+        ],
+        "matched": [
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1861",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25297",
+        "fix_commit_hash": "1a6491bc5420a14ec81363ba227146dd70259d46",
+        "inducing_commit_hash_pyszz": [
+            "7925e2ef8475aa58e2126dde55832d77b3cf4428"
+        ],
+        "inducing_commit_hash_pd": [
+            "bc3136a3453a45abec66da690304d6ec694bfe8c",
+            "7925e2ef8475aa58e2126dde55832d77b3cf4428"
+        ],
+        "matched": [
+            "7925e2ef8475aa58e2126dde55832d77b3cf4428"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1862",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25254",
+        "fix_commit_hash": "1ff2c134720811cb2e54358f321157f17ce50bf0",
+        "inducing_commit_hash_pyszz": [
+            "2766b08ff45a039d9d7b15435d4680f915f4b1e1"
+        ],
+        "inducing_commit_hash_pd": [
+            "2766b08ff45a039d9d7b15435d4680f915f4b1e1",
+            "c2c40d51db770ed6339b99b9eecfb66a8c6f4321"
+        ],
+        "matched": [
+            "2766b08ff45a039d9d7b15435d4680f915f4b1e1"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1863",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25237",
+        "fix_commit_hash": "2cd771a23014ccb526fd96b6da539ca7fd912a6a",
+        "inducing_commit_hash_pyszz": [
+            "7c46b57ff29e85e2e222020d3ec1aae6d9689816"
+        ],
+        "inducing_commit_hash_pd": [
+            "7c46b57ff29e85e2e222020d3ec1aae6d9689816",
+            "a7dafdaa0540d15e0f4847cefc42fb55b0d8fa7b"
+        ],
+        "matched": [
+            "7c46b57ff29e85e2e222020d3ec1aae6d9689816"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1864",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25206",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1865",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25205",
+        "fix_commit_hash": "8de6f4e6080a14fd7e31793a6fc6949ca55bdeca",
+        "inducing_commit_hash_pyszz": [
+            "6a113ae499ee1b848e83cc3a337bb29f0ce9d178"
+        ],
+        "inducing_commit_hash_pd": [
+            "6a113ae499ee1b848e83cc3a337bb29f0ce9d178"
+        ],
+        "matched": [
+            "6a113ae499ee1b848e83cc3a337bb29f0ce9d178"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1866",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25037",
+        "fix_commit_hash": "e22a68295c7fc455346ef18ddc420ede89516426",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1867",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/24748",
+        "fix_commit_hash": "ff34434bba07d85c2e1e551f597d790c35261bf9",
+        "inducing_commit_hash_pyszz": [
+            "51db6ab7dc79ba9809648443c60deb51ae92a243"
+        ],
+        "inducing_commit_hash_pd": [
+            "d159920073006793d294ea36e6ae993d02c79096",
+            "b0003edcf476dfc25689c97fc753ab61d072b325",
+            "8822332355b7b507503672476d098662e6f5ec93",
+            "a26321e03b23d124c81023ed6c263b7a189704ed",
+            "5a414cbe5ca880d921ff4187ba5f2541285fa130",
+            "51db6ab7dc79ba9809648443c60deb51ae92a243",
+            "8c53555b2896f5ecbe583209baec300b066d65bb",
+            "a903aabbd6afc95a2e344f9db2a1fff1d1f820a0",
+            "cc1addeac2ab2dd8b34973b8c509d22a1ac61904"
+        ],
+        "matched": [
+            "51db6ab7dc79ba9809648443c60deb51ae92a243"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1868",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24637",
+        "fix_commit_hash": "43292979fd9c4debbf996d28796190c4fbe93a54",
+        "inducing_commit_hash_pyszz": [
+            "83fb0a10e5028873f232b69b51e6016a66853051"
+        ],
+        "inducing_commit_hash_pd": [
+            "087e55cc510a535e661b12c5c1488f1684919da1",
+            "7bd7ea8f138d2f6c5e330c5abc8e98b8d4cfb419",
+            "f03780711712b08b459f1d5d23b70c34e8e4b35f"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1869",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24609",
+        "fix_commit_hash": "17d01550c2d8736c3ed38c5eeface1d292c70717",
+        "inducing_commit_hash_pyszz": [
+            "1629c9fd5cec34bdf6f9e37b0f2523ffd57fec55"
+        ],
+        "inducing_commit_hash_pd": [
+            "cf7747c3388ea0ba1bc6358a67fdb99a2f8b1826",
+            "aad51d44ab7363e53da773afa4707e0165eebda0",
+            "1629c9fd5cec34bdf6f9e37b0f2523ffd57fec55",
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1",
+            "e289de6e96520aaba42f98fb284ccd4dac7fc7d5",
+            "2bb3846d1fd6b120e963762ee9efe8c3120ff412",
+            "7aa4568a9c976ab9c69aefbaa61e9c809449e2e4"
+        ],
+        "matched": [
+            "1629c9fd5cec34bdf6f9e37b0f2523ffd57fec55"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1870",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24593",
+        "fix_commit_hash": "d2c69701e6f033b8eff6cf4cf71de4eed6620b04",
+        "inducing_commit_hash_pyszz": [
+            "f70188ac580f33f5c078f5ed70f4ef2bfc2db937"
+        ],
+        "inducing_commit_hash_pd": [
+            "f70188ac580f33f5c078f5ed70f4ef2bfc2db937"
+        ],
+        "matched": [
+            "f70188ac580f33f5c078f5ed70f4ef2bfc2db937"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1871",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24560",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1872",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24298",
+        "fix_commit_hash": "fc97e25b564011bdb1d272a15e5b6b1f22c0c633",
+        "inducing_commit_hash_pyszz": [
+            "8469c98e349ee65cc83dd637e9c89ae74cf729b7"
+        ],
+        "inducing_commit_hash_pd": [
+            "95cc3e38fc3c4e7a415473140497fed40394dccc",
+            "8469c98e349ee65cc83dd637e9c89ae74cf729b7",
+            "d0e4485d421360ff3967bc5fe20ca08086b742c8",
+            "8c6037428490f266b3a73133e37acd44949c192a",
+            "7ba5bceebe40779961c1c56700bac01b1b0538fb"
+        ],
+        "matched": [
+            "8469c98e349ee65cc83dd637e9c89ae74cf729b7"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1873",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24156",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1874",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24001",
+        "fix_commit_hash": "65f7a766307f1b2f9725075f65433fca37a006fe",
+        "inducing_commit_hash_pyszz": [
+            "470ad1ae4a3fdcc85643f1df086e6fdc76189f68"
+        ],
+        "inducing_commit_hash_pd": [
+            "fb690ef748977d6bc2d01fab76b14d223d32eb91",
+            "815c4ac4c88c02b92f263d839df478db6a01c2ff",
+            "4e4a40df7afe99eb0d6b7026037263ccce15d48b",
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1",
+            "470ad1ae4a3fdcc85643f1df086e6fdc76189f68",
+            "6e406aed2d44663e557c09e4e9d9b32d8226025b"
+        ],
+        "matched": [
+            "470ad1ae4a3fdcc85643f1df086e6fdc76189f68"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1875",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23976",
+        "fix_commit_hash": "73b8aad9a377a396c2323fa146ea6bd03162578a",
+        "inducing_commit_hash_pyszz": [
+            "d4c0ef00285fff28c83fe0f0d1cfaf10165632ae"
+        ],
+        "inducing_commit_hash_pd": [
+            "aad51d44ab7363e53da773afa4707e0165eebda0",
+            "fb690ef748977d6bc2d01fab76b14d223d32eb91",
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1",
+            "d4c0ef00285fff28c83fe0f0d1cfaf10165632ae",
+            "3200da0327337edf1dc4a9699a7c792b7a31eedb",
+            "470ad1ae4a3fdcc85643f1df086e6fdc76189f68"
+        ],
+        "matched": [
+            "d4c0ef00285fff28c83fe0f0d1cfaf10165632ae"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1876",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23910",
+        "fix_commit_hash": "1207103b6d01c99053662cae1e7992f435a5f541",
+        "inducing_commit_hash_pyszz": [
+            "73b8aad9a377a396c2323fa146ea6bd03162578a"
+        ],
+        "inducing_commit_hash_pd": [
+            "dc82262db67b30ca05593f7cff39c0e4885b67a7",
+            "e6be4af0140590dcfd3e18ca40da4f16c94daa66",
+            "7aa4568a9c976ab9c69aefbaa61e9c809449e2e4",
+            "aad51d44ab7363e53da773afa4707e0165eebda0",
+            "e02d2e004e9c86e1a5e44b1f1f617247da233760",
+            "f8e0557be5e8177382c9d1e36bf8dffa979e5446",
+            "ee2f6ccf32bc972581934c295d61ec6d92cafecc",
+            "470ad1ae4a3fdcc85643f1df086e6fdc76189f68",
+            "1aefbf57e18050663612fcf0d6934f0f07c4853d",
+            "73b8aad9a377a396c2323fa146ea6bd03162578a",
+            "a4afc22df6350f72fb427d4630e3e57f5b14335a",
+            "d31d2caf095e77654022f01e075db2e035ef6643",
+            "0e802961f16c0ae408f63d81da29c087b669dccc",
+            "4f121744bd82899f898a37642aeb44c2387da772",
+            "11f4e9c0639981ad037d62346c32162e0c74695e",
+            "7dcb40bcacae2b44174f2f1cb645ee5f13e30f45",
+            "37b0fc4f1080f7b891dd15f494279c0b2ac328a1",
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1",
+            "c5b4bba30b6ae5a85eea4decd0501d035dea24f2"
+        ],
+        "matched": [
+            "73b8aad9a377a396c2323fa146ea6bd03162578a"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1877",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23596",
+        "fix_commit_hash": "f8453aca57a8151c586d0e14e87932ba7bc82d52",
+        "inducing_commit_hash_pyszz": [
+            "de43565abc779d751b2caa53f5c0a384d9d164cd"
+        ],
+        "inducing_commit_hash_pd": [
+            "b58eb35dfa23abcd99ffd1cbdcd751734d90a4d4",
+            "6f59e3fca11290fb28c34c54d2c72062b3e2dd83",
+            "8d5b5ad862de589667211456f1e96c156412c90f",
+            "6dcfda99e81e1f03ed83da69250bb9a4b7fc938a",
+            "15e55e882fddf332d761bddd834857661e6caaa6",
+            "208b46d94b4d11e555b5b2209e78a32886c4d03f",
+            "eec3c2a97c9c1d1110dab50641d38b043058e0da",
+            "5d48f93557bb42a291c649f48fccdf7a429b2dac",
+            "9b0a47d8e315a7bcd41606977278ead9a485581d",
+            "0d4711c2fcff8fa1076f4631c036a0efdebb6a9f",
+            "454de6a8f21a5dceb6bca2fd8201a247c8af6a9d",
+            "8c4bc7d10b798ed4b1a5554f5308d4a4b9068190",
+            "e98e37295a86c2c406be1fac698a2649ddca699b",
+            "800482752230b367dd413d3bd747710d8aa00ce9",
+            "a052dfeb3891545e983bcb7f2b66a83cdbfbfa9e",
+            "de43565abc779d751b2caa53f5c0a384d9d164cd",
+            "35b76ca08176541199bba536967d28066a31c5e5",
+            "abf9a866788b2fab855b50728670e2aa2dd42c5a",
+            "a6ba351fb2f2a7b4d8fa14bdc9127bc3a2b0f95a",
+            "7160c5ec152af5f627a8954ffb632367eee6321f",
+            "9072f4ffbfb53602e0bed65094b8919ff47d7777",
+            "1ff49eb8de157bb5eb6a43859ff7fcdf167d866d",
+            "4040f194f528c76c88be70b119cf9d7d6fcea99b",
+            "30f267f7585fbf685cf49c3cff049eeb2b31011b",
+            "00031967498f196aa28da9c365f60190c0fb1b01",
+            "da8fe687fc2925f4f364f8f6dec156c0d54b0bd8",
+            "da42f199bda6a1f940d5b64fd57939ff84de3049",
+            "794264023a853f8ca67837bc39e0db50d2767731",
+            "3b78267c7154d69a40d18acdab971a205acb2f22",
+            "be366c729fabc0589053df3900ff2bf3b6ef36c6"
+        ],
+        "matched": [
+            "de43565abc779d751b2caa53f5c0a384d9d164cd"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1878",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23439",
+        "fix_commit_hash": "f5edd5049a2cb824eb66c75047f920bf76dd423e",
+        "inducing_commit_hash_pyszz": [
+            "eb4562d7a59838615060213344215aab61d61f16"
+        ],
+        "inducing_commit_hash_pd": [
+            "a4ac29c00588e8597502fc17f4caa6af88346fa8",
+            "3204e872201efa343c0a9081f50762ea239df0fa",
+            "7abd05173496efaad1281badc14c13295b88a62b",
+            "956281f03903eab3343e09fc9ed6628d4742df09",
+            "a587ba110c44ddcf9d61dab20ab58587c92c6c87",
+            "7584810ff4d32e1f7c4bd2cda6a0a7187a0258d3",
+            "7bca97bba6ac012f875d758cc5f49546396b20e2",
+            "eb4562d7a59838615060213344215aab61d61f16",
+            "e6be4af0140590dcfd3e18ca40da4f16c94daa66"
+        ],
+        "matched": [
+            "eb4562d7a59838615060213344215aab61d61f16"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1879",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23405",
+        "fix_commit_hash": "80b142d2184b07fdf4f7b1ea91836471fd9c8dad",
+        "inducing_commit_hash_pyszz": [
+            "17be03e85ec78c8b90632af122e88a9c1cbdb13b"
+        ],
+        "inducing_commit_hash_pd": [
+            "081c1ad416e45592bee281df5bb5778787be2f8c",
+            "3bee2d319565298a58ea07849372701d72a75db5",
+            "ed45ad63272c32724aa0a5d3e338667bf6337ffa",
+            "a49fe189b0f74b28bd1c9727dda8258ceec912f8",
+            "bbd5f26d45c5e905a237375bae7a0df98ae0bfad",
+            "e6be4af0140590dcfd3e18ca40da4f16c94daa66",
+            "17be03e85ec78c8b90632af122e88a9c1cbdb13b",
+            "8d35bca4dbdbcfe4b5d73495a76fb017d0f2b198",
+            "7a42014909ba319fccdd19617cc599f75681ee03",
+            "da907e7a7df98a64eba7163c936e1d216d64d42f",
+            "ee2f6ccf32bc972581934c295d61ec6d92cafecc",
+            "59762fe487185e6bee07f0ed1c09d506d1c9a28b",
+            "cd7b8d484058a5a9f416bc7892a36d4cee7e6398",
+            "8c40b2b54eac3e3ab3c41ece5c758be75173191b",
+            "2766b08ff45a039d9d7b15435d4680f915f4b1e1",
+            "2bb3846d1fd6b120e963762ee9efe8c3120ff412",
+            "11dfdfb189702f91d9c46e63ebe67a31bd7477a4",
+            "3dff0d0de209437d727a0f309111f5ed49ebfb2e",
+            "76719341dc8f5fb27433020bb3e4663e6e161a62",
+            "f230eabc15cd1cc8c1592067c5754da5c3c8c562",
+            "96b3166c6da24c6d8ecd22e5a38c39d087cd8f18",
+            "79a4d9ce36113c1db33c05183052435f148c0582",
+            "aabb124209634a2d29116ca4620f2c98453f8b46",
+            "52acf0e6e17916bdece0a677dfba8e1a5fd064fd"
+        ],
+        "matched": [
+            "17be03e85ec78c8b90632af122e88a9c1cbdb13b"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1880",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23389",
+        "fix_commit_hash": "3200da0327337edf1dc4a9699a7c792b7a31eedb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "fb690ef748977d6bc2d01fab76b14d223d32eb91"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1881",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22894",
+        "fix_commit_hash": "470ad1ae4a3fdcc85643f1df086e6fdc76189f68",
+        "inducing_commit_hash_pyszz": [
+            "29f63c78cc2c57fe1b804a81424bdb37a2f73d55"
+        ],
+        "inducing_commit_hash_pd": [
+            "474fd2607346308674f65ce336af8fc3c125b53c",
+            "55887457fa62d5105b1d1f1b2d8bf62ec8152c73",
+            "bf7a6f550933b9944a4b2629ddf716e14711b007",
+            "fb690ef748977d6bc2d01fab76b14d223d32eb91",
+            "ce5c094cda7b7638e586e797adc066411cb49534",
+            "9809760eb0658d9918c6f4aa5b15606c6e857fb3",
+            "9506f605046c8aa05b2fd57cd430f207a4334a78",
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1",
+            "a0c68c281c212c772768d1586fed952f8d9a683a",
+            "5695eaf19ee85e44a805e7fac3953f6c5cd30b43",
+            "b22c526b34c5bba261ec79a083a41e40f6f1483d",
+            "b73c73760884fdcfc4893924191f9a780439a0bc",
+            "f8d2400ee697520d6defdacdd7a29104d791224d",
+            "29f63c78cc2c57fe1b804a81424bdb37a2f73d55",
+            "2b57dd7d3e535a8c760478259efbb8bf01294d80",
+            "651819ca6c626ec7de08a9998d36703029954324"
+        ],
+        "matched": [
+            "29f63c78cc2c57fe1b804a81424bdb37a2f73d55"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1882",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22890",
+        "fix_commit_hash": "29f63c78cc2c57fe1b804a81424bdb37a2f73d55",
+        "inducing_commit_hash_pyszz": [
+            "081c1ad416e45592bee281df5bb5778787be2f8c"
+        ],
+        "inducing_commit_hash_pd": [
+            "081c1ad416e45592bee281df5bb5778787be2f8c",
+            "691c5c49ed8086fad0389fbf64077442c6d5ef86",
+            "eb7012101acd4902d65e5a438fac876a3153868a",
+            "fc4645bae6c966bf36881ea1295196d8a33c19e6",
+            "04045a072fbdbf3a0b1ec7d8271c8a13000e75d1",
+            "e91a141233d0231fa3f43320968686b602d414e3",
+            "ae01a51b44c1bc4f0bbcfc8904b00bf48f450c96",
+            "d4547c629f53ad76ea463dc0acb1f26f0a2b784b",
+            "03217c460abcca893c00a6a09fc6bc2dcc19e410",
+            "2b57dd7d3e535a8c760478259efbb8bf01294d80",
+            "349a8be4fd9be31b2e264a660ec38b24fc1795b7",
+            "069b397794fdbaf7b13ed7e4b426c1ddb939de99",
+            "88dd3256fbc7b76cbcbe12f072c8e9ba5ac0bce7",
+            "b7a4c6da65ef9fb73144fc7c80c6638092a0f5e8",
+            "6861d3571e6ded1b9718aea55d20072bcbf632d2",
+            "e6a3c9c15308a6777f255334054c4ba1700d1210",
+            "ce5c094cda7b7638e586e797adc066411cb49534",
+            "9809760eb0658d9918c6f4aa5b15606c6e857fb3",
+            "96f4c06f46fbf993357c2ff9c90c6d5ad7d80238",
+            "aece89d6a1168fb15bccf53fa4c750c73a4b21c5"
+        ],
+        "matched": [
+            "081c1ad416e45592bee281df5bb5778787be2f8c"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1883",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22762",
+        "fix_commit_hash": "aad51d44ab7363e53da773afa4707e0165eebda0",
+        "inducing_commit_hash_pyszz": [
+            "c5b4bba30b6ae5a85eea4decd0501d035dea24f2"
+        ],
+        "inducing_commit_hash_pd": [
+            "0a03a62ab611631f5acf66c117036e4c81d89ce7",
+            "610d9a70a19a546134882c2e30efbcf98a62249a",
+            "922230bd75a0a64cbd33ed1e2e06bc62df34e84e",
+            "a445654123b783469b0a8afd90f669dfcd8e9204",
+            "e6be4af0140590dcfd3e18ca40da4f16c94daa66",
+            "7aa4568a9c976ab9c69aefbaa61e9c809449e2e4",
+            "3adccd4560c3b4208fce8a77fe32dc259f20b278",
+            "55887457fa62d5105b1d1f1b2d8bf62ec8152c73",
+            "7141f6b554559a1d7bb52732ce62fb63240a4004",
+            "e289de6e96520aaba42f98fb284ccd4dac7fc7d5",
+            "f8e0557be5e8177382c9d1e36bf8dffa979e5446",
+            "fb690ef748977d6bc2d01fab76b14d223d32eb91",
+            "31b5e0888f4414b6ba863778436e177b6e82eea5",
+            "53b8a0c63e830c115dae9787124a2186c05719b7",
+            "f4057f2a83189a5f71979e7ba11970ef18f2e40a",
+            "2bb3846d1fd6b120e963762ee9efe8c3120ff412",
+            "11f4e9c0639981ad037d62346c32162e0c74695e",
+            "b22c526b34c5bba261ec79a083a41e40f6f1483d",
+            "37b0fc4f1080f7b891dd15f494279c0b2ac328a1",
+            "5dae10db117d224658d658ce95b81cb5e54258a4",
+            "abf8a1a3f0214c83be5acb02fc167d07bf7fe731",
+            "f2571343fc674be3a07c9a07e21a1800bbc68c4e",
+            "8015fbbf257c7e55210f13cb5dbc311fcf9feaf1",
+            "5695eaf19ee85e44a805e7fac3953f6c5cd30b43",
+            "bdebaba8f5ceb015e28b8a3699640c9bd7991241",
+            "c5b4bba30b6ae5a85eea4decd0501d035dea24f2",
+            "7da0cdec420d05f95d470a90113061299b13124f"
+        ],
+        "matched": [
+            "c5b4bba30b6ae5a85eea4decd0501d035dea24f2"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1884",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22609",
+        "fix_commit_hash": "fef1407fd2a9cd234390537eceaa11ca08047901",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1885",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22603",
+        "fix_commit_hash": "7a8884d9faf8c47ead5b9e00eaeac58aff0fa2aa",
+        "inducing_commit_hash_pyszz": [
+            "fa0b354e6682ca9dd80068b972cc8b4d8efe9a59"
+        ],
+        "inducing_commit_hash_pd": [
+            "41e97a7cb162b6beb45d199e8f056390843add0e"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1886",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22567",
+        "fix_commit_hash": "c5b4bba30b6ae5a85eea4decd0501d035dea24f2",
+        "inducing_commit_hash_pyszz": [
+            "f8e0557be5e8177382c9d1e36bf8dffa979e5446"
+        ],
+        "inducing_commit_hash_pd": [
+            "c86100f636e9bddf9fd578c52dff3722b0ccd488",
+            "503d836ee405ac6f49b9cfcf6890dc6a01db0fcf",
+            "f8e0557be5e8177382c9d1e36bf8dffa979e5446",
+            "7da0cdec420d05f95d470a90113061299b13124f",
+            "7aa4568a9c976ab9c69aefbaa61e9c809449e2e4",
+            "3adccd4560c3b4208fce8a77fe32dc259f20b278"
+        ],
+        "matched": [
+            "f8e0557be5e8177382c9d1e36bf8dffa979e5446"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1887",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22524",
+        "fix_commit_hash": "b9061c1cc9b2ea74cc417b8749b47045e1b498ad",
+        "inducing_commit_hash_pyszz": [
+            "b04f8fe1598f84af0187e2f4521f195df8e8044c"
+        ],
+        "inducing_commit_hash_pd": [
+            "b04f8fe1598f84af0187e2f4521f195df8e8044c"
+        ],
+        "matched": [
+            "b04f8fe1598f84af0187e2f4521f195df8e8044c"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1888",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22455",
+        "fix_commit_hash": "b9c2c2f6f05ca03cecb9e1bc7971e40f3f10fa37",
+        "inducing_commit_hash_pyszz": [
+            "fa701621787c708641b1c4d541e78e86f487d7ad"
+        ],
+        "inducing_commit_hash_pd": [
+            "fa701621787c708641b1c4d541e78e86f487d7ad"
+        ],
+        "matched": [
+            "fa701621787c708641b1c4d541e78e86f487d7ad"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1889",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22335",
+        "fix_commit_hash": "d235e489e6b36b4c84661b927481cd8cdcb87801",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1890",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21735",
+        "fix_commit_hash": "221caa1c5e62b2cc78c8b9a823882469f517a634",
+        "inducing_commit_hash_pyszz": [
+            "720ebe347d1410bce178e4f244237b9870403b84"
+        ],
+        "inducing_commit_hash_pd": [
+            "a58c5dba89017746b2de0d54c345e2489e5a251e",
+            "720ebe347d1410bce178e4f244237b9870403b84"
+        ],
+        "matched": [
+            "720ebe347d1410bce178e4f244237b9870403b84"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1891",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21716",
+        "fix_commit_hash": "4225737db9513ea2af11b92353786518b4bdcf12",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1892",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21630",
+        "fix_commit_hash": "9dc65037bc5fec117c77633635986ff881d0c6af",
+        "inducing_commit_hash_pyszz": [
+            "b3370de71546db61c5bd0bcf86bef9e897343d54"
+        ],
+        "inducing_commit_hash_pd": [
+            "822043347ed4151498e1405dd7494cc2c51684e9",
+            "60353a245a61b0a2c0121e526954b80a10e52641",
+            "cf4038b66870331838832a5df9a8ccd1609580cd",
+            "190863974927ec0c9c3a5951e6061e190e166897",
+            "93ce36a198a14ba882b97a7521a0d3162fa75496",
+            "a50934ea3edb9bf42b3eb1f47db53fc088e9cb7d",
+            "453ede8f57b3d12cf9eda563b82aa12057fbd18a",
+            "296b48b9d1f79982d22cd9f0a69ff09551968643",
+            "bdb6dcea3ae53e7dea8ce060c46100ed8f25385e",
+            "29fd0f1bd849c70e17987d47279c99a5322f0edb",
+            "2605bf7e89abeed597f86a9f8d6c4a294e203081",
+            "a236b803925e5d562091124a26d0ee009e757c33",
+            "cd12241e9f76c01c98961afb4f5b874926cc4269",
+            "4431720c3da9292ccf87730b38fc436983dd9215",
+            "183ca37dfad453e7eb26cf5ae9c3337495541334",
+            "e2ab62596f956c0a16b1899f3bfabd4c65a88552",
+            "3fe9c7736c3914a417b6de08ef9690b21242324f",
+            "c30fa15ddf067c1fb0c3025b54e2c531875f9cc1",
+            "784c9e5fb9c055f5bf25a7ba214d6c8644fd463c",
+            "f5daa165f12a9ef84006ba16d89c8baf1efe4b94",
+            "da74323141a69bd06fc19a70bc072143e9f0e986",
+            "25c3e898fd51f6ab40ef0e46739b49a14d57252d",
+            "260f38fd76ec262bb0a84573e1b98af689663a68",
+            "3067cacb66879428664d0e34e594842e30fcf90c",
+            "dc6ed7b8d4208e49e2fc34e43e8c26a74f249e87",
+            "164efaecbe42195f08ada58b5fde927ab21fc6e7",
+            "577dcb32374cf2528a5deadf0a57f1ea1d5a9cbd",
+            "a4ec0ac22f153750b80a9b1de9788c2fb80cd67e",
+            "40ec639c895aee0f027f1e641de06acb4f6055e6",
+            "df8dc64e9bc22594e9f7d865b19f116707f2dd14",
+            "71adb3ada2ab19f45a0f397db499b866f5861613",
+            "194a6b1df031a95977b6ca395a74a8b74d9af31d"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1893",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21519",
+        "fix_commit_hash": "d273419d008631e4f2c8a8170ae4b663e1e08367",
+        "inducing_commit_hash_pyszz": [
+            "4f5a934d92c4dade9a6dabd11562e60672234ebc"
+        ],
+        "inducing_commit_hash_pd": [
+            "4f5a934d92c4dade9a6dabd11562e60672234ebc",
+            "55a2f26b21d5740683c959f9388bb77f7ab68e2d",
+            "7da0cdec420d05f95d470a90113061299b13124f"
+        ],
+        "matched": [
+            "4f5a934d92c4dade9a6dabd11562e60672234ebc"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1894",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21004",
+        "fix_commit_hash": "acf7c7430bc2b998c17f0fe05ffcfdc07ee6f6a4",
+        "inducing_commit_hash_pyszz": [
+            "9c855698836f6d324e22d5c6c330e356dcc58169"
+        ],
+        "inducing_commit_hash_pd": [
+            "fb45f6a8a864597f05e7ecb65d0c99e560b99968",
+            "b3c015e2bb6324e48d02dd3770f371eb98a3a756"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1895",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20770",
+        "fix_commit_hash": "134b1f9b4dbb91f492d7a34d2977251d8803850c",
+        "inducing_commit_hash_pyszz": [
+            "8469c98e349ee65cc83dd637e9c89ae74cf729b7"
+        ],
+        "inducing_commit_hash_pd": [
+            "8469c98e349ee65cc83dd637e9c89ae74cf729b7"
+        ],
+        "matched": [
+            "8469c98e349ee65cc83dd637e9c89ae74cf729b7"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1896",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20527",
+        "fix_commit_hash": "bd753df1738aa6e2567631b04739080f6a1e521d",
+        "inducing_commit_hash_pyszz": [
+            "d422d467671deb161299ed792811f2aa041d0ab0"
+        ],
+        "inducing_commit_hash_pd": [
+            "6fd893e10de078cd4acd597e8a4c1e494dddec5e",
+            "4d38856f7017275e326df52a44b90662b2f3da6a",
+            "d422d467671deb161299ed792811f2aa041d0ab0",
+            "a66cf85f37a016d30a473dd29951e05c5857f24d"
+        ],
+        "matched": [
+            "d422d467671deb161299ed792811f2aa041d0ab0"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1897",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20476",
+        "fix_commit_hash": "875387936ba2a4d28a1f85f4b4e5dfda700ab8de",
+        "inducing_commit_hash_pyszz": [
+            "55a2f26b21d5740683c959f9388bb77f7ab68e2d"
+        ],
+        "inducing_commit_hash_pd": [
+            "55a2f26b21d5740683c959f9388bb77f7ab68e2d"
+        ],
+        "matched": [
+            "55a2f26b21d5740683c959f9388bb77f7ab68e2d"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1898",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20434",
+        "fix_commit_hash": "494ad0d5720e7f2893ad87b58a110e1b3571d113",
+        "inducing_commit_hash_pyszz": [
+            "5f299ff46f0a031fa58f3089c90a199c8c952b19"
+        ],
+        "inducing_commit_hash_pd": [
+            "5f299ff46f0a031fa58f3089c90a199c8c952b19"
+        ],
+        "matched": [
+            "5f299ff46f0a031fa58f3089c90a199c8c952b19"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1899",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20313",
+        "fix_commit_hash": "981e4f5bc5a83542471e96ed5902c667239541d4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1900",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20100",
+        "fix_commit_hash": "20719f9b2f19148ca07dc55ee499722c9bd3b210",
+        "inducing_commit_hash_pyszz": [
+            "7d4a6499e1ff491bd60038b7b704edbe8c17c2a3"
+        ],
+        "inducing_commit_hash_pd": [
+            "8391e6de3766bb3ed03e19650fa0945701f0da20",
+            "7d4a6499e1ff491bd60038b7b704edbe8c17c2a3",
+            "72463768f506f854f0a9706de0a553d49f4b3e5d",
+            "e0ebf5da1ccbc108a2b5ed1970f5a3ec3b141aca",
+            "0a98b5e56e33ee8bfe3598120678a9fd1e9987ce"
+        ],
+        "matched": [
+            "7d4a6499e1ff491bd60038b7b704edbe8c17c2a3"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1901",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20082",
+        "fix_commit_hash": "069fc2269664c5b2a4a393c893825f982b55ccc7",
+        "inducing_commit_hash_pyszz": [
+            "0830bd4885b8e7c7aca03f7dbbd10dd1ebe2ebfe"
+        ],
+        "inducing_commit_hash_pd": [
+            "b8227a72224a9d77bc9ec852213a689507605d8c",
+            "0830bd4885b8e7c7aca03f7dbbd10dd1ebe2ebfe",
+            "8e178c4f8e0321929b4147c1c6e1d22e488bea5d"
+        ],
+        "matched": [
+            "0830bd4885b8e7c7aca03f7dbbd10dd1ebe2ebfe"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1902",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20024",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1903",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19923",
+        "fix_commit_hash": "c3253130d473fd854106039fcc183b9fa7e74b48",
+        "inducing_commit_hash_pyszz": [
+            "e86aa29f671d46788c7610691f900b2547b549ff"
+        ],
+        "inducing_commit_hash_pd": [
+            "e86aa29f671d46788c7610691f900b2547b549ff"
+        ],
+        "matched": [
+            "e86aa29f671d46788c7610691f900b2547b549ff"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1904",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19786",
+        "fix_commit_hash": "eb6da69e9fdede45dd3669805e08f8549194088b",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1905",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19754",
+        "fix_commit_hash": "ef5debc6ced6a340a77b1e16432aee7d7ca5c4bc",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1906",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19594",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1907",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19561",
+        "fix_commit_hash": "72784f44f0265e2b5344e7e1532450d7f6e3ce3f",
+        "inducing_commit_hash_pyszz": [
+            "feea7f711e4c03bbe9f0a4bced60453b50057879"
+        ],
+        "inducing_commit_hash_pd": [
+            "feea7f711e4c03bbe9f0a4bced60453b50057879"
+        ],
+        "matched": [
+            "feea7f711e4c03bbe9f0a4bced60453b50057879"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1908",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19456",
+        "fix_commit_hash": "cd596772ee1ba48296371fdb4fb035a3c1cc7eda",
+        "inducing_commit_hash_pyszz": [
+            "99ac65931a499d9f0760ebaa7c36c0b21b576f05"
+        ],
+        "inducing_commit_hash_pd": [
+            "61630c2b27ad9c95a344b8672587c23ad86ef335",
+            "42526ac28e07da0055faafca1de6f8c5ec96cd85",
+            "99ac65931a499d9f0760ebaa7c36c0b21b576f05",
+            "8925400f677815a5736c88fa622aa2c53d260a05",
+            "2a137b554825a5f848cfaff6311d7c298fd76fe7",
+            "871d1b48853bc3b31376a00d8b5a74edbd64e857",
+            "9c259aca413f904fcc31d959ab54a6ea8432404a",
+            "8a9dd871d3193d54fa60fe0bbccbbb5c448a8273",
+            "fb713774a140bd0dfe672694ca69159b8b009909",
+            "3e1c7b5a0c1a475e1655b86f997969db6bd3a499",
+            "6ca7666646e543ba14df9d946888a56de01aef97",
+            "1c64a113deb70c55e930421469dee8ca0654613d",
+            "d296d26ce27ecc5afe8d7e62130c40f2841a4277",
+            "feb244c14a3aba6fb11a2c22375d3650417fa6e5",
+            "e9bb3d31a33f45752de25cd646955d07be345aff",
+            "e6be4af0140590dcfd3e18ca40da4f16c94daa66",
+            "14eefb760742fc005a0ead9f1512f5cbb54b4f02",
+            "b3337c312765e51cec7bde5883bbc0a08f56fb65",
+            "71b48fb16c1ba61820a7d87011a9e4641ed2d060",
+            "568c26a76c5a6ea35054a34a8caf9a28211f39d0",
+            "a4e2230ebd5d424a78c266dc98f0521f897e580b",
+            "2b18a3ce1dcc53313fc447344c9c6642fc46aee9",
+            "ff5ad39c7a5f8ea21d3ff86d3ce50668602d7a74",
+            "22eb6ba09dd1de500ad960508a4273187b91cbbd",
+            "06604708d4bfc56eb397c6003567886bb1ce0114",
+            "fa4844c3f47ebc56478ef1bb7913d73a962fe945",
+            "0ff84d222f64f7f18f70d56d6f5cb5625ef47997",
+            "2b9d4bdf857f1b70a9e1c69c4b7347ce28a1fff5",
+            "2b57dd7d3e535a8c760478259efbb8bf01294d80",
+            "be638fb6ef894f26464cd9b1702084d00a96eec7",
+            "b7a5537d8397e6bb525988569d05976702547a1e",
+            "57169d42334d39659bfcd8db2b062c7f6001a668",
+            "6861d3571e6ded1b9718aea55d20072bcbf632d2",
+            "08b3b6264e8618deb125ab5a4825e50a7c04f9ab",
+            "da74323141a69bd06fc19a70bc072143e9f0e986",
+            "a1e8fb794cc454b8b89f71aa4e593786192a2a29",
+            "b2ce0e02d5df9feec09128db4aefb722c01e8118",
+            "3bad16c1caef3ae79793181ebc0057a689544332",
+            "40959068d5b47d60d45b9437a25cd8a7a289e9a1",
+            "0fcb4665555b589a1c0ce1b7c3f2a4ea071f53da",
+            "2e63290548a45c95225fa6aa2387c335a5c90caf",
+            "260f38fd76ec262bb0a84573e1b98af689663a68",
+            "052cf1446f9caea16454e0db5860e8e694c61119",
+            "ae1ed34355caa63eb7bc3d0ab9e13afcc69a0bb2",
+            "1ff49eb8de157bb5eb6a43859ff7fcdf167d866d",
+            "b22c526b34c5bba261ec79a083a41e40f6f1483d",
+            "c257e2c51f235853c4453a86e10e463813140fc9",
+            "a048f8944b41fbf8cf54de0d30125f8e4c191290",
+            "867f056cf6370bfdc39790eac758ea0035644631",
+            "818a9eefb2338e6193e1d98563d5c35359e9bc6f",
+            "8bf302f6e24fc1941db4a2566a1befab2f782bee",
+            "71b95fb63c31ad40ad18e1730b277d3d5b007b95",
+            "e86aa29f671d46788c7610691f900b2547b549ff",
+            "b8efa8ea21788f2f19eff4be4f3b9be404ed83f2",
+            "eaf124123d99fe64901f0a70c63e58bc568c27ac",
+            "d19e04fbb6af0f9dfca915393f048adf307f4d75",
+            "83945445488630c7bcd33de9105045a9c6a77307",
+            "4ea19995cff603ce8472e985c902dd2f8fadebee",
+            "5730c06af9868af827373c74fc305c398439e601",
+            "387f0473dca9f4e9e64a8198e6caa526841b5218",
+            "794264023a853f8ca67837bc39e0db50d2767731",
+            "4f14af21c5b9213e4b1add84d6d880eb20451e7d"
+        ],
+        "matched": [
+            "99ac65931a499d9f0760ebaa7c36c0b21b576f05"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1909",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19338",
+        "fix_commit_hash": "4d3550c4198bb8092ac99e7a33d169caa508b827",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1910",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19310",
+        "fix_commit_hash": "fb45f6a8a864597f05e7ecb65d0c99e560b99968",
+        "inducing_commit_hash_pyszz": [
+            "54fa997545f29a3e887cef6fa5a4d83eb57aaf09"
+        ],
+        "inducing_commit_hash_pd": [
+            "eae914ae8e768ba57a10ecda41cf9b64c372c68b",
+            "0e7f6b1b1a015b9e3fba11df6fa99cf9aafc352a",
+            "b3c015e2bb6324e48d02dd3770f371eb98a3a756",
+            "081d04afacf32140f5b5c26c1d1009f73af1ae24",
+            "54fa997545f29a3e887cef6fa5a4d83eb57aaf09",
+            "20d0b4f446a17e3ccbe417e2b455942168fa7287"
+        ],
+        "matched": [
+            "54fa997545f29a3e887cef6fa5a4d83eb57aaf09"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1911",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18953",
+        "fix_commit_hash": "4cb2bb635b580eaa6377d53aa1e8c6f742698452",
+        "inducing_commit_hash_pyszz": [
+            "f500293ffbeffde7fde1d128c1a858b29c485a60"
+        ],
+        "inducing_commit_hash_pd": [
+            "f500293ffbeffde7fde1d128c1a858b29c485a60",
+            "0fa5b87fddc10ce487299c10fd3a833962058959",
+            "2ab72da7d6d30fe1f7fb3156eeac703c69f2f82a",
+            "01ce49e94ee7dcd9a8696b53a84e2a0184284a93",
+            "2280915d3cc3e9fe0fe5fab57ae57774e9044af7"
+        ],
+        "matched": [
+            "f500293ffbeffde7fde1d128c1a858b29c485a60"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1912",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18828",
+        "fix_commit_hash": "7c8eb184eea38b050ab9a9603e00d09c3e2922f8",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1913",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18823",
+        "fix_commit_hash": "4c15d143d91112f4484ef2256c3bd5a97358f6b1",
+        "inducing_commit_hash_pyszz": [
+            "a1172d816cc3d8404347b8770c162b4f938fc486"
+        ],
+        "inducing_commit_hash_pd": [
+            "85797aeb503d3ed8a17fb0ac0ce3a37a512731ea",
+            "b8d931d23cb87df2838efaec20751da1397fad64",
+            "7d3da7e6ee624425a555b7739babeb997042cb82",
+            "a1172d816cc3d8404347b8770c162b4f938fc486",
+            "1dd00dddd5eab786b485aedc622b2c666612c272",
+            "f03780711712b08b459f1d5d23b70c34e8e4b35f",
+            "66ba044ec569f76b6e2b03bfe7ba0912c44707df",
+            "30107b4a7406e14221e543f0a8cd7c4d691933a6",
+            "b2eec960457dcfb8655efc1d4aa5768ca9a53a05"
+        ],
+        "matched": [
+            "a1172d816cc3d8404347b8770c162b4f938fc486"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1914",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18808",
+        "fix_commit_hash": "a25b8ee1bf2e70bc28f688731ef43962a3ef18ce",
+        "inducing_commit_hash_pyszz": [
+            "d39eb2d69131d7a6a8bda29dcac31342bb1a712e"
+        ],
+        "inducing_commit_hash_pd": [
+            "85797aeb503d3ed8a17fb0ac0ce3a37a512731ea",
+            "a42823ad459eef6d07ea005d9b63074ad79ca56c",
+            "ace83d9d2a97cfe8a8aa9bdd7b46ce71713fb494",
+            "3383c24be0a137929f7240edd8f984b0d3df5792",
+            "9c1ac95ba8e593c90b4681f2a554b12ff677cf89",
+            "d39eb2d69131d7a6a8bda29dcac31342bb1a712e",
+            "296b48b9d1f79982d22cd9f0a69ff09551968643"
+        ],
+        "matched": [
+            "d39eb2d69131d7a6a8bda29dcac31342bb1a712e"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1915",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18695",
+        "fix_commit_hash": "56fa751928c2d9f89063573de5fc1b97c471a669",
+        "inducing_commit_hash_pyszz": [
+            "529c2ca13f3e689dcd3e4f856070db5dc125c605"
+        ],
+        "inducing_commit_hash_pd": [
+            "a9e7bdc54c88043d33f066c3926f048dae16be10",
+            "6be9954d28f47b1493389296e3fffdc04a010a00",
+            "529c2ca13f3e689dcd3e4f856070db5dc125c605",
+            "b80200a363c479d00b6f38fb89d9009abcac3a1a",
+            "e143c6e460dd446c555e7be1ed765358c24a9bd7",
+            "c257e2c51f235853c4453a86e10e463813140fc9",
+            "a052dfeb3891545e983bcb7f2b66a83cdbfbfa9e",
+            "ed7934ee790a869093303655f1240bf62d434f90"
+        ],
+        "matched": [
+            "529c2ca13f3e689dcd3e4f856070db5dc125c605"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1916",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18170",
+        "fix_commit_hash": "0f778c9e5c1f17e631ab79c6ec1e66f0385d6c74",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1917",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18116",
+        "fix_commit_hash": "34d90b041f4cd6232c83c1732c53a93f46d57d66",
+        "inducing_commit_hash_pyszz": [
+            "fff82db6816cd9b9dea918ce6c230881a4c2b51b"
+        ],
+        "inducing_commit_hash_pd": [
+            "c5ad2e2865807d5aed460a5c9f414f3e587f168b",
+            "676078c53de9d901189d5b7d8b6ee91b44f7552c",
+            "9f54e9782d8962de97d4482d1c2c3c27710dba97",
+            "28409e45090a74a4d480dfcd34e399f7f39ed06e",
+            "f123a53d7258349a171e47a35f4581899d8fa776",
+            "ad28fb9ec0c102df1ba7743b6bcb86037507afde",
+            "693c1f667142f322e6faaf1abacee79c66660b37",
+            "fff82db6816cd9b9dea918ce6c230881a4c2b51b"
+        ],
+        "matched": [
+            "fff82db6816cd9b9dea918ce6c230881a4c2b51b"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1918",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/17912",
+        "fix_commit_hash": "4fca5f734a4aac9a4d1e52639282a9ad6b79f22d",
+        "inducing_commit_hash_pyszz": [
+            "dd8afc9567e7236407e1fa2867888b1a86109eb6"
+        ],
+        "inducing_commit_hash_pd": [
+            "6ecfc7adbe795b19824c769e0b9fc42b1bdcd104",
+            "391ea379e2799037944741b8c626702434e931c0",
+            "ba6820caeb88a388e4e6c17e97e67a844c97e093",
+            "554eb8aa87fbd7d516b8b30b88d5008b04b91796",
+            "dd8afc9567e7236407e1fa2867888b1a86109eb6",
+            "d4abfb2a878e28670f5a202078a3fb8139a67e69",
+            "736823163f6035454ce79a3c1232c0e709af4cb6",
+            "a052dfeb3891545e983bcb7f2b66a83cdbfbfa9e",
+            "e4410482fe4f52aa1333f0bae2f1a3213fca17cc"
+        ],
+        "matched": [
+            "dd8afc9567e7236407e1fa2867888b1a86109eb6"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1919",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/17389",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1920",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16811",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1921",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16543",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1922",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16540",
+        "fix_commit_hash": "848316ad0df16fdfde54b4c73c1d308eba5a5f10",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1923",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16490",
+        "fix_commit_hash": "ba2d79849368591cc467718edbfe0e8bd97cdb80",
+        "inducing_commit_hash_pyszz": [
+            "4ca2375beaa72feae7f8ec6a1becc16ed061afc6"
+        ],
+        "inducing_commit_hash_pd": [
+            "4ca2375beaa72feae7f8ec6a1becc16ed061afc6"
+        ],
+        "matched": [
+            "4ca2375beaa72feae7f8ec6a1becc16ed061afc6"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1924",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16332",
+        "fix_commit_hash": "c689d9e054695f52fded9478ee69a6924cdce4f7",
+        "inducing_commit_hash_pyszz": [
+            "2b5b8e72a9e3a5d7f05f52fba49f82c8b0728181"
+        ],
+        "inducing_commit_hash_pd": [
+            "822043347ed4151498e1405dd7494cc2c51684e9",
+            "1dd26888f6bc1f34aca97a5400dbc1a99f42163c",
+            "425ea5bca60cc6058f16f904dd9bf0ca68ac2114",
+            "c724f0de5dc8108acbbef5034249c1b99388a113",
+            "c0a092aa92517661918597c90611c2fef07bfb59",
+            "a821c558d39d1eef392d64c3f082164c83cd0ce6",
+            "cbd2a97abd74a4c592723002f70c8f12dada70b6",
+            "aa968f6b650d8836831e8f7546a7ba1a987a76cc",
+            "d9d1e6a67abbbdeff8eacd6cf32cf17c875c109a",
+            "cd788a3ab0aebd8ff11830928096d91b478ea450",
+            "c914134355a47747d2b455f71e3a5772d54fd189",
+            "2b5b8e72a9e3a5d7f05f52fba49f82c8b0728181",
+            "81e83cca7470ffbe84faafc03d74c7117c4e6d05",
+            "37ed61807f5310ccd8a7e72ec7b5a117148f3acc",
+            "5c6d28240f82fba3bd9ee580a01820951d8f89d8",
+            "5a475d21e58ec0af4a6f757e292f621187650fc1",
+            "9c103aca82039fa153de26a22cb82aaf3696fbb3",
+            "57a464677606447999a3414619b8c6a06090eacf",
+            "e3b1aed0fc04185f6cf1fff630faaf00d73bbd4d",
+            "9ed34b5a9e9769b1264bf04d9b9a674794515bc6",
+            "64ab22816c1a6dfcd505406da5abef51f5434f49",
+            "8aefaef68abee8925da2c7d6c115efd6b4c59e6c",
+            "0beda40069268a3970a421446b32479ea4d4bc7e",
+            "d7b0d547d4705fcd52d51d8b7cb699e3de56f358",
+            "35a58d874ef56be50a0ad1d7bfb13edb4204d0a3",
+            "1ede9a5730e7b1a76c37d2623999740352e10fec",
+            "7a819b759860e628e265e477340cdf2d46b5518a",
+            "cb26ab42f36cc5bf1ceaa21d2057b66d5f549126",
+            "c2c2190d277ffb9eb4ce5b076491bc585db6b2a4",
+            "2b512f1f29dd5305c20a3557d7f6247d4cbb4ea4",
+            "3bda78e43b125a678778fe175c2b3fc623e0c515",
+            "d67331b55469591a91fd25b475511a2f129d19e9",
+            "917fd25c01edd53ad0fbeafcd4be1686b7289c8d",
+            "7bd7ea8f138d2f6c5e330c5abc8e98b8d4cfb419",
+            "ea96359d82a9a82da336e9dadbcb2ee0e9389a44",
+            "3bda779336d58e432ef987308ac8affe0ac2e9ee",
+            "89cfb84ac16bd815df04265ed56e8595b8a6140b",
+            "1fb9f404df877d6c22da9dbbe898f1dc983e998e",
+            "15728eac7f6112df61fc461dda085ed6f0cf9888",
+            "c8f635d42939008d1bf0862571a018a0b8b1f6dd",
+            "d7d25fe6b595422c38426ed1b39ab8f93f5b5919",
+            "16468f9ca393d06a09f17ed09750a4bce9059df9",
+            "cb128f326c001a881af3cbd16a8c6128de21a145",
+            "36219a1786c9a73ed6c595ff4f04b68bd6d455d8",
+            "46edfc484a513c0e567e9e55f38ca3ddce41292d",
+            "eaac8141cc2f3aa456288abb437c9ff203af9deb",
+            "bdc20a28d4890350e8b3a61b4a42154e155026ef"
+        ],
+        "matched": [
+            "2b5b8e72a9e3a5d7f05f52fba49f82c8b0728181"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1925",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16176",
+        "fix_commit_hash": "4c8a43c47021c609a011cc40271f5cdb478d46d0",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1926",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16042",
+        "fix_commit_hash": "fcf8021df4746142e4f6acf9f3599cc92b3dc58b",
+        "inducing_commit_hash_pyszz": [
+            "3b0bead13a51ab38306d247f8e60ccbdd94e89a8"
+        ],
+        "inducing_commit_hash_pd": [
+            "f8fbf1fa0cc2013cbd28de173734112bc6af805d"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1927",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16017",
+        "fix_commit_hash": "2c247e9d566fee78d792ccacbf912a64161e07f3",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1928",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15311",
+        "fix_commit_hash": "c0ea3a7736843448e1379e029509dd8e18c29cce",
+        "inducing_commit_hash_pyszz": [
+            "4977dd0a037e4034cfc54842900d19b878cc203d"
+        ],
+        "inducing_commit_hash_pd": [
+            "4977dd0a037e4034cfc54842900d19b878cc203d",
+            "4040f194f528c76c88be70b119cf9d7d6fcea99b"
+        ],
+        "matched": [
+            "4977dd0a037e4034cfc54842900d19b878cc203d"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1929",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15262",
+        "fix_commit_hash": "c92291119b1d0331dbe216f0dc3cd8bdd5262e34",
+        "inducing_commit_hash_pyszz": [
+            "36371c8a43171e71d4a1c5666db05f1cc97a5f43"
+        ],
+        "inducing_commit_hash_pd": [
+            "5c085ee03a7b53b962f584b0d2bf8ee4a95b76ae",
+            "90f5e5f7ddb2587b9567b3f4a4d2c2a93df4bbee",
+            "1fd0521a337fe2918213efd36443cb5fefd5c04e",
+            "03aa022bcc7fca6b765bbdb8d7e538f13ebcf1c6",
+            "223dab892144b0c8f9d073baf1598a1e3cdfa3ed",
+            "a7774f2d8b9b1bef3ae3c04bceae0be23ad8999c",
+            "ead11f2238e3760a8f0e9d0fc88d130ffad08ff0",
+            "3ed586e46d04570ad118e00135b1dc69af7225ae",
+            "5efc712d5c774a8d0bfdb4a00ace1e8cc94c18df",
+            "36371c8a43171e71d4a1c5666db05f1cc97a5f43",
+            "4ddc4633d1a5967ce61e8e8f91749f48f1dd4f85",
+            "0703ad0672f36b025f4ef82b1b0628d69b9fcf6f"
+        ],
+        "matched": [
+            "36371c8a43171e71d4a1c5666db05f1cc97a5f43"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1930",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15192",
+        "fix_commit_hash": "c514b26c8be3570e62e56bf8f793225c94e84eff",
+        "inducing_commit_hash_pyszz": [
+            "f5a8de632173ae89d02a64c59b79c3e83f5d67aa"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1931",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15087",
+        "fix_commit_hash": "ce78c2b2809bd559e330e2f29a6c0062eeae2c36",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1932",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14914",
+        "fix_commit_hash": "5337686d8d39568f94b0b976bd9098af69214302",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1933",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14861",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1934",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14704",
+        "fix_commit_hash": "8c093e7ab76a20bcac7e48baff2b756ba6ead541",
+        "inducing_commit_hash_pyszz": [
+            "a58c5dba89017746b2de0d54c345e2489e5a251e"
+        ],
+        "inducing_commit_hash_pd": [
+            "86fc8ceac71fbcfe95d6675eeb6b2ffc2cb71d41",
+            "caab1df1118cc26a83d617aa6e0fd0f8478cdbd4",
+            "270cb9f349aad7a3b51edb26cf43984b9bb18372",
+            "072b90296aa0cea3b684cce2cba56ef459096bdc",
+            "2ed2c4f884f01e51adf396aac3496bcc0a8f14c8",
+            "01601e9a3d53e1327678135f1027ebd1de30c798",
+            "a58c5dba89017746b2de0d54c345e2489e5a251e",
+            "b889b3b437fd8a124ad8691d878d18339f20425b",
+            "fe046df12589dd4477637f26c0ca255d70aba169"
+        ],
+        "matched": [
+            "a58c5dba89017746b2de0d54c345e2489e5a251e"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1935",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14549",
+        "fix_commit_hash": "3b0bead13a51ab38306d247f8e60ccbdd94e89a8",
+        "inducing_commit_hash_pyszz": [
+            "9cc4f047b8105b6525cf07d6e3afbc688c55c55a"
+        ],
+        "inducing_commit_hash_pd": [
+            "2b8827d75ce99fd4c83cf6f42c8a97f6e54b20e9",
+            "9cc4f047b8105b6525cf07d6e3afbc688c55c55a",
+            "86fc8ceac71fbcfe95d6675eeb6b2ffc2cb71d41",
+            "3755f8e4dfec8debcae2ab876eda77a811ef4dbb",
+            "7b0afaff6c89a221d20c83813e195f2b46229121",
+            "c1a2a5c9104ea0463f72def13eb44c32bb75786a",
+            "65f43970da55da48519d3fbf45167139da977b6c",
+            "7f51fbc5abf8a7a01ef7329dac780f521e1a4de4",
+            "20ff04f71502ff8d0a7a88ac450db4979e25c21f"
+        ],
+        "matched": [
+            "9cc4f047b8105b6525cf07d6e3afbc688c55c55a"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1936",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14353",
+        "fix_commit_hash": "0703ad0672f36b025f4ef82b1b0628d69b9fcf6f",
+        "inducing_commit_hash_pyszz": [
+            "a29088ce03f8a8f240f906370541bc934112bb9d"
+        ],
+        "inducing_commit_hash_pd": [
+            "207740c706cde619b1b7a8b657cf1c358a80deb4",
+            "d422d467671deb161299ed792811f2aa041d0ab0",
+            "5aa5c9882607743b97cb3dd779a1d9bcddc112fb"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1937",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14342",
+        "fix_commit_hash": "eed0dee2382ef8f3501007b6fce2c849b3c15d70",
+        "inducing_commit_hash_pyszz": [
+            "d422d467671deb161299ed792811f2aa041d0ab0"
+        ],
+        "inducing_commit_hash_pd": [
+            "9302126162b31fadee9d3f13c9f6f7f4ec3dd7f0",
+            "d422d467671deb161299ed792811f2aa041d0ab0",
+            "8b588966f1f2e10cca188dd3b19049c8a27224fb"
+        ],
+        "matched": [
+            "d422d467671deb161299ed792811f2aa041d0ab0"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1938",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14303",
+        "fix_commit_hash": "82ebd28c14f11d17995b1a2bfeb3eda1d93f3b5f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1939",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14215",
+        "fix_commit_hash": "2eff0633417702ec893b683ee8a7b8ac36e7461c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1940",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14208",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1941",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14193",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1942",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14108",
+        "fix_commit_hash": "7650390fa2486db9bdf352a57cdfebf8e8c4bd6d",
+        "inducing_commit_hash_pyszz": [
+            "158e66f6b94446081efaeef79a0e45c7711da8c4"
+        ],
+        "inducing_commit_hash_pd": [
+            "f7f7fbdfa272d6ea2972895505d658a68a48334e",
+            "2f54b89a23ccd95df7df89d2b1da04efece4ae16",
+            "ae624acdc32b6c847461e39bd0e90e656815bd58",
+            "41e089aa2a517ea4764d2701398a01aa986ada53",
+            "90f5e5f7ddb2587b9567b3f4a4d2c2a93df4bbee",
+            "943816666b215322227deca81a8d7bdafd17e328",
+            "976ace21e06e44a0bfa9764babee2327bb03e5f0",
+            "5ca78795874fdd3f1e655a230343fd5148c6380f",
+            "26ef1785579c0f3ebdf36036d0f541c2622a7e27",
+            "85f3d864b45edcbe4e774924c019f379a65a7aa7",
+            "03aa022bcc7fca6b765bbdb8d7e538f13ebcf1c6",
+            "8454d4955292c10fa875a97a8ccfb8d4e6c6d53f",
+            "f6448345a90c0ffe8383d34475db2b959c64ff7a",
+            "592d4a8d7293c280ad8dd0b08cd445defb6f6945",
+            "a58c5dba89017746b2de0d54c345e2489e5a251e",
+            "b889b3b437fd8a124ad8691d878d18339f20425b",
+            "fe046df12589dd4477637f26c0ca255d70aba169",
+            "158e66f6b94446081efaeef79a0e45c7711da8c4"
+        ],
+        "matched": [
+            "158e66f6b94446081efaeef79a0e45c7711da8c4"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1943",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13880",
+        "fix_commit_hash": "c4eeefb7dcb29e9ab287dfb1ca9777cd0f539496",
+        "inducing_commit_hash_pyszz": [
+            "8d5b5ad862de589667211456f1e96c156412c90f"
+        ],
+        "inducing_commit_hash_pd": [
+            "bda60d6d76268c46364a7b515e8f869bf603cb08",
+            "f8fbf1fa0cc2013cbd28de173734112bc6af805d",
+            "abf9a866788b2fab855b50728670e2aa2dd42c5a",
+            "8d5b5ad862de589667211456f1e96c156412c90f",
+            "a839644826be4de6bf1ad1ac042eb68fdc1e9db9",
+            "6f9a93f6bdfe42240d8eff45db777cf38fbe3185",
+            "b799b7a9d78ebd43bc2f00c9c594df930ae7400b",
+            "6dcfda99e81e1f03ed83da69250bb9a4b7fc938a",
+            "73b8cd431a95b7647060292c2fa393dd5ad0dbeb",
+            "27b8e59c24b9bc39a31248c74d5d59803a14a621",
+            "01601e9a3d53e1327678135f1027ebd1de30c798",
+            "4040f194f528c76c88be70b119cf9d7d6fcea99b",
+            "30f267f7585fbf685cf49c3cff049eeb2b31011b"
+        ],
+        "matched": [
+            "8d5b5ad862de589667211456f1e96c156412c90f"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1944",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/13829",
+        "fix_commit_hash": "94972bb39d48872b080e28e34b6af309ba4a10a4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1945",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13813",
+        "fix_commit_hash": "f03a4c0dcdbe7048683bd9e5a783e0e5e4495468",
+        "inducing_commit_hash_pyszz": [
+            "53004b686a102bb604340b5cd4289c894ab6d6fa"
+        ],
+        "inducing_commit_hash_pd": [
+            "4e9363b57985d39b41015ef42b44e60a484b089a",
+            "f84552dc9853f2a41edcc79ca4de43b70753a5d7",
+            "53004b686a102bb604340b5cd4289c894ab6d6fa"
+        ],
+        "matched": [
+            "53004b686a102bb604340b5cd4289c894ab6d6fa"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1946",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13726",
+        "fix_commit_hash": "fc5b6d1c1b7a0565957e52594893616d0ba10aba",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1947",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13628",
+        "fix_commit_hash": "a307d3b021c58a8077f9779c03419a534fd79bb5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1948",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13573",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1949",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13531",
+        "fix_commit_hash": "e1efd5f6baf8dec1c23c79b346b8a29f234a98bb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1950",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13482",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1951",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13263",
+        "fix_commit_hash": "2a129f186874689f7c16b8ab77eba508d9ae7250",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1952",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13181",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1953",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13077",
+        "fix_commit_hash": "7dfaef491621c371605b1e0decd05d9136347aae",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "75b8075a53fbc676819a25c2431b1ca294dba0fb"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1954",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13057",
+        "fix_commit_hash": "0084ac09b9f75c1ef675e5a0d6c0fd0fa66dd196",
+        "inducing_commit_hash_pyszz": [
+            "56d269e075bc3c0cc71eaf65a2ac358a28941f18"
+        ],
+        "inducing_commit_hash_pd": [
+            "56d269e075bc3c0cc71eaf65a2ac358a28941f18"
+        ],
+        "matched": [
+            "56d269e075bc3c0cc71eaf65a2ac358a28941f18"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1955",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13053",
+        "fix_commit_hash": "980f49b56698a34dedf16ed4364b0775c469d7ad",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1956",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13050",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1957",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13001",
+        "fix_commit_hash": "ae6784570bc42340c7b44aad20f377790af6861a",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1958",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12853",
+        "fix_commit_hash": "4a3ea799ec6ebabe0b97fa5aa29b5589b3fb26bc",
+        "inducing_commit_hash_pyszz": [
+            "d1bc099c91ee81db4183a60a034b0620700dd30d"
+        ],
+        "inducing_commit_hash_pd": [
+            "d1bc099c91ee81db4183a60a034b0620700dd30d"
+        ],
+        "matched": [
+            "d1bc099c91ee81db4183a60a034b0620700dd30d"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1959",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12729",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1960",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12668",
+        "fix_commit_hash": "0ecd7b8ccf0e4ddae62e84e3b1ac8c1c7deeb5d5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1961",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12586",
+        "fix_commit_hash": "20ed7c172487f500667191df882033ecb6e91df1",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1962",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12351",
+        "fix_commit_hash": "22a73d3e65d69a084f320ab86a7fff3ca8f3f877",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1963",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12324",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1964",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12313",
+        "fix_commit_hash": "47efa5c0589435becdee762f26fa7e88d439075c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1965",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12302",
+        "fix_commit_hash": "0ed28738ac29a8e2fa4250577928c4356a112ad5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1966",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12219",
+        "fix_commit_hash": "2628ecfacf63b3f6eb3b81f18e35f416dbc7b91e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1967",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12132",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1968",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12102",
+        "fix_commit_hash": "26f544ff944ae543365999d3bcb64bea894aa171",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1969",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12043",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1970",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12029",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1971",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12006",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1972",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11890",
+        "fix_commit_hash": "c9042a5d2c3df823b5237ef0c08f021a2e768e44",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1973",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11751",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1974",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11687",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1975",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11212",
+        "fix_commit_hash": "0105b651607b1587521184ac4508440349db1fe5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1976",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11192",
+        "fix_commit_hash": "fc73540aacc0e73a2fe878dbf4f25ae59bcb485e",
+        "inducing_commit_hash_pyszz": [
+            "65367f5efa45a905b76a2fe6d1af07b138fc64ef"
+        ],
+        "inducing_commit_hash_pd": [
+            "63cbc8439357f496ce630c2eb35b2cf02342fa4b",
+            "4df4506875758c9b22ab696bf5fa6a2676f57b7b",
+            "b5f4b2444ce99792fdc31e44e1301544c2b82827",
+            "fffa6a21dcc8157de5ba98774b738c82cdb42da7",
+            "36e12d39fd69c41b656a9b05a5b5f4dba9260af6",
+            "29c10ed1bb3729a0544407d58a744838e176b595",
+            "6ac4d6daef3e7668602d237fd0f09a59a47f2daa",
+            "96f08a38e6bbf534062849c7bb81ab355076b608",
+            "39186edc8658dbdfc5e8533ee52c92dcfb85e4a3",
+            "d97a00d4a7fc9dcac88f9085ccb8c4484744a06d",
+            "65367f5efa45a905b76a2fe6d1af07b138fc64ef",
+            "1ec4f8f04b635fcd022be7f1fc3a0e641662e832"
+        ],
+        "matched": [
+            "65367f5efa45a905b76a2fe6d1af07b138fc64ef"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1977",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11163",
+        "fix_commit_hash": "1d3a8ad36a5eec76a246656b098cf1f68b0989fa",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1978",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11134",
+        "fix_commit_hash": "33fd25083e520e40cc9181a0d690e637b6eb04f4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1979",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11104",
+        "fix_commit_hash": "7c2a8dfb9e3b61ecd8694da9cda11fddd0825cff",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1980",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/11098",
+        "fix_commit_hash": "c628d67f9e0389ea1c02c68e8fdb29c70d1596f6",
+        "inducing_commit_hash_pyszz": [
+            "a7abe0a324997c1c884c1278306cdba05be9594c"
+        ],
+        "inducing_commit_hash_pd": [
+            "d88ac0a95a6b9f25927c967fd5511a45b7695a26",
+            "ec4f12f9efc6fb7ca64bcc336c42cc92a3e8358d",
+            "d6e0ab3a10b048be458ffccc6b14ae09dca2891c",
+            "afdab84f2df7c3bec2db81b25432fe76f25f3a98",
+            "a7abe0a324997c1c884c1278306cdba05be9594c",
+            "f554178fc72ea575bfa42db8d24c0afe41f85d4d"
+        ],
+        "matched": [
+            "a7abe0a324997c1c884c1278306cdba05be9594c"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1981",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11065",
+        "fix_commit_hash": "ff5ad39c7a5f8ea21d3ff86d3ce50668602d7a74",
+        "inducing_commit_hash_pyszz": [
+            "5fd96d9371f68645ac6ec2ec17c0faeaa21610a8"
+        ],
+        "inducing_commit_hash_pd": [
+            "b5a5bc4f8901c91447189a302c366adbe4382f26",
+            "a3120987856adf04fb15e4ff8ededeca1c5657d0",
+            "e5a699fa05a6e4ffcb919e8a2a6da8f57e1c2ce8",
+            "f7e8d7c0241a07f8f995a41313e6baf2efd9f8a4",
+            "a4e2230ebd5d424a78c266dc98f0521f897e580b",
+            "3900d61254015356e4dd24d98b7d1cf953a5acc0",
+            "9745808c3f199218a42a7e37d5c3120ab5d700aa",
+            "18ab7186939adc5ec34095c29a19d57b1dfe7bd1",
+            "be96f57c1160d986f2d310bcdf9c817a9407ad14",
+            "5fd96d9371f68645ac6ec2ec17c0faeaa21610a8",
+            "6ac4d6daef3e7668602d237fd0f09a59a47f2daa",
+            "f6191d05defc0c6c6d6cb42f25eab42bfdf520f4",
+            "24d1f595a5bb789aa2b5a6de31343986e3bca37c",
+            "d9d1e6a67abbbdeff8eacd6cf32cf17c875c109a",
+            "51c71c235b1701bd5c25de91c53fa27d0894033f",
+            "2b57dd7d3e535a8c760478259efbb8bf01294d80",
+            "eb666f7f50e8510ff6afbdfc34b863f3f174751b"
+        ],
+        "matched": [
+            "5fd96d9371f68645ac6ec2ec17c0faeaa21610a8"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1982",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11047",
+        "fix_commit_hash": "927a96c47dc1a9b4edb6b872d7eaf448986c36d3",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "a2bd34f635e594a3019c93f61e2a971420b81418"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1983",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10997",
+        "fix_commit_hash": "5351fbd8a0773cbf5efa5490e5e06095789a8edb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1984",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10986",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1985",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10953",
+        "fix_commit_hash": "75cadaff3936b57b397e0dc2bda3d8b875ab39eb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1986",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10936",
+        "fix_commit_hash": "f042b8f2e1f7c21eec5b6f2b79d9efcd9b1c6896",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1987",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10918",
+        "fix_commit_hash": "d32391684b257a8e31dc6e42a431dfb49f1b8629",
+        "inducing_commit_hash_pyszz": [
+            "d6fcb18b5a04e33956d45153dc2afa1aa1b68c40"
+        ],
+        "inducing_commit_hash_pd": [
+            "b3337c312765e51cec7bde5883bbc0a08f56fb65",
+            "d6fcb18b5a04e33956d45153dc2afa1aa1b68c40",
+            "a206aa45482773a94f74c8454c259f12e927f758",
+            "21d749a6aa0796ce466b83d0ac3fb5f3081d9a99",
+            "602a2dfc4b9eb353d944d17f00e2b060600858fb"
+        ],
+        "matched": [
+            "d6fcb18b5a04e33956d45153dc2afa1aa1b68c40"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1988",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10854",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1989",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10844",
+        "fix_commit_hash": "10f2e0e2ba3e7bf7b9961e587b28d0c4377ac261",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1990",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10717",
+        "fix_commit_hash": "c4f7385279cbd58448ae38b444061b70b1aa1f00",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1991",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10709",
+        "fix_commit_hash": "b7ab3789963b781a7d2ff0bba899c014112a5340",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1992",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10630",
+        "fix_commit_hash": "cb4535564351399b5a3dca5519862b281bb54bbb",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1993",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10605",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1994",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10569",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1995",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/9923",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1996",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/7642",
+        "fix_commit_hash": "384cf58f5ee83aea8ff8dbd215645c2ac08c1a21",
+        "inducing_commit_hash_pyszz": "-",
+        "inducing_commit_hash_pd": "-",
+        "matched": "-"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1997",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/6803",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1998",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/6291",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1999",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/6164",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2000",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/5983",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2001",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/4886",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2002",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/4780",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2003",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/3976",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2004",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/2550",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2005",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/1004",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
