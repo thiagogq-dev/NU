@@ -1,0 +1,2074 @@
+[
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1736",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32137",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1738",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32116",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1739",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32112",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1740",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32073",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1741",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32043",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1742",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/32018",
+        "fix_commit_hash": "305bfea9c3c174d35136fddbf2bcd8544b4ea3bd"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1743",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31998",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1744",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31989",
+        "fix_commit_hash": "a2dbd83db1f5b3ad32c315b48b8229a6269b0438"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1745",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31942",
+        "fix_commit_hash": "c375d5ab23db63c457013c2851e915ed1043c44c"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1746",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31899",
+        "fix_commit_hash": "d268b494d7e305ca65ec28b8b62380eac97dba3b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1747",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31807",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1750",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31753",
+        "fix_commit_hash": "4328470dd80468cb411cce1bd84e8e8f27ab8295"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1751",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31746",
+        "fix_commit_hash": "1f72afa77314d27208e710398f65f701c865ea1f"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1752",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31713",
+        "fix_commit_hash": "2d87287c0d768256e34a94ddbb1dcd2219eab321"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1753",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31666",
+        "fix_commit_hash": "9e529d9d584ae6f6978ac09056b73d9ccdde4a3c"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1754",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31650",
+        "fix_commit_hash": "117e9066db785182335ac74c8bacad30858c222f"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1755",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31635",
+        "fix_commit_hash": "101d675f904a13caa84bae891aebdfc6e45a8445"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1756",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31620",
+        "fix_commit_hash": "bf7689071b4e580cc3056ac231c0329fabd7f01d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1757",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31594",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1758",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31548",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1759",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31469",
+        "fix_commit_hash": "14e067779c8914bd756cdedc6910a814428cc93e"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1763",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31406",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1764",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31383",
+        "fix_commit_hash": "3378240b2954fcf879ac84f440002685c4b30cc9"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1765",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31375",
+        "fix_commit_hash": "cbfac4fefe4d7bce91870e95116aa1735e8e6b97"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1766",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31368",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1767",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31363",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1768",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31345",
+        "fix_commit_hash": "ea92864eb179cb68af3f2a774713527f493f550b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1769",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31341",
+        "fix_commit_hash": "dc57eece75334b4fb2875082790eda3cf5e5088d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1770",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31306",
+        "fix_commit_hash": "bbb7889236324d4890e7b3a316cac59519473857"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1771",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31261",
+        "fix_commit_hash": "e1a69dcedfa3c3ede27fbe65c35d303dd67dbb17"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1772",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31250",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1773",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31238",
+        "fix_commit_hash": "b2e48c9fa7b67cb7bbea0d72500332baa2459b92"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1774",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31235",
+        "fix_commit_hash": "cb952bd9eca06e26e945c59e00eb2ee33719f6a9"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1775",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31232",
+        "fix_commit_hash": "563141c6c9e642be572796aa2dd29dc04f9ba901"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1776",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31191",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1777",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31180",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1778",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31175",
+        "fix_commit_hash": "b26aae3915e0402ab70504cdc4b8b1bb2b8f10ae"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1779",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31123",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1780",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31119",
+        "fix_commit_hash": "68827fc0465abe1e365815fd344e900f593e5008"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1781",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31087",
+        "fix_commit_hash": "8c78fe711486a3f722879d8f7cf89632daf793e0"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1782",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31023",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1783",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30992",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1784",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30953",
+        "fix_commit_hash": "c662565f291db3c7e95f9cfa75e764999cd1bbfb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1785",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30947",
+        "fix_commit_hash": "de93989550d71a75d146b5eab2a00612bfd886f8"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1786",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30923",
+        "fix_commit_hash": "e988ace5f75ac672667f37170634fd6b775e590a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1787",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30832",
+        "fix_commit_hash": "39c4f89f9b0b237ae986b6a51e381f87706fe81d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1788",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30824",
+        "fix_commit_hash": "8aa58887e2a15ebe49358b0a33f1f4ec81dd5836"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1789",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30771",
+        "fix_commit_hash": "dbb2e8143c5bf8169aeac0fa405411edc9e05deb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1790",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30743",
+        "fix_commit_hash": "8145a820c2dd4d37612ab6db1e45e484f2c20512"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1791",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30688",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1792",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30621",
+        "fix_commit_hash": "5baadb1ff8ae284aaf5dd1fe072bfad390fec539"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1793",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30620",
+        "fix_commit_hash": "a75b8adce57c4fe803cb4b79e202f673e969daef"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1794",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30583",
+        "fix_commit_hash": "a8b4a98ee537cbf7c267da6987c1d7341ff8c151"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1795",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30558",
+        "fix_commit_hash": "8a89306aafc6cefc1a6886233036387ad67118ae"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1797",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30526",
+        "fix_commit_hash": "21b9170dec8601b5509142a0fb3fa5389614232d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1798",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30466",
+        "fix_commit_hash": "8d1756cd12e1b1f86250889195778286056847c2"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1799",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30446",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1800",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30442",
+        "fix_commit_hash": "ce008c446b356e92462e8ab5bd7b8a9e737e7737"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1802",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30358",
+        "fix_commit_hash": "a8faf9768adb1c8a7426ceea59b776c977beaba8"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1803",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/30341",
+        "fix_commit_hash": "b5ae7a1aebe2335753e94bc8233e64527c9e4cd8"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1804",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30280",
+        "fix_commit_hash": "3e9fe3c9cd53bc74ad4d6e1abf34c917af6283ab"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1805",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30262",
+        "fix_commit_hash": "2426d65dda0511fccecc86d8582e6d2e411f8de2"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1806",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30239",
+        "fix_commit_hash": "64b97313d5c1f79200fe051072ffa06b9ff76aec"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1807",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30225",
+        "fix_commit_hash": "86addc0c8baa94f337ea02f55777756b2eddcc22"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1808",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30223",
+        "fix_commit_hash": "7933f5e28eeb378a9da047c71433f7dbb2b0e33e"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1809",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30221",
+        "fix_commit_hash": "db44a4cddbfc1aa72bdc9210af9b6d25d2b62a68"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1810",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30215",
+        "fix_commit_hash": "5064ff6ad43d4a1189c7283948e2a272f8b2ee02"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1811",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30214",
+        "fix_commit_hash": "383856a175802e415f928e2f65f0378ff4c1c23c"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1812",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30196",
+        "fix_commit_hash": "1a0838bd0b19dd83b5511115afafb3c514010f5b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1813",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30193",
+        "fix_commit_hash": "05160e6cd8f3f2e3dd00ef359f9ca430cccfa873"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1814",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30192",
+        "fix_commit_hash": "846783c2b6ed9e0cdde09030abfcb4369e649f14"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1815",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30190",
+        "fix_commit_hash": "e95a7aa6f0df00e71725c4888f107ab55b35916b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1816",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30186",
+        "fix_commit_hash": "962c965812774eb48388209eeefe55eef0d8a487"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1817",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30180",
+        "fix_commit_hash": "aa0d7c73f8e2a6a13577e491d1f6ee02caab8e5a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1818",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30168",
+        "fix_commit_hash": "801973fa9f225ddce9cac707251110659dcdc760"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1819",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/30164",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1821",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/29496",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1822",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29491",
+        "fix_commit_hash": "e0ec8571ea42fad5cd3a23ef0a867e8762507718"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1824",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29439",
+        "fix_commit_hash": "2574064e665900c4775d3d47c86564321cd40543"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1825",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29369",
+        "fix_commit_hash": "663a52ad55e82ab4e29c38a1ef4786fd14de4b46"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1826",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29319",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1827",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29315",
+        "fix_commit_hash": "d813a05b9f3d0a5216baf3c7e3baa58714fde54b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1828",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29213",
+        "fix_commit_hash": "a9677023da73325f1b8be5e0cd7df234b75cd764"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1829",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29208",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1830",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29188",
+        "fix_commit_hash": "e4b30071bb8243be96baa744e8ebbe61057b1474"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1831",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/29100",
+        "fix_commit_hash": "a87c2f3fac6a66bfdf12544f377f13d47e4bc4c2"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1832",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28987",
+        "fix_commit_hash": "8b6fbe2c1158c95822e193e5fb334aeb5fb01187"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1833",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28874",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1834",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28515",
+        "fix_commit_hash": "21bc87a65bdb2b942942c98f683f7efa7d84e736"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1835",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28480",
+        "fix_commit_hash": "d37c59d9ddf1e6767ee15e8ad6d90dcdf31d4b26"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1836",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28453",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1837",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28366",
+        "fix_commit_hash": "3dd833ca0a2b33159d78ad011b1c66df20a7192a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1838",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28339",
+        "fix_commit_hash": "be74f115175b53e3b403e88f94f54f771ac70264"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1839",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/28244",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1840",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27779",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1842",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27549",
+        "fix_commit_hash": "d8924e9cdc43ed94f1a4d256b2a6728fce429903"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1843",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27548",
+        "fix_commit_hash": "d8c28044dad325269a9e6d1d42707fa1c2114501"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1844",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27519",
+        "fix_commit_hash": "4ab638b71dad6252044f68d9d75f4a7b9977e30e"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1845",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27482",
+        "fix_commit_hash": "f5a79af578c1e1d696a7224ef46f5403ccb92fa5"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1846",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27216",
+        "fix_commit_hash": "2949c531740aec3390faf71e0f840dc107d81ee7"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1847",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/27144",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1848",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26988",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1849",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26521",
+        "fix_commit_hash": "c9964d17bf7db7e07e37acbb651d8b54fe644d44"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1850",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26467",
+        "fix_commit_hash": "19a2156d18994ed59bae0b9073b1c977e2b4f952"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1851",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26302",
+        "fix_commit_hash": "3d8feff66e5ae1925cba164bdcec52d274d48700"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1852",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26243",
+        "fix_commit_hash": "d26c8b5c88841d4b4f4befdc07b116ea8fd9990b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1853",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26214",
+        "fix_commit_hash": "a9169e536baff048b50700c6b1daefa6986b6153"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1854",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26149",
+        "fix_commit_hash": "b2d6ff9116ad00f8314ca70b2385d79dd1b737da"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1855",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26084",
+        "fix_commit_hash": "729e09ed6e3bd40edfff3f023b2871e320d0e228"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1856",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/26033",
+        "fix_commit_hash": "0266479cabfa5f9c9d6ada62c256a8d6f715b24a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1857",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25975",
+        "fix_commit_hash": "65a75250bca892473d057bb07d4ecd00e268113a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1858",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25752",
+        "fix_commit_hash": "0d8b753325fa5c5eeaa23dc3e2372bc257861b54"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1859",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25387",
+        "fix_commit_hash": "1583f8104725eca4779a0a0fd9886839c4c615a3"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1860",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25322",
+        "fix_commit_hash": "86a544de3b250a22af51b18eba08465cbca42c8d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1861",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25297",
+        "fix_commit_hash": "1a6491bc5420a14ec81363ba227146dd70259d46"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1862",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25254",
+        "fix_commit_hash": "1ff2c134720811cb2e54358f321157f17ce50bf0"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1863",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25237",
+        "fix_commit_hash": "2cd771a23014ccb526fd96b6da539ca7fd912a6a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1864",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25206",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1865",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25205",
+        "fix_commit_hash": "8de6f4e6080a14fd7e31793a6fc6949ca55bdeca"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1866",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/25037",
+        "fix_commit_hash": "e22a68295c7fc455346ef18ddc420ede89516426"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1867",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/24748",
+        "fix_commit_hash": "ff34434bba07d85c2e1e551f597d790c35261bf9"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1868",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24637",
+        "fix_commit_hash": "43292979fd9c4debbf996d28796190c4fbe93a54"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1869",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24609",
+        "fix_commit_hash": "17d01550c2d8736c3ed38c5eeface1d292c70717"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1870",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24593",
+        "fix_commit_hash": "d2c69701e6f033b8eff6cf4cf71de4eed6620b04"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1871",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24560",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1872",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24298",
+        "fix_commit_hash": "fc97e25b564011bdb1d272a15e5b6b1f22c0c633"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1873",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24156",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1874",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/24001",
+        "fix_commit_hash": "65f7a766307f1b2f9725075f65433fca37a006fe"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1875",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23976",
+        "fix_commit_hash": "73b8aad9a377a396c2323fa146ea6bd03162578a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1876",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23910",
+        "fix_commit_hash": "1207103b6d01c99053662cae1e7992f435a5f541"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1877",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23596",
+        "fix_commit_hash": "f8453aca57a8151c586d0e14e87932ba7bc82d52"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1878",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23439",
+        "fix_commit_hash": "f5edd5049a2cb824eb66c75047f920bf76dd423e"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1879",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23405",
+        "fix_commit_hash": "80b142d2184b07fdf4f7b1ea91836471fd9c8dad"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1880",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/23389",
+        "fix_commit_hash": "3200da0327337edf1dc4a9699a7c792b7a31eedb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1881",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22894",
+        "fix_commit_hash": "470ad1ae4a3fdcc85643f1df086e6fdc76189f68"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1882",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22890",
+        "fix_commit_hash": "29f63c78cc2c57fe1b804a81424bdb37a2f73d55"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1883",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22762",
+        "fix_commit_hash": "aad51d44ab7363e53da773afa4707e0165eebda0"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1884",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22609",
+        "fix_commit_hash": "fef1407fd2a9cd234390537eceaa11ca08047901"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1885",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22603",
+        "fix_commit_hash": "7a8884d9faf8c47ead5b9e00eaeac58aff0fa2aa"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1886",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22567",
+        "fix_commit_hash": "c5b4bba30b6ae5a85eea4decd0501d035dea24f2"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1887",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22524",
+        "fix_commit_hash": "b9061c1cc9b2ea74cc417b8749b47045e1b498ad"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1888",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22455",
+        "fix_commit_hash": "b9c2c2f6f05ca03cecb9e1bc7971e40f3f10fa37"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1889",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/22335",
+        "fix_commit_hash": "d235e489e6b36b4c84661b927481cd8cdcb87801"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1890",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21735",
+        "fix_commit_hash": "221caa1c5e62b2cc78c8b9a823882469f517a634"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1891",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21716",
+        "fix_commit_hash": "4225737db9513ea2af11b92353786518b4bdcf12"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1892",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21630",
+        "fix_commit_hash": "9dc65037bc5fec117c77633635986ff881d0c6af"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1893",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21519",
+        "fix_commit_hash": "d273419d008631e4f2c8a8170ae4b663e1e08367"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1894",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/21004",
+        "fix_commit_hash": "acf7c7430bc2b998c17f0fe05ffcfdc07ee6f6a4"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1895",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20770",
+        "fix_commit_hash": "134b1f9b4dbb91f492d7a34d2977251d8803850c"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1896",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20527",
+        "fix_commit_hash": "bd753df1738aa6e2567631b04739080f6a1e521d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1897",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20476",
+        "fix_commit_hash": "875387936ba2a4d28a1f85f4b4e5dfda700ab8de"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1898",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20434",
+        "fix_commit_hash": "494ad0d5720e7f2893ad87b58a110e1b3571d113"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1899",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20313",
+        "fix_commit_hash": "981e4f5bc5a83542471e96ed5902c667239541d4"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1900",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20100",
+        "fix_commit_hash": "20719f9b2f19148ca07dc55ee499722c9bd3b210"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1901",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20082",
+        "fix_commit_hash": "069fc2269664c5b2a4a393c893825f982b55ccc7"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1902",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/20024",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1903",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19923",
+        "fix_commit_hash": "c3253130d473fd854106039fcc183b9fa7e74b48"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1904",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19786",
+        "fix_commit_hash": "eb6da69e9fdede45dd3669805e08f8549194088b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1905",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19754",
+        "fix_commit_hash": "ef5debc6ced6a340a77b1e16432aee7d7ca5c4bc"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1906",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19594",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1907",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19561",
+        "fix_commit_hash": "72784f44f0265e2b5344e7e1532450d7f6e3ce3f"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1908",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19456",
+        "fix_commit_hash": "cd596772ee1ba48296371fdb4fb035a3c1cc7eda"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1909",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19338",
+        "fix_commit_hash": "4d3550c4198bb8092ac99e7a33d169caa508b827"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1910",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19310",
+        "fix_commit_hash": "fb45f6a8a864597f05e7ecb65d0c99e560b99968"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1911",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18953",
+        "fix_commit_hash": "4cb2bb635b580eaa6377d53aa1e8c6f742698452"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1912",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18828",
+        "fix_commit_hash": "7c8eb184eea38b050ab9a9603e00d09c3e2922f8"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1913",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18823",
+        "fix_commit_hash": "4c15d143d91112f4484ef2256c3bd5a97358f6b1"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1914",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18808",
+        "fix_commit_hash": "a25b8ee1bf2e70bc28f688731ef43962a3ef18ce"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1915",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18695",
+        "fix_commit_hash": "56fa751928c2d9f89063573de5fc1b97c471a669"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1916",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18170",
+        "fix_commit_hash": "0f778c9e5c1f17e631ab79c6ec1e66f0385d6c74"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1917",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/18116",
+        "fix_commit_hash": "34d90b041f4cd6232c83c1732c53a93f46d57d66"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1918",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/17912",
+        "fix_commit_hash": "4fca5f734a4aac9a4d1e52639282a9ad6b79f22d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1919",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/17389",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1920",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16811",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1921",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16543",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1922",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16540",
+        "fix_commit_hash": "848316ad0df16fdfde54b4c73c1d308eba5a5f10"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1923",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16490",
+        "fix_commit_hash": "ba2d79849368591cc467718edbfe0e8bd97cdb80"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1924",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16332",
+        "fix_commit_hash": "c689d9e054695f52fded9478ee69a6924cdce4f7"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1925",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16176",
+        "fix_commit_hash": "4c8a43c47021c609a011cc40271f5cdb478d46d0"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1926",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16042",
+        "fix_commit_hash": "fcf8021df4746142e4f6acf9f3599cc92b3dc58b"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1927",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/16017",
+        "fix_commit_hash": "2c247e9d566fee78d792ccacbf912a64161e07f3"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1928",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15311",
+        "fix_commit_hash": "c0ea3a7736843448e1379e029509dd8e18c29cce"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1929",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15262",
+        "fix_commit_hash": "c92291119b1d0331dbe216f0dc3cd8bdd5262e34"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1930",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15192",
+        "fix_commit_hash": "c514b26c8be3570e62e56bf8f793225c94e84eff"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1931",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/15087",
+        "fix_commit_hash": "ce78c2b2809bd559e330e2f29a6c0062eeae2c36"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1932",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14914",
+        "fix_commit_hash": "5337686d8d39568f94b0b976bd9098af69214302"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1933",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14861",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1934",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14704",
+        "fix_commit_hash": "8c093e7ab76a20bcac7e48baff2b756ba6ead541"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1935",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14549",
+        "fix_commit_hash": "3b0bead13a51ab38306d247f8e60ccbdd94e89a8"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1936",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14353",
+        "fix_commit_hash": "0703ad0672f36b025f4ef82b1b0628d69b9fcf6f"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1937",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14342",
+        "fix_commit_hash": "eed0dee2382ef8f3501007b6fce2c849b3c15d70"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1938",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14303",
+        "fix_commit_hash": "82ebd28c14f11d17995b1a2bfeb3eda1d93f3b5f"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1939",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14215",
+        "fix_commit_hash": "2eff0633417702ec893b683ee8a7b8ac36e7461c"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1940",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14208",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1941",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14193",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1942",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/14108",
+        "fix_commit_hash": "7650390fa2486db9bdf352a57cdfebf8e8c4bd6d"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1943",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13880",
+        "fix_commit_hash": "c4eeefb7dcb29e9ab287dfb1ca9777cd0f539496"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1944",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/13829",
+        "fix_commit_hash": "94972bb39d48872b080e28e34b6af309ba4a10a4"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1945",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13813",
+        "fix_commit_hash": "f03a4c0dcdbe7048683bd9e5a783e0e5e4495468"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1946",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13726",
+        "fix_commit_hash": "fc5b6d1c1b7a0565957e52594893616d0ba10aba"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1947",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13628",
+        "fix_commit_hash": "a307d3b021c58a8077f9779c03419a534fd79bb5"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1948",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13573",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1949",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13531",
+        "fix_commit_hash": "e1efd5f6baf8dec1c23c79b346b8a29f234a98bb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1950",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13482",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1951",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13263",
+        "fix_commit_hash": "2a129f186874689f7c16b8ab77eba508d9ae7250"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1952",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13181",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1953",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13077",
+        "fix_commit_hash": "7dfaef491621c371605b1e0decd05d9136347aae"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1954",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13057",
+        "fix_commit_hash": "0084ac09b9f75c1ef675e5a0d6c0fd0fa66dd196"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1955",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13053",
+        "fix_commit_hash": "980f49b56698a34dedf16ed4364b0775c469d7ad"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1956",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13050",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1957",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13001",
+        "fix_commit_hash": "ae6784570bc42340c7b44aad20f377790af6861a"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1958",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12853",
+        "fix_commit_hash": "4a3ea799ec6ebabe0b97fa5aa29b5589b3fb26bc"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1959",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12729",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1960",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12668",
+        "fix_commit_hash": "0ecd7b8ccf0e4ddae62e84e3b1ac8c1c7deeb5d5"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1961",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12586",
+        "fix_commit_hash": "20ed7c172487f500667191df882033ecb6e91df1"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1962",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12351",
+        "fix_commit_hash": "22a73d3e65d69a084f320ab86a7fff3ca8f3f877"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1963",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12324",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1964",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12313",
+        "fix_commit_hash": "47efa5c0589435becdee762f26fa7e88d439075c"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1965",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12302",
+        "fix_commit_hash": "0ed28738ac29a8e2fa4250577928c4356a112ad5"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1966",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12219",
+        "fix_commit_hash": "2628ecfacf63b3f6eb3b81f18e35f416dbc7b91e"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1967",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12132",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1968",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12102",
+        "fix_commit_hash": "26f544ff944ae543365999d3bcb64bea894aa171"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1969",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12043",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1970",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12029",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1971",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/12006",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1972",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11890",
+        "fix_commit_hash": "c9042a5d2c3df823b5237ef0c08f021a2e768e44"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1973",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11751",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1974",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11687",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1975",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11212",
+        "fix_commit_hash": "0105b651607b1587521184ac4508440349db1fe5"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1976",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11192",
+        "fix_commit_hash": "fc73540aacc0e73a2fe878dbf4f25ae59bcb485e"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1977",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11163",
+        "fix_commit_hash": "1d3a8ad36a5eec76a246656b098cf1f68b0989fa"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1978",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11134",
+        "fix_commit_hash": "33fd25083e520e40cc9181a0d690e637b6eb04f4"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1979",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11104",
+        "fix_commit_hash": "7c2a8dfb9e3b61ecd8694da9cda11fddd0825cff"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1980",
+        "repo_id": "2584",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/elastic/elasticsearch/pull/11098",
+        "fix_commit_hash": "c628d67f9e0389ea1c02c68e8fdb29c70d1596f6"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1981",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11065",
+        "fix_commit_hash": "ff5ad39c7a5f8ea21d3ff86d3ce50668602d7a74"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1982",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/11047",
+        "fix_commit_hash": "927a96c47dc1a9b4edb6b872d7eaf448986c36d3"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1983",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10997",
+        "fix_commit_hash": "5351fbd8a0773cbf5efa5490e5e06095789a8edb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1984",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10986",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1985",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10953",
+        "fix_commit_hash": "75cadaff3936b57b397e0dc2bda3d8b875ab39eb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1986",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10936",
+        "fix_commit_hash": "f042b8f2e1f7c21eec5b6f2b79d9efcd9b1c6896"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1987",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10918",
+        "fix_commit_hash": "d32391684b257a8e31dc6e42a431dfb49f1b8629"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1988",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10854",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1989",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10844",
+        "fix_commit_hash": "10f2e0e2ba3e7bf7b9961e587b28d0c4377ac261"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1990",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10717",
+        "fix_commit_hash": "c4f7385279cbd58448ae38b444061b70b1aa1f00"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1991",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10709",
+        "fix_commit_hash": "b7ab3789963b781a7d2ff0bba899c014112a5340"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1992",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10630",
+        "fix_commit_hash": "cb4535564351399b5a3dca5519862b281bb54bbb"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1993",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10605",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1994",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10569",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1995",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/9923",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1996",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/7642",
+        "fix_commit_hash": "384cf58f5ee83aea8ff8dbd215645c2ac08c1a21"
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1997",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/6803",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1998",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/6291",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1999",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/6164",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2000",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/5983",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2001",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/4886",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2002",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/4780",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2003",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/3976",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2004",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/2550",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "2005",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/1004",
+        "fix_commit_hash": null
+    }
+]
