@@ -13,7 +13,7 @@
         "repo_id": "1965",
         "terms_vulnerability": "secur",
         "url": "https://github.com/pytorch/pytorch/pull/56831",
-        "fix_commit_hash": ""
+        "fix_commit_hash": null
     },
     {
         "repo_name": "pytorch/pytorch",
