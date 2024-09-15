@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "apache/shiro",
+        "id": "206",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/57",
+        "fix_commit_hash": "a92a79ca8f8f7bf4f6386d0b618f95041b1c092a"
+    }
+]

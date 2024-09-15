@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "minetest/minetest",
+        "id": "248",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/236",
+        "fix_commit_hash": null
+    }
+]

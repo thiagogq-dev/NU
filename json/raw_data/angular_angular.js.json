@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2379",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/7464",
+        "fix_commit_hash": "d606e66f7ab893f8799991883fd02b0e66e3225e"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2400",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4865",
+        "fix_commit_hash": "4ab16aaaf762e9038803da1f967ac8cb6650727d"
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2401",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4859",
+        "fix_commit_hash": "4ab16aaaf762e9038803da1f967ac8cb6650727d"
+    }
+]
