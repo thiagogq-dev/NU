@@ -5,7 +5,7 @@
         "repo_id": "2584",
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/80231",
-        "fix_commit_hash": "63ffe3a58048780ed011cf9599d138696f308a6e"
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",

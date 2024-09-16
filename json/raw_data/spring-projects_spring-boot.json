@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "623",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/25829",
+        "fix_commit_hash": "4d510d3c9bdd7b500e708d8ce3ea3a58e62d5850"
+    }
+]

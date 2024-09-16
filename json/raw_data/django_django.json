@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "django/django",
+        "id": "2127",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/331",
+        "fix_commit_hash": "257c4011cb887524048acb8796b130761617d195"
+    },
+    {
+        "repo_name": "django/django",
+        "id": "2128",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/269",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "django/django",
+        "id": "2130",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/110",
+        "fix_commit_hash": null
+    },
+    {
+        "repo_name": "django/django",
+        "id": "2131",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/95",
+        "fix_commit_hash": null
+    }
+]
