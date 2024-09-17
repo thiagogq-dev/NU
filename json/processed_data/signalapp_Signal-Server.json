@@ -1,0 +1,1 @@
+[{"repo_name": "signalapp/Signal-Server", "id": "269", "repo_id": "1264", "terms_vulnerability": "secur", "url": "https://github.com/signalapp/Signal-Server/pull/17", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["5bc6ff0e778468d6ff5a832e1cd09ffcdc085618"]}]
