@@ -1,0 +1,487 @@
+[
+    {
+        "repo_name": "nodejs/node",
+        "id": "2412",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/39220",
+        "fix_commit_hash": "eb33cb412202de09c1bba67b6a65f80f4b422168",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2413",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/39215",
+        "fix_commit_hash": "cb3c02f8f68c64571a5ddd6f380d128032e8501f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2414",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/39191",
+        "fix_commit_hash": "7ebf36ca98ea7ae6f03b48223ffed6a8d7990b33",
+        "inducing_commit_hash_pyszz": [
+            "63bed545d3054ca952517125c0459356673f5628"
+        ],
+        "inducing_commit_hash_pd": [
+            "63bed545d3054ca952517125c0459356673f5628"
+        ],
+        "matched": [
+            "63bed545d3054ca952517125c0459356673f5628"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2423",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/38116",
+        "fix_commit_hash": "eb20447407d428dbb239ca0765ba6273975ed663",
+        "inducing_commit_hash_pyszz": [
+            "b16e79e05b90589669ef87b5528ee143c9d086cc"
+        ],
+        "inducing_commit_hash_pd": [
+            "1403d28e7ded280e7582daa6e999164588d2234e",
+            "372dc86af5f17d7a8756df6458c41d2538e03e4e",
+            "e10cb7fdda85bdf3204ae40843d64e56cf07e5a8",
+            "c6b6c92185316e13738e6fa931fdd5303e381e46",
+            "3b4159c8ed85b6b531b7df09378d67168574d731",
+            "b16e79e05b90589669ef87b5528ee143c9d086cc",
+            "2e6c3e2301cb443a72c3659fffa24815b4660815",
+            "307b79d2be12ad7fc16016a52469b76186a61e02",
+            "468110b3276007f445741b41c36beb0ef62d751c",
+            "c66e6471e780e752f3f6f9337ac49a3d6e3d7091",
+            "42dbaed4605f44c393a057aad75a31cac1d0e5f5",
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668",
+            "7907534a8d867132957b823db8603a418d763e42",
+            "804e7aa9ab0b34fa88709ef0980b960abca5e059",
+            "bf5cc3bf1add7eea1d7d4c2c0de2092582ea1541",
+            "d523eb9c40889d476f919b523dc3c67b245826c8",
+            "178741637693a95f9e81200b486df2e6aee06986",
+            "c2ce8d05474c38c503b6ac57e94366421c960762",
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c",
+            "1d2fd8b65bacaf4401450edc8ed529106cbcfc67",
+            "0c32ca96c878488c923022a8828bef541e0df9ae",
+            "b3ef289ffb7db476d284866658213f04415ea92d",
+            "f512f5ea138fe86e47c0179d5733044daf6f4fe6",
+            "08dd4b1723b20d56fbedf37d52e736fe09715f80",
+            "0140e1b5e39342f87133f7f42e9b49a702f69b39",
+            "2684c902c4ff90711e57e787c5bfe0bac33bcd49",
+            "c2a792f14a3df48998fc0a07f5ee6d8179b64ca4",
+            "35274cbddf7206687b2e30d32e57d293750e19a0",
+            "173bee230e643345876f22b7469beb253c1c9473",
+            "73631bbcc83888ec61a0aebf4eff3904e9384a2e",
+            "141a6e34eed05577edf43ad085a74f330d0559cb",
+            "a7dccd040d72ce7de61d9160ec031420c52a49d4",
+            "d7e7008c1f4318e2ebd375fed75362711ebdbb2c",
+            "6ee985f311de14621c440377f76d0391b6b23320",
+            "4a741b8dc2c19efcef49ca39362bb7126d80a3d1"
+        ],
+        "matched": [
+            "b16e79e05b90589669ef87b5528ee143c9d086cc"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2455",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/32403",
+        "fix_commit_hash": "10d8e2687e9217ff3c5722b2b3293cf1f0e81ae9",
+        "inducing_commit_hash_pyszz": [
+            "f2eaf874ed6b8d701e9eac144cd6067ec9874d86"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2473",
+        "repo_id": "94386",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/nodejs/node/pull/26367",
+        "fix_commit_hash": "2fa8dc47f3f3a548dd78ccb41bf1d082c1628dfb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2474",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/26334",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "c813de46fc17dea8eb724f115fa1860d14bba694",
+            "9e5d2b74fb22fa23b57653c08c2bd58c2971f852",
+            "26eb062a9b9c0ae8cee9cb5c378e43bca363207c",
+            "80a989f931f1751adea8e385762f3017d0344e4c",
+            "c3a7b29e56a5ada6327ebb622ba746d022685742",
+            "75e4d0df8f4ea812772c3c621501df766cc4ef0f",
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa",
+            "a202666399cec4098aa0bd8e6f9fe743b0fd43fb"
+        ],
+        "matched": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2488",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/22617",
+        "fix_commit_hash": "c0fb95d700574a369988f3379559f66dba57404c",
+        "inducing_commit_hash_pyszz": [
+            "4a7487b171d4e22a8e8879bd424f4f605d44abaf"
+        ],
+        "inducing_commit_hash_pd": [
+            "4a7487b171d4e22a8e8879bd424f4f605d44abaf",
+            "bf5c309b5eec0511a58825b7a59d2835bf00a3d1",
+            "8979b4fc9face199099a53f32dfeb14a1203ad57",
+            "ef4768754c870e3a0b0d2e09c062cfbde03afb63"
+        ],
+        "matched": [
+            "4a7487b171d4e22a8e8879bd424f4f605d44abaf"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2494",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/21275",
+        "fix_commit_hash": "60e6991291e8571c4b27172714582e7d65f29c41",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2497",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/19322",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "c813de46fc17dea8eb724f115fa1860d14bba694",
+            "9e5d2b74fb22fa23b57653c08c2bd58c2971f852",
+            "26eb062a9b9c0ae8cee9cb5c378e43bca363207c",
+            "80a989f931f1751adea8e385762f3017d0344e4c",
+            "c3a7b29e56a5ada6327ebb622ba746d022685742",
+            "75e4d0df8f4ea812772c3c621501df766cc4ef0f",
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa",
+            "a202666399cec4098aa0bd8e6f9fe743b0fd43fb"
+        ],
+        "matched": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2498",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/18439",
+        "fix_commit_hash": "71b15e8c7b935ba58838afdbe3ac114908edcb08",
+        "inducing_commit_hash_pyszz": [
+            "ce22d6f9178507c7a41b04ac4097b9ea902049e3"
+        ],
+        "inducing_commit_hash_pd": [
+            "f88178906bd0e9678f70e8f95522192adc5b3872",
+            "a4017736d213a580a8bdd1ac3184e74d29b87d67",
+            "ce22d6f9178507c7a41b04ac4097b9ea902049e3",
+            "e71e71b5138c3dfee080f4215dd957dc7a6cbdaf",
+            "59e509808aeb85e33a16756764f2b496d5b8fcdd",
+            "0babd181a0c5d775e62a12b3b04fe4d7654fe80a",
+            "1fe0741e50b19ffaaabc77c3a8b99355dc3d28fe",
+            "3621889c800707f3ca720c8de5f05a798a1fe5a8",
+            "ce4903426dac9b0c851cf8dba2511e3eebd5c352",
+            "a10856a7d31f9b641bf330fe9edfa9728f4b1c78",
+            "53c5bf546e8e52db5b11287ab3bf1375819b369b",
+            "6763fb2f0ee4fa663e720a1e37570c8a8e18d03b",
+            "ad3d2ce68a92fd160f72ed5c0dba0e18a90e906d"
+        ],
+        "matched": [
+            "ce22d6f9178507c7a41b04ac4097b9ea902049e3"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2508",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/15131",
+        "fix_commit_hash": "1403d28e7ded280e7582daa6e999164588d2234e",
+        "inducing_commit_hash_pyszz": [
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668"
+        ],
+        "inducing_commit_hash_pd": [
+            "a7dccd040d72ce7de61d9160ec031420c52a49d4",
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668"
+        ],
+        "matched": [
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2516",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/13279",
+        "fix_commit_hash": "d3028270ec5ea4245629b0e5dca34b555169f1d2",
+        "inducing_commit_hash_pyszz": [
+            "8c4deff55de51105c8c3bd1a15b998c92de3eb88"
+        ],
+        "inducing_commit_hash_pd": [
+            "d4c09f20c8d18497aabdc1b75df11397158a7524",
+            "8c4deff55de51105c8c3bd1a15b998c92de3eb88"
+        ],
+        "matched": [
+            "8c4deff55de51105c8c3bd1a15b998c92de3eb88"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2524",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/11305",
+        "fix_commit_hash": "9f74184e98020eb71060ee38c2b3d649ad299bb6",
+        "inducing_commit_hash_pyszz": [
+            "a1163582c53dc6e00f3680084269600913b1cad2"
+        ],
+        "inducing_commit_hash_pd": [
+            "5de3cf099cd01c84d1809dab90c041b76aa58d8e",
+            "6e689ece46726f39bdf93f1f35e01656f8fe27dc",
+            "7d0543c128839523e088f3ef3aeec88ee884b4e4",
+            "a1163582c53dc6e00f3680084269600913b1cad2"
+        ],
+        "matched": [
+            "a1163582c53dc6e00f3680084269600913b1cad2"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2528",
+        "repo_id": "94386",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/nodejs/node/pull/9107",
+        "fix_commit_hash": "b798f598af72570ff3ea04b5468898b86019796b",
+        "inducing_commit_hash_pyszz": [
+            "0d7e21ee7bcc79046f898f8c202d2ec87d23d711"
+        ],
+        "inducing_commit_hash_pd": [
+            "0d7e21ee7bcc79046f898f8c202d2ec87d23d711"
+        ],
+        "matched": [
+            "0d7e21ee7bcc79046f898f8c202d2ec87d23d711"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2537",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/6701",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "c813de46fc17dea8eb724f115fa1860d14bba694",
+            "9e5d2b74fb22fa23b57653c08c2bd58c2971f852",
+            "26eb062a9b9c0ae8cee9cb5c378e43bca363207c",
+            "80a989f931f1751adea8e385762f3017d0344e4c",
+            "c3a7b29e56a5ada6327ebb622ba746d022685742",
+            "75e4d0df8f4ea812772c3c621501df766cc4ef0f",
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa",
+            "a202666399cec4098aa0bd8e6f9fe743b0fd43fb"
+        ],
+        "matched": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2546",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/4961",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "c813de46fc17dea8eb724f115fa1860d14bba694",
+            "9e5d2b74fb22fa23b57653c08c2bd58c2971f852",
+            "26eb062a9b9c0ae8cee9cb5c378e43bca363207c",
+            "80a989f931f1751adea8e385762f3017d0344e4c",
+            "c3a7b29e56a5ada6327ebb622ba746d022685742",
+            "75e4d0df8f4ea812772c3c621501df766cc4ef0f",
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa",
+            "a202666399cec4098aa0bd8e6f9fe743b0fd43fb"
+        ],
+        "matched": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2550",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/4246",
+        "fix_commit_hash": "c5b4f6bc996e25f9e24db8ed31df86010d2dfcec",
+        "inducing_commit_hash_pyszz": [
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ],
+        "inducing_commit_hash_pd": [
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ],
+        "matched": [
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2551",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/3755",
+        "fix_commit_hash": "424ae5d4ac1ecd7892bae678e506b36ff967e74a",
+        "inducing_commit_hash_pyszz": [
+            "19a855382c5c0b2e8db569e5fbb03ea52570dc64"
+        ],
+        "inducing_commit_hash_pd": [
+            "f8390fdd7528e4c1863ee1e40eda8f9b1dbd23e6",
+            "af80e7bc6e6f33c582eb1f7d37c7f5bbe9f910f7"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2552",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/3642",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "c813de46fc17dea8eb724f115fa1860d14bba694",
+            "9e5d2b74fb22fa23b57653c08c2bd58c2971f852",
+            "26eb062a9b9c0ae8cee9cb5c378e43bca363207c",
+            "80a989f931f1751adea8e385762f3017d0344e4c",
+            "c3a7b29e56a5ada6327ebb622ba746d022685742",
+            "75e4d0df8f4ea812772c3c621501df766cc4ef0f",
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa",
+            "a202666399cec4098aa0bd8e6f9fe743b0fd43fb"
+        ],
+        "matched": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2553",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/3465",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ],
+        "inducing_commit_hash_pd": [
+            "c813de46fc17dea8eb724f115fa1860d14bba694",
+            "9e5d2b74fb22fa23b57653c08c2bd58c2971f852",
+            "26eb062a9b9c0ae8cee9cb5c378e43bca363207c",
+            "80a989f931f1751adea8e385762f3017d0344e4c",
+            "c3a7b29e56a5ada6327ebb622ba746d022685742",
+            "75e4d0df8f4ea812772c3c621501df766cc4ef0f",
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa",
+            "a202666399cec4098aa0bd8e6f9fe743b0fd43fb"
+        ],
+        "matched": [
+            "53ede878a51aee2dd2d1c97b5cefa43ae12f14aa"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2555",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/1660",
+        "fix_commit_hash": "5755fc099f883293530406c423bda47414834057",
+        "inducing_commit_hash_pyszz": [
+            "77f35861d0217273b9e478f5d35bd7d8e471e14f"
+        ],
+        "inducing_commit_hash_pd": [
+            "77f35861d0217273b9e478f5d35bd7d8e471e14f"
+        ],
+        "matched": [
+            "77f35861d0217273b9e478f5d35bd7d8e471e14f"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2556",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/1580",
+        "fix_commit_hash": "f7620fb96d339f704932f9bb9a0dceb9952df2d4",
+        "inducing_commit_hash_pyszz": [
+            "178741637693a95f9e81200b486df2e6aee06986"
+        ],
+        "inducing_commit_hash_pd": [
+            "178741637693a95f9e81200b486df2e6aee06986",
+            "2d241b3b82d246881c8a6bcc7148d59349309d5f"
+        ],
+        "matched": [
+            "178741637693a95f9e81200b486df2e6aee06986"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2558",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/826",
+        "fix_commit_hash": "77f35861d0217273b9e478f5d35bd7d8e471e14f",
+        "inducing_commit_hash_pyszz": [
+            "f6877f37b216a955b41eb2b6ec10bf0d8510a024"
+        ],
+        "inducing_commit_hash_pd": [
+            "e1f4f6aa28e14406edab737677636603bf6ab81f",
+            "00004160a1230892197041f5628e7b1545bd8146",
+            "c147e81091750ed38500d75299be3d9ced04d946",
+            "9a7fb3c98891a0d40565ecb90bf3a26c0a302327",
+            "f6877f37b216a955b41eb2b6ec10bf0d8510a024",
+            "789bbb91d3eb30fa2a51e9b064592d6a461a6fe5",
+            "7343f8e776146bf4461348a9130f2c5040a0dfa0",
+            "8c303115f5e58f5f3a387c3f433822614754aa36",
+            "badbd1af27f5f3fd07862b8ee7d0810e7ae9ef56",
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ],
+        "matched": [
+            "f6877f37b216a955b41eb2b6ec10bf0d8510a024"
+        ]
+    }
+]
