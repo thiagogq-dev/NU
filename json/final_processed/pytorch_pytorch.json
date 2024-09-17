@@ -1,0 +1,59 @@
+[
+    {
+        "repo_name": "pytorch/pytorch",
+        "id": "486",
+        "repo_id": "1965",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pytorch/pytorch/pull/65365",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "b8859dc4b88e8b5cd4397516d5165bca6bd73064",
+            "b7f898c4a6ae12ac286ac715e63068b09e9e30a5",
+            "ed327876f574c6a014321be419a3ae9808a765a2"
+        ],
+        "matched": []
+    },
+    {
+        "repo_name": "pytorch/pytorch",
+        "id": "555",
+        "repo_id": "1965",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pytorch/pytorch/pull/56831",
+        "fix_commit_hash": "8a949f9e51adeeae9ce86eb670d8745a4e35e79b",
+        "inducing_commit_hash_pyszz": [
+            "d30e31cfe61a5931e873055c0b0e031eff1e2d41"
+        ],
+        "inducing_commit_hash_pd": [
+            "d30e31cfe61a5931e873055c0b0e031eff1e2d41",
+            "a6940aae37f60c86b4d7ac1e6a5161542e596f4f"
+        ],
+        "matched": [
+            "d30e31cfe61a5931e873055c0b0e031eff1e2d41"
+        ]
+    },
+    {
+        "repo_name": "pytorch/pytorch",
+        "id": "1069",
+        "repo_id": "1965",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pytorch/pytorch/pull/27787",
+        "fix_commit_hash": "104bb57c435795de28bedba30b93c2650ec37555",
+        "inducing_commit_hash_pyszz": [
+            "448c53747a37c0be3ea919fcfcda819b3e464b5f"
+        ],
+        "inducing_commit_hash_pd": [
+            "41486306d9167050723d2c294bdf2f5cd8da8508",
+            "cdead5ace16c105ebb230ffd97228084946b914d",
+            "09c9af94512c7eed69665c15f9847028a6849556",
+            "fea4225b8a394014b09d82c431d54d419e255ad2",
+            "0604b45f23c79c8baa62bfa05b83f03c895c6f89",
+            "448c53747a37c0be3ea919fcfcda819b3e464b5f",
+            "bc1de6ae7d58618369660b85f490c4c9634fa2bf",
+            "e388f704999bcd83c064caa0f056bbcb36bfb121"
+        ],
+        "matched": [
+            "448c53747a37c0be3ea919fcfcda819b3e464b5f"
+        ]
+    }
+]
