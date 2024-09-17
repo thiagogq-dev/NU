@@ -1,1 +1,0 @@
-[{"repo_name": "home-assistant/core", "id": "2170", "repo_id": "93955", "terms_vulnerability": "secur", "url": "https://github.com/home-assistant/core/pull/28443", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["25be71e05bf5cb1d0f37d44544402d0035e0530c"]}]
