@@ -39940,5 +39940,1577 @@
         "matched": [
             "385000e8d94f2a2caed91518b6c4e447fc50ff33"
         ]
+    },
+    {
+        "repo_name": "airbnb/javascript",
+        "id": "2208",
+        "repo_id": "94380",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/airbnb/javascript/pull/396",
+        "fix_commit_hash": "6317e6b3e26fb70ac364f3373f6d3fcd36a4b37d",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "airbnb/native-navigation",
+        "id": "14",
+        "repo_id": "43",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/airbnb/native-navigation/pull/44",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2379",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/7464",
+        "fix_commit_hash": "d606e66f7ab893f8799991883fd02b0e66e3225e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "8024a5742c46a42ef204988ff7362a4fc14b7a2d"
+        ],
+        "matched": [
+            "8024a5742c46a42ef204988ff7362a4fc14b7a2d"
+        ]
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2400",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4865",
+        "fix_commit_hash": "4ab16aaaf762e9038803da1f967ac8cb6650727d",
+        "inducing_commit_hash_pyszz": [
+            "3d6a89e8888b14ae5cb5640464e12b7811853c7e"
+        ],
+        "inducing_commit_hash_pd": [
+            "3d6a89e8888b14ae5cb5640464e12b7811853c7e",
+            "37123cd2858b4e318ed8109af745312df4848577"
+        ],
+        "matched": [
+            "3d6a89e8888b14ae5cb5640464e12b7811853c7e"
+        ]
+    },
+    {
+        "repo_name": "angular/angular.js",
+        "id": "2401",
+        "repo_id": "94396",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/angular/angular.js/pull/4859",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "apache/shiro",
+        "id": "206",
+        "repo_id": "184",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/shiro/pull/57",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "307",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23466",
+        "fix_commit_hash": "90f1f849e9f5a0c1855b72824af38b9aa24d5287",
+        "inducing_commit_hash_pyszz": [
+            "fdd7fa19a9fdc6f15208280201e0ce186e35a9c8"
+        ],
+        "inducing_commit_hash_pd": [
+            "fdd7fa19a9fdc6f15208280201e0ce186e35a9c8"
+        ],
+        "matched": [
+            "fdd7fa19a9fdc6f15208280201e0ce186e35a9c8"
+        ]
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "310",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/23074",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "315",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/22417",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "330",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/20980",
+        "fix_commit_hash": "34d1d6a112709cada2c415deae7f7989b2d8c2f3",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "341",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/18971",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "395",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/11843",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "402",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/10350",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "429",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7667",
+        "fix_commit_hash": "56d2c4e0fee3372535a4b4436cebca94f2eda0ad",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "430",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7487",
+        "fix_commit_hash": "bf1e113311fe225c9a3a78f9d0fb5e43974573b7",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "433",
+        "repo_id": "1968",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/bitcoin/bitcoin/pull/7004",
+        "fix_commit_hash": "44ac42e50d567b08d3cb3f3c5766588468ce5bbf",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "435",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6854",
+        "fix_commit_hash": "a09297010e171af28a7a3fcad65a4e0aefea53ba",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "436",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/6795",
+        "fix_commit_hash": "b94ae81576c199c9a44453b8c9b17e8303f67b72",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2007",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3306",
+        "fix_commit_hash": "40ad6e7f35b539d06d328082b17878f18f0fc22e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2008",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3145",
+        "fix_commit_hash": "65d0fc4b73104e9f9d2960b1019c1d2365d0458e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2009",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3094",
+        "fix_commit_hash": "03db5c6112541302ae4a3901c2d02b2a1c37c7e3",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2010",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/3080",
+        "fix_commit_hash": "38d15d8b427904a936a4fb4b8ac390bd637e1638",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2012",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/2273",
+        "fix_commit_hash": "1d0851eca8917f1c3edaa51886c70353f03f8205",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2013",
+        "repo_id": "1968",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/bitcoin/bitcoin/pull/2223",
+        "fix_commit_hash": "f73abdc82dd69c046f7800acd0845002cb20aec5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2014",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/2121",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2015",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1992",
+        "fix_commit_hash": "91cee34638ae4d5cacb5fadf0adf16428ecf1332",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2016",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1987",
+        "fix_commit_hash": "34ea321ccdb234fe695f6279e3d53cce31c28f4a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2017",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1673",
+        "fix_commit_hash": "221497c61bf092cf0d7d3ba45454a7fdea976ee0",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2018",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1456",
+        "fix_commit_hash": "a2709fad7f57b000333371954016045e12fc4bed",
+        "inducing_commit_hash_pyszz": [
+            "70ab73a0087cbb0d6b26c9ad58146ae542b1b9be"
+        ],
+        "inducing_commit_hash_pd": [
+            "29875dcb4bc2a1da39caa2cda8735aae391c8c5d",
+            "e679ec969c8b22c676ebb10bea1038f6c8f13b33",
+            "e8ef3da7133dd9fc411fa8b3cc8b8fc2f9c58a98",
+            "922e8e2929a2e78270868385aa46f96002fbcff3",
+            "9b0369c773c1d350a05435d8d3ec4e954828fb82",
+            "976c08b68a516514b7d987ea7dd3ec59ca166ba0",
+            "70ab73a0087cbb0d6b26c9ad58146ae542b1b9be",
+            "bf798734db4539a39edd6badf54a1c3aecf193e5",
+            "e071a3f6c06f41068ad17134189a4ac3073ef76b",
+            "95d888a6d1f659a5cb81124e0d97966b9de1f139",
+            "ea7582bb41416e112d79a2ae43a8c28c695faa8d"
+        ],
+        "matched": [
+            "70ab73a0087cbb0d6b26c9ad58146ae542b1b9be"
+        ]
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2019",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1453",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2020",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1349",
+        "fix_commit_hash": "62922c8ab030953f159b9433e8a8703ab64cea02",
+        "inducing_commit_hash_pyszz": [
+            "15f3ad4dbdf0d245b936e68c51a7ecb9f472d2cd"
+        ],
+        "inducing_commit_hash_pd": [
+            "15f3ad4dbdf0d245b936e68c51a7ecb9f472d2cd"
+        ],
+        "matched": [
+            "15f3ad4dbdf0d245b936e68c51a7ecb9f472d2cd"
+        ]
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2021",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/1177",
+        "fix_commit_hash": "e19ccfa657094590d52741066ea161855975ace3",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2022",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/965",
+        "fix_commit_hash": "c2b1ab072c25de43d4e0b65573e5b55ee846d6dc",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2023",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/541",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2024",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/284",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2025",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/253",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2026",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/192",
+        "fix_commit_hash": "9398bf946cf2e59cb8731481d8f2c5820e95dc1e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "bitcoin/bitcoin",
+        "id": "2027",
+        "repo_id": "1968",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/bitcoin/bitcoin/pull/51",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "django/django",
+        "id": "2127",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/331",
+        "fix_commit_hash": "257c4011cb887524048acb8796b130761617d195",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "django/django",
+        "id": "2128",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/269",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "django/django",
+        "id": "2130",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/110",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "django/django",
+        "id": "2131",
+        "repo_id": "93947",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/django/django/pull/95",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "708",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/80231",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "739",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/79312",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1057",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/65976",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1377",
+        "repo_id": "2584",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/elastic/elasticsearch/pull/46170",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1771",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/31261",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1909",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/19338",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1957",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/13001",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1992",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/10630",
+        "fix_commit_hash": "161e74029f348afac3845108fc595dfe7af1c18b",
+        "inducing_commit_hash_pyszz": [
+            "27d6c71d5b496c214a8aba88ad67b4f93a8693df"
+        ],
+        "inducing_commit_hash_pd": [
+            "27d6c71d5b496c214a8aba88ad67b4f93a8693df"
+        ],
+        "matched": [
+            "27d6c71d5b496c214a8aba88ad67b4f93a8693df"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1996",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/7642",
+        "fix_commit_hash": "bd0eb32d9c3c3f5b6e5f8630c859cd04bdcd4e06",
+        "inducing_commit_hash_pyszz": [
+            "35e67c84fac43e64e4b1e2aad9a0aaee666304d6"
+        ],
+        "inducing_commit_hash_pd": [
+            "35e67c84fac43e64e4b1e2aad9a0aaee666304d6",
+            "cd8ed388d9b87b779f1d9a988773ca6626bd8a40",
+            "a1e335b1e9d53ca1f970219f6df1b532d9509d3b"
+        ],
+        "matched": [
+            "35e67c84fac43e64e4b1e2aad9a0aaee666304d6"
+        ]
+    },
+    {
+        "repo_name": "elastic/elasticsearch",
+        "id": "1492",
+        "repo_id": "2584",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/elastic/elasticsearch/pull/41024",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "expressjs/express",
+        "id": "2308",
+        "repo_id": "94402",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/expressjs/express/pull/1425",
+        "fix_commit_hash": "5cf29a3d2906e8f2218ab1febbef392bb4925b14",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2199",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/31522",
+        "fix_commit_hash": "e612d3a116f39ab354169643bab0d4bb9cfc1a85",
+        "inducing_commit_hash_pyszz": [
+            "1f25d3c4ce605fc3bd2a4deefc754bd07cfbf1cf"
+        ],
+        "inducing_commit_hash_pd": [
+            "ad15b74aae928858d5e9239db4561b9bd2c62198",
+            "1f25d3c4ce605fc3bd2a4deefc754bd07cfbf1cf"
+        ],
+        "matched": [
+            "1f25d3c4ce605fc3bd2a4deefc754bd07cfbf1cf"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2205",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/30044",
+        "fix_commit_hash": "29f5dc2ae0091e3b230687a1870512316c156e87",
+        "inducing_commit_hash_pyszz": [
+            "3a6327a5d9ebfd0de56c37009ab7de1d0e6bdf85"
+        ],
+        "inducing_commit_hash_pd": [
+            "43cd6f7579cb705f6c8698fa726db7ad9c5782ec",
+            "63992c0b96ec45e4dfb37eaea8535c06833ab298",
+            "12f82c7d58a25d5f5876a43fd746540a40b0cd01",
+            "5ed749e1b254d7dffcacb5b47b679f71523bddcf",
+            "fe101ffee5fc84702da5febc6df1ef6bf5fff7ae",
+            "92a3c9da0a38870a8bad7c91bdc3ddb494f6e5f2",
+            "5558333c60c75b1ac68f3e248d2d393ec09e8c8a",
+            "e903d8059a6446882a8a8200ef5fd686d6761da5",
+            "0b68f3cf77cb96df18535764b68f40b3fa89ed37",
+            "57041ee44f3abcb72e93afc3bc3efbf956ae123f",
+            "abba44de1ed0f5f39823cc78a5b49e36c01304b3",
+            "ddc33007ad0b4a0a24966b833e797227b9c56cca",
+            "13351e6acf551ca51414934ff3e3be24d54bfc11",
+            "f248ba1c8b15a12a0c590ce8211855cde31defe8",
+            "65d6c3f3a0908699ce8782625d09ca9cd12edd45",
+            "75a617827963fd53f5f36987677a992e137eaebf",
+            "706f67a882310ea5f43b2e000e0ebd15ae168e25",
+            "e10d984c437187b2cfdb364248c93a261d3f5e46",
+            "efec97f2be535def834e0c2da061bb25875224c3",
+            "4018e799bad08032bc37e3a8fc7da986979d7fb6",
+            "1740233f3812c4b702b4ca3127ae1e10037d16a0",
+            "1b4fd643256817d29163b37101da612867a225a1",
+            "3a6327a5d9ebfd0de56c37009ab7de1d0e6bdf85",
+            "a4757d28235617b6448ea962b66e2ee0c88ca331",
+            "540a3b891ea12b5fae613d4da9d469351e4335bf",
+            "3967635632831b94293f0aff1daf5d2758e062fa",
+            "06ab76a6b28d74a4f753237b985bebc6bb870c70",
+            "e1de7a5e654f4cb1c08405f58c811a9f0074bb5c",
+            "69e9c9d37199642fec8e98ae684d9ee29f053bc7",
+            "e523302fbe055e6745e38b72a17e121341c431c1",
+            "63377fa66b4a9283abdecec913cf38961f86d44f",
+            "6c0eccd46d157804fde767263ec8856ff8c99cfb",
+            "33ee6f8b99d423dbe8e604852232a63d5abe94d4",
+            "49fb0cdc40ee710fa71b813af7c730845c8c66f1",
+            "001eb7cbd66c7dc1a302ee2a638c1cfc164538f4",
+            "ab56ed7d96863d7b95521ce9a1e761c215ba0f98",
+            "a77f2c40d1044da63426078f356cfc7c1284a79e",
+            "d2858608515306623a431a0c10eaf89f5afa10a1",
+            "e67aa427a811ab252eda175f42a518e7779ab486",
+            "ee76227c48982ea2c7fe43445fa53b346cc96958",
+            "15c05988e980118151bdf41ed82ebb8c8e30a0f3",
+            "d7f5153cd8d164fda9008c1cda51278a2dcbec9c",
+            "efae175a8e1b05c976cc5a1cbd492da71eb3bb12",
+            "a3c6e1da10188b06310fc48568d93366f886935a",
+            "4355b2df1b78aacfc6afa85ac5c900a86729ad80"
+        ],
+        "matched": [
+            "3a6327a5d9ebfd0de56c37009ab7de1d0e6bdf85"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2242",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/23429",
+        "fix_commit_hash": "5747094532bace3fe6b1ebdf55235e53189baa71",
+        "inducing_commit_hash_pyszz": [
+            "84572c4051f11f68ddf0928d2c3df5850ae15491"
+        ],
+        "inducing_commit_hash_pd": [
+            "3b0b7ce8c3c3679610c14ca72beb1a9dcf84d930",
+            "84572c4051f11f68ddf0928d2c3df5850ae15491"
+        ],
+        "matched": [
+            "84572c4051f11f68ddf0928d2c3df5850ae15491"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2244",
+        "repo_id": "94381",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/react-native/pull/23051",
+        "fix_commit_hash": "988366a4179d87d667e5d9396efdfba4cbbe0b2e",
+        "inducing_commit_hash_pyszz": [
+            "b9514995a26b4c3f6d555257740457dd4d6cfeae"
+        ],
+        "inducing_commit_hash_pd": [
+            "b9514995a26b4c3f6d555257740457dd4d6cfeae"
+        ],
+        "matched": [
+            "b9514995a26b4c3f6d555257740457dd4d6cfeae"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2255",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/21058",
+        "fix_commit_hash": "023d650a0d0c1917307156dc724435b0c62b7fb0",
+        "inducing_commit_hash_pyszz": [
+            "1fe7b40a335fb7b85b2f2ac59b7d986c21e881bd"
+        ],
+        "inducing_commit_hash_pd": [
+            "1fe7b40a335fb7b85b2f2ac59b7d986c21e881bd"
+        ],
+        "matched": [
+            "1fe7b40a335fb7b85b2f2ac59b7d986c21e881bd"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2262",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/19662",
+        "fix_commit_hash": "065c5b6590de18281a8c592a04240751c655c03c",
+        "inducing_commit_hash_pyszz": [
+            "3e0ebc76632238f21c60caa92c7a2b5ee8102b71"
+        ],
+        "inducing_commit_hash_pd": [
+            "3e0ebc76632238f21c60caa92c7a2b5ee8102b71",
+            "48cb932c6e3003c08cc2e007e774dbd87df32024",
+            "9fea48513807460bd4d2abdd8612f43480ddd2c2",
+            "581434ac04c6bd465f373e6fcc6aa0d1de7dea0b",
+            "149d0b91c2707323a140fa7fc6486cd705e434bc",
+            "53c7f1d07f2c685158e5bca87a553468febd92ad"
+        ],
+        "matched": [
+            "3e0ebc76632238f21c60caa92c7a2b5ee8102b71"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2265",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/18526",
+        "fix_commit_hash": "d4fb87b0b873f035872eca1eccf737d509838250",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2271",
+        "repo_id": "94381",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/react-native/pull/17747",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2272",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/17741",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2321",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/11358",
+        "fix_commit_hash": "da9a712a9e17942dcd05b8d955f0764c2026a4ad",
+        "inducing_commit_hash_pyszz": [
+            "abb8ea3aea686e2cd881a61fbc66d137857ef422"
+        ],
+        "inducing_commit_hash_pd": [
+            "66bb821a31e9a1e28f2f0ae6dbf5fb5c44de0ed0",
+            "abb8ea3aea686e2cd881a61fbc66d137857ef422"
+        ],
+        "matched": [
+            "abb8ea3aea686e2cd881a61fbc66d137857ef422"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2328",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/10893",
+        "fix_commit_hash": "16b2d5aa15367818461551168edce52572c4c056",
+        "inducing_commit_hash_pyszz": [
+            "66cfc76d20450a03ed2bb898e1605e6a8e5c250e"
+        ],
+        "inducing_commit_hash_pd": [
+            "66cfc76d20450a03ed2bb898e1605e6a8e5c250e"
+        ],
+        "matched": [
+            "66cfc76d20450a03ed2bb898e1605e6a8e5c250e"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2329",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/10714",
+        "fix_commit_hash": "52d90da75e70f383161be06d5d1b52864c329954",
+        "inducing_commit_hash_pyszz": [
+            "617a38d9846fee81b3d94d1e9d06fd74ecb5abe1"
+        ],
+        "inducing_commit_hash_pd": [
+            "617a38d9846fee81b3d94d1e9d06fd74ecb5abe1",
+            "0a419650ce1a362f5301a62eabe802b8f4010f8e",
+            "cb2eeb484d52c24853471025a49c136159429afa",
+            "3643c127a8f752c8cdbb8377baab266fba06d067",
+            "f7bcb3e98d489bb40ee8fd7dd69918521344f657",
+            "efae175a8e1b05c976cc5a1cbd492da71eb3bb12",
+            "74f8055692893ddc8e756f1a262c0488a205d529",
+            "e4110456abb29a5d53814e8626e8dcb6161089d2",
+            "ee8496f364070f1b3629b94b347a0e11b2895dec"
+        ],
+        "matched": [
+            "617a38d9846fee81b3d94d1e9d06fd74ecb5abe1"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2354",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/6563",
+        "fix_commit_hash": "2a2ba4bd6b2ea3f8fce978d9439d7208d91a5fe9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "42eb5464fd8a65ed84b799de5d4dc225349449be"
+        ],
+        "matched": [
+            "42eb5464fd8a65ed84b799de5d4dc225349449be"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2355",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/6540",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2359",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/6153",
+        "fix_commit_hash": "cf0c3d434232bd828e3ec2d53ccd531a6cfbca58",
+        "inducing_commit_hash_pyszz": [
+            "d52723efec30fcc0991dcacd513aeae3a6e1a224"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": [
+            "d52723efec30fcc0991dcacd513aeae3a6e1a224"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2373",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/3394",
+        "fix_commit_hash": "c1faabcdf6f4fd15643743d23ebda556c4f49045",
+        "inducing_commit_hash_pyszz": [
+            "0788e0b683fb4bbc41ba918a6b473e1437c1b15f"
+        ],
+        "inducing_commit_hash_pd": [
+            "9a22b1e78b4c9d8041d15c71c9a2297cada1cfdd",
+            "12a68a8183391cdc9bc203b66facbedcb78c449f",
+            "0788e0b683fb4bbc41ba918a6b473e1437c1b15f",
+            "f67a36733f0f291e3ef285491c791ba394662d84",
+            "4d97c01f4bf5785d55d362cea3b0e36680843ab7",
+            "57348a4028c33c227f31de6c5cf0f93369bd4a86",
+            "9e4af68d91b3c5a321627bd393e4a3991bf94db1",
+            "8dea55618dd7080d30a3e83ccc2f338e339c45bc",
+            "35f9ac89a7554f1fcc0371ae09297245ffd8f24f"
+        ],
+        "matched": [
+            "0788e0b683fb4bbc41ba918a6b473e1437c1b15f"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2376",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/2406",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2378",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/1918",
+        "fix_commit_hash": "d4f6e447d2019ba784a83149a22bc6f392accee5",
+        "inducing_commit_hash_pyszz": [
+            "bcf762af6067d44effb489a6ac751f0b64c4c6ac"
+        ],
+        "inducing_commit_hash_pd": [
+            "bcf762af6067d44effb489a6ac751f0b64c4c6ac"
+        ],
+        "matched": [
+            "bcf762af6067d44effb489a6ac751f0b64c4c6ac"
+        ]
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2387",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/622",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2390",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/339",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2391",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/265",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "hakimel/reveal.js",
+        "id": "2457",
+        "repo_id": "94398",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/hakimel/reveal.js/pull/595",
+        "fix_commit_hash": "2fc0dfa8e189a924a0ea77780e13537a02ff4e01",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "home-assistant/core",
+        "id": "2170",
+        "repo_id": "93955",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/home-assistant/core/pull/28443",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "jeremylong/DependencyCheck",
+        "id": "225",
+        "repo_id": "146",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/jeremylong/DependencyCheck/pull/13",
+        "fix_commit_hash": "fb65691b1e6a772be7bcbd69cfad8abda47934a4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "minetest/minetest",
+        "id": "248",
+        "repo_id": "875",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/minetest/minetest/pull/236",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2412",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/39220",
+        "fix_commit_hash": "eb33cb412202de09c1bba67b6a65f80f4b422168",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2413",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/39215",
+        "fix_commit_hash": "cb3c02f8f68c64571a5ddd6f380d128032e8501f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2414",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/39191",
+        "fix_commit_hash": "7ebf36ca98ea7ae6f03b48223ffed6a8d7990b33",
+        "inducing_commit_hash_pyszz": [
+            "63bed545d3054ca952517125c0459356673f5628"
+        ],
+        "inducing_commit_hash_pd": [
+            "63bed545d3054ca952517125c0459356673f5628"
+        ],
+        "matched": [
+            "63bed545d3054ca952517125c0459356673f5628"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2423",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/38116",
+        "fix_commit_hash": "eb20447407d428dbb239ca0765ba6273975ed663",
+        "inducing_commit_hash_pyszz": [
+            "b16e79e05b90589669ef87b5528ee143c9d086cc"
+        ],
+        "inducing_commit_hash_pd": [
+            "1403d28e7ded280e7582daa6e999164588d2234e",
+            "372dc86af5f17d7a8756df6458c41d2538e03e4e",
+            "e10cb7fdda85bdf3204ae40843d64e56cf07e5a8",
+            "c6b6c92185316e13738e6fa931fdd5303e381e46",
+            "3b4159c8ed85b6b531b7df09378d67168574d731",
+            "b16e79e05b90589669ef87b5528ee143c9d086cc",
+            "2e6c3e2301cb443a72c3659fffa24815b4660815",
+            "307b79d2be12ad7fc16016a52469b76186a61e02",
+            "468110b3276007f445741b41c36beb0ef62d751c",
+            "c66e6471e780e752f3f6f9337ac49a3d6e3d7091",
+            "42dbaed4605f44c393a057aad75a31cac1d0e5f5",
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668",
+            "7907534a8d867132957b823db8603a418d763e42",
+            "804e7aa9ab0b34fa88709ef0980b960abca5e059",
+            "bf5cc3bf1add7eea1d7d4c2c0de2092582ea1541",
+            "d523eb9c40889d476f919b523dc3c67b245826c8",
+            "178741637693a95f9e81200b486df2e6aee06986",
+            "c2ce8d05474c38c503b6ac57e94366421c960762",
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c",
+            "1d2fd8b65bacaf4401450edc8ed529106cbcfc67",
+            "0c32ca96c878488c923022a8828bef541e0df9ae",
+            "b3ef289ffb7db476d284866658213f04415ea92d",
+            "f512f5ea138fe86e47c0179d5733044daf6f4fe6",
+            "08dd4b1723b20d56fbedf37d52e736fe09715f80",
+            "0140e1b5e39342f87133f7f42e9b49a702f69b39",
+            "2684c902c4ff90711e57e787c5bfe0bac33bcd49",
+            "c2a792f14a3df48998fc0a07f5ee6d8179b64ca4",
+            "35274cbddf7206687b2e30d32e57d293750e19a0",
+            "173bee230e643345876f22b7469beb253c1c9473",
+            "73631bbcc83888ec61a0aebf4eff3904e9384a2e",
+            "141a6e34eed05577edf43ad085a74f330d0559cb",
+            "a7dccd040d72ce7de61d9160ec031420c52a49d4",
+            "d7e7008c1f4318e2ebd375fed75362711ebdbb2c",
+            "6ee985f311de14621c440377f76d0391b6b23320",
+            "4a741b8dc2c19efcef49ca39362bb7126d80a3d1"
+        ],
+        "matched": [
+            "b16e79e05b90589669ef87b5528ee143c9d086cc"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2455",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/32403",
+        "fix_commit_hash": "10d8e2687e9217ff3c5722b2b3293cf1f0e81ae9",
+        "inducing_commit_hash_pyszz": [
+            "f2eaf874ed6b8d701e9eac144cd6067ec9874d86"
+        ],
+        "inducing_commit_hash_pd": [],
+        "matched": [
+            "f2eaf874ed6b8d701e9eac144cd6067ec9874d86"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2473",
+        "repo_id": "94386",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/nodejs/node/pull/26367",
+        "fix_commit_hash": "2fa8dc47f3f3a548dd78ccb41bf1d082c1628dfb",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2474",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/26334",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2488",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/22617",
+        "fix_commit_hash": "c0fb95d700574a369988f3379559f66dba57404c",
+        "inducing_commit_hash_pyszz": [
+            "4a7487b171d4e22a8e8879bd424f4f605d44abaf"
+        ],
+        "inducing_commit_hash_pd": [
+            "4a7487b171d4e22a8e8879bd424f4f605d44abaf",
+            "bf5c309b5eec0511a58825b7a59d2835bf00a3d1",
+            "8979b4fc9face199099a53f32dfeb14a1203ad57",
+            "ef4768754c870e3a0b0d2e09c062cfbde03afb63"
+        ],
+        "matched": [
+            "4a7487b171d4e22a8e8879bd424f4f605d44abaf"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2494",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/21275",
+        "fix_commit_hash": "60e6991291e8571c4b27172714582e7d65f29c41",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2497",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/19322",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2498",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/18439",
+        "fix_commit_hash": "71b15e8c7b935ba58838afdbe3ac114908edcb08",
+        "inducing_commit_hash_pyszz": [
+            "ce22d6f9178507c7a41b04ac4097b9ea902049e3"
+        ],
+        "inducing_commit_hash_pd": [
+            "f88178906bd0e9678f70e8f95522192adc5b3872",
+            "a4017736d213a580a8bdd1ac3184e74d29b87d67",
+            "ce22d6f9178507c7a41b04ac4097b9ea902049e3",
+            "e71e71b5138c3dfee080f4215dd957dc7a6cbdaf",
+            "59e509808aeb85e33a16756764f2b496d5b8fcdd",
+            "0babd181a0c5d775e62a12b3b04fe4d7654fe80a",
+            "1fe0741e50b19ffaaabc77c3a8b99355dc3d28fe",
+            "3621889c800707f3ca720c8de5f05a798a1fe5a8",
+            "ce4903426dac9b0c851cf8dba2511e3eebd5c352",
+            "a10856a7d31f9b641bf330fe9edfa9728f4b1c78",
+            "53c5bf546e8e52db5b11287ab3bf1375819b369b",
+            "6763fb2f0ee4fa663e720a1e37570c8a8e18d03b",
+            "ad3d2ce68a92fd160f72ed5c0dba0e18a90e906d"
+        ],
+        "matched": [
+            "ce22d6f9178507c7a41b04ac4097b9ea902049e3"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2508",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/15131",
+        "fix_commit_hash": "1403d28e7ded280e7582daa6e999164588d2234e",
+        "inducing_commit_hash_pyszz": [
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668"
+        ],
+        "inducing_commit_hash_pd": [
+            "a7dccd040d72ce7de61d9160ec031420c52a49d4",
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668"
+        ],
+        "matched": [
+            "5723c4c5f06f1382cc7962c64f31a7f96ca8a668"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2516",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/13279",
+        "fix_commit_hash": "d3028270ec5ea4245629b0e5dca34b555169f1d2",
+        "inducing_commit_hash_pyszz": [
+            "8c4deff55de51105c8c3bd1a15b998c92de3eb88"
+        ],
+        "inducing_commit_hash_pd": [
+            "d4c09f20c8d18497aabdc1b75df11397158a7524",
+            "8c4deff55de51105c8c3bd1a15b998c92de3eb88"
+        ],
+        "matched": [
+            "8c4deff55de51105c8c3bd1a15b998c92de3eb88"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2524",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/11305",
+        "fix_commit_hash": "9f74184e98020eb71060ee38c2b3d649ad299bb6",
+        "inducing_commit_hash_pyszz": [
+            "a1163582c53dc6e00f3680084269600913b1cad2"
+        ],
+        "inducing_commit_hash_pd": [
+            "5de3cf099cd01c84d1809dab90c041b76aa58d8e",
+            "6e689ece46726f39bdf93f1f35e01656f8fe27dc",
+            "7d0543c128839523e088f3ef3aeec88ee884b4e4",
+            "a1163582c53dc6e00f3680084269600913b1cad2"
+        ],
+        "matched": [
+            "a1163582c53dc6e00f3680084269600913b1cad2"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2528",
+        "repo_id": "94386",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/nodejs/node/pull/9107",
+        "fix_commit_hash": "b798f598af72570ff3ea04b5468898b86019796b",
+        "inducing_commit_hash_pyszz": [
+            "0d7e21ee7bcc79046f898f8c202d2ec87d23d711"
+        ],
+        "inducing_commit_hash_pd": [
+            "0d7e21ee7bcc79046f898f8c202d2ec87d23d711"
+        ],
+        "matched": [
+            "0d7e21ee7bcc79046f898f8c202d2ec87d23d711"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2537",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/6701",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2546",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/4961",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2550",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/4246",
+        "fix_commit_hash": "c5b4f6bc996e25f9e24db8ed31df86010d2dfcec",
+        "inducing_commit_hash_pyszz": [
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ],
+        "inducing_commit_hash_pd": [
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ],
+        "matched": [
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2551",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/3755",
+        "fix_commit_hash": "424ae5d4ac1ecd7892bae678e506b36ff967e74a",
+        "inducing_commit_hash_pyszz": [
+            "19a855382c5c0b2e8db569e5fbb03ea52570dc64"
+        ],
+        "inducing_commit_hash_pd": [
+            "f8390fdd7528e4c1863ee1e40eda8f9b1dbd23e6",
+            "af80e7bc6e6f33c582eb1f7d37c7f5bbe9f910f7"
+        ],
+        "matched": [
+            "19a855382c5c0b2e8db569e5fbb03ea52570dc64"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2552",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/3642",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2553",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/3465",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2555",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/1660",
+        "fix_commit_hash": "5755fc099f883293530406c423bda47414834057",
+        "inducing_commit_hash_pyszz": [
+            "77f35861d0217273b9e478f5d35bd7d8e471e14f"
+        ],
+        "inducing_commit_hash_pd": [
+            "77f35861d0217273b9e478f5d35bd7d8e471e14f"
+        ],
+        "matched": [
+            "77f35861d0217273b9e478f5d35bd7d8e471e14f"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2556",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/1580",
+        "fix_commit_hash": "f7620fb96d339f704932f9bb9a0dceb9952df2d4",
+        "inducing_commit_hash_pyszz": [
+            "178741637693a95f9e81200b486df2e6aee06986"
+        ],
+        "inducing_commit_hash_pd": [
+            "178741637693a95f9e81200b486df2e6aee06986",
+            "2d241b3b82d246881c8a6bcc7148d59349309d5f"
+        ],
+        "matched": [
+            "178741637693a95f9e81200b486df2e6aee06986"
+        ]
+    },
+    {
+        "repo_name": "nodejs/node",
+        "id": "2558",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/826",
+        "fix_commit_hash": "77f35861d0217273b9e478f5d35bd7d8e471e14f",
+        "inducing_commit_hash_pyszz": [
+            "f6877f37b216a955b41eb2b6ec10bf0d8510a024"
+        ],
+        "inducing_commit_hash_pd": [
+            "e1f4f6aa28e14406edab737677636603bf6ab81f",
+            "00004160a1230892197041f5628e7b1545bd8146",
+            "c147e81091750ed38500d75299be3d9ced04d946",
+            "9a7fb3c98891a0d40565ecb90bf3a26c0a302327",
+            "f6877f37b216a955b41eb2b6ec10bf0d8510a024",
+            "789bbb91d3eb30fa2a51e9b064592d6a461a6fe5",
+            "7343f8e776146bf4461348a9130f2c5040a0dfa0",
+            "8c303115f5e58f5f3a387c3f433822614754aa36",
+            "badbd1af27f5f3fd07862b8ee7d0810e7ae9ef56",
+            "5d2aef17ee56fbbf415ca1e3034cdb02cd97117c"
+        ],
+        "matched": [
+            "f6877f37b216a955b41eb2b6ec10bf0d8510a024"
+        ]
+    },
+    {
+        "repo_name": "pallets/flask",
+        "id": "2053",
+        "repo_id": "93948",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pallets/flask/pull/2059",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pytorch/pytorch",
+        "id": "486",
+        "repo_id": "1965",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pytorch/pytorch/pull/65365",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "pytorch/pytorch",
+        "id": "555",
+        "repo_id": "1965",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pytorch/pytorch/pull/56831",
+        "fix_commit_hash": "8a949f9e51adeeae9ce86eb670d8745a4e35e79b",
+        "inducing_commit_hash_pyszz": [
+            "d30e31cfe61a5931e873055c0b0e031eff1e2d41"
+        ],
+        "inducing_commit_hash_pd": [
+            "d30e31cfe61a5931e873055c0b0e031eff1e2d41",
+            "a6940aae37f60c86b4d7ac1e6a5161542e596f4f"
+        ],
+        "matched": [
+            "d30e31cfe61a5931e873055c0b0e031eff1e2d41"
+        ]
+    },
+    {
+        "repo_name": "pytorch/pytorch",
+        "id": "1069",
+        "repo_id": "1965",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pytorch/pytorch/pull/27787",
+        "fix_commit_hash": "104bb57c435795de28bedba30b93c2650ec37555",
+        "inducing_commit_hash_pyszz": [
+            "448c53747a37c0be3ea919fcfcda819b3e464b5f"
+        ],
+        "inducing_commit_hash_pd": [
+            "41486306d9167050723d2c294bdf2f5cd8da8508",
+            "cdead5ace16c105ebb230ffd97228084946b914d",
+            "09c9af94512c7eed69665c15f9847028a6849556",
+            "fea4225b8a394014b09d82c431d54d419e255ad2",
+            "0604b45f23c79c8baa62bfa05b83f03c895c6f89",
+            "448c53747a37c0be3ea919fcfcda819b3e464b5f",
+            "bc1de6ae7d58618369660b85f490c4c9634fa2bf",
+            "e388f704999bcd83c064caa0f056bbcb36bfb121"
+        ],
+        "matched": [
+            "448c53747a37c0be3ea919fcfcda819b3e464b5f"
+        ]
+    },
+    {
+        "repo_name": "signalapp/Signal-Server",
+        "id": "269",
+        "repo_id": "1264",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/signalapp/Signal-Server/pull/17",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "101",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/398",
+        "fix_commit_hash": "26876561bfb6f525683033d8ba380dbf924e8384",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "spring-projects/spring-boot",
+        "id": "623",
+        "repo_id": "2585",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-projects/spring-boot/pull/25829",
+        "fix_commit_hash": "4d510d3c9bdd7b500e708d8ce3ea3a58e62d5850",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "torvalds/linux",
+        "id": "1593",
+        "repo_id": "17910",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/torvalds/linux/pull/769",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
     }
 ]
