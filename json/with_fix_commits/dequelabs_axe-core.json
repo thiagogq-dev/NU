@@ -4,13 +4,15 @@
         "id": "606",
         "repo_id": "2548",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/dequelabs/axe-core/pull/1859"
+        "url": "https://github.com/dequelabs/axe-core/pull/1859",
+        "fix_commit_hash": "69340d81446f1b9430579c0e60df611e1adbafbb"
     },
     {
         "repo_name": "dequelabs/axe-core",
         "id": "617",
         "repo_id": "2548",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/dequelabs/axe-core/pull/1088"
+        "url": "https://github.com/dequelabs/axe-core/pull/1088",
+        "fix_commit_hash": "3f24535c08a81f61924870f058b7755f341546f3"
     }
 ]
