@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "systemd/systemd",
+        "id": "1051",
+        "repo_id": "15279",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/systemd/systemd/pull/17414"
+    }
+]

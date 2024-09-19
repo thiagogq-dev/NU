@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "traccar/traccar",
+        "id": "68",
+        "repo_id": "107",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/traccar/traccar/pull/4371"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "90",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/2591"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "98",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/1252"
+    },
+    {
+        "repo_name": "traccar/traccar",
+        "id": "91",
+        "repo_id": "107",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/traccar/traccar/pull/2552"
+    }
+]

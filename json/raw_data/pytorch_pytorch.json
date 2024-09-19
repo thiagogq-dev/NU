@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "pytorch/pytorch",
+        "id": "524",
+        "repo_id": "1965",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/pytorch/pytorch/pull/60368"
+    }
+]

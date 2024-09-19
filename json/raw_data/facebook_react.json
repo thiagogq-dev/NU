@@ -1,0 +1,44 @@
+[
+    {
+        "repo_name": "facebook/react",
+        "id": "2512",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/15784"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2519",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/14095"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2533",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/5999"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2544",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/3170"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2535",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/5707"
+    },
+    {
+        "repo_name": "facebook/react",
+        "id": "2547",
+        "repo_id": "94377",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react/pull/2799"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2562",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62767"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2571",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/37128"
+    },
+    {
+        "repo_name": "dotnet/runtime",
+        "id": "2563",
+        "repo_id": "15170",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/runtime/pull/62717"
+    }
+]

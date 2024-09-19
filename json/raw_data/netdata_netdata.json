@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1609",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/11006"
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1692",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/6163"
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1748",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/4147"
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1761",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/3447"
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1820",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/314"
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1749",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/3962"
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1796",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/1455"
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1823",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/132"
+    }
+]

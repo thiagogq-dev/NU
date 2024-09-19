@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "id": "471",
+        "repo_id": "2259",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jenkinsci/jenkins/pull/4399"
+    },
+    {
+        "repo_name": "jenkinsci/jenkins",
+        "id": "490",
+        "repo_id": "2259",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/jenkinsci/jenkins/pull/2753"
+    }
+]

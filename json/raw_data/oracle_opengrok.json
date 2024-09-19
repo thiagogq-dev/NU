@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "130",
+        "repo_id": "131",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/oracle/opengrok/pull/2548"
+    },
+    {
+        "repo_name": "oracle/opengrok",
+        "id": "163",
+        "repo_id": "131",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/oracle/opengrok/pull/1083"
+    }
+]

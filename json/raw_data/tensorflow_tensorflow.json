@@ -1,0 +1,65 @@
+[
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "359",
+        "repo_id": "1971",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/tensorflow/tensorflow/pull/42300"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "362",
+        "repo_id": "1971",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/tensorflow/tensorflow/pull/42141"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "367",
+        "repo_id": "1971",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/tensorflow/tensorflow/pull/41345"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "403",
+        "repo_id": "1971",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/tensorflow/tensorflow/pull/27569"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "415",
+        "repo_id": "1971",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/tensorflow/tensorflow/pull/25673"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "457",
+        "repo_id": "1971",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/tensorflow/tensorflow/pull/17606"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "474",
+        "repo_id": "1971",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/tensorflow/tensorflow/pull/15629"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "525",
+        "repo_id": "1971",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/tensorflow/tensorflow/pull/2697"
+    },
+    {
+        "repo_name": "tensorflow/tensorflow",
+        "id": "360",
+        "repo_id": "1971",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/tensorflow/tensorflow/pull/42299"
+    }
+]

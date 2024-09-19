@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "MovingBlocks/Terasology",
+        "id": "72",
+        "repo_id": "75",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/MovingBlocks/Terasology/pull/4052"
+    },
+    {
+        "repo_name": "MovingBlocks/Terasology",
+        "id": "185",
+        "repo_id": "75",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/MovingBlocks/Terasology/pull/1251"
+    },
+    {
+        "repo_name": "MovingBlocks/Terasology",
+        "id": "210",
+        "repo_id": "75",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/MovingBlocks/Terasology/pull/886"
+    }
+]

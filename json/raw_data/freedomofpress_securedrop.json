@@ -1,0 +1,107 @@
+[
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "250",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/5614"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "253",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/4536"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "255",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/3854"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "257",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/3355"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "259",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/3249"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "261",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/3191"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "265",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/2359"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "268",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/1429"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "249",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/5935"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "256",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/3497"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "260",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/3218"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "267",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/1795"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "251",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/5590"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "258",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/3343"
+    },
+    {
+        "repo_name": "freedomofpress/securedrop",
+        "id": "263",
+        "repo_id": "1176",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/freedomofpress/securedrop/pull/2992"
+    }
+]

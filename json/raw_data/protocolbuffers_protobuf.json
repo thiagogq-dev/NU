@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "protocolbuffers/protobuf",
+        "id": "340",
+        "repo_id": "1964",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/protocolbuffers/protobuf/pull/4226"
+    }
+]

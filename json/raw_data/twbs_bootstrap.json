@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2366",
+        "repo_id": "94378",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/twbs/bootstrap/pull/11018"
+    },
+    {
+        "repo_name": "twbs/bootstrap",
+        "id": "2383",
+        "repo_id": "94378",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/twbs/bootstrap/pull/4784"
+    }
+]

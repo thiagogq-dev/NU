@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "dotnet/aspnetcore",
+        "id": "1160",
+        "repo_id": "15321",
+        "terms_vulnerability": "cwe",
+        "url": "https://github.com/dotnet/aspnetcore/pull/22450"
+    },
+    {
+        "repo_name": "dotnet/aspnetcore",
+        "id": "1163",
+        "repo_id": "15321",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/aspnetcore/pull/21957"
+    },
+    {
+        "repo_name": "dotnet/aspnetcore",
+        "id": "1162",
+        "repo_id": "15321",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/dotnet/aspnetcore/pull/22235"
+    },
+    {
+        "repo_name": "dotnet/aspnetcore",
+        "id": "1169",
+        "repo_id": "15321",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/dotnet/aspnetcore/pull/20032"
+    }
+]

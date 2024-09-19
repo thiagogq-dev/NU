@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "microsoft/terminal",
+        "id": "497",
+        "repo_id": "1969",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/terminal/pull/8455"
+    },
+    {
+        "repo_name": "microsoft/terminal",
+        "id": "508",
+        "repo_id": "1969",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/microsoft/terminal/pull/2720"
+    }
+]

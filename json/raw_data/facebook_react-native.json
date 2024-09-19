@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2247",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/22763"
+    },
+    {
+        "repo_name": "facebook/react-native",
+        "id": "2251",
+        "repo_id": "94381",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/react-native/pull/21575"
+    }
+]

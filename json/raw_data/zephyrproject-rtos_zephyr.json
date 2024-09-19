@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "id": "604",
+        "repo_id": "2353",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/zephyrproject-rtos/zephyr/pull/33644"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "id": "632",
+        "repo_id": "2353",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/zephyrproject-rtos/zephyr/pull/30617"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "id": "619",
+        "repo_id": "2353",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/zephyrproject-rtos/zephyr/pull/32658"
+    },
+    {
+        "repo_name": "zephyrproject-rtos/zephyr",
+        "id": "538",
+        "repo_id": "2353",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/zephyrproject-rtos/zephyr/pull/39576"
+    }
+]

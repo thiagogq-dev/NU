@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "knowm/XChange",
+        "id": "121",
+        "repo_id": "113",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/knowm/XChange/pull/4105"
+    },
+    {
+        "repo_name": "knowm/XChange",
+        "id": "159",
+        "repo_id": "113",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/knowm/XChange/pull/3136"
+    }
+]

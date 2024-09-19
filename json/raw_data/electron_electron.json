@@ -1,0 +1,254 @@
+[
+    {
+        "repo_name": "electron/electron",
+        "id": "438",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/31357"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "460",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/29092"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "472",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/27678"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "482",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/25415"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "487",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/24926"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "493",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/23953"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "511",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/20678"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "527",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/17480"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "549",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/13555"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "557",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/12756"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "564",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/11963"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "566",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/11770"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "568",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/11380"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "571",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/10537"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "573",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/9242"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "576",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/8696"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "578",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/8348"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "580",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/7933"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "582",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/7665"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "585",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/7162"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "587",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/7096"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "591",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/5768"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "593",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/5580"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "595",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/5418"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "600",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/3120"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "605",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/1571"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "494",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/23945"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "569",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/11131"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "579",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/7947"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "586",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/7142"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "592",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/5584"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "599",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/3567"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "572",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/9348"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "588",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/6520"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "602",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/2376"
+    },
+    {
+        "repo_name": "electron/electron",
+        "id": "594",
+        "repo_id": "1970",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/electron/electron/pull/5508"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2267",
+        "repo_id": "94383",
+        "terms_vulnerability": "vulner",
+        "url": "https://github.com/facebook/create-react-app/pull/4866"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2290",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/2288"
+    },
+    {
+        "repo_name": "facebook/create-react-app",
+        "id": "2299",
+        "repo_id": "94383",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/facebook/create-react-app/pull/1176"
+    }
+]

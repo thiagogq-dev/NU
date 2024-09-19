@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "apple/swift",
+        "id": "601",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/33823"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "755",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/27015"
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "643",
+        "repo_id": "1966",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apple/swift/pull/30135"
+    }
+]

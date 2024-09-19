@@ -1,0 +1,9 @@
+[
+    {
+        "repo_name": "apache/airflow",
+        "id": "2159",
+        "repo_id": "93996",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/airflow/pull/4074"
+    }
+]

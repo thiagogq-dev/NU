@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "89",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/1041"
+    },
+    {
+        "repo_name": "spring-cloud/spring-cloud-gateway",
+        "id": "76",
+        "repo_id": "90",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/spring-cloud/spring-cloud-gateway/pull/2234"
+    }
+]

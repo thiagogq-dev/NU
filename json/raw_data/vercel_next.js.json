@@ -1,0 +1,51 @@
+[
+    {
+        "repo_name": "vercel/next.js",
+        "id": "2257",
+        "repo_id": "94387",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/vercel/next.js/pull/25833"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "id": "2279",
+        "repo_id": "94387",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/vercel/next.js/pull/21384"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "id": "2333",
+        "repo_id": "94387",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/vercel/next.js/pull/13253"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "id": "2342",
+        "repo_id": "94387",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/vercel/next.js/pull/10973"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "id": "2411",
+        "repo_id": "94387",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/vercel/next.js/pull/2161"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "id": "2270",
+        "repo_id": "94387",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/vercel/next.js/pull/23021"
+    },
+    {
+        "repo_name": "vercel/next.js",
+        "id": "2300",
+        "repo_id": "94387",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/vercel/next.js/pull/18597"
+    }
+]

@@ -1,0 +1,16 @@
+[
+    {
+        "repo_name": "line/armeria",
+        "id": "111",
+        "repo_id": "119",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/line/armeria/pull/3002"
+    },
+    {
+        "repo_name": "line/armeria",
+        "id": "146",
+        "repo_id": "119",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/line/armeria/pull/2303"
+    }
+]
