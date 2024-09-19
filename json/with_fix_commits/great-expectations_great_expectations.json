@@ -4,6 +4,7 @@
         "id": "2028",
         "repo_id": "18111",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/great-expectations/great_expectations/pull/3204"
+        "url": "https://github.com/great-expectations/great_expectations/pull/3204",
+        "fix_commit_hash": "8bb0f8c21cdbb1af66ddc64f7512a8f7550256c7"
     }
 ]
