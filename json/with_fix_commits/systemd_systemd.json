@@ -4,6 +4,7 @@
         "id": "1051",
         "repo_id": "15279",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/systemd/systemd/pull/17414"
+        "url": "https://github.com/systemd/systemd/pull/17414",
+        "fix_commit_hash": "e1e8c60af73fa2c61539c9e201a1db623be55b69"
     }
 ]
