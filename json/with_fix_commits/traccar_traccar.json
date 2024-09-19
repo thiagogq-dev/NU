@@ -4,27 +4,31 @@
         "id": "68",
         "repo_id": "107",
         "terms_vulnerability": "cve",
-        "url": "https://github.com/traccar/traccar/pull/4371"
+        "url": "https://github.com/traccar/traccar/pull/4371",
+        "fix_commit_hash": "1417443c6023f71a16d7b17549e2601c8cd05c2d"
     },
     {
         "repo_name": "traccar/traccar",
         "id": "90",
         "repo_id": "107",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/traccar/traccar/pull/2591"
+        "url": "https://github.com/traccar/traccar/pull/2591",
+        "fix_commit_hash": "5f867c6077f79a2a1d3b8ec18f78c3a2657ba698"
     },
     {
         "repo_name": "traccar/traccar",
         "id": "98",
         "repo_id": "107",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/traccar/traccar/pull/1252"
+        "url": "https://github.com/traccar/traccar/pull/1252",
+        "fix_commit_hash": "771e2d7c4ceb34c0b62852130061b04640b8ee71"
     },
     {
         "repo_name": "traccar/traccar",
         "id": "91",
         "repo_id": "107",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/traccar/traccar/pull/2552"
+        "url": "https://github.com/traccar/traccar/pull/2552",
+        "fix_commit_hash": "b0aa4698e95658f57ec2d3e0ed4f3fe0db8500a2"
     }
 ]
