@@ -4,6 +4,7 @@
         "id": "322",
         "repo_id": "1967",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/opencv/opencv/pull/19022"
+        "url": "https://github.com/opencv/opencv/pull/19022",
+        "fix_commit_hash": "a9f4f8ded43cad85cb5aa2334dc2c78baf9a93b5"
     }
 ]
