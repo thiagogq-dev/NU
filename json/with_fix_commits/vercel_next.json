@@ -4,48 +4,55 @@
         "id": "2257",
         "repo_id": "94387",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/vercel/next.js/pull/25833"
+        "url": "https://github.com/vercel/next.js/pull/25833",
+        "fix_commit_hash": "ffaa4813b6c5ca37509aa8f4c83b43acdc7b8f5f"
     },
     {
         "repo_name": "vercel/next.js",
         "id": "2279",
         "repo_id": "94387",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/vercel/next.js/pull/21384"
+        "url": "https://github.com/vercel/next.js/pull/21384",
+        "fix_commit_hash": "f6e2b06cdf70094b0a9bcb6ec00a003cb74a860c"
     },
     {
         "repo_name": "vercel/next.js",
         "id": "2333",
         "repo_id": "94387",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/vercel/next.js/pull/13253"
+        "url": "https://github.com/vercel/next.js/pull/13253",
+        "fix_commit_hash": "94e20be20439ebd3c174674e2563b7562e3d7979"
     },
     {
         "repo_name": "vercel/next.js",
         "id": "2342",
         "repo_id": "94387",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/vercel/next.js/pull/10973"
+        "url": "https://github.com/vercel/next.js/pull/10973",
+        "fix_commit_hash": "009369a9aa6a93902688219a1571547cad18c948"
     },
     {
         "repo_name": "vercel/next.js",
         "id": "2411",
         "repo_id": "94387",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/vercel/next.js/pull/2161"
+        "url": "https://github.com/vercel/next.js/pull/2161",
+        "fix_commit_hash": "4a0278b5c0242fbed808ab4e9ceb15066b6a445a"
     },
     {
         "repo_name": "vercel/next.js",
         "id": "2270",
         "repo_id": "94387",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/vercel/next.js/pull/23021"
+        "url": "https://github.com/vercel/next.js/pull/23021",
+        "fix_commit_hash": "c1b2b3f91fd8b858e76353a631c7890a95db6875"
     },
     {
         "repo_name": "vercel/next.js",
         "id": "2300",
         "repo_id": "94387",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/vercel/next.js/pull/18597"
+        "url": "https://github.com/vercel/next.js/pull/18597",
+        "fix_commit_hash": "266c7ed74c52cfe73c304a1adac7b986f4b723a5"
     }
 ]
