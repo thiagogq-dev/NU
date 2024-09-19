@@ -4,13 +4,15 @@
         "id": "236",
         "repo_id": "875",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/minetest/minetest/pull/9943"
+        "url": "https://github.com/minetest/minetest/pull/9943",
+        "fix_commit_hash": "0f1f8e4a0fed72f0f2223448f34406eeb26f9b7b"
     },
     {
         "repo_name": "minetest/minetest",
         "id": "233",
         "repo_id": "875",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/minetest/minetest/pull/11133"
+        "url": "https://github.com/minetest/minetest/pull/11133",
+        "fix_commit_hash": "623f0a8613bd8677e259366a1d540deedb9d2302"
     }
 ]
