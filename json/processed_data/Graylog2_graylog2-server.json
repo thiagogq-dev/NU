@@ -1,0 +1,1 @@
+[{"repo_name": "Graylog2/graylog2-server", "id": "252", "repo_id": "985", "terms_vulnerability": "secur", "url": "https://github.com/Graylog2/graylog2-server/pull/4561", "fix_commit_hash": "c8b4a58b3c0feb8cca88f60154b76085facaa047", "inducing_commit_hash_pyszz": []}]
