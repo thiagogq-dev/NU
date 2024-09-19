@@ -4,6 +4,7 @@
         "id": "160",
         "repo_id": "158",
         "terms_vulnerability": "secur",
-        "url": "https://github.com/Atmosphere/atmosphere/pull/1182"
+        "url": "https://github.com/Atmosphere/atmosphere/pull/1182",
+        "fix_commit_hash": "b57af1b0e3b7dd349ca35eb54afbc1f97cd1c7c6"
     }
 ]
