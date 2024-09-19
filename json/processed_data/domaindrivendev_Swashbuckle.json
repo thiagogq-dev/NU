@@ -1,0 +1,1 @@
+[{"repo_name": "domaindrivendev/Swashbuckle.AspNetCore", "id": "354", "repo_id": "2051", "terms_vulnerability": "secur", "url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore/pull/1620", "fix_commit_hash": "4e7518b8d37d3fe024f6011c0bfbe8172ecd42bc", "inducing_commit_hash_pyszz": []}]
