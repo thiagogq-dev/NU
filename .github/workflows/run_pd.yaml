@@ -58,13 +58,13 @@ jobs:
     # - name: Remove JSON
     #   run: |
     #     git rm ${{ matrix.file }}
-    #     git add json/final_processed/*.json
+        # git add json/processed_data/*.json
 
     - name: Commit and push
       run: |
         git config --global user.email "thiagogquinto.dev@gmail.com"
         git config --global user.name "Thiago Quinto"
         git pull 
-        git add json/processed_data/*.json
+        git add json/final_processed/*.json
         git commit -m "Add bics by PyDriller"
         git push
