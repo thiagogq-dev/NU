@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "hwchase17/langchain",
+        "CVE_ID": "CVE-2023-36188",
+        "Problem_Type": "CWE-74",
+        "Description": "An issue in langchain v.0.0.64 allows a remote attacker to execute arbitrary code via the PALChain parameter in the Python exec method.",
+        "URL": "https://github.com/hwchase17/langchain/pull/6003",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "e294ba475a355feb95003ed8f1a2b99942509a9e"
+    },
+    {
+        "repo_name": "hwchase17/langchain",
+        "CVE_ID": "CVE-2023-38896",
+        "Problem_Type": "CWE-74",
+        "Description": "An issue in Harrison Chase langchain v.0.0.194 and before allows a remote attacker to execute arbitrary code via the from_math_prompt and from_colored_object_prompt functions.",
+        "URL": "https://github.com/hwchase17/langchain/pull/6003",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "e294ba475a355feb95003ed8f1a2b99942509a9e"
+    }
+]

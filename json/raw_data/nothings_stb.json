@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "nothings/stb",
+        "CVE_ID": "CVE-2023-43898",
+        "Problem_Type": "CWE-476",
+        "Description": "Nothings stb 2.28 was discovered to contain a Null Pointer Dereference via the function stbi__convert_format. This vulnerability allows attackers to cause a Denial of Service (DoS) via a crafted pic file.",
+        "URL": "https://github.com/nothings/stb/pull/1454",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": null
+    }
+]

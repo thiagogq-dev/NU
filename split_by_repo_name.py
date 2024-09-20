@@ -3,7 +3,7 @@ import os
 from collections import defaultdict
 
 # Carregar os dados do JSON
-with open('./hugo-selected-NONSECUR.json', 'r') as file:
+with open('./json/later/nvd/data_not_found.json', 'r') as file:
     data = json.load(file)
 
 # Agrupar os dados pelo campo 'repo_name'
