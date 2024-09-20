@@ -1,0 +1,134 @@
+[
+    {
+        "repo_name": "godotengine/godot",
+        "id": "334",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/53063",
+        "fix_commit_hash": "bb60c97d1061add29b5c30713fd7baf76d171877",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "343",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/51107",
+        "fix_commit_hash": "c6879b150f6094d3836a86b0182d017f8cb8d3d1",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "371",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/47974",
+        "fix_commit_hash": "6bcf98f8c0b6c63a7e899c88a8056b1c8abef97e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "374",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/47499",
+        "fix_commit_hash": "c2d0c52d34cde269c44a16942ce31880f89ece0e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "423",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/36492",
+        "fix_commit_hash": "4b6c0560da066135aae9d6512f94770b6db99724",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "432",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/34539",
+        "fix_commit_hash": "8523030e55ade890466db6873b6929711b98e0f8",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "544",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/12252",
+        "fix_commit_hash": "5bc44fe000397c4f44ae01741eec50c3ef9e9d35",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "596",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/5250",
+        "fix_commit_hash": "ebbd705b63d44d6f25949f6fda9bacf8d974c8bd",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "335",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/53062",
+        "fix_commit_hash": "1979266a17df5b19ac5cb1b63d80e0428bfd7756",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "348",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/50737",
+        "fix_commit_hash": "52d7f4bfe09f9dee289ddc025ed46dffe6954793",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "570",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/9468",
+        "fix_commit_hash": "5c1995ef495d662f7197ab45d01bf0e816e4cf12",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "godotengine/godot",
+        "id": "597",
+        "repo_id": "1963",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/godotengine/godot/pull/5007",
+        "fix_commit_hash": "47944098c2fbebc62fde33d4a86e6a923cb547e9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

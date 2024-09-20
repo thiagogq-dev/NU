@@ -1,0 +1,35 @@
+[
+    {
+        "repo_name": "runelite/runelite",
+        "id": "169",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/12333",
+        "fix_commit_hash": "a450df01b6a682bc9dea935b24d534678c045d3b",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "181",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/11659",
+        "fix_commit_hash": "88ec4a81c5305c9c66b4b0d5ed1d0f54f0990056",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "runelite/runelite",
+        "id": "190",
+        "repo_id": "133",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/runelite/runelite/pull/11076",
+        "fix_commit_hash": "beecf98d9c336b37c0dd0b00795463a659339af9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "repo_name": "protocolbuffers/protobuf",
+        "id": "340",
+        "repo_id": "1964",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/protocolbuffers/protobuf/pull/4226",
+        "fix_commit_hash": "94f3be06ba78bd22e58f84f7a8a7ee807a88c3c8",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

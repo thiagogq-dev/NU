@@ -1,0 +1,57 @@
+[
+    {
+        "repo_name": "google/data-transfer-project",
+        "id": "48",
+        "repo_id": "86",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/google/data-transfer-project/pull/608",
+        "fix_commit_hash": "e56c28dc06a2ea6ae1e07e50c41bfa0cd77121a5",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "google/data-transfer-project",
+        "id": "50",
+        "repo_id": "86",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/google/data-transfer-project/pull/566",
+        "fix_commit_hash": "d7e132ab5525a581b5a667c6bd136bcf507c7c91",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "google/data-transfer-project",
+        "id": "59",
+        "repo_id": "86",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/google/data-transfer-project/pull/282",
+        "fix_commit_hash": "ddef7ac6892925872e234a6f02e72840840d8dc4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "google/data-transfer-project",
+        "id": "66",
+        "repo_id": "86",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/google/data-transfer-project/pull/16",
+        "fix_commit_hash": "d1ec93ef318ce5871b82bc307a562216b0ef3ee0",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "google/data-transfer-project",
+        "id": "55",
+        "repo_id": "86",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/google/data-transfer-project/pull/517",
+        "fix_commit_hash": "cec5a7bd37049c81a44d9177753cd2420f927367",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "repo_name": "atom/atom",
+        "id": "2435",
+        "repo_id": "94399",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/atom/atom/pull/16221",
+        "fix_commit_hash": "bec91a1d01e15737763f55c8a207ebe17ac18b2f",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "atom/atom",
+        "id": "2440",
+        "repo_id": "94399",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/atom/atom/pull/14761",
+        "fix_commit_hash": "df7f72a3b75ef486e08c8e6fe17da766c5095418",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "atom/atom",
+        "id": "2458",
+        "repo_id": "94399",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/atom/atom/pull/1702",
+        "fix_commit_hash": "d0fcd573bd29cbacb395539c76e8ad2c10288e73",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "atom/atom",
+        "id": "2433",
+        "repo_id": "94399",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/atom/atom/pull/17770",
+        "fix_commit_hash": "6def4aa4651ffdba549cd6096ff91688a7cee0d2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "atom/atom",
+        "id": "2442",
+        "repo_id": "94399",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/atom/atom/pull/12565",
+        "fix_commit_hash": "fa6bb226ce32973beb70361e7c604799345bb989",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "atom/atom",
+        "id": "2462",
+        "repo_id": "94399",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/atom/atom/pull/869",
+        "fix_commit_hash": "f4f1c540161c617cd7b42a4e246f3bd0ce190dc2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "atom/atom",
+        "id": "2437",
+        "repo_id": "94399",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/atom/atom/pull/16190",
+        "fix_commit_hash": "192cde85a4aca2bbf372433d53ea278fa04ca0f9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

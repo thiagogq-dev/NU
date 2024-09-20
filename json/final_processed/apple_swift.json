@@ -1,0 +1,35 @@
+[
+    {
+        "repo_name": "apple/swift",
+        "id": "601",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/33823",
+        "fix_commit_hash": "ea5604e94d8cf9906c2631efd8cae2300a53fe69",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "755",
+        "repo_id": "1966",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apple/swift/pull/27015",
+        "fix_commit_hash": "3d28333b9574fd970ab7cec081ea2782bb772bf9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "apple/swift",
+        "id": "643",
+        "repo_id": "1966",
+        "terms_vulnerability": "cve",
+        "url": "https://github.com/apple/swift/pull/30135",
+        "fix_commit_hash": "ef149d5c86234d9a530148ea5580cc8c19bbfb60",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
