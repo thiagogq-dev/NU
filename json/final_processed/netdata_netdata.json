@@ -1,0 +1,90 @@
+[
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1609",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/11006",
+        "fix_commit_hash": "ddc36cc36fe14c1078d7ed12f66fa5b6b3be8f08",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1692",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/6163",
+        "fix_commit_hash": "a40eae5c8938c26c53507ff6c23e2eeca7e055c9",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1748",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/4147",
+        "fix_commit_hash": "76809291b48336bcf2182ea75fc3c31bef6dda0c",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1761",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/3447",
+        "fix_commit_hash": "cf6350ba18a27fe2fc997e553b7aaaaa31c3fb38",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1820",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/314",
+        "fix_commit_hash": "eee1024542be2469225af816f84848af12ddf85a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1749",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/3962",
+        "fix_commit_hash": "13a33867b26919421334e2d5e04218ec8734acec",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1796",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/1455",
+        "fix_commit_hash": "61e3365c4ddd35a4e64146a1d490699f3ac605b2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "netdata/netdata",
+        "id": "1823",
+        "repo_id": "17904",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/netdata/netdata/pull/132",
+        "fix_commit_hash": "e4506e87f913284acc0a01033b26f53d7145e639",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
