@@ -1,0 +1,13 @@
+[
+    {
+        "repo_name": "apache/airflow",
+        "id": "2159",
+        "repo_id": "93996",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/apache/airflow/pull/4074",
+        "fix_commit_hash": "fdda0240c3f7e9542e817a574869d5b65d22cba2",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]
