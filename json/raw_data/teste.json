@@ -1,0 +1,11 @@
+[
+    {
+        "repo_name": "flipped-aurora/gin-vue-admin",
+        "CVE_ID": "CVE-2021-44219",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Gin-Vue-Admin before 2.4.6 mishandles a SQL database.",
+        "URL": "https://github.com/flipped-aurora/gin-vue-admin/pull/811",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "da644038291a7b9fa36955db9b9d84217d75596d"
+    }
+]
