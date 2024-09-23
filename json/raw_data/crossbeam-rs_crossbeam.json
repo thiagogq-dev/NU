@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "crossbeam-rs/crossbeam",
+        "CVE_ID": "CVE-2020-15254",
+        "Problem_Type": "CWE-401",
+        "Description": "Crossbeam is a set of tools for concurrent programming. In crossbeam-channel before version 0.4.4, the bounded channel incorrectly assumes that `Vec::from_iter` has allocated capacity that same as the number of iterator elements. `Vec::from_iter` does not actually guarantee that and may allocate extra memory. The destructor of the `bounded` channel reconstructs `Vec` from the raw pointer based on the incorrect assumes described above. This is unsound and causing deallocation with the incorrect capacity when `Vec::from_iter` has allocated different sizes with the number of iterator elements. This has been fixed in crossbeam-channel 0.4.4.",
+        "URL": "https://github.com/crossbeam-rs/crossbeam/pull/533",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "crossbeam-rs/crossbeam",
+        "CVE_ID": "CVE-2022-23639",
+        "Problem_Type": "CWE-362",
+        "Description": "crossbeam-utils provides atomics, synchronization primitives, scoped threads, and other utilities for concurrent programming in Rust. crossbeam-utils prior to version 0.8.7 incorrectly assumed that the alignment of `{i,u}64` was always the same as `Atomic{I,U}64`. However, the alignment of `{i,u}64` on a 32-bit target can be smaller than `Atomic{I,U}64`. This can cause unaligned memory accesses and data race. Crates using `fetch_*` methods with `AtomicCell<{i,u}64>` are affected by this issue. 32-bit targets without `Atomic{I,U}64` and 64-bit targets are not affected by this issue. This has been fixed in crossbeam-utils 0.8.7. There are currently no known workarounds.",
+        "URL": "https://github.com/crossbeam-rs/crossbeam/pull/781",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

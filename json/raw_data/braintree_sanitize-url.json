@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "braintree/sanitize-url",
+        "CVE_ID": "CVE-2021-23648",
+        "Problem_Type": "CWE-79",
+        "Description": "The package @braintree/sanitize-url before 6.0.0 are vulnerable to Cross-site Scripting (XSS) due to improper sanitization in sanitizeUrl function.",
+        "URL": "https://github.com/braintree/sanitize-url/pull/40",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "braintree/sanitize-url",
+        "CVE_ID": "CVE-2021-23648",
+        "Problem_Type": "CWE-79",
+        "Description": "The package @braintree/sanitize-url before 6.0.0 are vulnerable to Cross-site Scripting (XSS) due to improper sanitization in sanitizeUrl function.",
+        "URL": "https://github.com/braintree/sanitize-url/pull/40/commits/e5afda45d9833682b705f73fc2c1265d34832183",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

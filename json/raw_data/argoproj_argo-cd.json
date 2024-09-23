@@ -1,0 +1,50 @@
+[
+    {
+        "repo_name": "argoproj/argo-cd",
+        "CVE_ID": "CVE-2018-21034",
+        "Problem_Type": "CWE-200",
+        "Description": "In Argo versions prior to v1.5.0-rc1, it was possible for authenticated Argo users to submit API calls to retrieve secrets and other manifests which were stored within git.",
+        "URL": "https://github.com/argoproj/argo-cd/pull/3088",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "argoproj/argo-cd",
+        "CVE_ID": "CVE-2020-11576",
+        "Problem_Type": "CWE-203",
+        "Description": "Fixed in v1.5.1, Argo version v1.5.0 was vulnerable to a user-enumeration vulnerability which allowed attackers to determine the usernames of valid (non-SSO) accounts because /api/v1/session returned 401 for an existing username and 404 otherwise.",
+        "URL": "https://github.com/argoproj/argo-cd/pull/3215",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "argoproj/argo-cd",
+        "CVE_ID": "CVE-2021-23347",
+        "Problem_Type": "CWE-79",
+        "Description": "The package github.com/argoproj/argo-cd/cmd before 1.7.13, from 1.8.0 and before 1.8.6 are vulnerable to Cross-site Scripting (XSS) the SSO provider connected to Argo CD would have to send back a malicious error message containing JavaScript to the user.",
+        "URL": "https://github.com/argoproj/argo-cd/pull/5563",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "argoproj/argo-cd",
+        "CVE_ID": "CVE-2023-25163",
+        "Problem_Type": "CWE-532",
+        "Description": "Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. All versions of Argo CD starting with v2.6.0-rc1 have an output sanitization bug which leaks repository access credentials in error messages. These error messages are visible to the user, and they are logged. The error message is visible when a user attempts to create or update an Application via the Argo CD API (and therefor the UI or CLI). The user must have `applications, create` or `applications, update` RBAC access to reach the code which may produce the error. The user is not guaranteed to be able to trigger the error message. They may attempt to spam the API with requests to trigger a rate limit error from the upstream repository. If the user has `repositories, update` access, they may edit an existing repository to introduce a URL typo or otherwise force an error message. But if they have that level of access, they are probably intended to have access to the credentials anyway. A patch for this vulnerability has been released in version 2.6.1. Users are advised to upgrade. There are no known workarounds for this vulnerability.",
+        "URL": "https://github.com/argoproj/argo-cd/pull/12320",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "argoproj/argo-cd",
+        "CVE_ID": "CVE-2023-40029",
+        "Problem_Type": "CWE-532",
+        "Description": "Argo CD is a declarative continuous deployment for Kubernetes. Argo CD Cluster secrets might be managed declaratively using Argo CD / kubectl apply. As a result, the full secret body is stored in`kubectl.kubernetes.io/last-applied-configuration` annotation. pull request #7139 introduced the ability to manage cluster labels and annotations. Since clusters are stored as secrets it also exposes the `kubectl.kubernetes.io/last-applied-configuration` annotation which includes full secret body. In order to view the cluster annotations via the Argo CD API, the user must have `clusters, get` RBAC access. **Note:** In many cases, cluster secrets do not contain any actually-secret information. But sometimes, as in bearer-token auth, the contents might be very sensitive. The bug has been patched in versions 2.8.3, 2.7.14, and 2.6.15. Users are advised to upgrade. Users unable to upgrade should update/deploy cluster secret with `server-side-apply` flag which does not use or rely on `kubectl.kubernetes.io/last-applied-configuration` annotation. Note: annotation for existing secrets will require manual removal.\n\n",
+        "URL": "https://github.com/argoproj/argo-cd/pull/7139",
+        "Tag": "['Patch', 'Vendor Advisory']"
+    },
+    {
+        "repo_name": "argoproj/argo-cd",
+        "CVE_ID": "CVE-2024-22424",
+        "Problem_Type": "CWE-352",
+        "Description": "Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. The Argo CD API prior to versions 2.10-rc2, 2.9.4, 2.8.8, and 2.7.15 are vulnerable to a cross-server request forgery (CSRF) attack when the attacker has the ability to write HTML to a page on the same parent domain as Argo CD. A CSRF attack works by tricking an authenticated Argo CD user into loading a web page which contains code to call Argo CD API endpoints on the victim\u00c2\u2019s behalf. For example, an attacker could send an Argo CD user a link to a page which looks harmless but in the background calls an Argo CD API endpoint to create an application running malicious code. Argo CD uses the \u00c2\u201cLax\u00c2\u201d SameSite cookie policy to prevent CSRF attacks where the attacker controls an external domain. The malicious external website can attempt to call the Argo CD API, but the web browser will refuse to send the Argo CD auth token with the request. Many companies host Argo CD on an internal subdomain. If an attacker can place malicious code on, for example, https://test.internal.example.com/, they can still perform a CSRF attack. In this case, the \u00c2\u201cLax\u00c2\u201d SameSite cookie does not prevent the browser from sending the auth cookie, because the destination is a parent domain of the Argo CD API. Browsers generally block such attacks by applying CORS policies to sensitive requests with sensitive content types. Specifically, browsers will send a \u00c2\u201cpreflight request\u00c2\u201d for POSTs with content type \u00c2\u201capplication/json\u00c2\u201d asking the destination API \u00c2\u201care you allowed to accept requests from my domain?\u00c2\u201d If the destination API does not answer \u00c2\u201cyes,\u00c2\u201d the browser will block the request. Before the patched versions, Argo CD did not validate that requests contained the correct content type header. So an attacker could bypass the browser\u00c2\u2019s CORS check by setting the content type to something which is considered \u00c2\u201cnot sensitive\u00c2\u201d such as \u00c2\u201ctext/plain.\u00c2\u201d The browser wouldn\u00c2\u2019t send the preflight request, and Argo CD would happily accept the contents (which are actually still JSON) and perform the requested action (such as running malicious code). A patch for this vulnerability has been released in the following Argo CD versions: 2.10-rc2, 2.9.4, 2.8.8, and 2.7.15. The patch contains a breaking API change. The Argo CD API will no longer accept non-GET requests which do not specify application/json as their Content-Type. The accepted content types list is configurable, and it is possible (but discouraged) to disable the content type check completely. Users are advised to upgrade. There are no known workarounds for this vulnerability.",
+        "URL": "https://github.com/argoproj/argo-cd/pull/16860",
+        "Tag": "['Patch']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "caolan/async",
+        "CVE_ID": "CVE-2021-43138",
+        "Problem_Type": "CWE-1321",
+        "Description": "In Async before 2.6.4 and 3.x before 3.2.2, a malicious user can obtain privileges via the mapValues() method, aka lib/internal/iterator.js createObjectIterator prototype pollution.",
+        "URL": "https://github.com/caolan/async/pull/1828",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

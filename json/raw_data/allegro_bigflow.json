@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "allegro/bigflow",
+        "CVE_ID": "CVE-2023-25392",
+        "Problem_Type": "CWE-295",
+        "Description": "Allegro Tech BigFlow <1.6 is vulnerable to Missing SSL Certificate Validation.",
+        "URL": "https://github.com/allegro/bigflow/pull/357",
+        "Tag": "['Patch']"
+    }
+]

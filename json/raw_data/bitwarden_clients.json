@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "bitwarden/clients",
+        "CVE_ID": "CVE-2023-38840",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Bitwarden Desktop 2023.7.0 and below allows an attacker with local access to obtain sensitive information via the Bitwarden.exe process.",
+        "URL": "https://github.com/bitwarden/clients/pull/5813",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "angelozerr/lsp4xml",
+        "CVE_ID": "CVE-2019-18212",
+        "Problem_Type": "CWE-22",
+        "Description": "XMLLanguageService.java in XML Language Server (aka lsp4xml) before 0.9.1, as used in Red Hat XML Language Support (aka vscode-xml) before 0.9.1 for Visual Studio and other products, allows a remote attacker to write to arbitrary files via Directory Traversal.",
+        "URL": "https://github.com/angelozerr/lsp4xml/pull/567",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "angelozerr/lsp4xml",
+        "CVE_ID": "CVE-2019-18213",
+        "Problem_Type": "CWE-611",
+        "Description": "XML Language Server (aka lsp4xml) before 0.9.1, as used in Red Hat XML Language Support (aka vscode-xml) before 0.9.1 for Visual Studio and other products, allows XXE via a crafted XML document, with resultant SSRF (as well as SMB connection initiation that can lead to NetNTLM challenge/response capture for password cracking). This occurs in extensions/contentmodel/participants/diagnostics/LSPXMLParserConfiguration.java.",
+        "URL": "https://github.com/angelozerr/lsp4xml/pull/566",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

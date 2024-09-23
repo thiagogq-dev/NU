@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "apache/incubator-nuttx",
+        "CVE_ID": "CVE-2021-34125",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "An issue discovered in Yuneec Mantis Q and PX4-Autopilot v 1.11.3 and below allow attacker to gain access to sensitive information via various nuttx commands.",
+        "URL": "https://github.com/apache/incubator-nuttx/pull/3292/commits/016873788280ca815ba886195535bbe601de6e48",
+        "Tag": "['Patch']"
+    }
+]

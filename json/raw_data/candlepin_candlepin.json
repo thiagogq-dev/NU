@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "candlepin/candlepin",
+        "CVE_ID": "CVE-2021-4142",
+        "Problem_Type": "CWE-639",
+        "Description": "The Candlepin component of Red Hat Satellite was affected by an improper authentication flaw. Few factors could allow an attacker to use the SCA (simple content access) certificate for authentication with Candlepin.",
+        "URL": "https://github.com/candlepin/candlepin/pull/3199",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "candlepin/candlepin",
+        "CVE_ID": "CVE-2021-4142",
+        "Problem_Type": "CWE-639",
+        "Description": "The Candlepin component of Red Hat Satellite was affected by an improper authentication flaw. Few factors could allow an attacker to use the SCA (simple content access) certificate for authentication with Candlepin.",
+        "URL": "https://github.com/candlepin/candlepin/pull/3197",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

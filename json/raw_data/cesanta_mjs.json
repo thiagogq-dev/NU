@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "cesanta/mjs",
+        "CVE_ID": "CVE-2023-50044",
+        "Problem_Type": "CWE-120",
+        "Description": "Cesanta MJS 2.20.0 has a getprop_builtin_foreign out-of-bounds read if a Built-in API name occurs in a substring of an input string.",
+        "URL": "https://github.com/cesanta/mjs/pull/255",
+        "Tag": "['Patch']"
+    }
+]

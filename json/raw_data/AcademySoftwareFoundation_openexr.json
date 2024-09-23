@@ -1,0 +1,58 @@
+[
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "CVE_ID": "CVE-2020-15306",
+        "Problem_Type": "CWE-787",
+        "Description": "An issue was discovered in OpenEXR before v2.5.2. Invalid chunkCount attributes could cause a heap buffer overflow in getChunkOffsetTableSize() in IlmImf/ImfMisc.cpp.",
+        "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/738",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "CVE_ID": "CVE-2021-20298",
+        "Problem_Type": "CWE-787",
+        "Description": "A flaw was found in OpenEXR's B44Compressor. This flaw allows an attacker who can submit a crafted file to be processed by OpenEXR, to exhaust all memory accessible to the application. The highest threat from this vulnerability is to system availability.",
+        "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/843",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "CVE_ID": "CVE-2021-20300",
+        "Problem_Type": "CWE-190",
+        "Description": "A flaw was found in OpenEXR's hufUncompress functionality in OpenEXR/IlmImf/ImfHuf.cpp. This flaw allows an attacker who can submit a crafted file that is processed by OpenEXR, to trigger an integer overflow. The highest threat from this vulnerability is to system availability.",
+        "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/836",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "CVE_ID": "CVE-2021-20302",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "A flaw was found in OpenEXR's TiledInputFile functionality. This flaw allows an attacker who can submit a crafted single-part non-image to be processed by OpenEXR, to trigger a floating-point exception error. The highest threat from this vulnerability is to system availability.",
+        "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/842",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "CVE_ID": "CVE-2021-20303",
+        "Problem_Type": "CWE-190",
+        "Description": "A flaw found in function dataWindowForTile() of IlmImf/ImfTiledMisc.cpp. An attacker who is able to submit a crafted file to be processed by OpenEXR could trigger an integer overflow, leading to an out-of-bounds write on the heap. The greatest impact of this flaw is to application availability, with some potential impact to data integrity as well.",
+        "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/831",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "CVE_ID": "CVE-2021-20304",
+        "Problem_Type": "CWE-190",
+        "Description": "A flaw was found in OpenEXR's hufDecode functionality. This flaw allows an attacker who can pass a crafted file to be processed by OpenEXR, to trigger an undefined right shift error. The highest threat from this vulnerability is to system availability.",
+        "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/849",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "AcademySoftwareFoundation/openexr",
+        "CVE_ID": "CVE-2021-45942",
+        "Problem_Type": "CWE-787",
+        "Description": "OpenEXR 3.1.x before 3.1.4 has a heap-based buffer overflow in Imf_3_1::LineCompositeTask::execute (called from IlmThread_3_1::NullThreadPoolProvider::addTask and IlmThread_3_1::ThreadPool::addGlobalTask). NOTE: db217f2 may be inapplicable.",
+        "URL": "https://github.com/AcademySoftwareFoundation/openexr/pull/1209",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

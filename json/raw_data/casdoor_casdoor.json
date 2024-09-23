@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "casdoor/casdoor",
+        "CVE_ID": "CVE-2022-24124",
+        "Problem_Type": "CWE-89",
+        "Description": "The query API in Casdoor before 1.13.1 has a SQL injection vulnerability related to the field and value parameters, as demonstrated by api/get-organizations.",
+        "URL": "https://github.com/casdoor/casdoor/pull/442",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

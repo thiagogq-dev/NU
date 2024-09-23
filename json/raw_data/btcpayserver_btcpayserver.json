@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0493",
+        "Problem_Type": "CWE-74",
+        "Description": "Improper Neutralization of Equivalent Special Elements in GitHub repository btcpayserver/btcpayserver prior to 1.7.5.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4545/commits/02070d65836cd24627929b3403efbae8de56039a",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0747",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4567/commits/d4e464ad4ef0cbbf61751e70f77865de325dd6cf",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0748",
+        "Problem_Type": "CWE-601",
+        "Description": "Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4575/commits/c2cfa17e9619046b43987627b8429541d2834109",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "btcpayserver/btcpayserver",
+        "CVE_ID": "CVE-2023-0879",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.12.\n\n",
+        "URL": "https://github.com/btcpayserver/btcpayserver/pull/4635/commits/f2f3b245c4d8980d8e54e4708c796df82332c3d7",
+        "Tag": "['Patch']"
+    }
+]

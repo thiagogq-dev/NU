@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "apptainer/apptainer",
+        "CVE_ID": "CVE-2023-38496",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Apptainer is an open source container platform. Version 1.2.0-rc.2 introduced an ineffective privilege drop when requesting container network setup, therefore subsequent functions are called with root privileges, the attack surface is rather limited for users but an attacker could possibly craft a starter config to delete any directory on the host filesystems. A security fix has been included in Apptainer 1.2.1. There is no known workaround outside of upgrading to Apptainer 1.2.1.",
+        "URL": "https://github.com/apptainer/apptainer/pull/1523",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "apptainer/apptainer",
+        "CVE_ID": "CVE-2023-38496",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Apptainer is an open source container platform. Version 1.2.0-rc.2 introduced an ineffective privilege drop when requesting container network setup, therefore subsequent functions are called with root privileges, the attack surface is rather limited for users but an attacker could possibly craft a starter config to delete any directory on the host filesystems. A security fix has been included in Apptainer 1.2.1. There is no known workaround outside of upgrading to Apptainer 1.2.1.",
+        "URL": "https://github.com/apptainer/apptainer/pull/1578",
+        "Tag": "['Patch']"
+    }
+]

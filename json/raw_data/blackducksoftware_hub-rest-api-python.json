@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "blackducksoftware/hub-rest-api-python",
+        "CVE_ID": "CVE-2020-27589",
+        "Problem_Type": "CWE-295",
+        "Description": "Synopsys hub-rest-api-python (aka blackduck on PyPI) version 0.0.25 - 0.0.52 does not validate SSL certificates in certain cases.",
+        "URL": "https://github.com/blackducksoftware/hub-rest-api-python/pull/113/commits/273b27d0de1004389dd8cf43c40b1197c787e7cd",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

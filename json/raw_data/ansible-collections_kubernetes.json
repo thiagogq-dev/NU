@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ansible-collections/kubernetes",
+        "CVE_ID": "CVE-2020-1753",
+        "Problem_Type": "CWE-200",
+        "Description": "A security flaw was found in Ansible Engine, all Ansible 2.7.x versions prior to 2.7.17, all Ansible 2.8.x versions prior to 2.8.11 and all Ansible 2.9.x versions prior to 2.9.7, when managing kubernetes using the k8s module. Sensitive parameters such as passwords and tokens are passed to kubectl from the command line, not using an environment variable or an input configuration file. This will disclose passwords and tokens from process list and no_log directive from debug module would not have any effect making these secrets being disclosed on stdout and log files.",
+        "URL": "https://github.com/ansible-collections/kubernetes/pull/51",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]
