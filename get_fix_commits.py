@@ -33,15 +33,25 @@ with open(json_file) as f:
         repo_path = f"repos_dir/{owner}/{repo}"
 
         pr_commit_sha = get_pull_request_data(url, owner, repo, repo_path)
-
+    
         commits_data.append({
             "repo_name": entry["repo_name"],
-            "id": entry["id"],
-            "repo_id": entry["repo_id"],
-            "terms_vulnerability": entry["terms_vulnerability"],
-            "url": entry["url"],
+            "CVE_ID": entry["CVE_ID"],
+            "Problem_Type": entry["Problem_Type"],
+            "Description": entry["Description"],
+            "URL": entry["URL"],
+            "Tag": entry["Tag"],
             "fix_commit_hash": pr_commit_sha
         })
+        
+        # commits_data.append({
+        #     "repo_name": entry["repo_name"],
+        #     "id": entry["id"],
+        #     "repo_id": entry["repo_id"],
+        #     "terms_vulnerability": entry["terms_vulnerability"],
+        #     "url": entry["url"],
+        #     "fix_commit_hash": pr_commit_sha
+        # })
         
     os.system("rm -rf repos_dir/*")
     new_file = json_file.split("/")[-1].split(".")[0]
