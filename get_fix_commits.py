@@ -27,7 +27,7 @@ with open(json_file) as f:
     for entry in data:
         read += 1
         print(f"Read {read}/{length}")
-        url = entry["url"]
+        url = entry["URL"]
        
         owner, repo = entry["repo_name"].split("/")
         repo_path = f"repos_dir/{owner}/{repo}"
@@ -43,7 +43,7 @@ with open(json_file) as f:
             "Tag": entry["Tag"],
             "fix_commit_hash": pr_commit_sha
         })
-        
+
         # commits_data.append({
         #     "repo_name": entry["repo_name"],
         #     "id": entry["id"],
