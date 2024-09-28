@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "Geta/NestedObjectAssign",
+        "CVE_ID": "CVE-2021-23329",
+        "Problem_Type": "CWE-1321",
+        "Description": "The package nested-object-assign before 1.0.4 are vulnerable to Prototype Pollution via the default function, as demonstrated by running the PoC below.",
+        "URL": "https://github.com/Geta/NestedObjectAssign/pull/11",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+    }
+]

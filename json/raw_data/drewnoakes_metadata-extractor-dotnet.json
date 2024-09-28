@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "drewnoakes/metadata-extractor-dotnet",
+        "CVE_ID": "CVE-2019-14262",
+        "Problem_Type": "CWE-400",
+        "Description": "MetadataExtractor 2.1.0 allows stack consumption.",
+        "URL": "https://github.com/drewnoakes/metadata-extractor-dotnet/pull/190",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

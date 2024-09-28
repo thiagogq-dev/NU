@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ecomfe/zrender",
+        "CVE_ID": "CVE-2021-39227",
+        "Problem_Type": "CWE-1321",
+        "Description": "ZRender is a lightweight graphic library providing 2d draw for Apache ECharts. In versions prior to 5.2.1, using `merge` and `clone` helper methods in the `src/core/util.ts` module results in prototype pollution. It affects the popular data visualization library Apache ECharts, which uses and exports these two methods directly. The GitHub Security Advisory page for this vulnerability contains a proof of concept. This issue is patched in ZRender version 5.2.1. One workaround is available: Check if there is `__proto__` in the object keys. Omit it before using it as an parameter in these affected methods. Or in `echarts.util.merge` and `setOption` if project is using ECharts.",
+        "URL": "https://github.com/ecomfe/zrender/pull/826",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "emarref/jwt",
+        "CVE_ID": "CVE-2016-7037",
+        "Problem_Type": "CWE-361",
+        "Description": "The verify function in Encryption/Symmetric.php in Malcolm Fell jwt before 1.0.3 does not use a timing-safe function for hash comparison, which allows attackers to spoof signatures via a timing attack.",
+        "URL": "https://github.com/emarref/jwt/pull/20",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

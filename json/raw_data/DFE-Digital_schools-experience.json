@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "DFE-Digital/schools-experience",
+        "CVE_ID": "CVE-2019-15487",
+        "Problem_Type": "CWE-79",
+        "Description": "DfE School Experience before v16333-GA has XSS via a teacher training URL.",
+        "URL": "https://github.com/DFE-Digital/schools-experience/pull/769",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

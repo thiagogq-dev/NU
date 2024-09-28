@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "ethereum-optimism/optimism",
+        "CVE_ID": "CVE-2022-24916",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Optimism before @eth-optimism/l2geth@0.5.11 allows economic griefing because a balance is duplicated upon contract self-destruction.",
+        "URL": "https://github.com/ethereum-optimism/optimism/pull/2146",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

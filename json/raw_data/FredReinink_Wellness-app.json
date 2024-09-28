@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "FredReinink/Wellness-app",
+        "CVE_ID": "CVE-2019-15555",
+        "Problem_Type": "CWE-89",
+        "Description": "FredReinink Wellness-app before 2019-06-19 allows SQL injection, related to dietTrack.php, exerciseGenerator.php, fitnessTrack.php, and server.php.",
+        "URL": "https://github.com/FredReinink/Wellness-app/pull/18",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

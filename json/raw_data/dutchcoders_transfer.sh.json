@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "dutchcoders/transfer.sh",
+        "CVE_ID": "CVE-2021-33496",
+        "Problem_Type": "CWE-79",
+        "Description": "Dutchcoders transfer.sh before 1.2.4 allows XSS via an inline view.",
+        "URL": "https://github.com/dutchcoders/transfer.sh/pull/373",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "dutchcoders/transfer.sh",
+        "CVE_ID": "CVE-2021-33497",
+        "Problem_Type": "CWE-22",
+        "Description": "Dutchcoders transfer.sh before 1.2.4 allows Directory Traversal for deleting files.",
+        "URL": "https://github.com/dutchcoders/transfer.sh/pull/373",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "dutchcoders/transfer.sh",
+        "CVE_ID": "CVE-2022-40931",
+        "Problem_Type": "CWE-79",
+        "Description": "dutchcoders Transfer.sh 1.4.0 is vulnerable to Cross Site Scripting (XSS).",
+        "URL": "https://github.com/dutchcoders/transfer.sh/pull/501",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

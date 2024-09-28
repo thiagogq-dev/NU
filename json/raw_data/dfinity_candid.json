@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "dfinity/candid",
+        "CVE_ID": "CVE-2023-6245",
+        "Problem_Type": "CWE-835",
+        "Description": "The Candid library causes a Denial of Service while \nparsing a specially crafted payload with 'empty' data type. For example,\n if the payload is `record { * ; empty }` and the canister interface expects `record { * }` then the Rust candid decoder treats empty as an extra field required by the type.  The problem with the type empty is that the candid Rust library wrongly categorizes empty as a recoverable error when skipping the field and thus causing an infinite decoding loop.\n\n\nCanisters using affected versions of candid\n are exposed to denial of service by causing the decoding to run \nindefinitely until the canister traps due to reaching maximum \ninstruction limit per execution round. Repeated exposure to the payload \nwill result in degraded performance of the canister. Note: Canisters written in Motoko are unaffected.\n\n\n\n",
+        "URL": "https://github.com/dfinity/candid/pull/478",
+        "Tag": "['Patch']"
+    }
+]
