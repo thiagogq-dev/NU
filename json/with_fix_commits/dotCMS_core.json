@@ -5,7 +5,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the categoriesServlet servlet in dotCMS before 3.3.1 allows remote not authenticated attackers to execute arbitrary SQL commands via the sort parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8460/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b"
     },
     {
         "repo_name": "dotCMS/core",
@@ -13,7 +14,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the categoriesServlet servlet in dotCMS before 3.3.1 allows remote not authenticated attackers to execute arbitrary SQL commands via the sort parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8468/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85"
     },
     {
         "repo_name": "dotCMS/core",
@@ -21,7 +23,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > Templates pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8460/",
-        "Tag": "['Patch']"
+        "Tag": "['Patch']",
+        "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b"
     },
     {
         "repo_name": "dotCMS/core",
@@ -29,7 +32,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > Templates pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8468/",
-        "Tag": "['Patch']"
+        "Tag": "['Patch']",
+        "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85"
     },
     {
         "repo_name": "dotCMS/core",
@@ -37,7 +41,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > Containers pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8460/",
-        "Tag": "['Patch']"
+        "Tag": "['Patch']",
+        "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b"
     },
     {
         "repo_name": "dotCMS/core",
@@ -45,7 +50,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > Containers pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8468/",
-        "Tag": "['Patch']"
+        "Tag": "['Patch']",
+        "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85"
     },
     {
         "repo_name": "dotCMS/core",
@@ -53,7 +59,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the JSONTags servlet in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the sort parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8460/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b"
     },
     {
         "repo_name": "dotCMS/core",
@@ -61,7 +68,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the JSONTags servlet in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the sort parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8468/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85"
     },
     {
         "repo_name": "dotCMS/core",
@@ -69,7 +77,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > Links pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8460/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b"
     },
     {
         "repo_name": "dotCMS/core",
@@ -77,7 +86,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > Links pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8468/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85"
     },
     {
         "repo_name": "dotCMS/core",
@@ -85,7 +95,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Content Types > Content Types\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8460/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b"
     },
     {
         "repo_name": "dotCMS/core",
@@ -93,7 +104,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Content Types > Content Types\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8468/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85"
     },
     {
         "repo_name": "dotCMS/core",
@@ -101,7 +113,8 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > HTML pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8460/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b"
     },
     {
         "repo_name": "dotCMS/core",
@@ -109,6 +122,7 @@
         "Problem_Type": "CWE-89",
         "Description": "SQL injection vulnerability in the \"Site Browser > HTML pages\" screen in dotCMS before 3.3.1 allows remote authenticated attackers to execute arbitrary SQL commands via the orderby parameter.",
         "URL": "https://github.com/dotCMS/core/pull/8468/",
-        "Tag": "['Patch', 'Vendor Advisory']"
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85"
     }
 ]
