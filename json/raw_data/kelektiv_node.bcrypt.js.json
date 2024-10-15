@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "kelektiv/node.bcrypt.js",
+        "CVE_ID": "CVE-2020-7689",
+        "Problem_Type": "CWE-190",
+        "Description": "Data is truncated wrong when its length is greater than 255 bytes.",
+        "URL": "https://github.com/kelektiv/node.bcrypt.js/pull/806",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "kelektiv/node.bcrypt.js",
+        "CVE_ID": "CVE-2020-7689",
+        "Problem_Type": "CWE-190",
+        "Description": "Data is truncated wrong when its length is greater than 255 bytes.",
+        "URL": "https://github.com/kelektiv/node.bcrypt.js/pull/807",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

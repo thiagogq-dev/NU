@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "grpc/grpc-node",
+        "CVE_ID": "CVE-2020-7768",
+        "Problem_Type": "CWE-1321",
+        "Description": "The package grpc before 1.24.4; the package @grpc/grpc-js before 1.1.8 are vulnerable to Prototype Pollution via loadPackageDefinition.",
+        "URL": "https://github.com/grpc/grpc-node/pull/1606",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "grpc/grpc-node",
+        "CVE_ID": "CVE-2020-7768",
+        "Problem_Type": "CWE-1321",
+        "Description": "The package grpc before 1.24.4; the package @grpc/grpc-js before 1.1.8 are vulnerable to Prototype Pollution via loadPackageDefinition.",
+        "URL": "https://github.com/grpc/grpc-node/pull/1605",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

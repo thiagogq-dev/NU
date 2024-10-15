@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "kogmbh/WebODF",
+        "CVE_ID": "CVE-2014-9716",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site scripting (XSS) vulnerability in WebODF before 0.5.4 allows remote attackers to inject arbitrary web script or HTML via a file name.",
+        "URL": "https://github.com/kogmbh/WebODF/pull/851",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "kogmbh/WebODF",
+        "CVE_ID": "CVE-2015-3012",
+        "Problem_Type": "CWE-79",
+        "Description": "Multiple cross-site scripting (XSS) vulnerabilities in WebODF before 0.5.5, as used in ownCloud, allow remote attackers to inject arbitrary web script or HTML via a (1) style or (2) font name or (3) javascript or (4) data URI.",
+        "URL": "https://github.com/kogmbh/WebODF/pull/850/files",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "kogmbh/WebODF",
+        "CVE_ID": "CVE-2015-3012",
+        "Problem_Type": "CWE-79",
+        "Description": "Multiple cross-site scripting (XSS) vulnerabilities in WebODF before 0.5.5, as used in ownCloud, allow remote attackers to inject arbitrary web script or HTML via a (1) style or (2) font name or (3) javascript or (4) data URI.",
+        "URL": "https://github.com/kogmbh/WebODF/pull/849",
+        "Tag": "['Patch']"
+    }
+]

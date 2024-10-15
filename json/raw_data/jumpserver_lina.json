@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "jumpserver/lina",
+        "CVE_ID": "CVE-2022-42225",
+        "Problem_Type": "CWE-79",
+        "Description": "Jumpserver 2.10.0 <= version <= 2.26.0 contains multiple stored XSS vulnerabilities because of improper filtering of user input, which can execute any javascript under admin's permission.",
+        "URL": "https://github.com/jumpserver/lina/pull/2264",
+        "Tag": "['Patch']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "InternationalScratchWiki/scratch-confirmaccount-v3",
+        "CVE_ID": "CVE-2021-46252",
+        "Problem_Type": "CWE-352",
+        "Description": "A Cross-Site Request Forgery (CSRF) in RequirementsBypassPage.php of Scratch Wiki scratch-confirmaccount-v3 allows attackers to modify account request requirement bypasses.",
+        "URL": "https://github.com/InternationalScratchWiki/scratch-confirmaccount-v3/pull/155",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "hapijs/inert",
+        "CVE_ID": "CVE-2014-10068",
+        "Problem_Type": "CWE-22",
+        "Description": "The inert directory handler in inert node module before 1.1.1 always allows files in hidden directories to be served, even when `showHidden` is false.",
+        "URL": "https://github.com/hapijs/inert/pull/15",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

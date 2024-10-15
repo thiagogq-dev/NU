@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "IntellectualSites/FastAsyncWorldEdit",
+        "CVE_ID": "CVE-2023-35925",
+        "Problem_Type": "CWE-400",
+        "Description": "FastAsyncWorldEdit (FAWE) is designed for efficient world editing. This vulnerability enables the attacker to select a region with the `Infinity` keyword (case-sensitive!) and executes any operation. This has a possibility of bringing the performing server down. This issue has been fixed in version 2.6.3.",
+        "URL": "https://github.com/IntellectualSites/FastAsyncWorldEdit/pull/2285",
+        "Tag": "['Patch']"
+    }
+]

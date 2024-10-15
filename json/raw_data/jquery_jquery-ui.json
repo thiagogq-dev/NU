@@ -1,0 +1,18 @@
+[
+    {
+        "repo_name": "jquery/jquery-ui",
+        "CVE_ID": "CVE-2021-41182",
+        "Problem_Type": "CWE-79",
+        "Description": "jQuery-UI is the official jQuery user interface library. Prior to version 1.13.0, accepting the value of the `altField` option of the Datepicker widget from untrusted sources may execute untrusted code. The issue is fixed in jQuery UI 1.13.0. Any string value passed to the `altField` option is now treated as a CSS selector. A workaround is to not accept the value of the `altField` option from untrusted sources.",
+        "URL": "https://github.com/jquery/jquery-ui/pull/1954/commits/6809ce843e5ac4128108ea4c15cbc100653c2b63",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "jquery/jquery-ui",
+        "CVE_ID": "CVE-2021-41183",
+        "Problem_Type": "CWE-79",
+        "Description": "jQuery-UI is the official jQuery user interface library. Prior to version 1.13.0, accepting the value of various `*Text` options of the Datepicker widget from untrusted sources may execute untrusted code. The issue is fixed in jQuery UI 1.13.0. The values passed to various `*Text` options are now always treated as pure text, not HTML. A workaround is to not accept the value of the `*Text` options from untrusted sources.",
+        "URL": "https://github.com/jquery/jquery-ui/pull/1953",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "justinas/nosurf",
+        "CVE_ID": "CVE-2020-36564",
+        "Problem_Type": "CWE-20",
+        "Description": "Due to improper validation of caller input, validation is silently disabled if the provided expected token is malformed, causing any user supplied token to be considered valid.",
+        "URL": "https://github.com/justinas/nosurf/pull/60",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]
