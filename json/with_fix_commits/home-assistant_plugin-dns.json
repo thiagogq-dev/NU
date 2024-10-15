@@ -5,7 +5,8 @@
         "Problem_Type": "CWE-203",
         "Description": "An information leak in Nabu Casa Home Assistant Operating System and Home Assistant Supervised 2022.03 allows a DNS operator to gain knowledge about internal network resources via the hardcoded DNS resolver configuration.",
         "URL": "https://github.com/home-assistant/plugin-dns/pull/55",
-        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']"
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "home-assistant/plugin-dns",
@@ -13,7 +14,8 @@
         "Problem_Type": "CWE-203",
         "Description": "An information leak in Nabu Casa Home Assistant Operating System and Home Assistant Supervised 2022.03 allows a DNS operator to gain knowledge about internal network resources via the hardcoded DNS resolver configuration.",
         "URL": "https://github.com/home-assistant/plugin-dns/pull/59",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
     },
     {
         "repo_name": "home-assistant/plugin-dns",
@@ -21,6 +23,7 @@
         "Problem_Type": "CWE-203",
         "Description": "An information leak in Nabu Casa Home Assistant Operating System and Home Assistant Supervised 2022.03 allows a DNS operator to gain knowledge about internal network resources via the hardcoded DNS resolver configuration.",
         "URL": "https://github.com/home-assistant/plugin-dns/pull/58",
-        "Tag": "['Patch', 'Third Party Advisory']"
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null
     }
 ]
