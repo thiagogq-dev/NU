@@ -5,7 +5,8 @@
         "Problem_Type": "CWE-79",
         "Description": "Kimai v2 before 1.1 has XSS via a timesheet description.",
         "URL": "https://github.com/kevinpapst/kimai2/pull/962",
-        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a0e8aa3a435717187fb12210242dab1b7c97ff3f"
     },
     {
         "repo_name": "kevinpapst/kimai2",
@@ -13,6 +14,7 @@
         "Problem_Type": "CWE-79",
         "Description": "Cross Site Scripting (XSS) vulnerability in kevinpapst kimai2 1.30.0 in /src/Twig/Runtime/MarkdownExtension.php, allows attackers to gain escalated privileges.",
         "URL": "https://github.com/kevinpapst/kimai2/pull/962/files",
-        "Tag": "['Patch']"
+        "Tag": "['Patch']",
+        "fix_commit_hash": "a0e8aa3a435717187fb12210242dab1b7c97ff3f"
     }
 ]
