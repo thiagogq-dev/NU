@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "latchset/tang",
+        "CVE_ID": "CVE-2021-4076",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "A flaw exists in tang, a network-based cryptographic binding server, which could result in leak of private keys.",
+        "URL": "https://github.com/latchset/tang/pull/81",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']"
+    }
+]

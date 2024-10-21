@@ -1,0 +1,42 @@
+[
+    {
+        "repo_name": "kyverno/kyverno",
+        "CVE_ID": "CVE-2022-47633",
+        "Problem_Type": "CWE-287",
+        "Description": "An image signature validation bypass vulnerability in Kyverno 1.8.3 and 1.8.4 allows a malicious image registry (or a man-in-the-middle attacker) to inject unsigned arbitrary container images into a protected Kubernetes cluster. This is fixed in 1.8.5. This has been fixed in 1.8.5 and mitigations are available for impacted releases.",
+        "URL": "https://github.com/kyverno/kyverno/pull/5713",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    },
+    {
+        "repo_name": "kyverno/kyverno",
+        "CVE_ID": "CVE-2023-42813",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Kyverno is a policy engine designed for Kubernetes. A security vulnerability was found in Kyverno where an attacker could cause denial of service of Kyverno. The vulnerable component in Kyvernos Notary verifier. An attacker would need control over the registry from which Kyverno would fetch attestations. With such a position, the attacker could return a malicious response to Kyverno, when Kyverno would send a request to the registry. The malicious response would cause denial of service of Kyverno, such that other users' admission requests would be blocked from being processed. This is a vulnerability in a new component released in v1.11.0. The only users affected by this are those that have been building Kyverno from source at the main branch which is not encouraged. Users consuming official Kyverno releases are not affected. There are no known cases of this vulnerability being exploited in the wild.",
+        "URL": "https://github.com/kyverno/kyverno/pull/8428",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "kyverno/kyverno",
+        "CVE_ID": "CVE-2023-42814",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Kyverno is a policy engine designed for Kubernetes. A security vulnerability was found in Kyverno where an attacker could cause denial of service of Kyverno. The vulnerable component in Kyvernos Notary verifier. An attacker would need control over the registry from which Kyverno would fetch attestations. With such a position, the attacker could return a malicious response to Kyverno, when Kyverno would send a request to the registry. The malicious response would cause denial of service of Kyverno, such that other users' admission requests would be blocked from being processed. This is a vulnerability in a new component released in v1.11.0. The only users affected by this are those that have been building Kyverno from source at the main branch which is not encouraged. Users consuming official Kyverno releases are not affected. There are no known cases of this vulnerability being exploited in the wild.\n",
+        "URL": "https://github.com/kyverno/kyverno/pull/8428",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "kyverno/kyverno",
+        "CVE_ID": "CVE-2023-42815",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Kyverno is a policy engine designed for Kubernetes. A security vulnerability was found in Kyverno where an attacker could cause denial of service of Kyverno. The vulnerability was in Kyvernos Notary verifier. An attacker would need control over the registry from which Kyverno would fetch signatures. With such a position, the attacker could return a malicious response to Kyverno, when Kyverno would send a request to the registry. The malicious response would cause denial of service of Kyverno, such that other users' admission requests would be blocked from being processed. This is a vulnerability in a new component released in v1.11.0. The only users affected by this are those that have been building Kyverno from source at the main branch which is not encouraged. Users consuming official Kyverno releases are not affected. There are no known cases of this vulnerability being exploited in the wild.",
+        "URL": "https://github.com/kyverno/kyverno/pull/8428",
+        "Tag": "['Patch']"
+    },
+    {
+        "repo_name": "kyverno/kyverno",
+        "CVE_ID": "CVE-2023-42816",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Kyverno is a policy engine designed for Kubernetes. A security vulnerability was found in Kyverno where an attacker could cause denial of service of Kyverno. The vulnerability was in Kyvernos Notary verifier. An attacker would need control over the registry from which Kyverno would fetch signatures. With such a position, the attacker could return a malicious response to Kyverno, when Kyverno would send a request to the registry. The malicious response would cause denial of service of Kyverno, such that other users' admission requests would be blocked from being processed. This is a vulnerability in a new component released in v1.11.0. The only users affected by this are those that have been building Kyverno from source at the main branch which is not encouraged. Users consuming official Kyverno releases are not affected. There are no known cases of this vulnerability being exploited in the wild.",
+        "URL": "https://github.com/kyverno/kyverno/pull/8428",
+        "Tag": "['Patch']"
+    }
+]

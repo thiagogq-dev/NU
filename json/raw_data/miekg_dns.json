@@ -1,0 +1,10 @@
+[
+    {
+        "repo_name": "miekg/dns",
+        "CVE_ID": "CVE-2019-19794",
+        "Problem_Type": "CWE-338",
+        "Description": "The miekg Go DNS package before 1.1.25, as used in CoreDNS before 1.6.6 and other products, improperly generates random numbers because math/rand is used. The TXID becomes predictable, leading to response forgeries.",
+        "URL": "https://github.com/miekg/dns/pull/1044",
+        "Tag": "['Patch', 'Third Party Advisory']"
+    }
+]
