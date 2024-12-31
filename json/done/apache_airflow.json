@@ -17,7 +17,8 @@
         ],
         "matched": [
             "deb953d9b3c1cf450aee9dfe92f81e9ffa768f06"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -36,7 +37,8 @@
         ],
         "matched": [
             "813cd431204b71f4e7c27f2bee9fafcc910da4d0"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -54,7 +56,8 @@
         ],
         "matched": [
             "28b3056192f55251d88856d20a2439b86800bc77"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -77,7 +80,8 @@
         ],
         "matched": [
             "3e7e42f028279a628d9e15d1ae4b6005593f8afb"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -96,7 +100,8 @@
         ],
         "matched": [
             "9b3ed1f652fcdf6eaf672e5d15646a0512b852f4"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -114,7 +119,8 @@
         ],
         "matched": [
             "df31902533e94b428e1fa19e5014047f0bae6fcc"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -143,7 +149,8 @@
         ],
         "matched": [
             "f5ad26dcdd7bcb724992528dce71056965b94d26"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -162,7 +169,8 @@
         ],
         "matched": [
             "1edef28b315809c8367b29f3f1a83984dc6566c4"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -184,7 +192,8 @@
         ],
         "matched": [
             "65297673a318660fba76797e50d0c06804dfcafc"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -204,7 +213,8 @@
         ],
         "matched": [
             "9953a047c4b0471ceb6effc669dce8d03c2f935b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -223,7 +233,8 @@
         ],
         "matched": [
             "208fba009980f66ccda3b238929c6cc90214eda4"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -247,7 +258,8 @@
         ],
         "matched": [
             "b39468d2878554ba60863656364b4a95eda30685"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -272,7 +284,8 @@
         ],
         "matched": [
             "1189fb43e97cb39ff771ffabd17d60cf440a9bb7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -297,7 +310,8 @@
         ],
         "matched": [
             "1189fb43e97cb39ff771ffabd17d60cf440a9bb7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -321,7 +335,8 @@
         ],
         "matched": [
             "1f3260354988b304cf31d5e1d945ce91798bed48"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -341,7 +356,8 @@
         ],
         "matched": [
             "5d4abbd58c33e7dfa8505e307d43420459d3df55"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -361,7 +377,8 @@
         ],
         "matched": [
             "1d531555ecd594ee7ec2c5d3fc87f8d4bcc2c27e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -380,7 +397,8 @@
         ],
         "matched": [
             "eb5fea7b647e0f4b2338f86eeff6a90e1d6043bc"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -398,7 +416,8 @@
         ],
         "matched": [
             "10796cb7ce52c8ac2f68024e531fdda779547bdf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -419,7 +438,8 @@
         ],
         "matched": [
             "fe46a934fc298ec3ac74e6c40ca7e1872d2482f9"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -437,7 +457,8 @@
         ],
         "matched": [
             "9ad6d1202d0466d67b920ce8b316fd0e7b68ed88"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -463,7 +484,8 @@
         ],
         "matched": [
             "ddcd30e7c7f5daeab5f74fb3224a4d5e33cec95d"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -479,7 +501,8 @@
         ],
         "matched": [
             "8808b641942e1b81c21db054fd6d36e2031cfab8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -498,7 +521,8 @@
         ],
         "matched": [
             "56a03710a607376a01cb201ec81eb9d87d7418fe"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -517,7 +541,8 @@
         ],
         "matched": [
             "324aca410bbbddb22336746338ea8a60ad0b3989"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -538,7 +563,8 @@
         ],
         "matched": [
             "2a819b11fb8dfba7b3c9b500d07467b455724506"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -559,7 +585,8 @@
         ],
         "matched": [
             "df5a54d21d6991d6cae05c38e1562da2196e76aa"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -577,7 +604,8 @@
         ],
         "matched": [
             "dd623016aececfa7e0644e7da901902a7a629f44"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -597,7 +625,8 @@
         ],
         "matched": [
             "1dccaad46b901189c1928cef8419f1ea1160d550"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -616,7 +645,8 @@
         ],
         "matched": [
             "d2e5b097e6251e31fb4c9bb5bf16dc9c77b56f75"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -632,7 +662,8 @@
         ],
         "matched": [
             "3fac5c35409ccfde771ce08ea8daeaac056b2c10"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -654,7 +685,8 @@
         ],
         "matched": [
             "032cf7cdbce34ceb0e9380f86e07a6c077470396"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -673,7 +705,8 @@
         ],
         "matched": [
             "88aa174047e673d0dbe2742b24210731d6a5378f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -732,7 +765,8 @@
         ],
         "matched": [
             "7dd19731f232d99d2947128c29e393b8ce013741"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -752,7 +786,8 @@
         ],
         "matched": [
             "63d9b24aad0b4b9397682ddac1ea5824354789b3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -774,7 +809,8 @@
         ],
         "matched": [
             "5cb8ef80a0bd84651fb660c552563766d8ec0ea1"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -793,7 +829,8 @@
         ],
         "matched": [
             "9a8c2044bd0dab209c1e4cbf11d59297664dab08"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -812,7 +849,8 @@
         ],
         "matched": [
             "5772d4d150518e2986df986f07b0394a0f4458e2"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -830,7 +868,8 @@
         ],
         "matched": [
             "e35ffaa457eee569d4bc81be16d0db26e0f3e1b3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -846,7 +885,8 @@
         ],
         "matched": [
             "e2f19505bf3622935480e80bee55bf5b6d80097b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -866,7 +906,8 @@
         ],
         "matched": [
             "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -885,7 +926,8 @@
         ],
         "matched": [
             "4a525e85e31b26d413c986c86d181114bb37bd06"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -904,7 +946,8 @@
         ],
         "matched": [
             "471fdacd853a5bcb190e1ffc017a4e650097ed69"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -923,7 +966,8 @@
         ],
         "matched": [
             "ab74d1ba98f0f1d601206164d2b9529681bed4b3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -945,7 +989,8 @@
         ],
         "matched": [
             "5cb8ef80a0bd84651fb660c552563766d8ec0ea1"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -971,7 +1016,8 @@
         ],
         "matched": [
             "2e52d65639f3a07f57d33aad6cce072dc6548a96"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -991,7 +1037,8 @@
         ],
         "matched": [
             "ac65b82eeeeaa670e09a83c7da65cbac7e89f8db"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1011,7 +1058,8 @@
         ],
         "matched": [
             "c0362923fd8250328eab6e60f0cf7e855bfd352e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1032,7 +1080,8 @@
         ],
         "matched": [
             "1b4c6bed94580eab656cc476e99a4980813b11ca"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1052,7 +1101,8 @@
         ],
         "matched": [
             "3d2c96e3f5d238955bccba190726d0fba860eb7a"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1068,7 +1118,8 @@
         ],
         "matched": [
             "ec5b4feb59816e4a13f779ad83d51206bf5ee0d9"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1090,7 +1141,8 @@
         ],
         "matched": [
             "5da4afe908df22d3bb812d531ac437066dd5b816"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1102,7 +1154,8 @@
         "fix_commit_hash": "150dd927c3297daccab507bc5a5f2c3a32f24d5f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1114,7 +1167,8 @@
         "fix_commit_hash": "b33d22c2243c552f4d1372bbe6b75e5fb097f567",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1126,7 +1180,8 @@
         "fix_commit_hash": "8062756fa9e01eeeee1f2c6df74f376c0a526bd5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1138,7 +1193,8 @@
         "fix_commit_hash": "6724eeb6210d5965937eaf9dae3e476eb30f8268",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/airflow",
@@ -1150,6 +1206,7 @@
         "fix_commit_hash": "6850b5c777fa515e110ad1daa85242209a8ec6c0",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
