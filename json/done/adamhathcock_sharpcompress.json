@@ -9,7 +9,8 @@
         "fix_commit_hash": "42b1205fb435de523e6ef8ac5b7bafbe712997f6",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "adamhathcock/sharpcompress",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "ea5c8dc06314c7a5068e7901c51a625224d2b288",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
