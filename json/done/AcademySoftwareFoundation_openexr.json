@@ -17,7 +17,8 @@
         ],
         "matched": [
             "f580a0ba13dbead561e25dd89e9ce46df941b834"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AcademySoftwareFoundation/openexr",
@@ -35,7 +36,8 @@
         ],
         "matched": [
             "e08946ade358313859a03fa367f647ef223a192c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AcademySoftwareFoundation/openexr",
@@ -53,7 +55,8 @@
         ],
         "matched": [
             "801272c9bf8b84a66c62f1e8a4490ece81da6a56"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AcademySoftwareFoundation/openexr",
@@ -72,7 +75,8 @@
         ],
         "matched": [
             "d80f11f4f55100d007ae80a162bf257ec291612c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AcademySoftwareFoundation/openexr",
@@ -91,7 +95,8 @@
         ],
         "matched": [
             "50e9b31cc1069a787458b368b64e6452f7541da1"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AcademySoftwareFoundation/openexr",
@@ -112,7 +117,8 @@
         ],
         "matched": [
             "88246d991e0318c043e6f584f7493da08a31f9f8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AcademySoftwareFoundation/openexr",
@@ -124,6 +130,7 @@
         "fix_commit_hash": "11cad77da87c4fa2aab7d58dd5339e254db7937e",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
