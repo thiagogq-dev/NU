@@ -18,7 +18,8 @@
         ],
         "matched": [
             "6b37900dc3e45e072612136b4b5c9d1afb959ca2"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "angelozerr/lsp4xml",
@@ -42,6 +43,7 @@
         ],
         "matched": [
             "ca6bb86c6d3a1f35d86bbf6809d1faa688662a75"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
