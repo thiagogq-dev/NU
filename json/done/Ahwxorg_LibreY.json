@@ -9,7 +9,8 @@
         "fix_commit_hash": "8f9b9803f231e2954e5b49987a532d28fe50a627",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Ahwxorg/LibreY",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "be59098abd119cda70b15bf3faac596dfd39a744",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
