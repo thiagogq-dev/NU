@@ -15,7 +15,8 @@
         ],
         "matched": [
             "a55f924c39b80a71f46210ad83a43e7e9093d336"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Azure/azure-cli",
@@ -27,6 +28,7 @@
         "fix_commit_hash": "a55f924c39b80a71f46210ad83a43e7e9093d336",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
