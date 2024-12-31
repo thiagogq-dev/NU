@@ -13,7 +13,8 @@
         ],
         "matched": [
             "587810efebbc26d16b3ee8816b22ebe2521ee3b6"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "aimhubio/aim",
@@ -29,6 +30,7 @@
         ],
         "matched": [
             "587810efebbc26d16b3ee8816b22ebe2521ee3b6"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
