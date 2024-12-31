@@ -15,7 +15,8 @@
         ],
         "matched": [
             "f132ba19db651b45a8dd9ab4f59dd212d5246634"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AkashRajpurohit/clipper",
@@ -33,6 +34,7 @@
         ],
         "matched": [
             "f132ba19db651b45a8dd9ab4f59dd212d5246634"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
