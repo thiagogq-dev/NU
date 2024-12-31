@@ -9,7 +9,8 @@
         "fix_commit_hash": "bdf7836ef8f0e5b21f9a1aab0623ae8fcd09c1da",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apostrophecms/sanitize-html",
@@ -21,7 +22,8 @@
         "fix_commit_hash": "6012524e7824a2c8f6782b2bc5f93b1261723403",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apostrophecms/sanitize-html",
@@ -33,6 +35,7 @@
         "fix_commit_hash": "b4682c12fd30e12e82fa2d9b766de91d7d2cd23c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
