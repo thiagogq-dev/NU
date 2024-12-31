@@ -16,7 +16,8 @@
         ],
         "matched": [
             "d7411be855570e5dcae2e1d47b9571f0b81b8c05"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "appsmithorg/appsmith",
@@ -46,6 +47,7 @@
         ],
         "matched": [
             "5c1ad6403e12a97a3c6ad8945bd02bd48445b88d"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
