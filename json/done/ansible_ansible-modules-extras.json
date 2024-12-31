@@ -16,7 +16,8 @@
         ],
         "matched": [
             "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible-modules-extras",
@@ -35,6 +36,7 @@
         ],
         "matched": [
             "fd0c21df27da5c952ef71b69fadc1d74cb052eea"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
