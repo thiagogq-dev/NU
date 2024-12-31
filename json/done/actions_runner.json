@@ -16,7 +16,8 @@
         ],
         "matched": [
             "8dc5ca220812447475485490f2103f97f9ea110b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "actions/runner",
@@ -36,6 +37,7 @@
         ],
         "matched": [
             "5e0c2ef8165ef645e165286e90ce460c1aa17b3c"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
