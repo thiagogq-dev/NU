@@ -9,7 +9,8 @@
         "fix_commit_hash": "91bfd6993aa833c4f224c69664e29fe43af24ff8",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apptainer/apptainer",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "6142efe142590d62acc96d0a3da6c613138e1e15",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
