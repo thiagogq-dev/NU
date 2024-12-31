@@ -15,7 +15,8 @@
         ],
         "matched": [
             "a186023560ab5509e486b53b5db6aad690407ad8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "auth0/node-auth0",
@@ -27,6 +28,7 @@
         "fix_commit_hash": "e23cd867a317c26b2aa39bd7fbacd59acb243195",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

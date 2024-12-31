@@ -16,7 +16,8 @@
         ],
         "matched": [
             "3d892d9b481c5eefeb309b462b3f166a31335bc4"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "argoproj/argo-workflows",
@@ -28,6 +29,7 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     }
 ]

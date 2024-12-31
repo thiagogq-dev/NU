@@ -9,7 +9,8 @@
         "fix_commit_hash": "d272675dec8304f918b3700634dce9355a7d7e42",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "autotrace/autotrace",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "d272675dec8304f918b3700634dce9355a7d7e42",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
