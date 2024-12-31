@@ -15,7 +15,8 @@
         ],
         "matched": [
             "d092879f710f77123e67743b97016375d93e8962"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "arendst/Tasmota",
@@ -27,6 +28,7 @@
         "fix_commit_hash": "d0ee5776e5fd055090e60b4e6bc90605c51c9312",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
