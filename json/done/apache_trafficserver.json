@@ -23,7 +23,8 @@
         ],
         "matched": [
             "03d110c25d1a0e4f10af3a422452d7cae1495614"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/trafficserver",
@@ -42,7 +43,8 @@
         ],
         "matched": [
             "08512deb11a610ae7084ce678b19bd637e30b3e1"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/trafficserver",
@@ -60,7 +62,8 @@
         ],
         "matched": [
             "08512deb11a610ae7084ce678b19bd637e30b3e1"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/trafficserver",
@@ -78,7 +81,8 @@
         ],
         "matched": [
             "a1651345d11f228dfb392cc79169760e80d25f06"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/trafficserver",
@@ -100,7 +104,8 @@
         ],
         "matched": [
             "c128363e2ce3ad435769221466627f7fbff86cb8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/trafficserver",
@@ -118,7 +123,8 @@
         ],
         "matched": [
             "7773395bc218b26890f01e0ef12b576a13416fdb"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/trafficserver",
@@ -169,6 +175,7 @@
         ],
         "matched": [
             "6550d81849b66a1f52c73bdce15b2c03d93cac29"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
