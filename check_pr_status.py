@@ -106,7 +106,7 @@ def check_pr_status(input_file, file):
 input_file = sys.argv[1]
 name_file = input_file.split('/')[-1]
 
-check_pr_status(input_file)
+check_pr_status(input_file, name_file)
 
 # for file in os.listdir('json/raw_data/'):
 #     check_pr_status(f'json/raw_data/{file}', file)
