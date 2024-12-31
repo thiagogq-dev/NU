@@ -15,7 +15,8 @@
         ],
         "matched": [
             "8ae401e3d74a76ac8ce64f3f92427934309387dd"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/dolphinscheduler",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "a55612e4f718fb35401b7393d2eb2862f725b37b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "apache/dolphinscheduler",
@@ -87,6 +89,7 @@
         ],
         "matched": [
             "7ac8ea493cf6f458097c695baa500dd0c22b3bb8"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
