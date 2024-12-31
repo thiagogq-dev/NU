@@ -26,7 +26,8 @@
         ],
         "matched": [
             "f495d16f3f400e549da6119f4b8213d62bb80c65"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "activeadmin/activeadmin",
@@ -45,6 +46,7 @@
         ],
         "matched": [
             "f495d16f3f400e549da6119f4b8213d62bb80c65"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
