@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "intelliants/subrion",
+        "CVE_ID": "CVE-2018-14835",
+        "Problem_Type": "CWE-79",
+        "Description": "Subrion CMS v4.2.1 is vulnerable to Stored XSS because of no escaping added to the tooltip information being displayed in multiple areas.",
+        "URL": "https://github.com/intelliants/subrion/pull/763/commits",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "deaa969d959b40fb1cdf2c8d762a29b81152345c",
+        "inducing_commit_hash_pyszz": [
+            "a33a224c6c9e25144d828f92f6141c719215094b"
+        ],
+        "inducing_commit_hash_pd": [
+            "a33a224c6c9e25144d828f92f6141c719215094b"
+        ],
+        "matched": [
+            "a33a224c6c9e25144d828f92f6141c719215094b"
+        ]
+    }
+]

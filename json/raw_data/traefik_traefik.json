@@ -1,0 +1,95 @@
+[
+    {
+        "repo_name": "traefik/traefik",
+        "CVE_ID": "CVE-2021-27375",
+        "Problem_Type": "CWE-1021",
+        "Description": "Traefik before 2.4.5 allows the loading of IFRAME elements from other domains.",
+        "URL": "https://github.com/traefik/traefik/pull/7904",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "bae28c5f5717ea3a80423f107fefe6948c14b7cd",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "424e2a9439f8f3b00d7f9f19ed1df3b6d3c8c570"
+        ],
+        "matched": [
+            "424e2a9439f8f3b00d7f9f19ed1df3b6d3c8c570"
+        ]
+    },
+    {
+        "repo_name": "traefik/traefik",
+        "CVE_ID": "CVE-2021-32813",
+        "Problem_Type": "CWE-913",
+        "Description": "Traefik is an HTTP reverse proxy and load balancer. Prior to version 2.4.13, there exists a potential header vulnerability in Traefik's handling of the Connection header. Active exploitation of this issue is unlikely, as it requires that a removed header would lead to a privilege escalation, however, the Traefik team has addressed this issue to prevent any potential abuse. If one has a chain of Traefik middlewares, and one of them sets a request header, then sending a request with a certain Connection header will cause it to be removed before the request is sent. In this case, the backend does not see the request header. A patch is available in version 2.4.13. There are no known workarounds aside from upgrading.",
+        "URL": "https://github.com/traefik/traefik/pull/8319/commits/cbaf86a93014a969b8accf39301932c17d0d73f9",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b386964abcd3322e9e975a63c8c8e774b9edadcf",
+        "inducing_commit_hash_pyszz": [
+            "b5198e63c446efdb488abd2bea826a59f75b1d63"
+        ],
+        "inducing_commit_hash_pd": [
+            "a09dfa3ce10f222ab6e10ac11386d330698ff6f8",
+            "b5198e63c446efdb488abd2bea826a59f75b1d63"
+        ],
+        "matched": [
+            "b5198e63c446efdb488abd2bea826a59f75b1d63"
+        ]
+    },
+    {
+        "repo_name": "traefik/traefik",
+        "CVE_ID": "CVE-2022-23469",
+        "Problem_Type": "CWE-532",
+        "Description": "Traefik is an open source HTTP reverse proxy and load balancer. Versions prior to 2.9.6 are subject to a potential vulnerability in Traefik displaying the Authorization header in its debug logs. In certain cases, if the log level is set to DEBUG, credentials provided using the Authorization header are displayed in the debug logs. Attackers must have access to a users logging system in order for credentials to be stolen. This issue has been addressed in version 2.9.6. Users are advised to upgrade. Users unable to upgrade may set the log level to `INFO`, `WARN`, or `ERROR`.",
+        "URL": "https://github.com/traefik/traefik/pull/9574",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "778188ed34e886b55d1d5c3c669fce4cc49795ef",
+        "inducing_commit_hash_pyszz": [
+            "b2c4221429658b08da0be6c44bb31dd034004efe"
+        ],
+        "inducing_commit_hash_pd": [
+            "4ec90c5c0d634254b6179a06a7b0db820a2989ec",
+            "b4ee7bdcbef4592d2396e06cad0ac17d8678680d",
+            "45453b20fafc75249acc097589328dd9a8fac1cf",
+            "cb05f36976b7a4ea151003b95f5f547bc008d797",
+            "dc8d5ef744115ebf7908b230aca0965c8c8e5d0b",
+            "a34e1c0747e9e1c5ffa51b4a3f5bb61404fe8bf9",
+            "8168d2fdc15b0c935d28721cd1fe2674f96f6150",
+            "71150bcaaf8d2361f6e5954744b327f0f5d065d8",
+            "60ea9199e5b99ef9820ec237ea5a584cd3991322",
+            "b2c4221429658b08da0be6c44bb31dd034004efe",
+            "63a1186d3e1ac834a467fd56bad7ed151df5b963",
+            "5a225b419667cfac38ba9daf9e20eb8073ec8d4f",
+            "e2a9caf76080da2c3d3ec2f9b470a30ca2184186",
+            "755822bf14ae6d7c181186e67acc47d4814a23dd",
+            "51a02caea3de7a89af2d29c2b673071eced49f5a",
+            "074b31b5e98810181e5b02ab6bad593b3438f58f",
+            "c99266e961fdc15c14110125f7e2e3e8f970af96",
+            "c2938ff1385514819d40fd03884999eaf58cd6f2",
+            "58d668182408a36f7204d80ee66feba32276f8f6",
+            "a09dfa3ce10f222ab6e10ac11386d330698ff6f8"
+        ],
+        "matched": [
+            "b2c4221429658b08da0be6c44bb31dd034004efe"
+        ]
+    },
+    {
+        "repo_name": "traefik/traefik",
+        "CVE_ID": "CVE-2022-23632",
+        "Problem_Type": "CWE-295",
+        "Description": "Traefik is an HTTP reverse proxy and load balancer. Prior to version 2.6.1, Traefik skips the router transport layer security (TLS) configuration when the host header is a fully qualified domain name (FQDN). For a request, the TLS configuration choice can be different than the router choice, which implies the use of a wrong TLS configuration. When sending a request using FQDN handled by a router configured with a dedicated TLS configuration, the TLS configuration falls back to the default configuration that might not correspond to the configured one. If the CNAME flattening is enabled, the selected TLS configuration is the SNI one and the routing uses the CNAME value, so this can skip the expected TLS configuration. Version 2.6.1 contains a patch for this issue. As a workaround, one may add the FDQN to the host rule. However, there is no workaround if the CNAME flattening is enabled.",
+        "URL": "https://github.com/traefik/traefik/pull/8764",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0c83ee736ca4aa93bba2d4cce4c00fd247785915",
+        "inducing_commit_hash_pyszz": [
+            "f15d05b22ffb752c5d9feeaed81346896cb2f29a"
+        ],
+        "inducing_commit_hash_pd": [
+            "0b7aaa3643cafa105c5a63ce7b41ffe91347d2c9",
+            "2c7f6e4def0436a42a06118a455fcdf7b2e2fcb3",
+            "c72769e2ea077332f982c4b1ef38c6b111e9998b",
+            "f15d05b22ffb752c5d9feeaed81346896cb2f29a"
+        ],
+        "matched": [
+            "f15d05b22ffb752c5d9feeaed81346896cb2f29a"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "repo_name": "patriksimek/vm2",
+        "CVE_ID": "CVE-2022-25893",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The package vm2 before 3.9.10 are vulnerable to Arbitrary Code Execution due to the usage of prototype lookup for the WeakMap.prototype.set method. Exploiting this vulnerability leads to access to a host object and a sandbox compromise.",
+        "URL": "https://github.com/patriksimek/vm2/pull/445/commits/3a9876482be487b78a90ac459675da7f83f46d69",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "3a9876482be487b78a90ac459675da7f83f46d69",
+        "inducing_commit_hash_pyszz": [
+            "b4f6e2bd2c4a1ef52fc4483d8e35f28bc4481886"
+        ],
+        "inducing_commit_hash_pd": [
+            "2353ce60351c50379b8d1daab05812c4db634162"
+        ],
+        "matched": [
+            "b4f6e2bd2c4a1ef52fc4483d8e35f28bc4481886"
+        ]
+    },
+    {
+        "repo_name": "patriksimek/vm2",
+        "CVE_ID": "CVE-2022-25893",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The package vm2 before 3.9.10 are vulnerable to Arbitrary Code Execution due to the usage of prototype lookup for the WeakMap.prototype.set method. Exploiting this vulnerability leads to access to a host object and a sandbox compromise.",
+        "URL": "https://github.com/patriksimek/vm2/pull/445",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e3e573fdc99a98a9c7db026e4c40474eb78cab4a",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

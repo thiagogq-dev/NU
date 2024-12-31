@@ -1,0 +1,60 @@
+[
+    {
+        "repo_name": "argoproj/argo-events",
+        "CVE_ID": "CVE-2022-31054",
+        "Problem_Type": "CWE-787",
+        "Description": "Argo Events is an event-driven workflow automation framework for Kubernetes. Prior to version 1.7.1, several `HandleRoute` endpoints make use of the deprecated `ioutil.ReadAll()`. `ioutil.ReadAll()` reads all the data into memory. As such, an attacker who sends a large request to the Argo Events server will be able to crash it and cause denial of service. A patch for this vulnerability has been released in Argo Events version 1.7.1.",
+        "URL": "https://github.com/argoproj/argo-events/pull/1966",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "143f8beb81e87af523dd15a6de850c5e6a0e8f59",
+        "inducing_commit_hash_pyszz": [
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc"
+        ],
+        "inducing_commit_hash_pd": [
+            "22de2c470487dcd3f6e2255727e522b305df2d4c",
+            "28a5c2be7638580cde71598e8a9f58edf3283857",
+            "d3673d8ef952e3442377c193f1f3508d114b7fb5",
+            "fdc8eef12c488cc9854313289cc004bcbdd85f47",
+            "c16a1c597ff03b58d460307f50baede16fd059d4",
+            "21cb5b5d0780549bd2837f408683c6fa6335f2da",
+            "9d4a5c52dcd332a4fa462f739fc28d7e134ad6b7",
+            "3cf92547cce01a26dc58e5634837936fcea901e2",
+            "6939b1b46b7e3e997091a48124c99791f1011458",
+            "89897386b74f62c61baf0d5dc320dab6ead67428",
+            "af1f8557caaed0f081bac3a9172c51c793f65ffb",
+            "8f96b097242b8380de84c9ee670923746e962f61",
+            "38d6adc939e6ddbbae99eafc3f65da83040185c3",
+            "fcf4944fc0b4f899eb4c20bb15fb3b68c763c102",
+            "92968e2d987800eb053d7bd0249f02bfee948a90",
+            "b5e5d8e8b3186660e3f456ed3c36919a10d96acf",
+            "849a9ffb74cc402d20dedf0b57380bda4f09bb71",
+            "f493709fe2427ee0bd35159d2137bbc004ceacfb",
+            "6a9358204a065cf902b289d2f7cccad11c3c362c",
+            "feeaf5d0420f6949ccaf1904a8dcd58c65a176ac",
+            "0019098f333aa964c4380b6dd5a69afb12a1dcdf",
+            "b839fd052e19aa80d538190a532ebb206ed527ad",
+            "f02d2cd7bdac456bb8ba6b3de4a97831c403c7af",
+            "d6e6aed65b1f538f3148ec01ec95820924d26e29",
+            "1cf98ab45ad1ae189da7a89fd453252f0e8e890b",
+            "4ba0855140e3d5397736132767aac2255b0f1da9",
+            "12ae7b2e80f84faa0bafa476512473c59bbcb5be",
+            "93cd06d67d3a80c009d28ca426dfa74936edba4b",
+            "58cc0930603dfd4a685eb904e17610bbc2ca8637",
+            "145fd9a940833c6e5b398994305d85847215d957",
+            "feed8019901222470e02c693ee7216f59ecb9a50",
+            "2f027680621e8d7696a917764fd12519c757025e",
+            "f91e05905ae55094912ff1153b80fd3736db7727",
+            "88dc8b117f49504085c3b9d14dda5a1e2d46411d",
+            "28e23ce27180b0e457034548da635e198ab0ca83",
+            "160657f18961af7006567947f82b2b06c0808921",
+            "2363cc1f448ebc689b6cde967ca90b6a5461cef7",
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc",
+            "437cb88b1b840cd7402c048c6b5ac0e927caf3e8",
+            "099ed605dd80db9f3b607c7987d945b428068095",
+            "6b7b466bbff7e22227e33dd955ad4e5cd3755f02"
+        ],
+        "matched": [
+            "c70a1d11cd2818f6164bbcfef510d9ba10ef7cdc"
+        ]
+    }
+]

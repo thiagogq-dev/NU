@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "hazelcast/hazelcast",
+        "CVE_ID": "CVE-2023-33264",
+        "Problem_Type": "CWE-522",
+        "Description": "In Hazelcast through 5.0.4, 5.1 through 5.1.6, and 5.2 through 5.2.3, configuration routines don't mask passwords in the member configuration properly. This allows Hazelcast Management Center users to view some of the secrets.",
+        "URL": "https://github.com/hazelcast/hazelcast/pull/24266",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "74eed86c2b2b727148c442e98a01d0ca6941a49e",
+        "inducing_commit_hash_pyszz": [
+            "d1dc50ef2ac1652c487bb5c69788b4d589d03d00"
+        ],
+        "inducing_commit_hash_pd": [
+            "d2967c0e5f51d2f2cc91d80e71434b01c133632b",
+            "d1dc50ef2ac1652c487bb5c69788b4d589d03d00",
+            "eb8ffc40b2e2d7ccfa21e2acfd663bfff1496c6b",
+            "71b51932a777908caf3bcb1c7da275da6b3d2d80"
+        ],
+        "matched": [
+            "d1dc50ef2ac1652c487bb5c69788b4d589d03d00"
+        ]
+    }
+]

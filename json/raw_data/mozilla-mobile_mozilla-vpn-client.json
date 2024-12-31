@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "mozilla-mobile/mozilla-vpn-client",
+        "CVE_ID": "CVE-2021-29978",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Multiple low security issues were discovered and fixed in a security audit of Mozilla VPN 2.x branch as part of a 3rd party security audit. This vulnerability affects Mozilla VPN < 2.3.",
+        "URL": "https://github.com/mozilla-mobile/mozilla-vpn-client/pull/816",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f835964634a6a91613c251ceaaa5797a9bace9df",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

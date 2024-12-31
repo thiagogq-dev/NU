@@ -1,0 +1,33 @@
+[
+    {
+        "repo_name": "ViewComponent/view_component",
+        "CVE_ID": "CVE-2024-21636",
+        "Problem_Type": "CWE-79",
+        "Description": "view_component is a framework for building reusable, testable, and encapsulated view components in Ruby on Rails. Versions prior to 3.9.0 and 2.83.0 have a cross-site scripting vulnerability that has the potential to impact anyone rendering a component directly from a controller with the view_component gem. Note that only components that define a `#call` method (i.e. instead of using a sidecar template) are affected. The return value of the `#call` method is not sanitized and can include user-defined content. In addition, the return value of the `#output_postamble` methodis not sanitized, which can also lead to cross-site scripting issues. Versions 3.9.0 and 2.83.0 have been released and fully mitigate both the `#call` and the `#output_postamble` vulnerabilities. As a workaround, sanitize the return value of `#call`.",
+        "URL": "https://github.com/ViewComponent/view_component/pull/1950",
+        "Tag": "['Exploit', 'Issue Tracking', 'Patch']",
+        "fix_commit_hash": "0d26944a8d2730ea40e60eae23d70684483e5017",
+        "inducing_commit_hash_pyszz": [
+            "31fafe3ef350f5bfddddbe0c6cfc10a1b2738f5f"
+        ],
+        "inducing_commit_hash_pd": [
+            "6dc77b3e19839bac0e6db2577e1c3f0932177a59",
+            "c5ec804d41f7e7e0296963b32275b284f80c6f05",
+            "56a6560160795b5941ff67edcb56ea0878ae17fa",
+            "537cbdb9be8e8d1fbd99017ff74d1e9f4db980d9",
+            "b11ba1f197e71cab1cc0758373a58c9b2e364755",
+            "7a2c28452d3470497a30c8d6321b08ef601bbe87",
+            "434d7ed9f486a2202b4fa0075e5831386a776f49",
+            "31fafe3ef350f5bfddddbe0c6cfc10a1b2738f5f",
+            "1aed70907b60cafdff3c98e35189247da859e343",
+            "c507dbf24c1f2d9f2e92a2b0bf659506b7bba217",
+            "2c6fd61298b0f14a694df483fffee024ec2795c8",
+            "a0686ca47feea8a12693ae77b90fabd63b4e7872",
+            "b752ddca91c38d5863a40e479d8b323f10da9951",
+            "31d95701d4373a3a3f7f33cd314d0d158af5ec3d"
+        ],
+        "matched": [
+            "31fafe3ef350f5bfddddbe0c6cfc10a1b2738f5f"
+        ]
+    }
+]

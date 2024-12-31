@@ -1,0 +1,129 @@
+[
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-39363",
+        "Problem_Type": "CWE-863",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine (EVM). In versions 0.2.15, 0.2.16 and 0.3.0, named re-entrancy locks are allocated incorrectly. Each function using a named re-entrancy lock gets a unique lock regardless of the key, allowing cross-function re-entrancy in contracts compiled with the susceptible versions. A specific set of conditions is required to result in misbehavior of affected contracts, specifically: a `.vy` contract compiled with `vyper` versions `0.2.15`, `0.2.16`, or `0.3.0`; a primary function that utilizes the `@nonreentrant` decorator with a specific `key` and does not strictly follow the check-effects-interaction pattern (i.e. contains an external call to an untrusted party before storage updates); and a secondary function that utilizes the same `key` and would be affected by the improper state caused by the primary function. Version 0.3.1 contains a fix for this issue.",
+        "URL": "https://github.com/vyperlang/vyper/pull/2514",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "25aa67e5f600c6bc14c10aa0371d8e65f102f2c4",
+        "inducing_commit_hash_pyszz": [
+            "b3c8c27619333a5be0974eaafdccb363923968f9"
+        ],
+        "inducing_commit_hash_pd": [
+            "b3c8c27619333a5be0974eaafdccb363923968f9"
+        ],
+        "matched": [
+            "b3c8c27619333a5be0974eaafdccb363923968f9"
+        ]
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-39363",
+        "Problem_Type": "CWE-863",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine (EVM). In versions 0.2.15, 0.2.16 and 0.3.0, named re-entrancy locks are allocated incorrectly. Each function using a named re-entrancy lock gets a unique lock regardless of the key, allowing cross-function re-entrancy in contracts compiled with the susceptible versions. A specific set of conditions is required to result in misbehavior of affected contracts, specifically: a `.vy` contract compiled with `vyper` versions `0.2.15`, `0.2.16`, or `0.3.0`; a primary function that utilizes the `@nonreentrant` decorator with a specific `key` and does not strictly follow the check-effects-interaction pattern (i.e. contains an external call to an untrusted party before storage updates); and a secondary function that utilizes the same `key` and would be affected by the improper state caused by the primary function. Version 0.3.1 contains a fix for this issue.",
+        "URL": "https://github.com/vyperlang/vyper/pull/2439",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "eae0eaf86eb462746e4867352126f6c1dd43302f",
+        "inducing_commit_hash_pyszz": [
+            "233c92ea991648da27ecc7c156cce2d1cb3ed467"
+        ],
+        "inducing_commit_hash_pd": [
+            "a09cdddd8ba249d1ce68ac31ec4496e50b8a25c7",
+            "233c92ea991648da27ecc7c156cce2d1cb3ed467",
+            "b3c8c27619333a5be0974eaafdccb363923968f9"
+        ],
+        "matched": [
+            "233c92ea991648da27ecc7c156cce2d1cb3ed467"
+        ]
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-41052",
+        "Problem_Type": "CWE-670",
+        "Description": "Vyper is a Pythonic Smart Contract Language. In affected versions the order of evaluation of the arguments of the builtin functions `uint256_addmod`, `uint256_mulmod`, `ecadd` and `ecmul` does not follow source order. This behaviour is problematic when the evaluation of one of the arguments produces side effects that other arguments depend on. A patch is currently being developed on pull request #3583. When using builtins from the list above, users should make sure that the arguments of the expression do not produce side effects or, if one does, that no other argument is dependent on those side effects.",
+        "URL": "https://github.com/vyperlang/vyper/pull/3583",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "78fa8dd8f91ba0cb26277eeffb585c68c83e7daa",
+        "inducing_commit_hash_pyszz": [
+            "6ee74f5af58507029192732f828e13c431c273a3"
+        ],
+        "inducing_commit_hash_pd": [
+            "d70e3341b56f366016d025fb46f3983f9c75829f",
+            "bce9308847f383a18f71e55d3e925a62458681e8",
+            "6ee74f5af58507029192732f828e13c431c273a3",
+            "e4c08baf55540815fe8f23b9c8fc9c67206916d5",
+            "ce6c5d73a6cdde05358199a449c0ef4f4c5ef92a",
+            "3abe588e05be6f6cbfac283739d797ef6c485756",
+            "2ab392d18209ab7e68dc2770ceb931225a0d1787",
+            "ea4eaee845b27f8eb78cb8ec2bbbf75547f2c00f",
+            "dfbca3eea5118ebb7873979c2e122634b7c70c53",
+            "3d04c4fd5fdc6068fce6c06f9399e671739eedca"
+        ],
+        "matched": [
+            "6ee74f5af58507029192732f828e13c431c273a3"
+        ]
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-42441",
+        "Problem_Type": "CWE-667",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the Ethereum Virtual Machine (EVM). Starting in version 0.2.9 and prior to version 0.3.10, locks of the type `@nonreentrant(\"\")` or `@nonreentrant('')` do not produce reentrancy checks at runtime. This issue is fixed in version 0.3.10. As a workaround, ensure the lock name is a non-empty string.",
+        "URL": "https://github.com/vyperlang/vyper/pull/3605",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "0b740280c1e3c5528a20d47b29831948ddcc6d83",
+        "inducing_commit_hash_pyszz": [
+            "ed0a654aa2f1069874c2c6d21b8932737aee3f6f"
+        ],
+        "inducing_commit_hash_pd": [
+            "7853c769c017da66edae0c84a3e6d33c2f998167",
+            "ed0a654aa2f1069874c2c6d21b8932737aee3f6f",
+            "b6ca0054b73e143c6d9c3ac3ce226e9392c00e9c",
+            "58875bb5d830c83f512f4e786656d0d71c1c09e5",
+            "fda08e79c32bf8a023b1e3e5b06d24e1f66a7bfd",
+            "c9932b771ccd9f9283e7125005457595f852b78a",
+            "046ea166d93b8351da7c5d74115893eea2f60d76",
+            "74cf429a83f84ffb273ae9e5a170b43626c81258",
+            "5c40497cdcd22b5716f5b27fcabedff2b5fe1056",
+            "e8b5b3c2f53e6417f98e215225b544c4c50615e2",
+            "bb0030bd7ee725fc8ad9f0dbcc269c8a7285650f",
+            "017ef0eb499bc4f18c2bbf488a0fab0408894164",
+            "716379febbc4df9fc80c8a70c33bb053a58feac9",
+            "796a075ff37e22286ea70c78c2b0bbbb29403d3d"
+        ],
+        "matched": [
+            "ed0a654aa2f1069874c2c6d21b8932737aee3f6f"
+        ]
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2023-42460",
+        "Problem_Type": "CWE-682",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the EVM. The `_abi_decode()` function does not validate input when it is nested in an expression. Uses of `_abi_decode()` can be constructed which allow for bounds checking to be bypassed resulting in incorrect results. This issue has not yet been fixed, but a fix is expected in release `0.3.10`. Users are advised to reference pull request #3626.",
+        "URL": "https://github.com/vyperlang/vyper/pull/3626",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "d438d927bed3b850fe4768a490f3acde5f51b475",
+        "inducing_commit_hash_pyszz": [
+            "b8dea0cec9b4a4a07b70f28aa164894b98d4ff80"
+        ],
+        "inducing_commit_hash_pd": [
+            "f52b81164b7257ea429cf3c90ddfe894b9cb670f",
+            "b8dea0cec9b4a4a07b70f28aa164894b98d4ff80"
+        ],
+        "matched": [
+            "b8dea0cec9b4a4a07b70f28aa164894b98d4ff80"
+        ]
+    },
+    {
+        "repo_name": "vyperlang/vyper",
+        "CVE_ID": "CVE-2021-41121",
+        "Problem_Type": "CWE-119",
+        "Description": "Vyper is a Pythonic Smart Contract Language for the EVM. In affected versions when performing a function call inside a literal struct, there is a memory corruption issue that occurs because of an incorrect pointer to the the top of the stack. This issue has been resolved in version 0.3.0.",
+        "URL": "https://github.com/vyperlang/vyper/pull/2447",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "93287e5ac184b53b395c907d40701f721daf8177",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

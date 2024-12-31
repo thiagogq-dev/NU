@@ -1,0 +1,41 @@
+[
+    {
+        "repo_name": "visjs/vis-timeline",
+        "CVE_ID": "CVE-2020-28487",
+        "Problem_Type": "CWE-79",
+        "Description": "This affects the package vis-timeline before 7.4.4. An attacker with the ability to control the items of a Timeline element can inject additional script code into the generated application.",
+        "URL": "https://github.com/visjs/vis-timeline/pull/840",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a7ca349c7b3b6080efd05776ac77bb27176d4d3f",
+        "inducing_commit_hash_pyszz": [
+            "8cb8d7591f207c87073b25483f217f060e0820d4"
+        ],
+        "inducing_commit_hash_pd": [
+            "5c2866e8c53880a464474148aa610e2a5d44e716",
+            "032f8e65154dc4cfee30e81f473fb0d4201faaa4",
+            "ee060b6a24367dde70e75d910778a5ccd566ac3d",
+            "b421b0eb77be4daeac8b8cf661f538bc17562cb0",
+            "808c5a03139b8c119c21e114d8008034e5cbd5ae",
+            "8cb8d7591f207c87073b25483f217f060e0820d4",
+            "823d5db325271375c556db60ec0f4ca163078f83",
+            "28bf8d045da8c6231e665725a27d771b5878c066",
+            "8a5c965c90542915d9ef6a70fbee90b01bb3013e",
+            "22f593618e91a07e4165d4c3568db8581cb44b77",
+            "7c9bdbe46f830a80230a083ad69e93ee7cfc3c91",
+            "918ac7ef1d30e511d4ec7da46c18748c3934c93c",
+            "742c289a83ac3e229bea6947a89888ad63968140",
+            "38c71921d910b556319867bfa1f09f824e6b6dfa",
+            "7c805819f466ac5b5d6ba49cf7f422f0488544c3",
+            "d535f69ab067fa55f06c2f2f8f95ef9019db5bb2",
+            "f718d3442df9a2cb1f1b890d758c77e4e369f131",
+            "16ab9b8ea008a1708e0746b85ebcde5799a06992",
+            "b037a34fe12b1ae0bb92d769ebb7236e60f006b6",
+            "1e0c16c6d6dedef69ce5cc29b6f600bc8f965d8e",
+            "f90b5fa5a97c59ad47d21ae9479e53c8ef73cc03",
+            "4053eb032e57b870e286929a3e10512eb02d872d"
+        ],
+        "matched": [
+            "8cb8d7591f207c87073b25483f217f060e0820d4"
+        ]
+    }
+]

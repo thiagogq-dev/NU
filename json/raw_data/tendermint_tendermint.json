@@ -1,0 +1,38 @@
+[
+    {
+        "repo_name": "tendermint/tendermint",
+        "CVE_ID": "CVE-2023-34451",
+        "Problem_Type": "CWE-401",
+        "Description": "CometBFT is a Byzantine Fault Tolerant (BFT) middleware that takes a state transition machine and replicates it on many machines. The mempool maintains two data structures to keep track of outstanding transactions: a list and a map.\nThese two data structures are supposed to be in sync all the time in the sense that the map tracks the index (if any) of the transaction in the list. In `v0.37.0`, and `v0.37.1`, as well as in `v0.34.28`, and all previous releases of the CometBFT repo2, it is possible to have them out of sync. When this happens, the list may contain several copies of the same transaction. Because the map tracks a single index, it is then no longer possible to remove all the copies of the transaction from the list. This happens even if the duplicated transaction is later committed in a block. The only way to remove the transaction is by restarting the node.\n\nThe above problem can be repeated on and on until a sizable number of transactions are stuck in the mempool, in order to try to bring down the target node. The problem is fixed in releases `v0.34.29` and `v0.37.2`. Some workarounds are available. Increasing the value of `cache_size` in `config.toml` makes it very difficult to effectively attack a full node. Not exposing the transaction submission RPC's would mitigate the probability of a successful attack, as the attacker would then have to create a modified (byzantine) full node to be able to perform the attack via p2p.",
+        "URL": "https://github.com/tendermint/tendermint/pull/2778",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "6de7effb05581f9bea2e8af06e4e74a85c34bc5f",
+        "inducing_commit_hash_pyszz": [
+            "41f91318e9e253a1b59cc1cc128ad412941b8e2a"
+        ],
+        "inducing_commit_hash_pd": [
+            "c147b41013b88ec0b6ed0350cf1ed41bb0e59faf",
+            "1ea64fc27ff51079a85c3cc741115ad8fe6ee88c",
+            "92343ef484374b6010a87e8c3c8de9fb77e0ef7a",
+            "3a7ee13ece56dc28d26f3c9c4a9bdea6b20ec46d",
+            "ef43af19ab2af994afaf9fdb148df2918454d9c4",
+            "35a1d747b0d1fee110e749dca84a58387588f074",
+            "d55243f0e640de98f7adf0ad5fed4855e0942c1e",
+            "331857c9e6df11eb46785a89e1142a301c0b3c45",
+            "8a1a79257e8e8b309cd35bb1fe40bf9b3330fd7d",
+            "111e62703707d9898c3287bcff487fe40b9f50de",
+            "b38748ad1ab14b723307cd82ae87997e6a1a0b4f",
+            "12566f51af2bbdc73e3c79c603be0593d8cb1574",
+            "41f91318e9e253a1b59cc1cc128ad412941b8e2a",
+            "d31d3c58ad69474c455a6fddbf217cd766da61a2",
+            "88138c38cf77a4fa93fa616f0e1045eb6f17fdfd",
+            "d460df1335fb3e0af2a9346c16cc35013552ba5d",
+            "bd531401a0ed903ace22f1154408360984323500",
+            "a4f57e164b4fbd137c797d8b8852553c4be627b2",
+            "d73c5cbdb16e35624885f73e7e5c4897094d73be"
+        ],
+        "matched": [
+            "41f91318e9e253a1b59cc1cc128ad412941b8e2a"
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "repo_name": "rmagick/rmagick",
+        "CVE_ID": "CVE-2023-5349",
+        "Problem_Type": "CWE-401",
+        "Description": "A memory leak flaw was found in ruby-magick, an interface between Ruby and ImageMagick. This issue can lead to a denial of service (DOS) by memory exhaustion.",
+        "URL": "https://github.com/rmagick/rmagick/pull/1406",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "fec7a7e639ae565386f7615155dbcf49b957b64a",
+        "inducing_commit_hash_pyszz": [
+            "291dce5ef6ff9b08c678d313a5e8e4f0889970ed"
+        ],
+        "inducing_commit_hash_pd": [
+            "291dce5ef6ff9b08c678d313a5e8e4f0889970ed"
+        ],
+        "matched": [
+            "291dce5ef6ff9b08c678d313a5e8e4f0889970ed"
+        ],
+        "pr_status": "merged"
+    }
+]

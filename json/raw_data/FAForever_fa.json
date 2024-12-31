@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "FAForever/fa",
+        "CVE_ID": "CVE-2022-4879",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "A vulnerability was found in Forged Alliance Forever up to 3746. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Vote Handler. The manipulation leads to improper authorization. Upgrading to version 3747 is able to address this issue. The patch is named 6880971bd3d73d942384aff62d53058c206ce644. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-217555.",
+        "URL": "https://github.com/FAForever/fa/pull/4398",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "6880971bd3d73d942384aff62d53058c206ce644",
+        "inducing_commit_hash_pyszz": [
+            "ba20074d7cb38fbc769c1f3d4e5305a56084d75d"
+        ],
+        "inducing_commit_hash_pd": [
+            "ba20074d7cb38fbc769c1f3d4e5305a56084d75d",
+            "b1e44ebd48b5e7dd82d9007ec10f261a5ed5732e",
+            "3030487bd255ad74c484a917e8c3977b58bfe90d",
+            "740f918d3d5d1df05c6444ebc26227485e1e6405",
+            "ce3da3a03745dcaa188b3715d979d1a2d5ed6d62"
+        ],
+        "matched": [
+            "ba20074d7cb38fbc769c1f3d4e5305a56084d75d"
+        ]
+    }
+]

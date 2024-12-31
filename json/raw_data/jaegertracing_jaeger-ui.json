@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "jaegertracing/jaeger-ui",
+        "CVE_ID": "CVE-2023-36656",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross Site Scripting (XSS) vulnerability in Jaegertracing Jaeger UI before v.1.31.0 allows a remote attacker to execute arbitrary code via the KeyValuesTable component.",
+        "URL": "https://github.com/jaegertracing/jaeger-ui/pull/1498",
+        "Tag": "['Patch', 'Vendor Advisory']",
+        "fix_commit_hash": "7df099cb5a91c6ce296d234f290823557db9bf2c",
+        "inducing_commit_hash_pyszz": [
+            "590cf8c28bb7dc4e4308177246cc74c1b217cfd6"
+        ],
+        "inducing_commit_hash_pd": [
+            "ee7ce64f6784e5e00718a58680a43098f83a3c94",
+            "2a179bfb1a35bbf2d8f301ac8e2cf29a256d6667",
+            "f3ea98b80853a534e1507599f189fbf04ceb8eaf",
+            "e31801d1a283cc40b360cfda01e4e061a124c0d8",
+            "28aca0ea67fb1e324f57c45b68f9603d5aa8b30b",
+            "510f77e2f24ac64ca0f318c2c1b7430eaddfac74",
+            "590cf8c28bb7dc4e4308177246cc74c1b217cfd6"
+        ],
+        "matched": [
+            "590cf8c28bb7dc4e4308177246cc74c1b217cfd6"
+        ]
+    }
+]

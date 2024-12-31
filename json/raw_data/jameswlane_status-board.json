@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "jameswlane/status-board",
+        "CVE_ID": "CVE-2019-15478",
+        "Problem_Type": "CWE-79",
+        "Description": "Status Board 1.1.81 has reflected XSS via logic.ts.",
+        "URL": "https://github.com/jameswlane/status-board/pull/949",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a02138ce8695b1fe0dbf4d9211fbedb1c3b77b0e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "jameswlane/status-board",
+        "CVE_ID": "CVE-2019-15479",
+        "Problem_Type": "CWE-79",
+        "Description": "Status Board 1.1.81 has reflected XSS via dashboard.ts.",
+        "URL": "https://github.com/jameswlane/status-board/pull/948",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7d9795aecbecae2a100ed78ac09f25535e08d631",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "repo_name": "pomerium/pomerium",
+        "CVE_ID": "CVE-2022-24797",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "Pomerium is an identity-aware access proxy. In distributed service mode, Pomerium's Authenticate service exposes pprof debug and prometheus metrics handlers to untrusted traffic. This can leak potentially sensitive environmental information or lead to limited denial of service conditions. This issue is patched in version v0.17.1 Workarounds: Block access to `/debug` and `/metrics` paths on the authenticate service. This can be done with any L7 proxy, including Pomerium's own proxy service.",
+        "URL": "https://github.com/pomerium/pomerium/pull/3212",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b435f73e2b54088da2aca5e8c3aa1808293d6903",
+        "inducing_commit_hash_pyszz": [
+            "a5034aabaeed210f30e2c1b34d6becebbb342201"
+        ],
+        "inducing_commit_hash_pd": [
+            "8b42eb5ebd079d8859ee2806495230924ae997f6",
+            "bbec2cae9f7ea9d75ebfea7ff7c20e656c350666",
+            "a5034aabaeed210f30e2c1b34d6becebbb342201",
+            "f822c9a5d274523200cb9d049629d697b50f91c3",
+            "e2ebef44ef799961cab713f672bcd87224ca9a7e",
+            "4ed3d8463268074f0150a07c9d8f4e78504eb0d5",
+            "99e788a9b4efe828dc711499a8d7f218353d988c",
+            "a825b060146c1d73adf4556fbb23aa47e1e8ae95",
+            "bec98051ae96b307f8fa9daf8dabae38a15f0743",
+            "f760cdece5a11c883e6b2f3a8017ed4b50a960e9",
+            "bd0a5389bfa971c25caf0b9d447cb6d62c2bdf7b",
+            "a8a703218fa6e1a91a667521dc4499c4c12d38ac",
+            "cb09aa4199d128e4f7a65842f294bd01ac74acc7",
+            "1dcccf2b56d8d6a472fba11be0a7658dd05001dc",
+            "75f2ed93eab89d50637c0e908f00caeecc4feb60",
+            "e0c09a09980d5355de8b2fffae0af89306eea381"
+        ],
+        "matched": [
+            "a5034aabaeed210f30e2c1b34d6becebbb342201"
+        ]
+    },
+    {
+        "repo_name": "pomerium/pomerium",
+        "CVE_ID": "CVE-2021-41230",
+        "Problem_Type": "CWE-863",
+        "Description": "Pomerium is an open source identity-aware access proxy. In affected versions changes to the OIDC claims of a user after initial login are not reflected in policy evaluation when using `allowed_idp_claims` as part of policy. If using `allowed_idp_claims` and a user's claims are changed, Pomerium can make incorrect authorization decisions. This issue has been resolved in v0.15.6. For users unable to upgrade clear data on `databroker` service by clearing redis or restarting the in-memory databroker to force claims to be updated.",
+        "URL": "https://github.com/pomerium/pomerium/pull/2724",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "79ec52d3546684cee216057d05d4cab889186b6e",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

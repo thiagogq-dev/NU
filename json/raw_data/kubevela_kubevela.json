@@ -1,0 +1,22 @@
+[
+    {
+        "repo_name": "kubevela/kubevela",
+        "CVE_ID": "CVE-2022-39383",
+        "Problem_Type": "CWE-918",
+        "Description": "KubeVela is an open source application delivery platform. Users using the VelaUX APIServer could be affected by this vulnerability. When using Helm Chart as the component delivery method, the request address of the warehouse is not restricted, and there is a blind SSRF vulnerability. Users who're using v1.6, please update the v1.6.1. Users who're using v1.5, please update the v1.5.8. There are no known workarounds for this issue.",
+        "URL": "https://github.com/kubevela/kubevela/pull/5000",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "85489c63b4a3c2148229e5384af9e01e4e8471aa",
+        "inducing_commit_hash_pyszz": [
+            "e37b0276c87d4d2b97f926f6f0484f37ddcb5fa5"
+        ],
+        "inducing_commit_hash_pd": [
+            "5de790413f12dcbd5882fac43828b54d00815b9f",
+            "e37b0276c87d4d2b97f926f6f0484f37ddcb5fa5",
+            "f6eea78ec860816869aecb6f017a4e047a443806"
+        ],
+        "matched": [
+            "e37b0276c87d4d2b97f926f6f0484f37ddcb5fa5"
+        ]
+    }
+]

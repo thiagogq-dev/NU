@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "hunterhacker/jdom",
+        "CVE_ID": "CVE-2021-33813",
+        "Problem_Type": "CWE-611",
+        "Description": "An XXE issue in SAXBuilder in JDOM through 2.0.6 allows attackers to cause a denial of service via a crafted HTTP request.",
+        "URL": "https://github.com/hunterhacker/jdom/pull/188",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "2a25ee409d09fb3eed75a4272ab8540c5261f960",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "repo_name": "stellar/freighter",
+        "CVE_ID": "CVE-2023-40580",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Freighter is a Stellar chrome extension. It may be possible for a malicious website to access the recovery mnemonic phrase when the Freighter wallet is unlocked. This vulnerability impacts access control to the mnemonic recovery phrase. This issue was patched in version 5.3.1.",
+        "URL": "https://github.com/stellar/freighter/pull/948",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "81f78ba008c41ce631a3d0f9e4449f4bbd90baee",
+        "inducing_commit_hash_pyszz": [
+            "3b4573b4970c61db911d0b13437d7a82c73e5674"
+        ],
+        "inducing_commit_hash_pd": [
+            "ee2a3219ce16a821a22b6c0f3e6a1baa35729e36",
+            "3fb1cefa1b87b8f2735ce28b43ee7e3bfd42fd9d",
+            "1a8c054105db01986a9519721e864483a7a522c2",
+            "b23faa7b5c376bc75050c2eb2a61f69b227bb472",
+            "17952d9d3cacea8117d49367f3abf9c1d168db35",
+            "28afbfcfa1111f30d5a93e9bd8219e166329ae2a",
+            "3b4573b4970c61db911d0b13437d7a82c73e5674",
+            "b643b182edcbd82369639bee08631782082202e2",
+            "e9bd5c11dc1e8299ec715d2ac34313e83665954e",
+            "920ebb2f03739113d2b43628fe8e5fe673f1ebf4",
+            "0b206a224c223dabe49269ead17384c2eaebc787",
+            "a46a8b8fe92eab5a8f78caecc234eb5075c0293c",
+            "4a4b639618f7a681ec3902f5d099b95db6a5a247",
+            "d56f72a5a9a6a7fcd04c91b55dd9e3261a3be2b3",
+            "f2e89931f21bdea8eb73a8136c5afe3a15c64166",
+            "e674997ab745672ef82f39c102efa3ff5a8fc3a0",
+            "cfa00883193a460c9358e8423c44337705ebc500"
+        ],
+        "matched": [
+            "3b4573b4970c61db911d0b13437d7a82c73e5674"
+        ],
+        "pr_status": "merged"
+    }
+]

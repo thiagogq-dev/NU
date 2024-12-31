@@ -1,0 +1,39 @@
+[
+    {
+        "repo_name": "httplib2/httplib2",
+        "CVE_ID": "CVE-2021-21240",
+        "Problem_Type": "CWE-400",
+        "Description": "httplib2 is a comprehensive HTTP client library for Python. In httplib2 before version 0.19.0, a malicious server which responds with long series of \"\\xa0\" characters in the \"www-authenticate\" header may cause Denial of Service (CPU burn while parsing header) of the httplib2 client accessing said server. This is fixed in version 0.19.0 which contains a new implementation of auth headers parsing using the pyparsing library.",
+        "URL": "https://github.com/httplib2/httplib2/pull/182",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "bd9ee252c8f099608019709e22c0d705e98d26bc",
+        "inducing_commit_hash_pyszz": [
+            "595e248d0958c00e83cb28f136a2a54772772b50"
+        ],
+        "inducing_commit_hash_pd": [
+            "4009e8e4922bb592f6ab93cb1f3aa0e4d650e847",
+            "013682ef34f85d711b999eee57b6723bde09a291",
+            "5c1b00a03221f55ac48b0d34030160cf55b4225f",
+            "2d66d4f74f67dc9a49d6cf80bac4a289718422f1",
+            "9fef207e85eef0534574d71fe1338c01874eba46",
+            "806de52a2939d95800e43b1ab96be45a33b882d1",
+            "fc738882a84efd3c88abe5c494805332b212840c",
+            "2a806cb4bc731058541ab902101ea7750f350282",
+            "5bb616cc0d4bb38df695ba74bbf7aab2108b12a4",
+            "ece4af0a99d0429b29eaf0b34a06831d5ae11516",
+            "fd22e434835b9c2cfddcba21e1a8722a1e6c2b9a",
+            "6fa3cf2095e3ae2b3e7e43280a3906b0e6a6268f",
+            "00a352e01258751b1fceaf8a1c802c20c0d60996",
+            "45441b2f0ea6180853b087f77169f44ce726a508",
+            "0112effa2d2e2137b08b3c64dc47b4b7414fce9e",
+            "07a9a4aa4cb78ad716d55db5beffd7f2dbe1cbcc",
+            "aa1b95b2858ddc7a2f1f1ae07000cfe478f6e340",
+            "f2a6f752f9e76e9eb89a6b535e2f1eed0cbc66da",
+            "f35aafc453b09e9331d2d12fc982a7cbed35727d",
+            "595e248d0958c00e83cb28f136a2a54772772b50"
+        ],
+        "matched": [
+            "595e248d0958c00e83cb28f136a2a54772772b50"
+        ]
+    }
+]

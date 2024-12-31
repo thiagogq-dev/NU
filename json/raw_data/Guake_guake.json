@@ -1,0 +1,46 @@
+[
+    {
+        "repo_name": "Guake/guake",
+        "CVE_ID": "CVE-2021-23556",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "The package guake before 3.8.5 are vulnerable to Exposed Dangerous Method or Function due to the exposure of execute_command and execute_command_by_uuid methods via the d-bus interface, which makes it possible for a malicious user to run an arbitrary command via the d-bus method. **Note:** Exploitation requires the user to have installed another malicious program that will be able to send dbus signals or run terminal commands.",
+        "URL": "https://github.com/Guake/guake/pull/2017/commits/e3d671120bfe7ba28f50e256cc5e8a629781b888",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b769b3a5fd71a107c58679d217cccc971b4196b4",
+        "inducing_commit_hash_pyszz": [
+            "1dbab10db1a9e8e940c47d0afaee201b622fe853"
+        ],
+        "inducing_commit_hash_pd": [
+            "57fde2fef051f46014b9494a7412a9f4745eae01",
+            "7d9de8ee64790ad9ef563ddcc0dfc2df4035abaa",
+            "1dbab10db1a9e8e940c47d0afaee201b622fe853",
+            "9fbbfb2a67a87dbd9d91c80bfaf8fed2401b19d6",
+            "3ac1a69660d6b2e3dcf0fb2edf6a308cd0e9a3b4"
+        ],
+        "matched": [
+            "1dbab10db1a9e8e940c47d0afaee201b622fe853"
+        ]
+    },
+    {
+        "repo_name": "Guake/guake",
+        "CVE_ID": "CVE-2021-23556",
+        "Problem_Type": "NVD-CWE-Other",
+        "Description": "The package guake before 3.8.5 are vulnerable to Exposed Dangerous Method or Function due to the exposure of execute_command and execute_command_by_uuid methods via the d-bus interface, which makes it possible for a malicious user to run an arbitrary command via the d-bus method. **Note:** Exploitation requires the user to have installed another malicious program that will be able to send dbus signals or run terminal commands.",
+        "URL": "https://github.com/Guake/guake/pull/2017",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b769b3a5fd71a107c58679d217cccc971b4196b4",
+        "inducing_commit_hash_pyszz": [
+            "1dbab10db1a9e8e940c47d0afaee201b622fe853"
+        ],
+        "inducing_commit_hash_pd": [
+            "57fde2fef051f46014b9494a7412a9f4745eae01",
+            "7d9de8ee64790ad9ef563ddcc0dfc2df4035abaa",
+            "1dbab10db1a9e8e940c47d0afaee201b622fe853",
+            "9fbbfb2a67a87dbd9d91c80bfaf8fed2401b19d6",
+            "3ac1a69660d6b2e3dcf0fb2edf6a308cd0e9a3b4"
+        ],
+        "matched": [
+            "1dbab10db1a9e8e940c47d0afaee201b622fe853"
+        ]
+    }
+]

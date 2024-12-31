@@ -1,0 +1,29 @@
+[
+    {
+        "repo_name": "internetarchive/openlibrary",
+        "CVE_ID": "CVE-2022-23081",
+        "Problem_Type": "CWE-79",
+        "Description": "In openlibrary versions deploy-2016-07-0 through deploy-2021-12-22 are vulnerable to Reflected XSS.",
+        "URL": "https://github.com/internetarchive/openlibrary/pull/6597/commits/5460c8e8b517ef83c6a3b33654ba43ef0cbf051e",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "5460c8e8b517ef83c6a3b33654ba43ef0cbf051e",
+        "inducing_commit_hash_pyszz": [
+            "4ffb20bc05066a9b5e44ded102a2ace848427400"
+        ],
+        "inducing_commit_hash_pd": [
+            "b753884872f93ef6b969dd7fca909b6915e65afa",
+            "23eb5c7f36b3df1249dc7708b0778c8d5bfb3a51",
+            "7ee6c7a9f273f4a416ee182260d9514da5bb7748",
+            "3af86d830db97063166b66fbb15edfe2fddfbe70",
+            "d78592844f0669b3e38352747129d50416bfa214",
+            "6cb9cd2ea86b2acdd9a89cf90e2fd77a536456c5",
+            "e51868564ec234f70960cdc44223ca84ba0fb774",
+            "4ffb20bc05066a9b5e44ded102a2ace848427400",
+            "a5dc29730a5f98c364615bda2a37cf8791be81c5",
+            "44ca644958411d60a595e16da26595db26f7208f"
+        ],
+        "matched": [
+            "4ffb20bc05066a9b5e44ded102a2ace848427400"
+        ]
+    }
+]

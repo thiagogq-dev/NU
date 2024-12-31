@@ -1,0 +1,24 @@
+[
+    {
+        "repo_name": "wasm3/wasm3",
+        "CVE_ID": "CVE-2022-28990",
+        "Problem_Type": "CWE-787",
+        "Description": "WASM3 v0.5.0 was discovered to contain a heap overflow via the component /wabt/bin/poc.wasm.",
+        "URL": "https://github.com/wasm3/wasm3/pull/324",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8441c82c4a98f554b12971450220b580c3c2b6df",
+        "inducing_commit_hash_pyszz": [
+            "6d423a8fbad2f217e75e2e73ddecd5627890c77c"
+        ],
+        "inducing_commit_hash_pd": [
+            "d23269c76baac8fc3ae0b4baa262f1a33edaaaf8",
+            "18b8f6b1f156f3f49fff126b4958f1c917875aeb",
+            "5febf3e77fc52f171535c34f477c6f3f55f73fbc",
+            "23ab0983e98dc33e5b2a83bf2d4da946471fc1aa"
+        ],
+        "matched": [
+            "6d423a8fbad2f217e75e2e73ddecd5627890c77c"
+        ],
+        "pr_status": "merged"
+    }
+]

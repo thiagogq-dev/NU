@@ -1,0 +1,45 @@
+[
+    {
+        "repo_name": "ACINQ/eclair",
+        "CVE_ID": "CVE-2021-41591",
+        "Problem_Type": "CWE-770",
+        "Description": "ACINQ Eclair before 0.6.3 allows loss of funds because of dust HTLC exposure.",
+        "URL": "https://github.com/ACINQ/eclair/pull/1985",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "75eafd0e4d4d93ac51e40a56c85e9df87a47d391",
+        "inducing_commit_hash_pyszz": [
+            "af618bc44fe6054957f65d77000a460c14b41f30"
+        ],
+        "inducing_commit_hash_pd": [
+            "f202587e9c71b2106194c0e6cabc8032f6f67df4",
+            "daddfc007fe569c89bb854ef5d672614d397e91e",
+            "08c21fa5e919c4033c3606c3abe5e5830b6a230d",
+            "84650f8147d4c6a3037d0a5e3d8207a2628cc6d9",
+            "5b7a474b6a758aab00bbb651c141eb5c7045d04f",
+            "46e48735620d1bbce722c9715af22de783791060",
+            "c22596bb9243331c8195998738a89d1b0739bf60",
+            "95b34f270f32eabbf0145880850ebf393d96831e",
+            "92e53dc9a9b2d9f717ac45889ac954681d1da95b",
+            "5b718bffac46fc5907f71a9ef0b172cc72b2d30f",
+            "92a094c4987133bf2496a7b3515c7bd89de0d524",
+            "4012db582815e4d77b4cb20831bb11db0e90a6a7",
+            "af618bc44fe6054957f65d77000a460c14b41f30",
+            "06b2337ed905ad72ba7fc0b7d7b110cd6c78ca39",
+            "d07a20135312a7461344bda3fbbfd028ab287ac5",
+            "22b6bfb0abce4f7f27f91be625e129f0a0beb20d",
+            "c7cc536b9da8a6b14ce3f4eeb993fbe00952fa2f",
+            "4875d4c879fcfc82560b4f365a2b0b947bd4187b",
+            "b728520ad7f3d8f5968c0f5d8d29dbb587ebb4b0",
+            "9f2b0368c70e62351ff880044a6a0af946fdaa72",
+            "31022ceca52e5e16e0353de3cdbb3c3330d2e574",
+            "ab7b373d58e64cade16e6935c25ccfd26dfd27ff",
+            "8887ac20433d8e9d12d367e326e516129d5414dc",
+            "6b05099f073c1cf74098b690a2c7928f647b8231",
+            "768a74558f184477bb0ca30670407178f179b0a1",
+            "f061f598036f6b08608c5ebb59f95dbd9600101c"
+        ],
+        "matched": [
+            "af618bc44fe6054957f65d77000a460c14b41f30"
+        ]
+    }
+]

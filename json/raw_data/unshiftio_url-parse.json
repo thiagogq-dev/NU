@@ -1,0 +1,31 @@
+[
+    {
+        "repo_name": "unshiftio/url-parse",
+        "CVE_ID": "CVE-2021-27515",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "url-parse before 1.5.0 mishandles certain uses of backslash such as http:\\/ and interprets the URI as a relative path.",
+        "URL": "https://github.com/unshiftio/url-parse/pull/197",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d1e7e8822f26e8a49794b757123b51386325b2b0",
+        "inducing_commit_hash_pyszz": [
+            "3ecd256f127c3ada36a84d9b8dd3ebd14316274b"
+        ],
+        "inducing_commit_hash_pd": [
+            "0891e7e823385b7f51e1efd23f168e275d4baf5b",
+            "19b808a294556348b8c31dc93a54f38f6f6a72a4",
+            "6a49ad2a5cb4130e85d4cab423bf1f186f09cb99",
+            "4ee968f4c5f14fe085d6ae2bf6ab52d14a26f9ef",
+            "ba3c9658324e82264825117e1c86e398189e537e",
+            "53b1794e54d0711ceb52505e0f74145270570d5a",
+            "0838acd80d1c44f27780ffeb8decd62fb9aba5f4",
+            "e06eb7fd7a6d62d9728ae84c75535de99ab72929",
+            "14dd952282b922fabf45b240289a28c95e687528",
+            "1e2bd7130b99a5d81e2e4d69b0cbe441d6059193",
+            "3ecd256f127c3ada36a84d9b8dd3ebd14316274b",
+            "a8c93172419b30d90ad64a04f4e0bb9bb8e1094e"
+        ],
+        "matched": [
+            "3ecd256f127c3ada36a84d9b8dd3ebd14316274b"
+        ]
+    }
+]

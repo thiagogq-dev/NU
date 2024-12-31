@@ -1,0 +1,30 @@
+[
+    {
+        "repo_name": "friendica/friendica",
+        "CVE_ID": "CVE-2021-30141",
+        "Problem_Type": "CWE-401",
+        "Description": "Module/Settings/UserExport.php in Friendica through 2021.01 allows settings/userexport to be used by anonymous users, as demonstrated by an attempted access to an array offset on a value of type null, and excessive memory consumption. NOTE: the vendor states \"the feature still requires a valid authentication cookie even if the route is accessible to non-logged users.",
+        "URL": "https://github.com/friendica/friendica/pull/10113/commits/acbcc56754121ba080eac5b6fdf69e64ed7fe453",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "acbcc56754121ba080eac5b6fdf69e64ed7fe453",
+        "inducing_commit_hash_pyszz": [
+            "8f27715d8b864fb31bf96ba481f1a10c7d70659c"
+        ],
+        "inducing_commit_hash_pd": [
+            "9b03e2a5644f65f8ab43d0832eb7f1efbe9db999",
+            "8f27715d8b864fb31bf96ba481f1a10c7d70659c",
+            "845ab4b76420845dc9f625b8cd5f79a28e0c5ce4",
+            "e8bf74914b80884ccaf8d137366dea5d71215640",
+            "b892db0cf3d12518b306940a37b139a2a4c3e14c",
+            "2ed61194d5cbebdac3d66f1e385a1f928213d632",
+            "46172b641df8c1b1c3e5608e4dff6c3f1db6e6ef",
+            "955a84a2667e970e66f17aa7557f92cd881a17bd",
+            "d3122c396ea2c90da43da53542acfe5575f1fc09",
+            "1de3f186d79f3703850524c1d58c237be3eb25f3",
+            "048b693fbfa6dcaf29e7dac48f9fd99902430a09"
+        ],
+        "matched": [
+            "8f27715d8b864fb31bf96ba481f1a10c7d70659c"
+        ]
+    }
+]

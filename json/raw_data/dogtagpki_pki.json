@@ -1,0 +1,114 @@
+[
+    {
+        "repo_name": "dogtagpki/pki",
+        "CVE_ID": "CVE-2021-20179",
+        "Problem_Type": "CWE-863",
+        "Description": "A flaw was found in pki-core. An attacker who has successfully compromised a key could use this flaw to renew the corresponding certificate over and over again, as long as it is not explicitly revoked. The highest threat from this vulnerability is to data confidentiality and integrity.",
+        "URL": "https://github.com/dogtagpki/pki/pull/3475",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "608e9bbe537aba314b124ceef70f9b606ab7e121",
+        "inducing_commit_hash_pyszz": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "inducing_commit_hash_pd": [
+            "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7",
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "matched": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ]
+    },
+    {
+        "repo_name": "dogtagpki/pki",
+        "CVE_ID": "CVE-2021-20179",
+        "Problem_Type": "CWE-863",
+        "Description": "A flaw was found in pki-core. An attacker who has successfully compromised a key could use this flaw to renew the corresponding certificate over and over again, as long as it is not explicitly revoked. The highest threat from this vulnerability is to data confidentiality and integrity.",
+        "URL": "https://github.com/dogtagpki/pki/pull/3476",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "1204a4399b37adad4469174e14d554ab43c47918",
+        "inducing_commit_hash_pyszz": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "inducing_commit_hash_pd": [
+            "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7",
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "matched": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ]
+    },
+    {
+        "repo_name": "dogtagpki/pki",
+        "CVE_ID": "CVE-2021-20179",
+        "Problem_Type": "CWE-863",
+        "Description": "A flaw was found in pki-core. An attacker who has successfully compromised a key could use this flaw to renew the corresponding certificate over and over again, as long as it is not explicitly revoked. The highest threat from this vulnerability is to data confidentiality and integrity.",
+        "URL": "https://github.com/dogtagpki/pki/pull/3474",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "9cfd14b0a07ee2eed354cd59fec0e6cd663bf899",
+        "inducing_commit_hash_pyszz": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "inducing_commit_hash_pd": [
+            "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7",
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "matched": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ]
+    },
+    {
+        "repo_name": "dogtagpki/pki",
+        "CVE_ID": "CVE-2021-20179",
+        "Problem_Type": "CWE-863",
+        "Description": "A flaw was found in pki-core. An attacker who has successfully compromised a key could use this flaw to renew the corresponding certificate over and over again, as long as it is not explicitly revoked. The highest threat from this vulnerability is to data confidentiality and integrity.",
+        "URL": "https://github.com/dogtagpki/pki/pull/3477",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "356c8bd5cbfab7a10d2ac1d4c3bf9839222b5b52",
+        "inducing_commit_hash_pyszz": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "inducing_commit_hash_pd": [
+            "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7",
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ],
+        "matched": [
+            "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
+        ]
+    },
+    {
+        "repo_name": "dogtagpki/pki",
+        "CVE_ID": "CVE-2021-20179",
+        "Problem_Type": "CWE-863",
+        "Description": "A flaw was found in pki-core. An attacker who has successfully compromised a key could use this flaw to renew the corresponding certificate over and over again, as long as it is not explicitly revoked. The highest threat from this vulnerability is to data confidentiality and integrity.",
+        "URL": "https://github.com/dogtagpki/pki/pull/3478",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "ba8b7d44901724c24af6d64705ecfab472473f3d",
+        "inducing_commit_hash_pyszz": [
+            "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7"
+        ],
+        "inducing_commit_hash_pd": [
+            "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7"
+        ],
+        "matched": [
+            "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7"
+        ]
+    },
+    {
+        "repo_name": "dogtagpki/pki",
+        "CVE_ID": "CVE-2022-2414",
+        "Problem_Type": "CWE-611",
+        "Description": "Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
+        "URL": "https://github.com/dogtagpki/pki/pull/4021",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "4e893243d72ad766558c10c907841f5f9c047055",
+        "inducing_commit_hash_pyszz": [
+            "5bb7933dd00f11ec87237d3bad7756989abb59ee"
+        ],
+        "inducing_commit_hash_pd": [
+            "5bb7933dd00f11ec87237d3bad7756989abb59ee"
+        ],
+        "matched": [
+            "5bb7933dd00f11ec87237d3bad7756989abb59ee"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "repo_name": "open-iscsi/tcmu-runner",
+        "CVE_ID": "CVE-2021-3139",
+        "Problem_Type": "CWE-22",
+        "Description": "In Open-iSCSI tcmu-runner 1.3.x, 1.4.x, and 1.5.x through 1.5.2, xcopy_locate_udev in tcmur_cmd_handler.c lacks a check for transport-layer restrictions, allowing remote attackers to read or write files via directory traversal in an XCOPY request. For example, an attack can occur over a network if the attacker has access to one iSCSI LUN. NOTE: relative to CVE-2020-28374, this is a similar mistake in a different algorithm.",
+        "URL": "https://github.com/open-iscsi/tcmu-runner/pull/644",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b4a986b0d1233a8a6f2d340133c2efaa1d9e8c14",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": [],
+        "pr_status": "merged"
+    }
+]

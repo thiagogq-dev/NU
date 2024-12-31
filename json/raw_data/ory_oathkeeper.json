@@ -1,0 +1,28 @@
+[
+    {
+        "repo_name": "ory/oathkeeper",
+        "CVE_ID": "CVE-2021-32701",
+        "Problem_Type": "CWE-863",
+        "Description": "ORY Oathkeeper is an Identity & Access Proxy (IAP) and Access Control Decision API that authorizes HTTP requests based on sets of Access Rules. When you make a request to an endpoint that requires the scope `foo` using an access token granted with that `foo` scope, introspection will be valid and that token will be cached. The problem comes when a second requests to an endpoint that requires the scope `bar` is made before the cache has expired. Whether the token is granted or not to the `bar` scope, introspection will be valid. A patch will be released with `v0.38.12-beta.1`. Per default, caching is disabled for the `oauth2_introspection` authenticator. When caching is disabled, this vulnerability does not exist. The cache is checked in [`func (a *AuthenticatorOAuth2Introspection) Authenticate(...)`](https://github.com/ory/oathkeeper/blob/6a31df1c3779425e05db1c2a381166b087cb29a4/pipeline/authn/authenticator_oauth2_introspection.go#L152). From [`tokenFromCache()`](https://github.com/ory/oathkeeper/blob/6a31df1c3779425e05db1c2a381166b087cb29a4/pipeline/authn/authenticator_oauth2_introspection.go#L97) it seems that it only validates the token expiration date, but ignores whether the token has or not the proper scopes. The vulnerability was introduced in PR #424. During review, we failed to require appropriate test coverage by the submitter which is the primary reason that the vulnerability passed the review process.",
+        "URL": "https://github.com/ory/oathkeeper/pull/424",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d4557aeac69e84d36dfc2a1ab97c61188c93457f",
+        "inducing_commit_hash_pyszz": [
+            "12e0fc20ac6c5f573438a270b71396ac67de76eb"
+        ],
+        "inducing_commit_hash_pd": [
+            "b538e3c8fdd52be1e61ed88502fce1de7737d4a9",
+            "a421293a05afaca2ac3695940bc72b4b9f7a1b68",
+            "296e01254b50b645fae67e51aa668d39652b0778",
+            "5e0c8dcdc4a64662f59372a488ec633bcdbc0d85",
+            "89709aabfe002fc5ae2e76016fc45a13d74f3d8b",
+            "12e0fc20ac6c5f573438a270b71396ac67de76eb",
+            "6b509ad5e3ce109521de80540bd0c762b7ecd8d2",
+            "b1e5cea5245c07142b6b34f2660ed41e6239b79f",
+            "7acfbcaca36645a984baded2dc3cbb689154ef8c"
+        ],
+        "matched": [
+            "12e0fc20ac6c5f573438a270b71396ac67de76eb"
+        ]
+    }
+]

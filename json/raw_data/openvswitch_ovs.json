@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "openvswitch/ovs",
+        "CVE_ID": "CVE-2022-4337",
+        "Problem_Type": "CWE-125",
+        "Description": "An out-of-bounds read in Organization Specific TLV was found in various versions of OpenvSwitch.",
+        "URL": "https://github.com/openvswitch/ovs/pull/405",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7490f281f09a8455c48e19b0cf1b99ab758ee4f4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "openvswitch/ovs",
+        "CVE_ID": "CVE-2022-4338",
+        "Problem_Type": "CWE-125",
+        "Description": "An integer underflow in Organization Specific TLV was found in various versions of OpenvSwitch.",
+        "URL": "https://github.com/openvswitch/ovs/pull/405",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7490f281f09a8455c48e19b0cf1b99ab758ee4f4",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

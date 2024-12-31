@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "openmrs/openmrs-module-referenceapplication",
+        "CVE_ID": "CVE-2021-4289",
+        "Problem_Type": "CWE-79",
+        "Description": "A vulnerability classified as problematic was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. Affected by this vulnerability is the function post of the file omod/src/main/java/org/openmrs/module/referenceapplication/page/controller/UserAppPageController.java of the component User App Page. The manipulation of the argument AppId leads to cross site scripting. The attack can be launched remotely. Upgrading to version 2.12.0 is able to address this issue. The name of the patch is 0410c091d46eed3c132fe0fcafe5964182659f74. It is recommended to upgrade the affected component. The associated identifier of this vulnerability is VDB-216883.",
+        "URL": "https://github.com/openmrs/openmrs-module-referenceapplication/pull/89",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "0410c091d46eed3c132fe0fcafe5964182659f74",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

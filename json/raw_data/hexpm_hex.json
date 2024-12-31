@@ -1,0 +1,49 @@
+[
+    {
+        "repo_name": "hexpm/hex",
+        "CVE_ID": "CVE-2019-1000012",
+        "Problem_Type": "CWE-345",
+        "Description": "Hex package manager version 0.14.0 through 0.18.2 contains a Signing oracle vulnerability in Package registry verification that can result in Package modifications not detected, allowing code execution. This attack appears to be exploitable via victim fetches packages from malicious/compromised mirror. This vulnerability appears to have been fixed in 0.19.",
+        "URL": "https://github.com/hexpm/hex/pull/651",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "6c1541556615b191db7da932c68c34c7cf0295d0",
+        "inducing_commit_hash_pyszz": [
+            "fcda85c7d220d87c0efef41be4f9cf5f797ae35e"
+        ],
+        "inducing_commit_hash_pd": [
+            "c938df35e15cc68ab2cae25afb4cf240e23b14b7",
+            "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a",
+            "1f73e019ae3a522bb5a670516b06368830eea459",
+            "5b5c4228b310ed3822ecbd5f86185bde5c970463",
+            "3105cfb19db25e30e93170e6689c6768195fb291",
+            "0f40e8fab187fb4562b22724d49bc1ececeba7b7",
+            "18c88f3afcdda74428039391a65cca1fb676788f",
+            "05777d0dd0293b0d327e207285501f6a45737098",
+            "fcda85c7d220d87c0efef41be4f9cf5f797ae35e",
+            "8f5798043bc8ef9ec5d5a9ddcfa16386f17a5e75",
+            "2c9ee828890512de7ee6efed715d9116bdbf8117"
+        ],
+        "matched": [
+            "fcda85c7d220d87c0efef41be4f9cf5f797ae35e"
+        ]
+    },
+    {
+        "repo_name": "hexpm/hex",
+        "CVE_ID": "CVE-2019-1000012",
+        "Problem_Type": "CWE-345",
+        "Description": "Hex package manager version 0.14.0 through 0.18.2 contains a Signing oracle vulnerability in Package registry verification that can result in Package modifications not detected, allowing code execution. This attack appears to be exploitable via victim fetches packages from malicious/compromised mirror. This vulnerability appears to have been fixed in 0.19.",
+        "URL": "https://github.com/hexpm/hex/pull/646",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "8f5798043bc8ef9ec5d5a9ddcfa16386f17a5e75",
+        "inducing_commit_hash_pyszz": [
+            "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a"
+        ],
+        "inducing_commit_hash_pd": [
+            "f049e906d38be8e85ad1070d3c417a99dfeb8ee0",
+            "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a"
+        ],
+        "matched": [
+            "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a"
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "repo_name": "ignacionelson/ProjectSend",
+        "CVE_ID": "CVE-2017-9783",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site scripting (XSS) vulnerability in ProjectSend (formerly cFTP) before commit 6c3710430be26feb5371cb0377e5355d6f9a27ca allows remote attackers to inject arbitrary web script or HTML via the Description field in a Site name updated.",
+        "URL": "https://github.com/ignacionelson/ProjectSend/pull/448/commits/6c3710430be26feb5371cb0377e5355d6f9a27ca",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "6c3710430be26feb5371cb0377e5355d6f9a27ca",
+        "inducing_commit_hash_pyszz": [
+            "97abd7acfca7787befec4af7bbfacf1a59d40bd8"
+        ],
+        "inducing_commit_hash_pd": [
+            "cc9d71f91b5c93dc2e87d18cc3d4e52ce068acbc",
+            "97abd7acfca7787befec4af7bbfacf1a59d40bd8",
+            "4002852814615282db5562557e6b86ee763e0779",
+            "d4d4b0366677ab7e46a6abb2ddc29c8f4899f735",
+            "4fded17043960e1dd4e1162e08788b8a2fd1f32a"
+        ],
+        "matched": [
+            "97abd7acfca7787befec4af7bbfacf1a59d40bd8"
+        ]
+    },
+    {
+        "repo_name": "ignacionelson/ProjectSend",
+        "CVE_ID": "CVE-2017-9786",
+        "Problem_Type": "CWE-79",
+        "Description": "Cross-site scripting (XSS) vulnerability in ProjectSend (formerly cFTP) before commit 6c3710430be26feb5371cb0377e5355d6f9a27ca allows remote attackers to inject arbitrary web script or HTML via the Description field in My account Name updated, related to home.php and actions-log.php.",
+        "URL": "https://github.com/ignacionelson/ProjectSend/pull/448/commits/6c3710430be26feb5371cb0377e5355d6f9a27ca",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "6c3710430be26feb5371cb0377e5355d6f9a27ca",
+        "inducing_commit_hash_pyszz": [
+            "97abd7acfca7787befec4af7bbfacf1a59d40bd8"
+        ],
+        "inducing_commit_hash_pd": [
+            "cc9d71f91b5c93dc2e87d18cc3d4e52ce068acbc",
+            "97abd7acfca7787befec4af7bbfacf1a59d40bd8",
+            "4002852814615282db5562557e6b86ee763e0779",
+            "d4d4b0366677ab7e46a6abb2ddc29c8f4899f735",
+            "4fded17043960e1dd4e1162e08788b8a2fd1f32a"
+        ],
+        "matched": [
+            "97abd7acfca7787befec4af7bbfacf1a59d40bd8"
+        ]
+    }
+]

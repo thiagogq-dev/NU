@@ -1,0 +1,41 @@
+[
+    {
+        "repo_name": "unicode-org/icu",
+        "CVE_ID": "CVE-2020-10531",
+        "Problem_Type": "CWE-787",
+        "Description": "An issue was discovered in International Components for Unicode (ICU) for C/C++ through 66.1. An integer overflow, leading to a heap-based buffer overflow, exists in the UnicodeString::doAppend() function in common/unistr.cpp.",
+        "URL": "https://github.com/unicode-org/icu/pull/971",
+        "Tag": "['Issue Tracking', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "b7d08bc04a4296982fcef8b6b8a354a9e4e7afca",
+        "inducing_commit_hash_pyszz": [
+            "3d77fc18b8b1f1fbeb584790ebab1e5259e70b94"
+        ],
+        "inducing_commit_hash_pd": [
+            "3d77fc18b8b1f1fbeb584790ebab1e5259e70b94"
+        ],
+        "matched": [
+            "3d77fc18b8b1f1fbeb584790ebab1e5259e70b94"
+        ]
+    },
+    {
+        "repo_name": "unicode-org/icu",
+        "CVE_ID": "CVE-2020-21913",
+        "Problem_Type": "CWE-416",
+        "Description": "International Components for Unicode (ICU-20850) v66.1 was discovered to contain a use after free bug in the pkg_createWithAssemblyCode function in the file tools/pkgdata/pkgdata.cpp.",
+        "URL": "https://github.com/unicode-org/icu/pull/886",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "727505bddab0bfd527f1db6697cb4d4f7febe4a9",
+        "inducing_commit_hash_pyszz": [
+            "f3cfa0bb00b9d68ccfb8a5e85f0290d6fc2ea5e4"
+        ],
+        "inducing_commit_hash_pd": [
+            "d40ee7f0cbbd044124a49efd0c0964a27083e017",
+            "09813cbf3dab61e1bf79a92add7370e29c81b2ae",
+            "07058ff285e6225f44de1aba936f09ec7bfcca46",
+            "f3cfa0bb00b9d68ccfb8a5e85f0290d6fc2ea5e4"
+        ],
+        "matched": [
+            "f3cfa0bb00b9d68ccfb8a5e85f0290d6fc2ea5e4"
+        ]
+    }
+]

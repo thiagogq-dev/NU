@@ -1,0 +1,20 @@
+[
+    {
+        "repo_name": "dromara/hertzbeat",
+        "CVE_ID": "CVE-2022-39337",
+        "Problem_Type": "CWE-284",
+        "Description": "Hertzbeat is an open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless. Hertzbeat versions 1.20 and prior have a permission bypass vulnerability. System authentication can be bypassed and invoke interfaces without authorization. Version 1.2.1 contains a patch for this issue.",
+        "URL": "https://github.com/dromara/hertzbeat/pull/382",
+        "Tag": "['Issue Tracking', 'Patch']",
+        "fix_commit_hash": "56628f42205e2d8f2f4ea5879fad8e079d279a7a",
+        "inducing_commit_hash_pyszz": [
+            "5198378dc6d9f013083447970bbb337272f1ce48"
+        ],
+        "inducing_commit_hash_pd": [
+            "5198378dc6d9f013083447970bbb337272f1ce48"
+        ],
+        "matched": [
+            "5198378dc6d9f013083447970bbb337272f1ce48"
+        ]
+    }
+]

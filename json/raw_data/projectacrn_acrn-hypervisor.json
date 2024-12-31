@@ -1,0 +1,98 @@
+[
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2020-28346",
+        "Problem_Type": "CWE-476",
+        "Description": "ACRN through 2.2 has a devicemodel/hw/pci/virtio/virtio.c NULL Pointer Dereference.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/5453",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "188ab4f85b44bca0090be527c1f73e24b980e836",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "bd31b1c53e6c0e318b1902e916627cf985ec75ab"
+        ],
+        "matched": [
+            "bd31b1c53e6c0e318b1902e916627cf985ec75ab"
+        ]
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2020-28346",
+        "Problem_Type": "CWE-476",
+        "Description": "ACRN through 2.2 has a devicemodel/hw/pci/virtio/virtio.c NULL Pointer Dereference.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/5453/commits/ae0ab82434509d6e75f4a2f1e1a0dd2ee3dc3681",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "188ab4f85b44bca0090be527c1f73e24b980e836",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "bd31b1c53e6c0e318b1902e916627cf985ec75ab"
+        ],
+        "matched": [
+            "bd31b1c53e6c0e318b1902e916627cf985ec75ab"
+        ]
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36144",
+        "Problem_Type": "CWE-416",
+        "Description": "The polling timer handler in ACRN before 2.5 has a use-after-free for a freed virtio device, related to devicemodel/hw/pci/virtio/*.c.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6268/commits/dd88504804e186029f845a166dc5c31695e2cca2",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "a65e01ae9547be78ccad26333a907743c8c8c5d7",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [
+            "bd31b1c53e6c0e318b1902e916627cf985ec75ab"
+        ],
+        "matched": [
+            "bd31b1c53e6c0e318b1902e916627cf985ec75ab"
+        ]
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36145",
+        "Problem_Type": "CWE-416",
+        "Description": "The Device Model in ACRN through 2.5 has a devicemodel/core/mem.c use-after-free for a freed rb_entry.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6058/commits/f880086ffe5423e67d968c8f8f665954786582ce",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f4b93f31b7e108d51bc1156ee4feacbc94a602f1",
+        "inducing_commit_hash_pyszz": [
+            "96085d960fd80451a38fda4b5600e915ae710ba2"
+        ],
+        "inducing_commit_hash_pd": [
+            "96085d960fd80451a38fda4b5600e915ae710ba2"
+        ],
+        "matched": [
+            "96085d960fd80451a38fda4b5600e915ae710ba2"
+        ]
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36147",
+        "Problem_Type": "CWE-476",
+        "Description": "An issue was discovered in ACRN before 2.5. It allows a devicemodel/hw/pci/virtio/virtio_net.c virtio_net_ping_rxq NULL pointer dereference for vq->used.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6121/commits/131116b15b0e35a62085d23686b43ed1c12c1331",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "81c5bdab5fc84d0a35239b454c6a0d8a52736a18",
+        "inducing_commit_hash_pyszz": [
+            "5253ac7af5d5401cef4caa7765da0dd947265138"
+        ],
+        "inducing_commit_hash_pd": [
+            "5253ac7af5d5401cef4caa7765da0dd947265138"
+        ],
+        "matched": [
+            "5253ac7af5d5401cef4caa7765da0dd947265138"
+        ]
+    },
+    {
+        "repo_name": "projectacrn/acrn-hypervisor",
+        "CVE_ID": "CVE-2021-36146",
+        "Problem_Type": "CWE-476",
+        "Description": "ACRN before 2.5 has a devicemodel/hw/pci/xhci.c NULL Pointer Dereference for a trb pointer.",
+        "URL": "https://github.com/projectacrn/acrn-hypervisor/pull/6173/commits/330359921e2e4c2f3f3a10b5bab86942d63c4428",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "211a961e18efeb61a084664ba4be24cc447d8606",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

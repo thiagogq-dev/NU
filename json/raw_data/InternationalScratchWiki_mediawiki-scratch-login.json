@@ -1,0 +1,25 @@
+[
+    {
+        "repo_name": "InternationalScratchWiki/mediawiki-scratch-login",
+        "CVE_ID": "CVE-2022-42985",
+        "Problem_Type": "CWE-79",
+        "Description": "The ScratchLogin extension through 1.1 for MediaWiki does not escape verification failure messages, which allows users with administrator privileges to perform cross-site scripting (XSS).",
+        "URL": "https://github.com/InternationalScratchWiki/mediawiki-scratch-login/pull/22",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "34bb82f6ce74d519eb15a7060eec06bf670831bb",
+        "inducing_commit_hash_pyszz": [
+            "4d2c1229b558b9cd685961274f20b621d114f4db"
+        ],
+        "inducing_commit_hash_pd": [
+            "aa49f54c04c994991c911f7d885431641bdbf05d",
+            "64b2eda253216d4cbfab6a2b940a24e9e113ac36",
+            "1b25429bed91b660d109d58e924882ba141a980c",
+            "4d2c1229b558b9cd685961274f20b621d114f4db",
+            "69f0fd8dda0d6b5b404c13996782bea7dbee4b05",
+            "dd752f1187f49c145b97f74bf6214a72235235df"
+        ],
+        "matched": [
+            "4d2c1229b558b9cd685961274f20b621d114f4db"
+        ]
+    }
+]

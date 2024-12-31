@@ -1,0 +1,34 @@
+[
+    {
+        "repo_name": "codex-team/editor.js",
+        "CVE_ID": "CVE-2022-23474",
+        "Problem_Type": "CWE-79",
+        "Description": "Editor.js is a block-style editor with clean JSON output. Versions prior to 2.26.0 are vulnerable to Code Injection via pasted input. The processHTML method passes pasted input into wrapper\u00c2\u2019s innerHTML. This issue is patched in version 2.26.0.",
+        "URL": "https://github.com/codex-team/editor.js/pull/2100",
+        "Tag": "['Exploit', 'Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "f659015be6de8e6f0c322c5ff4d1a4532d2f29a2",
+        "inducing_commit_hash_pyszz": [
+            "6c0555a3229a16641709cdc83ec248af87f3c77a"
+        ],
+        "inducing_commit_hash_pd": [
+            "29db87525b1b4bdd2c884005b357ab14f46a1ed6",
+            "ff91466b148eb58f935c4449bf700a627a785d79",
+            "61242ab6a62a3b14efdf5921fdc2c475b3625eaf",
+            "581289c03e83b149e633fb4f4573d278ace7450f",
+            "ac93017c706f091fd3014c3edb248db4e03f55dd",
+            "cb86bf446b12b6f32b3e59cb05b0cf294dcf12c6",
+            "577da8fa22b85e80bac3e59c2fc3ef8101455451",
+            "6c0555a3229a16641709cdc83ec248af87f3c77a",
+            "63eeec0f3b3e05025c6f2875a1eb2a4c03a24c8c",
+            "bcdfcdadbc444921aee62b38516329cda3c96a70",
+            "be6f9b78f265c3d553c799c99e59c9916bf29e17",
+            "669c11eaa5ef8dd2e5df721c4eaa590e38c9c392",
+            "a88dc8e30ba64dd854aaaf769a37074dff01449d",
+            "a67e699991d0326f3a5d0f6b723607d49adf80bf",
+            "4cfcb656a81dc9ae6daf0841ac094f68c4368e15"
+        ],
+        "matched": [
+            "6c0555a3229a16641709cdc83ec248af87f3c77a"
+        ]
+    }
+]

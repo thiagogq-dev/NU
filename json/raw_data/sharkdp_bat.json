@@ -1,0 +1,23 @@
+[
+    {
+        "repo_name": "sharkdp/bat",
+        "CVE_ID": "CVE-2021-36753",
+        "Problem_Type": "CWE-427",
+        "Description": "sharkdp BAT before 0.18.2 executes less.exe from the current working directory.",
+        "URL": "https://github.com/sharkdp/bat/pull/1724",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "3fa09dbe2e1755740eda1de0900853c4a6ee5f3a",
+        "inducing_commit_hash_pyszz": [
+            "f874c8e4dbb13defbb842398853cdea8e23e39d9"
+        ],
+        "inducing_commit_hash_pd": [
+            "6a52f69b5816819ae3d44f231e236e6249c4eff7",
+            "dec94b4111ea7e484df6ce52041c0a86c3f5e713",
+            "f874c8e4dbb13defbb842398853cdea8e23e39d9",
+            "ebb97e94a9f3936e7db23c211f9dba779b0daa89"
+        ],
+        "matched": [
+            "f874c8e4dbb13defbb842398853cdea8e23e39d9"
+        ]
+    }
+]

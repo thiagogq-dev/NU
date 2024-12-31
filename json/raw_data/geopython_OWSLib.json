@@ -1,0 +1,40 @@
+[
+    {
+        "repo_name": "geopython/OWSLib",
+        "CVE_ID": "CVE-2023-27476",
+        "Problem_Type": "CWE-611",
+        "Description": "OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service interface standards, and their related content models. OWSLib's XML parser (which supports both `lxml` and `xml.etree`) does not disable entity resolution, and could lead to arbitrary file reads from an attacker-controlled XML payload. This affects all XML parsing in the codebase. This issue has been addressed in version 0.28.1. All users are advised to upgrade. The only known workaround is to patch the library manually. See `GHSA-8h9c-r582-mggc` for details.",
+        "URL": "https://github.com/geopython/OWSLib/pull/863/commits/b92687702be9576c0681bb11cad21eb631b9122f",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "d91267303a695d69e73fa71efa100a035852a063",
+        "inducing_commit_hash_pyszz": [
+            "953a1b5579f9cba066e7deb1cca5bce799e07225"
+        ],
+        "inducing_commit_hash_pd": [
+            "53eea3d46eca21843c03d825029efd2bdb1a0492",
+            "2ef838fa8140c708a038e032b195c6da033c1809",
+            "a425f373a057978061f9b29016557bf87004bd91",
+            "0b47dc8370f49dad701e6beee64a17ccb34cb33a",
+            "52967c77142b106ce18143afefdb9fae78b50f3f",
+            "d03f7cc971f44ff8b49df57c45140e79b4d81d8a",
+            "ba7ad3159dcc65c631f7349e60961603e7a52129",
+            "39cb2265b94aa521c1a9a76819bf6d7f3d27d96c",
+            "4af976882335b047a09d45ddefa52956f979fc56",
+            "ec52c444e49e50669a513a928c4c8c2e2363c173",
+            "80784a10d357237acbd9a0149cdefff1ec6da1a0",
+            "6b9aedb795d876bc0906ca7223d99b4da1d779de",
+            "c7a59709074295ff8b90180915e5006d3e01bcb6",
+            "6f40078e0624079e266e00181b09e76c7956e733",
+            "953a1b5579f9cba066e7deb1cca5bce799e07225",
+            "d6ec40cb7a7c021640c4f73f38a983e9a0eaffb5",
+            "f805cd385f57305efb030716948a057101981f52",
+            "66200494ab5921ab714ed267fc786aad5a26bd1c",
+            "6140d1b13e3f3e142c7881f12fc4780691132426",
+            "99bdc30dba9e0748ef3b997230fa2e15a24ce30e",
+            "c234facbfb172441501fddaddcf01f1e74ee0e92"
+        ],
+        "matched": [
+            "953a1b5579f9cba066e7deb1cca5bce799e07225"
+        ]
+    }
+]

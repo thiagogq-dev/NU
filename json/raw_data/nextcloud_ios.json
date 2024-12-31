@@ -1,0 +1,14 @@
+[
+    {
+        "repo_name": "nextcloud/ios",
+        "CVE_ID": "CVE-2023-28647",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Nextcloud iOS is an ios application used to interface with the nextcloud home cloud ecosystem. In versions prior to 4.7.0 when an attacker has physical access to an unlocked device, they may enable the integration into the iOS Files app and bypass the Nextcloud pin/password protection and gain access to a users files. It is recommended that the Nextcloud iOS app is upgraded to 4.7.0. There are no known workarounds for this vulnerability.",
+        "URL": "https://github.com/nextcloud/ios/pull/2344",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "64e9befd893d99d29d20044353b05ef7ff4b9507",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

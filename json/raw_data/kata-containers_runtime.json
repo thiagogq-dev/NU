@@ -1,0 +1,50 @@
+[
+    {
+        "repo_name": "kata-containers/runtime",
+        "CVE_ID": "CVE-2020-2023",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Kata Containers doesn't restrict containers from accessing the guest's root filesystem device. Malicious containers can exploit this to gain code execution on the guest and masquerade as the kata-agent. This issue affects Kata Containers 1.11 versions earlier than 1.11.1; Kata Containers 1.10 versions earlier than 1.10.5; and Kata Containers 1.9 and earlier versions.",
+        "URL": "https://github.com/kata-containers/runtime/pull/2487",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d54723a5c4af5c1488af16b59a055b54ca136050",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "kata-containers/runtime",
+        "CVE_ID": "CVE-2020-2023",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "Kata Containers doesn't restrict containers from accessing the guest's root filesystem device. Malicious containers can exploit this to gain code execution on the guest and masquerade as the kata-agent. This issue affects Kata Containers 1.11 versions earlier than 1.11.1; Kata Containers 1.10 versions earlier than 1.10.5; and Kata Containers 1.9 and earlier versions.",
+        "URL": "https://github.com/kata-containers/runtime/pull/2477",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "6bed2a724d3944f2226c9abd03c0b8718dab4be1",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "kata-containers/runtime",
+        "CVE_ID": "CVE-2020-2024",
+        "Problem_Type": "CWE-59",
+        "Description": "An improper link resolution vulnerability affects Kata Containers versions prior to 1.11.0. Upon container teardown, a malicious guest can trick the kata-runtime into unmounting any mount point on the host and all mount points underneath it, potentiality resulting in a host DoS.",
+        "URL": "https://github.com/kata-containers/runtime/pull/2475",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "e66dce1bc7ff9c8632486e3636d08827508c1ca6",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    },
+    {
+        "repo_name": "kata-containers/runtime",
+        "CVE_ID": "CVE-2020-2025",
+        "Problem_Type": "CWE-281",
+        "Description": "Kata Containers before 1.11.0 on Cloud Hypervisor persists guest filesystem changes to the underlying image file on the host. A malicious guest can overwrite the image file to gain control of all subsequent guest VMs. Since Kata Containers uses the same VM image file with all VMMs, this issue may also affect QEMU and Firecracker based guests.",
+        "URL": "https://github.com/kata-containers/runtime/pull/2487",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "d54723a5c4af5c1488af16b59a055b54ca136050",
+        "inducing_commit_hash_pyszz": [],
+        "inducing_commit_hash_pd": [],
+        "matched": []
+    }
+]

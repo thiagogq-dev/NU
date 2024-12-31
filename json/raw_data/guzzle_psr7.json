@@ -1,0 +1,44 @@
+[
+    {
+        "repo_name": "guzzle/psr7",
+        "CVE_ID": "CVE-2022-24775",
+        "Problem_Type": "CWE-20",
+        "Description": "guzzlehttp/psr7 is a PSR-7 HTTP message library. Versions prior to 1.8.4 and 2.1.1 are vulnerable to improper header parsing. An attacker could sneak in a new line character and pass untrusted values. The issue is patched in 1.8.4 and 2.1.1. There are currently no known workarounds.",
+        "URL": "https://github.com/guzzle/psr7/pull/485/commits/e55afaa3fc138c89adf3b55a8ba20dc60d17f1f1",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "53491b6394cdcb66880063b82c0b16cf082711eb",
+        "inducing_commit_hash_pyszz": [
+            "93c36e76d5ad95818414ae1fe3464e0e1de737ec"
+        ],
+        "inducing_commit_hash_pd": [
+            "93c36e76d5ad95818414ae1fe3464e0e1de737ec",
+            "c5aea30ff82a3565e6d3decd18d74257c033daf6",
+            "5ce1cec1a26c5d2ccd259157f58a32b7facd545a",
+            "f90f9ca5178897ceabed117dcd043c621926b6b1"
+        ],
+        "matched": [
+            "93c36e76d5ad95818414ae1fe3464e0e1de737ec"
+        ]
+    },
+    {
+        "repo_name": "guzzle/psr7",
+        "CVE_ID": "CVE-2022-24775",
+        "Problem_Type": "CWE-20",
+        "Description": "guzzlehttp/psr7 is a PSR-7 HTTP message library. Versions prior to 1.8.4 and 2.1.1 are vulnerable to improper header parsing. An attacker could sneak in a new line character and pass untrusted values. The issue is patched in 1.8.4 and 2.1.1. There are currently no known workarounds.",
+        "URL": "https://github.com/guzzle/psr7/pull/486/commits/9a96d9db668b485361ed9de7b5bf1e54895df1dc",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "902db15a551a4a415e732b622282e21ce1b508b4",
+        "inducing_commit_hash_pyszz": [
+            "93c36e76d5ad95818414ae1fe3464e0e1de737ec"
+        ],
+        "inducing_commit_hash_pd": [
+            "93c36e76d5ad95818414ae1fe3464e0e1de737ec",
+            "c5aea30ff82a3565e6d3decd18d74257c033daf6",
+            "5ce1cec1a26c5d2ccd259157f58a32b7facd545a",
+            "b33127dd48a6d48e29a3561d4f5d11809936d12a"
+        ],
+        "matched": [
+            "93c36e76d5ad95818414ae1fe3464e0e1de737ec"
+        ]
+    }
+]

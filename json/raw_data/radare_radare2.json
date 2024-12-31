@@ -1,0 +1,39 @@
+[
+    {
+        "repo_name": "radare/radare2",
+        "CVE_ID": "CVE-2018-15834",
+        "Problem_Type": "CWE-787",
+        "Description": "In radare2 before 2.9.0, a heap overflow vulnerability exists in the read_module_referenced_functions function in libr/anal/flirt.c via a crafted flirt signature file.",
+        "URL": "https://github.com/radare/radare2/pull/11300",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "c415dacc46f54b6d4a499946d0a3ecf695ebe645",
+        "inducing_commit_hash_pyszz": [
+            "88d4649cc67db2ba7402caf6dce4adba26c4c1d8"
+        ],
+        "inducing_commit_hash_pd": [
+            "88d4649cc67db2ba7402caf6dce4adba26c4c1d8"
+        ],
+        "matched": [
+            "88d4649cc67db2ba7402caf6dce4adba26c4c1d8"
+        ]
+    },
+    {
+        "repo_name": "radare/radare2",
+        "CVE_ID": "CVE-2019-14745",
+        "Problem_Type": "CWE-77",
+        "Description": "In radare2 before 3.7.0, a command injection vulnerability exists in bin_symbols() in libr/core/cbin.c. By using a crafted executable file, it's possible to execute arbitrary shell commands with the permissions of the victim. This vulnerability is due to improper handling of symbol names embedded in executables.",
+        "URL": "https://github.com/radare/radare2/pull/14690",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "7d30ff52fc1be6f9698b166107b8981eab6ec7ba",
+        "inducing_commit_hash_pyszz": [
+            "14a775f14f5eb074a48035cb5fd5dd72087d0e2f"
+        ],
+        "inducing_commit_hash_pd": [
+            "c5d65fbd42964fddba5c35bd74836a7af5d855d6",
+            "14a775f14f5eb074a48035cb5fd5dd72087d0e2f"
+        ],
+        "matched": [
+            "14a775f14f5eb074a48035cb5fd5dd72087d0e2f"
+        ]
+    }
+]

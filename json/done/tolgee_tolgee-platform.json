@@ -1,0 +1,25 @@
+[
+    {
+        "repo_name": "tolgee/tolgee-platform",
+        "CVE_ID": "CVE-2023-38510",
+        "Problem_Type": "CWE-862",
+        "Description": "Tolgee is an open-source localization platform. Starting in version 3.14.0 and prior to version 3.23.1, when a request is made using an API key, the backend fails to verify the permission scopes associated with the key, effectively bypassing permission checks entirely for some endpoints. It's important to note that this vulnerability only affects projects that have inadvertently exposed their API keys on the internet. Projects that have kept their API keys secure are not impacted. This issue is fixed in version 3.23.1.",
+        "URL": "https://github.com/tolgee/tolgee-platform/pull/1818",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "4776cba67e7bb8c1b0259376e3e5fa3bb46e45c7",
+        "inducing_commit_hash_pyszz": [
+            "88b7cb8aabc26c08bdd24058637629edd7a18a73"
+        ],
+        "inducing_commit_hash_pd": [
+            "40d130ddc4de0996f6e06fc368976bd23592ca4f",
+            "7321f7e64433f5b859fe102e8564210e7c3e15df",
+            "85b0ab1025c261e9dde2809391069e937796e220",
+            "452e3d0e3f70eabea3410ba8f1b2093067854960",
+            "5c41937f28a660750dc418f488a6056bb4ddfc5d"
+        ],
+        "matched": [
+            "88b7cb8aabc26c08bdd24058637629edd7a18a73"
+        ],
+        "pr_status": "merged"
+    }
+]
