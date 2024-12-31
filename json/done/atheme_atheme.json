@@ -9,6 +9,7 @@
         "fix_commit_hash": "5150504791bde9f15d8e929c39b2b75e96ac5e11",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
