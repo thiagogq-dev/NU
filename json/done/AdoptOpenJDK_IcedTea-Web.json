@@ -9,7 +9,8 @@
         "fix_commit_hash": "1054d590fba29775f48b0805e3db99ae7efb35aa",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AdoptOpenJDK/IcedTea-Web",
@@ -21,7 +22,8 @@
         "fix_commit_hash": "1054d590fba29775f48b0805e3db99ae7efb35aa",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "AdoptOpenJDK/IcedTea-Web",
@@ -33,6 +35,7 @@
         "fix_commit_hash": "1054d590fba29775f48b0805e3db99ae7efb35aa",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
