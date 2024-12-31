@@ -52,7 +52,8 @@
         ],
         "matched": [
             "fdf7566bb7488fed194858f383a3424a8a770c51"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -70,7 +71,8 @@
         ],
         "matched": [
             "dc662da3d605bd7189ce6c06b0dbc1661d4bf2fb"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -88,7 +90,8 @@
         ],
         "matched": [
             "5515b8ce9ddd2133c4b49c01d771122e5738ee39"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -109,7 +112,8 @@
         ],
         "matched": [
             "49a854a738c8a4da91bf8fee3bdd2bd3dddb77aa"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -121,7 +125,8 @@
         "fix_commit_hash": "916d4aed5775fead4ab75f47c1d352cd0e73b815",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "argoproj/argo-cd",
@@ -133,6 +138,7 @@
         "fix_commit_hash": "7ec9999b01b26e760ff8f96ce7fac20c02fab6c8",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
