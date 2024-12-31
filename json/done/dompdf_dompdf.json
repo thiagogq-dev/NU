@@ -15,7 +15,8 @@
         ],
         "matched": [
             "13c8123b3aff4b223c8c96fa17d7c0c5e0717660"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dompdf/dompdf",
@@ -27,6 +28,7 @@
         "fix_commit_hash": "66431c58017d5b1bdb9f6f772b9fbbc5e3d38dc2",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

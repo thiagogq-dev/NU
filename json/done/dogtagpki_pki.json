@@ -16,7 +16,8 @@
         ],
         "matched": [
             "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dogtagpki/pki",
@@ -35,7 +36,8 @@
         ],
         "matched": [
             "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dogtagpki/pki",
@@ -54,7 +56,8 @@
         ],
         "matched": [
             "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dogtagpki/pki",
@@ -73,7 +76,8 @@
         ],
         "matched": [
             "1c1dbcbc335c6f1904483bec0419fdcc1d602082"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dogtagpki/pki",
@@ -91,7 +95,8 @@
         ],
         "matched": [
             "cb9eb967b5e24f5fde8bbf8ae87aa615b7033db7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dogtagpki/pki",
@@ -109,6 +114,7 @@
         ],
         "matched": [
             "5bb7933dd00f11ec87237d3bad7756989abb59ee"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

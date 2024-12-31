@@ -16,7 +16,8 @@
         ],
         "matched": [
             "e3eb098c99a08285e9ead0a86c9d5877625a5dba"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bytecodealliance/wasmtime",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "24f145cd1e27a346b64f3d66db63a582435bcd5f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bytecodealliance/wasmtime",
@@ -67,6 +69,7 @@
         ],
         "matched": [
             "c65de1f1b1a59155abbb9cbbe5aaa5abacd8e794"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

@@ -16,7 +16,8 @@
         ],
         "matched": [
             "0cd154d8a24c92840e0bd42bde945d3c3efea557"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dpgaspar/Flask-AppBuilder",
@@ -42,7 +43,8 @@
         ],
         "matched": [
             "f12d3a6706f00a9864716427bdb5679b45e7b8e5"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dpgaspar/Flask-AppBuilder",
@@ -73,6 +75,7 @@
         ],
         "matched": [
             "0d634131d1d76c5ea90d69e24fa40104546def63"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

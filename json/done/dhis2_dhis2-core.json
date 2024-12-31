@@ -16,7 +16,8 @@
         ],
         "matched": [
             "0e50dc49af9cf60f26745d83972e69807413b09c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dhis2/dhis2-core",
@@ -34,6 +35,7 @@
         ],
         "matched": [
             "0194e8f4a613218929ed537a92a1e72502b27010"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

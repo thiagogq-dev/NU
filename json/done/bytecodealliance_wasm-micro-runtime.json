@@ -19,7 +19,8 @@
         ],
         "matched": [
             "6415e1b0063010acb8bc6d3e8f36e5e2ccc71249"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bytecodealliance/wasm-micro-runtime",
@@ -31,6 +32,7 @@
         "fix_commit_hash": "7f8292ffd12b0881ce7b9797a9075da09c849cae",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
