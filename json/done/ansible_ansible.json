@@ -23,7 +23,8 @@
         ],
         "matched": [
             "2af36412f9a5bb5ad0085cbfe34b71626b197555"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -43,7 +44,8 @@
         ],
         "matched": [
             "673c55f2efce52c155872c80b0bff160e4a7b7b7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -68,7 +70,8 @@
         ],
         "matched": [
             "c54d79bc131c96e039a8981a7ad4e061cd83d744"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -86,7 +89,8 @@
         ],
         "matched": [
             "0089eb81027b325551d5efef900cde841c3c093e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -104,7 +108,8 @@
         ],
         "matched": [
             "3518a05db6ea2616888dba02863f51b395616647"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -123,7 +128,8 @@
         ],
         "matched": [
             "f787be359773cb57f0c3b40bc4e2c0256d06f32c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -140,7 +146,8 @@
         ],
         "matched": [
             "b6791e6ae3891951fc38518fdb52d53219987498"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -158,7 +165,8 @@
         ],
         "matched": [
             "80940a6b1c7b24cc4641625a007bd70921ecb584"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -180,7 +188,8 @@
         ],
         "matched": [
             "3b0e9ded91b6e2cabd77e13e0469b55d7b8de642"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -199,7 +208,8 @@
         ],
         "matched": [
             "df1001577f68a319a2594de0bb993ec4e91c2068"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -211,7 +221,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "ansible/ansible",
@@ -223,7 +234,8 @@
         "fix_commit_hash": "c76e074e4c71c7621a1ca8159261c1959b5287af",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ansible/ansible",
@@ -235,6 +247,7 @@
         "fix_commit_hash": "7d2ae7e3226cdc8e37aea83c202aeb0e7e5a1aec",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
