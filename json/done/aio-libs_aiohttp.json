@@ -18,7 +18,8 @@
         ],
         "matched": [
             "1ae3ae665ba20d1bfb0d0a5b7179e1104b0931d8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "aio-libs/aiohttp",
@@ -44,6 +45,7 @@
         ],
         "matched": [
             "493f06797654c383242f0e8007f6e06b818a1fbc"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
