@@ -20,7 +20,8 @@
         ],
         "matched": [
             "8679f55545ae96cd7eea8f12d4bbfff83cf0073c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dilab/resumable.php",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "b8f5a7a7ab68968d6670dd059d99993c88590d34"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dilab/resumable.php",
@@ -50,6 +52,7 @@
         "fix_commit_hash": "408f54dff10e48befa44d417933787232a64304b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
