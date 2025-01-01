@@ -32,7 +32,8 @@
         ],
         "matched": [
             "bcacaf347315e066c72a6da0ba97754962876a65"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "yahoo/elide",
@@ -67,7 +68,8 @@
         ],
         "matched": [
             "bcacaf347315e066c72a6da0ba97754962876a65"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "yahoo/elide",
@@ -85,6 +87,7 @@
         ],
         "matched": [
             "588b69f120c8e914da4becc3f8b83b4d8b71d92e"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

@@ -18,7 +18,8 @@
         ],
         "matched": [
             "dfc3f8522077b58965f6c51d6498e90269e9b306"
-        ]
+        ],
+        "pr_status": "closed"
     },
     {
         "repo_name": "ImageMagick/ImageMagick",
@@ -36,7 +37,8 @@
         ],
         "matched": [
             "4144316467e5179b6883175ed26390e0d3e4740e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ImageMagick/ImageMagick",
@@ -55,7 +57,8 @@
         ],
         "matched": [
             "3b640fe92ff4b82f8d746c0b4528e6ee15ed4036"
-        ]
+        ],
+        "pr_status": "closed"
     },
     {
         "repo_name": "ImageMagick/ImageMagick",
@@ -73,7 +76,8 @@
         ],
         "matched": [
             "55f12332d86879f45cccbe83c5363a2708641d90"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ImageMagick/ImageMagick",
@@ -91,7 +95,8 @@
         ],
         "matched": [
             "49c62c55356dd8019f96d3d9de258f3b993c806f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ImageMagick/ImageMagick",
@@ -107,7 +112,8 @@
         ],
         "matched": [
             "3ed852eea50f9d4cd633efb8c2b054b8e33c2530"
-        ]
+        ],
+        "pr_status": "closed"
     },
     {
         "repo_name": "ImageMagick/ImageMagick",
@@ -119,6 +125,7 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     }
 ]

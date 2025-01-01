@@ -15,7 +15,8 @@
         ],
         "matched": [
             "d6bd627ac3dbe7055be9354b93d9bf850b3d0a89"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "yiisoft/yii2",
@@ -33,6 +34,7 @@
         ],
         "matched": [
             "d6bd627ac3dbe7055be9354b93d9bf850b3d0a89"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

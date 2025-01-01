@@ -19,7 +19,8 @@
         ],
         "matched": [
             "31fc19c6d710a1f4fe8c9554b5d313e9784b234c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -41,7 +42,8 @@
         ],
         "matched": [
             "31fc19c6d710a1f4fe8c9554b5d313e9784b234c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -60,7 +62,8 @@
         ],
         "matched": [
             "a5d5f3d82fc96eabbe4937117827568c1e826ed3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -78,7 +81,8 @@
         ],
         "matched": [
             "0da733de9ced6bfce1f1a530771e2f30aa345f35"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -98,7 +102,8 @@
         ],
         "matched": [
             "02140fff2d15004e7310fa01663610797a3b90b8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -128,7 +133,8 @@
         ],
         "matched": [
             "4e37a53a1c0e39f6aacb1336bac3dfa7a84fc90c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -158,7 +164,8 @@
         ],
         "matched": [
             "4e37a53a1c0e39f6aacb1336bac3dfa7a84fc90c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -186,7 +193,8 @@
         ],
         "matched": [
             "900d9bf9a1650274354206e3cee64d9cfed94da2"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -205,7 +213,8 @@
         ],
         "matched": [
             "ba9d5540b8f4c755324d2664795cc1fe44f6a6d5"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -228,7 +237,8 @@
         ],
         "matched": [
             "aae2c3c4f4f1226c1dd0dc71c7b4f8b3878cfa7b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/grafana",
@@ -253,6 +263,7 @@
         ],
         "matched": [
             "aae2c3c4f4f1226c1dd0dc71c7b4f8b3878cfa7b"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

@@ -9,7 +9,8 @@
         "fix_commit_hash": "0c827cc1b14b82d8eb86117ab2e43c34bb91ddb4",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wso2/carbon-registry",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "9f967abfde9317bee2cda469dbc09b57d539f2cc",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

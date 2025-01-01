@@ -9,7 +9,8 @@
         "fix_commit_hash": "fff55cae13946fb3ebfe14eba70245472e460baa",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "greenbone/gsa",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "fcd690477ebf2a501873a8a48e8c325de15bbf8a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
