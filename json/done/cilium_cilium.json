@@ -16,7 +16,8 @@
         ],
         "matched": [
             "be2306d404be851b31385bc1474d9ebe6dd8a1fd"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "cilium/cilium",
@@ -34,6 +35,7 @@
         ],
         "matched": [
             "b667f010fb814df3e056f18c39933e02e4b93bfb"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
