@@ -9,7 +9,8 @@
         "fix_commit_hash": "b011865523ef1af5676d48f5c506bbe4b15abe85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "concretecms/concretecms",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "e7ba2ba3e14d280d9c992bd744b1cdede176753a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
