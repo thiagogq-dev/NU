@@ -15,7 +15,8 @@
         ],
         "matched": [
             "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "braintree/sanitize-url",
@@ -33,6 +34,7 @@
         ],
         "matched": [
             "5d8e711c47d5eb7da0e71091ea3566d7e464b330"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
