@@ -9,7 +9,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "candlepin/candlepin",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "fed4cd6305c55632733ca1fe75ce719cde2fe121",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
