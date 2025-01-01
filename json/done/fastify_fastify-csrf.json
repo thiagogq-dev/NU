@@ -1,23 +1,22 @@
 [
     {
-        "repo_name": "fastify/csrf",
+        "repo_name": "fastify/fastify-csrf",
         "CVE_ID": "CVE-2021-29624",
         "Problem_Type": "CWE-352",
         "Description": "fastify-csrf is an open-source plugin helps developers protect their Fastify server against CSRF attacks. Versions of fastify-csrf prior to 3.1.0 have a \"double submit\" mechanism using cookies with an application deployed across multiple subdomains, e.g. \"heroku\"-style platform as a service. Version 3.1.0 of the fastify-csrf fixes it. the vulnerability. The user of the module would need to supply a `userInfo` when generating the CSRF token to fully implement the protection on their end. This is needed only for applications hosted on different subdomains.",
-        "URL": "https://github.com/fastify/csrf/pull/2",
+        "URL": "https://github.com/fastify/fastify-csrf/pull/51",
         "Tag": "['Patch', 'Third Party Advisory']",
-        "fix_commit_hash": "5882472cbe2e50aa9ede11d1875919a15ab60800",
+        "fix_commit_hash": "f6b70422bb59292b7892a7fe8add26429b12a34e",
         "inducing_commit_hash_pyszz": [
-            "b2f3de60dd0f4e5b71a837ca52c86979bc983183"
+            "3c9de36e9e73ce0eda9207f84f2ac0243e1f5253"
         ],
         "inducing_commit_hash_pd": [
-            "7542b9767c15241a2538b637c70a487e0e481379",
-            "19245b55b2f9becef6a00b5c713da375209b11f0",
-            "82541c87e4c6a38c8a37a35921bfcc8edd02c099",
-            "b2f3de60dd0f4e5b71a837ca52c86979bc983183"
+            "b6456a9548b076ac6e580ad5dfad0ee1a2eee890",
+            "3c9de36e9e73ce0eda9207f84f2ac0243e1f5253"
         ],
         "matched": [
-            "b2f3de60dd0f4e5b71a837ca52c86979bc983183"
-        ]
+            "3c9de36e9e73ce0eda9207f84f2ac0243e1f5253"
+        ],
+        "pr_status": "merged"
     }
 ]

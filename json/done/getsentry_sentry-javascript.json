@@ -15,7 +15,8 @@
         ],
         "matched": [
             "6e6e241fa007d679cd0b1c71dec498b32ee11b8e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "getsentry/sentry-javascript",
@@ -35,6 +36,7 @@
         ],
         "matched": [
             "bfc63cb9c1b81f8e410f6e40dbef01fc52462b81"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

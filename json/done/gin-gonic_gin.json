@@ -15,7 +15,8 @@
         ],
         "matched": [
             "81ac7d55a09e34013225db0aeac6e70c1ae68928"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gin-gonic/gin",
@@ -33,7 +34,8 @@
         ],
         "matched": [
             "8860527de602b561500d68cb345c8b07de22805e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gin-gonic/gin",
@@ -45,7 +47,8 @@
         "fix_commit_hash": "81ac7d55a09e34013225db0aeac6e70c1ae68928",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gin-gonic/gin",
@@ -57,6 +60,7 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     }
 ]

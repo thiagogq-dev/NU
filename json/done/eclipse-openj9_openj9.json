@@ -9,7 +9,8 @@
         "fix_commit_hash": "9f0b7b785af6b3d73a7e51a9d8e819d105ddf9d2",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -21,7 +22,8 @@
         "fix_commit_hash": "2fd77d98c2276375fa0bc99a421ebdc4824e5b40",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -33,7 +35,8 @@
         "fix_commit_hash": "0d7572f0273f04fe5d3df502e2f367b51537c7da",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -45,7 +48,8 @@
         "fix_commit_hash": "8490b806d28c1314e869f0cf08d6cc0f5adb4427",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse-openj9/openj9",
@@ -57,6 +61,7 @@
         "fix_commit_hash": "47d4e20180f00a5cb93ba99a2fa7821b31a6259b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

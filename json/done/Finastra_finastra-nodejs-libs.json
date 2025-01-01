@@ -16,7 +16,8 @@
         ],
         "matched": [
             "7b73da070a3faa5b31ddf991616ba59eaff3c584"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Finastra/finastra-nodejs-libs",
@@ -45,6 +46,7 @@
         ],
         "matched": [
             "ebbe4f7bed6f15c2aac3d75a7bc70220e38db6fe"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
