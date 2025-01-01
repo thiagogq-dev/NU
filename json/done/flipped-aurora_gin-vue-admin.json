@@ -9,7 +9,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "not_found"
     },
     {
         "repo_name": "flipped-aurora/gin-vue-admin",
@@ -21,7 +22,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "not_found"
     },
     {
         "repo_name": "flipped-aurora/gin-vue-admin",
@@ -33,7 +35,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "not_found"
     },
     {
         "repo_name": "flipped-aurora/gin-vue-admin",
@@ -45,6 +48,7 @@
         "fix_commit_hash": "da644038291a7b9fa36955db9b9d84217d75596d",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

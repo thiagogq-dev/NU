@@ -17,7 +17,8 @@
         ],
         "matched": [
             "b6a171c7c010c3a5809ae620ff823ef3a439efb0"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "11dbcdd35ccf9b9978a61f6f501ab9062c9e5687"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -58,7 +60,8 @@
         ],
         "matched": [
             "28ccc24d38df1d51ed8a563507e5d6f6171fdd38"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -77,7 +80,8 @@
         ],
         "matched": [
             "b6a171c7c010c3a5809ae620ff823ef3a439efb0"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -89,7 +93,8 @@
         "fix_commit_hash": "7734484a378052a513c9e21165c13bf85f78ad48",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -101,7 +106,8 @@
         "fix_commit_hash": "b1867d42927c6e28a257dbcc52e8e1ad27d415e9",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -113,7 +119,8 @@
         "fix_commit_hash": "9f31d576647d5a1650e3fb326a8be6bdbd4fbd45",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -125,7 +132,8 @@
         "fix_commit_hash": "e618cc7b21608c493ec321caf2377771c6c4baba",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -137,7 +145,8 @@
         "fix_commit_hash": "42016422ce39bb1dd154531ee39f8b14ffed8fe7",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -149,7 +158,8 @@
         "fix_commit_hash": "673a11a54fc6948641fe56e41720d0f900c9353c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -161,7 +171,8 @@
         "fix_commit_hash": "c2b0d6a08f5f3f323e60071387e52b0418540a6a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -173,7 +184,8 @@
         "fix_commit_hash": "ff4c767a312dae7583f9f56ceb4054f40aac0bad",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FRRouting/frr",
@@ -185,6 +197,7 @@
         "fix_commit_hash": "cfd04dcb3e689754a72507d086ba3b9709fc5ed8",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

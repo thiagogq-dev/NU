@@ -19,7 +19,8 @@
         ],
         "matched": [
             "f522d2d70efeb5e1e7e027322e4ca1379322de6b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "drogonframework/drogon",
@@ -43,6 +44,7 @@
         ],
         "matched": [
             "b654e35e51907281d6b24d214577f759ff05e96c"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

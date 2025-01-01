@@ -19,7 +19,8 @@
         ],
         "matched": [
             "a6a57e36193cf3690c2fd7d54ef4498733513de7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FreeRDP/FreeRDP",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "ac7d23b9a30b626c1b9c18cfe040063b3afffb34"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FreeRDP/FreeRDP",
@@ -58,7 +60,8 @@
         ],
         "matched": [
             "f1d9faa7fc30ae42f722047550c489690ff87049"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FreeRDP/FreeRDP",
@@ -70,6 +73,7 @@
         "fix_commit_hash": "d2ba84a6885f57674098fe8e76c5f99d880e580d",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

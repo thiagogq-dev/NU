@@ -21,7 +21,8 @@
         ],
         "matched": [
             "a72576a1ba20041c85fc2d78c9108ec96031691d"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "getsentry/sentry",
@@ -39,7 +40,8 @@
         ],
         "matched": [
             "2ce7978b9cc81ca4c75b9286aa749b7e8e356191"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "getsentry/sentry",
@@ -58,6 +60,7 @@
         ],
         "matched": [
             "8075ed44bc19efb1234e2a1066b52caff1d583a2"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

@@ -24,7 +24,8 @@
         ],
         "matched": [
             "79d408f47274190519f169ef082790985a945d15"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "falcosecurity/falco",
@@ -42,6 +43,7 @@
         ],
         "matched": [
             "abc79fb548f9d925ffdeffe65f3bd32b79ab70f4"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

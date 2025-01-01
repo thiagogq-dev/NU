@@ -16,7 +16,8 @@
         ],
         "matched": [
             "871ceeb0fe219072ae708d4d4397e8ae66873386"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "godotengine/godot",
@@ -28,7 +29,8 @@
         "fix_commit_hash": "f42f6ed01cdebe145bf23716f80ee1ece64bc5a5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "godotengine/godot",
@@ -40,7 +42,8 @@
         "fix_commit_hash": "f42f6ed01cdebe145bf23716f80ee1ece64bc5a5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "godotengine/godot",
@@ -52,6 +55,7 @@
         "fix_commit_hash": "59ae3ea44fb205a6ba1ae1336833c9fbb186b1df",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

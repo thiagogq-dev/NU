@@ -15,7 +15,8 @@
         ],
         "matched": [
             "d195016836d800439ee74d76e00a945433545142"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "fluent/fluent-bit",
@@ -27,7 +28,8 @@
         "fix_commit_hash": "1f0918b2e195742f65c9592d9058884fd2dea203",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "fluent/fluent-bit",
@@ -39,7 +41,8 @@
         "fix_commit_hash": "617745113575b5ab8749ee28a89a352e2b8192f4",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "fluent/fluent-bit",
@@ -51,7 +54,8 @@
         "fix_commit_hash": "22346a74c07ceb90296be872be2d53eb92252a54",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "fluent/fluent-bit",
@@ -63,6 +67,7 @@
         "fix_commit_hash": "172f393e20dad1a69e9a79c3d6f8d4c78f921b2f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

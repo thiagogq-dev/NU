@@ -16,7 +16,8 @@
         ],
         "matched": [
             "2126d786f4649b67317558dee0ec6df7a932f596"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "flyteorg/flyteadmin",
@@ -28,6 +29,7 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     }
 ]
