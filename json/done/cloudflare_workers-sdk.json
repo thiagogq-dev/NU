@@ -19,7 +19,8 @@
         ],
         "matched": [
             "7fbe1937b311f36077c92814207bbb15ef3878d6"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "cloudflare/workers-sdk",
@@ -41,7 +42,8 @@
         ],
         "matched": [
             "7fbe1937b311f36077c92814207bbb15ef3878d6"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "cloudflare/workers-sdk",
@@ -60,7 +62,8 @@
         ],
         "matched": [
             "d99087433814e4f1fb98cd61b03b6e2f606b1a15"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "cloudflare/workers-sdk",
@@ -82,7 +85,8 @@
         ],
         "matched": [
             "6ccc4fa672204ec671a1c99db04b4acbd52d5f20"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "cloudflare/workers-sdk",
@@ -101,7 +105,8 @@
         ],
         "matched": [
             "d99087433814e4f1fb98cd61b03b6e2f606b1a15"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "cloudflare/workers-sdk",
@@ -121,6 +126,7 @@
         ],
         "matched": [
             "311ffbd5064f8301ac6f0311bbe5630897923b93"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
