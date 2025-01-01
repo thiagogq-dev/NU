@@ -20,7 +20,8 @@
         ],
         "matched": [
             "f8bfc6a16ffebf1ecb9cdf8eb1265912118ae7bf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "envoyproxy/envoy",
@@ -44,7 +45,8 @@
         ],
         "matched": [
             "8221eb993e7ab41e7dfd88e5f39c0e946fc3f87e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "envoyproxy/envoy",
@@ -63,7 +65,8 @@
         ],
         "matched": [
             "9270506f9f2b6786c21719bed3a97a6e0e71a760"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "envoyproxy/envoy",
@@ -88,7 +91,8 @@
         ],
         "matched": [
             "13cfaf40ebda10bdbe67079b3820e11cbe684e13"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "envoyproxy/envoy",
@@ -111,6 +115,7 @@
         ],
         "matched": [
             "bfec1286b63dfb4c54409f5a6f65876385c5d750"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
