@@ -15,7 +15,8 @@
         ],
         "matched": [
             "b9c495302067d721fefd6157efb103c7efcd2489"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "brave/brave-core",
@@ -27,7 +28,8 @@
         "fix_commit_hash": "12fe321eaad8acc1cbd1d70b4128f687777bcf15",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "brave/brave-core",
@@ -39,7 +41,8 @@
         "fix_commit_hash": "0c2580eb783836e4b52c781dcca36b024f76a626",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "brave/brave-core",
@@ -51,7 +54,8 @@
         "fix_commit_hash": "38b8fc1879bb66d946ae78aa16972eb903a4a925",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "brave/brave-core",
@@ -63,7 +67,8 @@
         "fix_commit_hash": "e73309665508c17e48a67e302d3ab02a38d3ef50",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "brave/brave-core",
@@ -75,7 +80,8 @@
         "fix_commit_hash": "7ef8cb2f232abdf59ec9c3c99a086a14b972bc56",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "brave/brave-core",
@@ -87,7 +93,8 @@
         "fix_commit_hash": "50ca5d23cd817aa49e9a275509edeae2443e3c41",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "brave/brave-core",
@@ -99,6 +106,7 @@
         "fix_commit_hash": "ddf273963a14dbe7e72a51f65a4755604a3942cb",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
