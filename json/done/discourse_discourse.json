@@ -17,7 +17,8 @@
         ],
         "matched": [
             "bb3fb37650e05b5087f5630a1ac0f50068b6d8c2"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -35,7 +36,8 @@
         ],
         "matched": [
             "5fc5a7f5ae8c3cf1a89c1a685258e9e942de1508"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -54,7 +56,8 @@
         ],
         "matched": [
             "f331b5eab28be2654db7b8f99ea105b0b58c6a0f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -73,7 +76,8 @@
         ],
         "matched": [
             "f8ded9cec9255a297d988b821dc596e133d86d78"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -92,7 +96,8 @@
         ],
         "matched": [
             "53abcd825d2abbd2065796c974314f0952b26041"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -115,7 +120,8 @@
         ],
         "matched": [
             "26ec4fd25b4d8a7622beb1c361bc4debc5c9eff2"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -148,7 +154,8 @@
         ],
         "matched": [
             "36e0e6a322aaf768ac79c539d85f202de01fd231"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -167,7 +174,8 @@
         ],
         "matched": [
             "7c4e2d33fa4b922354c177ffc880a2f2701a91f9"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -188,7 +196,8 @@
         ],
         "matched": [
             "01bc465db819d5ba0e433a8226c80a9bd38b593d"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -210,7 +219,8 @@
         ],
         "matched": [
             "e51de4cc25757cc03d960eb8ff3393217c706468"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -229,7 +239,8 @@
         ],
         "matched": [
             "5a4c35f62714d2d72bc0ee57a10e08116bdc476a"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -247,7 +258,8 @@
         ],
         "matched": [
             "20740f196cd56f3db776e6439e00b7466f76dcd1"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -298,7 +310,8 @@
         ],
         "matched": [
             "d600c36036c5c3b53787067682128ae2d86311bf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -317,7 +330,8 @@
         ],
         "matched": [
             "0f688f45bddaac17b2840ab9eed6b2dec2a7f9cf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -335,7 +349,8 @@
         ],
         "matched": [
             "a9613163b54ae5729765a7e3d4ccc23563202cb7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -351,7 +366,8 @@
         ],
         "matched": [
             "5a003715d366e1d871f9fcb0656dc9e23e9c2259"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -369,7 +385,8 @@
         ],
         "matched": [
             "254f48e5681a8674e7c8a4e1b1a0fe7a501f237e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -385,7 +402,8 @@
         ],
         "matched": [
             "5a003715d366e1d871f9fcb0656dc9e23e9c2259"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -404,7 +422,8 @@
         ],
         "matched": [
             "e3c724f79fb05c66e3240cb8fd85b24ce8725ca3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -424,7 +443,8 @@
         ],
         "matched": [
             "13c2a4886f60fba8c92ee8e002c7244887a21677"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -444,7 +464,8 @@
         ],
         "matched": [
             "13c2a4886f60fba8c92ee8e002c7244887a21677"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -474,7 +495,8 @@
         ],
         "matched": [
             "8626268366117cb94aa606949ea52f84eadd5887"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -504,7 +526,8 @@
         ],
         "matched": [
             "8626268366117cb94aa606949ea52f84eadd5887"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -522,7 +545,8 @@
         ],
         "matched": [
             "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -540,7 +564,8 @@
         ],
         "matched": [
             "a373bf2a01488c206e7feb28a9d2361b22ce6e70"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "discourse/discourse",
@@ -552,6 +577,7 @@
         "fix_commit_hash": "ae6a9079436fb9b20fd051d25fb6d8027f0ec59a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
