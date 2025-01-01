@@ -15,7 +15,8 @@
         ],
         "matched": [
             "03dcffebd8edabf32ec0f8f9e02b7d206d7d7541"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "firecracker-microvm/firecracker",
@@ -27,6 +28,7 @@
         "fix_commit_hash": "98426d92f1efe2f8bd13d5bdcf08cb6bf80a2364",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
