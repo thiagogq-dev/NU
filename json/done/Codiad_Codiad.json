@@ -16,7 +16,8 @@
         ],
         "matched": [
             "a4bcfdfc3952a6f2ea1a78638e349243678d1f70"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Codiad/Codiad",
@@ -28,6 +29,7 @@
         "fix_commit_hash": "8ff257e508b06097af979d9250b94aa0757bc517",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
