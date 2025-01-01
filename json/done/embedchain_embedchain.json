@@ -16,7 +16,8 @@
         ],
         "matched": [
             "5255a37c93c49531f5c8f4398dd43a3a2cf41e8c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "embedchain/embedchain",
@@ -35,6 +36,7 @@
         ],
         "matched": [
             "5255a37c93c49531f5c8f4398dd43a3a2cf41e8c"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

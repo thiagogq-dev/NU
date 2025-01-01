@@ -19,7 +19,8 @@
         ],
         "matched": [
             "1a9094756a798e81397b97b0af4ca5f931a1cfdd"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gitpod-io/gitpod",
@@ -42,7 +43,8 @@
         ],
         "matched": [
             "448ab8c7831b9a76a1732c4f7bc5dec96145344e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gitpod-io/gitpod",
@@ -60,7 +62,8 @@
         ],
         "matched": [
             "81c98f8f54040e4c25b7cecf5b8623abc94d4a7c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gitpod-io/gitpod",
@@ -72,7 +75,8 @@
         "fix_commit_hash": "8ca431f86ae3a6f9a17afcfed51cdd065fcff1a5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gitpod-io/gitpod",
@@ -84,7 +88,8 @@
         "fix_commit_hash": "5651cfcbc94b6361eec6438bd8e272e264d98587",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gitpod-io/gitpod",
@@ -96,6 +101,7 @@
         "fix_commit_hash": "8ca431f86ae3a6f9a17afcfed51cdd065fcff1a5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

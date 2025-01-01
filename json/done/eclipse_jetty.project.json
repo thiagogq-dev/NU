@@ -21,7 +21,8 @@
         ],
         "matched": [
             "eef2481b59294b5783f3c4a3ea24f3262252c294"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -55,7 +56,8 @@
         ],
         "matched": [
             "36ef97535303c06eabe7c5fa09dbe2f19a956695"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -98,7 +100,8 @@
         ],
         "matched": [
             "fea8bb794dd85605b2c429ef41a505cc39361dc5"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -117,7 +120,8 @@
         ],
         "matched": [
             "73a89427b1cf1a390bbb76bf94c937a2e71b9a45"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -136,7 +140,8 @@
         ],
         "matched": [
             "73a89427b1cf1a390bbb76bf94c937a2e71b9a45"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -162,7 +167,8 @@
         ],
         "matched": [
             "58c230e26c7c226738b93ba3cdc508d7db05b507"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -174,7 +180,8 @@
         "fix_commit_hash": "c3021592218da289563987e6f7fbe05f8704b285",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -186,7 +193,8 @@
         "fix_commit_hash": "622befbd0d52f61c1acd41b4ef12458311494f1a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -198,7 +206,8 @@
         "fix_commit_hash": "a8c9eea75bffcb2b2557acefb75856707654a56f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse/jetty.project",
@@ -210,6 +219,7 @@
         "fix_commit_hash": "5f48b4170f36b275e1576548b44bd5009feba669",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

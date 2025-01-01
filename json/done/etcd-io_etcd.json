@@ -9,7 +9,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "etcd-io/etcd",
@@ -21,7 +22,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "etcd-io/etcd",
@@ -33,7 +35,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "etcd-io/etcd",
@@ -45,7 +48,8 @@
         "fix_commit_hash": "37220a97dcfb3e75a98b6c756778bc6fcaa03563",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "etcd-io/etcd",
@@ -57,6 +61,7 @@
         "fix_commit_hash": "49b59cc8e5c838bdc5e661de6388a0e348b3985c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

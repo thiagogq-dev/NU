@@ -13,7 +13,8 @@
         ],
         "matched": [
             "9f8d192991c4f68fa14c91366722bbca601da117"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ethereum/go-ethereum",
@@ -33,7 +34,8 @@
         ],
         "matched": [
             "3b00a77de57ab2737a7887521c192ce004c721e3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ethereum/go-ethereum",
@@ -49,7 +51,8 @@
         ],
         "matched": [
             "2ed729d38e90154d1f23ebdf5a9f2808212276d8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ethereum/go-ethereum",
@@ -67,7 +70,8 @@
         ],
         "matched": [
             "3501163d4f297346d937a1a4b6d968d79aa484c8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ethereum/go-ethereum",
@@ -88,6 +92,7 @@
         ],
         "matched": [
             "691cb90284b9b63dc9c80bf0716ba35036ca78fe"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

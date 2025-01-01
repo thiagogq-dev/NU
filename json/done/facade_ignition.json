@@ -16,7 +16,8 @@
         ],
         "matched": [
             "02a6e4e23838c76951e1459fe587028162f602b8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "facade/ignition",
@@ -28,6 +29,7 @@
         "fix_commit_hash": "03a8aa13945fcce963cd12a05ba5a2ef26c335d5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

@@ -15,7 +15,8 @@
         ],
         "matched": [
             "3c04b731b55c8fe8e08ff4aa2dbb8ae2577e318e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "glpi-project/glpi",
@@ -33,7 +34,8 @@
         ],
         "matched": [
             "aba5c9eb387c2e94895a38a0e4b1e598fce771b0"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "glpi-project/glpi",
@@ -52,6 +54,7 @@
         ],
         "matched": [
             "b8578c21db0e09729535707768ff12deb2360a88"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
