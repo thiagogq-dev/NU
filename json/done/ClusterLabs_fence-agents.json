@@ -9,7 +9,8 @@
         "fix_commit_hash": "68dee49024b799be9e9efedf6b29ab1d57471f1b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ClusterLabs/fence-agents",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "e462fa591f488d9a8d789121538476ed9d6d3fea",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
