@@ -18,7 +18,8 @@
         ],
         "matched": [
             "a90d29700d855505489c4ab533aa70dbf1b1aee3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dutchcoders/transfer.sh",
@@ -39,7 +40,8 @@
         ],
         "matched": [
             "a90d29700d855505489c4ab533aa70dbf1b1aee3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dutchcoders/transfer.sh",
@@ -51,6 +53,7 @@
         "fix_commit_hash": "31ad4e01e158497519f8680c187e1ceb8594c59d",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
