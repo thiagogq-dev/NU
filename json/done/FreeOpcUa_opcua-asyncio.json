@@ -15,7 +15,8 @@
         ],
         "matched": [
             "756616dafade3851dbc12e220632eda142033585"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "FreeOpcUa/opcua-asyncio",
@@ -38,6 +39,7 @@
         ],
         "matched": [
             "cee4d4b8a248bac81fbfdaf55ccf991adda065aa"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
