@@ -18,7 +18,8 @@
         ],
         "matched": [
             "c3e88495a289f7e49e84676ab97681acf1671ef8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "DMTF/libspdm",
@@ -30,7 +31,8 @@
         "fix_commit_hash": "3167bcaba6a4d8662e13741c0f06699def0ff635",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "DMTF/libspdm",
@@ -42,6 +44,7 @@
         "fix_commit_hash": "4f86fb082324d5777b7dd98ff1ff683d423b000a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
