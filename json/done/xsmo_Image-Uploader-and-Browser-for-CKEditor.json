@@ -1,0 +1,26 @@
+[
+    {
+        "repo_name": "xsmo/Image-Uploader-and-Browser-for-CKEditor",
+        "CVE_ID": "CVE-2019-19502",
+        "Problem_Type": "CWE-94",
+        "Description": "Code injection in pluginconfig.php in Image Uploader and Browser for CKEditor before 4.1.9 allows remote authenticated users to execute arbitrary PHP code.",
+        "URL": "https://github.com/xsmo/Image-Uploader-and-Browser-for-CKEditor/pull/11/commits/5c7a6b0e10504f08e2f50655541b767e276ce749",
+        "Tag": "['Patch']",
+        "fix_commit_hash": "5c7a6b0e10504f08e2f50655541b767e276ce749",
+        "inducing_commit_hash_pyszz": [
+            "f6f93b77f3a15b3418d05eac17cd35aedec0fee0"
+        ],
+        "inducing_commit_hash_pd": [
+            "f8e3c363c4532da69f7187883ebb8f7b0e245f18",
+            "302eb3f1586ea813aac0b57772db6760206dedfc",
+            "f6f93b77f3a15b3418d05eac17cd35aedec0fee0",
+            "226a80620c930e132996345592a88bcd888e38f5",
+            "6c146c3df9186d717a3c54ef7342d90b65bcbd31",
+            "2f529473150f8bf11dfd565843525a0ec72b5968"
+        ],
+        "matched": [
+            "f6f93b77f3a15b3418d05eac17cd35aedec0fee0"
+        ],
+        "pr_status": "merged"
+    }
+]

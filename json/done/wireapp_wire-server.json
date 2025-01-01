@@ -1,0 +1,25 @@
+[
+    {
+        "repo_name": "wireapp/wire-server",
+        "CVE_ID": "CVE-2023-22737",
+        "Problem_Type": "CWE-280",
+        "Description": "wire-server provides back end services for Wire, a team communication and collaboration platform. Prior to version 2022-12-09, every member of a Conversation can remove a Bot from a Conversation due to a missing permissions check. Only Conversation admins should be able to remove Bots. Regular Conversations are not allowed to do so. The issue is fixed in wire-server 2022-12-09 and is already deployed on all Wire managed services. On-premise instances of wire-server need to be updated to 2022-12-09/Chart 4.29.0, so that their backends are no longer affected. There are no known workarounds.",
+        "URL": "https://github.com/wireapp/wire-server/pull/2870",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": "74f86a6b75737878c4fb0bd03a80f75438d47d85",
+        "inducing_commit_hash_pyszz": [
+            "c829a7d3e5224371097e70b51e33a99ff17ee045"
+        ],
+        "inducing_commit_hash_pd": [
+            "c4c9ea298ad8db2dac8b931f6f7a3178c7f2e626",
+            "d780bcc229a0405a7c5f5c0439e37c19ed96b03b",
+            "488f8b5e1baf6b3625750ebc2b02d68b8ce301f8",
+            "bc3cf4ae446688ee81de136107e2031b2a347322",
+            "57c9190c299988015741e4172e9955f6b7116887"
+        ],
+        "matched": [
+            "c829a7d3e5224371097e70b51e33a99ff17ee045"
+        ],
+        "pr_status": "merged"
+    }
+]
