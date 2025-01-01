@@ -9,7 +9,8 @@
         "fix_commit_hash": "6a3bd901d825c7206797e36ea98e10a218f5aad2",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "COVESA/dlt-daemon",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "b6149e203f919c899fefc702a17fbb78bdec3700",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
