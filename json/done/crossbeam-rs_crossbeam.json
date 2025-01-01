@@ -9,7 +9,8 @@
         "fix_commit_hash": "772b4f34eb574ab6ae058bd068545dc739196f6b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "crossbeam-rs/crossbeam",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "924436cc71b5d7245631a0cf4f02ff536630a1fd",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
