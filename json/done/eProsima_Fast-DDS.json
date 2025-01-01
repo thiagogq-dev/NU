@@ -13,6 +13,7 @@
         "inducing_commit_hash_pd": [],
         "matched": [
             "f9d722f13fbddaeaf3d4b94acfb6ba2c179318a1"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
