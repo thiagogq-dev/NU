@@ -17,7 +17,8 @@
         ],
         "matched": [
             "28479f743a9d0aab6d0e963fc07f3dd98e8c8236"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dropwizard/dropwizard",
@@ -37,7 +38,8 @@
         ],
         "matched": [
             "d87d1e4f8e20f6494c0232bf8560c961b46db634"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dropwizard/dropwizard",
@@ -56,7 +58,8 @@
         ],
         "matched": [
             "babd4660e6ddc18a24bbcf0294161e24a1e1aecb"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dropwizard/dropwizard",
@@ -77,6 +80,7 @@
         ],
         "matched": [
             "1bb0cfa5c856bcc7be24c7f7a8ce68b8388af8ea"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
