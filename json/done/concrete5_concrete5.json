@@ -9,7 +9,8 @@
         "fix_commit_hash": "fc234f94e178f17c796a7fd8a61af171e4bcd256",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "concrete5/concrete5",
@@ -21,7 +22,8 @@
         "fix_commit_hash": "d296f4ba4f6ad94b199c21c1b16f0d185adab343",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "concrete5/concrete5",
@@ -33,6 +35,7 @@
         "fix_commit_hash": "9c3e000327801c84c0656c56b38a9915d036244b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
