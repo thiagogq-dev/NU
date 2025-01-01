@@ -16,7 +16,8 @@
         ],
         "matched": [
             "bc4d46a362497fbf4c021804502cbff7602cc81c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "856cbfa675c413e4572b9741ada3078374992484"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -54,7 +56,8 @@
         ],
         "matched": [
             "1e7229c45f877cc63f947e07b86008b6226ecad4"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -66,7 +69,8 @@
         "fix_commit_hash": "c3a8454fb95135a776397912a577359abbe28136",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -78,7 +82,8 @@
         "fix_commit_hash": "4a12dcef54d4c8831622a84a9c7dbac3fec0b992",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -90,7 +95,8 @@
         "fix_commit_hash": "63b2f1d403418768012343e64261303030b48849",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -102,7 +108,8 @@
         "fix_commit_hash": "c3a8454fb95135a776397912a577359abbe28136",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -114,7 +121,8 @@
         "fix_commit_hash": "4a12dcef54d4c8831622a84a9c7dbac3fec0b992",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -126,7 +134,8 @@
         "fix_commit_hash": "63b2f1d403418768012343e64261303030b48849",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -138,7 +147,8 @@
         "fix_commit_hash": "01f0c76e0dafc6f3937859b03da24748cbdf7b45",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -150,7 +160,8 @@
         "fix_commit_hash": "421f070e78ee1186e7f2f4b2575d8be1d3e2d646",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "frappe/frappe",
@@ -162,6 +173,7 @@
         "fix_commit_hash": "25764312be957721f7faf2f8a4b31a5c45ea8698",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
