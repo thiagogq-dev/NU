@@ -9,7 +9,8 @@
         "fix_commit_hash": "91187aef36363a870d60b0a3c1bf8507af34c9e4",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bolt/bolt",
@@ -21,7 +22,8 @@
         "fix_commit_hash": "45780faa7ee5263a5a5ca4cfe102830ef244b06a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bolt/bolt",
@@ -33,7 +35,8 @@
         "fix_commit_hash": "520c4578acfd0193b08cabd924598e6dd0edf98f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bolt/bolt",
@@ -45,7 +48,8 @@
         "fix_commit_hash": "1ef623734b555fc5dbcd6d735cf2ecf8b2d22cd1",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bolt/bolt",
@@ -57,7 +61,8 @@
         "fix_commit_hash": "b42cbfcf3e3108c46a80581216ba03ef449e419f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bolt/bolt",
@@ -69,6 +74,7 @@
         "fix_commit_hash": "b42cbfcf3e3108c46a80581216ba03ef449e419f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
