@@ -17,7 +17,8 @@
         ],
         "matched": [
             "e9e31e9fd11070d04cec5e37fd47c3c145bb82df"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "8456c544d8a4cf9d1cf78cc7a8757dd35eed314c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -50,7 +52,8 @@
         "fix_commit_hash": "6ebdbf0675844918623e5a878b910fea38ee88de",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -62,7 +65,8 @@
         "fix_commit_hash": "5884a12d7d71c5bce0d97b1a387aeb7928189b04",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -74,7 +78,8 @@
         "fix_commit_hash": "5884a12d7d71c5bce0d97b1a387aeb7928189b04",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -86,7 +91,8 @@
         "fix_commit_hash": "ea66afaa5777193494331d78d2570f954507ba92",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -98,7 +104,8 @@
         "fix_commit_hash": "35e5ac8aa760a424276ac4b1279a0f2649f47985",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -110,7 +117,8 @@
         "fix_commit_hash": "3f9a601e2de998a79cbe3320aaa5dfbbaec1678c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -122,7 +130,8 @@
         "fix_commit_hash": "48a3799e2d2c52e91cb7153b163bb26dfd9a4b4f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -134,7 +143,8 @@
         "fix_commit_hash": "307385a27a413dd51aabea0a39792776be840059",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -146,7 +156,8 @@
         "fix_commit_hash": "ebd4cae4458b30f7897083182fda35f180809c57",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -158,7 +169,8 @@
         "fix_commit_hash": "aa6e26f430f3beaa3ce6b8290d4b19f73343e11f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -170,7 +182,8 @@
         "fix_commit_hash": "587ae59956e00316fd44fd7072ac3a6a07b4b20f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -182,7 +195,8 @@
         "fix_commit_hash": "ae1218f4c607ef22a43f457677c63e7e9c2b5a88",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -194,7 +208,8 @@
         "fix_commit_hash": "e58b5838e4691f18e5838347bbc20da6893d355c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -206,7 +221,8 @@
         "fix_commit_hash": "4fffab0e632c4d01910fa957d1fd9ef321eb87d2",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -218,7 +234,8 @@
         "fix_commit_hash": "80a5479e9c880b38ec0f1bdb937d17c6fb4ccb25",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -230,7 +247,8 @@
         "fix_commit_hash": "80a5479e9c880b38ec0f1bdb937d17c6fb4ccb25",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -242,7 +260,8 @@
         "fix_commit_hash": "3216ebf59e698b6dc71d0ba3e8052d5d5e09d2bd",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -254,7 +273,8 @@
         "fix_commit_hash": "77898af8488c063a84d6b8338b24fdd4812b9e66",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -266,7 +286,8 @@
         "fix_commit_hash": "506f9def7cdff853fa24cf6d88e1f4e5619dc46c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -278,7 +299,8 @@
         "fix_commit_hash": "210c39de20cd2fe396e135850556be5c46e0c96d",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -290,7 +312,8 @@
         "fix_commit_hash": "6e21dd2955642818a31f5f32c7ae2f78c7f9dd0a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -302,7 +325,8 @@
         "fix_commit_hash": "df3be4f37103ad2b0f140be7fe440ab567483c4c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -314,7 +338,8 @@
         "fix_commit_hash": "28e5490d7c0c844279cf2ff72d792c672f586b58",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "contiki-ng/contiki-ng",
@@ -326,6 +351,7 @@
         "fix_commit_hash": "ed514cc8832203c974a947921be46cfffc802a55",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
