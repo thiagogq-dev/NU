@@ -15,7 +15,8 @@
         ],
         "matched": [
             "e0c928aabe97822bddb3da3624ab09e272c46488"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ericcornelissen/shescape",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "10e1d0f64f38f97dac07d9a5ef1bd394393ed4b8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ericcornelissen/shescape",
@@ -58,7 +60,8 @@
         ],
         "matched": [
             "ccbb6c9dea5ea706fff7dac765f9004924399145"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ericcornelissen/shescape",
@@ -79,7 +82,8 @@
         ],
         "matched": [
             "3f81f7f406748582660deaf0edde77d240f44ce2"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ericcornelissen/shescape",
@@ -118,7 +122,8 @@
         ],
         "matched": [
             "cf0a910e82bff1afec300416c756f3ddb8c7efa3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ericcornelissen/shescape",
@@ -138,7 +143,8 @@
         ],
         "matched": [
             "a0fe8af4dd5632d019bf56e4fd8936c3a6e0efb4"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ericcornelissen/shescape",
@@ -178,6 +184,7 @@
         ],
         "matched": [
             "df9bfdeb1b7ee557ae98bf377ffd9e09b87fc2f2"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
