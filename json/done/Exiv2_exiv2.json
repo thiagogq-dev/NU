@@ -15,7 +15,8 @@
         ],
         "matched": [
             "a6a1c311404534d8ff54327972f13ce4d718e0a0"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -33,7 +34,8 @@
         ],
         "matched": [
             "b3d077dcaefb6747fff8204490f33eba5a144edb"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -52,7 +54,8 @@
         ],
         "matched": [
             "00a3ef321b16882f1f6d424a10a753d2712334dd"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -68,7 +71,8 @@
         ],
         "matched": [
             "d393b0fa7e3bad7e8837a3b3f8a9f46bf79a5399"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -86,7 +90,8 @@
         ],
         "matched": [
             "85cc2f745de635c45f846c7afe2578592310f2d2"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -104,7 +109,8 @@
         ],
         "matched": [
             "b3f107bd8ce7ae5790a327580f0a8b2c749855ef"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -124,7 +130,8 @@
         ],
         "matched": [
             "f4d3adbf91e6dc4e34aee5bac7b7fd9e127a5c00"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -143,7 +150,8 @@
         ],
         "matched": [
             "e118d145150649f79bd9e60807ec7c48b8cd433d"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -155,7 +163,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -167,7 +176,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -179,7 +189,8 @@
         "fix_commit_hash": "b7c71f3ad0386cd7af3b73443c0615ada073f0d5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -191,7 +202,8 @@
         "fix_commit_hash": "b7c71f3ad0386cd7af3b73443c0615ada073f0d5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -203,7 +215,8 @@
         "fix_commit_hash": "6fa2e31206127bd8bcac0269311f3775a8d6ea21",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -215,7 +228,8 @@
         "fix_commit_hash": "6a44698abcf44cc858832643366e25cd16b573b2",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -227,7 +241,8 @@
         "fix_commit_hash": "0230620e6ea5e2da0911318e07ce6e66d1ebdf22",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -239,7 +254,8 @@
         "fix_commit_hash": "f6ee71526eef5649a529ac6da3f2843e3b63e227",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -251,7 +267,8 @@
         "fix_commit_hash": "8c53e4687b19b1951b6860bdc89962d420b1b624",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -263,7 +280,8 @@
         "fix_commit_hash": "17f0d759662aa88343b6084e8c97d67ef363a030",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -275,7 +293,8 @@
         "fix_commit_hash": "c4861fe77c4a2611c03c7e5b70f41c0cf77f67ad",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -287,7 +306,8 @@
         "fix_commit_hash": "75a1832c57de18ef67c1e8b48f098393a7a843e1",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -299,7 +319,8 @@
         "fix_commit_hash": "75a1832c57de18ef67c1e8b48f098393a7a843e1",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -311,7 +332,8 @@
         "fix_commit_hash": "0fcdde80997913dde284ea98f06f9305d06cb160",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -323,7 +345,8 @@
         "fix_commit_hash": "21c9eb30c06fb7a29a4e0ec8fae23ccdc622e34f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -335,7 +358,8 @@
         "fix_commit_hash": "1c919daba049c717485aa3d8c0dcf07ce30566e0",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -347,7 +371,8 @@
         "fix_commit_hash": "e931c0a11b972e9e39468f4c945d708b6c59d139",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Exiv2/exiv2",
@@ -359,6 +384,7 @@
         "fix_commit_hash": "de6b706cfdc6816fe291c45f8364ad856c17b63e",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
