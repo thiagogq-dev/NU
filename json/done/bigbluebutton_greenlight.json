@@ -15,7 +15,8 @@
         ],
         "matched": [
             "8b2c47253659cf348b04840cea67857978af64cb"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bigbluebutton/greenlight",
@@ -33,7 +34,8 @@
         ],
         "matched": [
             "005c738e4d774e71b5692926663bd5ab893e4749"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "bigbluebutton/greenlight",
@@ -51,6 +53,7 @@
         ],
         "matched": [
             "09de6b6739dbc3e5fd7190d556a1c2f1bf5c3809"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
