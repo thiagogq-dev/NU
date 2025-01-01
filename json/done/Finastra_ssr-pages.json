@@ -13,7 +13,8 @@
         ],
         "matched": [
             "7005b5ce44548f54853aa266e71318b8016fa12f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Finastra/ssr-pages",
@@ -25,7 +26,8 @@
         "fix_commit_hash": "133606ffaec2edd9918d9fba5771ed21da7876a5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Finastra/ssr-pages",
@@ -37,7 +39,8 @@
         "fix_commit_hash": "2a5fccbfc522b201dab3d5c104d5d7ef54d592b3",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "Finastra/ssr-pages",
@@ -49,6 +52,7 @@
         "fix_commit_hash": "28c9b105be3fddc50ccbcd408d395231b147f438",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
