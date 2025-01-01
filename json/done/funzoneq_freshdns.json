@@ -17,7 +17,8 @@
         ],
         "matched": [
             "f284b860d89bf980d054e241a393bd76868887fd"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "funzoneq/freshdns",
@@ -29,6 +30,7 @@
         "fix_commit_hash": "bdeff81bd4baff9463d46b90fb1889e7ac7ec4ed",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
