@@ -15,7 +15,8 @@
         ],
         "matched": [
             "a953d3ad893a3ffe39edf2c8860498e7ad5e45f6"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "containous/traefik",
@@ -34,7 +35,8 @@
         ],
         "matched": [
             "b385ffaee7f0de1073955a123d8397853c563f0b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "containous/traefik",
@@ -52,6 +54,7 @@
         ],
         "matched": [
             "51486b18fa8f0e06f05c1d32f8272cc0dcdd6d38"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
