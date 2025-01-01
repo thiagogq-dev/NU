@@ -36,7 +36,8 @@
         ],
         "matched": [
             "a82abd28e31b02bcebded63bc769cc3a901d0bc7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "eclipse-pde/eclipse.pde",
@@ -90,6 +91,7 @@
         ],
         "matched": [
             "c8754be8f6e23e9c5aebf6bf11b59515e98d262d"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
