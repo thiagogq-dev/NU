@@ -9,7 +9,8 @@
         "fix_commit_hash": "c2356cc41260551073bfaa3a94d1ab074f554938",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "GENI-NSF/geni-portal",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "7be94e8564b7b6e5dfe88a0d67eaf6eead5ed62f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
