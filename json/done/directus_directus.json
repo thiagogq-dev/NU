@@ -18,7 +18,8 @@
         ],
         "matched": [
             "ec86d5412d45136915d9b622b4a890dd26932b10"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "directus/directus",
@@ -38,7 +39,8 @@
         ],
         "matched": [
             "b24b1dfc28ea393a95e218107f657fa4239b7fd0"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "directus/directus",
@@ -57,7 +59,8 @@
         ],
         "matched": [
             "e259fb496c77a4859fb1523e6e588d970b5ecc1f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "directus/directus",
@@ -83,7 +86,8 @@
         ],
         "matched": [
             "62a19b40d5894e937b1522693b789ac5bf5667a7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "directus/directus",
@@ -102,7 +106,8 @@
         ],
         "matched": [
             "b62456fca8b901eaf5a785706299463670288b48"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "directus/directus",
@@ -120,6 +125,7 @@
         ],
         "matched": [
             "9974cb6050b9c1242e88fd220ae82fe24a2730a5"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
