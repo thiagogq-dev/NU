@@ -9,7 +9,8 @@
         "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -21,7 +22,8 @@
         "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -33,7 +35,8 @@
         "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -45,7 +48,8 @@
         "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -57,7 +61,8 @@
         "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -69,7 +74,8 @@
         "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -81,7 +87,8 @@
         "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -93,7 +100,8 @@
         "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -105,7 +113,8 @@
         "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -117,7 +126,8 @@
         "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -129,7 +139,8 @@
         "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -141,7 +152,8 @@
         "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -153,7 +165,8 @@
         "fix_commit_hash": "06bce92760e1f55a539e2496858678e043714d3b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "dotCMS/core",
@@ -165,6 +178,7 @@
         "fix_commit_hash": "f4603408a7972ce219c84e62e5bbb4911a879a85",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
