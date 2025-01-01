@@ -20,7 +20,8 @@
         ],
         "matched": [
             "d046926d89f75ef28d4b72f885f386091708a1ea"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "BuilderIO/qwik",
@@ -38,6 +39,7 @@
         ],
         "matched": [
             "f00017ae38db5b7ac902c498610b35d5a2b0e1b9"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
