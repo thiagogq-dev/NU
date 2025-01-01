@@ -20,7 +20,8 @@
         ],
         "matched": [
             "206c9cd4bf9cbc96b812e81cdca1c16b4e7bc4c7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "cortexproject/cortex",
@@ -39,6 +40,7 @@
         ],
         "matched": [
             "04a6011b17def800bc6329d589c57d7a3599972b"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
