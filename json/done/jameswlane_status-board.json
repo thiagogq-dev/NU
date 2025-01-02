@@ -9,7 +9,8 @@
         "fix_commit_hash": "a02138ce8695b1fe0dbf4d9211fbedb1c3b77b0e",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "jameswlane/status-board",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "7d9795aecbecae2a100ed78ac09f25535e08d631",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
