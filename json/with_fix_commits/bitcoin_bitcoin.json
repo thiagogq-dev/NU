@@ -6,9 +6,6 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/bitcoin/bitcoin/pull/253",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": "c1266e5e13ca85c62f3d6ccad2b108499f2684ab"
     }
 ]
