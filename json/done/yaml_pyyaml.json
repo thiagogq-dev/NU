@@ -14,7 +14,8 @@
         ],
         "matched": [
             "2c225b29fc6daeb343b65d0ca30ba1c7ad297c77"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "yaml/pyyaml",
@@ -30,6 +31,7 @@
         ],
         "matched": [
             "2c225b29fc6daeb343b65d0ca30ba1c7ad297c77"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

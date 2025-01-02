@@ -9,7 +9,8 @@
         "fix_commit_hash": "d6ebd2d83244374025d48d03ebd9a8b2258725bf",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -21,7 +22,8 @@
         "fix_commit_hash": "a585e4115eded0ddcc0195b5b7b09de85bda8900",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -33,7 +35,8 @@
         "fix_commit_hash": "58f9b6ec01f0caf89e9e4d37a8816b310005aaf1",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -45,7 +48,8 @@
         "fix_commit_hash": "f6d79ff598f5a007f2455d1c3f9e22c9e0875b5c",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -57,7 +61,8 @@
         "fix_commit_hash": "91a49da4b8e27be92c57aa9b3c8c3dfc7c5bf6db",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -69,7 +74,8 @@
         "fix_commit_hash": "5f1ce09dce32366b4475c4d44f51e9dccbb41115",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -81,7 +87,8 @@
         "fix_commit_hash": "3cb0c600ba849e482ac52c3bf9f39c2c822c2f61",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -93,7 +100,8 @@
         "fix_commit_hash": "385e0bedaac935a1fc86766fbb2fcc47c9b82386",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -105,7 +113,8 @@
         "fix_commit_hash": "b9d9dc02bb64993e0bd53e2ce66ce3c8d280b787",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -117,7 +126,8 @@
         "fix_commit_hash": "098edc2845d52893b6fcfc1924af49946edfc4cf",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -129,7 +139,8 @@
         "fix_commit_hash": "67b2a1be4027bc1d09baff6e93562c61a44998ab",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolfSSL/wolfssl",
@@ -141,6 +152,7 @@
         "fix_commit_hash": "63bf5dc56ccbfc12a73b06327361687091a4c6f7",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

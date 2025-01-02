@@ -9,7 +9,8 @@
         "fix_commit_hash": "40d87189e2e33431a515d9327819f5410d7eb5dd",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "wolkykim/qdecoder",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "40d87189e2e33431a515d9327819f5410d7eb5dd",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

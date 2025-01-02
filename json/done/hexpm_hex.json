@@ -25,7 +25,8 @@
         ],
         "matched": [
             "fcda85c7d220d87c0efef41be4f9cf5f797ae35e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hexpm/hex",
@@ -44,6 +45,7 @@
         ],
         "matched": [
             "548ca8741bd8bf012296c0a3a04cd7a27ad8a32a"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
