@@ -6,9 +6,6 @@
         "terms_vulnerability": "cwe",
         "url": "https://github.com/hakimel/reveal.js/pull/442",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     }
 ]
