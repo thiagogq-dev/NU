@@ -6,10 +6,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/54053",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -18,10 +15,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/53352",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -30,10 +24,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/52740",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -42,10 +33,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/51514",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -54,10 +42,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/45259",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -66,10 +51,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/44936",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -78,10 +60,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/44862",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -90,10 +69,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/32137",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -102,10 +78,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/32073",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -114,10 +87,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/31998",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -126,10 +96,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/31807",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -138,10 +105,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/31594",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -150,10 +114,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/31250",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -162,10 +123,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/31191",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -174,10 +132,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/31023",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -186,10 +141,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/30688",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -198,10 +150,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/30164",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -210,10 +159,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/29319",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -222,10 +168,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/16811",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -234,10 +177,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/14861",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -246,10 +186,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/14208",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -258,10 +195,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/13573",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -270,10 +204,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/13181",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -282,10 +213,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/12729",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -294,10 +222,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/12043",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -306,10 +231,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/12006",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -318,10 +240,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/11687",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -330,10 +249,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/10986",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -342,10 +258,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/10605",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -354,10 +267,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/9923",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -366,10 +276,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/4886",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -378,10 +285,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/37785",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -390,10 +294,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/32324",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -402,10 +303,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/elastic/elasticsearch/pull/80231",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": "e5dbddc7639d7cea2c08372bb2146ec13a08b700"
     },
     {
         "repo_name": "elastic/elasticsearch",
@@ -414,9 +312,6 @@
         "terms_vulnerability": "vulner",
         "url": "https://github.com/elastic/elasticsearch/pull/46170",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": "0bf128913d01f5d2c663e2aaae41ccd884e5920a"
     }
 ]
