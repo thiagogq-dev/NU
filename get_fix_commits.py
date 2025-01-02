@@ -27,7 +27,7 @@ with open(json_file) as f:
     for entry in data:
         read += 1
         print(f"Read {read}/{length}")
-        url = entry["URL"]
+        url = entry["url"]
        
         owner, repo = entry["repo_name"].split("/")
         repo_path = f"repos_dir/{owner}/{repo}"
