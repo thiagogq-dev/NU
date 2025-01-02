@@ -6,10 +6,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/angular/angular.js/pull/7311",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "angular/angular.js",
@@ -18,9 +15,6 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/angular/angular.js/pull/4850",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     }
 ]
