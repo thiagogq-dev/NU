@@ -15,7 +15,8 @@
         ],
         "matched": [
             "d3c7152528ccf7e88749da9de2dcce367e31753f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -34,7 +35,8 @@
         ],
         "matched": [
             "436e295dd983826d180cf311789d272ed517df80"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -52,7 +54,8 @@
         ],
         "matched": [
             "82ca811661cf029d895f5ab274617f9632debf4c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -70,7 +73,8 @@
         ],
         "matched": [
             "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -88,7 +92,8 @@
         ],
         "matched": [
             "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -106,7 +111,8 @@
         ],
         "matched": [
             "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -124,7 +130,8 @@
         ],
         "matched": [
             "6aed72e487b5c3a8ccb5ecadab558567e16fee9c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -142,7 +149,8 @@
         ],
         "matched": [
             "6aed72e487b5c3a8ccb5ecadab558567e16fee9c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -160,7 +168,8 @@
         ],
         "matched": [
             "6aed72e487b5c3a8ccb5ecadab558567e16fee9c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -178,7 +187,8 @@
         ],
         "matched": [
             "1c047c9bef4da06b2a4b714b33b028511b27a114"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -194,7 +204,8 @@
         ],
         "matched": [
             "f81dee0b2b87fc91f5e5555ca194404922383b52"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -210,7 +221,8 @@
         ],
         "matched": [
             "f81dee0b2b87fc91f5e5555ca194404922383b52"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -226,7 +238,8 @@
         ],
         "matched": [
             "f81dee0b2b87fc91f5e5555ca194404922383b52"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -244,7 +257,8 @@
         ],
         "matched": [
             "7ed83ded6d6d12b91ee2a16d9980d912eb6eb4e1"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -262,7 +276,8 @@
         ],
         "matched": [
             "665d195f3ae0e156b32a86c6e5aedd8b3fd3d64d"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -280,7 +295,8 @@
         ],
         "matched": [
             "665d195f3ae0e156b32a86c6e5aedd8b3fd3d64d"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -298,7 +314,8 @@
         ],
         "matched": [
             "c5d74eccdaa3e069e858c1cb87412697bc5d8e65"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -316,7 +333,8 @@
         ],
         "matched": [
             "297ac3765f6c8ab7ee3cf7524c7064b6c8e30fdf"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -328,7 +346,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -340,7 +359,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -356,7 +376,8 @@
         ],
         "matched": [
             "1475402d416800c4be265e2e8fde1786f7238ee3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -376,7 +397,8 @@
         ],
         "matched": [
             "2b2eb9bb07c418f6853a8000da749b39a871f34b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -392,7 +414,8 @@
         ],
         "matched": [
             "1475402d416800c4be265e2e8fde1786f7238ee3"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -411,7 +434,8 @@
         ],
         "matched": [
             "7a3e29af06e152b3e96da374aaa36fd5daa151ed"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -427,7 +451,8 @@
         "inducing_commit_hash_pd": [],
         "matched": [
             "42a91f4c070b1d1cf8df303aac833ef27b664e3f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -443,7 +468,8 @@
         "inducing_commit_hash_pd": [],
         "matched": [
             "42a91f4c070b1d1cf8df303aac833ef27b664e3f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -459,7 +485,8 @@
         "inducing_commit_hash_pd": [],
         "matched": [
             "42a91f4c070b1d1cf8df303aac833ef27b664e3f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -475,7 +502,8 @@
         "inducing_commit_hash_pd": [],
         "matched": [
             "42a91f4c070b1d1cf8df303aac833ef27b664e3f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -493,7 +521,8 @@
         ],
         "matched": [
             "705515c0925851e4c0b81cfda06ac957df575c03"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -513,7 +542,8 @@
         ],
         "matched": [
             "2b2eb9bb07c418f6853a8000da749b39a871f34b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -531,7 +561,8 @@
         ],
         "matched": [
             "705515c0925851e4c0b81cfda06ac957df575c03"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -550,7 +581,8 @@
         ],
         "matched": [
             "4cd9ba7813f8cdac3c6fe8d3cdeaac279f9a6f64"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -562,7 +594,8 @@
         "fix_commit_hash": "105849cf38bf8e1ac9e2bcdca559f5da1b4c0034",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -574,7 +607,8 @@
         "fix_commit_hash": "afb307d3ff994714b929542cfdc4836dc51f49ff",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -586,7 +620,8 @@
         "fix_commit_hash": "d59ad8170884c0cedfc3555d9551aa8d2a7d2ac8",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -598,7 +633,8 @@
         "fix_commit_hash": "61fc061fc43bbe9a113974bc5beaf63ab8093310",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -610,7 +646,8 @@
         "fix_commit_hash": "8c49afac8d5efa5a5519d1e102c92c120441b8a5",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -622,7 +659,8 @@
         "fix_commit_hash": "7722736184fc4d96e11f656d59eac82e6f71f5da",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -634,7 +672,8 @@
         "fix_commit_hash": "aa9248f5b7912c1c934365b890ed5fbb8c84ebe3",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -646,7 +685,8 @@
         "fix_commit_hash": "b173c177db7fd69bf658aeceaa9f2b7e0d4b7895",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -658,7 +698,8 @@
         "fix_commit_hash": "2649e4c0bef3582ad4146109d315088b838d092f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -670,7 +711,8 @@
         "fix_commit_hash": "f032de6cc8969922d504176a7bd35ce30c95f996",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -682,7 +724,8 @@
         "fix_commit_hash": "b173c177db7fd69bf658aeceaa9f2b7e0d4b7895",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -694,7 +737,8 @@
         "fix_commit_hash": "8289dc75dda522b459418ec93f8a91012fdeddb9",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -706,7 +750,8 @@
         "fix_commit_hash": "23ace0e55681c02a81fb6b891f832aa356c85aab",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -718,7 +763,8 @@
         "fix_commit_hash": "d4f1e731307fda42d8bf7f79ab001abd94dee52b",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -730,7 +776,8 @@
         "fix_commit_hash": "d6d42bef9770a218985700fd430ce5fac6cea36e",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -742,7 +789,8 @@
         "fix_commit_hash": "4b2fc256cfe46f831da3bb8176a849645713dcee",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -754,7 +802,8 @@
         "fix_commit_hash": "b173c177db7fd69bf658aeceaa9f2b7e0d4b7895",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -766,7 +815,8 @@
         "fix_commit_hash": "dae2e71c581b89dfd783e998bcdc64553bc2aa39",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "zephyrproject-rtos/zephyr",
@@ -778,6 +828,7 @@
         "fix_commit_hash": "d6d42bef9770a218985700fd430ce5fac6cea36e",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

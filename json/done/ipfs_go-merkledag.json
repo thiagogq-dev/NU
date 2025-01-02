@@ -15,7 +15,8 @@
         ],
         "matched": [
             "0e4726d152e088749e0ef7404f44a4217f6f9d92"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ipfs/go-merkledag",
@@ -40,7 +41,8 @@
         ],
         "matched": [
             "8b2b3965db21bb5f8f0e577d109472c3c1cab276"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "ipfs/go-merkledag",
@@ -58,6 +60,7 @@
         ],
         "matched": [
             "8335efd4765ed5a512baa7e522c3552d067cf966"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
