@@ -16,7 +16,8 @@
         ],
         "matched": [
             "fa1d4d74b0084965a15589f8e17e62daab740962"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gophish/gophish",
@@ -34,6 +35,7 @@
         ],
         "matched": [
             "aa8c770e7303af495e75d47fa0076460760acafc"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
