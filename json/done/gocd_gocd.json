@@ -15,7 +15,8 @@
         ],
         "matched": [
             "0a9c553e7a504ebdd9cec90df95c2f5bd96fd14f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gocd/gocd",
@@ -31,7 +32,8 @@
         ],
         "matched": [
             "73768b398d8796a71aea9ce046af3085f002af83"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gocd/gocd",
@@ -43,7 +45,8 @@
         "fix_commit_hash": "717819c9cf416d8e34cf29bd569b7b040d8bf4c4",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gocd/gocd",
@@ -55,6 +58,7 @@
         "fix_commit_hash": "3da524e56bd301e8a5f066afff37b03c4dd3773e",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
