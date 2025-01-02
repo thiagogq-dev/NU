@@ -15,7 +15,8 @@
         ],
         "matched": [
             "6b0cc5a567c5a3e5f2aa62e9ab3a0dacc464f388"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "icplayer/icplayer",
@@ -34,6 +35,7 @@
         ],
         "matched": [
             "bfe86f1faf9841e8a15eba5068119986cf88fded"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

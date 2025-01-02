@@ -21,7 +21,8 @@
         ],
         "matched": [
             "9bb239a01c9ddeff016ceab84b74bd934cbb753c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hashicorp/consul",
@@ -37,7 +38,8 @@
         "inducing_commit_hash_pd": [],
         "matched": [
             "6a52f9f9fb8306db5d0be5799a6cd8b5ce336e13"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hashicorp/consul",
@@ -73,7 +75,8 @@
         ],
         "matched": [
             "77f2e5461804acafed10806caffc22447853241f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hashicorp/consul",
@@ -92,7 +95,8 @@
         ],
         "matched": [
             "90040f8bffb311e6cd8599273e95b607175e311f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hashicorp/consul",
@@ -113,6 +117,7 @@
         ],
         "matched": [
             "a67d27c7564e450cd85af3e0e278a1a4c0822a79"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

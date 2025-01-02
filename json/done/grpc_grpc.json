@@ -46,7 +46,8 @@
         ],
         "matched": [
             "b64d623f24ef295c45d2082df9a18f264b3b6018"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grpc/grpc",
@@ -117,7 +118,8 @@
         ],
         "matched": [
             "2b83675cc8903a6bab0f7615760ac2e98e5f5a19"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grpc/grpc",
@@ -166,7 +168,8 @@
         ],
         "matched": [
             "b64d623f24ef295c45d2082df9a18f264b3b6018"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grpc/grpc",
@@ -188,7 +191,8 @@
         ],
         "matched": [
             "5850cba2957cc894477e735a74aa6c246b499ff4"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grpc/grpc",
@@ -200,7 +204,8 @@
         "fix_commit_hash": "5f13f4898612c136cff1f2d04a91c25b6d4b694a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grpc/grpc",
@@ -212,7 +217,8 @@
         "fix_commit_hash": "5f13f4898612c136cff1f2d04a91c25b6d4b694a",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grpc/grpc",
@@ -224,7 +230,8 @@
         "fix_commit_hash": "6544a2d5d9ecdb64214da1d228886a7d15bbf5c7",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grpc/grpc",
@@ -236,6 +243,7 @@
         "fix_commit_hash": "55a61e43b9abe9c95a6e401239bdd02a48deb587",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

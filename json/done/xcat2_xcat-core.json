@@ -16,7 +16,8 @@
         ],
         "matched": [
             "cb25622331e7831ef0f543cd392d21eeae61c43e"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "xcat2/xcat-core",
@@ -28,6 +29,7 @@
         "fix_commit_hash": "d58445a685159b5e59a4a8f07939f6326708b7fc",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

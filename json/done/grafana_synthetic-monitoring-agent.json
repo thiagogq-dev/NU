@@ -16,7 +16,8 @@
         ],
         "matched": [
             "2c8acbfa531311ffd9d9477926cfb6329e435bdc"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "grafana/synthetic-monitoring-agent",
@@ -34,6 +35,7 @@
         ],
         "matched": [
             "09a9b443ce1667b808df9488d8f6a925950a40ad"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]

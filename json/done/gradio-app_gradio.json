@@ -22,7 +22,8 @@
         ],
         "matched": [
             "778166501493eed81c6297089d566820fb6f202b"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gradio-app/gradio",
@@ -44,7 +45,8 @@
         ],
         "matched": [
             "e503ae0ecaf00388a810825c87376bf256a0e93c"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gradio-app/gradio",
@@ -56,6 +58,7 @@
         "fix_commit_hash": "80fea89117358ee105973453fdc402398ae20239",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

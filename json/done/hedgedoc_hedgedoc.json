@@ -16,7 +16,8 @@
         ],
         "matched": [
             "dcea082286ce5c41e50f70820c065c677a176fc7"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hedgedoc/hedgedoc",
@@ -28,7 +29,8 @@
         "fix_commit_hash": "1d082ae827512103abe6d36cbc2f69c51acecd68",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hedgedoc/hedgedoc",
@@ -40,7 +42,8 @@
         "fix_commit_hash": "fc1aec6cb4bf5d0078e50c006f5c7caea796384d",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hedgedoc/hedgedoc",
@@ -52,6 +55,7 @@
         "fix_commit_hash": "960f5c1b22233b0829f8b313e5592ebd59cd2593",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]

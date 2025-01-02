@@ -9,7 +9,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "hwchase17/langchain",
@@ -21,7 +22,8 @@
         "fix_commit_hash": null,
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "closed"
     },
     {
         "repo_name": "hwchase17/langchain",
@@ -42,7 +44,8 @@
         ],
         "matched": [
             "485ecc35805f9d8cf97ca32cdb751e862adad37f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "hwchase17/langchain",
@@ -63,6 +66,7 @@
         ],
         "matched": [
             "485ecc35805f9d8cf97ca32cdb751e862adad37f"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
