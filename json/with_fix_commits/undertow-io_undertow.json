@@ -6,10 +6,7 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/undertow-io/undertow/pull/163",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     },
     {
         "repo_name": "undertow-io/undertow",
@@ -18,9 +15,6 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/undertow-io/undertow/pull/34",
         "pr_status": "merged",
-        "fix_commit_hash": null,
-        "inducing_commit_hash_pyszz": [],
-        "inducing_commit_hash_pd": [],
-        "matched": []
+        "fix_commit_hash": null
     }
 ]
