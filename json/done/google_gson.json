@@ -9,7 +9,8 @@
         "fix_commit_hash": "e6fae590cf2a758c47cd5a17f9bf3780ce62c986",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "google/gson",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "e6fae590cf2a758c47cd5a17f9bf3780ce62c986",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
