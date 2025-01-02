@@ -9,7 +9,8 @@
         "fix_commit_hash": "ca965ecc81853bca7675261729143f54e5bf4cdd",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     },
     {
         "repo_name": "gitpython-developers/GitPython",
@@ -21,6 +22,7 @@
         "fix_commit_hash": "ef3192cc414f2fd9978908454f6fd95243784c7f",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
