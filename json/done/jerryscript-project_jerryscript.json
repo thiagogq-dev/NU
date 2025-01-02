@@ -15,7 +15,8 @@
         ],
         "matched": [
             "12211d8aaa76716370d0151c4fa9a15f866a5e3f"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "jerryscript-project/jerryscript",
@@ -33,7 +34,8 @@
         ],
         "matched": [
             "74781c28c28b2357459721cb89f39f6b6d04a7e8"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "jerryscript-project/jerryscript",
@@ -54,7 +56,8 @@
         ],
         "matched": [
             "91baa17c515cb379379458006b9d870d6f4250ee"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "jerryscript-project/jerryscript",
@@ -66,6 +69,7 @@
         "fix_commit_hash": "4912e3b739f4d00e51a46d883b020d2208be28a2",
         "inducing_commit_hash_pyszz": [],
         "inducing_commit_hash_pd": [],
-        "matched": []
+        "matched": [],
+        "pr_status": "merged"
     }
 ]
