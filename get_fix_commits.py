@@ -36,11 +36,11 @@ with open(json_file) as f:
     
         commits_data.append({
             "repo_name": entry["repo_name"],
-            "CVE_ID": entry["CVE_ID"],
-            "Problem_Type": entry["Problem_Type"],
-            "Description": entry["Description"],
-            "URL": entry["URL"],
-            "Tag": entry["Tag"],
+            "id": entry["id"],
+            "repo_id": entry["repo_id"],
+            "terms_vulnerability": entry["terms_vulnerability"],
+            "url": entry["url"],
+            "pr_status": entry["pr_status"],
             "fix_commit_hash": pr_commit_sha
         })
 
