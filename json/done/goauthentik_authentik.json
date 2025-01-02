@@ -13,7 +13,8 @@
         ],
         "matched": [
             "c7a2410b1d2d029b7d9870f30aee6cfe59e9f499"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "goauthentik/authentik",
@@ -29,7 +30,8 @@
         ],
         "matched": [
             "c7a2410b1d2d029b7d9870f30aee6cfe59e9f499"
-        ]
+        ],
+        "pr_status": "merged"
     },
     {
         "repo_name": "goauthentik/authentik",
@@ -45,6 +47,7 @@
         ],
         "matched": [
             "c7a2410b1d2d029b7d9870f30aee6cfe59e9f499"
-        ]
+        ],
+        "pr_status": "merged"
     }
 ]
