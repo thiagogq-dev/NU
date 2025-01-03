@@ -1,0 +1,21 @@
+[
+    {
+        "repo_name": "nodejs/node",
+        "id": "2560",
+        "repo_id": "94386",
+        "terms_vulnerability": "secur",
+        "url": "https://github.com/nodejs/node/pull/315",
+        "pr_status": "merged",
+        "fix_commit_hash": "5165d71048a0cc20c319fcd62ac4c50465ff0414",
+        "inducing_commit_hash_pyszz": [
+            "26dd9e15bb9e913af38473a74e2a1049c21df29b"
+        ],
+        "inducing_commit_hash_pd": [
+            "fb3a9cd0d8e8cf5f3120012a28643230b31c1f83",
+            "26dd9e15bb9e913af38473a74e2a1049c21df29b"
+        ],
+        "matched": [
+            "26dd9e15bb9e913af38473a74e2a1049c21df29b"
+        ]
+    }
+]
