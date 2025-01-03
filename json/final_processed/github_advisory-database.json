@@ -1,0 +1,28 @@
+[
+    {
+        "repo_name": "github/advisory-database",
+        "CVE_ID": "CVE-2023-43669",
+        "Problem_Type": "NVD-CWE-noinfo",
+        "Description": "The Tungstenite crate before 0.20.1 for Rust allows remote attackers to cause a denial of service (minutes of CPU consumption) via an excessive length of an HTTP header in a client handshake. The length affects both how many times a parse is attempted (e.g., thousands of times) and the average amount of data for each parse attempt (e.g., millions of bytes).",
+        "URL": "https://github.com/github/advisory-database/pull/2752",
+        "pr_status": "merged",
+        "Tag": "['Patch']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "908a5210ed90126f744452067295e9e17c4fcea2"
+        ],
+        "inducing_commit_hash_pd": [
+            "ebbd8c252d41770cc0ef5012e097b3679fe65b41",
+            "9e436f8f074d86918e8d45e325a6f1d27184c0b6",
+            "e251cf57b54f31730df3b102b539cc54502555e4",
+            "293f47f73d8abad5769f6067b9f1cd950cc702c8",
+            "28c2abe653f6ff975f17c187998ddd3891beecbd",
+            "908a5210ed90126f744452067295e9e17c4fcea2",
+            "a1b9b96ae48a0f37e24b00cc3040d6958282a2f8",
+            "6ca402be1ff4e15de0e535020b2c68f93d071a7a"
+        ],
+        "matched": [
+            "908a5210ed90126f744452067295e9e17c4fcea2"
+        ]
+    }
+]
