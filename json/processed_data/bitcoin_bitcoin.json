@@ -1,0 +1,1 @@
+[{"repo_name": "bitcoin/bitcoin", "id": "2025", "repo_id": "1968", "terms_vulnerability": "secur", "url": "https://github.com/bitcoin/bitcoin/pull/253", "pr_status": "merged", "fix_commit_hash": "7337b343cdc73bff7d3125d56e00189cd93c9148", "inducing_commit_hash_pyszz": []}]
