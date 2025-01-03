@@ -1,1 +1,0 @@
-[{"repo_name": "django/django", "id": "2106", "repo_id": "93947", "terms_vulnerability": "secur", "url": "https://github.com/django/django/pull/5029", "pr_status": "merged", "fix_commit_hash": "8a5eadd140a5f06d24e1c5bc0c444ce11be0769a", "inducing_commit_hash_pyszz": ["a92e7f37c4ae84b6b8d8016cc6783211e9047219"]}]
