@@ -1,1 +1,0 @@
-[{"repo_name": "ytdl-org/youtube-dl", "id": "2107", "repo_id": "93944", "terms_vulnerability": "vulner", "url": "https://github.com/ytdl-org/youtube-dl/pull/2956", "pr_status": "merged", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["30e986b83493f68bd4c2405b5f4d801891c9bdde"]}]
