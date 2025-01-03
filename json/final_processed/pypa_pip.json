@@ -1,0 +1,27 @@
+[
+    {
+        "repo_name": "pypa/pip",
+        "CVE_ID": "CVE-2013-1888",
+        "Problem_Type": "CWE-59",
+        "Description": "pip before 1.3 allows local users to overwrite arbitrary files via a symlink attack on a file in the /tmp/pip-build temporary directory.",
+        "URL": "https://github.com/pypa/pip/pull/734/files",
+        "pr_status": "merged",
+        "Tag": "['Patch', 'Third Party Advisory']",
+        "fix_commit_hash": null,
+        "inducing_commit_hash_pyszz": [
+            "a92f57c4f46df6dd32c05a38aa71018d555f9047"
+        ],
+        "inducing_commit_hash_pd": [
+            "de062879474904bb63809c507e9f22264c123797",
+            "f398363e5d435dd5013d9f1d57024d0b336fd8c2",
+            "a92f57c4f46df6dd32c05a38aa71018d555f9047",
+            "9dcdbb548fcf2e083e5ef20dfb52396c1b178e9b",
+            "946f95d17431f645da8e2e0bf4054a72db5be766",
+            "8f6b4c9b2d014b9a646585074612cecf51e1cc88",
+            "5167495eb729f2f01ae0c4961b40dc1ca52ff828"
+        ],
+        "matched": [
+            "a92f57c4f46df6dd32c05a38aa71018d555f9047"
+        ]
+    }
+]
