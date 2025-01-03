@@ -1,0 +1,1 @@
+[{"repo_name": "crate/crate", "id": "33", "repo_id": "81", "terms_vulnerability": "secur", "url": "https://github.com/crate/crate/pull/11842", "pr_status": "merged", "fix_commit_hash": null, "inducing_commit_hash_pyszz": ["3c42ab0cafb2e9b6a9655ec1429dbc8940d397a9"]}]
