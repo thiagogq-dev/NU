@@ -6,6 +6,6 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/h2database/h2database/pull/241",
         "pr_status": "merged",
-        "fix_commit_hash": null
+        "fix_commit_hash": "d4dcb65fe5e06bcf34af67de982a02c08a6754ab"
     }
 ]

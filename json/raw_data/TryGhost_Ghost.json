@@ -6,6 +6,6 @@
         "terms_vulnerability": "vulner",
         "url": "https://github.com/TryGhost/Ghost/pull/1729",
         "pr_status": "merged",
-        "fix_commit_hash": null
+        "fix_commit_hash": "f0b029100744a00f8ebb5772ddffb9c2acd20999"
     }
 ]

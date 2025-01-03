@@ -6,6 +6,6 @@
         "terms_vulnerability": "secur",
         "url": "https://github.com/django/django/pull/5029",
         "pr_status": "merged",
-        "fix_commit_hash": null
+        "fix_commit_hash": "8a5eadd140a5f06d24e1c5bc0c444ce11be0769a"
     }
 ]
